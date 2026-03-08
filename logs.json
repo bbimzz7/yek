@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-08T09:55:17.912Z",
+    "action": "delete",
+    "detail": "Key VH-0E4D0F-DEBA7F-02E383 dihapus"
+  },
+  {
     "ts": "2026-03-08T09:55:08.216Z",
     "action": "extend",
     "detail": "Key VH-0E4D0F-DEBA7F-02E383 diperpanjang 7 hari"
