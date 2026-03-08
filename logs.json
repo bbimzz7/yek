@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-08T14:50:56.156Z",
+    "action": "resethwid",
+    "detail": "HWID key VH-F78B66-C7EA7E-6F15A1 direset"
+  },
+  {
     "ts": "2026-03-08T14:39:54.398Z",
     "action": "delete",
     "detail": "Key VH-B010E8-9BC7F8-C42C75 dihapus"
