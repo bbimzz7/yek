@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-08T12:07:10.029Z",
+    "action": "delete",
+    "detail": "Key VH-8DD9D3-C76483-4FF51D dihapus"
+  },
+  {
     "ts": "2026-03-08T12:07:08.487Z",
     "action": "delete",
     "detail": "Key VH-1933ED-42CA05-2F076F dihapus"
