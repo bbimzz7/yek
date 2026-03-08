@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-08T09:47:43.548Z",
+    "action": "delete",
+    "detail": "Key VH-1CE16D-DED54F-6C7123 dihapus"
+  },
+  {
     "ts": "2026-03-08T09:40:15.446Z",
     "action": "genkey",
     "detail": "1 key dibuat, expire 1 hari"
