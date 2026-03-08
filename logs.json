@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-08T12:36:20.543Z",
+    "action": "delete",
+    "detail": "Key VH-24E408-0CE117-9819B4 dihapus"
+  },
+  {
     "ts": "2026-03-08T12:24:06.773Z",
     "action": "saveconfig",
     "detail": "maxPerDay=0, maxTotal=0"
