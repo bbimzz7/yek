@@ -15,9 +15,10 @@
   },
   "VH-F78B66-C7EA7E-6F15A1": {
     "expires": "2026-03-09T14:49:51.950Z",
-    "hwid": "secured",
+    "hwid": null,
     "username": null,
     "userId": null,
-    "createdAt": "2026-03-08T14:49:51.950Z"
+    "createdAt": "2026-03-08T14:49:51.950Z",
+    "boundAt": null
   }
 }
