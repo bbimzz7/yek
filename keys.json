@@ -8,9 +8,10 @@
   },
   "VH-97223C-FA73C1-25CB0A": {
     "expires": "2026-03-09T15:37:20.271Z",
-    "hwid": "undefined",
+    "hwid": null,
     "username": null,
     "userId": null,
-    "createdAt": "2026-03-08T15:37:20.355Z"
+    "createdAt": "2026-03-08T15:37:20.355Z",
+    "boundAt": null
   }
 }
