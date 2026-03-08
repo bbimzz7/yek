@@ -6,7 +6,8 @@
   },
   "VH-9CF09F-205225-20D90B": {
     "expires": "2026-03-09T09:29:20.681Z",
-    "hwid": "WEB-6E5LFP-M7OUFI",
-    "createdAt": "2026-03-08T09:29:20.681Z"
+    "hwid": null,
+    "createdAt": "2026-03-08T09:29:20.681Z",
+    "boundAt": null
   }
 }
