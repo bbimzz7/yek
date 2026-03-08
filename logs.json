@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-08T15:03:27.138Z",
+    "action": "resethwid",
+    "detail": "HWID key VH-CBCE91-1C6B7D-A0C201 direset"
+  },
+  {
     "ts": "2026-03-08T15:03:22.203Z",
     "action": "resethwid",
     "detail": "HWID key VH-C0B9A2-99CF45-0D5CFD direset"
