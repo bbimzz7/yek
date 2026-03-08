@@ -11,13 +11,6 @@
     "userId": null,
     "createdAt": "2026-03-08T11:48:53.123Z"
   },
-  "VH-1933ED-42CA05-2F076F": {
-    "expires": "2026-03-09T11:52:27.955Z",
-    "hwid": "test999",
-    "username": "TestUser",
-    "userId": "12345",
-    "createdAt": "2026-03-08T11:52:27.955Z"
-  },
   "VH-8DD9D3-C76483-4FF51D": {
     "expires": "2026-03-09T11:54:53.070Z",
     "hwid": "test99",
