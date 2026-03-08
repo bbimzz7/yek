@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-08T09:40:06.083Z",
+    "action": "delete",
+    "detail": "Key VH-9CF09F-205225-20D90B dihapus"
+  },
+  {
     "ts": "2026-03-08T09:40:04.273Z",
     "action": "resethwid",
     "detail": "HWID key VH-9CF09F-205225-20D90B direset"
