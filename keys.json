@@ -27,5 +27,12 @@
     "username": "TestUser",
     "userId": "12345",
     "createdAt": "2026-03-08T11:52:27.955Z"
+  },
+  "VH-8DD9D3-C76483-4FF51D": {
+    "expires": "2026-03-09T11:54:53.070Z",
+    "hwid": "test99",
+    "username": "TestUser",
+    "userId": "12345",
+    "createdAt": "2026-03-08T11:54:53.071Z"
   }
 }
