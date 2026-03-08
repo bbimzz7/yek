@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-08T13:48:49.102Z",
+    "action": "genkey",
+    "detail": "1 key, 1 hari"
+  },
+  {
     "ts": "2026-03-08T13:45:29.618Z",
     "action": "delete",
     "detail": "Key VH-0E42C9-57C6CE-45F9BC dihapus"
