@@ -19,5 +19,12 @@
     "username": null,
     "userId": null,
     "createdAt": "2026-03-08T14:54:47.759Z"
+  },
+  "VH-C0B9A2-99CF45-0D5CFD": {
+    "expires": "2026-03-09T15:03:06.553Z",
+    "hwid": "undefined",
+    "username": null,
+    "userId": null,
+    "createdAt": "2026-03-08T15:03:06.747Z"
   }
 }
