@@ -28,5 +28,15 @@
     "source": "browser",
     "createdAt": "2026-03-09T22:12:40.738Z",
     "lastUsed": null
+  },
+  "VH-75E4B4-52CD3C-17219F": {
+    "expires": "2026-03-10T22:17:31.930Z",
+    "hwid": "8839066952-518cd4a5-2ae5-4e9b-b21d-b40b11dbbb5c",
+    "browserHwid": null,
+    "username": "rul_katanya",
+    "userId": "8839066952",
+    "source": "script",
+    "createdAt": "2026-03-09T22:17:32.095Z",
+    "lastUsed": null
   }
 }
