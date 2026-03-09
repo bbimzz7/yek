@@ -338,5 +338,14 @@
     "userId": "9439740680",
     "createdAt": "2026-03-09T16:15:40.866Z",
     "lastUsed": "2026-03-09T18:53:19.389Z"
+  },
+  "VH-5C757D-36BC63-43FD68": {
+    "expires": "2026-03-10T20:15:11.179Z",
+    "hwid": "BR-2C1E5E5C-R1C50",
+    "username": "elBara2200",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-09T20:15:11.482Z",
+    "lastUsed": null
   }
 }
