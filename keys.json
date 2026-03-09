@@ -361,5 +361,15 @@
     "source": "script",
     "createdAt": "2026-03-09T21:19:23.399Z",
     "lastUsed": "2026-03-09T21:19:41.052Z"
+  },
+  "VH-FE4D79-1E722E-CE4F9C": {
+    "expires": "2026-03-10T21:33:34.867Z",
+    "hwid": "5392733334-be279a9e-1853-4a96-9a83-abb60b14cb7f",
+    "browserHwid": null,
+    "username": "MLBB_CEATORBES",
+    "userId": "5392733334",
+    "source": "script",
+    "createdAt": "2026-03-09T21:33:35.015Z",
+    "lastUsed": null
   }
 }
