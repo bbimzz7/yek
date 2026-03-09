@@ -354,11 +354,12 @@
   },
   "VH-C2446F-7AEC27-C71307": {
     "expires": "2026-03-10T21:15:39.291Z",
-    "hwid": null,
+    "hwid": "5392733334-be279a9e-1853-4a96-9a83-abb60b14cb7f",
     "username": "MLBB_CEATORBES",
-    "userId": null,
+    "userId": "5392733334",
     "source": "browser",
     "createdAt": "2026-03-09T21:15:39.450Z",
-    "lastUsed": null
+    "lastUsed": "2026-03-09T21:15:54.818Z",
+    "boundAt": "2026-03-09T21:15:54.818Z"
   }
 }
