@@ -361,5 +361,14 @@
     "createdAt": "2026-03-09T21:15:39.450Z",
     "lastUsed": "2026-03-09T21:15:54.818Z",
     "boundAt": "2026-03-09T21:15:54.818Z"
+  },
+  "VH-AE3154-FB2CA6-9463BA": {
+    "expires": "2026-03-10T21:16:42.605Z",
+    "hwid": null,
+    "username": "Jdjen",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-09T21:16:42.716Z",
+    "lastUsed": null
   }
 }
