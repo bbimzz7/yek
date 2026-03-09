@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-09T21:30:05.786Z",
+    "action": "delete",
+    "detail": "Key VH-3EA6D3-08D976-BC9C6F dihapus"
+  },
+  {
     "ts": "2026-03-09T21:29:57.512Z",
     "action": "blacklist",
     "detail": "HWID BR-64B54F54-O6VSP diblacklist — Ban (permanent)"
