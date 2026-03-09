@@ -351,5 +351,14 @@
     "source": "browser",
     "createdAt": "2026-03-09T20:16:26.903Z",
     "lastUsed": null
+  },
+  "VH-EDA935-E69616-381D74": {
+    "expires": "2026-03-10T21:14:43.999Z",
+    "hwid": "5392733334-be279a9e-1853-4a96-9a83-abb60b14cb7f",
+    "username": "MLBB_CEATORBES",
+    "userId": "5392733334",
+    "source": "script",
+    "createdAt": "2026-03-09T21:14:44.171Z",
+    "lastUsed": null
   }
 }
