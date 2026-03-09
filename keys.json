@@ -381,5 +381,15 @@
     "source": "browser",
     "createdAt": "2026-03-09T21:34:08.679Z",
     "lastUsed": null
+  },
+  "VH-DFB0C0-B08C5A-6BCD4A": {
+    "expires": "2026-03-10T21:35:41.247Z",
+    "hwid": "10284593601-be279a9e-1853-4a96-9a83-abb60b14cb7f",
+    "browserHwid": null,
+    "username": "batubara9191",
+    "userId": "10284593601",
+    "source": "script",
+    "createdAt": "2026-03-09T21:35:41.370Z",
+    "lastUsed": null
   }
 }
