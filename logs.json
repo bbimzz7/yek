@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-09T21:31:30.106Z",
+    "action": "unblacklist",
+    "detail": "HWID BR-64B54F54-O6VSP dihapus dari blacklist"
+  },
+  {
     "ts": "2026-03-09T21:30:18.815Z",
     "action": "delete",
     "detail": "Key VH-AE3154-FB2CA6-9463BA dihapus"
