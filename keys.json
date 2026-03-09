@@ -339,14 +339,5 @@
     "expires": "2026-03-10T17:11:09.889Z",
     "hwid": null,
     "createdAt": "2026-03-09T17:11:09.977Z"
-  },
-  "VH-E9AAD6-F7C76B-EBAE4C": {
-    "expires": "2026-03-10T18:24:03.175Z",
-    "hwid": "BR-64B54F54-CVLXP",
-    "username": "Rjrj",
-    "userId": null,
-    "source": "browser",
-    "createdAt": "2026-03-09T18:24:03.459Z",
-    "lastUsed": null
   }
 }
