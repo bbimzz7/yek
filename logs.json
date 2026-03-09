@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-09T21:31:36.441Z",
+    "action": "delete",
+    "detail": "Key VH-B055EE-3A1987-13AD4B dihapus"
+  },
+  {
     "ts": "2026-03-09T21:31:30.106Z",
     "action": "unblacklist",
     "detail": "HWID BR-64B54F54-O6VSP dihapus dari blacklist"
