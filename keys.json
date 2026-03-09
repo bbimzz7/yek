@@ -361,15 +361,5 @@
     "source": "script",
     "createdAt": "2026-03-09T21:19:23.399Z",
     "lastUsed": "2026-03-09T21:19:41.052Z"
-  },
-  "VH-B055EE-3A1987-13AD4B": {
-    "expires": "2026-03-10T21:28:45.578Z",
-    "hwid": null,
-    "browserHwid": "BR-64B54F54-O6VSP",
-    "username": "Iiff",
-    "userId": null,
-    "source": "browser",
-    "createdAt": "2026-03-09T21:28:45.846Z",
-    "lastUsed": null
   }
 }
