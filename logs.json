@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-09T18:39:22.009Z",
+    "action": "delete",
+    "detail": "Key VH-963077-AF353D-934862 dihapus"
+  },
+  {
     "ts": "2026-03-09T18:36:53.768Z",
     "action": "blacklist",
     "detail": "HWID 5392733334-be279a9e-1853-4a96-9a83-abb60b14cb7f diblacklist — Ban (1 hari)"
