@@ -361,5 +361,15 @@
     "source": "script",
     "createdAt": "2026-03-10T18:45:34.654Z",
     "lastUsed": "2026-03-10T18:45:40.659Z"
+  },
+  "VH-D1C3EE-600879-AF0C6D": {
+    "expires": "2026-03-11T22:29:19.562Z",
+    "hwid": "9439740680-05ccb1d8-e3aa-4180-99df-c63fbe4fc092",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-03-10T22:29:19.803Z",
+    "lastUsed": null
   }
 }
