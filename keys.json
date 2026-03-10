@@ -331,5 +331,15 @@
     "source": "script",
     "createdAt": "2026-03-10T15:52:22.676Z",
     "lastUsed": "2026-03-10T15:52:37.434Z"
+  },
+  "VH-E78868-20C85D-261BB5": {
+    "expires": "2026-03-11T16:08:34.216Z",
+    "hwid": "9413011563-3a4ffcae-f510-423e-a026-6c65685ffcd5",
+    "browserHwid": null,
+    "username": "ak37207",
+    "userId": "9413011563",
+    "source": "script",
+    "createdAt": "2026-03-10T16:08:34.554Z",
+    "lastUsed": null
   }
 }
