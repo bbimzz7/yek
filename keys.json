@@ -221,5 +221,15 @@
     "createdAt": "2026-03-10T09:36:52.255Z",
     "lastUsed": "2026-03-10T09:40:41.767Z",
     "boundAt": "2026-03-10T09:40:41.767Z"
+  },
+  "VH-9ADC0D-20C268-66594C": {
+    "expires": "2026-03-11T09:45:20.850Z",
+    "hwid": "1999229669-3e3cb3cd-d23e-4a8a-9aa2-c9c93ec93dca",
+    "browserHwid": null,
+    "username": "zaki123456t",
+    "userId": "1999229669",
+    "source": "script",
+    "createdAt": "2026-03-10T09:45:21.148Z",
+    "lastUsed": null
   }
 }
