@@ -351,5 +351,15 @@
     "source": "script",
     "createdAt": "2026-03-10T17:24:16.587Z",
     "lastUsed": "2026-03-10T17:48:55.117Z"
+  },
+  "VH-7F8C6D-513DBF-C287F0": {
+    "expires": "2026-03-11T18:45:34.369Z",
+    "hwid": "7234872082-41d76bd0-51b8-4ab6-8b2c-926001848558",
+    "browserHwid": null,
+    "username": "Nvrlte",
+    "userId": "7234872082",
+    "source": "script",
+    "createdAt": "2026-03-10T18:45:34.654Z",
+    "lastUsed": null
   }
 }
