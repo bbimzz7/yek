@@ -371,5 +371,15 @@
     "source": "script",
     "createdAt": "2026-03-10T22:29:19.803Z",
     "lastUsed": "2026-03-10T22:38:32.529Z"
+  },
+  "VH-A868BE-DCFC44-3E9265": {
+    "expires": "2026-03-11T22:58:50.560Z",
+    "hwid": "8839066952-518cd4a5-2ae5-4e9b-b21d-b40b11dbbb5c",
+    "browserHwid": null,
+    "username": "rul_katanya",
+    "userId": "8839066952",
+    "source": "script",
+    "createdAt": "2026-03-10T22:58:50.825Z",
+    "lastUsed": null
   }
 }
