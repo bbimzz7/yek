@@ -261,5 +261,15 @@
     "source": "script",
     "createdAt": "2026-03-10T10:23:19.941Z",
     "lastUsed": "2026-03-10T10:23:36.189Z"
+  },
+  "VH-877A85-7988D3-E0A1E4": {
+    "expires": "2026-03-11T10:47:21.383Z",
+    "hwid": "4524181004-94e068f1-bc81-48ec-b0cf-5357a2295228",
+    "browserHwid": null,
+    "username": "Mechiyya",
+    "userId": "4524181004",
+    "source": "script",
+    "createdAt": "2026-03-10T10:47:21.632Z",
+    "lastUsed": null
   }
 }
