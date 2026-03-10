@@ -210,5 +210,15 @@
     "source": "script",
     "createdAt": "2026-03-10T08:00:19.489Z",
     "lastUsed": "2026-03-10T08:02:37.265Z"
+  },
+  "VH-2081CC-F170F8-0CC6FE": {
+    "expires": "2026-03-11T09:36:51.990Z",
+    "hwid": null,
+    "browserHwid": "BR-3B6535C4-8RTTM",
+    "username": "zensscuyyy",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-10T09:36:52.255Z",
+    "lastUsed": null
   }
 }
