@@ -213,12 +213,13 @@
   },
   "VH-2081CC-F170F8-0CC6FE": {
     "expires": "2026-03-11T09:36:51.990Z",
-    "hwid": null,
+    "hwid": "5004961284-cd2cb489-4519-4fae-8d65-85f7704a45a4",
     "browserHwid": "BR-3B6535C4-8RTTM",
-    "username": "zensscuyyy",
-    "userId": null,
+    "username": "ZenssCuyyy",
+    "userId": "5004961284",
     "source": "browser",
     "createdAt": "2026-03-10T09:36:52.255Z",
-    "lastUsed": null
+    "lastUsed": "2026-03-10T09:40:41.767Z",
+    "boundAt": "2026-03-10T09:40:41.767Z"
   }
 }
