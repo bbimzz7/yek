@@ -22,13 +22,14 @@
   },
   "VH-8CB6DF-600FE3-B0E042": {
     "expires": "2026-03-10T22:12:40.463Z",
-    "hwid": null,
+    "hwid": "10169514440-f0a63d1f-91ea-4eb8-bb0d-ad8b828c9d1e",
     "browserHwid": "BR-3B6535C4-5D4R8",
     "username": "caellith_1",
-    "userId": null,
+    "userId": "10169514440",
     "source": "browser",
     "createdAt": "2026-03-09T22:12:40.738Z",
-    "lastUsed": null
+    "lastUsed": "2026-03-10T00:08:45.205Z",
+    "boundAt": "2026-03-10T00:08:45.205Z"
   },
   "VH-75E4B4-52CD3C-17219F": {
     "expires": "2026-03-10T22:17:31.930Z",
