@@ -291,5 +291,15 @@
     "source": "script",
     "createdAt": "2026-03-10T12:22:52.964Z",
     "lastUsed": "2026-03-10T12:23:33.210Z"
+  },
+  "VH-B18186-ABEA12-1FC876": {
+    "expires": "2026-03-11T12:57:51.176Z",
+    "hwid": "10394026016-9a712712-2ca7-4515-bbe4-6caa480a6429",
+    "browserHwid": null,
+    "username": "rapz_handshome",
+    "userId": "10394026016",
+    "source": "script",
+    "createdAt": "2026-03-10T12:57:51.452Z",
+    "lastUsed": null
   }
 }
