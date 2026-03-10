@@ -150,5 +150,15 @@
     "source": "script",
     "createdAt": "2026-03-10T02:39:10.705Z",
     "lastUsed": "2026-03-10T02:40:06.296Z"
+  },
+  "VH-17D0D6-F3F125-419B7D": {
+    "expires": "2026-03-11T02:46:21.249Z",
+    "hwid": "6179488854-fe7a363c-67b3-4908-9487-83f82fab5329",
+    "browserHwid": null,
+    "username": "ichikawa249",
+    "userId": "6179488854",
+    "source": "script",
+    "createdAt": "2026-03-10T02:46:21.483Z",
+    "lastUsed": null
   }
 }
