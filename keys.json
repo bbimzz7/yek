@@ -390,5 +390,15 @@
     "source": "script",
     "createdAt": "2026-03-11T01:32:26.791Z",
     "lastUsed": "2026-03-11T01:32:32.313Z"
+  },
+  "VH-535012-DFA2C8-8A410F": {
+    "expires": "2026-03-12T03:41:55.025Z",
+    "hwid": "5358171619-3d661541-550a-4a56-9419-0956759cc5d3",
+    "browserHwid": null,
+    "username": "cicognapd",
+    "userId": "5358171619",
+    "source": "script",
+    "createdAt": "2026-03-11T03:41:55.284Z",
+    "lastUsed": null
   }
 }
