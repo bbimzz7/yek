@@ -491,5 +491,15 @@
     "createdAt": "2026-03-11T13:03:17.814Z",
     "lastUsed": "2026-03-11T13:03:51.328Z",
     "boundAt": "2026-03-11T13:03:51.328Z"
+  },
+  "VH-255943-A3AB38-B5C7C0": {
+    "expires": "2026-03-12T13:26:25.607Z",
+    "hwid": "8865952580-242e8210-106f-4c56-9831-68ed64fff91b",
+    "browserHwid": null,
+    "username": "j4yzeen",
+    "userId": "8865952580",
+    "source": "script",
+    "createdAt": "2026-03-11T13:26:25.922Z",
+    "lastUsed": null
   }
 }
