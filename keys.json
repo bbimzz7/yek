@@ -511,5 +511,15 @@
     "source": "script",
     "createdAt": "2026-03-11T13:26:41.613Z",
     "lastUsed": "2026-03-11T13:29:57.201Z"
+  },
+  "VH-20A5CC-C18E2B-8C253C": {
+    "expires": "2026-03-12T14:39:50.481Z",
+    "hwid": "7534096364-5438bc63-9f94-46f6-9901-45c12a7f92ad",
+    "browserHwid": null,
+    "username": "alam9118",
+    "userId": "7534096364",
+    "source": "script",
+    "createdAt": "2026-03-11T14:39:50.798Z",
+    "lastUsed": null
   }
 }
