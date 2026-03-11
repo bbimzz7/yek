@@ -420,5 +420,15 @@
     "source": "script",
     "createdAt": "2026-03-11T04:21:09.903Z",
     "lastUsed": "2026-03-11T04:43:51.499Z"
+  },
+  "VH-BE93F2-179BB9-DA1414": {
+    "expires": "2026-03-12T04:55:36.595Z",
+    "hwid": "7922778239-6eaa79b5-c925-4d04-87d8-4407a3ab231e",
+    "browserHwid": null,
+    "username": "zukalv1",
+    "userId": "7922778239",
+    "source": "script",
+    "createdAt": "2026-03-11T04:55:36.827Z",
+    "lastUsed": null
   }
 }
