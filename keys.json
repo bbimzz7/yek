@@ -483,12 +483,13 @@
   },
   "VH-316BE4-5AD975-01CBB8": {
     "expires": "2026-03-12T13:03:17.128Z",
-    "hwid": null,
+    "hwid": "10485747913-26cb4568-3678-46ee-97b7-127c4acf22c2",
     "browserHwid": "BR-633631F6-ARAZQ",
     "username": "akungpending1",
-    "userId": null,
+    "userId": "10485747913",
     "source": "browser",
     "createdAt": "2026-03-11T13:03:17.814Z",
-    "lastUsed": null
+    "lastUsed": "2026-03-11T13:03:51.328Z",
+    "boundAt": "2026-03-11T13:03:51.328Z"
   }
 }
