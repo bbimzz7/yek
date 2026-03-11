@@ -470,5 +470,15 @@
     "source": "script",
     "createdAt": "2026-03-11T06:27:58.027Z",
     "lastUsed": "2026-03-11T06:28:14.371Z"
+  },
+  "VH-6D0143-D6189A-9E39C0": {
+    "expires": "2026-03-12T12:34:36.463Z",
+    "hwid": "10486123530-e15221c7-b4ff-40e2-878c-4a715e6b8d07",
+    "browserHwid": null,
+    "username": "SerigalaBadut",
+    "userId": "10486123530",
+    "source": "script",
+    "createdAt": "2026-03-11T12:34:36.748Z",
+    "lastUsed": null
   }
 }
