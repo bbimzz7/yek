@@ -571,5 +571,15 @@
     "source": "script",
     "createdAt": "2026-03-11T18:46:04.254Z",
     "lastUsed": "2026-03-11T19:30:33.476Z"
+  },
+  "VH-58A965-7C5209-CCC14C": {
+    "expires": "2026-03-12T19:32:12.219Z",
+    "hwid": "10137664385-c55550c3-5ae0-485b-8248-2d7a2531f2b8",
+    "browserHwid": null,
+    "username": "dynotgod",
+    "userId": "10137664385",
+    "source": "script",
+    "createdAt": "2026-03-11T19:32:12.569Z",
+    "lastUsed": null
   }
 }
