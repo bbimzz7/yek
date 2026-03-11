@@ -561,5 +561,15 @@
     "source": "script",
     "createdAt": "2026-03-11T18:19:00.147Z",
     "lastUsed": "2026-03-11T18:19:22.447Z"
+  },
+  "VH-0A41EA-1E87A1-CEE8A2": {
+    "expires": "2026-03-12T18:46:03.925Z",
+    "hwid": "8807402128-8287ab47-02cd-4523-a349-5a5e4c3010aa",
+    "browserHwid": null,
+    "username": "beat_box701",
+    "userId": "8807402128",
+    "source": "script",
+    "createdAt": "2026-03-11T18:46:04.254Z",
+    "lastUsed": null
   }
 }
