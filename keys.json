@@ -470,5 +470,15 @@
     "source": "script",
     "createdAt": "2026-03-11T06:14:40.793Z",
     "lastUsed": "2026-03-11T06:24:31.648Z"
+  },
+  "VH-BD01A7-1258D8-EF34A8": {
+    "expires": "2026-03-12T06:27:57.773Z",
+    "hwid": "4485721703-2d48c312-f351-4749-afa6-f8faac0230d1",
+    "browserHwid": null,
+    "username": "KeiKidsz",
+    "userId": "4485721703",
+    "source": "script",
+    "createdAt": "2026-03-11T06:27:58.027Z",
+    "lastUsed": null
   }
 }
