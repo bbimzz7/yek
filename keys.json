@@ -381,16 +381,5 @@
     "source": "script",
     "createdAt": "2026-03-10T22:58:50.825Z",
     "lastUsed": "2026-03-11T00:03:37.871Z"
-  },
-  "VH-C03673-FEB853-A75CBA": {
-    "expires": "2026-03-11T23:50:07.281Z",
-    "hwid": "BR-64B54F54-CVLXP",
-    "browserHwid": "BR-64B54F54-CVLXP",
-    "username": "Bikmzz",
-    "userId": null,
-    "source": "browser",
-    "createdAt": "2026-03-10T23:50:07.538Z",
-    "lastUsed": "2026-03-11T00:06:41.911Z",
-    "boundAt": "2026-03-11T00:06:31.547Z"
   }
 }
