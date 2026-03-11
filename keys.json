@@ -430,5 +430,15 @@
     "source": "script",
     "createdAt": "2026-03-11T04:55:36.827Z",
     "lastUsed": "2026-03-11T04:57:11.899Z"
+  },
+  "VH-543CD3-06334A-59EAC9": {
+    "expires": "2026-03-12T05:04:43.325Z",
+    "hwid": "10606384570-a5e01032-7640-4834-a30f-38b89fbc107a",
+    "browserHwid": null,
+    "username": "sakylider",
+    "userId": "10606384570",
+    "source": "script",
+    "createdAt": "2026-03-11T05:04:43.621Z",
+    "lastUsed": null
   }
 }
