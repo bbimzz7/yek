@@ -384,12 +384,13 @@
   },
   "VH-2297DA-BAD6F8-301147": {
     "expires": "2026-03-12T00:08:17.375Z",
-    "hwid": null,
+    "hwid": "BR-64B54F54-CVLXP",
     "browserHwid": "BR-64B54F54-CVLXP",
     "username": "Rr",
     "userId": null,
     "source": "browser",
     "createdAt": "2026-03-11T00:08:17.674Z",
-    "lastUsed": null
+    "lastUsed": "2026-03-11T00:08:25.174Z",
+    "boundAt": "2026-03-11T00:08:25.174Z"
   }
 }
