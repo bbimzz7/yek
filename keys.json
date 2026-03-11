@@ -400,5 +400,15 @@
     "source": "script",
     "createdAt": "2026-03-11T03:41:55.284Z",
     "lastUsed": "2026-03-11T03:42:18.779Z"
+  },
+  "VH-9FE746-583D92-70A894": {
+    "expires": "2026-03-12T04:17:24.472Z",
+    "hwid": null,
+    "browserHwid": "BR-64B54F54-O6VSP",
+    "username": "Dd",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-11T04:17:24.768Z",
+    "lastUsed": null
   }
 }
