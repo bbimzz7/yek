@@ -551,5 +551,15 @@
     "source": "script",
     "createdAt": "2026-03-11T16:44:37.086Z",
     "lastUsed": "2026-03-11T17:13:34.912Z"
+  },
+  "VH-455346-DE2374-5B0E43": {
+    "expires": "2026-03-12T18:18:59.915Z",
+    "hwid": "8285524536-6cfeed1f-3f70-4f85-880e-b38248da37a7",
+    "browserHwid": null,
+    "username": "RAFFYYY001",
+    "userId": "8285524536",
+    "source": "script",
+    "createdAt": "2026-03-11T18:19:00.147Z",
+    "lastUsed": null
   }
 }
