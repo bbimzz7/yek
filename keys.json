@@ -621,5 +621,15 @@
     "source": "script",
     "createdAt": "2026-03-11T23:23:09.236Z",
     "lastUsed": "2026-03-11T23:23:30.851Z"
+  },
+  "VH-D15BE2-CEDBD0-F70293": {
+    "expires": "2026-03-12T23:56:09.076Z",
+    "hwid": "9319892790-582a2588-c9b8-468b-b648-c0523c9f4afa",
+    "browserHwid": null,
+    "username": "Khazekiraa",
+    "userId": "9319892790",
+    "source": "script",
+    "createdAt": "2026-03-11T23:56:09.342Z",
+    "lastUsed": null
   }
 }
