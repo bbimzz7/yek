@@ -791,5 +791,15 @@
     "source": "script",
     "createdAt": "2026-03-12T19:55:10.074Z",
     "lastUsed": "2026-03-12T19:55:30.295Z"
+  },
+  "VH-6339F3-C135F4-AB0ED9": {
+    "expires": "2026-03-13T20:58:11.253Z",
+    "hwid": null,
+    "browserHwid": "BR-64B54F54-O6VSP",
+    "username": "Bsbshd",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-12T20:58:11.614Z",
+    "lastUsed": null
   }
 }
