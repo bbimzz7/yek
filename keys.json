@@ -791,5 +791,15 @@
     "source": "script",
     "createdAt": "2026-03-12T19:55:10.074Z",
     "lastUsed": "2026-03-12T19:55:30.295Z"
+  },
+  "VH-5F6CE2-A5914E-F67A62": {
+    "expires": "2026-03-13T20:59:26.779Z",
+    "hwid": "5392733334-be279a9e-1853-4a96-9a83-abb60b14cb7f",
+    "browserHwid": null,
+    "username": "MLBB_CEATORBES",
+    "userId": "5392733334",
+    "source": "script",
+    "createdAt": "2026-03-12T20:59:27.039Z",
+    "lastUsed": null
   }
 }
