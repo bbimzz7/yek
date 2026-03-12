@@ -681,5 +681,15 @@
     "source": "script",
     "createdAt": "2026-03-12T07:02:48.774Z",
     "lastUsed": "2026-03-12T07:03:03.259Z"
+  },
+  "VH-D1CCB1-47CE5C-895160": {
+    "expires": "2026-03-13T07:44:13.383Z",
+    "hwid": "9990762677-242e8210-106f-4c56-9831-68ed64fff91b",
+    "browserHwid": null,
+    "username": "agst1ann",
+    "userId": "9990762677",
+    "source": "script",
+    "createdAt": "2026-03-12T07:44:13.847Z",
+    "lastUsed": null
   }
 }
