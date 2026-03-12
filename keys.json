@@ -761,5 +761,15 @@
     "source": "script",
     "createdAt": "2026-03-12T17:40:36.775Z",
     "lastUsed": "2026-03-12T17:46:56.665Z"
+  },
+  "VH-92592D-B4E8F2-70D1A1": {
+    "expires": "2026-03-13T17:59:33.720Z",
+    "hwid": "671287124-2c59bf76-1cae-4fd7-a5ef-327adbeb164d",
+    "browserHwid": null,
+    "username": "cveriiaq",
+    "userId": "671287124",
+    "source": "script",
+    "createdAt": "2026-03-12T17:59:34.013Z",
+    "lastUsed": null
   }
 }
