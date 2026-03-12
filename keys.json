@@ -691,5 +691,15 @@
     "source": "script",
     "createdAt": "2026-03-12T07:44:13.847Z",
     "lastUsed": "2026-03-12T07:44:24.665Z"
+  },
+  "VH-0CD3D9-9D56B8-53AE99": {
+    "expires": "2026-03-13T08:42:37.678Z",
+    "hwid": "10606384570-a5e01032-7640-4834-a30f-38b89fbc107a",
+    "browserHwid": null,
+    "username": "sakylider",
+    "userId": "10606384570",
+    "source": "script",
+    "createdAt": "2026-03-12T08:42:37.966Z",
+    "lastUsed": null
   }
 }
