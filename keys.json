@@ -771,5 +771,15 @@
     "source": "script",
     "createdAt": "2026-03-12T17:59:34.013Z",
     "lastUsed": "2026-03-12T18:00:51.923Z"
+  },
+  "VH-57A8AC-7D4669-7F63D3": {
+    "expires": "2026-03-13T18:17:09.301Z",
+    "hwid": "10262079641-6a01e163-759e-44a6-acb4-a5ef68e866dc",
+    "browserHwid": null,
+    "username": "ponskiety",
+    "userId": "10262079641",
+    "source": "script",
+    "createdAt": "2026-03-12T18:17:09.644Z",
+    "lastUsed": null
   }
 }
