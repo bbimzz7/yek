@@ -831,5 +831,15 @@
     "source": "script",
     "createdAt": "2026-03-12T22:57:36.227Z",
     "lastUsed": "2026-03-12T22:57:46.922Z"
+  },
+  "VH-2BD2EC-72A627-8CD10E": {
+    "expires": "2026-03-14T01:01:27.306Z",
+    "hwid": "9251577250-b9e83fa8-2f81-41cb-b093-501d8ddf2720",
+    "browserHwid": null,
+    "username": "lyliarani",
+    "userId": "9251577250",
+    "source": "script",
+    "createdAt": "2026-03-13T01:01:27.536Z",
+    "lastUsed": null
   }
 }
