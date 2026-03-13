@@ -851,5 +851,15 @@
     "source": "script",
     "createdAt": "2026-03-13T01:03:07.921Z",
     "lastUsed": "2026-03-13T01:31:43.573Z"
+  },
+  "VH-174214-C4AFBE-F26511": {
+    "expires": "2026-03-14T03:03:00.487Z",
+    "hwid": "8807402128-8287ab47-02cd-4523-a349-5a5e4c3010aa",
+    "browserHwid": null,
+    "username": "beat_box701",
+    "userId": "8807402128",
+    "source": "script",
+    "createdAt": "2026-03-13T03:03:00.736Z",
+    "lastUsed": null
   }
 }
