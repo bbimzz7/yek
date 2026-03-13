@@ -841,5 +841,15 @@
     "source": "script",
     "createdAt": "2026-03-13T01:01:27.536Z",
     "lastUsed": "2026-03-13T01:01:44.336Z"
+  },
+  "VH-69CCC3-56C4CB-A0401C": {
+    "expires": "2026-03-14T01:03:07.787Z",
+    "hwid": "2591181671-7468ea72-8d97-416c-bb48-d3ed2281a52c",
+    "browserHwid": null,
+    "username": "Andrexnano",
+    "userId": "2591181671",
+    "source": "script",
+    "createdAt": "2026-03-13T01:03:07.921Z",
+    "lastUsed": null
   }
 }
