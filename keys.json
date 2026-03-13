@@ -861,5 +861,15 @@
     "source": "script",
     "createdAt": "2026-03-13T03:03:00.736Z",
     "lastUsed": "2026-03-13T03:03:15.439Z"
+  },
+  "VH-7E08B4-3A0A71-9CAABD": {
+    "expires": "2026-03-14T04:31:46.510Z",
+    "hwid": "5072129826-746c0e18-d496-4885-8749-be6a7c98e3c1",
+    "browserHwid": null,
+    "username": "Arif50005000",
+    "userId": "5072129826",
+    "source": "script",
+    "createdAt": "2026-03-13T04:31:46.741Z",
+    "lastUsed": null
   }
 }
