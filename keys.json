@@ -981,5 +981,15 @@
     "source": "script",
     "createdAt": "2026-03-13T17:58:35.788Z",
     "lastUsed": "2026-03-13T18:02:35.134Z"
+  },
+  "VH-535F72-25DA93-F6428E": {
+    "expires": "2026-03-14T18:19:50.356Z",
+    "hwid": "7234872082-41d76bd0-51b8-4ab6-8b2c-926001848558",
+    "browserHwid": null,
+    "username": "Nvrlte",
+    "userId": "7234872082",
+    "source": "script",
+    "createdAt": "2026-03-13T18:19:50.653Z",
+    "lastUsed": null
   }
 }
