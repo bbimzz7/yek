@@ -961,5 +961,15 @@
     "source": "script",
     "createdAt": "2026-03-13T17:43:27.941Z",
     "lastUsed": "2026-03-13T17:43:38.766Z"
+  },
+  "VH-E75135-19DABC-1A9DBD": {
+    "expires": "2026-03-14T17:50:02.516Z",
+    "hwid": "9471540025-2da03aac-b117-4c35-b363-b48ef39ea195",
+    "browserHwid": null,
+    "username": "Hyuse44",
+    "userId": "9471540025",
+    "source": "script",
+    "createdAt": "2026-03-13T17:50:02.791Z",
+    "lastUsed": null
   }
 }
