@@ -1102,5 +1102,15 @@
     "createdAt": "2026-03-14T10:25:12.381Z",
     "lastUsed": "2026-03-14T11:20:35.684Z",
     "boundAt": "2026-03-14T10:26:14.445Z"
+  },
+  "VH-565B3B-4253A3-D827B8": {
+    "expires": "2026-03-15T11:32:14.911Z",
+    "hwid": "8669905878-94e068f1-bc81-48ec-b0cf-5357a2295228",
+    "browserHwid": null,
+    "username": "piieuwww",
+    "userId": "8669905878",
+    "source": "script",
+    "createdAt": "2026-03-14T11:32:15.175Z",
+    "lastUsed": null
   }
 }
