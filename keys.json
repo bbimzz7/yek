@@ -1152,5 +1152,15 @@
     "source": "script",
     "createdAt": "2026-03-14T14:57:08.035Z",
     "lastUsed": "2026-03-14T14:57:19.928Z"
+  },
+  "VH-11AFF4-09214E-6875DA": {
+    "expires": "2026-03-15T15:40:44.359Z",
+    "hwid": "10657032416-05ccb1d8-e3aa-4180-99df-c63fbe4fc092",
+    "browserHwid": null,
+    "username": "aboutyouwhen",
+    "userId": "10657032416",
+    "source": "script",
+    "createdAt": "2026-03-14T15:40:44.609Z",
+    "lastUsed": null
   }
 }
