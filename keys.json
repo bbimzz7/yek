@@ -1091,5 +1091,15 @@
     "source": "script",
     "createdAt": "2026-03-14T10:10:57.508Z",
     "lastUsed": "2026-03-14T10:11:19.876Z"
+  },
+  "VH-5FDCFE-420D22-92502C": {
+    "expires": "2026-03-15T10:25:12.043Z",
+    "hwid": null,
+    "browserHwid": "BR-08A28B17-K3PZ9",
+    "username": "moonmelonww_6",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-14T10:25:12.381Z",
+    "lastUsed": null
   }
 }
