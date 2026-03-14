@@ -1163,5 +1163,15 @@
     "source": "script",
     "createdAt": "2026-03-14T15:40:44.609Z",
     "lastUsed": "2026-03-14T15:49:31.302Z"
+  },
+  "VH-932CED-5D685D-6B2CBB": {
+    "expires": "2026-03-15T16:43:16.530Z",
+    "hwid": "10057505279-302fc496-a0a8-49a7-818c-1de1e5bf8ea9",
+    "browserHwid": null,
+    "username": "TalonKikirBngett",
+    "userId": "10057505279",
+    "source": "script",
+    "createdAt": "2026-03-14T16:43:16.795Z",
+    "lastUsed": null
   }
 }
