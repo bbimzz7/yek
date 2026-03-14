@@ -1061,5 +1061,15 @@
     "source": "script",
     "createdAt": "2026-03-14T08:01:43.901Z",
     "lastUsed": "2026-03-14T08:02:55.356Z"
+  },
+  "VH-6D960F-9F1C0E-42CE09": {
+    "expires": "2026-03-15T08:07:47.353Z",
+    "hwid": "10368314878-90eebd41-9d2a-4d41-8e4d-69b2e51f3aa0",
+    "browserHwid": null,
+    "username": "lonlonbaik",
+    "userId": "10368314878",
+    "source": "script",
+    "createdAt": "2026-03-14T08:07:47.608Z",
+    "lastUsed": null
   }
 }
