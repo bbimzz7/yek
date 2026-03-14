@@ -1021,5 +1021,15 @@
     "source": "script",
     "createdAt": "2026-03-14T02:25:15.064Z",
     "lastUsed": "2026-03-14T02:52:22.977Z"
+  },
+  "VH-92A981-DA687A-6A6768": {
+    "expires": "2026-03-15T04:07:02.220Z",
+    "hwid": "753522780-8bae67b1-4e52-4277-864a-62b72bb7a088",
+    "browserHwid": null,
+    "username": "imam_6",
+    "userId": "753522780",
+    "source": "script",
+    "createdAt": "2026-03-14T04:07:02.471Z",
+    "lastUsed": null
   }
 }
