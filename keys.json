@@ -1112,5 +1112,15 @@
     "source": "script",
     "createdAt": "2026-03-14T11:32:15.175Z",
     "lastUsed": "2026-03-14T11:32:24.570Z"
+  },
+  "VH-05FA27-13C55F-2A0492": {
+    "expires": "2026-03-15T12:24:48.124Z",
+    "hwid": "9832855309-3473de8e-1a01-4fef-9f9b-34e6e0a12956",
+    "browserHwid": null,
+    "username": "BERAS_UTANG",
+    "userId": "9832855309",
+    "source": "script",
+    "createdAt": "2026-03-14T12:24:48.365Z",
+    "lastUsed": null
   }
 }
