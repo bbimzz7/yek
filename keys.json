@@ -1132,5 +1132,15 @@
     "source": "script",
     "createdAt": "2026-03-14T12:29:29.010Z",
     "lastUsed": "2026-03-14T12:29:55.088Z"
+  },
+  "VH-6DB572-AEB65C-A5CB5D": {
+    "expires": "2026-03-15T14:47:19.287Z",
+    "hwid": "10641160358-47b792eb-a8e2-4843-804e-ba74985ce163",
+    "browserHwid": null,
+    "username": "bocilanomalis",
+    "userId": "10641160358",
+    "source": "script",
+    "createdAt": "2026-03-14T14:47:19.562Z",
+    "lastUsed": null
   }
 }
