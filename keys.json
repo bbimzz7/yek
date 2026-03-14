@@ -1094,12 +1094,13 @@
   },
   "VH-5FDCFE-420D22-92502C": {
     "expires": "2026-03-15T10:25:12.043Z",
-    "hwid": null,
+    "hwid": "8684240053-dc44dee7-a26a-4ed5-b960-e1105ec9ab18",
     "browserHwid": "BR-08A28B17-K3PZ9",
     "username": "moonmelonww_6",
-    "userId": null,
+    "userId": "8684240053",
     "source": "browser",
     "createdAt": "2026-03-14T10:25:12.381Z",
-    "lastUsed": null
+    "lastUsed": "2026-03-14T10:26:14.445Z",
+    "boundAt": "2026-03-14T10:26:14.445Z"
   }
 }
