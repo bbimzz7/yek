@@ -1213,5 +1213,15 @@
     "source": "script",
     "createdAt": "2026-03-14T22:07:14.515Z",
     "lastUsed": "2026-03-14T22:07:26.224Z"
+  },
+  "VH-A91668-4A0CDE-430CE7": {
+    "expires": "2026-03-15T22:31:27.990Z",
+    "hwid": "9013378433-67ffd7f0-e5de-4675-a8a1-8169d1bcb0c9",
+    "browserHwid": null,
+    "username": "UlarKadut_12",
+    "userId": "9013378433",
+    "source": "script",
+    "createdAt": "2026-03-14T22:31:28.265Z",
+    "lastUsed": null
   }
 }
