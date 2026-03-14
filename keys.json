@@ -1034,14 +1034,14 @@
   },
   "VH-E3F8D0-8C706F-6AC903": {
     "expires": "2026-04-14T04:25:10.984Z",
-    "hwid": null,
+    "hwid": "5392733334-098d5f49-8356-4506-b43e-52e6a47e9789",
     "browserHwid": null,
     "username": "MLBB_CEATORBES",
     "userId": "5392733334",
     "source": "script",
     "createdAt": "2026-03-14T04:25:11.237Z",
-    "lastUsed": "2026-03-14T15:27:01.428Z",
-    "boundAt": null
+    "lastUsed": "2026-03-14T15:57:53.465Z",
+    "boundAt": "2026-03-14T15:57:53.465Z"
   },
   "VH-3118BE-446EA4-7EC656": {
     "expires": "2026-03-15T06:05:37.280Z",
