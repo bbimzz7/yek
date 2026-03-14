@@ -1081,5 +1081,15 @@
     "source": "script",
     "createdAt": "2026-03-14T08:33:20.150Z",
     "lastUsed": "2026-03-14T08:33:30.997Z"
+  },
+  "VH-B5C6C3-3FA5E1-0D5D3D": {
+    "expires": "2026-03-15T10:10:57.268Z",
+    "hwid": "10262079641-6a01e163-759e-44a6-acb4-a5ef68e866dc",
+    "browserHwid": null,
+    "username": "ponskiety",
+    "userId": "10262079641",
+    "source": "script",
+    "createdAt": "2026-03-14T10:10:57.508Z",
+    "lastUsed": null
   }
 }
