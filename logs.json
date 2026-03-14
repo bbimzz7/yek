@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-14T15:57:50.451Z",
+    "action": "resethwid",
+    "detail": "HWID key VH-E3F8D0-8C706F-6AC903 direset"
+  },
+  {
     "ts": "2026-03-14T07:36:25.588Z",
     "action": "extend",
     "detail": "Key VH-E3F8D0-8C706F-6AC903 +30 hari"
