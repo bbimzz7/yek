@@ -1183,5 +1183,15 @@
     "source": "script",
     "createdAt": "2026-03-14T17:33:33.144Z",
     "lastUsed": "2026-03-14T17:34:51.670Z"
+  },
+  "VH-7F2FDF-4E2FE7-027969": {
+    "expires": "2026-03-15T18:52:00.901Z",
+    "hwid": "10411073621-b4c77bea-ac8e-415e-bad6-b26a43ec80ab",
+    "browserHwid": null,
+    "username": "TsANCESnich",
+    "userId": "10411073621",
+    "source": "script",
+    "createdAt": "2026-03-14T18:52:01.247Z",
+    "lastUsed": null
   }
 }
