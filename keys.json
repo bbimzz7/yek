@@ -1041,5 +1041,15 @@
     "source": "script",
     "createdAt": "2026-03-14T04:25:11.237Z",
     "lastUsed": "2026-03-14T04:25:19.938Z"
+  },
+  "VH-3118BE-446EA4-7EC656": {
+    "expires": "2026-03-15T06:05:37.280Z",
+    "hwid": "9439740680-05ccb1d8-e3aa-4180-99df-c63fbe4fc092",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-03-14T06:05:37.510Z",
+    "lastUsed": null
   }
 }
