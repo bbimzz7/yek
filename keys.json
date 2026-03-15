@@ -1273,5 +1273,15 @@
     "source": "script",
     "createdAt": "2026-03-15T07:03:25.422Z",
     "lastUsed": "2026-03-15T07:04:12.298Z"
+  },
+  "VH-9CB404-F55D22-E984CF": {
+    "expires": "2026-03-16T08:50:24.751Z",
+    "hwid": "10547971173-47b792eb-a8e2-4843-804e-ba74985ce163",
+    "browserHwid": null,
+    "username": "ekyyboy25",
+    "userId": "10547971173",
+    "source": "script",
+    "createdAt": "2026-03-15T08:50:24.999Z",
+    "lastUsed": null
   }
 }
