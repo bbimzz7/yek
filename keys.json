@@ -1283,5 +1283,15 @@
     "source": "script",
     "createdAt": "2026-03-15T08:50:24.999Z",
     "lastUsed": "2026-03-15T08:50:37.595Z"
+  },
+  "VH-DC189D-B3E703-01E10C": {
+    "expires": "2026-03-16T10:36:34.302Z",
+    "hwid": "1834911604-551c20ca-bbab-4787-9a1a-529bcaf2ac49",
+    "browserHwid": null,
+    "username": "Owljahat",
+    "userId": "1834911604",
+    "source": "script",
+    "createdAt": "2026-03-15T10:36:34.552Z",
+    "lastUsed": null
   }
 }
