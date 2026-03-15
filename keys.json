@@ -1373,5 +1373,15 @@
     "source": "script",
     "createdAt": "2026-03-15T15:22:09.246Z",
     "lastUsed": "2026-03-15T15:22:22.260Z"
+  },
+  "VH-146525-B6E50E-7F5F64": {
+    "expires": "2026-03-16T15:48:30.824Z",
+    "hwid": "9772325011-0f0c0e6a-335b-445c-8a23-9cd75d65e8d6",
+    "browserHwid": null,
+    "username": "zanx2169",
+    "userId": "9772325011",
+    "source": "script",
+    "createdAt": "2026-03-15T15:48:31.083Z",
+    "lastUsed": null
   }
 }
