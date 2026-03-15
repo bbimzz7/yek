@@ -1253,5 +1253,15 @@
     "source": "script",
     "createdAt": "2026-03-15T05:40:25.888Z",
     "lastUsed": "2026-03-15T05:40:31.771Z"
+  },
+  "VH-4A44F4-8DD6D1-E23B23": {
+    "expires": "2026-03-16T06:31:32.664Z",
+    "hwid": "2053553160-5a8b86cc-91cc-4d7a-aabe-e7092962f0c3",
+    "browserHwid": null,
+    "username": "dev_gantengg",
+    "userId": "2053553160",
+    "source": "script",
+    "createdAt": "2026-03-15T06:31:32.934Z",
+    "lastUsed": null
   }
 }
