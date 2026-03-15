@@ -1223,5 +1223,15 @@
     "source": "script",
     "createdAt": "2026-03-14T22:31:28.265Z",
     "lastUsed": "2026-03-14T22:31:43.757Z"
+  },
+  "VH-FDE8DD-38F04A-9D872C": {
+    "expires": "2026-03-16T01:29:41.229Z",
+    "hwid": "9749091324-904637a1-597a-49f0-bde5-92fc6e14342c",
+    "browserHwid": null,
+    "username": "Sagaraone01",
+    "userId": "9749091324",
+    "source": "script",
+    "createdAt": "2026-03-15T01:29:41.489Z",
+    "lastUsed": null
   }
 }
