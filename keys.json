@@ -1333,5 +1333,15 @@
     "source": "script",
     "createdAt": "2026-03-15T14:06:10.520Z",
     "lastUsed": "2026-03-15T14:07:26.534Z"
+  },
+  "VH-A5C6C3-2F2B9F-A6A62C": {
+    "expires": "2026-03-16T15:06:33.320Z",
+    "hwid": "9251577250-b9e83fa8-2f81-41cb-b093-501d8ddf2720",
+    "browserHwid": null,
+    "username": "lyliarani",
+    "userId": "9251577250",
+    "source": "script",
+    "createdAt": "2026-03-15T15:06:33.566Z",
+    "lastUsed": null
   }
 }
