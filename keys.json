@@ -1323,5 +1323,15 @@
     "source": "script",
     "createdAt": "2026-03-15T11:32:52.864Z",
     "lastUsed": "2026-03-15T11:33:30.922Z"
+  },
+  "VH-770AE4-12C01D-C1372F": {
+    "expires": "2026-03-16T14:06:10.265Z",
+    "hwid": "9413011563-3a4ffcae-f510-423e-a026-6c65685ffcd5",
+    "browserHwid": null,
+    "username": "ak37207",
+    "userId": "9413011563",
+    "source": "script",
+    "createdAt": "2026-03-15T14:06:10.520Z",
+    "lastUsed": null
   }
 }
