@@ -1303,5 +1303,15 @@
     "source": "script",
     "createdAt": "2026-03-15T10:48:03.612Z",
     "lastUsed": "2026-03-15T10:48:41.178Z"
+  },
+  "VH-C57387-FEE169-784796": {
+    "expires": "2026-03-16T11:05:27.335Z",
+    "hwid": "671287124-046ebb65-5bab-49fa-8c19-88af246583eb",
+    "browserHwid": null,
+    "username": "cveriiaq",
+    "userId": "671287124",
+    "source": "script",
+    "createdAt": "2026-03-15T11:05:27.581Z",
+    "lastUsed": null
   }
 }
