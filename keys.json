@@ -1423,5 +1423,15 @@
     "source": "script",
     "createdAt": "2026-03-15T16:50:51.233Z",
     "lastUsed": "2026-03-15T16:54:38.867Z"
+  },
+  "VH-50FC6E-3C3DB9-0DD473": {
+    "expires": "2026-03-16T17:30:53.458Z",
+    "hwid": "10641160358-47b792eb-a8e2-4843-804e-ba74985ce163",
+    "browserHwid": null,
+    "username": "bocilanomalis",
+    "userId": "10641160358",
+    "source": "script",
+    "createdAt": "2026-03-15T17:30:53.750Z",
+    "lastUsed": null
   }
 }
