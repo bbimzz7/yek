@@ -1243,5 +1243,15 @@
     "source": "script",
     "createdAt": "2026-03-15T03:12:48.396Z",
     "lastUsed": "2026-03-15T03:25:57.290Z"
+  },
+  "VH-A6CBAE-2CBB7B-899B9F": {
+    "expires": "2026-03-16T05:40:25.616Z",
+    "hwid": "3403839696-F7985AF6-BD11-40CF-85AF-F164C43AD343",
+    "browserHwid": null,
+    "username": "PrimeOnee",
+    "userId": "3403839696",
+    "source": "script",
+    "createdAt": "2026-03-15T05:40:25.888Z",
+    "lastUsed": null
   }
 }
