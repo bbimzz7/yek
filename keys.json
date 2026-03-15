@@ -1393,5 +1393,15 @@
     "source": "script",
     "createdAt": "2026-03-15T15:53:06.974Z",
     "lastUsed": "2026-03-15T15:53:14.795Z"
+  },
+  "VH-5EC1F2-AEB70D-93F854": {
+    "expires": "2026-03-16T15:58:56.509Z",
+    "hwid": "10657032416-05ccb1d8-e3aa-4180-99df-c63fbe4fc092",
+    "browserHwid": null,
+    "username": "aboutyouwhen",
+    "userId": "10657032416",
+    "source": "script",
+    "createdAt": "2026-03-15T15:58:56.662Z",
+    "lastUsed": null
   }
 }
