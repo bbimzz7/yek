@@ -1363,5 +1363,15 @@
     "source": "script",
     "createdAt": "2026-03-15T15:20:35.310Z",
     "lastUsed": "2026-03-15T15:20:54.917Z"
+  },
+  "VH-E2922D-6CF89D-D381F8": {
+    "expires": "2026-03-16T15:22:09.071Z",
+    "hwid": "753522780-8bae67b1-4e52-4277-864a-62b72bb7a088",
+    "browserHwid": null,
+    "username": "imam_6",
+    "userId": "753522780",
+    "source": "script",
+    "createdAt": "2026-03-15T15:22:09.246Z",
+    "lastUsed": null
   }
 }
