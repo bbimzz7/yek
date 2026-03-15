@@ -1403,5 +1403,15 @@
     "source": "script",
     "createdAt": "2026-03-15T15:58:56.662Z",
     "lastUsed": "2026-03-15T15:59:10.196Z"
+  },
+  "VH-D15D79-1ABBE1-BF87CF": {
+    "expires": "2026-03-16T16:46:47.703Z",
+    "hwid": "9439740680-05ccb1d8-e3aa-4180-99df-c63fbe4fc092",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-03-15T16:46:47.964Z",
+    "lastUsed": null
   }
 }
