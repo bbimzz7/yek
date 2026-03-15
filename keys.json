@@ -1313,5 +1313,15 @@
     "source": "script",
     "createdAt": "2026-03-15T11:05:27.581Z",
     "lastUsed": "2026-03-15T11:05:50.118Z"
+  },
+  "VH-E76163-87FFF5-5CC634": {
+    "expires": "2026-03-16T11:32:52.612Z",
+    "hwid": "8807402128-8287ab47-02cd-4523-a349-5a5e4c3010aa",
+    "browserHwid": null,
+    "username": "beat_box701",
+    "userId": "8807402128",
+    "source": "script",
+    "createdAt": "2026-03-15T11:32:52.864Z",
+    "lastUsed": null
   }
 }
