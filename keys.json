@@ -8209,5 +8209,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-255061-6AD251-EE34DB": {
+    "expires": "2026-03-17T17:35:19.205Z",
+    "hwid": "10445376389-7207E8E9-6A17-487A-AA97-EC053FBB55E5",
+    "browserHwid": null,
+    "username": "E_lementani",
+    "userId": "10445376389",
+    "source": "script",
+    "createdAt": "2026-03-16T17:35:19.631Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "77.137.78.35",
+      "city": "Tel Aviv",
+      "region": "Tel Aviv",
+      "country": "Israel",
+      "cc": "IL"
+    }
   }
 }
