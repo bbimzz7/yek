@@ -2288,8 +2288,15 @@
     "userId": "9925093907",
     "source": "script",
     "createdAt": "2026-03-16T03:29:02.958Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T03:29:10.681Z",
     "geo": {
+      "ip": "36.65.213.87",
+      "city": "Jepara",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.65.213.87",
       "city": "Jepara",
       "region": "Central Java",
