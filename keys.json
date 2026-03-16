@@ -4465,5 +4465,22 @@
       "country": "Japan",
       "cc": "JP"
     }
+  },
+  "VH-65B208-1CB4F8-56EC25": {
+    "expires": "2026-03-17T07:43:05.940Z",
+    "hwid": "3536486372-9188d285-c91e-4a13-b9e9-e1e97e146003",
+    "browserHwid": null,
+    "username": "kalashi_fhugi",
+    "userId": "3536486372",
+    "source": "script",
+    "createdAt": "2026-03-16T07:43:06.338Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "143.44.146.55",
+      "city": "Olongapo City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
