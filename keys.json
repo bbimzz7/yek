@@ -9021,13 +9021,20 @@
     "userId": "13023137",
     "source": "script",
     "createdAt": "2026-03-16T21:21:46.126Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T21:24:20.351Z",
     "geo": {
       "ip": "54.183.196.11",
       "city": "San Jose",
       "region": "California",
       "country": "United States",
       "cc": "US"
+    },
+    "lastGeo": {
+      "ip": "47.79.17.69",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
     }
   }
 }
