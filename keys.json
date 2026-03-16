@@ -8298,5 +8298,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-298574-789FA1-0B6E66": {
+    "expires": "2026-03-17T17:53:38.390Z",
+    "hwid": "8209977814-32af6f5f-76b8-43d7-9313-88bb4cde81c7",
+    "browserHwid": null,
+    "username": "jaymond_08",
+    "userId": "8209977814",
+    "source": "script",
+    "createdAt": "2026-03-16T17:53:38.595Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.201.179.96",
+      "city": "Pasig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
