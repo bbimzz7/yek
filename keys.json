@@ -7083,8 +7083,15 @@
     "userId": "8634217213",
     "source": "script",
     "createdAt": "2026-03-16T14:04:41.749Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T14:04:46.790Z",
     "geo": {
+      "ip": "115.135.199.103",
+      "city": "Ipoh",
+      "region": "Perak",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "115.135.199.103",
       "city": "Ipoh",
       "region": "Perak",
