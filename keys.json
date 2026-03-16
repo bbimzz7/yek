@@ -7832,5 +7832,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-F27426-E14D67-5B4162": {
+    "expires": "2026-03-17T15:58:53.929Z",
+    "hwid": "9668293044-1e6bc734-bc80-4610-bd1a-a65e9400c2cd",
+    "browserHwid": null,
+    "username": "aeiou99449",
+    "userId": "9668293044",
+    "source": "script",
+    "createdAt": "2026-03-16T15:58:54.143Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "223.204.52.200",
+      "city": "Kham Sakae Saeng",
+      "region": "Nakhon Ratchasima",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
