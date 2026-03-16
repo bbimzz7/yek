@@ -8556,5 +8556,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-0B5A5B-37C47F-A5762C": {
+    "expires": "2026-03-17T19:09:13.401Z",
+    "hwid": "8611573680-0ae9461a-6a0f-4980-a435-3c3e66a5128b",
+    "browserHwid": null,
+    "username": "rob9ccuu",
+    "userId": "8611573680",
+    "source": "script",
+    "createdAt": "2026-03-16T19:09:13.632Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.24.143.94",
+      "city": "Brasov",
+      "region": "Brașov County",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
