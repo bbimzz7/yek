@@ -2691,8 +2691,15 @@
     "userId": "5335464356",
     "source": "script",
     "createdAt": "2026-03-16T04:02:28.689Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T04:03:54.348Z",
     "geo": {
+      "ip": "191.7.94.215",
+      "city": "Lagarto",
+      "region": "Sergipe",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "191.7.94.215",
       "city": "Lagarto",
       "region": "Sergipe",
