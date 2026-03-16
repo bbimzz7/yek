@@ -1453,5 +1453,15 @@
     "source": "script",
     "createdAt": "2026-03-15T21:00:21.351Z",
     "lastUsed": "2026-03-15T21:02:45.174Z"
+  },
+  "VH-1ACF0E-179C5A-D7C547": {
+    "expires": "2026-03-17T00:57:48.966Z",
+    "hwid": "4359801-B9694729-362A-4E72-8C59-961A11DF83EE",
+    "browserHwid": null,
+    "username": "metalman06",
+    "userId": "4359801",
+    "source": "script",
+    "createdAt": "2026-03-16T00:57:49.297Z",
+    "lastUsed": null
   }
 }
