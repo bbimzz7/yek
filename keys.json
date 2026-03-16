@@ -9213,8 +9213,15 @@
     "userId": "10681702047",
     "source": "script",
     "createdAt": "2026-03-16T22:11:03.470Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T22:11:13.398Z",
     "geo": {
+      "ip": "73.220.243.16",
+      "city": "Sacramento",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.220.243.16",
       "city": "Sacramento",
       "region": "California",
