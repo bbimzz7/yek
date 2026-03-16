@@ -1804,7 +1804,14 @@
     "userId": "9661481733",
     "source": "script",
     "createdAt": "2026-03-16T02:09:33.356Z",
-    "lastUsed": null
+    "lastUsed": "2026-03-16T03:52:00.814Z",
+    "lastGeo": {
+      "ip": "101.109.191.189",
+      "city": "Lampang",
+      "region": "Lampang",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   },
   "VH-A1C486-75145D-506915": {
     "expires": "2026-03-17T02:15:30.913Z",
