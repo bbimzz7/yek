@@ -2963,14 +2963,22 @@
   },
   "VH-2CB741-FF57C6-657435": {
     "expires": "2026-03-17T04:31:46.230Z",
-    "hwid": null,
+    "hwid": "8830740748-1d84cbad-5ece-4b9e-bb51-18891068fefd",
     "browserHwid": "BR-421A3E71-F392C",
     "username": "Nizamsdf13",
-    "userId": null,
+    "userId": "8830740748",
     "source": "browser",
     "createdAt": "2026-03-16T04:31:46.377Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T04:32:26.571Z",
     "geo": {
+      "ip": "119.235.212.233",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-16T04:32:26.565Z",
+    "lastGeo": {
       "ip": "119.235.212.233",
       "city": "Jambi City",
       "region": "Jambi",
