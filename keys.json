@@ -4306,7 +4306,7 @@
     "userId": "7645403903",
     "source": "script",
     "createdAt": "2026-03-16T07:25:41.975Z",
-    "lastUsed": "2026-03-16T07:25:56.799Z",
+    "lastUsed": "2026-03-16T07:33:46.037Z",
     "geo": {
       "ip": "72.179.50.186",
       "city": "San Marcos",
@@ -4315,8 +4315,8 @@
       "cc": "US"
     },
     "lastGeo": {
-      "ip": "72.179.50.186",
-      "city": "San Marcos",
+      "ip": "167.88.62.88",
+      "city": "Dallas",
       "region": "Texas",
       "country": "United States",
       "cc": "US"
