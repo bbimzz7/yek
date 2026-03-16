@@ -9492,5 +9492,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-736E29-34C856-533948": {
+    "expires": "2026-03-17T23:19:08.365Z",
+    "hwid": "10674321044-99f302c8-a096-4293-ba0e-29c83ea881f2",
+    "browserHwid": null,
+    "username": "wordparis",
+    "userId": "10674321044",
+    "source": "script",
+    "createdAt": "2026-03-16T23:19:08.745Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.188.53.222",
+      "city": "Combinado",
+      "region": "Tocantins",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
