@@ -5137,5 +5137,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-B47556-A66B73-F62810": {
+    "expires": "2026-03-17T08:41:22.441Z",
+    "hwid": "4096657303-0c32b286-3204-414e-b909-658d685f90cf",
+    "browserHwid": null,
+    "username": "areesha_qadryna123",
+    "userId": "4096657303",
+    "source": "script",
+    "createdAt": "2026-03-16T08:41:22.651Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.75.236.152",
+      "city": "Seri Kembangan",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
