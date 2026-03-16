@@ -6490,8 +6490,15 @@
     "userId": "7839447626",
     "source": "script",
     "createdAt": "2026-03-16T12:09:58.422Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T12:10:08.266Z",
     "geo": {
+      "ip": "185.176.112.196",
+      "city": "Shpola",
+      "region": "Cherkasy Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "185.176.112.196",
       "city": "Shpola",
       "region": "Cherkasy Oblast",
