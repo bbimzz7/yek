@@ -1040,8 +1040,15 @@
     "userId": "5392733334",
     "source": "script",
     "createdAt": "2026-03-14T04:25:11.237Z",
-    "lastUsed": "2026-03-16T01:10:52.288Z",
-    "boundAt": "2026-03-14T15:57:53.465Z"
+    "lastUsed": "2026-03-16T05:29:16.782Z",
+    "boundAt": "2026-03-14T15:57:53.465Z",
+    "lastGeo": {
+      "ip": "103.81.65.67",
+      "city": "Sukoharjo Satu",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   },
   "VH-3118BE-446EA4-7EC656": {
     "expires": "2026-03-15T06:05:37.280Z",
