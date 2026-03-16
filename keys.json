@@ -6690,5 +6690,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-AF561B-E0C59F-4A2513": {
+    "expires": "2026-03-17T13:00:57.414Z",
+    "hwid": "10485975489-9c51f6d3-9e3d-4de3-915d-e17c51a8d6e4",
+    "browserHwid": null,
+    "username": "bot_not90",
+    "userId": "10485975489",
+    "source": "script",
+    "createdAt": "2026-03-16T13:00:57.621Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "77.111.247.232",
+      "city": "Linköping",
+      "region": "Östergötland",
+      "country": "Sweden",
+      "cc": "SE"
+    }
   }
 }
