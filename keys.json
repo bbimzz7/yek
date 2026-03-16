@@ -9581,5 +9581,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-BD1EAF-657106-66DD6C": {
+    "expires": "2026-03-17T23:43:48.686Z",
+    "hwid": "9305293656-ca956129-4e79-4813-b51c-30fd2af39212",
+    "browserHwid": null,
+    "username": "Spicyboisz",
+    "userId": "9305293656",
+    "source": "script",
+    "createdAt": "2026-03-16T23:43:49.035Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "71.90.30.75",
+      "city": "Watertown",
+      "region": "Wisconsin",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
