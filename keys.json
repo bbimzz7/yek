@@ -7849,5 +7849,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-B07015-C6E62C-7CED08": {
+    "expires": "2026-03-17T15:59:29.158Z",
+    "hwid": "8760631963-77e943f5-1c42-49ca-b816-992cfaa5f1cc",
+    "browserHwid": null,
+    "username": "jamesburow",
+    "userId": "8760631963",
+    "source": "script",
+    "createdAt": "2026-03-16T15:59:29.509Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.58.72.121",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
