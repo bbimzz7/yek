@@ -5331,8 +5331,15 @@
     "userId": "6154715101",
     "source": "script",
     "createdAt": "2026-03-16T09:10:01.022Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T09:11:12.669Z",
     "geo": {
+      "ip": "120.72.19.62",
+      "city": "General Santos",
+      "region": "Soccsksargen",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "120.72.19.62",
       "city": "General Santos",
       "region": "Soccsksargen",
