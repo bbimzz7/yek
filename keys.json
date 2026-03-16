@@ -8909,5 +8909,22 @@
       "country": "Georgia",
       "cc": "GE"
     }
+  },
+  "VH-7EA74A-6B2761-EBDEE0": {
+    "expires": "2026-03-17T20:52:41.711Z",
+    "hwid": "10146399342-78bfcc82-52db-403f-8613-ce1495a1cb79",
+    "browserHwid": null,
+    "username": "Fa_dejujutsuka",
+    "userId": "10146399342",
+    "source": "script",
+    "createdAt": "2026-03-16T20:52:41.942Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.230.238.69",
+      "city": "Tasso Fragoso",
+      "region": "Maranhão",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
