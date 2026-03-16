@@ -9045,8 +9045,15 @@
     "userId": "4308152216",
     "source": "script",
     "createdAt": "2026-03-16T21:33:22.161Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T21:33:30.402Z",
     "geo": {
+      "ip": "196.238.213.248",
+      "city": "Tunis",
+      "region": "Tunis Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    },
+    "lastGeo": {
       "ip": "196.238.213.248",
       "city": "Tunis",
       "region": "Tunis Governorate",
