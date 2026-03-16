@@ -8539,5 +8539,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-1848A4-33D38E-EF2220": {
+    "expires": "2026-03-17T19:08:39.100Z",
+    "hwid": null,
+    "browserHwid": "BR-75FB14BF-7R988",
+    "username": "BR-75FB14BF-7R988",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-16T19:08:39.481Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.24.143.94",
+      "city": "Brasov",
+      "region": "Brașov County",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
