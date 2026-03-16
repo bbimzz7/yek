@@ -4258,8 +4258,15 @@
     "userId": "8671396894",
     "source": "script",
     "createdAt": "2026-03-16T07:23:22.157Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T07:23:31.270Z",
     "geo": {
+      "ip": "143.105.161.115",
+      "city": "N'djamena",
+      "region": "N'Djamena",
+      "country": "Chad",
+      "cc": "TD"
+    },
+    "lastGeo": {
       "ip": "143.105.161.115",
       "city": "N'djamena",
       "region": "N'Djamena",
