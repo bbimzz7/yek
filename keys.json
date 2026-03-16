@@ -8973,8 +8973,15 @@
     "userId": "10682102351",
     "source": "script",
     "createdAt": "2026-03-16T21:07:49.881Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T21:07:55.584Z",
     "geo": {
+      "ip": "71.46.196.220",
+      "city": "Bakersfield",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "71.46.196.220",
       "city": "Bakersfield",
       "region": "California",
