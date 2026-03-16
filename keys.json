@@ -3576,5 +3576,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F48507-397CF9-13F5E6": {
+    "expires": "2026-03-17T06:26:18.586Z",
+    "hwid": "8626200822-d52a8cd1-184a-4ccc-a4cb-ea51bf0ae994",
+    "browserHwid": null,
+    "username": "MENARAJAGA_5",
+    "userId": "8626200822",
+    "source": "script",
+    "createdAt": "2026-03-16T06:26:18.770Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.154.110",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
