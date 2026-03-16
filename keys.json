@@ -2888,5 +2888,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-07D726-E88A22-B01B75": {
+    "expires": "2026-03-17T04:28:22.329Z",
+    "hwid": "10359551658-1af3e256-3bd9-465f-a4eb-37adc9bb0144",
+    "browserHwid": null,
+    "username": "marinasooooooo",
+    "userId": "10359551658",
+    "source": "script",
+    "createdAt": "2026-03-16T04:28:22.514Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "196.121.238.177",
+      "city": "Marrakesh",
+      "region": "Marrakesh-Safi",
+      "country": "Morocco",
+      "cc": "MA"
+    }
   }
 }
