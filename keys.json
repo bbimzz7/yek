@@ -3086,5 +3086,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-5C85AE-CC08FD-88EFB2": {
+    "expires": "2026-03-17T05:31:14.328Z",
+    "hwid": "7919857163-ff5c33af-fb2b-4990-87d3-fe3084634e05",
+    "browserHwid": null,
+    "username": "Monika_Gantung098",
+    "userId": "7919857163",
+    "source": "script",
+    "createdAt": "2026-03-16T05:31:14.523Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.253.186.155",
+      "city": "Ambon City",
+      "region": "Maluku",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
