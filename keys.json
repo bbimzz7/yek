@@ -6137,5 +6137,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-A4C7D9-2DB3E1-CE6097": {
+    "expires": "2026-03-17T11:18:28.660Z",
+    "hwid": "10582699927-fb75e8bc-d9a7-42b9-9d58-cdda042666c7",
+    "browserHwid": null,
+    "username": "sailorsong_51",
+    "userId": "10582699927",
+    "source": "script",
+    "createdAt": "2026-03-16T11:18:29.020Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.132.132.204",
+      "city": "Naaldwijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
