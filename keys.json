@@ -7913,8 +7913,15 @@
     "userId": "7083332957",
     "source": "script",
     "createdAt": "2026-03-16T16:16:19.936Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T16:16:32.037Z",
     "geo": {
+      "ip": "165.99.239.22",
+      "city": "Purwodadi Grobogan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "165.99.239.22",
       "city": "Purwodadi Grobogan",
       "region": "Central Java",
