@@ -5113,5 +5113,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-275CD3-7A9EE3-652D9F": {
+    "expires": "2026-03-17T08:39:24.555Z",
+    "hwid": "8186401062-67ff6143-df21-4b06-9ffa-20d4fe9516a5",
+    "browserHwid": null,
+    "username": "azraell086",
+    "userId": "8186401062",
+    "source": "script",
+    "createdAt": "2026-03-16T08:39:24.757Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.217.72.176",
+      "city": "Mexico",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
