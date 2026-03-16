@@ -3033,8 +3033,15 @@
     "userId": "5059556898",
     "source": "script",
     "createdAt": "2026-03-16T04:39:12.406Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T04:39:26.498Z",
     "geo": {
+      "ip": "103.159.194.19",
+      "city": "Ketanggungan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.159.194.19",
       "city": "Ketanggungan",
       "region": "Central Java",
