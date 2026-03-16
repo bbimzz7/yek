@@ -2217,14 +2217,22 @@
   },
   "VH-9D5917-FA6B49-23585E": {
     "expires": "2026-03-17T03:24:35.379Z",
-    "hwid": null,
+    "hwid": "8567562223-9635a5e9-42dc-4b63-846e-46c0f9f8ebf2",
     "browserHwid": "BR-3B65367E-43KMD",
     "username": "DARK_ST4RXZXZ",
-    "userId": null,
+    "userId": "8567562223",
     "source": "browser",
     "createdAt": "2026-03-16T03:24:35.529Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T03:29:40.435Z",
     "geo": {
+      "ip": "114.122.137.214",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-16T03:29:40.430Z",
+    "lastGeo": {
       "ip": "114.122.137.214",
       "city": "Denpasar",
       "region": "Bali",
