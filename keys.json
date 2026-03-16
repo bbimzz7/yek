@@ -1503,5 +1503,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:06:27.539Z",
     "lastUsed": "2026-03-16T01:06:39.540Z"
+  },
+  "VH-28B587-FBE9F1-EC154D": {
+    "expires": "2026-03-17T01:08:35.858Z",
+    "hwid": "2319807660-CA6FE046-28F5-4480-A3C9-58EB28DF67CC",
+    "browserHwid": null,
+    "username": "AGENT_47INDO",
+    "userId": "2319807660",
+    "source": "script",
+    "createdAt": "2026-03-16T01:08:36.006Z",
+    "lastUsed": null
   }
 }
