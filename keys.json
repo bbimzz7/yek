@@ -7186,8 +7186,15 @@
     "userId": "10353394529",
     "source": "script",
     "createdAt": "2026-03-16T14:29:53.634Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T14:30:49.373Z",
     "geo": {
+      "ip": "217.196.163.153",
+      "city": "Ternopil",
+      "region": "Ternopil Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "217.196.163.153",
       "city": "Ternopil",
       "region": "Ternopil Oblast",
