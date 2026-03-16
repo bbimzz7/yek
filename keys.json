@@ -6435,8 +6435,15 @@
     "userId": "1005931525",
     "source": "script",
     "createdAt": "2026-03-16T12:04:07.402Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T12:04:12.307Z",
     "geo": {
+      "ip": "178.88.149.216",
+      "city": "Kokshetau",
+      "region": "Aqmola",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "178.88.149.216",
       "city": "Kokshetau",
       "region": "Aqmola",
