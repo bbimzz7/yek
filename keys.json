@@ -6161,5 +6161,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-559466-AC257F-516ED1": {
+    "expires": "2026-03-17T11:20:26.858Z",
+    "hwid": "9340326921-8ff209a9-8f84-4379-93ef-8a2740586416",
+    "browserHwid": null,
+    "username": "Gavintole3",
+    "userId": "9340326921",
+    "source": "script",
+    "createdAt": "2026-03-16T11:20:27.092Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.201.166.148",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
