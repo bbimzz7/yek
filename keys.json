@@ -3878,5 +3878,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1778FD-C5C3B4-E9907F": {
+    "expires": "2026-03-17T06:58:56.160Z",
+    "hwid": "7136682456-3f610cc1-b5a7-491e-9de6-266046f6240b",
+    "browserHwid": null,
+    "username": "XYZ_ALdede",
+    "userId": "7136682456",
+    "source": "script",
+    "createdAt": "2026-03-16T06:58:56.325Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.109.18.101",
+      "city": "Mulyosari",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
