@@ -2502,13 +2502,20 @@
     "userId": "10665804183",
     "source": "script",
     "createdAt": "2026-03-16T03:45:21.225Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T03:45:32.703Z",
     "geo": {
       "ip": "163.171.210.103",
       "city": "Singapore",
       "region": "North West",
       "country": "Singapore",
       "cc": "SG"
+    },
+    "lastGeo": {
+      "ip": "103.147.9.147",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
     }
   }
 }
