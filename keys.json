@@ -7602,5 +7602,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-199D62-AE8535-8E05C9": {
+    "expires": "2026-03-17T15:17:41.638Z",
+    "hwid": "7324128443-4827ff03-0ca6-4f86-8176-f8c943dc9116",
+    "browserHwid": null,
+    "username": "eriyah71",
+    "userId": "7324128443",
+    "source": "script",
+    "createdAt": "2026-03-16T15:17:42.951Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.218.241",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
