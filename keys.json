@@ -4443,8 +4443,15 @@
     "userId": "5476846175",
     "source": "script",
     "createdAt": "2026-03-16T07:34:28.399Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T07:34:39.162Z",
     "geo": {
+      "ip": "60.115.221.207",
+      "city": "Minato-ku",
+      "region": "Tokyo",
+      "country": "Japan",
+      "cc": "JP"
+    },
+    "lastGeo": {
       "ip": "60.115.221.207",
       "city": "Minato-ku",
       "region": "Tokyo",
