@@ -2464,8 +2464,15 @@
     "userId": "5583895977",
     "source": "script",
     "createdAt": "2026-03-16T03:44:36.463Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T03:44:42.391Z",
     "geo": {
+      "ip": "189.226.174.88",
+      "city": "Texcoco",
+      "region": "México",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.226.174.88",
       "city": "Texcoco",
       "region": "México",
