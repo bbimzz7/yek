@@ -3295,5 +3295,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2B387C-5B1EB0-39B1DD": {
+    "expires": "2026-03-17T05:51:15.978Z",
+    "hwid": "8277724917-f6f5dac0-75d5-4ef0-ae20-c16d7d06859f",
+    "browserHwid": null,
+    "username": "reyrehan5",
+    "userId": "8277724917",
+    "source": "script",
+    "createdAt": "2026-03-16T05:51:16.150Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "210.87.74.26",
+      "city": "Jetis",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
