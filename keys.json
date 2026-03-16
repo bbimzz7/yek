@@ -4578,5 +4578,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-66FF81-01826F-5E3EF0": {
+    "expires": "2026-03-17T07:51:01.716Z",
+    "hwid": "3968105542-28915f05-831d-488e-bd3c-5cbe7db6d46e",
+    "browserHwid": null,
+    "username": "qwertumanPC2",
+    "userId": "3968105542",
+    "source": "script",
+    "createdAt": "2026-03-16T07:51:01.887Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.33.180",
+      "city": "Purbalingga",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
