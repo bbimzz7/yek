@@ -3158,5 +3158,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5CD4F5-0700FA-A5D546": {
+    "expires": "2026-03-17T05:35:25.559Z",
+    "hwid": "10355305396-31331bff-b845-4cad-aac7-87cfb60cd279",
+    "browserHwid": null,
+    "username": "AKUDAV_122738",
+    "userId": "10355305396",
+    "source": "script",
+    "createdAt": "2026-03-16T05:35:25.747Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.74.125",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
