@@ -3552,5 +3552,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-75B23E-876E81-B4E623": {
+    "expires": "2026-03-17T06:25:55.081Z",
+    "hwid": "10679039739-867eef4e-ef4f-47e8-93c0-7d798fb2bf0e",
+    "browserHwid": null,
+    "username": "rey_evade019",
+    "userId": "10679039739",
+    "source": "script",
+    "createdAt": "2026-03-16T06:25:55.253Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "210.87.74.26",
+      "city": "Jetis",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
