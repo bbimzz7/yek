@@ -9173,5 +9173,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-0898EF-0E7A95-1F908E": {
+    "expires": "2026-03-17T22:07:09.368Z",
+    "hwid": "1283634137-30A32CAD-A3C3-4285-8257-7AC402C3CEF1",
+    "browserHwid": null,
+    "username": "bnykbetdah",
+    "userId": "1283634137",
+    "source": "script",
+    "createdAt": "2026-03-16T22:07:09.613Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.47.134.9",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
