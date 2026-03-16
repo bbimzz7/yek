@@ -5889,5 +5889,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-ED7B35-5EDC6A-70C6F0": {
+    "expires": "2026-03-17T10:37:01.707Z",
+    "hwid": null,
+    "browserHwid": "BR-38E75E8C-FWFZC",
+    "username": "pw_asep00",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-16T10:37:02.110Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.10.8.174",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
