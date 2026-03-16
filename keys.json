@@ -3967,5 +3967,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-65C1C3-025833-8CD5F0": {
+    "expires": "2026-03-17T07:03:36.332Z",
+    "hwid": null,
+    "browserHwid": "BR-16C0BF54-08ISL",
+    "username": "HauntedMan999",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-16T07:03:36.515Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.65.231.158",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
