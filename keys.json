@@ -5434,8 +5434,15 @@
     "userId": "8285714496",
     "source": "script",
     "createdAt": "2026-03-16T09:28:58.754Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T09:29:10.086Z",
     "geo": {
+      "ip": "151.254.30.211",
+      "city": "Riyadh",
+      "region": "Riyadh Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    },
+    "lastGeo": {
       "ip": "151.254.30.211",
       "city": "Riyadh",
       "region": "Riyadh Region",
