@@ -6041,5 +6041,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-8C7692-C4D768-471309": {
+    "expires": "2026-03-17T11:04:45.907Z",
+    "hwid": "5796393652-0E8FB83D-5424-479E-AFFA-22AD581979D0",
+    "browserHwid": null,
+    "username": "lindabridgeeedm",
+    "userId": "5796393652",
+    "source": "script",
+    "createdAt": "2026-03-16T11:04:46.114Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.139.11.141",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
