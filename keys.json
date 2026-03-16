@@ -6050,8 +6050,15 @@
     "userId": "5796393652",
     "source": "script",
     "createdAt": "2026-03-16T11:04:46.114Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T11:04:52.614Z",
     "geo": {
+      "ip": "103.139.11.141",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.139.11.141",
       "city": "Bandung",
       "region": "West Java",
