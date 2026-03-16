@@ -2571,11 +2571,18 @@
     "userId": "7454039417",
     "source": "script",
     "createdAt": "2026-03-16T03:55:18.264Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T03:56:23.959Z",
     "geo": {
       "ip": "27.125.242.159",
       "city": "Serian",
       "region": "Sarawak",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
+      "ip": "27.125.242.119",
+      "city": "Bukit Jambul",
+      "region": "Penang",
       "country": "Malaysia",
       "cc": "MY"
     }
