@@ -1262,7 +1262,14 @@
     "userId": "9251577250",
     "source": "script",
     "createdAt": "2026-03-15T15:06:33.566Z",
-    "lastUsed": "2026-03-16T03:07:56.186Z"
+    "lastUsed": "2026-03-16T03:24:19.255Z",
+    "lastGeo": {
+      "ip": "157.85.211.88",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   },
   "VH-8424A3-2A682A-66928A": {
     "expires": "2026-03-16T15:07:58.112Z",
