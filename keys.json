@@ -2524,5 +2524,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D4F8BD-227B71-768ADF": {
+    "expires": "2026-03-17T03:51:23.600Z",
+    "hwid": "732320790-9E6C8A5F-F4BD-464C-B728-01CB0655F9CC",
+    "browserHwid": null,
+    "username": "proraymaster",
+    "userId": "732320790",
+    "source": "script",
+    "createdAt": "2026-03-16T03:51:23.899Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.25.50.39",
+      "city": "Lima",
+      "region": "Lima Province",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
