@@ -2960,5 +2960,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-2CB741-FF57C6-657435": {
+    "expires": "2026-03-17T04:31:46.230Z",
+    "hwid": null,
+    "browserHwid": "BR-421A3E71-F392C",
+    "username": "Nizamsdf13",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-16T04:31:46.377Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.235.212.233",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
