@@ -1864,5 +1864,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:09:33.356Z",
     "lastUsed": null
+  },
+  "VH-A1C486-75145D-506915": {
+    "expires": "2026-03-17T02:15:30.913Z",
+    "hwid": "8318297501-c60b27c3-5b8f-47a3-8f14-c8a83fc53ad5",
+    "browserHwid": null,
+    "username": "kumo_984",
+    "userId": "8318297501",
+    "source": "script",
+    "createdAt": "2026-03-16T02:15:31.193Z",
+    "lastUsed": null
   }
 }
