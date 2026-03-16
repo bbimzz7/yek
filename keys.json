@@ -6642,5 +6642,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-01B554-CA0210-72773B": {
+    "expires": "2026-03-17T12:59:12.578Z",
+    "hwid": "4461504343-a5968643-97f4-4d2c-9655-96c7d4ab8006",
+    "browserHwid": null,
+    "username": "moasje81",
+    "userId": "4461504343",
+    "source": "script",
+    "createdAt": "2026-03-16T12:59:12.999Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.235.84.76",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
