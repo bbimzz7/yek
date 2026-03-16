@@ -1272,7 +1272,14 @@
     "userId": "2591181671",
     "source": "script",
     "createdAt": "2026-03-15T15:07:58.367Z",
-    "lastUsed": "2026-03-16T03:08:32.696Z"
+    "lastUsed": "2026-03-16T03:22:25.731Z",
+    "lastGeo": {
+      "ip": "114.5.240.122",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   },
   "VH-53B514-027650-A9069B": {
     "expires": "2026-03-16T15:20:35.061Z",
