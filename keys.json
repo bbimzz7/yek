@@ -6315,8 +6315,15 @@
     "userId": "7242817984",
     "source": "script",
     "createdAt": "2026-03-16T11:53:34.862Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T11:53:44.136Z",
     "geo": {
+      "ip": "88.170.248.103",
+      "city": "Nice",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "88.170.248.103",
       "city": "Nice",
       "region": "Provence-Alpes-Côte d'Azur",
