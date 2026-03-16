@@ -2185,8 +2185,15 @@
     "userId": "8373392163",
     "source": "script",
     "createdAt": "2026-03-16T03:21:01.017Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T03:23:21.383Z",
     "geo": {
+      "ip": "186.42.247.133",
+      "city": "Esmeraldas",
+      "region": "Esmeraldas",
+      "country": "Ecuador",
+      "cc": "EC"
+    },
+    "lastGeo": {
       "ip": "186.42.247.133",
       "city": "Esmeraldas",
       "region": "Esmeraldas",
