@@ -3710,5 +3710,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-0172F3-DE3E2E-B5ED4E": {
+    "expires": "2026-03-17T06:44:42.183Z",
+    "hwid": "4634722263-da3f5f55-867b-43ac-894a-bae9d72384d0",
+    "browserHwid": null,
+    "username": "KenHD_10",
+    "userId": "4634722263",
+    "source": "script",
+    "createdAt": "2026-03-16T06:44:42.360Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.254.128.245",
+      "city": "Phan Thiết",
+      "region": "Lam Dong",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
