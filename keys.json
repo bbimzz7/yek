@@ -1894,5 +1894,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:17:00.008Z",
     "lastUsed": "2026-03-16T02:17:11.027Z"
+  },
+  "VH-46A065-6D6FEF-E222B4": {
+    "expires": "2026-03-17T02:18:50.419Z",
+    "hwid": "8503309015-89629207-f740-41bb-b7f0-0566d2ff2047",
+    "browserHwid": null,
+    "username": "Chip_ambrum",
+    "userId": "8503309015",
+    "source": "script",
+    "createdAt": "2026-03-16T02:18:50.596Z",
+    "lastUsed": null
   }
 }
