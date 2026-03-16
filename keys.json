@@ -1834,5 +1834,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:03:13.854Z",
     "lastUsed": "2026-03-16T02:06:10.648Z"
+  },
+  "VH-ABECED-BABC64-215969": {
+    "expires": "2026-03-17T02:08:56.561Z",
+    "hwid": "5495411466-76f0db6c-5fc2-4cf7-90f3-4cec06344b7c",
+    "browserHwid": null,
+    "username": "valentinaro786",
+    "userId": "5495411466",
+    "source": "script",
+    "createdAt": "2026-03-16T02:08:56.903Z",
+    "lastUsed": null
   }
 }
