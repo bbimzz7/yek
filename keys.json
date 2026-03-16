@@ -4921,5 +4921,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-83B8D3-3F3993-73F2BE": {
+    "expires": "2026-03-17T08:24:26.552Z",
+    "hwid": "2700221861-276b7290-5656-47ca-bef9-12397eacc715",
+    "browserHwid": null,
+    "username": "3s8ws3y375h5j4jd5m27",
+    "userId": "2700221861",
+    "source": "script",
+    "createdAt": "2026-03-16T08:24:26.759Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.119.141.48",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
