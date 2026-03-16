@@ -6267,8 +6267,15 @@
     "userId": "1239390372",
     "source": "script",
     "createdAt": "2026-03-16T11:38:19.917Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T11:38:23.916Z",
     "geo": {
+      "ip": "186.232.253.174",
+      "city": "Araraquara",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "186.232.253.174",
       "city": "Araraquara",
       "region": "São Paulo",
