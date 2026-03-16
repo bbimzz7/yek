@@ -9084,5 +9084,22 @@
       "country": "Belgium",
       "cc": "BE"
     }
+  },
+  "VH-A21C5A-2C8632-A0786D": {
+    "expires": "2026-03-17T21:45:53.346Z",
+    "hwid": "8839140241-0f514673-dc18-4e43-8855-f44c063c32ca",
+    "browserHwid": null,
+    "username": "Bbngx7",
+    "userId": "8839140241",
+    "source": "script",
+    "createdAt": "2026-03-16T21:45:53.724Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.1.177.33",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
