@@ -6666,5 +6666,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-809440-A28163-F892F5": {
+    "expires": "2026-03-17T13:00:40.659Z",
+    "hwid": "10521835108-a5d5aa7e-9356-48c4-8f10-9293aa4a234d",
+    "browserHwid": null,
+    "username": "dasrunvatana",
+    "userId": "10521835108",
+    "source": "script",
+    "createdAt": "2026-03-16T13:00:40.942Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.100.48.87",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    }
   }
 }
