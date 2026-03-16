@@ -2596,5 +2596,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-99D6BC-98E04F-132B9B": {
+    "expires": "2026-03-17T03:56:03.693Z",
+    "hwid": "8710662161-869efafa-4f0e-434a-8c01-c52d77d83635",
+    "browserHwid": null,
+    "username": "fathan_12301019",
+    "userId": "8710662161",
+    "source": "script",
+    "createdAt": "2026-03-16T03:56:03.845Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.1.52",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
