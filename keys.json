@@ -4834,8 +4834,15 @@
     "userId": "8918428079",
     "source": "script",
     "createdAt": "2026-03-16T08:15:31.369Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T08:15:50.652Z",
     "geo": {
+      "ip": "160.191.233.114",
+      "city": "Cikupa",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "160.191.233.114",
       "city": "Cikupa",
       "region": "West Java",
