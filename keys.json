@@ -6106,5 +6106,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-D6B451-3FC6BF-108B9F": {
+    "expires": "2026-03-17T11:07:46.272Z",
+    "hwid": "9074802279-84f7f771-ed51-4a28-b5fc-5e275321b613",
+    "browserHwid": null,
+    "username": "Akamjaq",
+    "userId": "9074802279",
+    "source": "script",
+    "createdAt": "2026-03-16T11:07:46.510Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.101.226",
+      "city": "Naga",
+      "region": "Bicol Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
