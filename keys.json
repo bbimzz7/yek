@@ -4633,5 +4633,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-E256D7-3AA04F-7848DB": {
+    "expires": "2026-03-17T07:57:46.947Z",
+    "hwid": "10466382807-97d3c52f-0af6-4736-8162-80bcf3063e8f",
+    "browserHwid": null,
+    "username": "botak67503",
+    "userId": "10466382807",
+    "source": "script",
+    "createdAt": "2026-03-16T07:57:47.116Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.140.8.28",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
