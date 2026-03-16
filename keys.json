@@ -2801,8 +2801,15 @@
     "userId": "10472154875",
     "source": "script",
     "createdAt": "2026-03-16T04:21:06.209Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T04:22:23.616Z",
     "geo": {
+      "ip": "116.98.3.148",
+      "city": "Da Lat",
+      "region": "Lâm Đồng Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "116.98.3.148",
       "city": "Da Lat",
       "region": "Lâm Đồng Province",
