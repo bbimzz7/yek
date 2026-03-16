@@ -9132,5 +9132,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-E19A45-4C9706-162EF1": {
+    "expires": "2026-03-17T21:59:53.019Z",
+    "hwid": "7344512208-1182FBAE-ED46-4DAE-B5D8-FA53739DC59C",
+    "browserHwid": null,
+    "username": "Rvenclaw6",
+    "userId": "7344512208",
+    "source": "script",
+    "createdAt": "2026-03-16T21:59:53.397Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.94.163.53",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
