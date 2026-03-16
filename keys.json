@@ -8185,5 +8185,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-E22516-5922B8-122FC3": {
+    "expires": "2026-03-17T17:34:12.142Z",
+    "hwid": "8671038261-a95ea2f6-0ad9-457e-86a9-efb202dbb145",
+    "browserHwid": null,
+    "username": "DhiFaSupremacy",
+    "userId": "8671038261",
+    "source": "script",
+    "createdAt": "2026-03-16T17:34:12.512Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.190.46.50",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
