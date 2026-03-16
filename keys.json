@@ -4530,5 +4530,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-A62361-38AA26-25B187": {
+    "expires": "2026-03-17T07:48:22.200Z",
+    "hwid": "4226007258-4917281a-f265-460f-b384-43690ec20e0b",
+    "browserHwid": null,
+    "username": "https_n0b0dykudasho",
+    "userId": "4226007258",
+    "source": "script",
+    "createdAt": "2026-03-16T07:48:22.376Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.80.140.250",
+      "city": "Lules",
+      "region": "Tucuman",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
