@@ -8997,8 +8997,15 @@
     "userId": "8140172848",
     "source": "script",
     "createdAt": "2026-03-16T21:17:31.052Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T21:17:39.186Z",
     "geo": {
+      "ip": "182.10.161.215",
+      "city": "Cirebon",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.10.161.215",
       "city": "Cirebon",
       "region": "West Java",
