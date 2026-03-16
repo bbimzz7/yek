@@ -2455,5 +2455,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-D22ED4-463C4E-962D67": {
+    "expires": "2026-03-17T03:44:36.309Z",
+    "hwid": "5583895977-b0593218-f513-4ff8-91a4-da0ca294ac0f",
+    "browserHwid": null,
+    "username": "pepe_9idi",
+    "userId": "5583895977",
+    "source": "script",
+    "createdAt": "2026-03-16T03:44:36.463Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.226.174.88",
+      "city": "Texcoco",
+      "region": "México",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
