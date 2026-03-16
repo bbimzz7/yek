@@ -3024,5 +3024,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-698220-495A53-F23C3B": {
+    "expires": "2026-03-17T04:39:12.227Z",
+    "hwid": "5059556898-63d7238d-78ff-491f-99d6-e4d6db74a601",
+    "browserHwid": null,
+    "username": "baller_sciler2",
+    "userId": "5059556898",
+    "source": "script",
+    "createdAt": "2026-03-16T04:39:12.406Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.159.194.19",
+      "city": "Ketanggungan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
