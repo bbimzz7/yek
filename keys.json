@@ -5778,8 +5778,15 @@
     "userId": "10512596285",
     "source": "script",
     "createdAt": "2026-03-16T10:19:24.066Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T10:19:34.917Z",
     "geo": {
+      "ip": "210.10.5.114",
+      "city": "Singapore",
+      "region": "South East",
+      "country": "Singapore",
+      "cc": "SG"
+    },
+    "lastGeo": {
       "ip": "210.10.5.114",
       "city": "Singapore",
       "region": "South East",
