@@ -3624,5 +3624,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-875A5F-A84AD9-A14334": {
+    "expires": "2026-03-17T06:35:56.422Z",
+    "hwid": "10396819494-17049564-c743-4e35-a4ef-5ce07f702129",
+    "browserHwid": null,
+    "username": "Delta_hyper7",
+    "userId": "10396819494",
+    "source": "script",
+    "createdAt": "2026-03-16T06:35:56.591Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "66.96.232.106",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
