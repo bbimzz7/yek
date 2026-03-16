@@ -2809,5 +2809,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-E0906F-CE500E-CF044F": {
+    "expires": "2026-03-17T04:22:22.702Z",
+    "hwid": "10489162992-6bb34a1a-d898-410f-8c63-c9cae917e10b",
+    "browserHwid": null,
+    "username": "privbfD1",
+    "userId": "10489162992",
+    "source": "script",
+    "createdAt": "2026-03-16T04:22:22.857Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.161.141",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
