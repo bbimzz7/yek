@@ -4297,5 +4297,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-57D6DF-7AA7BE-0FB2EB": {
+    "expires": "2026-03-17T07:25:41.799Z",
+    "hwid": "7645403903-368f5050-ed44-475b-a153-884faec349c7",
+    "browserHwid": null,
+    "username": "joe_mamacopyme",
+    "userId": "7645403903",
+    "source": "script",
+    "createdAt": "2026-03-16T07:25:41.975Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "72.179.50.186",
+      "city": "San Marcos",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
