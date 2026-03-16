@@ -6354,5 +6354,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1C0392-EE84C6-15FA57": {
+    "expires": "2026-03-17T11:59:25.473Z",
+    "hwid": "7847889850-001754AA-8622-42B1-8201-68B702151E91",
+    "browserHwid": null,
+    "username": "vellricc",
+    "userId": "7847889850",
+    "source": "script",
+    "createdAt": "2026-03-16T11:59:25.659Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.165.155.242",
+      "city": "Pasarkemis",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
