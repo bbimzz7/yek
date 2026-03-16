@@ -1954,5 +1954,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:31:01.329Z",
     "lastUsed": null
+  },
+  "VH-DA7C8E-94096A-A99336": {
+    "expires": "2026-03-17T02:31:11.738Z",
+    "hwid": "8474229250-09b03491-f014-42d0-8b00-69dffb01a8d6",
+    "browserHwid": null,
+    "username": "Sigopal_sigma",
+    "userId": "8474229250",
+    "source": "script",
+    "createdAt": "2026-03-16T02:31:11.910Z",
+    "lastUsed": null
   }
 }
