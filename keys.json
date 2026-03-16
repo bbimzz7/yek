@@ -2005,5 +2005,15 @@
     "source": "script",
     "createdAt": "2026-03-16T03:03:27.418Z",
     "lastUsed": "2026-03-16T03:03:33.753Z"
+  },
+  "VH-C5D5D4-7DC0C8-3F830D": {
+    "expires": "2026-03-17T03:04:43.780Z",
+    "hwid": "10671229593-d2979656-b754-4f30-ac38-686d0bcaf023",
+    "browserHwid": null,
+    "username": "BLUE_JR679",
+    "userId": "10671229593",
+    "source": "script",
+    "createdAt": "2026-03-16T03:04:43.923Z",
+    "lastUsed": null
   }
 }
