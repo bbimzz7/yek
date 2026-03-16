@@ -1573,5 +1573,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:19:24.839Z",
     "lastUsed": "2026-03-16T01:19:38.176Z"
+  },
+  "VH-D40188-3ECA20-B94922": {
+    "expires": "2026-03-17T01:19:39.896Z",
+    "hwid": "5405993609-EF3FA691-4EE6-45B6-81B0-7E69732D0BBD",
+    "browserHwid": null,
+    "username": "Cristiansanka",
+    "userId": "5405993609",
+    "source": "script",
+    "createdAt": "2026-03-16T01:19:40.038Z",
+    "lastUsed": null
   }
 }
