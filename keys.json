@@ -5546,5 +5546,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-A4BA6A-740E2D-D85663": {
+    "expires": "2026-03-17T09:48:58.018Z",
+    "hwid": "6170004091-C9FF68E7-189F-4FC0-BE0C-C3E04E4C7D2B",
+    "browserHwid": null,
+    "username": "Elpatitokos",
+    "userId": "6170004091",
+    "source": "script",
+    "createdAt": "2026-03-16T09:48:58.213Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.206.105.44",
+      "city": "Taguig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
