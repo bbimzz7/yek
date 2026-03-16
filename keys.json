@@ -3887,8 +3887,15 @@
     "userId": "7136682456",
     "source": "script",
     "createdAt": "2026-03-16T06:58:56.325Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T06:59:56.019Z",
     "geo": {
+      "ip": "112.109.18.101",
+      "city": "Mulyosari",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "112.109.18.101",
       "city": "Mulyosari",
       "region": "Central Java",
