@@ -1684,5 +1684,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:33:47.372Z",
     "lastUsed": "2026-03-16T01:33:52.635Z"
+  },
+  "VH-565F82-D90328-D63834": {
+    "expires": "2026-03-17T01:34:04.049Z",
+    "hwid": "8661053251-1bfc5824-1482-4464-a8f4-c4ebe85c7b40",
+    "browserHwid": null,
+    "username": "coolkid517892",
+    "userId": "8661053251",
+    "source": "script",
+    "createdAt": "2026-03-16T01:34:04.189Z",
+    "lastUsed": null
   }
 }
