@@ -3919,5 +3919,22 @@
       "country": "Nepal",
       "cc": "NP"
     }
+  },
+  "VH-6AB762-FA72DF-E4AE8D": {
+    "expires": "2026-03-17T07:01:27.804Z",
+    "hwid": "10678623385-dbd11b61-46a3-4017-a8e1-75e498294411",
+    "browserHwid": null,
+    "username": "jjennipie",
+    "userId": "10678623385",
+    "source": "script",
+    "createdAt": "2026-03-16T07:01:28.007Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.244.102.63",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
