@@ -8041,5 +8041,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-66E15F-A78FBF-094347": {
+    "expires": "2026-03-17T16:52:02.147Z",
+    "hwid": "10634150031-6AD608F0-C1A1-426A-8439-113CF83ED3BE",
+    "browserHwid": null,
+    "username": "jawirnihorang",
+    "userId": "10634150031",
+    "source": "script",
+    "createdAt": "2026-03-16T16:52:02.387Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.84.240",
+      "city": "Sampang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
