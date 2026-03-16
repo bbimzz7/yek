@@ -3806,5 +3806,22 @@
       "country": "Nepal",
       "cc": "NP"
     }
+  },
+  "VH-3CBAEF-FC0C99-2BAE49": {
+    "expires": "2026-03-17T06:52:07.622Z",
+    "hwid": "10659804838-6478e9ce-4755-41e6-8294-15b23a402ee9",
+    "browserHwid": null,
+    "username": "halog_41",
+    "userId": "10659804838",
+    "source": "script",
+    "createdAt": "2026-03-16T06:52:07.780Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.206.214.253",
+      "city": "Sekampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
