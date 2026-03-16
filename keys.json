@@ -3384,5 +3384,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-56FE34-68CF54-0FD24F": {
+    "expires": "2026-03-17T06:00:19.855Z",
+    "hwid": "10530204194-a44c3389-b4cd-46fb-a60a-28656a3714e1",
+    "browserHwid": null,
+    "username": "aseli_curdes",
+    "userId": "10530204194",
+    "source": "script",
+    "createdAt": "2026-03-16T06:00:20.038Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.192.30.153",
+      "city": "Duren Tiga",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
