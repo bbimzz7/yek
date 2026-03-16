@@ -5745,5 +5745,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-306F39-E818FD-CB146B": {
+    "expires": "2026-03-17T10:18:36.093Z",
+    "hwid": "8765771448-79228b15-8b79-4846-be26-8b3422f451da",
+    "browserHwid": null,
+    "username": "MLG_GODSNIPER",
+    "userId": "8765771448",
+    "source": "script",
+    "createdAt": "2026-03-16T10:18:36.310Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.209.70.151",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
