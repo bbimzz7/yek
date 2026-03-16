@@ -6587,5 +6587,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-A2BA0A-F7A426-449003": {
+    "expires": "2026-03-17T12:20:00.114Z",
+    "hwid": "10663241877-81658186-88d8-45e7-97d5-45877b5ecdff",
+    "browserHwid": null,
+    "username": "RCxtams",
+    "userId": "10663241877",
+    "source": "script",
+    "createdAt": "2026-03-16T12:20:00.312Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.114.52.87",
+      "city": "Colomadu",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
