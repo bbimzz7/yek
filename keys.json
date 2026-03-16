@@ -2025,5 +2025,22 @@
     "source": "script",
     "createdAt": "2026-03-16T03:06:46.011Z",
     "lastUsed": "2026-03-16T03:06:59.489Z"
+  },
+  "VH-96E49A-B57062-09F0DE": {
+    "expires": "2026-03-17T03:12:24.023Z",
+    "hwid": "4274917593-573fe848-3cd3-4605-82f2-8dc554460532",
+    "browserHwid": null,
+    "username": "runer1st6890",
+    "userId": "4274917593",
+    "source": "script",
+    "createdAt": "2026-03-16T03:12:24.320Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "131.226.100.8",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
