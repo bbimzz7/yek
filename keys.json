@@ -1964,5 +1964,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:31:11.910Z",
     "lastUsed": "2026-03-16T02:32:02.283Z"
+  },
+  "VH-540A65-0BECDC-4A996A": {
+    "expires": "2026-03-17T02:32:08.665Z",
+    "hwid": "10548674523-29d8be7e-c2f8-457a-9e6e-febe6fb7e6a4",
+    "browserHwid": null,
+    "username": "Khayrann_11",
+    "userId": "10548674523",
+    "source": "script",
+    "createdAt": "2026-03-16T02:32:08.816Z",
+    "lastUsed": null
   }
 }
