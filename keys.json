@@ -8925,8 +8925,15 @@
     "userId": "10146399342",
     "source": "script",
     "createdAt": "2026-03-16T20:52:41.942Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T20:54:11.946Z",
     "geo": {
+      "ip": "45.230.238.69",
+      "city": "Tasso Fragoso",
+      "region": "Maranhão",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.230.238.69",
       "city": "Tasso Fragoso",
       "region": "Maranhão",
