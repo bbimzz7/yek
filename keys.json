@@ -7177,5 +7177,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-27675D-A67105-116AF4": {
+    "expires": "2026-03-17T14:29:53.140Z",
+    "hwid": "10353394529-d3d3851b-27d5-4bd4-9957-c6f82bf706cc",
+    "browserHwid": null,
+    "username": "gydghghgre",
+    "userId": "10353394529",
+    "source": "script",
+    "createdAt": "2026-03-16T14:29:53.634Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "217.196.163.153",
+      "city": "Ternopil",
+      "region": "Ternopil Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
