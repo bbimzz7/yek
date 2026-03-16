@@ -7736,5 +7736,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-B1249C-776B9B-F597DC": {
+    "expires": "2026-03-17T15:44:46.428Z",
+    "hwid": "9454373495-63ed816f-ccd6-4e89-a241-a1d903efb700",
+    "browserHwid": null,
+    "username": "mgmg5810",
+    "userId": "9454373495",
+    "source": "script",
+    "createdAt": "2026-03-16T15:44:46.799Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.46.1.30",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
