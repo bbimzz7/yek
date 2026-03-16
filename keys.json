@@ -3760,8 +3760,15 @@
     "userId": "3825410434",
     "source": "script",
     "createdAt": "2026-03-16T06:47:07.753Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T06:47:11.680Z",
     "geo": {
+      "ip": "42.119.45.182",
+      "city": "Hải Dương",
+      "region": "Hải Dương Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "42.119.45.182",
       "city": "Hải Dương",
       "region": "Hải Dương Province",
