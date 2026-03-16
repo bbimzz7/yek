@@ -6834,5 +6834,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7F6D58-86B817-31C159": {
+    "expires": "2026-03-17T13:26:35.284Z",
+    "hwid": "10675595554-37e680b8-3bfc-4f2a-b2e6-f6e53b9dcc30",
+    "browserHwid": null,
+    "username": "OMG_EVADEx",
+    "userId": "10675595554",
+    "source": "script",
+    "createdAt": "2026-03-16T13:26:35.522Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.159.227.86",
+      "city": "Azua",
+      "region": "Azua Province",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
