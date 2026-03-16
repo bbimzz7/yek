@@ -7506,5 +7506,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D64910-826895-C83158": {
+    "expires": "2026-03-17T15:06:43.863Z",
+    "hwid": "3973380796-b8c6adda-1539-4b76-84f4-61c9fc3e5dc6",
+    "browserHwid": null,
+    "username": "DHIVA_New123",
+    "userId": "3973380796",
+    "source": "script",
+    "createdAt": "2026-03-16T15:06:44.090Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.8.230.55",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
