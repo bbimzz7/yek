@@ -5370,5 +5370,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D55378-6CD084-1E0598": {
+    "expires": "2026-03-17T09:13:09.437Z",
+    "hwid": "9973189405-fdbcb400-fbc5-4541-a109-dd961b4008ca",
+    "browserHwid": null,
+    "username": "g5bytbtbtb",
+    "userId": "9973189405",
+    "source": "script",
+    "createdAt": "2026-03-16T09:13:09.648Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "58.187.64.196",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
