@@ -7249,5 +7249,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0CB2AB-3612DB-C11C0E": {
+    "expires": "2026-03-17T14:33:55.121Z",
+    "hwid": "10462394801-0fc2a9e8-5401-48f1-9535-b76282b5e4b3",
+    "browserHwid": null,
+    "username": "Roblox_dex10",
+    "userId": "10462394801",
+    "source": "script",
+    "createdAt": "2026-03-16T14:33:55.385Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.89.207.159",
+      "city": "Foz do Iguaçu",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
