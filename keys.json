@@ -5577,5 +5577,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-F164CE-BD4CE8-398A88": {
+    "expires": "2026-03-17T09:59:20.868Z",
+    "hwid": "8502988198-745a5f2c-6208-4e9d-a8c5-ab1079f4266b",
+    "browserHwid": null,
+    "username": "gfhhxhh17",
+    "userId": "8502988198",
+    "source": "script",
+    "createdAt": "2026-03-16T09:59:21.229Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "144.31.178.4",
+      "city": "Tallinn",
+      "region": "Harjumaa",
+      "country": "Estonia",
+      "cc": "EE"
+    }
   }
 }
