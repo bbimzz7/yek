@@ -1604,5 +1604,15 @@
     "createdAt": "2026-03-16T01:23:55.961Z",
     "lastUsed": "2026-03-16T01:24:40.590Z",
     "boundAt": "2026-03-16T01:24:38.143Z"
+  },
+  "VH-F51546-5B503B-4E865F": {
+    "expires": "2026-03-17T01:26:46.701Z",
+    "hwid": "8154654129-E99B58D2-1870-486C-B5A1-B2E1DA55B1D3",
+    "browserHwid": null,
+    "username": "pa2qx",
+    "userId": "8154654129",
+    "source": "script",
+    "createdAt": "2026-03-16T01:26:46.851Z",
+    "lastUsed": null
   }
 }
