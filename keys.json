@@ -6771,8 +6771,15 @@
     "userId": "10576232313",
     "source": "script",
     "createdAt": "2026-03-16T13:20:13.287Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T13:20:23.288Z",
     "geo": {
+      "ip": "92.208.189.203",
+      "city": "Heilbronn",
+      "region": "Baden-Wurttemberg",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "92.208.189.203",
       "city": "Heilbronn",
       "region": "Baden-Wurttemberg",
