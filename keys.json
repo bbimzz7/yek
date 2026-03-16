@@ -1794,5 +1794,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:58:45.636Z",
     "lastUsed": null
+  },
+  "VH-E3BA53-CF3153-A9DAF5": {
+    "expires": "2026-03-17T01:58:56.434Z",
+    "hwid": "10674012323-f1a00a49-63d9-4de8-8f60-0489da2f8855",
+    "browserHwid": null,
+    "username": "kyoo1881",
+    "userId": "10674012323",
+    "source": "script",
+    "createdAt": "2026-03-16T01:58:56.593Z",
+    "lastUsed": null
   }
 }
