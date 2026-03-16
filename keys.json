@@ -8868,5 +8868,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CDDDE1-E6936C-747B58": {
+    "expires": "2026-03-17T20:50:44.115Z",
+    "hwid": "10655712401-8e963c87-d208-4642-8c15-d3f6b39546f9",
+    "browserHwid": null,
+    "username": "baconlp81",
+    "userId": "10655712401",
+    "source": "script",
+    "createdAt": "2026-03-16T20:50:44.491Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.134.0.33",
+      "city": "Peshawar",
+      "region": "Khyber Pakhtunkhwa",
+      "country": "Pakistan",
+      "cc": "PK"
+    }
   }
 }
