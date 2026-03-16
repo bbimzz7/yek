@@ -7011,8 +7011,15 @@
     "userId": "3325492089",
     "source": "script",
     "createdAt": "2026-03-16T13:52:17.054Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T13:52:30.107Z",
     "geo": {
+      "ip": "47.197.179.10",
+      "city": "Davenport",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "47.197.179.10",
       "city": "Davenport",
       "region": "Florida",
