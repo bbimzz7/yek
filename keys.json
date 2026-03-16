@@ -1493,5 +1493,15 @@
     "source": "browser",
     "createdAt": "2026-03-16T01:05:34.898Z",
     "lastUsed": null
+  },
+  "VH-7231CB-149160-30C76E": {
+    "expires": "2026-03-17T01:06:27.387Z",
+    "hwid": "10676870328-aae394b0-5e21-4aff-9c76-4cb8836911da",
+    "browserHwid": null,
+    "username": "Akzzmal3",
+    "userId": "10676870328",
+    "source": "script",
+    "createdAt": "2026-03-16T01:06:27.539Z",
+    "lastUsed": null
   }
 }
