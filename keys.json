@@ -8355,8 +8355,15 @@
     "userId": "8071824495",
     "source": "script",
     "createdAt": "2026-03-16T18:16:23.021Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T18:16:34.161Z",
     "geo": {
+      "ip": "85.76.4.182",
+      "city": "Helsinki",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "cc": "FI"
+    },
+    "lastGeo": {
       "ip": "85.76.4.182",
       "city": "Helsinki",
       "region": "Uusimaa",
