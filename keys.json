@@ -1614,5 +1614,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:26:46.851Z",
     "lastUsed": "2026-03-16T01:26:58.595Z"
+  },
+  "VH-CBB814-896487-2DDBD5": {
+    "expires": "2026-03-17T01:27:41.606Z",
+    "hwid": "9877959448-fa21c250-03d6-4425-ae55-fd5b73e0dc5a",
+    "browserHwid": null,
+    "username": "Urman_Emil",
+    "userId": "9877959448",
+    "source": "script",
+    "createdAt": "2026-03-16T01:27:41.759Z",
+    "lastUsed": null
   }
 }
