@@ -7362,5 +7362,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E8EE3B-D11804-59ECB4": {
+    "expires": "2026-03-17T14:47:23.267Z",
+    "hwid": "9384911837-8188366d-db32-490c-ad13-830a035553dc",
+    "browserHwid": null,
+    "username": "PROSUMMITT",
+    "userId": "9384911837",
+    "source": "script",
+    "createdAt": "2026-03-16T14:47:23.595Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.165.1.16",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
