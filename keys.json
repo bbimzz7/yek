@@ -2065,5 +2065,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:56:15.805Z",
     "lastUsed": "2026-03-16T02:56:28.917Z"
+  },
+  "VH-4B439C-A2EA65-18512B": {
+    "expires": "2026-03-17T03:01:34.689Z",
+    "hwid": "8427501320-87b427a8-0ffd-4159-b62a-c65fa61d6c74",
+    "browserHwid": null,
+    "username": "wandamrp",
+    "userId": "8427501320",
+    "source": "script",
+    "createdAt": "2026-03-16T03:01:34.853Z",
+    "lastUsed": null
   }
 }
