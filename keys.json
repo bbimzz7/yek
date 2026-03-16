@@ -2279,5 +2279,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5FFE25-F6B96C-9547F6": {
+    "expires": "2026-03-17T03:29:02.803Z",
+    "hwid": "9925093907-6CB19620-9FCF-4F4C-9546-19E2DBDC96CF",
+    "browserHwid": null,
+    "username": "Kyodzueken",
+    "userId": "9925093907",
+    "source": "script",
+    "createdAt": "2026-03-16T03:29:02.958Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.65.213.87",
+      "city": "Jepara",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
