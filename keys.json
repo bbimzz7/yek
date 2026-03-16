@@ -4506,5 +4506,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D2B50E-628CFF-988EE6": {
+    "expires": "2026-03-17T07:46:55.922Z",
+    "hwid": "8112129773-c2e6a145-e281-439d-b46d-1ef4d6fb8676",
+    "browserHwid": null,
+    "username": "Akbar1_joblox",
+    "userId": "8112129773",
+    "source": "script",
+    "createdAt": "2026-03-16T07:46:56.082Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.235.203.226",
+      "city": "Toronto",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
