@@ -8580,5 +8580,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-590918-093015-640FB4": {
+    "expires": "2026-03-17T19:26:33.194Z",
+    "hwid": "4432619011-1f1f7d25-ae3d-4243-aca4-86d79f78a0c4",
+    "browserHwid": null,
+    "username": "salihimn22",
+    "userId": "4432619011",
+    "source": "script",
+    "createdAt": "2026-03-16T19:26:33.613Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "206.81.31.157",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
