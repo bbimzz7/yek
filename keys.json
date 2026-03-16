@@ -2068,7 +2068,14 @@
     "userId": "10674048904",
     "source": "script",
     "createdAt": "2026-03-16T02:56:15.805Z",
-    "lastUsed": "2026-03-16T02:56:28.917Z"
+    "lastUsed": "2026-03-16T04:39:38.801Z",
+    "lastGeo": {
+      "ip": "110.137.103.174",
+      "city": "Pasuruan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   },
   "VH-4B439C-A2EA65-18512B": {
     "expires": "2026-03-17T03:01:34.689Z",
