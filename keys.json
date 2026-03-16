@@ -6017,5 +6017,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-70E676-F5C208-BAC705": {
+    "expires": "2026-03-17T11:00:29.987Z",
+    "hwid": "8079297352-33bdd6f0-8a05-4045-88b7-83ba5d37ab84",
+    "browserHwid": null,
+    "username": "Yuvraj19250",
+    "userId": "8079297352",
+    "source": "script",
+    "createdAt": "2026-03-16T11:00:30.249Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "223.178.213.238",
+      "city": "Chandigarh",
+      "region": "Chandigarh",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
