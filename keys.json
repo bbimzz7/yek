@@ -5531,8 +5531,15 @@
     "userId": "10657436244",
     "source": "script",
     "createdAt": "2026-03-16T09:46:07.362Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T09:47:46.873Z",
     "geo": {
+      "ip": "124.107.253.156",
+      "city": "Santa Rosa",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "124.107.253.156",
       "city": "Santa Rosa",
       "region": "Calabarzon",
