@@ -1377,7 +1377,14 @@
     "userId": "753522780",
     "source": "script",
     "createdAt": "2026-03-15T16:50:51.233Z",
-    "lastUsed": "2026-03-15T21:24:16.268Z"
+    "lastUsed": "2026-03-16T06:42:24.112Z",
+    "lastGeo": {
+      "ip": "103.186.168.225",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   },
   "VH-50FC6E-3C3DB9-0DD473": {
     "expires": "2026-03-16T17:30:53.458Z",
