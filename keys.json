@@ -8274,5 +8274,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DE7805-6FC273-69475E": {
+    "expires": "2026-03-17T17:53:24.363Z",
+    "hwid": "2532314015-C2859899-7E3D-4533-828F-3BAB153E929B",
+    "browserHwid": null,
+    "username": "gnzxamlx",
+    "userId": "2532314015",
+    "source": "script",
+    "createdAt": "2026-03-16T17:53:24.544Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.194.46.69",
+      "city": "Pasar Kulon",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
