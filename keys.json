@@ -2397,5 +2397,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-C54402-FC2DFD-A110CB": {
+    "expires": "2026-03-17T03:41:27.871Z",
+    "hwid": "9002949673-f990f6e8-f20d-42f1-8552-bd1364db8c96",
+    "browserHwid": null,
+    "username": "neversusuko9",
+    "userId": "9002949673",
+    "source": "script",
+    "createdAt": "2026-03-16T03:41:28.022Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "143.44.168.107",
+      "city": "Bacolod City",
+      "region": "Western Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
