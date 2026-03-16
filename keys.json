@@ -2874,14 +2874,22 @@
   },
   "VH-9A4FED-A0F99B-3144F7": {
     "expires": "2026-03-17T04:23:12.771Z",
-    "hwid": null,
+    "hwid": "10129955973-64932ce7-c65d-442d-ae51-f7499112a29a",
     "browserHwid": "BR-250BB246-VZ9ER",
     "username": "zyxncacicuy",
-    "userId": null,
+    "userId": "10129955973",
     "source": "browser",
     "createdAt": "2026-03-16T04:23:12.976Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T04:36:19.283Z",
     "geo": {
+      "ip": "157.10.8.164",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-16T04:36:19.275Z",
+    "lastGeo": {
       "ip": "157.10.8.164",
       "city": "Semarang",
       "region": "Central Java",
