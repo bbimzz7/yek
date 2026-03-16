@@ -8445,14 +8445,22 @@
   },
   "VH-FD275F-1F5169-B89C5B": {
     "expires": "2026-03-17T18:27:55.618Z",
-    "hwid": null,
+    "hwid": "3264392830-E0DC13E4-492F-4F8F-B8DC-BDB9AA467E04",
     "browserHwid": "BR-12DE838B-BPRDY",
     "username": "sankyaaku",
-    "userId": null,
+    "userId": "3264392830",
     "source": "browser",
     "createdAt": "2026-03-16T18:27:55.971Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T18:28:02.864Z",
     "geo": {
+      "ip": "182.8.183.163",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-16T18:28:02.850Z",
+    "lastGeo": {
       "ip": "182.8.183.163",
       "city": "Balikpapan",
       "region": "East Kalimantan",
