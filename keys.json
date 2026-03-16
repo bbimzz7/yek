@@ -1984,5 +1984,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:34:43.306Z",
     "lastUsed": "2026-03-16T02:34:49.704Z"
+  },
+  "VH-D26BC2-B9E1F4-981DC7": {
+    "expires": "2026-03-17T02:38:45.338Z",
+    "hwid": "8308613555-945bea05-565f-4505-8a9d-4c29696a5f6a",
+    "browserHwid": null,
+    "username": "iscogalau",
+    "userId": "8308613555",
+    "source": "script",
+    "createdAt": "2026-03-16T02:38:45.490Z",
+    "lastUsed": null
   }
 }
