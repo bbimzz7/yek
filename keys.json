@@ -3970,14 +3970,22 @@
   },
   "VH-65C1C3-025833-8CD5F0": {
     "expires": "2026-03-17T07:03:36.332Z",
-    "hwid": null,
+    "hwid": "5433777519-2562895b-f765-417f-8396-72aa2d839bfd",
     "browserHwid": "BR-16C0BF54-08ISL",
     "username": "HauntedMan999",
-    "userId": null,
+    "userId": "5433777519",
     "source": "browser",
     "createdAt": "2026-03-16T07:03:36.515Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T07:05:10.461Z",
     "geo": {
+      "ip": "202.65.231.158",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-16T07:05:10.455Z",
+    "lastGeo": {
       "ip": "202.65.231.158",
       "city": "Surabaya",
       "region": "East Java",
