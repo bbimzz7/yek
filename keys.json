@@ -9348,5 +9348,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-54875E-1D090D-F7700C": {
+    "expires": "2026-03-17T22:29:03.717Z",
+    "hwid": "9756424841-b2412e54-b026-4f88-b902-1411a9b18d8f",
+    "browserHwid": null,
+    "username": "BUBBA_455",
+    "userId": "9756424841",
+    "source": "script",
+    "createdAt": "2026-03-16T22:29:04.148Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "65.36.24.161",
+      "city": "Midland",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
