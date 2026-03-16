@@ -4563,8 +4563,15 @@
     "userId": "8435927834",
     "source": "script",
     "createdAt": "2026-03-16T07:50:05.487Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T07:50:10.486Z",
     "geo": {
+      "ip": "112.201.205.225",
+      "city": "Batangas",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.201.205.225",
       "city": "Batangas",
       "region": "Calabarzon",
