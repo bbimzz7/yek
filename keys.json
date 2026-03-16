@@ -1513,5 +1513,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:08:36.006Z",
     "lastUsed": "2026-03-16T01:08:43.695Z"
+  },
+  "VH-6AD2A2-FB3352-EB4218": {
+    "expires": "2026-03-17T01:10:13.027Z",
+    "hwid": "10386453507-762f8ebb-6251-4c7a-b8bb-dc299dd3fb20",
+    "browserHwid": null,
+    "username": "stefie_8300",
+    "userId": "10386453507",
+    "source": "script",
+    "createdAt": "2026-03-16T01:10:13.193Z",
+    "lastUsed": null
   }
 }
