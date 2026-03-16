@@ -8050,8 +8050,15 @@
     "userId": "10634150031",
     "source": "script",
     "createdAt": "2026-03-16T16:52:02.387Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T16:52:10.198Z",
     "geo": {
+      "ip": "180.247.84.240",
+      "city": "Sampang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.247.84.240",
       "city": "Sampang",
       "region": "East Java",
