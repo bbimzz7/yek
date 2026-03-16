@@ -9228,5 +9228,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-9B832B-A46940-6EBB7C": {
+    "expires": "2026-03-17T22:12:01.235Z",
+    "hwid": "8185324267-8557324f-5419-4136-897a-af6a036078e8",
+    "browserHwid": null,
+    "username": "apei176",
+    "userId": "8185324267",
+    "source": "script",
+    "createdAt": "2026-03-16T22:12:01.442Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.190.171.64",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
