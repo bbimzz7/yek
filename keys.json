@@ -7283,5 +7283,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-1E3DBB-463CBA-7D7D37": {
+    "expires": "2026-03-17T14:34:26.280Z",
+    "hwid": null,
+    "browserHwid": "BR-1DEB4F5E-H3MLS",
+    "username": "Roblox_2026",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-16T14:34:26.557Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.89.207.159",
+      "city": "Foz do Iguaçu",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
