@@ -8113,5 +8113,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3A7476-A38E17-ED8B3F": {
+    "expires": "2026-03-17T17:03:26.408Z",
+    "hwid": "10508748434-2aeb7e26-e503-428e-bd3a-3ab2dbd303bb",
+    "browserHwid": null,
+    "username": "noob1633856",
+    "userId": "10508748434",
+    "source": "script",
+    "createdAt": "2026-03-16T17:03:26.806Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.127.86.141",
+      "city": "Chartres",
+      "region": "Centre-Val de Loire",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
