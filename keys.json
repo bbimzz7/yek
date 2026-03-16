@@ -2562,5 +2562,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-1475E6-72D5AB-0D0734": {
+    "expires": "2026-03-17T03:55:18.081Z",
+    "hwid": "7454039417-ac59012c-01af-4796-ba2c-d0493b151cef",
+    "browserHwid": null,
+    "username": "BlueberryCool144",
+    "userId": "7454039417",
+    "source": "script",
+    "createdAt": "2026-03-16T03:55:18.264Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.242.159",
+      "city": "Serian",
+      "region": "Sarawak",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
