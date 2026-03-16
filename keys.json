@@ -5601,5 +5601,22 @@
       "country": "Estonia",
       "cc": "EE"
     }
+  },
+  "VH-E9C9B8-4BE7DB-851631": {
+    "expires": "2026-03-17T10:01:47.153Z",
+    "hwid": "10034105265-0507fc97-1cfa-460a-a68d-45825f12b1b6",
+    "browserHwid": null,
+    "username": "DymZzz4EV3R",
+    "userId": "10034105265",
+    "source": "script",
+    "createdAt": "2026-03-16T10:01:47.519Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.78.235",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
