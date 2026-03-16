@@ -4016,5 +4016,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-935348-BC5A57-65F5EB": {
+    "expires": "2026-03-17T07:08:48.833Z",
+    "hwid": null,
+    "browserHwid": "BR-0E42FA02-K164J",
+    "username": "BR-0E42FA02-K164J",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-16T07:08:49.034Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.193.113.28",
+      "city": "Irapuato",
+      "region": "Guanajuato",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
