@@ -2014,5 +2014,15 @@
     "source": "browser",
     "createdAt": "2026-03-16T02:41:24.890Z",
     "lastUsed": null
+  },
+  "VH-C097D6-956E1F-217CCF": {
+    "expires": "2026-03-17T02:41:43.277Z",
+    "hwid": "8053828444-32b69f8f-6570-4126-b040-7e9d42b1e1c0",
+    "browserHwid": null,
+    "username": "bacon_aFz71",
+    "userId": "8053828444",
+    "source": "script",
+    "createdAt": "2026-03-16T02:41:43.411Z",
+    "lastUsed": null
   }
 }
