@@ -5673,5 +5673,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-8F92E2-68FD7F-2D7C38": {
+    "expires": "2026-03-17T10:11:44.372Z",
+    "hwid": "9150308887-486B52FE-B69E-4589-9352-14B123A6526B",
+    "browserHwid": null,
+    "username": "27xysha",
+    "userId": "9150308887",
+    "source": "script",
+    "createdAt": "2026-03-16T10:11:44.575Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.136.192.252",
+      "city": "Mataram",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
