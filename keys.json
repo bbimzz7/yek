@@ -1654,5 +1654,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:31:02.391Z",
     "lastUsed": "2026-03-16T01:31:11.976Z"
+  },
+  "VH-A5A283-B63223-60DD06": {
+    "expires": "2026-03-17T01:31:18.469Z",
+    "hwid": "10666058819-18f73487-bde4-4597-a41c-31a8756f41a8",
+    "browserHwid": null,
+    "username": "Raffisteo",
+    "userId": "10666058819",
+    "source": "script",
+    "createdAt": "2026-03-16T01:31:18.615Z",
+    "lastUsed": null
   }
 }
