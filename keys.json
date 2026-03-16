@@ -3895,5 +3895,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-933C83-61AF2D-0E0FF6": {
+    "expires": "2026-03-17T06:59:01.032Z",
+    "hwid": null,
+    "browserHwid": "BR-0AFAE093-L0G41",
+    "username": "https://discord.gg/ENuuqg6Zg",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-16T06:59:01.202Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.50.66.99",
+      "city": "Itahari",
+      "region": "Koshi",
+      "country": "Nepal",
+      "cc": "NP"
+    }
   }
 }
