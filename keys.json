@@ -5865,5 +5865,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-3E9C79-7CB943-69B5E1": {
+    "expires": "2026-03-17T10:22:20.195Z",
+    "hwid": "4592668255-67d5e85b-1bc1-4af6-896d-1c59e2dd1d00",
+    "browserHwid": null,
+    "username": "jdhshshhs9383",
+    "userId": "4592668255",
+    "source": "script",
+    "createdAt": "2026-03-16T10:22:20.378Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "93.170.219.63",
+      "city": "Kyiv",
+      "region": "Kyiv City",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
