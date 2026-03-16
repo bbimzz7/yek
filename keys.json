@@ -4539,8 +4539,15 @@
     "userId": "4226007258",
     "source": "script",
     "createdAt": "2026-03-16T07:48:22.376Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T07:48:30.114Z",
     "geo": {
+      "ip": "181.80.140.250",
+      "city": "Lules",
+      "region": "Tucuman",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "181.80.140.250",
       "city": "Lules",
       "region": "Tucuman",
