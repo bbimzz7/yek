@@ -5034,5 +5034,22 @@
       "country": "Türkiye",
       "cc": "TR"
     }
+  },
+  "VH-124B2C-0C3E31-9236BF": {
+    "expires": "2026-03-17T08:31:09.891Z",
+    "hwid": "7008233991-2f30575a-0415-429b-b30d-d496ec6dca0b",
+    "browserHwid": null,
+    "username": "KBAC_KNAC55",
+    "userId": "7008233991",
+    "source": "script",
+    "createdAt": "2026-03-16T08:31:10.112Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.203.16.91",
+      "city": "Odesa",
+      "region": "Odesa",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
