@@ -7643,5 +7643,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-A283D0-B14421-8F4222": {
+    "expires": "2026-03-17T15:26:30.459Z",
+    "hwid": "8236183285-a501a7d0-3a65-4359-9c15-2253b1582652",
+    "browserHwid": null,
+    "username": "baileyyo3450",
+    "userId": "8236183285",
+    "source": "script",
+    "createdAt": "2026-03-16T15:26:30.719Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.202.231.23",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
