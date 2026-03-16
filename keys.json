@@ -2421,5 +2421,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-04DB66-6A6F38-9ED69A": {
+    "expires": "2026-03-17T03:43:13.362Z",
+    "hwid": "9625094261-f9457960-de3e-49b9-b129-73abe1abd2ad",
+    "browserHwid": null,
+    "username": "legh_730",
+    "userId": "9625094261",
+    "source": "script",
+    "createdAt": "2026-03-16T03:43:13.539Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.100.227",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
