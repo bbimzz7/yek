@@ -7323,8 +7323,15 @@
     "userId": "9016252272",
     "source": "script",
     "createdAt": "2026-03-16T14:40:18.415Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T14:41:16.515Z",
     "geo": {
+      "ip": "98.50.144.169",
+      "city": "Memphis",
+      "region": "Tennessee",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "98.50.144.169",
       "city": "Memphis",
       "region": "Tennessee",
