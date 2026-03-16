@@ -7266,5 +7266,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-613118-3A840C-CAA397": {
+    "expires": "2026-03-17T14:34:12.338Z",
+    "hwid": "8194035357-92d28729-6b65-45a4-b64f-03d25c575d14",
+    "browserHwid": null,
+    "username": "Terdypogi1905",
+    "userId": "8194035357",
+    "source": "script",
+    "createdAt": "2026-03-16T14:34:12.602Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "126.209.73.154",
+      "city": "Baliuag",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
