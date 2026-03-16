@@ -2024,5 +2024,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:42:49.011Z",
     "lastUsed": null
+  },
+  "VH-E35ED8-CC86BC-FC4409": {
+    "expires": "2026-03-17T02:43:21.986Z",
+    "hwid": null,
+    "browserHwid": "BR-1E6ED044-P4XXM",
+    "username": "dimaslegend100",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-16T02:43:22.137Z",
+    "lastUsed": null
   }
 }
