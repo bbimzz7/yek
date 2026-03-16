@@ -6858,5 +6858,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-9B3026-1730EA-0AFE93": {
+    "expires": "2026-03-17T13:32:46.800Z",
+    "hwid": "9598778958-29cb0339-b4de-4503-b0bf-2280a69ee660",
+    "browserHwid": null,
+    "username": "Y1N_Y4NG31224",
+    "userId": "9598778958",
+    "source": "script",
+    "createdAt": "2026-03-16T13:32:47.158Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.209.180.5",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
