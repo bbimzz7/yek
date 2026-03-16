@@ -6065,5 +6065,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D056C1-5294B8-933CEA": {
+    "expires": "2026-03-17T11:04:52.664Z",
+    "hwid": "7838172149-26a8d71e-ff2e-4ac8-90f5-9441cd6fe727",
+    "browserHwid": null,
+    "username": "Incursio473",
+    "userId": "7838172149",
+    "source": "script",
+    "createdAt": "2026-03-16T11:04:53.806Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.213.210",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
