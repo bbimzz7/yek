@@ -5810,5 +5810,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-51C5B5-11E5A2-655287": {
+    "expires": "2026-03-17T10:20:15.113Z",
+    "hwid": "2871709601-2e9ab674-5b1d-437f-bb51-9d7cb85d3419",
+    "browserHwid": null,
+    "username": "nathalieisidro",
+    "userId": "2871709601",
+    "source": "script",
+    "createdAt": "2026-03-16T10:20:15.324Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.28.70.130",
+      "city": "Caloocan",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
