@@ -8017,5 +8017,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4BF09B-E1EFEC-7BB8D1": {
+    "expires": "2026-03-17T16:49:40.204Z",
+    "hwid": "10433231186-0688F197-A575-47B4-A391-C67A120B657D",
+    "browserHwid": null,
+    "username": "SnoZy_213k",
+    "userId": "10433231186",
+    "source": "script",
+    "createdAt": "2026-03-16T16:49:40.454Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.65.5.170",
+      "city": "Bordeaux",
+      "region": "Nouvelle-Aquitaine",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
