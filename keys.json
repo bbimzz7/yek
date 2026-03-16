@@ -4417,5 +4417,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B0D8E3-CEF169-45E698": {
+    "expires": "2026-03-17T07:31:50.107Z",
+    "hwid": "7317347896-8e5e36ea-4ee0-4eb1-a535-3720f71fab9d",
+    "browserHwid": null,
+    "username": "samisami_999",
+    "userId": "7317347896",
+    "source": "script",
+    "createdAt": "2026-03-16T07:31:50.302Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.187.192.19",
+      "city": "Centro",
+      "region": "Tabasco",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
