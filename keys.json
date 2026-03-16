@@ -4426,8 +4426,15 @@
     "userId": "7317347896",
     "source": "script",
     "createdAt": "2026-03-16T07:31:50.302Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T07:36:14.431Z",
     "geo": {
+      "ip": "187.187.192.19",
+      "city": "Centro",
+      "region": "Tabasco",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.187.192.19",
       "city": "Centro",
       "region": "Tabasco",
