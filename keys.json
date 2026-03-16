@@ -6098,8 +6098,15 @@
     "userId": "6173655300",
     "source": "script",
     "createdAt": "2026-03-16T11:07:12.871Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T11:08:19.934Z",
     "geo": {
+      "ip": "51.195.203.245",
+      "city": "Erith",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "51.195.203.245",
       "city": "Erith",
       "region": "England",
