@@ -2792,5 +2792,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-5C7302-A7E9F9-763E1B": {
+    "expires": "2026-03-17T04:21:06.034Z",
+    "hwid": "10472154875-0e3d7e0e-9270-407e-a492-b38cc127f0c0",
+    "browserHwid": null,
+    "username": "chinhvahj",
+    "userId": "10472154875",
+    "source": "script",
+    "createdAt": "2026-03-16T04:21:06.209Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.98.3.148",
+      "city": "Da Lat",
+      "region": "Lâm Đồng Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
