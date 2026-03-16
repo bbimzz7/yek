@@ -4321,5 +4321,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-B08E75-ED893A-5CABCD": {
+    "expires": "2026-03-17T07:28:11.294Z",
+    "hwid": "3357064924-8becc52b-1b43-4c19-bbc6-eefcb841f149",
+    "browserHwid": null,
+    "username": "bulgame123",
+    "userId": "3357064924",
+    "source": "script",
+    "createdAt": "2026-03-16T07:28:11.542Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.73.120",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
