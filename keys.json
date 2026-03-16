@@ -8161,5 +8161,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2716DB-7F2755-B83564": {
+    "expires": "2026-03-17T17:16:55.900Z",
+    "hwid": "3378211970-1bcd76cc-7a6e-4b47-8ab6-945fee9808ea",
+    "browserHwid": null,
+    "username": "CRUMBLE505",
+    "userId": "3378211970",
+    "source": "script",
+    "createdAt": "2026-03-16T17:16:56.251Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.48.77",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
