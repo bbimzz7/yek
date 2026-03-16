@@ -5274,5 +5274,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-ABB6C6-48E2A1-08A9B1": {
+    "expires": "2026-03-17T09:00:03.834Z",
+    "hwid": "10066568559-4663f1ff-34cb-41d7-b455-f9d824ddf997",
+    "browserHwid": null,
+    "username": "happy_nerie1",
+    "userId": "10066568559",
+    "source": "script",
+    "createdAt": "2026-03-16T09:00:04.054Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "131.226.109.203",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
