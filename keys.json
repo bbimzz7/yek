@@ -6466,8 +6466,15 @@
     "userId": "9632480779",
     "source": "script",
     "createdAt": "2026-03-16T12:05:04.536Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T12:06:15.503Z",
     "geo": {
+      "ip": "31.43.61.139",
+      "city": "Zolochiv",
+      "region": "Kharkivs’ka Oblast’",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "31.43.61.139",
       "city": "Zolochiv",
       "region": "Kharkivs’ka Oblast’",
