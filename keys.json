@@ -6538,8 +6538,15 @@
     "userId": "9937271324",
     "source": "script",
     "createdAt": "2026-03-16T12:15:09.110Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T12:15:32.319Z",
     "geo": {
+      "ip": "27.124.218.239",
+      "city": "Dalseo-gu",
+      "region": "Daegu",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "lastGeo": {
       "ip": "27.124.218.239",
       "city": "Dalseo-gu",
       "region": "Daegu",
