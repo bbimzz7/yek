@@ -3751,5 +3751,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-489F3C-0B6105-23AC77": {
+    "expires": "2026-03-17T06:47:07.591Z",
+    "hwid": "3825410434-B94256C3-7CF1-4802-816D-8443A09A44B9",
+    "browserHwid": null,
+    "username": "VhiroshiG",
+    "userId": "3825410434",
+    "source": "script",
+    "createdAt": "2026-03-16T06:47:07.753Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "42.119.45.182",
+      "city": "Hải Dương",
+      "region": "Hải Dương Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
