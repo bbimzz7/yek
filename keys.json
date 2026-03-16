@@ -6258,5 +6258,22 @@
       "country": "Spain",
       "cc": "ES"
     }
+  },
+  "VH-31C3F4-617B90-DD7404": {
+    "expires": "2026-03-17T11:38:19.663Z",
+    "hwid": "1239390372-A7793EE1-33C4-4B0D-9467-42273982A4AB",
+    "browserHwid": null,
+    "username": "Carolzcc",
+    "userId": "1239390372",
+    "source": "script",
+    "createdAt": "2026-03-16T11:38:19.917Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.232.253.174",
+      "city": "Araraquara",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
