@@ -1884,5 +1884,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:16:20.337Z",
     "lastUsed": "2026-03-16T02:16:28.495Z"
+  },
+  "VH-217BD7-778A2F-2BF3C5": {
+    "expires": "2026-03-17T02:16:59.847Z",
+    "hwid": "1457381861-2fe6ddcd-44de-4dbb-ae3d-25619eee652e",
+    "browserHwid": null,
+    "username": "Rizaltf",
+    "userId": "1457381861",
+    "source": "script",
+    "createdAt": "2026-03-16T02:17:00.008Z",
+    "lastUsed": null
   }
 }
