@@ -6954,5 +6954,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-6E8D4A-7FAFE7-A218E1": {
+    "expires": "2026-03-17T13:48:11.668Z",
+    "hwid": "9192124751-365d1e13-c053-449f-910b-0c682aa2a4f4",
+    "browserHwid": null,
+    "username": "Rayhan_gamin8",
+    "userId": "9192124751",
+    "source": "script",
+    "createdAt": "2026-03-16T13:48:12.058Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.211.137.184",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
