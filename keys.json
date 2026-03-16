@@ -9117,8 +9117,15 @@
     "userId": "10665153484",
     "source": "script",
     "createdAt": "2026-03-16T21:51:22.825Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T21:51:32.653Z",
     "geo": {
+      "ip": "177.225.76.1",
+      "city": "Ciudad Juárez",
+      "region": "Chihuahua",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "177.225.76.1",
       "city": "Ciudad Juárez",
       "region": "Chihuahua",
