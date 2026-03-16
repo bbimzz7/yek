@@ -1784,5 +1784,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:58:44.520Z",
     "lastUsed": null
+  },
+  "VH-32FF12-2B85C3-DFC25F": {
+    "expires": "2026-03-17T01:58:44.573Z",
+    "hwid": "10675301009-241e56be-3969-40c6-97fd-e9318de42c89",
+    "browserHwid": null,
+    "username": "coco9273638293",
+    "userId": "10675301009",
+    "source": "script",
+    "createdAt": "2026-03-16T01:58:45.636Z",
+    "lastUsed": null
   }
 }
