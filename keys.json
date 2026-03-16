@@ -5793,5 +5793,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-5786B0-0966BE-D473C9": {
+    "expires": "2026-03-17T10:19:51.339Z",
+    "hwid": "1357464631-f0048714-8bb7-4c10-ab37-5e083473edde",
+    "browserHwid": null,
+    "username": "Ali_Ghazali1",
+    "userId": "1357464631",
+    "source": "script",
+    "createdAt": "2026-03-16T10:19:51.535Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.129.150.96",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
