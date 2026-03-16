@@ -5522,5 +5522,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9B6786-BBFC88-59D232": {
+    "expires": "2026-03-17T09:46:07.152Z",
+    "hwid": "10657436244-907c3d48-3eb5-492d-b9ac-a1097c5ec402",
+    "browserHwid": null,
+    "username": "yawa132587",
+    "userId": "10657436244",
+    "source": "script",
+    "createdAt": "2026-03-16T09:46:07.362Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.107.253.156",
+      "city": "Santa Rosa",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
