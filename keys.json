@@ -2366,5 +2366,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-B812E7-AA2C9C-DCDBB5": {
+    "expires": "2026-03-17T03:36:33.805Z",
+    "hwid": "9881719521-7d1f9771-d5fb-403c-befc-d95453bbe773",
+    "browserHwid": null,
+    "username": "zebra_3905",
+    "userId": "9881719521",
+    "source": "script",
+    "createdAt": "2026-03-16T03:36:33.964Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "184.22.145.13",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
