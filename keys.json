@@ -8322,5 +8322,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-81E545-CC8CAA-C91C1B": {
+    "expires": "2026-03-17T18:03:01.353Z",
+    "hwid": "3476996894-54616b9f-9fcf-409e-8ae5-6bea0b0d8778",
+    "browserHwid": null,
+    "username": "AlicaClemiraFitryan",
+    "userId": "3476996894",
+    "source": "script",
+    "createdAt": "2026-03-16T18:03:01.832Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.56.237",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
