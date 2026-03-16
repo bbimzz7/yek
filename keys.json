@@ -1714,5 +1714,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:36:59.933Z",
     "lastUsed": "2026-03-16T01:37:05.907Z"
+  },
+  "VH-CF5243-8C9EE5-E0E41C": {
+    "expires": "2026-03-17T01:38:25.280Z",
+    "hwid": "6146900402-98f04907-9fe4-4fdf-9571-23e26f7c89f9",
+    "browserHwid": null,
+    "username": "422LLLL",
+    "userId": "6146900402",
+    "source": "script",
+    "createdAt": "2026-03-16T01:38:25.411Z",
+    "lastUsed": null
   }
 }
