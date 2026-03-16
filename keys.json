@@ -4993,5 +4993,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-ECDEF5-FC691E-9AE2C4": {
+    "expires": "2026-03-17T08:29:01.033Z",
+    "hwid": "9944650826-e3b247fc-5dfc-46e1-908a-900a8ce49389",
+    "browserHwid": null,
+    "username": "lexlxie",
+    "userId": "9944650826",
+    "source": "script",
+    "createdAt": "2026-03-16T08:29:01.208Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.164.203.45",
+      "city": "Madrid",
+      "region": "Madrid",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
