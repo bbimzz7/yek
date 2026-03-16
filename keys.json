@@ -2257,8 +2257,15 @@
     "userId": "5855168666",
     "source": "script",
     "createdAt": "2026-03-16T03:26:31.708Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T03:26:37.677Z",
     "geo": {
+      "ip": "103.175.240.86",
+      "city": "Banyumas",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.175.240.86",
       "city": "Banyumas",
       "region": "Central Java",
