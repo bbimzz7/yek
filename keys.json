@@ -8758,5 +8758,22 @@
       "country": "Georgia",
       "cc": "GE"
     }
+  },
+  "VH-F3F306-5E7CE0-EEE25B": {
+    "expires": "2026-03-17T20:26:41.079Z",
+    "hwid": "6001632942-882C4615-93B1-4F0E-8CC6-BCCB15B2954E",
+    "browserHwid": null,
+    "username": "benjaminthhhh",
+    "userId": "6001632942",
+    "source": "script",
+    "createdAt": "2026-03-16T20:26:41.277Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "80.198.249.16",
+      "city": "Tørring",
+      "region": "Central Jutland",
+      "country": "Denmark",
+      "cc": "DK"
+    }
   }
 }
