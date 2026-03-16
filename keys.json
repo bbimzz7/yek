@@ -1317,7 +1317,14 @@
     "userId": "8285524536",
     "source": "script",
     "createdAt": "2026-03-15T15:20:35.310Z",
-    "lastUsed": "2026-03-15T15:20:54.917Z"
+    "lastUsed": "2026-03-16T14:15:05.486Z",
+    "lastGeo": {
+      "ip": "101.128.98.85",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   },
   "VH-E2922D-6CF89D-D381F8": {
     "expires": "2026-03-16T15:22:09.071Z",
