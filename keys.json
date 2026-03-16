@@ -2027,12 +2027,13 @@
   },
   "VH-E35ED8-CC86BC-FC4409": {
     "expires": "2026-03-17T02:43:21.986Z",
-    "hwid": null,
+    "hwid": "2832806263-3F00B6C8-FE36-4DEE-A3A2-602D9206D3B6",
     "browserHwid": "BR-1E6ED044-P4XXM",
     "username": "dimaslegend100",
-    "userId": null,
+    "userId": "2832806263",
     "source": "browser",
     "createdAt": "2026-03-16T02:43:22.137Z",
-    "lastUsed": null
+    "lastUsed": "2026-03-16T02:44:57.523Z",
+    "boundAt": "2026-03-16T02:44:57.523Z"
   }
 }
