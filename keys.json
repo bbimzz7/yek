@@ -2667,8 +2667,15 @@
     "userId": "9584420034",
     "source": "script",
     "createdAt": "2026-03-16T03:57:11.588Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T03:57:30.830Z",
     "geo": {
+      "ip": "103.180.119.113",
+      "city": "Kemendung",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.180.119.113",
       "city": "Kemendung",
       "region": "East Java",
