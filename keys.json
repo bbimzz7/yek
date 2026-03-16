@@ -5178,5 +5178,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-28A535-BD9AAD-E40622": {
+    "expires": "2026-03-17T08:48:41.241Z",
+    "hwid": "8623153319-4acd8a1e-53b2-45ce-a567-c6ee1b846fc9",
+    "browserHwid": null,
+    "username": "daniel_tal11",
+    "userId": "8623153319",
+    "source": "script",
+    "createdAt": "2026-03-16T08:48:41.455Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.188.89.226",
+      "city": "Manaus",
+      "region": "Amazonas",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
