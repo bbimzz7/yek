@@ -9525,8 +9525,15 @@
     "userId": "5436142160",
     "source": "script",
     "createdAt": "2026-03-16T23:27:58.533Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T23:30:40.277Z",
     "geo": {
+      "ip": "167.62.43.216",
+      "city": "Montevideo",
+      "region": "Montevideo Department",
+      "country": "Uruguay",
+      "cc": "UY"
+    },
+    "lastGeo": {
       "ip": "167.62.43.216",
       "city": "Montevideo",
       "region": "Montevideo Department",
