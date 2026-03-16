@@ -3734,5 +3734,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-8C1ED1-20C970-663DC8": {
+    "expires": "2026-03-17T06:47:03.239Z",
+    "hwid": "5626813454-8104d23e-f3d9-4672-a1ee-98cb959e3b51",
+    "browserHwid": null,
+    "username": "vatanak025",
+    "userId": "5626813454",
+    "source": "script",
+    "createdAt": "2026-03-16T06:47:03.417Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.144.79.68",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    }
   }
 }
