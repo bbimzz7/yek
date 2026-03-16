@@ -2447,8 +2447,15 @@
     "userId": "5018145487",
     "source": "script",
     "createdAt": "2026-03-16T03:43:55.853Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T03:45:24.695Z",
     "geo": {
+      "ip": "45.191.78.32",
+      "city": "Magé",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.191.78.32",
       "city": "Magé",
       "region": "Rio de Janeiro",
