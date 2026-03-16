@@ -7458,5 +7458,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-444887-476BCB-ADB8D2": {
+    "expires": "2026-03-17T15:00:00.520Z",
+    "hwid": "7702344649-fa502e7d-a88a-4493-9b36-307554d014c4",
+    "browserHwid": null,
+    "username": "kupal_uu",
+    "userId": "7702344649",
+    "source": "script",
+    "createdAt": "2026-03-16T15:00:00.860Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.201.135.73",
+      "city": "Cainta",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
