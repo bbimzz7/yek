@@ -6426,5 +6426,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-C6D165-8F7E83-11CD87": {
+    "expires": "2026-03-17T12:04:07.172Z",
+    "hwid": "1005931525-F9543A80-DF53-4AA7-ACEB-7925712AE1D2",
+    "browserHwid": null,
+    "username": "bektasb214",
+    "userId": "1005931525",
+    "source": "script",
+    "createdAt": "2026-03-16T12:04:07.402Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.88.149.216",
+      "city": "Kokshetau",
+      "region": "Aqmola",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
