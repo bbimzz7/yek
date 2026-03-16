@@ -9317,5 +9317,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-E5B372-F6658B-769B60": {
+    "expires": "2026-03-17T22:25:10.096Z",
+    "hwid": "10681702047-f796cfb7-c432-4fe7-949b-7ab382bd8ca9",
+    "browserHwid": null,
+    "username": "beodzaixh",
+    "userId": "10681702047",
+    "source": "script",
+    "createdAt": "2026-03-16T22:25:10.368Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.220.243.16",
+      "city": "Sacramento",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
