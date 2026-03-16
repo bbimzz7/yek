@@ -4105,5 +4105,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-05DCBD-44958C-2844DD": {
+    "expires": "2026-03-17T07:15:05.639Z",
+    "hwid": "7317401746-A4F5590D-2187-4816-8425-87F60AAE0CFC",
+    "browserHwid": null,
+    "username": "hydra666xa",
+    "userId": "7317401746",
+    "source": "script",
+    "createdAt": "2026-03-16T07:15:05.855Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.24.42",
+      "city": "Paranaque City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
