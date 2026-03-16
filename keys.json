@@ -8767,8 +8767,15 @@
     "userId": "6001632942",
     "source": "script",
     "createdAt": "2026-03-16T20:26:41.277Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T20:26:47.911Z",
     "geo": {
+      "ip": "80.198.249.16",
+      "city": "Tørring",
+      "region": "Central Jutland",
+      "country": "Denmark",
+      "cc": "DK"
+    },
+    "lastGeo": {
       "ip": "80.198.249.16",
       "city": "Tørring",
       "region": "Central Jutland",
