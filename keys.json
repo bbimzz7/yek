@@ -7026,5 +7026,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-2E9AC4-4492FE-10E5BF": {
+    "expires": "2026-03-17T13:58:55.696Z",
+    "hwid": "9189654272-1cfadf58-de90-4e96-a1f3-fcd86781b50f",
+    "browserHwid": null,
+    "username": "gxhjotr",
+    "userId": "9189654272",
+    "source": "script",
+    "createdAt": "2026-03-16T13:58:56.036Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "169.224.0.159",
+      "city": "Baghdad",
+      "region": "Baghdad",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
