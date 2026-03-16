@@ -5923,8 +5923,15 @@
     "userId": "7843432207",
     "source": "script",
     "createdAt": "2026-03-16T10:41:13.740Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T10:42:49.401Z",
     "geo": {
+      "ip": "27.34.73.10",
+      "city": "Bhaktapur",
+      "region": "Bagmati Province",
+      "country": "Nepal",
+      "cc": "NP"
+    },
+    "lastGeo": {
       "ip": "27.34.73.10",
       "city": "Bhaktapur",
       "region": "Bagmati Province",
