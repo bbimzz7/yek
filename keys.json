@@ -2080,5 +2080,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-EA6517-ACF60B-B5ED96": {
+    "expires": "2026-03-17T03:18:23.214Z",
+    "hwid": null,
+    "browserHwid": "BR-71EC229D-VDERR",
+    "username": "Matheus evade",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-16T03:18:23.355Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.38.213.124",
+      "city": "Santos",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
