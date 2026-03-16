@@ -4474,8 +4474,15 @@
     "userId": "3536486372",
     "source": "script",
     "createdAt": "2026-03-16T07:43:06.338Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T07:43:19.061Z",
     "geo": {
+      "ip": "143.44.146.55",
+      "city": "Olongapo City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "143.44.146.55",
       "city": "Olongapo City",
       "region": "Central Luzon",
