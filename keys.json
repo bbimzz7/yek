@@ -9501,8 +9501,15 @@
     "userId": "10674321044",
     "source": "script",
     "createdAt": "2026-03-16T23:19:08.745Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T23:20:13.422Z",
     "geo": {
+      "ip": "45.188.53.222",
+      "city": "Combinado",
+      "region": "Tocantins",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.188.53.222",
       "city": "Combinado",
       "region": "Tocantins",
