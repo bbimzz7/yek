@@ -9060,5 +9060,22 @@
       "country": "Tunisia",
       "cc": "TN"
     }
+  },
+  "VH-DB5344-026D81-C06B32": {
+    "expires": "2026-03-17T21:34:48.374Z",
+    "hwid": "2033111776-34efca4d-57f2-4392-a607-86abaa191af2",
+    "browserHwid": null,
+    "username": "manaceez",
+    "userId": "2033111776",
+    "source": "script",
+    "createdAt": "2026-03-16T21:34:48.736Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "78.21.162.233",
+      "city": "Buggenhout",
+      "region": "Flanders",
+      "country": "Belgium",
+      "cc": "BE"
+    }
   }
 }
