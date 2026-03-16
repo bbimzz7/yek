@@ -5257,5 +5257,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-78445A-C5401A-D65BC0": {
+    "expires": "2026-03-17T08:58:00.648Z",
+    "hwid": "8805983655-152e60ce-d056-428c-a4eb-e4f6a89225e4",
+    "browserHwid": null,
+    "username": "hahahamokremo67",
+    "userId": "8805983655",
+    "source": "script",
+    "createdAt": "2026-03-16T08:58:00.862Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.5.0.240",
+      "city": "Kalibo",
+      "region": "Soccsksargen",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
