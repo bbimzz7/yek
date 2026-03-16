@@ -8709,8 +8709,15 @@
     "userId": "7338875389",
     "source": "script",
     "createdAt": "2026-03-16T20:23:12.846Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T20:24:42.826Z",
     "geo": {
+      "ip": "45.234.226.51",
+      "city": "Coquimbo",
+      "region": "Coquimbo Region",
+      "country": "Chile",
+      "cc": "CL"
+    },
+    "lastGeo": {
       "ip": "45.234.226.51",
       "city": "Coquimbo",
       "region": "Coquimbo Region",
