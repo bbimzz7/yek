@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-16T03:03:40.495Z",
+    "action": "bulkdelete",
+    "detail": "1 key terpilih dihapus"
+  },
+  {
     "ts": "2026-03-16T03:03:35.042Z",
     "action": "bulkdelete",
     "detail": "1 key terpilih dihapus"
