@@ -7201,5 +7201,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-DE2773-4A37AD-1DE593": {
+    "expires": "2026-03-17T14:31:52.266Z",
+    "hwid": "3935900518-450354a0-3707-49da-a8df-483e5ffdabeb",
+    "browserHwid": null,
+    "username": "IM_KING166",
+    "userId": "3935900518",
+    "source": "script",
+    "createdAt": "2026-03-16T14:31:52.496Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.29.66.139",
+      "city": "Clark",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
