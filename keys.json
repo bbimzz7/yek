@@ -3127,5 +3127,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-E70F12-D34193-14312D": {
+    "expires": "2026-03-17T05:33:13.533Z",
+    "hwid": "4470065637-c1a97562-fe01-4a5a-a767-d4d107b80551",
+    "browserHwid": null,
+    "username": "orenbarbar23",
+    "userId": "4470065637",
+    "source": "script",
+    "createdAt": "2026-03-16T05:33:13.704Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.105.40",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
