@@ -2768,5 +2768,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-63F6DC-4B8110-710C2C": {
+    "expires": "2026-03-17T04:20:41.170Z",
+    "hwid": "10654789306-6f746f25-ceea-4851-96cb-7f57aec4aed8",
+    "browserHwid": null,
+    "username": "Jeben0001",
+    "userId": "10654789306",
+    "source": "script",
+    "createdAt": "2026-03-16T04:20:41.341Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "50.61.137.96",
+      "city": "Dammam",
+      "region": "Eastern Province",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
