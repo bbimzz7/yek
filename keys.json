@@ -6529,5 +6529,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-B119EB-3721F5-696155": {
+    "expires": "2026-03-17T12:15:08.927Z",
+    "hwid": "9937271324-D7C0A84F-2D0A-4A85-934B-FDC353686235",
+    "browserHwid": null,
+    "username": "Nasrll19",
+    "userId": "9937271324",
+    "source": "script",
+    "createdAt": "2026-03-16T12:15:09.110Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.124.218.239",
+      "city": "Dalseo-gu",
+      "region": "Daegu",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
