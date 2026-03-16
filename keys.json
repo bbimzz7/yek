@@ -8988,5 +8988,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-3EA31E-EAC5BD-9784EB": {
+    "expires": "2026-03-17T21:17:30.673Z",
+    "hwid": "8140172848-0C9F650D-59A0-484E-972C-6E23510BBE6B",
+    "browserHwid": null,
+    "username": "testdoang00",
+    "userId": "8140172848",
+    "source": "script",
+    "createdAt": "2026-03-16T21:17:31.052Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.161.215",
+      "city": "Cirebon",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
