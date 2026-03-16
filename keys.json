@@ -6906,5 +6906,22 @@
       "country": "Georgia",
       "cc": "GE"
     }
+  },
+  "VH-FC37C5-AE515D-B42282": {
+    "expires": "2026-03-17T13:35:28.538Z",
+    "hwid": "8401239030-b937e1d0-6b49-45ea-b619-c015f3e24745",
+    "browserHwid": null,
+    "username": "Nazumi_ishere",
+    "userId": "8401239030",
+    "source": "script",
+    "createdAt": "2026-03-16T13:35:28.783Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.42.116",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
