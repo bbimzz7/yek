@@ -4057,5 +4057,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-A180A9-4C39CA-49B5B1": {
+    "expires": "2026-03-17T07:14:14.541Z",
+    "hwid": "4063760265-dbd11b61-46a3-4017-a8e1-75e498294411",
+    "browserHwid": null,
+    "username": "vzqriiv",
+    "userId": "4063760265",
+    "source": "script",
+    "createdAt": "2026-03-16T07:14:14.733Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.244.102.63",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
