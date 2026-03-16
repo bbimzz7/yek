@@ -3000,5 +3000,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AEBF19-DD1E5D-135766": {
+    "expires": "2026-03-17T04:37:35.057Z",
+    "hwid": "3443999161-7E9FA4F8-3870-4F59-84CC-425FBCBEE69D",
+    "browserHwid": null,
+    "username": "Aquaments",
+    "userId": "3443999161",
+    "source": "script",
+    "createdAt": "2026-03-16T04:37:35.359Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.1.60",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
