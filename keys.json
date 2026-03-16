@@ -3175,5 +3175,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7A2551-B0F16F-99993A": {
+    "expires": "2026-03-17T05:36:04.272Z",
+    "hwid": "9060787124-39559c61-c334-418b-869b-4a6622876fd3",
+    "browserHwid": null,
+    "username": "Yusuf2051944",
+    "userId": "9060787124",
+    "source": "script",
+    "createdAt": "2026-03-16T05:36:04.456Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.90.106.24",
+      "city": "Dronten",
+      "region": "Flevoland",
+      "country": "The Netherlands",
+      "cc": "NL"
+    }
   }
 }
