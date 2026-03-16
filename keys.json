@@ -5266,8 +5266,15 @@
     "userId": "8805983655",
     "source": "script",
     "createdAt": "2026-03-16T08:58:00.862Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T09:01:45.881Z",
     "geo": {
+      "ip": "103.5.0.240",
+      "city": "Kalibo",
+      "region": "Soccsksargen",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "103.5.0.240",
       "city": "Kalibo",
       "region": "Soccsksargen",
