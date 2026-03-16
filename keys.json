@@ -2056,5 +2056,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D1712F-769EEE-A52892": {
+    "expires": "2026-03-17T03:17:28.124Z",
+    "hwid": "10678502472-3c803596-027c-4be3-8fa4-54d3cd106c69",
+    "browserHwid": null,
+    "username": "Afdbgfsfbgbtf",
+    "userId": "10678502472",
+    "source": "script",
+    "createdAt": "2026-03-16T03:17:28.289Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.38.92.20",
+      "city": "Raleigh",
+      "region": "North Carolina",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
