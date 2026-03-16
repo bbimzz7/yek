@@ -8427,8 +8427,15 @@
     "userId": "10633962947",
     "source": "script",
     "createdAt": "2026-03-16T18:21:59.171Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T18:22:08.229Z",
     "geo": {
+      "ip": "185.5.70.182",
+      "city": "Havířov",
+      "region": "Moravskoslezský kraj",
+      "country": "Czechia",
+      "cc": "CZ"
+    },
+    "lastGeo": {
       "ip": "185.5.70.182",
       "city": "Havířov",
       "region": "Moravskoslezský kraj",
