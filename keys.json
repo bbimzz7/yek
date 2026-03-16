@@ -4489,5 +4489,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-198E2C-7707B6-0AE748": {
+    "expires": "2026-03-17T07:44:47.933Z",
+    "hwid": "1987176007-1ed828c1-cfb4-4dbc-ab63-4f0a5b60c5cb",
+    "browserHwid": null,
+    "username": "ghuhgga",
+    "userId": "1987176007",
+    "source": "script",
+    "createdAt": "2026-03-16T07:44:48.139Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "139.135.192.3",
+      "city": "Calamba",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
