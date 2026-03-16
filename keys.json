@@ -1904,5 +1904,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:18:50.596Z",
     "lastUsed": "2026-03-16T02:22:37.025Z"
+  },
+  "VH-ED0820-DB8C18-3BD89D": {
+    "expires": "2026-03-17T02:26:24.947Z",
+    "hwid": "10183181950-e8d2fef9-8255-4b11-935e-7fa3c7665cb1",
+    "browserHwid": null,
+    "username": "TkeyDraco",
+    "userId": "10183181950",
+    "source": "script",
+    "createdAt": "2026-03-16T02:26:25.221Z",
+    "lastUsed": null
   }
 }
