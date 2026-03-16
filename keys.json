@@ -8844,5 +8844,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A9BB8A-93DC0B-BB50AD": {
+    "expires": "2026-03-17T20:40:46.635Z",
+    "hwid": "9606130767-d69f7685-112a-49e1-916d-92e38501e124",
+    "browserHwid": null,
+    "username": "kamumwgk",
+    "userId": "9606130767",
+    "source": "script",
+    "createdAt": "2026-03-16T20:40:46.855Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.37.111",
+      "city": "Laikit Matungkas",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
