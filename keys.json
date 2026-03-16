@@ -5043,8 +5043,15 @@
     "userId": "7008233991",
     "source": "script",
     "createdAt": "2026-03-16T08:31:10.112Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T08:31:52.277Z",
     "geo": {
+      "ip": "37.203.16.91",
+      "city": "Odesa",
+      "region": "Odesa",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "37.203.16.91",
       "city": "Odesa",
       "region": "Odesa",
