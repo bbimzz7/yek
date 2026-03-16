@@ -8733,8 +8733,15 @@
     "userId": "7337131097",
     "source": "script",
     "createdAt": "2026-03-16T20:24:47.046Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T20:26:55.302Z",
     "geo": {
+      "ip": "154.47.153.2",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "154.47.153.2",
       "city": "Banda Aceh",
       "region": "Aceh",
