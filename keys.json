@@ -4249,5 +4249,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-04D994-A8762F-EFEB27": {
+    "expires": "2026-03-17T07:23:22.011Z",
+    "hwid": "8671396894-b18a0fc4-cc4d-4bf7-ae72-92bc3ba79300",
+    "browserHwid": null,
+    "username": "Allenxvxe",
+    "userId": "8671396894",
+    "source": "script",
+    "createdAt": "2026-03-16T07:23:22.157Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "143.105.161.115",
+      "city": "N'djamena",
+      "region": "N'Djamena",
+      "country": "Chad",
+      "cc": "TD"
+    }
   }
 }
