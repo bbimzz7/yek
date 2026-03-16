@@ -5074,9 +5074,16 @@
     "userId": "9505942704",
     "source": "script",
     "createdAt": "2026-03-16T08:35:46.444Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T08:35:57.417Z",
     "geo": {
       "ip": "103.102.136.58",
+      "city": "Chittagong",
+      "region": "Chittagong",
+      "country": "Bangladesh",
+      "cc": "BD"
+    },
+    "lastGeo": {
+      "ip": "103.102.136.59",
       "city": "Chittagong",
       "region": "Chittagong",
       "country": "Bangladesh",
