@@ -3280,8 +3280,15 @@
     "userId": "4941742688",
     "source": "script",
     "createdAt": "2026-03-16T05:50:30.390Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T05:50:41.296Z",
     "geo": {
+      "ip": "114.10.158.141",
+      "city": "Donggala",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.158.141",
       "city": "Donggala",
       "region": "Central Sulawesi",
