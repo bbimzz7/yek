@@ -5458,13 +5458,20 @@
     "userId": "8644075002",
     "source": "script",
     "createdAt": "2026-03-16T09:32:03.379Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T09:33:13.013Z",
     "geo": {
       "ip": "159.146.40.126",
       "city": "Istanbul",
       "region": "Istanbul",
       "country": "Türkiye",
       "cc": "TR"
+    },
+    "lastGeo": {
+      "ip": "185.100.234.196",
+      "city": "Naaldwijk",
+      "region": "South Holland",
+      "country": "The Netherlands",
+      "cc": "NL"
     }
   }
 }
