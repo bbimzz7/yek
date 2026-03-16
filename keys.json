@@ -4882,8 +4882,15 @@
     "userId": "8456667670",
     "source": "script",
     "createdAt": "2026-03-16T08:18:12.787Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T08:18:19.326Z",
     "geo": {
+      "ip": "115.133.214.72",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "115.133.214.72",
       "city": "Kota Kinabalu",
       "region": "Sabah",
