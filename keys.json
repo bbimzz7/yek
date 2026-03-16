@@ -2351,8 +2351,15 @@
     "userId": "10362124229",
     "source": "script",
     "createdAt": "2026-03-16T03:34:10.313Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T03:34:21.701Z",
     "geo": {
+      "ip": "187.252.3.49",
+      "city": "Tulum",
+      "region": "Quintana Roo",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.252.3.49",
       "city": "Tulum",
       "region": "Quintana Roo",
