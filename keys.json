@@ -1924,5 +1924,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:30:08.459Z",
     "lastUsed": null
+  },
+  "VH-1F732F-C8FD0B-6E83C4": {
+    "expires": "2026-03-17T02:30:10.013Z",
+    "hwid": "5095475166-a7dade9b-3ecc-492f-842a-0252e814c148",
+    "browserHwid": null,
+    "username": "D_prm",
+    "userId": "5095475166",
+    "source": "script",
+    "createdAt": "2026-03-16T02:30:10.203Z",
+    "lastUsed": null
   }
 }
