@@ -9540,5 +9540,22 @@
       "country": "Uruguay",
       "cc": "UY"
     }
+  },
+  "VH-A4AB95-F66696-95ABCA": {
+    "expires": "2026-03-17T23:33:24.537Z",
+    "hwid": "5350480661-e4fa7aac-9fbd-40f6-8d38-7cb902ad89f8",
+    "browserHwid": null,
+    "username": "14insanon",
+    "userId": "5350480661",
+    "source": "script",
+    "createdAt": "2026-03-16T23:33:24.899Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.172.96.89",
+      "city": "Monterrey",
+      "region": "Nuevo León",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
