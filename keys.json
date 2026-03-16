@@ -2533,8 +2533,15 @@
     "userId": "732320790",
     "source": "script",
     "createdAt": "2026-03-16T03:51:23.899Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T03:51:31.874Z",
     "geo": {
+      "ip": "38.25.50.39",
+      "city": "Lima",
+      "region": "Lima Province",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
       "ip": "38.25.50.39",
       "city": "Lima",
       "region": "Lima Province",
