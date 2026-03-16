@@ -7098,5 +7098,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-4A8E2F-686B3A-CD0093": {
+    "expires": "2026-03-17T14:08:32.661Z",
+    "hwid": "10229823551-4f77b989-3c55-4777-803e-5b4958ddf3b0",
+    "browserHwid": null,
+    "username": "hellow2025678",
+    "userId": "10229823551",
+    "source": "script",
+    "createdAt": "2026-03-16T14:08:32.908Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.2.110",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
