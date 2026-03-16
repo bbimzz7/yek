@@ -2936,5 +2936,22 @@
       "country": "El Salvador",
       "cc": "SV"
     }
+  },
+  "VH-A0D8A8-0E880C-8469FD": {
+    "expires": "2026-03-17T04:31:14.080Z",
+    "hwid": "10678681556-CE6A77DA-2FCF-4350-8A70-AF8C4AEE4176",
+    "browserHwid": null,
+    "username": "abcdefghijklmno9033",
+    "userId": "10678681556",
+    "source": "script",
+    "createdAt": "2026-03-16T04:31:14.271Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.100.42.2",
+      "city": "Sherman",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
