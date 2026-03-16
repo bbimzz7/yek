@@ -6218,8 +6218,15 @@
     "userId": "5694802017",
     "source": "script",
     "createdAt": "2026-03-16T11:35:47.450Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T11:35:54.963Z",
     "geo": {
+      "ip": "217.194.158.27",
+      "city": "Giv'at Brenner",
+      "region": "Central District",
+      "country": "Israel",
+      "cc": "IL"
+    },
+    "lastGeo": {
       "ip": "217.194.158.27",
       "city": "Giv'at Brenner",
       "region": "Central District",
