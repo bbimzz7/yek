@@ -8346,5 +8346,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DCA2E4-21C9E5-8E7057": {
+    "expires": "2026-03-17T18:16:22.665Z",
+    "hwid": "8071824495-F1186E53-838E-4831-B3E6-834E4D4400C4",
+    "browserHwid": null,
+    "username": "Kitty_l1fp",
+    "userId": "8071824495",
+    "source": "script",
+    "createdAt": "2026-03-16T18:16:23.021Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "85.76.4.182",
+      "city": "Helsinki",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "cc": "FI"
+    }
   }
 }
