@@ -4273,5 +4273,22 @@
       "country": "Chad",
       "cc": "TD"
     }
+  },
+  "VH-8C2C4B-A768A1-19C1C0": {
+    "expires": "2026-03-17T07:23:46.495Z",
+    "hwid": "8687437207-765d2bb6-8626-479c-b98c-f16872cf46de",
+    "browserHwid": null,
+    "username": "Dyalamsyah",
+    "userId": "8687437207",
+    "source": "script",
+    "createdAt": "2026-03-16T07:23:46.680Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "82.38.200.70",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
