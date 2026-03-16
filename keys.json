@@ -2777,8 +2777,15 @@
     "userId": "10654789306",
     "source": "script",
     "createdAt": "2026-03-16T04:20:41.341Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T04:20:55.853Z",
     "geo": {
+      "ip": "50.61.137.96",
+      "city": "Dammam",
+      "region": "Eastern Province",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    },
+    "lastGeo": {
       "ip": "50.61.137.96",
       "city": "Dammam",
       "region": "Eastern Province",
