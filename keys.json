@@ -9069,8 +9069,15 @@
     "userId": "2033111776",
     "source": "script",
     "createdAt": "2026-03-16T21:34:48.736Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T21:34:56.451Z",
     "geo": {
+      "ip": "78.21.162.233",
+      "city": "Buggenhout",
+      "region": "Flanders",
+      "country": "Belgium",
+      "cc": "BE"
+    },
+    "lastGeo": {
       "ip": "78.21.162.233",
       "city": "Buggenhout",
       "region": "Flanders",
