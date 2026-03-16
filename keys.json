@@ -6579,9 +6579,16 @@
     "userId": "10483634503",
     "source": "script",
     "createdAt": "2026-03-16T12:18:29.283Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T12:23:17.900Z",
     "geo": {
       "ip": "45.250.156.49",
+      "city": "Bislig",
+      "region": "Caraga",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "45.250.156.54",
       "city": "Bislig",
       "region": "Caraga",
       "country": "Philippines",
