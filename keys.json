@@ -6699,13 +6699,20 @@
     "userId": "10485975489",
     "source": "script",
     "createdAt": "2026-03-16T13:00:57.621Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T13:01:06.993Z",
     "geo": {
       "ip": "77.111.247.232",
       "city": "Linköping",
       "region": "Östergötland",
       "country": "Sweden",
       "cc": "SE"
+    },
+    "lastGeo": {
+      "ip": "93.227.42.23",
+      "city": "Wismar",
+      "region": "Mecklenburg-Vorpommern",
+      "country": "Germany",
+      "cc": "DE"
     }
   }
 }
