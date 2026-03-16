@@ -7338,5 +7338,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-2FF215-613A21-D88B93": {
+    "expires": "2026-03-17T14:41:16.205Z",
+    "hwid": "4914877026-e3143571-f29e-4b81-a14b-6cfc21492b4b",
+    "browserHwid": null,
+    "username": "zakrrr_6",
+    "userId": "4914877026",
+    "source": "script",
+    "createdAt": "2026-03-16T14:41:17.947Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.82.137.75",
+      "city": "Pamekasan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
