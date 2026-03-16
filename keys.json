@@ -1596,12 +1596,13 @@
   },
   "VH-45E45D-3F5072-82D92D": {
     "expires": "2026-03-17T01:23:55.820Z",
-    "hwid": null,
+    "hwid": "9412218251-f0f6d544-34d9-4246-9229-15b95a0b32f4",
     "browserHwid": "BR-17613B6E-LN209",
-    "username": "Cocofantdjdjd",
-    "userId": null,
+    "username": "cocofantdjdjd",
+    "userId": "9412218251",
     "source": "browser",
     "createdAt": "2026-03-16T01:23:55.961Z",
-    "lastUsed": null
+    "lastUsed": "2026-03-16T01:24:38.143Z",
+    "boundAt": "2026-03-16T01:24:38.143Z"
   }
 }
