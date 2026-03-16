@@ -8964,5 +8964,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A4821F-1588C3-14372D": {
+    "expires": "2026-03-17T21:07:49.684Z",
+    "hwid": "10682102351-84089C3D-3E0A-4388-BFE3-1A2351403E43",
+    "browserHwid": null,
+    "username": "lolyour_bad101",
+    "userId": "10682102351",
+    "source": "script",
+    "createdAt": "2026-03-16T21:07:49.881Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "71.46.196.220",
+      "city": "Bakersfield",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
