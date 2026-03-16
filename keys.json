@@ -9612,5 +9612,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-BEFC70-01F14F-8394D9": {
+    "expires": "2026-03-17T23:45:32.071Z",
+    "hwid": "10502136419-f8ca4b8b-5022-407b-bc0b-d3f070991462",
+    "browserHwid": null,
+    "username": "imbabnidek",
+    "userId": "10502136419",
+    "source": "script",
+    "createdAt": "2026-03-16T23:45:32.280Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.157.48.24",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
