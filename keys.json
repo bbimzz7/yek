@@ -2145,5 +2145,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-39CDA6-B1D20B-FC53A6": {
+    "expires": "2026-03-17T03:20:32.204Z",
+    "hwid": "8630523982-be6349db-18f8-4c32-a4aa-afaf99b70809",
+    "browserHwid": null,
+    "username": "alfaro_aja0",
+    "userId": "8630523982",
+    "source": "script",
+    "createdAt": "2026-03-16T03:20:32.355Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.108.31.100",
+      "city": "Kotawaringin",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
