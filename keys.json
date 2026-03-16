@@ -7314,5 +7314,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-6F2541-37ED47-CAFA50": {
+    "expires": "2026-03-17T14:40:18.005Z",
+    "hwid": "9016252272-21608beb-1706-4d22-9578-9e350312268a",
+    "browserHwid": null,
+    "username": "gurlylikemeroqia",
+    "userId": "9016252272",
+    "source": "script",
+    "createdAt": "2026-03-16T14:40:18.415Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "98.50.144.169",
+      "city": "Memphis",
+      "region": "Tennessee",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
