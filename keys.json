@@ -8750,8 +8750,15 @@
     "userId": "10471275975",
     "source": "script",
     "createdAt": "2026-03-16T20:25:47.437Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T20:26:50.740Z",
     "geo": {
+      "ip": "212.58.114.204",
+      "city": "Batumi",
+      "region": "Adjara",
+      "country": "Georgia",
+      "cc": "GE"
+    },
+    "lastGeo": {
       "ip": "212.58.114.204",
       "city": "Batumi",
       "region": "Adjara",
