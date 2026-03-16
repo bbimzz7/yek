@@ -4777,5 +4777,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C5FCBB-D19C06-3C6731": {
+    "expires": "2026-03-17T08:13:01.218Z",
+    "hwid": "8690517848-f000282d-35ee-40db-b8ea-d256ebddcb04",
+    "browserHwid": null,
+    "username": "irfan_delta",
+    "userId": "8690517848",
+    "source": "script",
+    "createdAt": "2026-03-16T08:13:01.387Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.94.198",
+      "city": "Cibitung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
