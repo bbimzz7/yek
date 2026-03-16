@@ -7434,5 +7434,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-92C864-99DC9E-733E48": {
+    "expires": "2026-03-17T14:58:51.421Z",
+    "hwid": "3136673402-b2a067ae-d62e-4492-8630-0ed27e07622d",
+    "browserHwid": null,
+    "username": "AtukLegends12",
+    "userId": "3136673402",
+    "source": "script",
+    "createdAt": "2026-03-16T14:58:51.699Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "219.92.91.81",
+      "city": "Sungai Buloh",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
