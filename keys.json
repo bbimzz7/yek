@@ -3271,5 +3271,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F55B6F-47B76B-285218": {
+    "expires": "2026-03-17T05:50:30.087Z",
+    "hwid": "4941742688-84d89b85-22cb-4be3-9a7a-c5febf3a1f31",
+    "browserHwid": null,
+    "username": "Jojoo9822",
+    "userId": "4941742688",
+    "source": "script",
+    "createdAt": "2026-03-16T05:50:30.390Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.158.141",
+      "city": "Donggala",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
