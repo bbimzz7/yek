@@ -9036,5 +9036,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-414861-567593-35C780": {
+    "expires": "2026-03-17T21:33:21.782Z",
+    "hwid": "4308152216-A3DD70C9-02B0-4F14-B732-6CADC099F082",
+    "browserHwid": null,
+    "username": "evico980",
+    "userId": "4308152216",
+    "source": "script",
+    "createdAt": "2026-03-16T21:33:22.161Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "196.238.213.248",
+      "city": "Tunis",
+      "region": "Tunis Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    }
   }
 }
