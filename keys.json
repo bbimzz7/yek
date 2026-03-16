@@ -1854,5 +1854,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:09:28.469Z",
     "lastUsed": null
+  },
+  "VH-EC1660-2B33FC-F36EE2": {
+    "expires": "2026-03-17T02:09:33.199Z",
+    "hwid": "9661481733-8b6e7522-b74b-40c4-94cd-2186f8b6fdde",
+    "browserHwid": null,
+    "username": "jumpcm_889",
+    "userId": "9661481733",
+    "source": "script",
+    "createdAt": "2026-03-16T02:09:33.356Z",
+    "lastUsed": null
   }
 }
