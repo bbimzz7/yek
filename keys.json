@@ -2430,8 +2430,15 @@
     "userId": "9625094261",
     "source": "script",
     "createdAt": "2026-03-16T03:43:13.539Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T03:45:26.900Z",
     "geo": {
+      "ip": "114.10.100.227",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.100.227",
       "city": "Bandar Lampung",
       "region": "Lampung",
