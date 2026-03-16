@@ -2130,8 +2130,15 @@
     "userId": "2435390487",
     "source": "script",
     "createdAt": "2026-03-16T03:19:43.539Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T03:19:54.144Z",
     "geo": {
+      "ip": "171.6.225.5",
+      "city": "Ko Pha Ngan",
+      "region": "Surat Thani",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "171.6.225.5",
       "city": "Ko Pha Ngan",
       "region": "Surat Thani",
