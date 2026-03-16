@@ -6481,5 +6481,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-8D387D-9B7D5D-C93A4B": {
+    "expires": "2026-03-17T12:09:58.199Z",
+    "hwid": "7839447626-94962a82-24a2-46ae-af6e-ea2959885593",
+    "browserHwid": null,
+    "username": "pupogen",
+    "userId": "7839447626",
+    "source": "script",
+    "createdAt": "2026-03-16T12:09:58.422Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.176.112.196",
+      "city": "Shpola",
+      "region": "Cherkasy Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
