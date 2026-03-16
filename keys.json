@@ -5002,8 +5002,15 @@
     "userId": "9944650826",
     "source": "script",
     "createdAt": "2026-03-16T08:29:01.208Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T08:34:26.974Z",
     "geo": {
+      "ip": "76.164.203.45",
+      "city": "Madrid",
+      "region": "Madrid",
+      "country": "Spain",
+      "cc": "ES"
+    },
+    "lastGeo": {
       "ip": "76.164.203.45",
       "city": "Madrid",
       "region": "Madrid",
