@@ -7691,5 +7691,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-44CC18-777A17-450950": {
+    "expires": "2026-03-17T15:41:00.526Z",
+    "hwid": "7397907061-00bd7d28-b2d9-42da-bcee-eb4e883f2be0",
+    "browserHwid": null,
+    "username": "dudu_h72",
+    "userId": "7397907061",
+    "source": "script",
+    "createdAt": "2026-03-16T15:41:00.784Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.86.74.53",
+      "city": "Senador Canedo",
+      "region": "Goiás",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
