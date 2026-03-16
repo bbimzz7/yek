@@ -5938,5 +5938,22 @@
       "country": "Nepal",
       "cc": "NP"
     }
+  },
+  "VH-02D9B2-AD2840-BE2305": {
+    "expires": "2026-03-17T10:43:10.774Z",
+    "hwid": "8588204469-d4d1bf85-6df6-47db-81d5-3b538ef6af61",
+    "browserHwid": null,
+    "username": "byukiq",
+    "userId": "8588204469",
+    "source": "script",
+    "createdAt": "2026-03-16T10:43:10.995Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "58.69.117.138",
+      "city": "Koronadal",
+      "region": "Soccsksargen",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
