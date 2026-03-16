@@ -7258,8 +7258,15 @@
     "userId": "10462394801",
     "source": "script",
     "createdAt": "2026-03-16T14:33:55.385Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T14:35:46.661Z",
     "geo": {
+      "ip": "190.89.207.159",
+      "city": "Foz do Iguaçu",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "190.89.207.159",
       "city": "Foz do Iguaçu",
       "region": "Paraná",
