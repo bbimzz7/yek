@@ -4434,5 +4434,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-70C2E1-7A5DB5-DA72B8": {
+    "expires": "2026-03-17T07:34:28.238Z",
+    "hwid": "5476846175-3c714dd5-5dc7-42c5-8502-39289fe84478",
+    "browserHwid": null,
+    "username": "U_llx0",
+    "userId": "5476846175",
+    "source": "script",
+    "createdAt": "2026-03-16T07:34:28.399Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "60.115.221.207",
+      "city": "Minato-ku",
+      "region": "Tokyo",
+      "country": "Japan",
+      "cc": "JP"
+    }
   }
 }
