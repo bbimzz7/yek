@@ -4930,13 +4930,20 @@
     "userId": "2700221861",
     "source": "script",
     "createdAt": "2026-03-16T08:24:26.759Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T08:24:54.940Z",
     "geo": {
       "ip": "103.119.141.48",
       "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "103.71.153.12",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
     }
   },
   "VH-1102ED-C1838D-8274E0": {
