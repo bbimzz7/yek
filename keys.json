@@ -2014,5 +2014,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:41:43.411Z",
     "lastUsed": "2026-03-16T02:41:54.611Z"
+  },
+  "VH-086E71-1A475D-D50DB3": {
+    "expires": "2026-03-17T02:42:48.871Z",
+    "hwid": "10524217756-b05aa946-93e1-47a4-b0fd-422b94fb0509",
+    "browserHwid": null,
+    "username": "mario101447",
+    "userId": "10524217756",
+    "source": "script",
+    "createdAt": "2026-03-16T02:42:49.011Z",
+    "lastUsed": null
   }
 }
