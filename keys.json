@@ -2634,5 +2634,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EB8EAD-CC58BD-F276CB": {
+    "expires": "2026-03-17T03:56:27.927Z",
+    "hwid": "9400125181-c78ede46-4f12-475c-b194-cb0c9d6ac4ae",
+    "browserHwid": null,
+    "username": "sousama17",
+    "userId": "9400125181",
+    "source": "script",
+    "createdAt": "2026-03-16T03:56:28.088Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.150.244.151",
+      "city": "Teresina",
+      "region": "Piauí",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
