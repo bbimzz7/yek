@@ -9461,5 +9461,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-87DD72-825FA0-76E386": {
+    "expires": "2026-03-17T22:57:42.117Z",
+    "hwid": "4804912770-627A024E-0CDF-48C4-B852-A286F89E068C",
+    "browserHwid": null,
+    "username": "tar_a14",
+    "userId": "4804912770",
+    "source": "script",
+    "createdAt": "2026-03-16T22:57:42.324Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.84.1.44",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
