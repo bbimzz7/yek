@@ -2066,7 +2066,14 @@
     "userId": "9754002584",
     "source": "script",
     "createdAt": "2026-03-16T03:06:46.011Z",
-    "lastUsed": "2026-03-16T03:06:59.489Z"
+    "lastUsed": "2026-03-16T03:50:41.597Z",
+    "lastGeo": {
+      "ip": "114.10.47.155",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   },
   "VH-96E49A-B57062-09F0DE": {
     "expires": "2026-03-17T03:12:24.023Z",
