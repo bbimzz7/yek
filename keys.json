@@ -8565,8 +8565,15 @@
     "userId": "8611573680",
     "source": "script",
     "createdAt": "2026-03-16T19:09:13.632Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T19:09:22.200Z",
     "geo": {
+      "ip": "188.24.143.94",
+      "city": "Brasov",
+      "region": "Brașov County",
+      "country": "Romania",
+      "cc": "RO"
+    },
+    "lastGeo": {
       "ip": "188.24.143.94",
       "city": "Brasov",
       "region": "Brașov County",
