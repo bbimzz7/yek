@@ -2682,5 +2682,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-01EF70-8F5226-5EC7DB": {
+    "expires": "2026-03-17T04:02:28.526Z",
+    "hwid": "5335464356-997453b1-6504-4d95-ba9f-4945f9857e30",
+    "browserHwid": null,
+    "username": "yur_chef3",
+    "userId": "5335464356",
+    "source": "script",
+    "createdAt": "2026-03-16T04:02:28.689Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.7.94.215",
+      "city": "Lagarto",
+      "region": "Sergipe",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
