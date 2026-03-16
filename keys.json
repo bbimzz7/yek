@@ -4033,5 +4033,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-8E8CA7-B9A725-BFBA1F": {
+    "expires": "2026-03-17T07:12:15.551Z",
+    "hwid": "10063941881-5f6583db-c977-4b90-afc8-1a3403a2dc68",
+    "browserHwid": null,
+    "username": "CarolynStephenson56",
+    "userId": "10063941881",
+    "source": "script",
+    "createdAt": "2026-03-16T07:12:15.759Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "42.114.66.43",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
