@@ -1747,7 +1747,14 @@
     "userId": "8832724276",
     "source": "script",
     "createdAt": "2026-03-16T02:00:19.740Z",
-    "lastUsed": "2026-03-16T02:33:51.254Z"
+    "lastUsed": "2026-03-16T03:33:28.722Z",
+    "lastGeo": {
+      "ip": "103.188.50.84",
+      "city": "Jatiwangi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   },
   "VH-47FBC8-FEC434-31AA4B": {
     "expires": "2026-03-17T02:00:26.617Z",
