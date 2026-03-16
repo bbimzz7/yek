@@ -3247,5 +3247,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-7C8123-48555B-9F85F7": {
+    "expires": "2026-03-17T05:49:46.936Z",
+    "hwid": "8773404875-41f34715-f68b-4d22-a946-aafa08a7a75d",
+    "browserHwid": null,
+    "username": "Dutaep",
+    "userId": "8773404875",
+    "source": "script",
+    "createdAt": "2026-03-16T05:49:47.247Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.248.13.156",
+      "city": "Kediri",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
