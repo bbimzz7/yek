@@ -8170,13 +8170,20 @@
     "userId": "3378211970",
     "source": "script",
     "createdAt": "2026-03-16T17:16:56.251Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T17:17:06.702Z",
     "geo": {
       "ip": "182.9.48.77",
       "city": "Medan",
       "region": "North Sumatra",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "164.52.15.108",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
     }
   }
 }
