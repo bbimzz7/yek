@@ -7482,5 +7482,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-B1B4C0-DC8286-53BD72": {
+    "expires": "2026-03-17T15:01:10.828Z",
+    "hwid": "10042645128-942e28fe-c7ea-4a24-901b-de4caddd7834",
+    "browserHwid": null,
+    "username": "f6v6gv6",
+    "userId": "10042645128",
+    "source": "script",
+    "createdAt": "2026-03-16T15:01:11.167Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.176.35.104",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
