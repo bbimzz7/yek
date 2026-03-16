@@ -9564,5 +9564,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-DA6A4F-1F71F2-07C1BB": {
+    "expires": "2026-03-17T23:42:34.140Z",
+    "hwid": "5493419251-f25c397f-fb58-4f2b-8871-721351f8579b",
+    "browserHwid": null,
+    "username": "zaimy736",
+    "userId": "5493419251",
+    "source": "script",
+    "createdAt": "2026-03-16T23:42:34.492Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.87.248.203",
+      "city": "Riyadh",
+      "region": "Riyadh Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
