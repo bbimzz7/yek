@@ -4746,5 +4746,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E75C3A-3868FE-7180F9": {
+    "expires": "2026-03-17T08:08:58.964Z",
+    "hwid": "10363329349-cbbea6ea-eba9-4ad1-85ad-9f8c03c48a95",
+    "browserHwid": null,
+    "username": "delta_maniz",
+    "userId": "10363329349",
+    "source": "script",
+    "createdAt": "2026-03-16T08:08:59.129Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.251.163.116",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
