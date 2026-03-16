@@ -9108,5 +9108,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-792623-9E00B4-9D3BC0": {
+    "expires": "2026-03-17T21:51:22.439Z",
+    "hwid": "10665153484-f7b5138e-6e13-4add-801b-9e662a276825",
+    "browserHwid": null,
+    "username": "fccucucigb",
+    "userId": "10665153484",
+    "source": "script",
+    "createdAt": "2026-03-16T21:51:22.825Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.225.76.1",
+      "city": "Ciudad Juárez",
+      "region": "Chihuahua",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
