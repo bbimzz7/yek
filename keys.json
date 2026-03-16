@@ -4729,5 +4729,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1CA3F9-CD7503-0D4B09": {
+    "expires": "2026-03-17T08:08:49.051Z",
+    "hwid": "9250922689-B9F69594-12A4-4848-BAF8-635F19504AA9",
+    "browserHwid": null,
+    "username": "FzettD556",
+    "userId": "9250922689",
+    "source": "script",
+    "createdAt": "2026-03-16T08:08:49.229Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.126.87.18",
+      "city": "Trucuk",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
