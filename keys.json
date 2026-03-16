@@ -5500,14 +5500,22 @@
   },
   "VH-C0642F-072BC8-57231E": {
     "expires": "2026-03-17T09:44:54.870Z",
-    "hwid": null,
+    "hwid": "8753396392-308AA831-A509-419A-A0C4-B82A0F433849",
     "browserHwid": "BR-7EFDC501-D8N0P",
     "username": "Arulzy77",
-    "userId": null,
+    "userId": "8753396392",
     "source": "browser",
     "createdAt": "2026-03-16T09:44:55.193Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T09:45:12.947Z",
     "geo": {
+      "ip": "36.75.74.3",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-16T09:45:12.941Z",
+    "lastGeo": {
       "ip": "36.75.74.3",
       "city": "Banjarmasin",
       "region": "South Kalimantan",
