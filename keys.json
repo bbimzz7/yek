@@ -6233,5 +6233,22 @@
       "country": "Israel",
       "cc": "IL"
     }
+  },
+  "VH-C1E927-5D3E09-88F1F8": {
+    "expires": "2026-03-17T11:36:01.178Z",
+    "hwid": null,
+    "browserHwid": "BR-41CD0497-S0PCY",
+    "username": "Ayukeii9",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-16T11:36:01.412Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.84.118.21",
+      "city": "Marbella",
+      "region": "Andalusia",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
