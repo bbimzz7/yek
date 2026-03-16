@@ -6930,5 +6930,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F573DA-C676FE-7BF838": {
+    "expires": "2026-03-17T13:39:57.971Z",
+    "hwid": "7137902447-5DE6FB19-A772-417C-84CF-5AC114AED69A",
+    "browserHwid": null,
+    "username": "fhfhfi633",
+    "userId": "7137902447",
+    "source": "script",
+    "createdAt": "2026-03-16T13:39:58.208Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.243.182.208",
+      "city": "Moscow",
+      "region": "Moscow",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
