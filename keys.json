@@ -1473,5 +1473,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:03:16.595Z",
     "lastUsed": "2026-03-16T01:03:26.651Z"
+  },
+  "VH-873323-67B167-792A91": {
+    "expires": "2026-03-17T01:04:50.907Z",
+    "hwid": "8255938047-4a4e60b9-4f39-46c7-a840-5c3f203d0169",
+    "browserHwid": null,
+    "username": "FROST_FAIZ302",
+    "userId": "8255938047",
+    "source": "script",
+    "createdAt": "2026-03-16T01:04:51.066Z",
+    "lastUsed": null
   }
 }
