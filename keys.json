@@ -5730,8 +5730,15 @@
     "userId": "7888925427",
     "source": "script",
     "createdAt": "2026-03-16T10:16:06.803Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T10:16:39.885Z",
     "geo": {
+      "ip": "138.84.89.10",
+      "city": "Cabanatuan City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "138.84.89.10",
       "city": "Cabanatuan City",
       "region": "Central Luzon",
