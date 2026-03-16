@@ -4522,13 +4522,20 @@
     "userId": "8112129773",
     "source": "script",
     "createdAt": "2026-03-16T07:46:56.082Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T07:54:35.895Z",
     "geo": {
       "ip": "168.235.203.226",
       "city": "Toronto",
       "region": "Ontario",
       "country": "Canada",
       "cc": "CA"
+    },
+    "lastGeo": {
+      "ip": "114.125.14.123",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
     }
   },
   "VH-A62361-38AA26-25B187": {
