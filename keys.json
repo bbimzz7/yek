@@ -9204,5 +9204,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1FF2D8-F0DE3F-E54745": {
+    "expires": "2026-03-17T22:11:03.282Z",
+    "hwid": "10681702047-8c9bb783-3ead-4bed-a556-0892c38d1b8c",
+    "browserHwid": null,
+    "username": "beodzaixh",
+    "userId": "10681702047",
+    "source": "script",
+    "createdAt": "2026-03-16T22:11:03.470Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.220.243.16",
+      "city": "Sacramento",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
