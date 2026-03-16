@@ -2912,5 +2912,22 @@
       "country": "Morocco",
       "cc": "MA"
     }
+  },
+  "VH-215A3A-93715D-BC4C2C": {
+    "expires": "2026-03-17T04:30:07.776Z",
+    "hwid": "10620930936-d16379d8-f70a-480a-a65b-66d6688cef60",
+    "browserHwid": null,
+    "username": "ESEWE_XD9",
+    "userId": "10620930936",
+    "source": "script",
+    "createdAt": "2026-03-16T04:30:07.944Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.86.75.63",
+      "city": "San Salvador",
+      "region": "San Salvador Department",
+      "country": "El Salvador",
+      "cc": "SV"
+    }
   }
 }
