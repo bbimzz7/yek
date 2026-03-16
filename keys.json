@@ -6505,5 +6505,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-32E6B2-A2AAAC-EA3562": {
+    "expires": "2026-03-17T12:12:01.863Z",
+    "hwid": "9063879994-841F71C2-5130-4256-BAE4-938D16178B0F",
+    "browserHwid": null,
+    "username": "EXX12341R",
+    "userId": "9063879994",
+    "source": "script",
+    "createdAt": "2026-03-16T12:12:02.088Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.250.142",
+      "city": "Indianapolis",
+      "region": "Indiana",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
