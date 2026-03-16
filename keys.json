@@ -8637,8 +8637,15 @@
     "userId": "7970927690",
     "source": "script",
     "createdAt": "2026-03-16T20:06:35.174Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T20:06:43.888Z",
     "geo": {
+      "ip": "51.223.142.238",
+      "city": "Al Qaţīf",
+      "region": "Eastern Province",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    },
+    "lastGeo": {
       "ip": "51.223.142.238",
       "city": "Al Qaţīf",
       "region": "Eastern Province",
