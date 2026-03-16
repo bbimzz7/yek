@@ -1316,7 +1316,14 @@
     "userId": "9772325011",
     "source": "script",
     "createdAt": "2026-03-15T15:48:31.083Z",
-    "lastUsed": "2026-03-15T15:58:43.752Z"
+    "lastUsed": "2026-03-16T04:28:11.179Z",
+    "lastGeo": {
+      "ip": "36.68.54.254",
+      "city": "Pekalongan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   },
   "VH-D9198A-CAD30B-A350FA": {
     "expires": "2026-03-16T15:53:06.812Z",
