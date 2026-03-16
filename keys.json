@@ -5721,5 +5721,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-FA7AC1-6BBC03-0F6911": {
+    "expires": "2026-03-17T10:16:06.581Z",
+    "hwid": "7888925427-88d35c1a-8357-4f6e-ac14-52fe9e0cc25d",
+    "browserHwid": null,
+    "username": "D4RKPL4TN1UM",
+    "userId": "7888925427",
+    "source": "script",
+    "createdAt": "2026-03-16T10:16:06.803Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.89.10",
+      "city": "Cabanatuan City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
