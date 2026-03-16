@@ -3686,5 +3686,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-12017E-E93D23-D764F1": {
+    "expires": "2026-03-17T06:42:43.707Z",
+    "hwid": "10678962260-b4f92b15-1f7e-4f18-a57e-1f76653234ed",
+    "browserHwid": null,
+    "username": "Icantgooea",
+    "userId": "10678962260",
+    "source": "script",
+    "createdAt": "2026-03-16T06:42:43.881Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.10.119.142",
+      "city": "Forked River",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
