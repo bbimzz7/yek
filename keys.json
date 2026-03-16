@@ -3504,5 +3504,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CA46D0-DC022F-1313AD": {
+    "expires": "2026-03-17T06:15:19.239Z",
+    "hwid": "3549741416-c3f58c26-2256-49f1-ba17-e2ae2c3469a9",
+    "browserHwid": null,
+    "username": "Fesailla",
+    "userId": "3549741416",
+    "source": "script",
+    "createdAt": "2026-03-16T06:15:19.603Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "51.36.221.106",
+      "city": "Jeddah",
+      "region": "Mecca Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
