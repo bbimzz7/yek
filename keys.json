@@ -8628,5 +8628,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-997E8C-DD26DE-95E971": {
+    "expires": "2026-03-17T20:06:34.784Z",
+    "hwid": "7970927690-0924367b-9650-4daf-89e6-9f4a9bbe1a95",
+    "browserHwid": null,
+    "username": "IMnotgoodaobby62",
+    "userId": "7970927690",
+    "source": "script",
+    "createdAt": "2026-03-16T20:06:35.174Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "51.223.142.238",
+      "city": "Al Qaţīf",
+      "region": "Eastern Province",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
