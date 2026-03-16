@@ -2706,5 +2706,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-7BB545-D066D7-7F1FCF": {
+    "expires": "2026-03-17T04:07:39.653Z",
+    "hwid": "7122129095-75bb8be0-031c-405c-b160-1d5d4336bf6b",
+    "browserHwid": null,
+    "username": "suryo_954",
+    "userId": "7122129095",
+    "source": "script",
+    "createdAt": "2026-03-16T04:07:39.791Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "118.99.121.213",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
