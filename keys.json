@@ -3928,8 +3928,15 @@
     "userId": "10678623385",
     "source": "script",
     "createdAt": "2026-03-16T07:01:28.007Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T07:01:34.101Z",
     "geo": {
+      "ip": "67.244.102.63",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "67.244.102.63",
       "city": "Brooklyn",
       "region": "New York",
