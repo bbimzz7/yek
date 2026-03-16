@@ -6450,5 +6450,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-4DEA07-E5488F-A03303": {
+    "expires": "2026-03-17T12:05:04.326Z",
+    "hwid": "9632480779-b4339dc7-5598-4a5b-83cb-3c591485cb0c",
+    "browserHwid": null,
+    "username": "Dim_ka0p",
+    "userId": "9632480779",
+    "source": "script",
+    "createdAt": "2026-03-16T12:05:04.536Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "31.43.61.139",
+      "city": "Zolochiv",
+      "region": "Kharkivs’ka Oblast’",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
