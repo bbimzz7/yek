@@ -2097,5 +2097,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-1A23FD-AC4C5D-5D61A1": {
+    "expires": "2026-03-17T03:18:31.957Z",
+    "hwid": "10592859650-5903ff3a-b232-4ffc-9a4d-6a7eca4550f1",
+    "browserHwid": null,
+    "username": "Satudua1120",
+    "userId": "10592859650",
+    "source": "script",
+    "createdAt": "2026-03-16T03:18:32.112Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.165.104.167",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
