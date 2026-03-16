@@ -8853,8 +8853,15 @@
     "userId": "9606130767",
     "source": "script",
     "createdAt": "2026-03-16T20:40:46.855Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T20:41:10.685Z",
     "geo": {
+      "ip": "114.79.37.111",
+      "city": "Laikit Matungkas",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.79.37.111",
       "city": "Laikit Matungkas",
       "region": "North Sulawesi",
