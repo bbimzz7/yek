@@ -6762,5 +6762,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E908FE-BCB223-A95AF0": {
+    "expires": "2026-03-17T13:20:12.884Z",
+    "hwid": "10576232313-9b545692-fc7c-4536-a2c7-40ac729b2724",
+    "browserHwid": null,
+    "username": "Pwrinzxy",
+    "userId": "10576232313",
+    "source": "script",
+    "createdAt": "2026-03-16T13:20:13.287Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.208.189.203",
+      "city": "Heilbronn",
+      "region": "Baden-Wurttemberg",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
