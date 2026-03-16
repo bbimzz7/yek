@@ -7002,5 +7002,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-F3554E-468212-95E6E9": {
+    "expires": "2026-03-17T13:52:16.676Z",
+    "hwid": "3325492089-0fcb09c7-84ee-48bb-ad72-98e3b5ab5555",
+    "browserHwid": null,
+    "username": "z3nzerking",
+    "userId": "3325492089",
+    "source": "script",
+    "createdAt": "2026-03-16T13:52:17.054Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "47.197.179.10",
+      "city": "Davenport",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
