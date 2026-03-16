@@ -5089,5 +5089,22 @@
       "country": "Bangladesh",
       "cc": "BD"
     }
+  },
+  "VH-C6E93A-7F07CF-4C74BA": {
+    "expires": "2026-03-17T08:38:25.317Z",
+    "hwid": "9188356203-13671738-418C-48DD-91C1-5BC564617B7D",
+    "browserHwid": null,
+    "username": "expoo115",
+    "userId": "9188356203",
+    "source": "script",
+    "createdAt": "2026-03-16T08:38:25.505Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.129.24.223",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
