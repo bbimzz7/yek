@@ -4138,8 +4138,15 @@
     "userId": "10288777793",
     "source": "script",
     "createdAt": "2026-03-16T07:15:57.683Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T07:16:07.506Z",
     "geo": {
+      "ip": "180.249.152.51",
+      "city": "Aimas",
+      "region": "Southwest Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.249.152.51",
       "city": "Aimas",
       "region": "Southwest Papua",
