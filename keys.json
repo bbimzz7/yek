@@ -5914,5 +5914,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-89311D-3BD761-7AD679": {
+    "expires": "2026-03-17T10:41:13.388Z",
+    "hwid": "7843432207-d4ac9ae3-e57c-40fa-82b6-089ef2a3be58",
+    "browserHwid": null,
+    "username": "VOTEX_KILLER",
+    "userId": "7843432207",
+    "source": "script",
+    "createdAt": "2026-03-16T10:41:13.740Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.34.73.10",
+      "city": "Bhaktapur",
+      "region": "Bagmati Province",
+      "country": "Nepal",
+      "cc": "NP"
+    }
   }
 }
