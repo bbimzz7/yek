@@ -2945,8 +2945,15 @@
     "userId": "10678681556",
     "source": "script",
     "createdAt": "2026-03-16T04:31:14.271Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T04:31:20.260Z",
     "geo": {
+      "ip": "24.100.42.2",
+      "city": "Sherman",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "24.100.42.2",
       "city": "Sherman",
       "region": "Texas",
