@@ -5841,5 +5841,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-A73CB3-95E4E2-6882E2": {
+    "expires": "2026-03-17T10:22:11.080Z",
+    "hwid": "2707432660-fea2cac0-edba-4630-bcfb-64a11db32683",
+    "browserHwid": null,
+    "username": "DontBanYumeRobloxPLZ",
+    "userId": "2707432660",
+    "source": "script",
+    "createdAt": "2026-03-16T10:22:11.295Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.32.118.55",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
