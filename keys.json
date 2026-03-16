@@ -8467,5 +8467,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-858B8E-2D8267-842115": {
+    "expires": "2026-03-17T18:33:56.311Z",
+    "hwid": "1441175997-aa7cca25-35d9-486e-b1d0-0d5aa5b93648",
+    "browserHwid": null,
+    "username": "Ddgamer2801",
+    "userId": "1441175997",
+    "source": "script",
+    "createdAt": "2026-03-16T18:33:56.672Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.246.250.15",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
