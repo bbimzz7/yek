@@ -6884,9 +6884,16 @@
     "userId": "388361761",
     "source": "script",
     "createdAt": "2026-03-16T13:33:41.878Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T13:33:47.884Z",
     "geo": {
       "ip": "72.56.59.167",
+      "city": "Tbilisi",
+      "region": "Tbilisi",
+      "country": "Georgia",
+      "cc": "GE"
+    },
+    "lastGeo": {
+      "ip": "72.56.59.107",
       "city": "Tbilisi",
       "region": "Tbilisi",
       "country": "Georgia",
