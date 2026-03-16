@@ -5065,5 +5065,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-9AF49E-9C74B4-560F33": {
+    "expires": "2026-03-17T08:35:46.240Z",
+    "hwid": "9505942704-ab4a93f2-8875-46b5-8fe0-3a4fa6965c43",
+    "browserHwid": null,
+    "username": "gojosandy3",
+    "userId": "9505942704",
+    "source": "script",
+    "createdAt": "2026-03-16T08:35:46.444Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.102.136.58",
+      "city": "Chittagong",
+      "region": "Chittagong",
+      "country": "Bangladesh",
+      "cc": "BD"
+    }
   }
 }
