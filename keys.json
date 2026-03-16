@@ -8885,5 +8885,22 @@
       "country": "Pakistan",
       "cc": "PK"
     }
+  },
+  "VH-F07320-A18FBF-DF9BCD": {
+    "expires": "2026-03-17T20:51:19.597Z",
+    "hwid": "5739633405-d15a8cd7-a168-484c-b362-12b4bef82b73",
+    "browserHwid": null,
+    "username": "Andria2014s",
+    "userId": "5739633405",
+    "source": "script",
+    "createdAt": "2026-03-16T20:51:19.814Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.58.114.204",
+      "city": "Batumi",
+      "region": "Adjara",
+      "country": "Georgia",
+      "cc": "GE"
+    }
   }
 }
