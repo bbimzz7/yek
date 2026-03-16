@@ -2059,7 +2059,14 @@
     "userId": "8053828444",
     "source": "script",
     "createdAt": "2026-03-16T02:41:43.411Z",
-    "lastUsed": "2026-03-16T02:41:54.611Z"
+    "lastUsed": "2026-03-16T12:06:05.303Z",
+    "lastGeo": {
+      "ip": "180.247.58.223",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   },
   "VH-086E71-1A475D-D50DB3": {
     "expires": "2026-03-17T02:42:48.871Z",
