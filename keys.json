@@ -6306,5 +6306,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1B33B4-E811D3-49607F": {
+    "expires": "2026-03-17T11:53:34.513Z",
+    "hwid": "7242817984-e3de34a9-b2f3-418b-a5d8-3caa288f91a4",
+    "browserHwid": null,
+    "username": "mm2mv04",
+    "userId": "7242817984",
+    "source": "script",
+    "createdAt": "2026-03-16T11:53:34.862Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.170.248.103",
+      "city": "Nice",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
