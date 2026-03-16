@@ -3343,5 +3343,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-22F1E3-1AE56C-1E3B25": {
+    "expires": "2026-03-17T05:58:42.324Z",
+    "hwid": "2848473535-160106f2-4d34-49e6-a8f7-d5594e567789",
+    "browserHwid": null,
+    "username": "TheAceBloxX",
+    "userId": "2848473535",
+    "source": "script",
+    "createdAt": "2026-03-16T05:58:42.495Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "183.171.71.149",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
