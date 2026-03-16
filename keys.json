@@ -1483,5 +1483,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:04:51.066Z",
     "lastUsed": null
+  },
+  "VH-D3E668-CCA9CD-7835C1": {
+    "expires": "2026-03-17T01:05:34.755Z",
+    "hwid": null,
+    "browserHwid": "BR-2F998B27-X5CDA",
+    "username": "senepapu1",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-16T01:05:34.898Z",
+    "lastUsed": null
   }
 }
