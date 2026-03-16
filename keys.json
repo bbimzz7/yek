@@ -2000,7 +2000,14 @@
     "userId": "10026509811",
     "source": "script",
     "createdAt": "2026-03-16T02:39:15.726Z",
-    "lastUsed": "2026-03-16T02:39:25.257Z"
+    "lastUsed": "2026-03-16T04:37:16.191Z",
+    "lastGeo": {
+      "ip": "182.8.193.63",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   },
   "VH-C097D6-956E1F-217CCF": {
     "expires": "2026-03-17T02:41:43.277Z",
