@@ -7817,8 +7817,15 @@
     "userId": "1417722906",
     "source": "script",
     "createdAt": "2026-03-16T15:54:34.658Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T15:54:39.177Z",
     "geo": {
+      "ip": "179.224.8.56",
+      "city": "Fortaleza",
+      "region": "Ceará",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "179.224.8.56",
       "city": "Fortaleza",
       "region": "Ceará",
