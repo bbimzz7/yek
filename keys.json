@@ -6795,8 +6795,15 @@
     "userId": "7086689122",
     "source": "script",
     "createdAt": "2026-03-16T13:22:23.679Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T13:22:31.920Z",
     "geo": {
+      "ip": "217.138.209.26",
+      "city": "Żoliborz",
+      "region": "Mazovia",
+      "country": "Poland",
+      "cc": "PL"
+    },
+    "lastGeo": {
       "ip": "217.138.209.26",
       "city": "Żoliborz",
       "region": "Mazovia",
