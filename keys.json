@@ -9357,8 +9357,15 @@
     "userId": "9756424841",
     "source": "script",
     "createdAt": "2026-03-16T22:29:04.148Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T22:37:31.731Z",
     "geo": {
+      "ip": "65.36.24.161",
+      "city": "Midland",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "65.36.24.161",
       "city": "Midland",
       "region": "Texas",
