@@ -2224,5 +2224,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EBAC0C-CF8532-448438": {
+    "expires": "2026-03-17T03:26:07.090Z",
+    "hwid": "8122269523-890bbc32-d79a-48b2-9db5-a6ce8ae5e1dd",
+    "browserHwid": null,
+    "username": "Albertozxz8",
+    "userId": "8122269523",
+    "source": "script",
+    "createdAt": "2026-03-16T03:26:07.235Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.253.218.174",
+      "city": "Acapulco de Juárez",
+      "region": "Guerrero",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
