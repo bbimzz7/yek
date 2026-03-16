@@ -8394,5 +8394,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-D2AEF7-BDD8DC-284BB1": {
+    "expires": "2026-03-17T18:19:00.026Z",
+    "hwid": "5802573689-8eb7b4f9-53f6-4690-9ce6-96b6668e54c0",
+    "browserHwid": null,
+    "username": "Zylucxxxxxxx",
+    "userId": "5802573689",
+    "source": "script",
+    "createdAt": "2026-03-16T18:19:00.288Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.130.199",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
