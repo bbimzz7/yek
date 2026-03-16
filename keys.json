@@ -5482,9 +5482,16 @@
     "userId": "8048543950",
     "source": "script",
     "createdAt": "2026-03-16T09:35:18.626Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T09:36:22.903Z",
     "geo": {
       "ip": "103.40.3.132",
+      "city": "Jagna",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "103.40.3.133",
       "city": "Jagna",
       "region": "Central Visayas",
       "country": "Philippines",
