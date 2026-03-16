@@ -6596,8 +6596,15 @@
     "userId": "10663241877",
     "source": "script",
     "createdAt": "2026-03-16T12:20:00.312Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T12:20:37.144Z",
     "geo": {
+      "ip": "103.114.52.87",
+      "city": "Colomadu",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.114.52.87",
       "city": "Colomadu",
       "region": "Central Java",
