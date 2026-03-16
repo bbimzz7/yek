@@ -1523,5 +1523,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:10:13.193Z",
     "lastUsed": "2026-03-16T01:10:26.328Z"
+  },
+  "VH-E2F57D-18DFF0-459D26": {
+    "expires": "2026-03-17T01:15:20.332Z",
+    "hwid": "1509056826-938d03a0-5e23-4121-b969-da5819a0a2fc",
+    "browserHwid": null,
+    "username": "efrainnzau",
+    "userId": "1509056826",
+    "source": "script",
+    "createdAt": "2026-03-16T01:15:20.492Z",
+    "lastUsed": null
   }
 }
