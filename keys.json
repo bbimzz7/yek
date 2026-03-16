@@ -6194,8 +6194,15 @@
     "userId": "10615717635",
     "source": "script",
     "createdAt": "2026-03-16T11:33:47.316Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T11:34:52.490Z",
     "geo": {
+      "ip": "116.98.255.53",
+      "city": "Phan Thiết",
+      "region": "Lam Dong",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "116.98.255.53",
       "city": "Phan Thiết",
       "region": "Lam Dong",
