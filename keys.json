@@ -1543,5 +1543,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:18:08.572Z",
     "lastUsed": "2026-03-16T01:18:15.412Z"
+  },
+  "VH-E469CA-816AFA-253F0D": {
+    "expires": "2026-03-17T01:18:26.502Z",
+    "hwid": "3431838725-04e5a799-edc6-4986-be04-9eccd9de81cb",
+    "browserHwid": null,
+    "username": "jenser_king6",
+    "userId": "3431838725",
+    "source": "script",
+    "createdAt": "2026-03-16T01:18:26.642Z",
+    "lastUsed": null
   }
 }
