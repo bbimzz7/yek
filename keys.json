@@ -5947,7 +5947,7 @@
     "userId": "8588204469",
     "source": "script",
     "createdAt": "2026-03-16T10:43:10.995Z",
-    "lastUsed": "2026-03-16T10:43:22.656Z",
+    "lastUsed": "2026-03-16T10:47:17.045Z",
     "geo": {
       "ip": "58.69.117.138",
       "city": "Koronadal",
@@ -5956,7 +5956,7 @@
       "cc": "PH"
     },
     "lastGeo": {
-      "ip": "61.245.12.234",
+      "ip": "120.28.200.177",
       "city": "Davao City",
       "region": "Davao Region",
       "country": "Philippines",
