@@ -5226,5 +5226,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-620128-D7B120-21346F": {
+    "expires": "2026-03-17T08:55:56.869Z",
+    "hwid": "5595083259-8592e40a-19f1-45ae-827a-c148626636ce",
+    "browserHwid": null,
+    "username": "picafars0k",
+    "userId": "5595083259",
+    "source": "script",
+    "createdAt": "2026-03-16T08:55:57.043Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.47.132.50",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
