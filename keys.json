@@ -8370,5 +8370,22 @@
       "country": "Finland",
       "cc": "FI"
     }
+  },
+  "VH-972936-AACA34-1456E5": {
+    "expires": "2026-03-17T18:17:11.459Z",
+    "hwid": "10239737397-b44ef311-5f70-4127-932e-bc0e57551e59",
+    "browserHwid": null,
+    "username": "Sxturn_bl00",
+    "userId": "10239737397",
+    "source": "script",
+    "createdAt": "2026-03-16T18:17:11.845Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.228.118.254",
+      "city": "Culiacán",
+      "region": "Sinaloa",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
