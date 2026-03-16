@@ -4786,8 +4786,15 @@
     "userId": "8690517848",
     "source": "script",
     "createdAt": "2026-03-16T08:13:01.387Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T08:14:02.064Z",
     "geo": {
+      "ip": "140.213.94.198",
+      "city": "Cibitung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "140.213.94.198",
       "city": "Cibitung",
       "region": "West Java",
