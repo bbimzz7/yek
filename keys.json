@@ -7801,5 +7801,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-041F19-DEAFE9-FBE3F9": {
+    "expires": "2026-03-17T15:54:34.361Z",
+    "hwid": "1417722906-49d8e4b0-2aa1-423b-adba-6872f29d8b1b",
+    "browserHwid": null,
+    "username": "L3on_bloxy",
+    "userId": "1417722906",
+    "source": "script",
+    "createdAt": "2026-03-16T15:54:34.658Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.224.8.56",
+      "city": "Fortaleza",
+      "region": "Ceará",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
