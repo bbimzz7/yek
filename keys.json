@@ -6026,8 +6026,15 @@
     "userId": "8079297352",
     "source": "script",
     "createdAt": "2026-03-16T11:00:30.249Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T11:00:43.915Z",
     "geo": {
+      "ip": "223.178.213.238",
+      "city": "Chandigarh",
+      "region": "Chandigarh",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "223.178.213.238",
       "city": "Chandigarh",
       "region": "Chandigarh",
