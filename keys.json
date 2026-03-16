@@ -5449,5 +5449,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-67645E-DC2AD3-19789D": {
+    "expires": "2026-03-17T09:32:03.134Z",
+    "hwid": "8644075002-07c6293f-8f4a-4bcf-99c5-dc175a3e9b23",
+    "browserHwid": null,
+    "username": "dameungrrrrr",
+    "userId": "8644075002",
+    "source": "script",
+    "createdAt": "2026-03-16T09:32:03.379Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "159.146.40.126",
+      "city": "Istanbul",
+      "region": "Istanbul",
+      "country": "Türkiye",
+      "cc": "TR"
+    }
   }
 }
