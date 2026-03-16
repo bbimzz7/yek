@@ -1644,5 +1644,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:29:11.694Z",
     "lastUsed": "2026-03-16T01:30:35.507Z"
+  },
+  "VH-3DF0DA-68658D-B42B81": {
+    "expires": "2026-03-17T01:31:02.240Z",
+    "hwid": "8440871048-e99ac87a-2782-4e2a-82e0-98f04198f1dc",
+    "browserHwid": null,
+    "username": "cantika_44527",
+    "userId": "8440871048",
+    "source": "script",
+    "createdAt": "2026-03-16T01:31:02.391Z",
+    "lastUsed": null
   }
 }
