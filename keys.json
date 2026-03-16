@@ -1744,5 +1744,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:47:47.309Z",
     "lastUsed": "2026-03-16T01:48:08.873Z"
+  },
+  "VH-5B4709-5CE311-72DB39": {
+    "expires": "2026-03-17T01:50:08.644Z",
+    "hwid": "8645741765-f80a4203-6cc2-4bc4-a0a9-f97a457595fa",
+    "browserHwid": null,
+    "username": "goku_583837",
+    "userId": "8645741765",
+    "source": "script",
+    "createdAt": "2026-03-16T01:50:08.811Z",
+    "lastUsed": null
   }
 }
