@@ -1974,5 +1974,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:32:08.816Z",
     "lastUsed": "2026-03-16T02:32:15.753Z"
+  },
+  "VH-BC16C9-E78697-73660E": {
+    "expires": "2026-03-17T02:34:43.154Z",
+    "hwid": "1750391131-68C03A8D-8883-4FAB-B01C-CCF4B0CEE1D5",
+    "browserHwid": null,
+    "username": "Awwmydog",
+    "userId": "1750391131",
+    "source": "script",
+    "createdAt": "2026-03-16T02:34:43.306Z",
+    "lastUsed": null
   }
 }
