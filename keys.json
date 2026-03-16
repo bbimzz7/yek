@@ -3647,7 +3647,7 @@
     "userId": "10396819494",
     "source": "script",
     "createdAt": "2026-03-16T06:35:56.591Z",
-    "lastUsed": "2026-03-16T06:36:53.602Z",
+    "lastUsed": "2026-03-16T07:14:09.297Z",
     "geo": {
       "ip": "66.96.232.106",
       "city": "South Tangerang",
@@ -3656,9 +3656,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "66.96.232.106",
-      "city": "South Tangerang",
-      "region": "Banten",
+      "ip": "103.68.233.155",
+      "city": "Caringin",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
