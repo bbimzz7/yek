@@ -4090,8 +4090,15 @@
     "userId": "10446980587",
     "source": "script",
     "createdAt": "2026-03-16T07:14:35.013Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T07:14:49.925Z",
     "geo": {
+      "ip": "117.20.115.181",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    },
+    "lastGeo": {
       "ip": "117.20.115.181",
       "city": "Phnom Penh",
       "region": "Phnom Penh",
