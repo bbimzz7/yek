@@ -8796,5 +8796,22 @@
       "country": "Denmark",
       "cc": "DK"
     }
+  },
+  "VH-467D5D-B71DFD-1D7B66": {
+    "expires": "2026-03-17T20:31:32.800Z",
+    "hwid": "4641730727-8886fc4e-deb3-4f46-a6fe-8a296f87afc7",
+    "browserHwid": null,
+    "username": "riccogamer14yt",
+    "userId": "4641730727",
+    "source": "script",
+    "createdAt": "2026-03-16T20:31:33.016Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "78.213.128.119",
+      "city": "Milano",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
