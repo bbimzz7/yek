@@ -7770,5 +7770,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DCA412-226BA2-9B1449": {
+    "expires": "2026-03-17T15:53:05.838Z",
+    "hwid": "6140315136-29009dd0-7b79-487d-bc5f-cf9f237f6f78",
+    "browserHwid": null,
+    "username": "Tanjiro_14944",
+    "userId": "6140315136",
+    "source": "script",
+    "createdAt": "2026-03-16T15:53:06.070Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "197.95.21.191",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
