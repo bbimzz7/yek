@@ -2438,5 +2438,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-23601D-E95D91-82EBEC": {
+    "expires": "2026-03-17T03:43:55.703Z",
+    "hwid": "5018145487-ee630bc9-81c5-4064-aa23-53bfc6854e36",
+    "browserHwid": null,
+    "username": "4wx3789",
+    "userId": "5018145487",
+    "source": "script",
+    "createdAt": "2026-03-16T03:43:55.853Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.191.78.32",
+      "city": "Magé",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
