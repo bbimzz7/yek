@@ -8233,5 +8233,22 @@
       "country": "Israel",
       "cc": "IL"
     }
+  },
+  "VH-215E9C-6FC7F9-8932D2": {
+    "expires": "2026-03-17T17:45:35.491Z",
+    "hwid": "9251577250-b9e83fa8-2f81-41cb-b093-501d8ddf2720",
+    "browserHwid": null,
+    "username": "lyliarani",
+    "userId": "9251577250",
+    "source": "script",
+    "createdAt": "2026-03-16T17:45:35.930Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.85.206.46",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
