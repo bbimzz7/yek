@@ -8000,5 +8000,22 @@
       "country": "Brunei",
       "cc": "BN"
     }
+  },
+  "VH-266395-56C7E2-C82219": {
+    "expires": "2026-03-17T16:46:03.595Z",
+    "hwid": null,
+    "browserHwid": "BR-05B7AC1D-5JKB7",
+    "username": "futurerosee3",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-16T16:46:04.024Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.51.52",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
