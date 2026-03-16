@@ -7074,5 +7074,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-58ACD0-50AA58-D9CC41": {
+    "expires": "2026-03-17T14:04:41.514Z",
+    "hwid": "8634217213-d0245560-7b9c-4457-8f78-2bd3d448d49f",
+    "browserHwid": null,
+    "username": "adibsyauqi_perlis1",
+    "userId": "8634217213",
+    "source": "script",
+    "createdAt": "2026-03-16T14:04:41.749Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.135.199.103",
+      "city": "Ipoh",
+      "region": "Perak",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
