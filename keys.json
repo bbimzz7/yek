@@ -3393,8 +3393,15 @@
     "userId": "10530204194",
     "source": "script",
     "createdAt": "2026-03-16T06:00:20.038Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T06:00:29.801Z",
     "geo": {
+      "ip": "113.192.30.153",
+      "city": "Duren Tiga",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "113.192.30.153",
       "city": "Duren Tiga",
       "region": "Jakarta",
