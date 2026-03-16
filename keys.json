@@ -8700,5 +8700,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-34F178-2FCE4E-C47EF6": {
+    "expires": "2026-03-17T20:23:12.436Z",
+    "hwid": "7338875389-40adeda7-bfd5-4780-8f97-f453b891898d",
+    "browserHwid": null,
+    "username": "MINK_MELODYPLAYZZ",
+    "userId": "7338875389",
+    "source": "script",
+    "createdAt": "2026-03-16T20:23:12.846Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.234.226.51",
+      "city": "Coquimbo",
+      "region": "Coquimbo Region",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
