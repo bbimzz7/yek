@@ -4657,5 +4657,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-182C0F-08BDE1-499509": {
+    "expires": "2026-03-17T08:01:14.175Z",
+    "hwid": "10307555433-df1f705c-2a93-4f9c-8068-727469157df6",
+    "browserHwid": null,
+    "username": "ciannaxxyv",
+    "userId": "10307555433",
+    "source": "script",
+    "createdAt": "2026-03-16T08:01:14.360Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.205.47.195",
+      "city": "Abu Dhabi",
+      "region": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
