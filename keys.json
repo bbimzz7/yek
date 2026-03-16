@@ -8940,5 +8940,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-26C2FC-8416E6-6B5D94": {
+    "expires": "2026-03-17T21:07:10.035Z",
+    "hwid": "7838172149-ce64d0f5-1c1e-4e0a-acaa-8ce98f94d2da",
+    "browserHwid": null,
+    "username": "Incursio473",
+    "userId": "7838172149",
+    "source": "script",
+    "createdAt": "2026-03-16T21:07:10.421Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.51.215.49",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
