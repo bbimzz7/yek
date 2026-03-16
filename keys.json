@@ -4849,5 +4849,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8DB60D-DEFB4A-0C8895": {
+    "expires": "2026-03-17T08:18:04.010Z",
+    "hwid": "8312782810-9012fb82-b566-4757-9477-97c53564751c",
+    "browserHwid": null,
+    "username": "Nabilljlke",
+    "userId": "8312782810",
+    "source": "script",
+    "createdAt": "2026-03-16T08:18:04.181Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.159.195.159",
+      "city": "Jember",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
