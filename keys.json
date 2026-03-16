@@ -5122,8 +5122,15 @@
     "userId": "8186401062",
     "source": "script",
     "createdAt": "2026-03-16T08:39:24.757Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T08:39:35.151Z",
     "geo": {
+      "ip": "124.217.72.176",
+      "city": "Mexico",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "124.217.72.176",
       "city": "Mexico",
       "region": "Central Luzon",
