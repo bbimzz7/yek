@@ -8508,5 +8508,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-FFFD07-BBB7F3-862E36": {
+    "expires": "2026-03-17T18:39:23.351Z",
+    "hwid": "9696772003-36829513-0c67-47ca-8f32-a91e663ad13e",
+    "browserHwid": null,
+    "username": "pollo285140",
+    "userId": "9696772003",
+    "source": "script",
+    "createdAt": "2026-03-16T18:39:23.618Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.135.41.183",
+      "city": "Ometepec",
+      "region": "Guerrero",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
