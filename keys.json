@@ -8026,8 +8026,15 @@
     "userId": "10433231186",
     "source": "script",
     "createdAt": "2026-03-16T16:49:40.454Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T16:49:49.174Z",
     "geo": {
+      "ip": "37.65.5.170",
+      "city": "Bordeaux",
+      "region": "Nouvelle-Aquitaine",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "37.65.5.170",
       "city": "Bordeaux",
       "region": "Nouvelle-Aquitaine",
