@@ -6209,5 +6209,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-AF8243-37F35E-0185A0": {
+    "expires": "2026-03-17T11:35:47.065Z",
+    "hwid": "5694802017-D9F52E25-71E9-4A9B-9943-0090237527A3",
+    "browserHwid": null,
+    "username": "MR_potato6943",
+    "userId": "5694802017",
+    "source": "script",
+    "createdAt": "2026-03-16T11:35:47.450Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "217.194.158.27",
+      "city": "Giv'at Brenner",
+      "region": "Central District",
+      "country": "Israel",
+      "cc": "IL"
+    }
   }
 }
