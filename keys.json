@@ -7410,5 +7410,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5F3450-890528-2F9E5D": {
+    "expires": "2026-03-17T14:57:50.831Z",
+    "hwid": "8511095677-0d532824-194b-4ee1-be5d-5027f220c594",
+    "browserHwid": null,
+    "username": "iloveuzoth102",
+    "userId": "8511095677",
+    "source": "script",
+    "createdAt": "2026-03-16T14:57:51.204Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "51.195.102.9",
+      "city": "Limburg an der Lahn",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
