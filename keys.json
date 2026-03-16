@@ -6810,5 +6810,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-75F329-C97A49-3C1C7C": {
+    "expires": "2026-03-17T13:25:25.965Z",
+    "hwid": "4375938524-6ca074cf-0050-4752-a4b0-9648a0428a9c",
+    "browserHwid": null,
+    "username": "pikonodai",
+    "userId": "4375938524",
+    "source": "script",
+    "createdAt": "2026-03-16T13:25:26.158Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.128.100.17",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
