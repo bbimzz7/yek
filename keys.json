@@ -2479,5 +2479,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-CAED7F-8E7C5B-545A1C": {
+    "expires": "2026-03-17T03:45:21.049Z",
+    "hwid": "10665804183-dcca41dd-27d3-4779-af5a-b5d4eeb10a2c",
+    "browserHwid": null,
+    "username": "Fasha10328",
+    "userId": "10665804183",
+    "source": "script",
+    "createdAt": "2026-03-16T03:45:21.225Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "163.171.210.103",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
