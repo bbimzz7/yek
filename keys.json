@@ -3504,7 +3504,7 @@
     "userId": "9305293656",
     "source": "script",
     "createdAt": "2026-03-16T06:06:22.226Z",
-    "lastUsed": "2026-03-16T14:34:42.197Z",
+    "lastUsed": "2026-03-16T15:53:18.611Z",
     "geo": {
       "ip": "65.186.229.45",
       "city": "Richland Center",
@@ -3513,8 +3513,8 @@
       "cc": "US"
     },
     "lastGeo": {
-      "ip": "65.186.229.45",
-      "city": "Richland Center",
+      "ip": "71.90.30.75",
+      "city": "Watertown",
       "region": "Wisconsin",
       "country": "United States",
       "cc": "US"
