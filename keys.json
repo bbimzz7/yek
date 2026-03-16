@@ -2651,5 +2651,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-335577-7CEC27-98BD41": {
+    "expires": "2026-03-17T03:57:11.423Z",
+    "hwid": "9584420034-9f2bbf5d-d6a2-48da-8998-4c2343f8ef4f",
+    "browserHwid": null,
+    "username": "hakim82982",
+    "userId": "9584420034",
+    "source": "script",
+    "createdAt": "2026-03-16T03:57:11.588Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.180.119.113",
+      "city": "Kemendung",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
