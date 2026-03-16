@@ -1914,5 +1914,15 @@
     "source": "script",
     "createdAt": "2026-03-16T02:26:25.221Z",
     "lastUsed": "2026-03-16T02:27:06.606Z"
+  },
+  "VH-BC6928-BCE522-9B09A3": {
+    "expires": "2026-03-17T02:30:08.306Z",
+    "hwid": "9717063729-a4f791c3-8ec6-4964-b2e8-076f063c3a53",
+    "browserHwid": null,
+    "username": "dinossauro_baraiba",
+    "userId": "9717063729",
+    "source": "script",
+    "createdAt": "2026-03-16T02:30:08.459Z",
+    "lastUsed": null
   }
 }
