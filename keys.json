@@ -7050,5 +7050,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-BC4296-8B66C9-90F3BB": {
+    "expires": "2026-03-17T14:02:19.475Z",
+    "hwid": "2711774813-2a548024-3289-4bbd-96de-485d94e08750",
+    "browserHwid": null,
+    "username": "Katieex0170",
+    "userId": "2711774813",
+    "source": "script",
+    "createdAt": "2026-03-16T14:02:19.750Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "118.99.117.242",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
