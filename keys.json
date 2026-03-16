@@ -2643,8 +2643,15 @@
     "userId": "9400125181",
     "source": "script",
     "createdAt": "2026-03-16T03:56:28.088Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T03:57:30.500Z",
     "geo": {
+      "ip": "170.150.244.151",
+      "city": "Teresina",
+      "region": "Piauí",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "170.150.244.151",
       "city": "Teresina",
       "region": "Piauí",
