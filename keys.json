@@ -4129,5 +4129,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-0FDD6A-05CB17-9BCFFB": {
+    "expires": "2026-03-17T07:15:57.488Z",
+    "hwid": "10288777793-5438bc63-9f94-46f6-9901-45c12a7f92ad",
+    "browserHwid": null,
+    "username": "asiap8891",
+    "userId": "10288777793",
+    "source": "script",
+    "createdAt": "2026-03-16T07:15:57.683Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.249.152.51",
+      "city": "Aimas",
+      "region": "Southwest Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
