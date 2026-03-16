@@ -8604,5 +8604,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-CF2E34-AF98F5-4643F1": {
+    "expires": "2026-03-17T19:36:01.763Z",
+    "hwid": "9819089568-a0b98aa7-8a9b-4824-be9d-2773150676ea",
+    "browserHwid": null,
+    "username": "hecker_ganteng2",
+    "userId": "9819089568",
+    "source": "script",
+    "createdAt": "2026-03-16T19:36:02.170Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.138.93.249",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
