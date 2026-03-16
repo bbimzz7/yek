@@ -3062,5 +3062,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1234CF-028584-D2550F": {
+    "expires": "2026-03-17T05:30:54.963Z",
+    "hwid": "10661016777-6fd4cd1b-8ae6-48ed-8bcf-5f67943bdf26",
+    "browserHwid": null,
+    "username": "duygojo12301",
+    "userId": "10661016777",
+    "source": "script",
+    "createdAt": "2026-03-16T05:30:55.349Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.225.203.173",
+      "city": "Haiphong",
+      "region": "Haiphong",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
