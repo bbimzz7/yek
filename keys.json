@@ -8517,8 +8517,15 @@
     "userId": "9696772003",
     "source": "script",
     "createdAt": "2026-03-16T18:39:23.618Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T18:39:43.544Z",
     "geo": {
+      "ip": "187.135.41.183",
+      "city": "Ometepec",
+      "region": "Guerrero",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.135.41.183",
       "city": "Ometepec",
       "region": "Guerrero",
