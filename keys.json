@@ -3943,5 +3943,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-F62955-BE5BA2-359F06": {
+    "expires": "2026-03-17T07:02:17.479Z",
+    "hwid": "8972233457-12e28cb3-286f-4d0f-a5ab-2f4d9212d15e",
+    "browserHwid": null,
+    "username": "AKAZAAX9",
+    "userId": "8972233457",
+    "source": "script",
+    "createdAt": "2026-03-16T07:02:17.649Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.190.46.197",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
