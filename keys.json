@@ -2207,5 +2207,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-9D5917-FA6B49-23585E": {
+    "expires": "2026-03-17T03:24:35.379Z",
+    "hwid": null,
+    "browserHwid": "BR-3B65367E-43KMD",
+    "username": "DARK_ST4RXZXZ",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-16T03:24:35.529Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.137.214",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
