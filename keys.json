@@ -5769,5 +5769,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-EF503B-3992DC-AEBCED": {
+    "expires": "2026-03-17T10:19:23.845Z",
+    "hwid": "10512596285-0812775e-a97b-43e3-ac3c-843f7404611e",
+    "browserHwid": null,
+    "username": "Mvdisownsisn",
+    "userId": "10512596285",
+    "source": "script",
+    "createdAt": "2026-03-16T10:19:24.066Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "210.10.5.114",
+      "city": "Singapore",
+      "region": "South East",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
