@@ -8218,8 +8218,15 @@
     "userId": "10445376389",
     "source": "script",
     "createdAt": "2026-03-16T17:35:19.631Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T17:35:28.786Z",
     "geo": {
+      "ip": "77.137.78.35",
+      "city": "Tel Aviv",
+      "region": "Tel Aviv",
+      "country": "Israel",
+      "cc": "IL"
+    },
+    "lastGeo": {
       "ip": "77.137.78.35",
       "city": "Tel Aviv",
       "region": "Tel Aviv",
