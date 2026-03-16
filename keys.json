@@ -8877,8 +8877,15 @@
     "userId": "10655712401",
     "source": "script",
     "createdAt": "2026-03-16T20:50:44.491Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T20:51:21.411Z",
     "geo": {
+      "ip": "103.134.0.33",
+      "city": "Peshawar",
+      "region": "Khyber Pakhtunkhwa",
+      "country": "Pakistan",
+      "cc": "PK"
+    },
+    "lastGeo": {
       "ip": "103.134.0.33",
       "city": "Peshawar",
       "region": "Khyber Pakhtunkhwa",
