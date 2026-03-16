@@ -9300,5 +9300,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-E3B30C-11B11B-1C15B5": {
+    "expires": "2026-03-17T22:24:33.249Z",
+    "hwid": "7739936040-a618fcb2-a5c1-4f56-a7cb-0abfb92e31af",
+    "browserHwid": null,
+    "username": "102u2y2622",
+    "userId": "7739936040",
+    "source": "script",
+    "createdAt": "2026-03-16T22:24:33.620Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "69.137.199.141",
+      "city": "Fort Myers",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
