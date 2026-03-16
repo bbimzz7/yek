@@ -7707,8 +7707,15 @@
     "userId": "7397907061",
     "source": "script",
     "createdAt": "2026-03-16T15:41:00.784Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T15:41:15.384Z",
     "geo": {
+      "ip": "177.86.74.53",
+      "city": "Senador Canedo",
+      "region": "Goiás",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.86.74.53",
       "city": "Senador Canedo",
       "region": "Goiás",
