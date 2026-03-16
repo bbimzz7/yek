@@ -8652,5 +8652,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-35FB0A-CC56FF-0EF443": {
+    "expires": "2026-03-17T20:07:18.149Z",
+    "hwid": "10404642812-d50c2cbc-6e0c-410a-9306-6560f3badcc1",
+    "browserHwid": null,
+    "username": "VALZZz_996",
+    "userId": "10404642812",
+    "source": "script",
+    "createdAt": "2026-03-16T20:07:18.376Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.26.101",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
