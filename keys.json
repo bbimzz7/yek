@@ -7347,8 +7347,15 @@
     "userId": "4914877026",
     "source": "script",
     "createdAt": "2026-03-16T14:41:17.947Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-16T14:41:24.090Z",
     "geo": {
+      "ip": "36.82.137.75",
+      "city": "Pamekasan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.82.137.75",
       "city": "Pamekasan",
       "region": "East Java",
