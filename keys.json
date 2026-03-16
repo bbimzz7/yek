@@ -1724,5 +1724,15 @@
     "source": "script",
     "createdAt": "2026-03-16T01:38:25.411Z",
     "lastUsed": "2026-03-16T01:38:32.435Z"
+  },
+  "VH-9B8F0D-BCCCD5-86530B": {
+    "expires": "2026-03-17T01:40:12.194Z",
+    "hwid": "7716354350-e475c735-32f1-4fae-afb1-b19d150d6485",
+    "browserHwid": null,
+    "username": "Bitelo_215",
+    "userId": "7716354350",
+    "source": "script",
+    "createdAt": "2026-03-16T01:40:12.357Z",
+    "lastUsed": null
   }
 }
