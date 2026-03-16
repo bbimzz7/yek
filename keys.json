@@ -6282,5 +6282,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-3C4056-1AA408-915839": {
+    "expires": "2026-03-17T11:44:50.944Z",
+    "hwid": "2675052828-e5acc776-449a-4de2-b1c5-21bc4ffbbfd4",
+    "browserHwid": null,
+    "username": "LIL_joel514",
+    "userId": "2675052828",
+    "source": "script",
+    "createdAt": "2026-03-16T11:44:51.282Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.12.23",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
