@@ -10245,7 +10245,7 @@
     "userId": "5367506223",
     "source": "script",
     "createdAt": "2026-03-17T02:05:22.690Z",
-    "lastUsed": "2026-03-17T02:05:31.149Z",
+    "lastUsed": "2026-03-17T03:45:25.696Z",
     "geo": {
       "ip": "68.60.72.123",
       "city": "Taylor",
@@ -10254,8 +10254,8 @@
       "cc": "US"
     },
     "lastGeo": {
-      "ip": "68.60.72.123",
-      "city": "Taylor",
+      "ip": "24.127.227.210",
+      "city": "Dearborn",
       "region": "Michigan",
       "country": "United States",
       "cc": "US"
