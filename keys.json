@@ -17303,5 +17303,22 @@
       "country": "Turkey",
       "cc": "TR"
     }
+  },
+  "VH-96EA78-0AED73-BED11A": {
+    "expires": "2026-03-18T21:10:27.777Z",
+    "hwid": "3098848339-5fb4daad-0b79-46ce-9b56-a50ce3011eca",
+    "browserHwid": null,
+    "username": "EVOSGG12321",
+    "userId": "3098848339",
+    "source": "script",
+    "createdAt": "2026-03-17T21:10:28.292Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.163.227",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
