@@ -14133,5 +14133,22 @@
       "country": "Israel",
       "cc": "IL"
     }
+  },
+  "VH-76F461-DD3962-F57A9A": {
+    "expires": "2026-03-18T14:14:22.789Z",
+    "hwid": null,
+    "browserHwid": "BR-0094792B-YOLTT",
+    "username": "bonaissshere",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-17T14:14:23.313Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.2.62",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
