@@ -16531,5 +16531,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-A4F043-A2F2E3-73C635": {
+    "expires": "2026-03-18T19:21:00.445Z",
+    "hwid": "4741285063-557aea90-e7e6-441b-881f-b7ecd690160c",
+    "browserHwid": null,
+    "username": "ilayking10023",
+    "userId": "4741285063",
+    "source": "script",
+    "createdAt": "2026-03-17T19:21:01.004Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "79.177.140.67",
+      "city": "Tel Aviv",
+      "region": "Tel Aviv",
+      "country": "Israel",
+      "cc": "IL"
+    }
   }
 }
