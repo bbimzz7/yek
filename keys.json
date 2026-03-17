@@ -15515,8 +15515,15 @@
     "userId": "10408640018",
     "source": "script",
     "createdAt": "2026-03-17T16:28:42.726Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T16:29:48.240Z",
     "geo": {
+      "ip": "24.245.227.176",
+      "city": "Brandon",
+      "region": "Manitoba",
+      "country": "Canada",
+      "cc": "CA"
+    },
+    "lastGeo": {
       "ip": "24.245.227.176",
       "city": "Brandon",
       "region": "Manitoba",
