@@ -16228,8 +16228,15 @@
     "userId": "9779786574",
     "source": "script",
     "createdAt": "2026-03-17T18:22:51.399Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T18:23:44.927Z",
     "geo": {
+      "ip": "103.69.106.122",
+      "city": "Serang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.69.106.122",
       "city": "Serang",
       "region": "Banten",
