@@ -17142,5 +17142,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-00F430-93337D-A61AE7": {
+    "expires": "2026-03-18T20:49:10.864Z",
+    "hwid": "8248161934-19f17b32-57ad-4683-973e-46186f63886b",
+    "browserHwid": null,
+    "username": "mohammed7809175",
+    "userId": "8248161934",
+    "source": "script",
+    "createdAt": "2026-03-17T20:49:11.160Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.38.56.146",
+      "city": "Abu Dhabi",
+      "region": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
