@@ -17866,5 +17866,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-DC90B1-563CFD-24E357": {
+    "expires": "2026-03-18T23:22:14.641Z",
+    "hwid": "4904561496-ebbe903b-0bec-4e07-83bf-6cfaa155e4cc",
+    "browserHwid": null,
+    "username": "tseeeeee62",
+    "userId": "4904561496",
+    "source": "script",
+    "createdAt": "2026-03-17T23:22:15.152Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.71.89",
+      "city": "Ulan Bator",
+      "region": "Ulaanbaatar",
+      "country": "Mongolia",
+      "cc": "MN"
+    }
   }
 }
