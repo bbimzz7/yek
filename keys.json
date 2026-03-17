@@ -14013,5 +14013,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-9BAF1F-5399F2-E81B4D": {
+    "expires": "2026-03-18T13:58:26.684Z",
+    "hwid": "10521835108-7392aa72-031e-43d7-b6f6-2c076ae9696a",
+    "browserHwid": null,
+    "username": "dasrunvatana",
+    "userId": "10521835108",
+    "source": "script",
+    "createdAt": "2026-03-17T13:58:27.012Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.100.48.87",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    }
   }
 }
