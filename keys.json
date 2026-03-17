@@ -10005,8 +10005,15 @@
     "userId": "7110332837",
     "source": "script",
     "createdAt": "2026-03-17T01:20:53.806Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T01:21:11.799Z",
     "geo": {
+      "ip": "177.173.236.202",
+      "city": "Recife",
+      "region": "Pernambuco",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.173.236.202",
       "city": "Recife",
       "region": "Pernambuco",
