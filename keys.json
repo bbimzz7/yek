@@ -11838,5 +11838,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-72A62A-022553-56018D": {
+    "expires": "2026-03-18T08:38:11.244Z",
+    "hwid": "10015061303-09766ce3-7bbc-40e6-94bc-87821d6ea8d4",
+    "browserHwid": null,
+    "username": "realScamNPC",
+    "userId": "10015061303",
+    "source": "script",
+    "createdAt": "2026-03-17T08:38:12.562Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.136.57.170",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
