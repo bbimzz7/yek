@@ -17916,8 +17916,15 @@
     "userId": "10242085525",
     "source": "script",
     "createdAt": "2026-03-17T23:23:01.365Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T23:25:15.944Z",
     "geo": {
+      "ip": "179.7.82.134",
+      "city": "Boza",
+      "region": "Lima region",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
       "ip": "179.7.82.134",
       "city": "Boza",
       "region": "Lima region",
