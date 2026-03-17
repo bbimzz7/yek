@@ -16348,8 +16348,15 @@
     "userId": "8880744259",
     "source": "script",
     "createdAt": "2026-03-17T18:48:53.925Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T18:49:20.475Z",
     "geo": {
+      "ip": "24.28.40.30",
+      "city": "Dallas",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "24.28.40.30",
       "city": "Dallas",
       "region": "Texas",
