@@ -16156,8 +16156,15 @@
     "userId": "10435204998",
     "source": "script",
     "createdAt": "2026-03-17T18:12:12.150Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T18:12:19.517Z",
     "geo": {
+      "ip": "66.191.188.59",
+      "city": "Spartanburg",
+      "region": "South Carolina",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "66.191.188.59",
       "city": "Spartanburg",
       "region": "South Carolina",
