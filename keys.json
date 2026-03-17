@@ -14729,8 +14729,15 @@
     "userId": "10085747255",
     "source": "script",
     "createdAt": "2026-03-17T15:15:44.228Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T15:15:53.984Z",
     "geo": {
+      "ip": "94.124.166.156",
+      "city": "Kharkiv",
+      "region": "Kharkivs’ka Oblast’",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "94.124.166.156",
       "city": "Kharkiv",
       "region": "Kharkivs’ka Oblast’",
