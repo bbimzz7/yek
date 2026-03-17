@@ -17488,5 +17488,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-F68A0D-D7C7E6-9E03AE": {
+    "expires": "2026-03-18T21:46:22.983Z",
+    "hwid": "668617190-59312da8-76f6-421b-9ab9-b55bf5d4fd50",
+    "browserHwid": null,
+    "username": "xXxSqualorxXx",
+    "userId": "668617190",
+    "source": "script",
+    "createdAt": "2026-03-17T21:46:23.223Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "91.95.12.35",
+      "city": "Tallinn",
+      "region": "Harjumaa",
+      "country": "Estonia",
+      "cc": "EE"
+    }
   }
 }
