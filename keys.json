@@ -17118,5 +17118,22 @@
       "country": "Chile",
       "cc": "CL"
     }
+  },
+  "VH-8B8384-B4E196-CBC230": {
+    "expires": "2026-03-18T20:44:12.163Z",
+    "hwid": "8135977713-3f748ba7-f1b7-4bde-b0a2-d09ee47ceb5e",
+    "browserHwid": null,
+    "username": "Akif_1449",
+    "userId": "8135977713",
+    "source": "script",
+    "createdAt": "2026-03-17T20:44:12.507Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.64.9.46",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
