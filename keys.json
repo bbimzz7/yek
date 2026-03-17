@@ -11967,5 +11967,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B50CA4-736094-94177A": {
+    "expires": "2026-03-18T08:58:28.610Z",
+    "hwid": "1441175997-1aab47ba-0b17-4ca3-b547-4e42e86773af",
+    "browserHwid": null,
+    "username": "Ddgamer2801",
+    "userId": "1441175997",
+    "source": "script",
+    "createdAt": "2026-03-17T08:58:29.046Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.246.249.33",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
