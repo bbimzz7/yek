@@ -15811,5 +15811,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-AFCFFA-8C8B73-643600": {
+    "expires": "2026-03-18T17:19:26.219Z",
+    "hwid": "6095030125-aba59c7a-0724-46c3-873b-78de7e9c6fed",
+    "browserHwid": null,
+    "username": "exzlipzx",
+    "userId": "6095030125",
+    "source": "script",
+    "createdAt": "2026-03-17T17:19:26.782Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "82.40.59.65",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
