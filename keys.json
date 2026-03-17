@@ -9924,5 +9924,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-930B1B-FC1409-8091DC": {
+    "expires": "2026-03-18T00:50:32.042Z",
+    "hwid": "9416111341-f4666776-eac2-47bf-81dc-94bd9fced43e",
+    "browserHwid": null,
+    "username": "raven15767",
+    "userId": "9416111341",
+    "source": "script",
+    "createdAt": "2026-03-17T00:50:32.239Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.210.243.71",
+      "city": "Antipolo City",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
