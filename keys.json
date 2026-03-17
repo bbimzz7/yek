@@ -12338,5 +12338,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E1F9E2-A0655E-477CF3": {
+    "expires": "2026-03-18T09:34:10.502Z",
+    "hwid": "10212529731-d5f7bc5e-dd00-4c94-96d1-1838efb85729",
+    "browserHwid": null,
+    "username": "CallmeDiva677",
+    "userId": "10212529731",
+    "source": "script",
+    "createdAt": "2026-03-17T09:34:10.765Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.66.223.101",
+      "city": "Santo Tomas",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
