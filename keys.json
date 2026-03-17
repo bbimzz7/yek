@@ -11135,5 +11135,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-C36E4F-70EEBA-D21A41": {
+    "expires": "2026-03-18T06:19:14.168Z",
+    "hwid": "10683407254-11efc3a6-6785-4af2-b947-f1583e077501",
+    "browserHwid": null,
+    "username": "M_o1gs",
+    "userId": "10683407254",
+    "source": "script",
+    "createdAt": "2026-03-17T06:19:14.392Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.162.138",
+      "city": "Istres",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
