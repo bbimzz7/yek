@@ -17938,5 +17938,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-622686-DF9C85-30D1B7": {
+    "expires": "2026-03-18T23:40:39.370Z",
+    "hwid": "5714313009-fa30596e-986a-409c-ab18-8ccdc6e7c533",
+    "browserHwid": null,
+    "username": "aFz_nayy116",
+    "userId": "5714313009",
+    "source": "script",
+    "createdAt": "2026-03-17T23:40:39.971Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.22.187.14",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
