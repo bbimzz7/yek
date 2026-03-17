@@ -17736,5 +17736,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-571506-8E47F7-87DCA0": {
+    "expires": "2026-03-18T22:48:46.989Z",
+    "hwid": "10687063239-a4cef280-b085-47cc-857f-bc544863e8df",
+    "browserHwid": null,
+    "username": "Imbettrbtw",
+    "userId": "10687063239",
+    "source": "script",
+    "createdAt": "2026-03-17T22:48:47.267Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "107.77.232.230",
+      "city": "Alpharetta",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
