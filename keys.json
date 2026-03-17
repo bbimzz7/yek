@@ -17473,8 +17473,15 @@
     "userId": "10675595554",
     "source": "script",
     "createdAt": "2026-03-17T21:44:10.121Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T21:44:18.263Z",
     "geo": {
+      "ip": "38.159.227.86",
+      "city": "Azua",
+      "region": "Azua Province",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    },
+    "lastGeo": {
       "ip": "38.159.227.86",
       "city": "Azua",
       "region": "Azua Province",
