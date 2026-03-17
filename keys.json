@@ -17055,8 +17055,15 @@
     "userId": "8099877258",
     "source": "script",
     "createdAt": "2026-03-17T20:31:42.838Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T20:33:22.822Z",
     "geo": {
+      "ip": "179.113.177.162",
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "179.113.177.162",
       "city": "São Paulo",
       "region": "São Paulo",
