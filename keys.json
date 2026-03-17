@@ -13573,8 +13573,15 @@
     "userId": "7416383708",
     "source": "script",
     "createdAt": "2026-03-17T12:40:54.443Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T12:41:05.584Z",
     "geo": {
+      "ip": "14.192.215.214",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "14.192.215.214",
       "city": "Kuala Lumpur",
       "region": "Kuala Lumpur",
