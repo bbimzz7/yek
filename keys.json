@@ -11660,5 +11660,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-564040-D660AA-6EC0C1": {
+    "expires": "2026-03-18T08:15:54.995Z",
+    "hwid": "2796160762-B6942DAF-FFFF-406D-92CB-606123F2AD21",
+    "browserHwid": null,
+    "username": "Kayss_10",
+    "userId": "2796160762",
+    "source": "script",
+    "createdAt": "2026-03-17T08:15:55.470Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.85.207.4",
+      "city": "Cibitung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
