@@ -14864,5 +14864,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-933540-27175F-742BA3": {
+    "expires": "2026-03-18T15:34:31.641Z",
+    "hwid": "6199237676-6fc428cf-cb82-417b-bb8f-e7b92ca4ac4d",
+    "browserHwid": null,
+    "username": "G_reckti",
+    "userId": "6199237676",
+    "source": "script",
+    "createdAt": "2026-03-17T15:34:31.917Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.22.177.27",
+      "city": "Bangkinang",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
