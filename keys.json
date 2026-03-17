@@ -15667,5 +15667,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-48184F-EE2900-35F4A0": {
+    "expires": "2026-03-18T16:58:27.359Z",
+    "hwid": "3478788005-E3736D5F-01BD-4643-B232-0DBC8D8A3B67",
+    "browserHwid": null,
+    "username": "kamadinho223",
+    "userId": "3478788005",
+    "source": "script",
+    "createdAt": "2026-03-17T16:58:27.667Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.63.146.174",
+      "city": "Macaúbas",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
