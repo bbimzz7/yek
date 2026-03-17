@@ -14456,5 +14456,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-532FAC-C6789C-36BED7": {
+    "expires": "2026-03-18T14:46:15.258Z",
+    "hwid": "10674310504-032349c3-edb3-4e1e-8146-0d01207d5565",
+    "browserHwid": null,
+    "username": "kupekupe9",
+    "userId": "10674310504",
+    "source": "script",
+    "createdAt": "2026-03-17T14:46:15.560Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.226.131.71",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
