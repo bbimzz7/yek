@@ -11621,8 +11621,15 @@
     "userId": "1071051",
     "source": "script",
     "createdAt": "2026-03-17T08:07:22.011Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T08:07:35.707Z",
     "geo": {
+      "ip": "103.166.26.134",
+      "city": "Rowotengah",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.166.26.134",
       "city": "Rowotengah",
       "region": "East Java",
