@@ -9972,5 +9972,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FC5DB4-96926D-315380": {
+    "expires": "2026-03-18T01:01:10.177Z",
+    "hwid": "7948040473-dd883e43-26c3-4199-85cf-65694507903e",
+    "browserHwid": null,
+    "username": "isaodsk",
+    "userId": "7948040473",
+    "source": "script",
+    "createdAt": "2026-03-17T01:01:10.523Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.37.187.215",
+      "city": "Quixeramobim",
+      "region": "Ceará",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
