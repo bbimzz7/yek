@@ -17199,8 +17199,15 @@
     "userId": "7590682668",
     "source": "script",
     "createdAt": "2026-03-17T20:51:50.474Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T20:52:00.168Z",
     "geo": {
+      "ip": "182.77.75.82",
+      "city": "New Delhi",
+      "region": "National Capital Territory of Delhi",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "182.77.75.82",
       "city": "New Delhi",
       "region": "National Capital Territory of Delhi",
