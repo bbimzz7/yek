@@ -15619,5 +15619,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-3AC54D-E5FE09-CDC5E8": {
+    "expires": "2026-03-18T16:57:14.434Z",
+    "hwid": "5158646176-8459b412-f98d-4ab1-893f-2214073b8642",
+    "browserHwid": null,
+    "username": "yondi110",
+    "userId": "5158646176",
+    "source": "script",
+    "createdAt": "2026-03-17T16:57:15.022Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.217.176.2",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
