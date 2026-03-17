@@ -16719,8 +16719,15 @@
     "userId": "8646173456",
     "source": "script",
     "createdAt": "2026-03-17T19:41:41.029Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T19:41:48.267Z",
     "geo": {
+      "ip": "101.56.112.35",
+      "city": "Monza",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "lastGeo": {
       "ip": "101.56.112.35",
       "city": "Monza",
       "region": "Lombardy",
