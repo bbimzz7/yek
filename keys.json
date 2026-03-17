@@ -8400,5 +8400,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-09C0DC-6F602E-0FBE15": {
+    "expires": "2026-03-18T23:51:27.359Z",
+    "hwid": "10262597931-d147bca8-948c-4aea-b9c2-58ffa867317f",
+    "browserHwid": null,
+    "username": "kira129769",
+    "userId": "10262597931",
+    "source": "script",
+    "createdAt": "2026-03-17T23:51:27.757Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "166.181.253.139",
+      "city": "Brookings",
+      "region": "Oregon",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
