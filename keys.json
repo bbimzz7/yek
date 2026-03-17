@@ -16147,5 +16147,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-A9E6C7-965986-85BA63": {
+    "expires": "2026-03-18T18:12:11.771Z",
+    "hwid": "10435204998-852A7458-4D79-48EC-BBAE-63F55F1D2D23",
+    "browserHwid": null,
+    "username": "7xxIIIIIIIIIIxx7",
+    "userId": "10435204998",
+    "source": "script",
+    "createdAt": "2026-03-17T18:12:12.150Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "66.191.188.59",
+      "city": "Spartanburg",
+      "region": "South Carolina",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
