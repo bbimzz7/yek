@@ -10092,5 +10092,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-FEF193-B07A2D-0D36A7": {
+    "expires": "2026-03-18T01:44:13.948Z",
+    "hwid": "6206167918-20324a34-4ecb-478a-bfc1-f77f175dafa7",
+    "browserHwid": null,
+    "username": "Pobri_rika",
+    "userId": "6206167918",
+    "source": "script",
+    "createdAt": "2026-03-17T01:44:14.187Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.59.127.126",
+      "city": "Campo Grande",
+      "region": "Mato Grosso do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
