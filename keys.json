@@ -8457,8 +8457,15 @@
     "userId": "3476157649",
     "source": "script",
     "createdAt": "2026-03-17T23:56:48.487Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T23:57:03.876Z",
     "geo": {
+      "ip": "167.250.61.142",
+      "city": "Laranjeiras do Sul",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "167.250.61.142",
       "city": "Laranjeiras do Sul",
       "region": "Paraná",
