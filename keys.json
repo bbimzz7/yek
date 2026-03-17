@@ -13564,5 +13564,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-97104D-CB46F0-946563": {
+    "expires": "2026-03-18T12:40:53.919Z",
+    "hwid": "7416383708-0e041cb2-524c-4325-801b-ec0ca6bbf8b4",
+    "browserHwid": null,
+    "username": "ChanChiJyiYT",
+    "userId": "7416383708",
+    "source": "script",
+    "createdAt": "2026-03-17T12:40:54.443Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.192.215.214",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
