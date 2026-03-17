@@ -15059,5 +15059,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-196363-3C1EF8-F381DB": {
+    "expires": "2026-03-18T15:56:23.009Z",
+    "hwid": "10657091456-547385db-8373-4b7b-a935-df2f0fbb9d26",
+    "browserHwid": null,
+    "username": "youssef60814",
+    "userId": "10657091456",
+    "source": "script",
+    "createdAt": "2026-03-17T15:56:23.481Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "91.213.120.25",
+      "city": "Almoradí",
+      "region": "Valencia",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
