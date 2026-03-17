@@ -12540,9 +12540,16 @@
     "userId": "10177659290",
     "source": "script",
     "createdAt": "2026-03-17T09:58:20.004Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T09:58:26.474Z",
     "geo": {
       "ip": "182.4.70.182",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "182.4.71.42",
       "city": "Padang",
       "region": "West Sumatra",
       "country": "Indonesia",
