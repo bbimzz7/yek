@@ -10181,5 +10181,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-AF54B7-1147F2-5D9A45": {
+    "expires": "2026-03-18T01:48:45.448Z",
+    "hwid": "7715611385-444e8a26-96dc-4c98-bb80-11564d4d815c",
+    "browserHwid": null,
+    "username": "cebolinha_XD8",
+    "userId": "7715611385",
+    "source": "script",
+    "createdAt": "2026-03-17T01:48:45.629Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.131.17.206",
+      "city": "Macapá",
+      "region": "Amapá",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
