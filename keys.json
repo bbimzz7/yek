@@ -17264,8 +17264,15 @@
     "userId": "5053279722",
     "source": "script",
     "createdAt": "2026-03-17T20:57:56.531Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T20:58:07.479Z",
     "geo": {
+      "ip": "223.206.231.90",
+      "city": "Udon Thani",
+      "region": "Udon Thani",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "223.206.231.90",
       "city": "Udon Thani",
       "region": "Udon Thani",
