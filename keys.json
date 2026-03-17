@@ -9660,5 +9660,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-4A76B2-B478B2-CEF9A0": {
+    "expires": "2026-03-18T00:04:34.693Z",
+    "hwid": "3491033116-3898C758-8540-4BF0-AA44-AEE901512FB0",
+    "browserHwid": null,
+    "username": "809daniel907",
+    "userId": "3491033116",
+    "source": "script",
+    "createdAt": "2026-03-17T00:04:35.026Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.80.24.166",
+      "city": "Georgetown",
+      "region": "Demerara-Mahaica",
+      "country": "Guyana",
+      "cc": "GY"
+    }
   }
 }
