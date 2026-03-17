@@ -15837,8 +15837,15 @@
     "userId": "10433204387",
     "source": "script",
     "createdAt": "2026-03-17T17:20:40.886Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T17:20:51.382Z",
     "geo": {
+      "ip": "62.201.254.175",
+      "city": "Sulaymaniyah",
+      "region": "Sulaymaniyah Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "62.201.254.175",
       "city": "Sulaymaniyah",
       "region": "Sulaymaniyah Governorate",
