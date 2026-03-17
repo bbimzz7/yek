@@ -16679,5 +16679,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-27EF7D-390A66-047CBD": {
+    "expires": "2026-03-18T19:39:55.166Z",
+    "hwid": "10496986000-17629985-cfd1-4c5a-8d71-b30e5a23a856",
+    "browserHwid": null,
+    "username": "Jaylitee4",
+    "userId": "10496986000",
+    "source": "script",
+    "createdAt": "2026-03-17T19:39:55.470Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.158.203.214",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
