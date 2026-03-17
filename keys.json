@@ -9693,13 +9693,20 @@
     "userId": "8154756817",
     "source": "script",
     "createdAt": "2026-03-17T00:10:32.704Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T00:14:26.608Z",
     "geo": {
       "ip": "37.239.160.18",
       "city": "Al Hāshimīyah",
       "region": "Babil Governorate",
       "country": "Iraq",
       "cc": "IQ"
+    },
+    "lastGeo": {
+      "ip": "57.128.180.170",
+      "city": "Erith",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
     }
   },
   "VH-570BEE-B3C71F-99D831": {
