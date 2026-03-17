@@ -16621,5 +16621,22 @@
       "country": "Honduras",
       "cc": "HN"
     }
+  },
+  "VH-FA2E23-005799-8B4728": {
+    "expires": "2026-03-18T19:36:22.014Z",
+    "hwid": "9054316140-8a6a3ce3-0bc8-443a-85bf-ded786c67d26",
+    "browserHwid": null,
+    "username": "aidanisocool_2",
+    "userId": "9054316140",
+    "source": "script",
+    "createdAt": "2026-03-17T19:36:22.298Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.177.217.242",
+      "city": "Georgetown",
+      "region": "Demerara-Mahaica",
+      "country": "Guyana",
+      "cc": "GY"
+    }
   }
 }
