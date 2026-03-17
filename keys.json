@@ -15008,5 +15008,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8AC9AB-E521A5-CD5BC6": {
+    "expires": "2026-03-18T15:53:58.942Z",
+    "hwid": "6206167918-9d28d60e-3b80-4f30-a65a-b345a7b8c14f",
+    "browserHwid": null,
+    "username": "Pobri_rika",
+    "userId": "6206167918",
+    "source": "script",
+    "createdAt": "2026-03-17T15:53:59.476Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.59.127.126",
+      "city": "Campo Grande",
+      "region": "Mato Grosso do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
