@@ -16870,9 +16870,16 @@
     "userId": "8594136736",
     "source": "script",
     "createdAt": "2026-03-17T20:01:36.694Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T20:01:45.694Z",
     "geo": {
       "ip": "103.171.151.62",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "103.171.165.154",
       "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
