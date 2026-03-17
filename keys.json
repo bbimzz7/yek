@@ -13910,5 +13910,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AB0EA3-479C16-F98F80": {
+    "expires": "2026-03-18T13:36:39.942Z",
+    "hwid": "10659804838-6478e9ce-4755-41e6-8294-15b23a402ee9",
+    "browserHwid": null,
+    "username": "halog_41",
+    "userId": "10659804838",
+    "source": "script",
+    "createdAt": "2026-03-17T13:36:40.210Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.206.214.76",
+      "city": "Sukadana",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
