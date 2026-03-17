@@ -15097,5 +15097,22 @@
       "country": "Spain",
       "cc": "ES"
     }
+  },
+  "VH-A6A679-4B1AE8-CD50AD": {
+    "expires": "2026-03-18T15:59:01.932Z",
+    "hwid": null,
+    "browserHwid": "BR-3B6535C4-CXD43",
+    "username": "apa_epep0",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-17T15:59:02.248Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.19.86.27",
+      "city": "Purbalingga",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
