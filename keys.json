@@ -10349,5 +10349,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-3278ED-5514CB-B37C27": {
+    "expires": "2026-03-18T02:38:11.100Z",
+    "hwid": "7280686382-721d4b01-1a15-4f87-a35b-f09ef224eed1",
+    "browserHwid": null,
+    "username": "feliphe98793",
+    "userId": "7280686382",
+    "source": "script",
+    "createdAt": "2026-03-17T02:38:11.320Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.204.79.179",
+      "city": "São João de Meriti",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
