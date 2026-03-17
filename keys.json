@@ -17512,5 +17512,22 @@
       "country": "Estonia",
       "cc": "EE"
     }
+  },
+  "VH-20E6B9-8B8980-C5307C": {
+    "expires": "2026-03-18T21:53:07.502Z",
+    "hwid": "8843995205-b5b84623-65fe-442f-8549-755fa49c5a32",
+    "browserHwid": null,
+    "username": "trax_1196",
+    "userId": "8843995205",
+    "source": "script",
+    "createdAt": "2026-03-17T21:53:08.035Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "149.50.215.231",
+      "city": "Milan",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
