@@ -14278,5 +14278,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-56512D-DA902C-A4EA8C": {
+    "expires": "2026-03-18T14:31:41.992Z",
+    "hwid": "8417001995-8f1c2234-bc56-462c-8a74-eb1befbc1805",
+    "browserHwid": null,
+    "username": "KimYuna_890",
+    "userId": "8417001995",
+    "source": "script",
+    "createdAt": "2026-03-17T14:31:42.313Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.209.65.135",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
