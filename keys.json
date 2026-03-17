@@ -13204,5 +13204,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-B82848-49E0F7-D6738A": {
+    "expires": "2026-03-18T11:34:37.973Z",
+    "hwid": "9851405083-71c0bd18-1638-483f-b443-fa5ba0835fb0",
+    "browserHwid": null,
+    "username": "sheena01247",
+    "userId": "9851405083",
+    "source": "script",
+    "createdAt": "2026-03-17T11:34:38.223Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.120.45",
+      "city": "Tarlac City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
