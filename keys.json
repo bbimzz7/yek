@@ -11257,8 +11257,15 @@
     "userId": "6050940271",
     "source": "script",
     "createdAt": "2026-03-17T06:49:04.914Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T06:49:13.821Z",
     "geo": {
+      "ip": "123.253.50.46",
+      "city": "Dasmariñas",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "123.253.50.46",
       "city": "Dasmariñas",
       "region": "Calabarzon",
