@@ -14480,5 +14480,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-53B202-D75E5F-497667": {
+    "expires": "2026-03-18T14:51:18.603Z",
+    "hwid": "669422795-3570429f-f0dd-41e2-99c7-f91d1a53e161",
+    "browserHwid": null,
+    "username": "climbng",
+    "userId": "669422795",
+    "source": "script",
+    "createdAt": "2026-03-17T14:51:18.932Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.0.250",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
