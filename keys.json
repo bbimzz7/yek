@@ -16188,5 +16188,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-538F2B-035141-C697B2": {
+    "expires": "2026-03-18T18:21:28.281Z",
+    "hwid": "1183169332-21e3e006-d1f5-4272-b3f4-8a7247146a3f",
+    "browserHwid": null,
+    "username": "kirasnias",
+    "userId": "1183169332",
+    "source": "script",
+    "createdAt": "2026-03-17T18:21:28.640Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.153.94",
+      "city": "Godean",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
