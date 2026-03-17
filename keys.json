@@ -14383,8 +14383,15 @@
     "userId": "9588239379",
     "source": "script",
     "createdAt": "2026-03-17T14:41:22.189Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T14:41:37.644Z",
     "geo": {
+      "ip": "103.217.217.202",
+      "city": "Cileungsir",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.217.217.202",
       "city": "Cileungsir",
       "region": "West Java",
