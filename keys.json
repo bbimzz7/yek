@@ -11453,14 +11453,22 @@
   },
   "VH-A7437C-FFC615-D2B6CF": {
     "expires": "2026-03-18T07:29:40.943Z",
-    "hwid": null,
+    "hwid": "9412218251-f0f6d544-34d9-4246-9229-15b95a0b32f4",
     "browserHwid": "BR-17613B6E-LN209",
-    "username": "Cocofantdjdjd",
-    "userId": null,
+    "username": "cocofantdjdjd",
+    "userId": "9412218251",
     "source": "browser",
     "createdAt": "2026-03-17T07:29:41.159Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T07:30:26.175Z",
     "geo": {
+      "ip": "182.8.67.159",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-17T07:30:26.168Z",
+    "lastGeo": {
       "ip": "182.8.67.159",
       "city": "Surabaya",
       "region": "East Java",
