@@ -17039,5 +17039,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-E90787-3BC983-BD132D": {
+    "expires": "2026-03-18T20:31:42.478Z",
+    "hwid": "8099877258-f5560a97-faa8-4326-9194-00ede7f7e6e2",
+    "browserHwid": null,
+    "username": "sonbrio674",
+    "userId": "8099877258",
+    "source": "script",
+    "createdAt": "2026-03-17T20:31:42.838Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.113.177.162",
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
