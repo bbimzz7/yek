@@ -12829,5 +12829,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-AA4287-99DA42-8C6705": {
+    "expires": "2026-03-18T10:52:21.471Z",
+    "hwid": "8115247174-a80e8b18-647b-4129-a6e2-4e5da5a58db0",
+    "browserHwid": null,
+    "username": "ashashtine",
+    "userId": "8115247174",
+    "source": "script",
+    "createdAt": "2026-03-17T10:52:21.789Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.200.43.77",
+      "city": "Valenzuela",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
