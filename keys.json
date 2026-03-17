@@ -13869,5 +13869,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D14158-0804DD-854BE0": {
+    "expires": "2026-03-18T13:35:47.789Z",
+    "hwid": "7695192471-75e3ce11-0716-47f0-b4c3-4ffc0c736fb0",
+    "browserHwid": null,
+    "username": "only_amin77",
+    "userId": "7695192471",
+    "source": "script",
+    "createdAt": "2026-03-17T13:35:48.294Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "196.238.213.248",
+      "city": "Tunis",
+      "region": "Tunis Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    }
   }
 }
