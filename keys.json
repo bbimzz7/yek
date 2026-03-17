@@ -10212,5 +10212,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-CDAFB0-7A7D77-2B1FDE": {
+    "expires": "2026-03-18T01:52:58.569Z",
+    "hwid": "4217530205-d7f5aae8-970d-4b36-880f-0d2a8895ea0b",
+    "browserHwid": null,
+    "username": "Diihkah",
+    "userId": "4217530205",
+    "source": "script",
+    "createdAt": "2026-03-17T01:52:58.767Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.44.41",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
