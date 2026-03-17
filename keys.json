@@ -17890,5 +17890,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-D247CE-8A2E4C-3DC7E9": {
+    "expires": "2026-03-18T23:22:41.785Z",
+    "hwid": "7739936040-a618fcb2-a5c1-4f56-a7cb-0abfb92e31af",
+    "browserHwid": null,
+    "username": "102u2y2622",
+    "userId": "7739936040",
+    "source": "script",
+    "createdAt": "2026-03-17T23:22:42.134Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "69.137.199.141",
+      "city": "Fort Myers",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
