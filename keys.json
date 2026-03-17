@@ -15883,5 +15883,22 @@
       "country": "Moldova",
       "cc": "MD"
     }
+  },
+  "VH-EFC309-11CB0D-3D6E04": {
+    "expires": "2026-03-18T17:31:19.681Z",
+    "hwid": "10369738452-7d21e73e-0a5e-4a41-80f1-fa07e1867c3f",
+    "browserHwid": null,
+    "username": "naon_kingc",
+    "userId": "10369738452",
+    "source": "script",
+    "createdAt": "2026-03-17T17:31:20.224Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.52.57",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
