@@ -13132,5 +13132,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-E693B7-7F64AE-80FA95": {
+    "expires": "2026-03-18T11:21:43.862Z",
+    "hwid": "3140555806-16CB6234-57DF-4CF2-9378-84BD826DEA68",
+    "browserHwid": null,
+    "username": "Wahbee1",
+    "userId": "3140555806",
+    "source": "script",
+    "createdAt": "2026-03-17T11:21:44.099Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.5.203",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
