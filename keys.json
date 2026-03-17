@@ -10894,5 +10894,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C30628-F2C539-F08670": {
+    "expires": "2026-03-18T05:23:55.754Z",
+    "hwid": "8978744790-e0612e14-f111-4179-ae86-850c0abc63cc",
+    "browserHwid": null,
+    "username": "bocahkampoeng10",
+    "userId": "8978744790",
+    "source": "script",
+    "createdAt": "2026-03-17T05:23:56.124Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.66.22",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
