@@ -12280,5 +12280,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-32966F-C67F56-87C93C": {
+    "expires": "2026-03-18T09:26:48.405Z",
+    "hwid": "2867762544-544c0992-eafd-44a7-8a74-8944b6f5aab5",
+    "browserHwid": null,
+    "username": "salah123456b",
+    "userId": "2867762544",
+    "source": "script",
+    "createdAt": "2026-03-17T09:26:48.680Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.236.98.22",
+      "city": "Baghdad",
+      "region": "Baghdad",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
