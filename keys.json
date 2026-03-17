@@ -8424,5 +8424,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-31C905-DE0DFE-FD469F": {
+    "expires": "2026-03-18T23:55:22.033Z",
+    "hwid": "5031541614-4B5D976D-5DBB-4005-B768-7DFAB3FD8800",
+    "browserHwid": null,
+    "username": "jermsjustb4aned",
+    "userId": "5031541614",
+    "source": "script",
+    "createdAt": "2026-03-17T23:55:22.453Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "98.217.39.236",
+      "city": "Methuen",
+      "region": "Massachusetts",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
