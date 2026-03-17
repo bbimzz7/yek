@@ -17151,8 +17151,15 @@
     "userId": "8248161934",
     "source": "script",
     "createdAt": "2026-03-17T20:49:11.160Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T20:49:21.278Z",
     "geo": {
+      "ip": "5.38.56.146",
+      "city": "Abu Dhabi",
+      "region": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    },
+    "lastGeo": {
       "ip": "5.38.56.146",
       "city": "Abu Dhabi",
       "region": "Abu Dhabi",
