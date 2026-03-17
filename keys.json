@@ -17384,8 +17384,15 @@
     "userId": "7946362591",
     "source": "script",
     "createdAt": "2026-03-17T21:29:59.131Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T21:30:13.273Z",
     "geo": {
+      "ip": "5.43.118.63",
+      "city": "Kiseljak",
+      "region": "Federation of Bosnia and Herzegovina",
+      "country": "Bosnia and Herzegovina",
+      "cc": "BA"
+    },
+    "lastGeo": {
       "ip": "5.43.118.63",
       "city": "Kiseljak",
       "region": "Federation of Bosnia and Herzegovina",
