@@ -10678,5 +10678,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A7E728-397C29-BA6B8C": {
+    "expires": "2026-03-18T03:55:26.305Z",
+    "hwid": "7809326236-9fa51910-dccc-4fb3-a000-379a6bd79736",
+    "browserHwid": null,
+    "username": "Sasha_657021",
+    "userId": "7809326236",
+    "source": "script",
+    "createdAt": "2026-03-17T03:55:26.502Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.120.10.131",
+      "city": "Brest",
+      "region": "Brest",
+      "country": "Belarus",
+      "cc": "BY"
+    }
   }
 }
