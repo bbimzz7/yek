@@ -13540,5 +13540,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-5A2A76-F8A067-B07DF7": {
+    "expires": "2026-03-18T12:33:33.753Z",
+    "hwid": "7049821591-AB793FDD-F531-4725-A5EB-7632BEAF9AE0",
+    "browserHwid": null,
+    "username": "Vnzx64",
+    "userId": "7049821591",
+    "source": "script",
+    "createdAt": "2026-03-17T12:33:34.015Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "217.164.220.157",
+      "city": "Sharjah",
+      "region": "Emirate of Sharjah",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
