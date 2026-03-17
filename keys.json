@@ -16005,8 +16005,15 @@
     "userId": "10185763566",
     "source": "script",
     "createdAt": "2026-03-17T17:58:47.222Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T17:58:56.989Z",
     "geo": {
+      "ip": "92.97.119.171",
+      "city": "Dubai",
+      "region": "Dubai",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    },
+    "lastGeo": {
       "ip": "92.97.119.171",
       "city": "Dubai",
       "region": "Dubai",
