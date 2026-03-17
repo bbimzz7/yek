@@ -15324,5 +15324,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2D35C0-A9D6BA-5F66E6": {
+    "expires": "2026-03-18T16:17:53.504Z",
+    "hwid": "9065730965-03efbd76-a382-4475-8bf1-6557a54b2dcb",
+    "browserHwid": null,
+    "username": "NERDX0102",
+    "userId": "9065730965",
+    "source": "script",
+    "createdAt": "2026-03-17T16:17:53.783Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.5.6.204",
+      "city": "Kendari",
+      "region": "Southeast Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
