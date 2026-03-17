@@ -9701,5 +9701,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-570BEE-B3C71F-99D831": {
+    "expires": "2026-03-18T00:11:07.711Z",
+    "hwid": "5318226262-d021aa82-9861-45a0-90ec-2fe11c3aa9cf",
+    "browserHwid": null,
+    "username": "AvenaAcha",
+    "userId": "5318226262",
+    "source": "script",
+    "createdAt": "2026-03-17T00:11:07.949Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.241.28.122",
+      "city": "Tarakan",
+      "region": "North Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
