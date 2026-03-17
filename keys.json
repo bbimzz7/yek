@@ -16604,5 +16604,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-89AE69-CFC4C1-50795D": {
+    "expires": "2026-03-18T19:32:41.197Z",
+    "hwid": "7440752722-be9e58ad-9be4-4917-9ec3-c5dca3e569df",
+    "browserHwid": null,
+    "username": "de_nadi90",
+    "userId": "7440752722",
+    "source": "script",
+    "createdAt": "2026-03-17T19:32:41.489Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.94.122.159",
+      "city": "Tegucigalpa",
+      "region": "Francisco Morazán Department",
+      "country": "Honduras",
+      "cc": "HN"
+    }
   }
 }
