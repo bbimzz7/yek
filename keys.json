@@ -10822,5 +10822,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-29ADB2-937BD5-B1015A": {
+    "expires": "2026-03-18T04:26:44.946Z",
+    "hwid": "2801365934-da6abc77-6e50-4ed8-bf71-46c0355d6227",
+    "browserHwid": null,
+    "username": "Randi2309",
+    "userId": "2801365934",
+    "source": "script",
+    "createdAt": "2026-03-17T04:26:45.143Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.22.17.89",
+      "city": "Atlanta",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
