@@ -11612,5 +11612,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-FAD2F6-D60125-D3042C": {
+    "expires": "2026-03-18T08:07:21.548Z",
+    "hwid": "1071051-72178c13-6faf-4d76-adb7-2f87a52604c2",
+    "browserHwid": null,
+    "username": "10seth11",
+    "userId": "1071051",
+    "source": "script",
+    "createdAt": "2026-03-17T08:07:22.011Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.166.26.134",
+      "city": "Rowotengah",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
