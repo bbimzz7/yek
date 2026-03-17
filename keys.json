@@ -10044,5 +10044,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-26712F-CFB5CF-B0752D": {
+    "expires": "2026-03-18T01:28:16.082Z",
+    "hwid": "4965645215-212d5f4d-2809-42a9-8a37-d48abdbb72df",
+    "browserHwid": null,
+    "username": "v5a2c5",
+    "userId": "4965645215",
+    "source": "script",
+    "createdAt": "2026-03-17T01:28:16.303Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.194.167.27",
+      "city": "Rio de Janeiro",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
