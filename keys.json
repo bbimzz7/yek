@@ -13710,8 +13710,15 @@
     "userId": "4357024198",
     "source": "script",
     "createdAt": "2026-03-17T13:05:00.656Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T13:05:19.210Z",
     "geo": {
+      "ip": "177.100.237.44",
+      "city": "São Vicente",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.100.237.44",
       "city": "São Vicente",
       "region": "São Paulo",
