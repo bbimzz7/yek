@@ -13077,5 +13077,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-677490-1D8EEF-7B7B7B": {
+    "expires": "2026-03-18T11:18:39.069Z",
+    "hwid": "4558543670-9f601b36-585a-4a70-9169-855ba7845683",
+    "browserHwid": null,
+    "username": "clpmft",
+    "userId": "4558543670",
+    "source": "script",
+    "createdAt": "2026-03-17T11:18:39.293Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.204.182.118",
+      "city": "Phu Phan",
+      "region": "Sakon Nakhon",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
