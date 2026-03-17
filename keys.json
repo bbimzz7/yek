@@ -16468,8 +16468,15 @@
     "userId": "8613437777",
     "source": "script",
     "createdAt": "2026-03-17T19:11:13.603Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T19:11:22.425Z",
     "geo": {
+      "ip": "169.150.197.118",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
+    },
+    "lastGeo": {
       "ip": "169.150.197.118",
       "city": "Zurich",
       "region": "Zurich",
