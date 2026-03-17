@@ -8481,8 +8481,15 @@
     "userId": "379720347",
     "source": "script",
     "createdAt": "2026-03-17T23:58:15.264Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T23:58:24.117Z",
     "geo": {
+      "ip": "103.184.16.208",
+      "city": "Kahuripan",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.184.16.208",
       "city": "Kahuripan",
       "region": "West Java",
