@@ -17223,8 +17223,15 @@
     "userId": "9473021925",
     "source": "script",
     "createdAt": "2026-03-17T20:54:50.534Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T20:55:00.675Z",
     "geo": {
+      "ip": "36.80.196.205",
+      "city": "Manokwari",
+      "region": "West Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.80.196.205",
       "city": "Manokwari",
       "region": "West Papua",
