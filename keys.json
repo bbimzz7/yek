@@ -13677,5 +13677,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CA6B13-399EB3-5BA2D4": {
+    "expires": "2026-03-18T13:04:04.512Z",
+    "hwid": "10497465420-b53d1000-ecdc-4c84-b1fd-02a119b113c4",
+    "browserHwid": null,
+    "username": "Nonebutidk",
+    "userId": "10497465420",
+    "source": "script",
+    "createdAt": "2026-03-17T13:04:04.792Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.10.22",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
