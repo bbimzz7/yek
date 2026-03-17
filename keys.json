@@ -17808,5 +17808,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-38A324-A3B1DA-28469D": {
+    "expires": "2026-03-18T23:05:09.901Z",
+    "hwid": "10538449001-c8181b11-e9a7-49c2-b546-64da3e2e872d",
+    "browserHwid": null,
+    "username": "fakeemarry09",
+    "userId": "10538449001",
+    "source": "script",
+    "createdAt": "2026-03-17T23:05:10.208Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.55.72.213",
+      "city": "Marabá",
+      "region": "Pará",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
