@@ -14528,5 +14528,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EBD64E-9638A1-609423": {
+    "expires": "2026-03-18T14:54:24.119Z",
+    "hwid": "3359957484-E0ABACCA-A92D-465E-A574-8A035EF1E5AA",
+    "browserHwid": null,
+    "username": "xSashka228",
+    "userId": "3359957484",
+    "source": "script",
+    "createdAt": "2026-03-17T14:54:24.378Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "31.153.42.38",
+      "city": "Nicosia",
+      "region": "Nicosia",
+      "country": "Cyprus",
+      "cc": "CY"
+    }
   }
 }
