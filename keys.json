@@ -10702,5 +10702,22 @@
       "country": "Belarus",
       "cc": "BY"
     }
+  },
+  "VH-7214E4-9E01AA-A74767": {
+    "expires": "2026-03-18T03:57:18.207Z",
+    "hwid": "10487242758-640cc052-a291-47f0-b664-fe688c8ece34",
+    "browserHwid": null,
+    "username": "exoresk",
+    "userId": "10487242758",
+    "source": "script",
+    "createdAt": "2026-03-17T03:57:18.417Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.254.104.14",
+      "city": "Surabaya",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
