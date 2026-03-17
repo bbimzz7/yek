@@ -10053,8 +10053,15 @@
     "userId": "4965645215",
     "source": "script",
     "createdAt": "2026-03-17T01:28:16.303Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T01:28:54.204Z",
     "geo": {
+      "ip": "168.194.167.27",
+      "city": "Rio de Janeiro",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "168.194.167.27",
       "city": "Rio de Janeiro",
       "region": "Rio de Janeiro",
