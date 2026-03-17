@@ -15203,8 +15203,15 @@
     "userId": "8563691496",
     "source": "script",
     "createdAt": "2026-03-17T16:08:21.571Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T16:08:27.131Z",
     "geo": {
+      "ip": "178.126.102.14",
+      "city": "Vitebsk",
+      "region": "Vitebsk",
+      "country": "Belarus",
+      "cc": "BY"
+    },
+    "lastGeo": {
       "ip": "178.126.102.14",
       "city": "Vitebsk",
       "region": "Vitebsk",
