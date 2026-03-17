@@ -17536,5 +17536,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-F42267-B8C903-4BAD36": {
+    "expires": "2026-03-18T22:05:22.850Z",
+    "hwid": "5274022306-6ad2c3a4-4102-4c89-88cf-845926a2d611",
+    "browserHwid": null,
+    "username": "R108269",
+    "userId": "5274022306",
+    "source": "script",
+    "createdAt": "2026-03-17T22:05:23.352Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "43.231.28.170",
+      "city": "Malé",
+      "region": "Kaafu Atoll",
+      "country": "Maldives",
+      "cc": "MV"
+    }
   }
 }
