@@ -10863,5 +10863,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-B59484-7587F8-CBB02D": {
+    "expires": "2026-03-18T05:04:25.077Z",
+    "hwid": "10313804496-66cc4811-bf9b-4944-b8fb-d1974a8c8901",
+    "browserHwid": null,
+    "username": "SUMMIT_AJA",
+    "userId": "10313804496",
+    "source": "script",
+    "createdAt": "2026-03-17T05:04:25.234Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.4.159",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
