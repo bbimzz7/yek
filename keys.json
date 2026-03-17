@@ -11669,8 +11669,15 @@
     "userId": "2796160762",
     "source": "script",
     "createdAt": "2026-03-17T08:15:55.470Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T08:16:01.448Z",
     "geo": {
+      "ip": "157.85.207.4",
+      "city": "Cibitung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.85.207.4",
       "city": "Cibitung",
       "region": "West Java",
