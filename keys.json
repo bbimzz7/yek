@@ -13516,5 +13516,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CE2F79-770110-7BAFA7": {
+    "expires": "2026-03-18T12:28:36.175Z",
+    "hwid": "3214694349-93A3E5A3-B446-4599-9793-7F3F95ED0D65",
+    "browserHwid": null,
+    "username": "NissanGT_RWARS",
+    "userId": "3214694349",
+    "source": "script",
+    "createdAt": "2026-03-17T12:28:36.444Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.112.217.218",
+      "city": "Samara",
+      "region": "Samara Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
