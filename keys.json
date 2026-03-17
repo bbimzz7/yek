@@ -9732,5 +9732,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7C517B-A9E409-BBDC3C": {
+    "expires": "2026-03-18T00:14:36.550Z",
+    "hwid": "10683016556-289fb054-0a99-4023-bdbc-8ee3606e27af",
+    "browserHwid": null,
+    "username": "jtivniu45ngu85rn",
+    "userId": "10683016556",
+    "source": "script",
+    "createdAt": "2026-03-17T00:14:36.977Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "50.83.99.34",
+      "city": "Midland",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
