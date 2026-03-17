@@ -10927,8 +10927,15 @@
     "userId": "1457381861",
     "source": "script",
     "createdAt": "2026-03-17T05:35:16.619Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T05:53:23.291Z",
     "geo": {
+      "ip": "103.148.200.46",
+      "city": "Sukoharjo",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.148.200.46",
       "city": "Sukoharjo",
       "region": "Central Java",
