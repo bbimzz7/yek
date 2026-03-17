@@ -14609,8 +14609,15 @@
     "userId": "8027944101",
     "source": "script",
     "createdAt": "2026-03-17T15:05:03.797Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T15:05:13.739Z",
     "geo": {
+      "ip": "2.72.162.104",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "2.72.162.104",
       "city": "Almaty",
       "region": "Almaty",
