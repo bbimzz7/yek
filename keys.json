@@ -11821,5 +11821,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DB7AA1-B4EE12-4C2067": {
+    "expires": "2026-03-18T08:37:56.065Z",
+    "hwid": null,
+    "browserHwid": "BR-5553BD02-544RT",
+    "username": "DeepSeek642",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-17T08:37:56.543Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.106.218.233",
+      "city": "Lawang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
