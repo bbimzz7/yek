@@ -14182,5 +14182,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-F773B2-C96DE8-CB608E": {
+    "expires": "2026-03-18T14:25:16.221Z",
+    "hwid": "7150878167-cfe931ee-e268-4229-add8-8c321311ecfd",
+    "browserHwid": null,
+    "username": "Halis201247",
+    "userId": "7150878167",
+    "source": "script",
+    "createdAt": "2026-03-17T14:25:16.833Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "149.22.91.10",
+      "city": "Palermo",
+      "region": "Sicily",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
