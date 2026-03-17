@@ -17375,5 +17375,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-1DC7AD-8BC23E-DB7E06": {
+    "expires": "2026-03-18T21:29:58.816Z",
+    "hwid": "7946362591-234ddb24-880f-4410-aef9-ad91ae14d8fd",
+    "browserHwid": null,
+    "username": "krkanwaa12",
+    "userId": "7946362591",
+    "source": "script",
+    "createdAt": "2026-03-17T21:29:59.131Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.43.118.63",
+      "city": "Kiseljak",
+      "region": "Federation of Bosnia and Herzegovina",
+      "country": "Bosnia and Herzegovina",
+      "cc": "BA"
+    }
   }
 }
