@@ -17610,8 +17610,15 @@
     "userId": "10238326288",
     "source": "script",
     "createdAt": "2026-03-17T22:30:28.741Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T22:30:37.358Z",
     "geo": {
+      "ip": "83.76.233.211",
+      "city": "Baden",
+      "region": "Aargau",
+      "country": "Switzerland",
+      "cc": "CH"
+    },
+    "lastGeo": {
       "ip": "83.76.233.211",
       "city": "Baden",
       "region": "Aargau",
