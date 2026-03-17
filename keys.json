@@ -12321,5 +12321,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-D68EFD-9CBAE6-B71D17": {
+    "expires": "2026-03-18T09:34:00.590Z",
+    "hwid": "5580769869-db1f8da8-ca06-4700-b0c7-b1b6501f4920",
+    "browserHwid": null,
+    "username": "bukietasy6",
+    "userId": "5580769869",
+    "source": "script",
+    "createdAt": "2026-03-17T09:34:00.851Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.72.178",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
