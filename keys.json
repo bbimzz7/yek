@@ -11000,7 +11000,7 @@
     "userId": "10683998533",
     "source": "script",
     "createdAt": "2026-03-17T05:51:25.250Z",
-    "lastUsed": "2026-03-17T17:03:45.915Z",
+    "lastUsed": "2026-03-17T17:07:29.417Z",
     "geo": {
       "ip": "172.59.220.65",
       "city": "Elizabeth",
@@ -11009,9 +11009,9 @@
       "cc": "US"
     },
     "lastGeo": {
-      "ip": "172.59.221.233",
-      "city": "Elizabeth",
-      "region": "New Jersey",
+      "ip": "172.58.251.249",
+      "city": "Washington",
+      "region": "District of Columbia",
       "country": "United States",
       "cc": "US"
     }
