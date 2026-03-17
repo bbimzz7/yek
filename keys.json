@@ -12304,5 +12304,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-D82BB1-2F684E-590EDF": {
+    "expires": "2026-03-18T09:29:20.028Z",
+    "hwid": null,
+    "browserHwid": "BR-0BF5D6B1-P6F0K",
+    "username": "MAX123AIL1202",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-17T09:29:20.291Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "51.235.70.65",
+      "city": "Medina",
+      "region": "Medina Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
