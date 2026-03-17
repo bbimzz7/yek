@@ -15042,5 +15042,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-032F3E-4867AF-AED94A": {
+    "expires": "2026-03-18T15:55:54.236Z",
+    "hwid": "7526258222-4f15efe9-9f8f-4413-9227-74c89bc69020",
+    "browserHwid": null,
+    "username": "Giantara_satya",
+    "userId": "7526258222",
+    "source": "script",
+    "createdAt": "2026-03-17T15:55:54.540Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.72.95",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
