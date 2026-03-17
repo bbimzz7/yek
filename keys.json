@@ -14407,8 +14407,15 @@
     "userId": "8651999992",
     "source": "script",
     "createdAt": "2026-03-17T14:41:36.434Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T14:43:20.894Z",
     "geo": {
+      "ip": "93.91.196.115",
+      "city": "Erbil",
+      "region": "Erbil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "93.91.196.115",
       "city": "Erbil",
       "region": "Erbil Governorate",
