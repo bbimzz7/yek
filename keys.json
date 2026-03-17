@@ -13372,5 +13372,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-84670E-1EC153-AC574D": {
+    "expires": "2026-03-18T12:06:27.755Z",
+    "hwid": "8977430948-1124a548-15b2-44e3-992a-1544ebe1052e",
+    "browserHwid": null,
+    "username": "onatan113",
+    "userId": "8977430948",
+    "source": "script",
+    "createdAt": "2026-03-17T12:06:28.282Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.101.231.124",
+      "city": "Arjawinangun",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
