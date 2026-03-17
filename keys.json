@@ -13725,5 +13725,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-84B2D7-C97ED7-004942": {
+    "expires": "2026-03-18T13:08:28.602Z",
+    "hwid": "3005971688-182631BA-F7F2-489C-AF0A-4441326ADE89",
+    "browserHwid": null,
+    "username": "ben1234567AS",
+    "userId": "3005971688",
+    "source": "script",
+    "createdAt": "2026-03-17T13:08:28.898Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.156.217",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
+    }
   }
 }
