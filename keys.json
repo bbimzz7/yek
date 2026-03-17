@@ -12492,8 +12492,15 @@
     "userId": "3205187637",
     "source": "script",
     "createdAt": "2026-03-17T09:50:04.874Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T09:50:12.413Z",
     "geo": {
+      "ip": "46.42.147.6",
+      "city": "Vladivostok",
+      "region": "Primorye",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "46.42.147.6",
       "city": "Vladivostok",
       "region": "Primorye",
