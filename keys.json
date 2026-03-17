@@ -16741,5 +16741,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-381913-8462C8-FF8E1B": {
+    "expires": "2026-03-18T19:42:47.195Z",
+    "hwid": "3135665326-8fd4c54f-b57b-4ee7-8ca3-1a876bd1c338",
+    "browserHwid": null,
+    "username": "cat_chocolatekitty",
+    "userId": "3135665326",
+    "source": "script",
+    "createdAt": "2026-03-17T19:42:47.581Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "155.137.114.204",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
