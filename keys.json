@@ -10687,8 +10687,15 @@
     "userId": "7809326236",
     "source": "script",
     "createdAt": "2026-03-17T03:55:26.502Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T03:55:39.313Z",
     "geo": {
+      "ip": "178.120.10.131",
+      "city": "Brest",
+      "region": "Brest",
+      "country": "Belarus",
+      "cc": "BY"
+    },
+    "lastGeo": {
       "ip": "178.120.10.131",
       "city": "Brest",
       "region": "Brest",
