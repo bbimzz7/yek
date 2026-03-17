@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-17T23:49:02.901Z",
+    "action": "bulkdelete",
+    "detail": "513 key terpilih dihapus"
+  },
+  {
     "ts": "2026-03-17T06:52:51.427Z",
     "action": "saveconfig",
     "detail": "maxPerDay=600, maxTotal=600"
