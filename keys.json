@@ -17103,8 +17103,15 @@
     "userId": "3072931826",
     "source": "script",
     "createdAt": "2026-03-17T20:39:55.126Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T20:41:19.006Z",
     "geo": {
+      "ip": "179.60.66.147",
+      "city": "Santiago",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    },
+    "lastGeo": {
       "ip": "179.60.66.147",
       "city": "Santiago",
       "region": "Santiago Metropolitan",
