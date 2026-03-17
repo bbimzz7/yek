@@ -16363,5 +16363,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-BD63E5-20096F-4B04F6": {
+    "expires": "2026-03-18T18:51:29.475Z",
+    "hwid": "220950325-47EB545A-1EF0-44AA-A5DB-EB92E2197F7C",
+    "browserHwid": null,
+    "username": "wxs0ul",
+    "userId": "220950325",
+    "source": "script",
+    "createdAt": "2026-03-17T18:51:30.219Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.52.72.80",
+      "city": "Santo Domingo",
+      "region": "Nacional",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
