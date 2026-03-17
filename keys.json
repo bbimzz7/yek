@@ -17760,5 +17760,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-6BA2A7-103B2C-3CCDCF": {
+    "expires": "2026-03-18T22:50:40.539Z",
+    "hwid": "7936348752-ad5b3823-3876-47f6-b81a-9d2b15e5acb7",
+    "browserHwid": null,
+    "username": "AstroNovalite1234",
+    "userId": "7936348752",
+    "source": "script",
+    "createdAt": "2026-03-17T22:50:40.792Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "71.56.15.69",
+      "city": "Peachtree City",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
