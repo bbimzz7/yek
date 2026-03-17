@@ -14302,5 +14302,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-BC488D-A742C7-DD1DB5": {
+    "expires": "2026-03-18T14:33:46.772Z",
+    "hwid": "9440437529-f6cf255d-c913-4ab6-86fd-e3fc2853490c",
+    "browserHwid": null,
+    "username": "hewo_xd404",
+    "userId": "9440437529",
+    "source": "script",
+    "createdAt": "2026-03-17T14:33:47.037Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "183.171.102.142",
+      "city": "Pasir Gudang",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
