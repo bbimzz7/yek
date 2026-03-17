@@ -15595,5 +15595,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0A6DC2-8542B6-A4A5B3": {
+    "expires": "2026-03-18T16:44:58.943Z",
+    "hwid": "6043926947-a646dac6-a5dd-4b6a-9951-7b50358e5613",
+    "browserHwid": null,
+    "username": "Robloxnoon_7",
+    "userId": "6043926947",
+    "source": "script",
+    "createdAt": "2026-03-17T16:44:59.238Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.99.155.31",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
