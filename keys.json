@@ -11039,5 +11039,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-24FE67-2670A8-53DDDE": {
+    "expires": "2026-03-18T05:57:59.866Z",
+    "hwid": "9725695993-7fb46d5e-6c03-4407-a5ae-300d625a47b1",
+    "browserHwid": null,
+    "username": "Tahooo456",
+    "userId": "9725695993",
+    "source": "script",
+    "createdAt": "2026-03-17T05:58:00.057Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.217.50.116",
+      "city": "Biñan",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
