@@ -14415,5 +14415,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-D33A0E-5DF0D8-07EE12": {
+    "expires": "2026-03-18T14:42:43.501Z",
+    "hwid": "4479132747-00fea2b4-87e9-4585-a03e-84440acda9a6",
+    "browserHwid": null,
+    "username": "1_lucas5808",
+    "userId": "4479132747",
+    "source": "script",
+    "createdAt": "2026-03-17T14:42:43.787Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.178.234.123",
+      "city": "Guarulhos",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
