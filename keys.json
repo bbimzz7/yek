@@ -11597,8 +11597,15 @@
     "userId": "10617602483",
     "source": "script",
     "createdAt": "2026-03-17T07:56:02.965Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T07:56:07.810Z",
     "geo": {
+      "ip": "104.28.159.3",
+      "city": "Dreieich",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "104.28.159.3",
       "city": "Dreieich",
       "region": "Hesse",
