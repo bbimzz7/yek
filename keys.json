@@ -14658,5 +14658,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-5CC818-239B25-A78251": {
+    "expires": "2026-03-18T15:11:30.104Z",
+    "hwid": "8209977814-3b14f4f7-0e9e-4868-ba96-4608b8fdf531",
+    "browserHwid": null,
+    "username": "jaymond_08",
+    "userId": "8209977814",
+    "source": "script",
+    "createdAt": "2026-03-17T15:11:30.456Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.201.179.96",
+      "city": "Pasig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
