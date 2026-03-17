@@ -15924,5 +15924,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-C49F8D-9A4518-CA885A": {
+    "expires": "2026-03-18T17:43:13.094Z",
+    "hwid": "1973627774-5901F061-AF87-464F-B676-572A473F0399",
+    "browserHwid": null,
+    "username": "Joseph_progamer12",
+    "userId": "1973627774",
+    "source": "script",
+    "createdAt": "2026-03-17T17:43:13.450Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.172.42.233",
+      "city": "Cikampek",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
