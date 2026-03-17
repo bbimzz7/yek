@@ -11159,5 +11159,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-B76BA0-5251C4-64C272": {
+    "expires": "2026-03-18T06:23:49.421Z",
+    "hwid": "1457381861-5A0D5179-4079-420E-9599-DBAB6ECD6529",
+    "browserHwid": null,
+    "username": "Rizaltf",
+    "userId": "1457381861",
+    "source": "script",
+    "createdAt": "2026-03-17T06:23:49.623Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.85.211.44",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
