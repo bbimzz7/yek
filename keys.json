@@ -13830,8 +13830,15 @@
     "userId": "10263541889",
     "source": "script",
     "createdAt": "2026-03-17T13:32:42.976Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T13:32:53.680Z",
     "geo": {
+      "ip": "186.188.35.234",
+      "city": "Santa Teresa del Tuy",
+      "region": "Miranda",
+      "country": "Venezuela",
+      "cc": "VE"
+    },
+    "lastGeo": {
       "ip": "186.188.35.234",
       "city": "Santa Teresa del Tuy",
       "region": "Miranda",
