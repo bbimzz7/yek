@@ -13324,5 +13324,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-CC3E67-827916-EE83E0": {
+    "expires": "2026-03-18T11:58:30.284Z",
+    "hwid": "10673240244-9754BCB5-1EDD-4DAB-A9BF-C8420F61AC3C",
+    "browserHwid": null,
+    "username": "wedfwfwqfafasfafasdf",
+    "userId": "10673240244",
+    "source": "script",
+    "createdAt": "2026-03-17T11:58:30.548Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "77.238.228.161",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
