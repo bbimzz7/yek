@@ -9895,9 +9895,16 @@
     "userId": "8548821648",
     "source": "script",
     "createdAt": "2026-03-17T00:46:00.480Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T00:46:11.634Z",
     "geo": {
       "ip": "160.25.197.123",
+      "city": "Blora",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "160.25.197.120",
       "city": "Blora",
       "region": "Central Java",
       "country": "Indonesia",
