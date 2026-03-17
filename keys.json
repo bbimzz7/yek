@@ -10318,5 +10318,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-9A7F0A-E4E163-0FD061": {
+    "expires": "2026-03-18T02:36:15.392Z",
+    "hwid": "10647988832-3e9d8d5d-8d86-4317-a1c0-17cb070d3eea",
+    "browserHwid": null,
+    "username": "emo2019050",
+    "userId": "10647988832",
+    "source": "script",
+    "createdAt": "2026-03-17T02:36:15.622Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.231.165.25",
+      "city": "Camacan",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
