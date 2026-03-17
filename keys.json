@@ -12483,5 +12483,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E1208F-CBFA4F-5DBF08": {
+    "expires": "2026-03-18T09:50:03.636Z",
+    "hwid": "3205187637-BBF520BA-1703-4F0A-9E6D-4AA8CBD13B73",
+    "browserHwid": null,
+    "username": "Dragon2012RafT",
+    "userId": "3205187637",
+    "source": "script",
+    "createdAt": "2026-03-17T09:50:04.874Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.42.147.6",
+      "city": "Vladivostok",
+      "region": "Primorye",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
