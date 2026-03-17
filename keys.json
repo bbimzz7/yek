@@ -9845,5 +9845,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-B5878D-71388B-E7A1F2": {
+    "expires": "2026-03-18T00:38:19.611Z",
+    "hwid": "9570985161-a8781768-31a0-4b51-a6ef-8e5885641c06",
+    "browserHwid": null,
+    "username": "akus1546",
+    "userId": "9570985161",
+    "source": "script",
+    "createdAt": "2026-03-17T00:38:19.970Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.183.92",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
