@@ -10373,5 +10373,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-C3A06B-C0C7B4-D9CBF2": {
+    "expires": "2026-03-18T02:47:56.039Z",
+    "hwid": "5071390428-2e45cb23-d2b8-4dda-aff1-ac3f4fefe1d6",
+    "browserHwid": null,
+    "username": "kenanvidinugroh",
+    "userId": "5071390428",
+    "source": "script",
+    "createdAt": "2026-03-17T02:47:56.399Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.16.50",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
