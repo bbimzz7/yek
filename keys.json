@@ -17705,5 +17705,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-C5C00D-9F1DB2-3314CB": {
+    "expires": "2026-03-18T22:47:26.480Z",
+    "hwid": "7992898389-19d61583-3276-4f9d-b0a6-05cdc6db188e",
+    "browserHwid": null,
+    "username": "crispi828",
+    "userId": "7992898389",
+    "source": "script",
+    "createdAt": "2026-03-17T22:47:26.791Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.188.42.186",
+      "city": "Mexicali",
+      "region": "Baja California",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
