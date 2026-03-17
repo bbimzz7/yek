@@ -16037,5 +16037,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-4A225E-C4CCDA-F679EB": {
+    "expires": "2026-03-18T18:02:18.446Z",
+    "hwid": "10684536599-c2edb6a2-7728-4795-ae22-89ec941d747a",
+    "browserHwid": null,
+    "username": "ifsfjjsushtstjstjdut",
+    "userId": "10684536599",
+    "source": "script",
+    "createdAt": "2026-03-17T18:02:18.794Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.12.27.150",
+      "city": "Lviv",
+      "region": "Lviv",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
