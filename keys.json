@@ -17399,5 +17399,22 @@
       "country": "Bosnia and Herzegovina",
       "cc": "BA"
     }
+  },
+  "VH-BA41CB-5AB7AF-B39BD2": {
+    "expires": "2026-03-18T21:35:45.806Z",
+    "hwid": "7308688440-115bb73e-7e8b-428b-92f5-ef7c0b7228d4",
+    "browserHwid": null,
+    "username": "yuji_xXh4rr1sxX",
+    "userId": "7308688440",
+    "source": "script",
+    "createdAt": "2026-03-17T21:35:46.141Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "183.171.100.221",
+      "city": "Meru",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
