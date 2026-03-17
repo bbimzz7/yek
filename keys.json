@@ -17070,5 +17070,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-4DCF0F-72435B-F6BBC5": {
+    "expires": "2026-03-18T20:36:13.123Z",
+    "hwid": "5779747920-813b539b-b268-4dee-bc6d-cbb3d77c1d83",
+    "browserHwid": null,
+    "username": "Readffl_0",
+    "userId": "5779747920",
+    "source": "script",
+    "createdAt": "2026-03-17T20:36:13.440Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.146.115.121",
+      "city": "Baku",
+      "region": "Baku City",
+      "country": "Azerbaijan",
+      "cc": "AZ"
+    }
   }
 }
