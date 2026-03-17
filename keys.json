@@ -10140,5 +10140,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-35AC84-A7C0C7-2ED5B9": {
+    "expires": "2026-03-18T01:47:52.705Z",
+    "hwid": "9310895770-5837c639-8d25-4e95-8dfa-98653d8f76c6",
+    "browserHwid": null,
+    "username": "Ur_yanna048",
+    "userId": "9310895770",
+    "source": "script",
+    "createdAt": "2026-03-17T01:47:52.908Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "122.53.52.79",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
