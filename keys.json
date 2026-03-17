@@ -16558,14 +16558,22 @@
   },
   "VH-D6DFF6-2C4AC4-EFE4E0": {
     "expires": "2026-03-18T19:27:31.614Z",
-    "hwid": null,
+    "hwid": "4842162809-AB706AC5-E284-43B5-91EF-3B8EC269BF98",
     "browserHwid": "BR-44E53736-3N66X",
     "username": "uitijxig",
-    "userId": null,
+    "userId": "4842162809",
     "source": "browser",
     "createdAt": "2026-03-17T19:27:32.112Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T19:27:39.297Z",
     "geo": {
+      "ip": "117.5.209.141",
+      "city": "Ba Dinh",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "boundAt": "2026-03-17T19:27:39.287Z",
+    "lastGeo": {
       "ip": "117.5.209.141",
       "city": "Ba Dinh",
       "region": "Hanoi",
