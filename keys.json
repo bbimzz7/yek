@@ -13797,5 +13797,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-3D60D6-E2BB9C-818326": {
+    "expires": "2026-03-18T13:16:27.433Z",
+    "hwid": "3366668557-DC931BB5-29EF-46BE-942C-11AE615F01FD",
+    "browserHwid": null,
+    "username": "giiiiimeee",
+    "userId": "3366668557",
+    "source": "script",
+    "createdAt": "2026-03-17T13:16:27.750Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.217.50.92",
+      "city": "Biñan",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
