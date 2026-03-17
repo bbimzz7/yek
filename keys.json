@@ -13638,8 +13638,15 @@
     "userId": "3275499803",
     "source": "script",
     "createdAt": "2026-03-17T12:59:46.310Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T12:59:53.532Z",
     "geo": {
+      "ip": "145.53.81.148",
+      "city": "Rijswijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "145.53.81.148",
       "city": "Rijswijk",
       "region": "South Holland",
