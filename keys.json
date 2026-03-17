@@ -15859,5 +15859,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-C83C88-0113EA-159D2B": {
+    "expires": "2026-03-18T17:25:35.187Z",
+    "hwid": "9878290792-f56a5460-e9ff-4dad-91ca-8a2c95900618",
+    "browserHwid": null,
+    "username": "KOSTYLW67",
+    "userId": "9878290792",
+    "source": "script",
+    "createdAt": "2026-03-17T17:25:35.548Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.181.51.65",
+      "city": "Donduşeni",
+      "region": "Donduşeni",
+      "country": "Moldova",
+      "cc": "MD"
+    }
   }
 }
