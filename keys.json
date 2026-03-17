@@ -14873,8 +14873,15 @@
     "userId": "6199237676",
     "source": "script",
     "createdAt": "2026-03-17T15:34:31.917Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T15:35:55.760Z",
     "geo": {
+      "ip": "160.22.177.27",
+      "city": "Bangkinang",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "160.22.177.27",
       "city": "Bangkinang",
       "region": "Riau",
