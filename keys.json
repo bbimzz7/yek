@@ -13492,5 +13492,22 @@
       "country": "Taiwan",
       "cc": "TW"
     }
+  },
+  "VH-EA0B4B-D8FF81-393B16": {
+    "expires": "2026-03-18T12:22:27.434Z",
+    "hwid": "8973012965-9e5ffebe-cca6-4924-b5e0-47f4fa1c4261",
+    "browserHwid": null,
+    "username": "Djhancook",
+    "userId": "8973012965",
+    "source": "script",
+    "createdAt": "2026-03-17T12:22:27.748Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.47.8",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
