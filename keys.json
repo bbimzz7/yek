@@ -16909,5 +16909,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-711489-CC427A-3E1335": {
+    "expires": "2026-03-18T20:09:45.692Z",
+    "hwid": "9016252272-7c3e8394-9909-4010-b9b8-cd31deb406bb",
+    "browserHwid": null,
+    "username": "gurlylikemeroqia",
+    "userId": "9016252272",
+    "source": "script",
+    "createdAt": "2026-03-17T20:09:45.996Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "98.50.144.169",
+      "city": "Memphis",
+      "region": "Tennessee",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
