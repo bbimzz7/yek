@@ -9797,5 +9797,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-F01A22-280D1F-055474": {
+    "expires": "2026-03-18T00:26:31.787Z",
+    "hwid": "10627789230-9eb5ed78-de0d-4ebf-9d54-cf380747179f",
+    "browserHwid": null,
+    "username": "huhim_e",
+    "userId": "10627789230",
+    "source": "script",
+    "createdAt": "2026-03-17T00:26:32.153Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.101.229",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
