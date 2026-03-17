@@ -17447,5 +17447,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A5C019-8BEE41-D51D19": {
+    "expires": "2026-03-18T21:41:43.127Z",
+    "hwid": "5739633405-d15a8cd7-a168-484c-b362-12b4bef82b73",
+    "browserHwid": null,
+    "username": "Andria2014s",
+    "userId": "5739633405",
+    "source": "script",
+    "createdAt": "2026-03-17T21:41:43.383Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.58.114.204",
+      "city": "Batumi",
+      "region": "Adjara",
+      "country": "Georgia",
+      "cc": "GE"
+    }
   }
 }
