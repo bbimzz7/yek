@@ -12723,5 +12723,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-296501-827041-28819C": {
+    "expires": "2026-03-18T10:36:23.394Z",
+    "hwid": "3569545433-ee95bd4b-54cd-49f0-87c9-af18e2e79d38",
+    "browserHwid": null,
+    "username": "omingofficial",
+    "userId": "3569545433",
+    "source": "script",
+    "createdAt": "2026-03-17T10:36:23.908Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.156.74.207",
+      "city": "Sepang",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
