@@ -16926,5 +16926,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-B05DDA-0BDA54-1B1328": {
+    "expires": "2026-03-18T20:09:54.059Z",
+    "hwid": "5114983706-4F7E4924-A2DA-4178-B781-B134CF6E9AD1",
+    "browserHwid": null,
+    "username": "vadox0",
+    "userId": "5114983706",
+    "source": "script",
+    "createdAt": "2026-03-17T20:09:54.328Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.4.56.49",
+      "city": "Recife",
+      "region": "Pernambuco",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
