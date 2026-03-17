@@ -11231,5 +11231,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A0F2B3-C7C5F0-835277": {
+    "expires": "2026-03-18T06:45:30.941Z",
+    "hwid": null,
+    "browserHwid": "BR-761AB808-4DQLJ",
+    "username": "Hhhb",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-17T06:45:31.417Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.81.65.67",
+      "city": "Sukoharjo Satu",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
