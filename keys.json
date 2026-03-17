@@ -13453,8 +13453,15 @@
     "userId": "1312004222",
     "source": "script",
     "createdAt": "2026-03-17T12:17:58.011Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T12:18:06.470Z",
     "geo": {
+      "ip": "103.164.229.99",
+      "city": "Pecangaan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.164.229.99",
       "city": "Pecangaan",
       "region": "Central Java",
