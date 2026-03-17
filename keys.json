@@ -12355,5 +12355,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-F4DA64-619283-5B5845": {
+    "expires": "2026-03-18T09:35:41.430Z",
+    "hwid": "10191605651-edbeb8a7-3b27-49af-9c7b-5a1f962df1cb",
+    "browserHwid": null,
+    "username": "rbgaminn",
+    "userId": "10191605651",
+    "source": "script",
+    "createdAt": "2026-03-17T09:35:41.740Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.36.189.144",
+      "city": "Delhi",
+      "region": "National Capital Territory of Delhi",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
