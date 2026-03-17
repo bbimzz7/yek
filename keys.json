@@ -11392,5 +11392,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-F20A2F-3580E4-1B75CF": {
+    "expires": "2026-03-18T07:20:27.862Z",
+    "hwid": "7394374367-8bcfb345-763e-4a43-9691-93882e887f02",
+    "browserHwid": null,
+    "username": "AMNHA1676",
+    "userId": "7394374367",
+    "source": "script",
+    "createdAt": "2026-03-17T07:20:28.134Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.72.163.84",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
