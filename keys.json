@@ -10236,5 +10236,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5E0C82-3539B0-5BD0C4": {
+    "expires": "2026-03-18T02:05:22.317Z",
+    "hwid": "5367506223-3d91dd7b-c804-4961-9127-a64e6cb1fbbb",
+    "browserHwid": null,
+    "username": "Fortnitebestkit1",
+    "userId": "5367506223",
+    "source": "script",
+    "createdAt": "2026-03-17T02:05:22.690Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "68.60.72.123",
+      "city": "Taylor",
+      "region": "Michigan",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
