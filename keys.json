@@ -9933,8 +9933,15 @@
     "userId": "9416111341",
     "source": "script",
     "createdAt": "2026-03-17T00:50:32.239Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T00:51:22.589Z",
     "geo": {
+      "ip": "112.210.243.71",
+      "city": "Antipolo City",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.210.243.71",
       "city": "Antipolo City",
       "region": "Calabarzon",
