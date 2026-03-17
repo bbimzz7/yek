@@ -12675,5 +12675,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-531C44-EF7402-CC0009": {
+    "expires": "2026-03-18T10:27:50.277Z",
+    "hwid": "10448052201-851bacb5-242c-4f8a-9434-c0028862efca",
+    "browserHwid": null,
+    "username": "juki6002",
+    "userId": "10448052201",
+    "source": "script",
+    "createdAt": "2026-03-17T10:27:50.755Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.79.241.212",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
