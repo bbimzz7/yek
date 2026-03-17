@@ -15122,5 +15122,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B5D716-9B1B11-CD27A1": {
+    "expires": "2026-03-18T16:01:31.010Z",
+    "hwid": "10118735468-3a64fcf9-d285-47b8-906b-edf0a3c40f53",
+    "browserHwid": null,
+    "username": "c0olkidd_meen",
+    "userId": "10118735468",
+    "source": "script",
+    "createdAt": "2026-03-17T16:01:31.319Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.137.89.213",
+      "city": "Lviv",
+      "region": "Lvivska Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
