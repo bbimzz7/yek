@@ -13086,8 +13086,15 @@
     "userId": "4558543670",
     "source": "script",
     "createdAt": "2026-03-17T11:18:39.293Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T11:18:50.149Z",
     "geo": {
+      "ip": "116.204.182.118",
+      "city": "Phu Phan",
+      "region": "Sakon Nakhon",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "116.204.182.118",
       "city": "Phu Phan",
       "region": "Sakon Nakhon",
