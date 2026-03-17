@@ -13701,5 +13701,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-3FAC57-C2556C-D1A8A1": {
+    "expires": "2026-03-18T13:05:00.329Z",
+    "hwid": "4357024198-DBDA2D1A-3E6E-499F-A3FF-EF9334A95729",
+    "browserHwid": null,
+    "username": "nanyka10",
+    "userId": "4357024198",
+    "source": "script",
+    "createdAt": "2026-03-17T13:05:00.656Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.100.237.44",
+      "city": "São Vicente",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
