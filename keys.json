@@ -16435,5 +16435,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-9E7735-AF0896-07E4D9": {
+    "expires": "2026-03-18T18:59:39.742Z",
+    "hwid": "8469636415-278e786a-c00e-4c44-bc0a-885728f3b9df",
+    "browserHwid": null,
+    "username": "Gabi_098846",
+    "userId": "8469636415",
+    "source": "script",
+    "createdAt": "2026-03-17T18:59:40.101Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.55.112.115",
+      "city": "Chisinau",
+      "region": "Chișinău Municipality",
+      "country": "Moldova",
+      "cc": "MD"
+    }
   }
 }
