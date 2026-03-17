@@ -17577,5 +17577,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-798D12-2D8DE1-1F7C00": {
+    "expires": "2026-03-18T22:21:22.789Z",
+    "hwid": "9600757465-813f7a9c-767b-48e0-a70c-cd4ddbc96cf3",
+    "browserHwid": null,
+    "username": "Addis0nKnightChase",
+    "userId": "9600757465",
+    "source": "script",
+    "createdAt": "2026-03-17T22:21:23.394Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.187.206.122",
+      "city": "Sulaymaniyah",
+      "region": "Sulaymaniyah Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
