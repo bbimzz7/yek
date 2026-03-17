@@ -11984,5 +11984,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-3D7170-7F33A4-3AECE2": {
+    "expires": "2026-03-18T08:58:40.579Z",
+    "hwid": "2410427863-53197a30-707a-4e4b-9774-b6d03acbcdaa",
+    "browserHwid": null,
+    "username": "jajajalankakaa",
+    "userId": "2410427863",
+    "source": "script",
+    "createdAt": "2026-03-17T08:58:41.060Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.171.10",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
