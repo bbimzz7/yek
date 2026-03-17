@@ -11919,5 +11919,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A77F67-EB96FE-5883E7": {
+    "expires": "2026-03-18T08:49:43.061Z",
+    "hwid": "8339327021-f61dc838-2ff3-4716-b3ac-7a7c7f43414a",
+    "browserHwid": null,
+    "username": "sakagesang171715",
+    "userId": "8339327021",
+    "source": "script",
+    "createdAt": "2026-03-17T08:49:43.513Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.11.183.246",
+      "city": "Bontang",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
