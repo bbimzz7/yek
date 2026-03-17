@@ -12039,5 +12039,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-4EE1A4-6B5C13-4370E2": {
+    "expires": "2026-03-18T09:04:49.135Z",
+    "hwid": "7894121925-9e1a8a92-dcfd-4abc-9f37-46935bea0030",
+    "browserHwid": null,
+    "username": "kulangkasalambing4",
+    "userId": "7894121925",
+    "source": "script",
+    "createdAt": "2026-03-17T09:04:49.407Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.126.156.44",
+      "city": "Koronadal",
+      "region": "Soccsksargen",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
