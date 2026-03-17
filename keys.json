@@ -13444,5 +13444,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E1E260-3EE830-69AD09": {
+    "expires": "2026-03-18T12:17:57.500Z",
+    "hwid": "1312004222-456AA589-83D0-44C1-BF26-24DF35F3873A",
+    "browserHwid": null,
+    "username": "Biggleswell",
+    "userId": "1312004222",
+    "source": "script",
+    "createdAt": "2026-03-17T12:17:58.011Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.164.229.99",
+      "city": "Pecangaan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
