@@ -17962,5 +17962,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F2C2C1-7577B6-1DE476": {
+    "expires": "2026-03-18T23:43:00.490Z",
+    "hwid": "4063760265-dbd11b61-46a3-4017-a8e1-75e498294411",
+    "browserHwid": null,
+    "username": "vzqriiv",
+    "userId": "4063760265",
+    "source": "script",
+    "createdAt": "2026-03-17T23:43:00.820Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.244.102.63",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
