@@ -11725,5 +11725,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-14F94A-89AB6F-E3AE30": {
+    "expires": "2026-03-18T08:24:58.168Z",
+    "hwid": "7197418519-581C59AD-3628-4C7D-A0B8-166AFC445B42",
+    "browserHwid": null,
+    "username": "hamza_dz76",
+    "userId": "7197418519",
+    "source": "script",
+    "createdAt": "2026-03-17T08:24:58.729Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "154.246.166.202",
+      "city": "Râs el Oued",
+      "region": "Bordj Bou Arréridj",
+      "country": "Algeria",
+      "cc": "DZ"
+    }
   }
 }
