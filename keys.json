@@ -10663,8 +10663,15 @@
     "userId": "10015270790",
     "source": "script",
     "createdAt": "2026-03-17T03:51:25.247Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T03:51:34.149Z",
     "geo": {
+      "ip": "103.140.188.104",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.140.188.104",
       "city": "Bandar Lampung",
       "region": "Lampung",
