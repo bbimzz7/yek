@@ -11773,5 +11773,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5758CA-7C89EE-A9C660": {
+    "expires": "2026-03-18T08:31:14.676Z",
+    "hwid": "8165257092-6913a5d8-d668-4e3c-818e-5e44b85b170c",
+    "browserHwid": null,
+    "username": "TYO_OPM",
+    "userId": "8165257092",
+    "source": "script",
+    "createdAt": "2026-03-17T08:31:15.000Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.105.76.116",
+      "city": "Pare",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
