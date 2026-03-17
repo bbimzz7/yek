@@ -12201,5 +12201,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5187A8-F24D10-855401": {
+    "expires": "2026-03-18T09:19:51.346Z",
+    "hwid": "10661879847-33429b73-9240-4058-8a48-aca16aecead7",
+    "browserHwid": null,
+    "username": "oowchiiiis",
+    "userId": "10661879847",
+    "source": "script",
+    "createdAt": "2026-03-17T09:19:51.576Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.18.162",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
