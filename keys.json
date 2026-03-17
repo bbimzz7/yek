@@ -17688,5 +17688,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2E554C-EBF53E-6A0B95": {
+    "expires": "2026-03-18T22:45:52.940Z",
+    "hwid": "4104111853-aa6a2abd-bc52-4cbf-908f-ec9e6a20639d",
+    "browserHwid": null,
+    "username": "maria10u1uh12",
+    "userId": "4104111853",
+    "source": "script",
+    "createdAt": "2026-03-17T22:45:53.247Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "167.250.66.24",
+      "city": "Ananindeua",
+      "region": "Pará",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
