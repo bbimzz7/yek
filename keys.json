@@ -12063,5 +12063,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-5AC92F-98518A-D071C7": {
+    "expires": "2026-03-18T09:08:33.521Z",
+    "hwid": "7504181618-84C26C61-FCB0-45FC-9617-EB5E9BAEACB7",
+    "browserHwid": null,
+    "username": "full0877",
+    "userId": "7504181618",
+    "source": "script",
+    "createdAt": "2026-03-17T09:08:33.812Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.116.238.76",
+      "city": "Daegu",
+      "region": "Daegu",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
