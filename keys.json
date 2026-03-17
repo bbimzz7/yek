@@ -17875,11 +17875,18 @@
     "userId": "4904561496",
     "source": "script",
     "createdAt": "2026-03-17T23:22:15.152Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T23:22:24.940Z",
     "geo": {
       "ip": "104.28.71.89",
       "city": "Ulan Bator",
       "region": "Ulaanbaatar",
+      "country": "Mongolia",
+      "cc": "MN"
+    },
+    "lastGeo": {
+      "ip": "202.5.193.153",
+      "city": "Mörön",
+      "region": "Arkhangai Province",
       "country": "Mongolia",
       "cc": "MN"
     }
