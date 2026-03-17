@@ -17907,5 +17907,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-500336-DAB029-8055B5": {
+    "expires": "2026-03-18T23:23:01.000Z",
+    "hwid": "10242085525-16ac72b0-391e-4a4c-be0c-0dad1cfcfb89",
+    "browserHwid": null,
+    "username": "Azyrathe_Official",
+    "userId": "10242085525",
+    "source": "script",
+    "createdAt": "2026-03-17T23:23:01.365Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.7.82.134",
+      "city": "Boza",
+      "region": "Lima region",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
