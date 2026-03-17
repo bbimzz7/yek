@@ -10421,5 +10421,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-541C5D-119E9D-2DD836": {
+    "expires": "2026-03-18T03:11:06.830Z",
+    "hwid": "2257631448-dafb6ea5-4d51-4ecc-81f6-d29710417f03",
+    "browserHwid": null,
+    "username": "fathanatelilis",
+    "userId": "2257631448",
+    "source": "script",
+    "createdAt": "2026-03-17T03:11:07.272Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.244.15",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
