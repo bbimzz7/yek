@@ -9636,5 +9636,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E23434-049E5A-EE2568": {
+    "expires": "2026-03-18T00:03:51.335Z",
+    "hwid": "8682915676-24752c28-2f34-4187-a645-0b44a31dfd41",
+    "browserHwid": null,
+    "username": "AceOrTreat4",
+    "userId": "8682915676",
+    "source": "script",
+    "createdAt": "2026-03-17T00:03:51.694Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.111.54.99",
+      "city": "Jeddah",
+      "region": "Mecca Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
