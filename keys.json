@@ -14576,5 +14576,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-A28676-B8CF33-AC3F04": {
+    "expires": "2026-03-18T14:59:04.512Z",
+    "hwid": "2285235527-d9f59959-8f12-44d3-8400-141d5b880339",
+    "browserHwid": null,
+    "username": "diasjanajana",
+    "userId": "2285235527",
+    "source": "script",
+    "createdAt": "2026-03-17T14:59:04.766Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.190.178.39",
+      "city": "Ribeirão das Neves",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
