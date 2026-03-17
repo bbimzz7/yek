@@ -15933,8 +15933,15 @@
     "userId": "1973627774",
     "source": "script",
     "createdAt": "2026-03-17T17:43:13.450Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T17:43:21.679Z",
     "geo": {
+      "ip": "103.172.42.233",
+      "city": "Cikampek",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.172.42.233",
       "city": "Cikampek",
       "region": "West Java",
