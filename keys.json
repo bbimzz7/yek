@@ -17166,5 +17166,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-53117F-3FAF00-79392D": {
+    "expires": "2026-03-18T20:49:50.851Z",
+    "hwid": "2319807660-CA6FE046-28F5-4480-A3C9-58EB28DF67CC",
+    "browserHwid": null,
+    "username": "AGENT_47INDO",
+    "userId": "2319807660",
+    "source": "script",
+    "createdAt": "2026-03-17T20:49:51.097Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.47.134.65",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
