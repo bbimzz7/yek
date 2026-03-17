@@ -16197,8 +16197,15 @@
     "userId": "1183169332",
     "source": "script",
     "createdAt": "2026-03-17T18:21:28.640Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T18:21:34.671Z",
     "geo": {
+      "ip": "114.10.153.94",
+      "city": "Godean",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.153.94",
       "city": "Godean",
       "region": "Yogyakarta",
