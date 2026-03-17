@@ -15691,5 +15691,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-7D2C8B-644DD5-BB2286": {
+    "expires": "2026-03-18T16:59:03.791Z",
+    "hwid": "10131857498-691C8996-B660-4F1A-AB29-6984F70E92EA",
+    "browserHwid": null,
+    "username": "lokawfishh",
+    "userId": "10131857498",
+    "source": "script",
+    "createdAt": "2026-03-17T16:59:04.118Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.171.222",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
