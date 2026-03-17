@@ -14600,5 +14600,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-1AC50D-BCE5CE-C20D90": {
+    "expires": "2026-03-18T15:05:03.074Z",
+    "hwid": "8027944101-8ed55423-8868-4318-86c9-fb8c2569d041",
+    "browserHwid": null,
+    "username": "OLEG_4E4ETKA762",
+    "userId": "8027944101",
+    "source": "script",
+    "createdAt": "2026-03-17T15:05:03.797Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.72.162.104",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
