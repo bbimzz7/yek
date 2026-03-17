@@ -16068,5 +16068,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-F76760-BEA281-011E96": {
+    "expires": "2026-03-18T18:05:13.634Z",
+    "hwid": "10665172285-904c4893-3c39-4f06-b7d4-7ccbfe95aa43",
+    "browserHwid": null,
+    "username": "sambungkatamyfavorit",
+    "userId": "10665172285",
+    "source": "script",
+    "createdAt": "2026-03-17T18:05:13.973Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.94.194.37",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
