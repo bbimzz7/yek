@@ -15362,5 +15362,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-179D1D-731644-21D643": {
+    "expires": "2026-03-18T16:19:30.383Z",
+    "hwid": "8117445570-abf0c3d4-8fd2-47bf-a1a0-4f3560814d24",
+    "browserHwid": null,
+    "username": "AiDentrokkj90",
+    "userId": "8117445570",
+    "source": "script",
+    "createdAt": "2026-03-17T16:19:30.662Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.37.173.99",
+      "city": "Aracaju",
+      "region": "Sergipe",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
