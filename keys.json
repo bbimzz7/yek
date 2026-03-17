@@ -12636,8 +12636,15 @@
     "userId": "10107794065",
     "source": "script",
     "createdAt": "2026-03-17T10:13:19.559Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T10:14:35.104Z",
     "geo": {
+      "ip": "115.134.107.161",
+      "city": "Johor Bahru",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "115.134.107.161",
       "city": "Johor Bahru",
       "region": "Johor",
