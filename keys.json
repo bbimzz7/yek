@@ -15427,5 +15427,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-54F1EE-E2AA19-6F506E": {
+    "expires": "2026-03-18T16:22:31.379Z",
+    "hwid": "8196590064-50e4036a-5c61-440b-8c38-45343ba58de0",
+    "browserHwid": null,
+    "username": "Eimailevenths",
+    "userId": "8196590064",
+    "source": "script",
+    "createdAt": "2026-03-17T16:22:31.671Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "77.2.10.106",
+      "city": "Munich",
+      "region": "Bavaria",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
