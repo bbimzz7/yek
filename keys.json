@@ -12024,7 +12024,7 @@
     "userId": "5442360729",
     "source": "script",
     "createdAt": "2026-03-17T08:59:38.138Z",
-    "lastUsed": "2026-03-17T09:15:08.387Z",
+    "lastUsed": "2026-03-17T16:09:44.510Z",
     "geo": {
       "ip": "138.199.53.248",
       "city": "Bucharest",
@@ -12033,11 +12033,11 @@
       "cc": "RO"
     },
     "lastGeo": {
-      "ip": "138.199.53.248",
-      "city": "Bucharest",
-      "region": "București",
-      "country": "Romania",
-      "cc": "RO"
+      "ip": "205.147.17.5",
+      "city": "Oslo",
+      "region": "Oslo County",
+      "country": "Norway",
+      "cc": "NO"
     }
   },
   "VH-4EE1A4-6B5C13-4370E2": {
