@@ -12627,5 +12627,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-E87BD1-90CB70-11095C": {
+    "expires": "2026-03-18T10:13:19.213Z",
+    "hwid": "10107794065-5761df17-eada-4efc-a674-3b77ad7bb343",
+    "browserHwid": null,
+    "username": "sammy988110",
+    "userId": "10107794065",
+    "source": "script",
+    "createdAt": "2026-03-17T10:13:19.559Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.134.107.161",
+      "city": "Johor Bahru",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
