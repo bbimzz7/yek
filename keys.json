@@ -12379,5 +12379,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-FBCFC0-020BD0-A0DA70": {
+    "expires": "2026-03-18T09:37:03.640Z",
+    "hwid": "1408236657-3402aba7-5f02-48e2-a84a-7f0489f7d333",
+    "browserHwid": null,
+    "username": "dhalura",
+    "userId": "1408236657",
+    "source": "script",
+    "createdAt": "2026-03-17T09:37:03.886Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.94.147.234",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
