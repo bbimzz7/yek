@@ -15068,8 +15068,15 @@
     "userId": "10657091456",
     "source": "script",
     "createdAt": "2026-03-17T15:56:23.481Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T15:56:37.305Z",
     "geo": {
+      "ip": "91.213.120.25",
+      "city": "Almoradí",
+      "region": "Valencia",
+      "country": "Spain",
+      "cc": "ES"
+    },
+    "lastGeo": {
       "ip": "91.213.120.25",
       "city": "Almoradí",
       "region": "Valencia",
