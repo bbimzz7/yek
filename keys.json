@@ -14888,5 +14888,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1C75B0-FBE835-053A8A": {
+    "expires": "2026-03-18T15:37:19.549Z",
+    "hwid": "10576232313-ffb9974c-e227-49dd-a41f-9a4ee2553875",
+    "browserHwid": null,
+    "username": "Pwrinzxy",
+    "userId": "10576232313",
+    "source": "script",
+    "createdAt": "2026-03-17T15:37:19.855Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.208.189.203",
+      "city": "Heilbronn",
+      "region": "Baden-Wurttemberg",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
