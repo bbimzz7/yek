@@ -15996,5 +15996,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-93468C-8B2337-D25E20": {
+    "expires": "2026-03-18T17:58:46.821Z",
+    "hwid": "10185763566-7ab8dec5-3161-4bfc-abe5-61c896bd3c83",
+    "browserHwid": null,
+    "username": "MR_M1005alt1",
+    "userId": "10185763566",
+    "source": "script",
+    "createdAt": "2026-03-17T17:58:47.222Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.97.119.171",
+      "city": "Dubai",
+      "region": "Dubai",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
