@@ -14816,5 +14816,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-B74003-5E0EFA-E66625": {
+    "expires": "2026-03-18T15:25:24.263Z",
+    "hwid": "10366783705-f1dc46ff-ea92-438c-a829-423b442676a4",
+    "browserHwid": null,
+    "username": "OLLiV3R5",
+    "userId": "10366783705",
+    "source": "script",
+    "createdAt": "2026-03-17T15:25:25.816Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.62.48.93",
+      "city": "Lahug",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
