@@ -13228,5 +13228,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-6076FF-284D48-4045D9": {
+    "expires": "2026-03-18T11:37:15.171Z",
+    "hwid": "9217750059-4E1AFB5F-9B27-4A95-88C5-1EEFC576D045",
+    "browserHwid": null,
+    "username": "SurgaDunia777",
+    "userId": "9217750059",
+    "source": "script",
+    "createdAt": "2026-03-17T11:37:15.488Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.2.10",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
