@@ -16957,5 +16957,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-E8013A-3CE1E6-00AD7C": {
+    "expires": "2026-03-18T20:12:14.416Z",
+    "hwid": "8975063363-eb7937d6-cfcc-4b65-8ef7-41118a34c984",
+    "browserHwid": null,
+    "username": "brayan2k92",
+    "userId": "8975063363",
+    "source": "script",
+    "createdAt": "2026-03-17T20:12:14.799Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.183.125.244",
+      "city": "Foz do Iguaçu",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
