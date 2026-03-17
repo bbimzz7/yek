@@ -11588,5 +11588,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E274F6-D1A798-93AFA5": {
+    "expires": "2026-03-18T07:56:02.702Z",
+    "hwid": "10617602483-0317B17C-A411-42F6-B29E-06A7C8AC5F2F",
+    "browserHwid": null,
+    "username": "PROFEEEF",
+    "userId": "10617602483",
+    "source": "script",
+    "createdAt": "2026-03-17T07:56:02.965Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.159.3",
+      "city": "Dreieich",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
