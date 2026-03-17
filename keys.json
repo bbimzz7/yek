@@ -14720,5 +14720,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-2A547C-5CF827-F6FD2B": {
+    "expires": "2026-03-18T15:15:43.801Z",
+    "hwid": "10085747255-52a42acb-df8a-4f22-a908-c9afdc4e6093",
+    "browserHwid": null,
+    "username": "melana_0131",
+    "userId": "10085747255",
+    "source": "script",
+    "createdAt": "2026-03-17T15:15:44.228Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "94.124.166.156",
+      "city": "Kharkiv",
+      "region": "Kharkivs’ka Oblast’",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
