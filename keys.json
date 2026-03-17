@@ -17408,8 +17408,15 @@
     "userId": "7308688440",
     "source": "script",
     "createdAt": "2026-03-17T21:35:46.141Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T21:36:15.395Z",
     "geo": {
+      "ip": "183.171.100.221",
+      "city": "Meru",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "183.171.100.221",
       "city": "Meru",
       "region": "Selangor",
