@@ -13108,5 +13108,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-2620EB-75752F-D899BA": {
+    "expires": "2026-03-18T11:21:29.867Z",
+    "hwid": "3227108314-16A615EF-A210-499E-8DE9-E8FB76CB6DDD",
+    "browserHwid": null,
+    "username": "n1_nk",
+    "userId": "3227108314",
+    "source": "script",
+    "createdAt": "2026-03-17T11:21:30.105Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.72.78.105",
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
