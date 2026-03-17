@@ -17664,5 +17664,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-F31A7C-4119E9-306615": {
+    "expires": "2026-03-18T22:43:01.541Z",
+    "hwid": "10225965900-d7326ea0-97fb-4fbe-aabb-65cbf7802e31",
+    "browserHwid": null,
+    "username": "arsa9982",
+    "userId": "10225965900",
+    "source": "script",
+    "createdAt": "2026-03-17T22:43:02.065Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.34.27",
+      "city": "Purbalingga",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
