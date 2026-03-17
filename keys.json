@@ -13276,5 +13276,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-0677BE-A463AC-DBB75D": {
+    "expires": "2026-03-18T11:50:59.098Z",
+    "hwid": "4551482994-82fd8e8c-6673-437b-b6fa-f9a9482923fb",
+    "browserHwid": null,
+    "username": "adek_hebat23",
+    "userId": "4551482994",
+    "source": "script",
+    "createdAt": "2026-03-17T11:50:59.363Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.250.212",
+      "city": "Kota Samarahan",
+      "region": "Sarawak",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
