@@ -14744,5 +14744,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-DFFAA2-87FCFE-F68059": {
+    "expires": "2026-03-18T15:16:28.081Z",
+    "hwid": "6008049958-9791da0c-8067-4309-9650-ee5e4a27c110",
+    "browserHwid": null,
+    "username": "vapoplol2012",
+    "userId": "6008049958",
+    "source": "script",
+    "createdAt": "2026-03-17T15:16:28.405Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "80.239.191.4",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
