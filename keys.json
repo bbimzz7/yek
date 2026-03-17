@@ -10245,8 +10245,15 @@
     "userId": "5367506223",
     "source": "script",
     "createdAt": "2026-03-17T02:05:22.690Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T02:05:31.149Z",
     "geo": {
+      "ip": "68.60.72.123",
+      "city": "Taylor",
+      "region": "Michigan",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "68.60.72.123",
       "city": "Taylor",
       "region": "Michigan",
