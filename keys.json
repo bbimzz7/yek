@@ -16662,5 +16662,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-EA9D09-05937A-E248C7": {
+    "expires": "2026-03-18T19:39:05.106Z",
+    "hwid": "10103972798-b14d8ab4-f3e9-4f2d-8b13-a2fb14067b68",
+    "browserHwid": null,
+    "username": "bacon_lindo0872",
+    "userId": "10103972798",
+    "source": "script",
+    "createdAt": "2026-03-17T19:39:05.377Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.125.137.155",
+      "city": "Campinas",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
