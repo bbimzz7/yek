@@ -15554,5 +15554,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-C4EF94-16662D-751D25": {
+    "expires": "2026-03-18T16:36:39.825Z",
+    "hwid": "10681652469-637af706-9411-4e48-a2a0-25d703610c0d",
+    "browserHwid": null,
+    "username": "telor_asam",
+    "userId": "10681652469",
+    "source": "script",
+    "createdAt": "2026-03-17T16:36:40.585Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.78.116.250",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
