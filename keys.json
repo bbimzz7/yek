@@ -9948,5 +9948,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-A4C244-97F4A4-2725B2": {
+    "expires": "2026-03-18T00:54:56.228Z",
+    "hwid": "7529195753-160da6fa-ee09-4408-a0e5-3df9949386f6",
+    "browserHwid": null,
+    "username": "ozora_ganteng115",
+    "userId": "7529195753",
+    "source": "script",
+    "createdAt": "2026-03-17T00:54:56.446Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.99.212",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
