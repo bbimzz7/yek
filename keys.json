@@ -10118,8 +10118,15 @@
     "userId": "8009082260",
     "source": "script",
     "createdAt": "2026-03-17T01:45:33.249Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T01:45:41.696Z",
     "geo": {
+      "ip": "38.35.240.6",
+      "city": "Indaparapeo",
+      "region": "Michoacán",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "38.35.240.6",
       "city": "Indaparapeo",
       "region": "Michoacán",
