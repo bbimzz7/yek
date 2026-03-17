@@ -16483,5 +16483,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-EA307E-2EFC47-B8CE5F": {
+    "expires": "2026-03-18T19:11:54.457Z",
+    "hwid": "3273820646-8491D4A8-4E72-4515-8831-1F8285DB6719",
+    "browserHwid": null,
+    "username": "606AFK",
+    "userId": "3273820646",
+    "source": "script",
+    "createdAt": "2026-03-17T19:11:55.004Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "89.188.178.222",
+      "city": "Fryazino",
+      "region": "Moscow Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
