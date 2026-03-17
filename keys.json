@@ -13396,5 +13396,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8B408B-56F054-44C540": {
+    "expires": "2026-03-18T12:11:15.492Z",
+    "hwid": "8172890203-a8ace033-47aa-48b0-8257-bfa524a5bee2",
+    "browserHwid": null,
+    "username": "Shb_503",
+    "userId": "8172890203",
+    "source": "script",
+    "createdAt": "2026-03-17T12:11:15.844Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.25.59.15",
+      "city": "Sidoarjo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
