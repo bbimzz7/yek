@@ -9830,8 +9830,15 @@
     "userId": "10478668953",
     "source": "script",
     "createdAt": "2026-03-17T00:28:40.111Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T00:29:08.589Z",
     "geo": {
+      "ip": "150.228.157.251",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "150.228.157.251",
       "city": "Manila",
       "region": "National Capital Region",
