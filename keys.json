@@ -10301,5 +10301,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D628E6-740F17-D68575": {
+    "expires": "2026-03-18T02:35:06.817Z",
+    "hwid": "8254407290-7005ec2d-bbdd-42f5-b39d-d8a2a4cf2c2a",
+    "browserHwid": null,
+    "username": "needfruit_13",
+    "userId": "8254407290",
+    "source": "script",
+    "createdAt": "2026-03-17T02:35:07.177Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.28.184.221",
+      "city": "Iloilo City",
+      "region": "Western Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
