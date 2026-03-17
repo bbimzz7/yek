@@ -17456,8 +17456,15 @@
     "userId": "5739633405",
     "source": "script",
     "createdAt": "2026-03-17T21:41:43.383Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T22:33:00.415Z",
     "geo": {
+      "ip": "212.58.114.204",
+      "city": "Batumi",
+      "region": "Adjara",
+      "country": "Georgia",
+      "cc": "GE"
+    },
+    "lastGeo": {
       "ip": "212.58.114.204",
       "city": "Batumi",
       "region": "Adjara",
