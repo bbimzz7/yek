@@ -11897,14 +11897,22 @@
   },
   "VH-C4DD47-B3FC4C-2A5A74": {
     "expires": "2026-03-18T08:41:17.410Z",
-    "hwid": null,
+    "hwid": "5615551716-7408d98a-dcc6-4cc1-93f6-b02e48430590",
     "browserHwid": "BR-5C832079-H6Q2P",
-    "username": "Mfsiuiunbi",
-    "userId": null,
+    "username": "mfsiuiunbi",
+    "userId": "5615551716",
     "source": "browser",
     "createdAt": "2026-03-17T08:41:17.687Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T08:42:17.940Z",
     "geo": {
+      "ip": "180.249.203.86",
+      "city": "Jayapura",
+      "region": "Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-17T08:42:17.934Z",
+    "lastGeo": {
       "ip": "180.249.203.86",
       "city": "Jayapura",
       "region": "Papua",
