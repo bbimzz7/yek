@@ -13525,8 +13525,15 @@
     "userId": "3214694349",
     "source": "script",
     "createdAt": "2026-03-17T12:28:36.444Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T12:28:44.410Z",
     "geo": {
+      "ip": "37.112.217.218",
+      "city": "Samara",
+      "region": "Samara Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "37.112.217.218",
       "city": "Samara",
       "region": "Samara Oblast",
