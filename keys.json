@@ -14037,5 +14037,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-127907-F234C0-718461": {
+    "expires": "2026-03-18T14:04:40.441Z",
+    "hwid": "8243856966-e945d626-4d75-48a2-a865-881ab60569af",
+    "browserHwid": null,
+    "username": "TheRbxxseR",
+    "userId": "8243856966",
+    "source": "script",
+    "createdAt": "2026-03-17T14:04:41.058Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.208.185.76",
+      "city": "Heilbronn",
+      "region": "Baden-Wurttemberg",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
