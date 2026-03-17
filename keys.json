@@ -14094,7 +14094,7 @@
     "userId": "5144217280",
     "source": "script",
     "createdAt": "2026-03-17T14:08:32.948Z",
-    "lastUsed": "2026-03-17T14:08:40.838Z",
+    "lastUsed": "2026-03-17T14:26:15.405Z",
     "geo": {
       "ip": "103.121.169.136",
       "city": "Jakarta",
@@ -14103,11 +14103,11 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.121.169.136",
-      "city": "Jakarta",
-      "region": "Jakarta",
-      "country": "Indonesia",
-      "cc": "ID"
+      "ip": "138.199.21.202",
+      "city": "Tokyo",
+      "region": "Tokyo",
+      "country": "Japan",
+      "cc": "JP"
     }
   },
   "VH-81823F-281E23-4747E4": {
