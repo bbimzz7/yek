@@ -11433,5 +11433,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-92287B-BAC284-D05715": {
+    "expires": "2026-03-18T07:27:53.193Z",
+    "hwid": "7579913703-695d9b8d-e4ad-4962-9736-2f382519ad53",
+    "browserHwid": null,
+    "username": "TerryGlen761",
+    "userId": "7579913703",
+    "source": "script",
+    "createdAt": "2026-03-17T07:27:53.671Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.170.98",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
