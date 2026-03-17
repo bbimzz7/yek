@@ -9996,5 +9996,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-3A9FB2-015D8C-EF5CE4": {
+    "expires": "2026-03-18T01:20:53.460Z",
+    "hwid": "7110332837-f4b6ec72-8783-47a8-a2ea-723424621b58",
+    "browserHwid": null,
+    "username": "Logan24459d_93",
+    "userId": "7110332837",
+    "source": "script",
+    "createdAt": "2026-03-17T01:20:53.806Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.173.236.202",
+      "city": "Recife",
+      "region": "Pernambuco",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
