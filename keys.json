@@ -14206,5 +14206,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-F8913F-B93C59-C8E51C": {
+    "expires": "2026-03-18T14:28:06.355Z",
+    "hwid": "8736024084-6c6309a1-db1e-410e-824e-52dfcf2b1042",
+    "browserHwid": null,
+    "username": "TAHUATAU_TEMPE",
+    "userId": "8736024084",
+    "source": "script",
+    "createdAt": "2026-03-17T14:28:06.914Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.33.23",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
