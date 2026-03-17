@@ -11928,8 +11928,15 @@
     "userId": "8339327021",
     "source": "script",
     "createdAt": "2026-03-17T08:49:43.513Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T08:53:13.456Z",
     "geo": {
+      "ip": "182.11.183.246",
+      "city": "Bontang",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.11.183.246",
       "city": "Bontang",
       "region": "East Kalimantan",
