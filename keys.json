@@ -17545,8 +17545,15 @@
     "userId": "5274022306",
     "source": "script",
     "createdAt": "2026-03-17T22:05:23.352Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T22:06:30.286Z",
     "geo": {
+      "ip": "43.231.28.170",
+      "city": "Malé",
+      "region": "Kaafu Atoll",
+      "country": "Maldives",
+      "cc": "MV"
+    },
+    "lastGeo": {
       "ip": "43.231.28.170",
       "city": "Malé",
       "region": "Kaafu Atoll",
