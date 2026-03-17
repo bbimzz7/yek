@@ -12112,5 +12112,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F522C7-CCCE61-A6C64D": {
+    "expires": "2026-03-18T09:13:15.862Z",
+    "hwid": "5615770330-6ECEFFB5-02E4-4450-AE44-2CEB2E8E3AD2",
+    "browserHwid": null,
+    "username": "CHACO_5678",
+    "userId": "5615770330",
+    "source": "script",
+    "createdAt": "2026-03-17T09:13:16.113Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "223.205.246.192",
+      "city": "Nakhon Ratchasima",
+      "region": "Nakhon Ratchasima",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
