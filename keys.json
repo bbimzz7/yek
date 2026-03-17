@@ -15131,7 +15131,7 @@
     "userId": "10118735468",
     "source": "script",
     "createdAt": "2026-03-17T16:01:31.319Z",
-    "lastUsed": "2026-03-17T16:04:38.003Z",
+    "lastUsed": "2026-03-17T16:25:03.814Z",
     "geo": {
       "ip": "178.137.89.213",
       "city": "Lviv",
@@ -15140,9 +15140,9 @@
       "cc": "UA"
     },
     "lastGeo": {
-      "ip": "178.137.89.213",
-      "city": "Lviv",
-      "region": "Lvivska Oblast",
+      "ip": "178.137.30.195",
+      "city": "Kharkiv",
+      "region": "Kharkivska Oblast",
       "country": "Ukraine",
       "cc": "UA"
     }
