@@ -12916,5 +12916,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-AB9B64-3BAED2-33357D": {
+    "expires": "2026-03-18T10:59:54.688Z",
+    "hwid": "4144668006-D1C26B00-F621-4F36-9486-F142D105A5BC",
+    "browserHwid": null,
+    "username": "Luke4gk001",
+    "userId": "4144668006",
+    "source": "script",
+    "createdAt": "2026-03-17T10:59:54.938Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.125.5.53",
+      "city": "Yangon",
+      "region": "Yangon",
+      "country": "Myanmar",
+      "cc": "MM"
+    }
   }
 }
