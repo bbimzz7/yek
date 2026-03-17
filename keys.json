@@ -13893,5 +13893,22 @@
       "country": "Tunisia",
       "cc": "TN"
     }
+  },
+  "VH-763470-E94278-AAB09D": {
+    "expires": "2026-03-18T13:36:35.699Z",
+    "hwid": "8773080411-ac0ebaab-4402-486c-b100-c9f76e501710",
+    "browserHwid": null,
+    "username": "braaaaaanXsb",
+    "userId": "8773080411",
+    "source": "script",
+    "createdAt": "2026-03-17T13:36:35.992Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.171.218",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
