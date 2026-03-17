@@ -10310,8 +10310,15 @@
     "userId": "8254407290",
     "source": "script",
     "createdAt": "2026-03-17T02:35:07.177Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T02:36:21.068Z",
     "geo": {
+      "ip": "120.28.184.221",
+      "city": "Iloilo City",
+      "region": "Western Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "120.28.184.221",
       "city": "Iloilo City",
       "region": "Western Visayas",
