@@ -10358,8 +10358,15 @@
     "userId": "7280686382",
     "source": "script",
     "createdAt": "2026-03-17T02:38:11.320Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T02:38:25.968Z",
     "geo": {
+      "ip": "138.204.79.179",
+      "city": "São João de Meriti",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "138.204.79.179",
       "city": "São João de Meriti",
       "region": "Rio de Janeiro",
