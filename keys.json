@@ -15139,5 +15139,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-C5D2ED-88600C-E4CC2E": {
+    "expires": "2026-03-18T16:02:56.639Z",
+    "hwid": "8096647873-0D070030-9384-414C-BFFB-6719D48C5D69",
+    "browserHwid": null,
+    "username": "fha1eds",
+    "userId": "8096647873",
+    "source": "script",
+    "createdAt": "2026-03-17T16:02:56.969Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.232.4.49",
+      "city": "Saratov",
+      "region": "Saratov Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
