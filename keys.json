@@ -17986,5 +17986,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-22BCFF-695F4A-B97495": {
+    "expires": "2026-03-18T23:44:19.060Z",
+    "hwid": "8669692711-5d47d366-e77b-4ef4-bef7-129bc1838f58",
+    "browserHwid": null,
+    "username": "ESTELER436",
+    "userId": "8669692711",
+    "source": "script",
+    "createdAt": "2026-03-17T23:44:19.363Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.1.213",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
