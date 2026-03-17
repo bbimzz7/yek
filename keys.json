@@ -11409,5 +11409,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-555069-E2D514-AF9E39": {
+    "expires": "2026-03-18T07:21:14.818Z",
+    "hwid": "8911607085-115fa753-bfad-4c9c-acad-fed528085ee8",
+    "browserHwid": null,
+    "username": "4lbieeq",
+    "userId": "8911607085",
+    "source": "script",
+    "createdAt": "2026-03-17T07:21:15.100Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.240.68.37",
+      "city": "Lubuk Pakam",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
