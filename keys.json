@@ -15371,8 +15371,15 @@
     "userId": "8117445570",
     "source": "script",
     "createdAt": "2026-03-17T16:19:30.662Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T16:20:53.866Z",
     "geo": {
+      "ip": "177.37.173.99",
+      "city": "Aracaju",
+      "region": "Sergipe",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.37.173.99",
       "city": "Aracaju",
       "region": "Sergipe",
