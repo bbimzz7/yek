@@ -8448,5 +8448,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-92F110-3FDB9A-847ABC": {
+    "expires": "2026-03-18T23:56:48.269Z",
+    "hwid": "3476157649-b57dfd3b-2d3d-4b3a-84f8-f9ccbcaf53d6",
+    "browserHwid": null,
+    "username": "diegodobelem",
+    "userId": "3476157649",
+    "source": "script",
+    "createdAt": "2026-03-17T23:56:48.487Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "167.250.61.142",
+      "city": "Laranjeiras do Sul",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
