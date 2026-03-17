@@ -13749,5 +13749,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-0EC291-4BFE0F-579B60": {
+    "expires": "2026-03-18T13:09:30.556Z",
+    "hwid": "8729834553-17f2733d-9f5e-49ac-98c5-d112791d06dc",
+    "browserHwid": null,
+    "username": "estehenakcihuy",
+    "userId": "8729834553",
+    "source": "script",
+    "createdAt": "2026-03-17T13:09:30.830Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.47.183",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
