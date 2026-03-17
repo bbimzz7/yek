@@ -12957,5 +12957,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-57C3B0-2A6847-8DBAC3": {
+    "expires": "2026-03-18T11:05:15.780Z",
+    "hwid": "8985774311-c5f4254e-10f6-4143-8086-d795cd809814",
+    "browserHwid": null,
+    "username": "shakira_22241",
+    "userId": "8985774311",
+    "source": "script",
+    "createdAt": "2026-03-17T11:05:16.055Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "143.44.193.96",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
