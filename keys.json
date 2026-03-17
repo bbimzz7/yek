@@ -9749,5 +9749,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-82020E-6D8B69-612D50": {
+    "expires": "2026-03-18T00:15:41.065Z",
+    "hwid": "4199347247-A190FB8A-F636-4A86-AD71-627537FC62A7",
+    "browserHwid": null,
+    "username": "thaiubfjgy",
+    "userId": "4199347247",
+    "source": "script",
+    "createdAt": "2026-03-17T00:15:41.287Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.156.113",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
