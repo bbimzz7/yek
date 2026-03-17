@@ -12940,5 +12940,22 @@
       "country": "Myanmar",
       "cc": "MM"
     }
+  },
+  "VH-324FFA-AED354-ADE98C": {
+    "expires": "2026-03-18T11:04:41.451Z",
+    "hwid": "8040751531-825a8ef1-eb4c-41c8-ae67-235f2c39789d",
+    "browserHwid": null,
+    "username": "Lukas_198092",
+    "userId": "8040751531",
+    "source": "script",
+    "createdAt": "2026-03-17T11:04:41.780Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.5.61.53",
+      "city": "Paranaque City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
