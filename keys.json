@@ -16108,8 +16108,15 @@
     "userId": "4441229917",
     "source": "script",
     "createdAt": "2026-03-17T18:08:08.250Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T18:09:22.605Z",
     "geo": {
+      "ip": "138.255.161.15",
+      "city": "Salvador",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "138.255.161.15",
       "city": "Salvador",
       "region": "Bahia",
