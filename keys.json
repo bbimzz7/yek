@@ -10277,5 +10277,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C4296A-CAB957-736FE9": {
+    "expires": "2026-03-18T02:19:13.133Z",
+    "hwid": "7844149693-12a8d005-41fa-4b94-925d-b6f343efb6b5",
+    "browserHwid": null,
+    "username": "arvieno3",
+    "userId": "7844149693",
+    "source": "script",
+    "createdAt": "2026-03-17T02:19:13.498Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.33.200",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
