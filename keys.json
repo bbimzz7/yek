@@ -12008,5 +12008,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-653704-E4E791-1EFA28": {
+    "expires": "2026-03-18T08:59:37.873Z",
+    "hwid": "5442360729-5504a7a2-0af9-4ff3-9882-983b41724b20",
+    "browserHwid": null,
+    "username": "Zpoxzzz",
+    "userId": "5442360729",
+    "source": "script",
+    "createdAt": "2026-03-17T08:59:38.138Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.199.53.248",
+      "city": "Bucharest",
+      "region": "București",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
