@@ -15652,8 +15652,15 @@
     "userId": "10685335538",
     "source": "script",
     "createdAt": "2026-03-17T16:58:15.252Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T16:58:22.898Z",
     "geo": {
+      "ip": "67.248.14.127",
+      "city": "Buffalo",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "67.248.14.127",
       "city": "Buffalo",
       "region": "New York",
