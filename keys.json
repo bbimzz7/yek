@@ -11120,8 +11120,15 @@
     "userId": "9895364429",
     "source": "script",
     "createdAt": "2026-03-17T06:14:09.149Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T06:14:23.550Z",
     "geo": {
+      "ip": "42.118.54.163",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "42.118.54.163",
       "city": "Hanoi",
       "region": "Hanoi",
