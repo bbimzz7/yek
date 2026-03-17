@@ -16387,5 +16387,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-B169EB-C9D6B5-0F0774": {
+    "expires": "2026-03-18T18:51:35.983Z",
+    "hwid": "3478118697-684575dc-4f7c-4ec3-a36c-513476028dd4",
+    "browserHwid": null,
+    "username": "Diawlzc",
+    "userId": "3478118697",
+    "source": "script",
+    "createdAt": "2026-03-17T18:51:36.377Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.99.59.113",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
