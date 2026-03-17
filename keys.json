@@ -10197,8 +10197,15 @@
     "userId": "7715611385",
     "source": "script",
     "createdAt": "2026-03-17T01:48:45.629Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T01:50:27.696Z",
     "geo": {
+      "ip": "177.131.17.206",
+      "city": "Macapá",
+      "region": "Amapá",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.131.17.206",
       "city": "Macapá",
       "region": "Amapá",
