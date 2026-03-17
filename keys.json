@@ -17255,5 +17255,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-05F359-612FA7-9F4E42": {
+    "expires": "2026-03-18T20:57:56.215Z",
+    "hwid": "5053279722-FE4AC983-2E17-4301-AC25-2887880C0356",
+    "browserHwid": null,
+    "username": "RockyXD_9",
+    "userId": "5053279722",
+    "source": "script",
+    "createdAt": "2026-03-17T20:57:56.531Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "223.206.231.90",
+      "city": "Udon Thani",
+      "region": "Udon Thani",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
