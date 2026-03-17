@@ -11749,5 +11749,22 @@
       "country": "Algeria",
       "cc": "DZ"
     }
+  },
+  "VH-B2AC3C-A589FC-46DDDF": {
+    "expires": "2026-03-18T08:28:37.796Z",
+    "hwid": "9484637702-5ab21db7-3eaf-44b5-a02a-e84b82b9eec0",
+    "browserHwid": null,
+    "username": "kaiiixxitters",
+    "userId": "9484637702",
+    "source": "script",
+    "createdAt": "2026-03-17T08:28:38.093Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.103.250.221",
+      "city": "Kudus",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
