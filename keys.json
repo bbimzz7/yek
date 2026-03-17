@@ -11015,5 +11015,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-4164D7-953B8E-506DEC": {
+    "expires": "2026-03-18T05:55:51.865Z",
+    "hwid": "10684043383-7080a317-3dfa-48c0-ae66-3fb5b1bbf1b5",
+    "browserHwid": null,
+    "username": "ASJKL824",
+    "userId": "10684043383",
+    "source": "script",
+    "createdAt": "2026-03-17T05:55:52.054Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.190.101.202",
+      "city": "Lima",
+      "region": "Lima Province",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
