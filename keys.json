@@ -14118,8 +14118,15 @@
     "userId": "1899310868",
     "source": "script",
     "createdAt": "2026-03-17T14:09:04.679Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T14:09:10.912Z",
     "geo": {
+      "ip": "147.235.219.204",
+      "city": "Rishon LeTsiyyon",
+      "region": "Central District",
+      "country": "Israel",
+      "cc": "IL"
+    },
+    "lastGeo": {
       "ip": "147.235.219.204",
       "city": "Rishon LeTsiyyon",
       "region": "Central District",
