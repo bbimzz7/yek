@@ -10984,5 +10984,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-092D77-1E5C9B-A968A3": {
+    "expires": "2026-03-18T05:51:24.879Z",
+    "hwid": "10683998533-76473ccb-fa29-4018-8450-68a126857dfb",
+    "browserHwid": null,
+    "username": "JAYYY_FAV1",
+    "userId": "10683998533",
+    "source": "script",
+    "createdAt": "2026-03-17T05:51:25.250Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.59.220.65",
+      "city": "Elizabeth",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
