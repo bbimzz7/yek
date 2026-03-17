@@ -13989,5 +13989,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-8A84DD-C994A0-81D0AE": {
+    "expires": "2026-03-18T13:55:12.958Z",
+    "hwid": "4446953836-3FAF2578-1F9B-43FC-A4CA-986B151D1E13",
+    "browserHwid": null,
+    "username": "hh489ons",
+    "userId": "4446953836",
+    "source": "script",
+    "createdAt": "2026-03-17T13:55:13.542Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "31.215.113.150",
+      "city": "Al Ain City",
+      "region": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
