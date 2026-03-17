@@ -10068,5 +10068,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-9275E7-D4BE40-D979A8": {
+    "expires": "2026-03-18T01:42:20.874Z",
+    "hwid": "7395787597-1996a6cc-b843-42fb-a422-a59fecbee372",
+    "browserHwid": null,
+    "username": "Lauria_112",
+    "userId": "7395787597",
+    "source": "script",
+    "createdAt": "2026-03-17T01:42:21.242Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.183.113.27",
+      "city": "Valencia",
+      "region": "Carabobo",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
