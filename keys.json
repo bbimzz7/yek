@@ -15506,5 +15506,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-3AC5CC-DDF0D8-461AD1": {
+    "expires": "2026-03-18T16:28:42.468Z",
+    "hwid": "10408640018-8cec6e5d-311a-43a4-8008-93df4f9ba932",
+    "browserHwid": null,
+    "username": "Packfist08",
+    "userId": "10408640018",
+    "source": "script",
+    "createdAt": "2026-03-17T16:28:42.726Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.245.227.176",
+      "city": "Brandon",
+      "region": "Manitoba",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
