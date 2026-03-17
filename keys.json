@@ -16540,8 +16540,15 @@
     "userId": "4741285063",
     "source": "script",
     "createdAt": "2026-03-17T19:21:01.004Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T19:21:10.257Z",
     "geo": {
+      "ip": "79.177.140.67",
+      "city": "Tel Aviv",
+      "region": "Tel Aviv",
+      "country": "Israel",
+      "cc": "IL"
+    },
+    "lastGeo": {
       "ip": "79.177.140.67",
       "city": "Tel Aviv",
       "region": "Tel Aviv",
