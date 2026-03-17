@@ -12588,8 +12588,15 @@
     "userId": "10112785050",
     "source": "script",
     "createdAt": "2026-03-17T10:07:17.353Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T10:08:33.000Z",
     "geo": {
+      "ip": "36.69.167.204",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.69.167.204",
       "city": "Medan",
       "region": "North Sumatra",
