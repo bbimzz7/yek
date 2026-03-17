@@ -12507,5 +12507,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-F361EB-038068-66E014": {
+    "expires": "2026-03-18T09:55:55.639Z",
+    "hwid": "5545406031-b0775afc-29be-4055-b98b-b98afd375b6d",
+    "browserHwid": null,
+    "username": "suauuhuaou",
+    "userId": "5545406031",
+    "source": "script",
+    "createdAt": "2026-03-17T09:55:56.143Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.4.78.201",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
