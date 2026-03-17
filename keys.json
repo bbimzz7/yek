@@ -16267,5 +16267,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-9E5F82-430E28-9180C1": {
+    "expires": "2026-03-18T18:30:53.751Z",
+    "hwid": "1415297081-426d41e3-54f9-47f5-a986-0bd69e5edbbf",
+    "browserHwid": null,
+    "username": "legoka_dala",
+    "userId": "1415297081",
+    "source": "script",
+    "createdAt": "2026-03-17T18:30:54.273Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.200.166.106",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
