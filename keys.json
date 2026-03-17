@@ -16981,5 +16981,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-FD21AA-73D471-DE1FFA": {
+    "expires": "2026-03-18T20:17:49.589Z",
+    "hwid": "1801797759-8e721705-45e5-48f1-bf19-ffbdcde3707f",
+    "browserHwid": null,
+    "username": "XDTMLX",
+    "userId": "1801797759",
+    "source": "script",
+    "createdAt": "2026-03-17T20:17:49.902Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.103.50.141",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
