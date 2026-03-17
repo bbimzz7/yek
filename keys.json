@@ -17022,5 +17022,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E1BFEE-909C46-375A4E": {
+    "expires": "2026-03-18T20:31:00.740Z",
+    "hwid": "2544474248-f6c48f7b-8499-48a1-8cd9-a9ca9bb0ce05",
+    "browserHwid": null,
+    "username": "Pedropkxdjsdjdh",
+    "userId": "2544474248",
+    "source": "script",
+    "createdAt": "2026-03-17T20:31:01.278Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.179.103.13",
+      "city": "Canapi",
+      "region": "Alagoas",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
