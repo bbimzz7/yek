@@ -13588,5 +13588,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-C31A7D-07C508-63CD8C": {
+    "expires": "2026-03-18T12:41:15.185Z",
+    "hwid": "10248219023-13c66d11-e5b5-487b-b72c-5a00bf901c4c",
+    "browserHwid": null,
+    "username": "AFOO_96",
+    "userId": "10248219023",
+    "source": "script",
+    "createdAt": "2026-03-17T12:41:15.493Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "184.22.77.83",
+      "city": "Phuket",
+      "region": "Phuket",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
