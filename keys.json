@@ -12452,5 +12452,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-0CA07C-CF365A-DCBE29": {
+    "expires": "2026-03-18T09:43:14.403Z",
+    "hwid": "8452779335-18469C4F-7152-4E42-AAE9-D132C2DC2B21",
+    "browserHwid": null,
+    "username": "GIVEIFYOULOVEG0D",
+    "userId": "8452779335",
+    "source": "script",
+    "createdAt": "2026-03-17T09:43:14.731Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.207.208.168",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
