@@ -11870,5 +11870,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D222EF-8D195D-39EEBC": {
+    "expires": "2026-03-18T08:40:44.552Z",
+    "hwid": "10679969620-f35400fe-f437-4c18-bd6f-0c10679522c1",
+    "browserHwid": null,
+    "username": "two_wayf",
+    "userId": "10679969620",
+    "source": "script",
+    "createdAt": "2026-03-17T08:40:44.814Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "84.32.176.80",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
