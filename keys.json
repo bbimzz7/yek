@@ -10020,5 +10020,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-1D15D4-61F1A0-C97367": {
+    "expires": "2026-03-18T01:28:06.692Z",
+    "hwid": "593228948-ca56ff38-62e0-46c4-859e-24ea77f6ac47",
+    "browserHwid": null,
+    "username": "TFBIN",
+    "userId": "593228948",
+    "source": "script",
+    "createdAt": "2026-03-17T01:28:07.045Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.254.58.190",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
