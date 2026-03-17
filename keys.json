@@ -8472,5 +8472,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-FFE818-96F6A7-27D142": {
+    "expires": "2026-03-18T23:58:15.044Z",
+    "hwid": "379720347-03abdbf1-0053-4e01-bb2a-95220833e14a",
+    "browserHwid": null,
+    "username": "GamerEnjoyRoblox",
+    "userId": "379720347",
+    "source": "script",
+    "createdAt": "2026-03-17T23:58:15.264Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.184.16.208",
+      "city": "Kahuripan",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
