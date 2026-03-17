@@ -14696,5 +14696,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-26EBC2-C57298-33D754": {
+    "expires": "2026-03-18T15:14:33.727Z",
+    "hwid": "1854028152-e996638a-935b-4b5f-a9a5-7ecd907e1a35",
+    "browserHwid": null,
+    "username": "Agaimoil",
+    "userId": "1854028152",
+    "source": "script",
+    "createdAt": "2026-03-17T15:14:34.041Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.45.80.199",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
