@@ -14657,8 +14657,15 @@
     "userId": "8550498006",
     "source": "script",
     "createdAt": "2026-03-17T15:11:03.912Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T15:14:10.167Z",
     "geo": {
+      "ip": "115.164.179.143",
+      "city": "Petaling Jaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "115.164.179.143",
       "city": "Petaling Jaya",
       "region": "Selangor",
