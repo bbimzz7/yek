@@ -13381,8 +13381,15 @@
     "userId": "8977430948",
     "source": "script",
     "createdAt": "2026-03-17T12:06:28.282Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T12:06:35.846Z",
     "geo": {
+      "ip": "165.101.231.124",
+      "city": "Arjawinangun",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "165.101.231.124",
       "city": "Arjawinangun",
       "region": "West Java",
