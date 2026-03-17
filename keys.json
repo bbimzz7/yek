@@ -12868,5 +12868,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-448EAC-1FA248-8A5B6B": {
+    "expires": "2026-03-18T10:55:19.627Z",
+    "hwid": "8148117599-5c841f7b-d464-4ea8-b81b-a926a1517fc1",
+    "browserHwid": null,
+    "username": "KhanhXyuga",
+    "userId": "8148117599",
+    "source": "script",
+    "createdAt": "2026-03-17T10:55:19.941Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.243.61.208",
+      "city": "Vũng Tàu",
+      "region": "Bà Rịa–Vũng Tàu Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
