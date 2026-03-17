@@ -10101,8 +10101,15 @@
     "userId": "6206167918",
     "source": "script",
     "createdAt": "2026-03-17T01:44:14.187Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T01:45:47.367Z",
     "geo": {
+      "ip": "138.59.127.126",
+      "city": "Campo Grande",
+      "region": "Mato Grosso do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "138.59.127.126",
       "city": "Campo Grande",
       "region": "Mato Grosso do Sul",
