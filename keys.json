@@ -14085,5 +14085,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-25DC90-F4E426-9E0E5C": {
+    "expires": "2026-03-18T14:08:32.602Z",
+    "hwid": "5144217280-5e66bf05-7ef3-4823-8d4d-c536e2da395a",
+    "browserHwid": null,
+    "username": "Afz_Leana",
+    "userId": "5144217280",
+    "source": "script",
+    "createdAt": "2026-03-17T14:08:32.948Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.169.136",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
