@@ -14254,5 +14254,22 @@
       "country": "Pakistan",
       "cc": "PK"
     }
+  },
+  "VH-FBA320-3678C4-CB636A": {
+    "expires": "2026-03-18T14:30:55.995Z",
+    "hwid": "3465162971-dc9c824e-1619-478f-8bd5-a9f0f4c33e0a",
+    "browserHwid": null,
+    "username": "mr_roblox123117",
+    "userId": "3465162971",
+    "source": "script",
+    "createdAt": "2026-03-17T14:30:56.334Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.183.50",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
