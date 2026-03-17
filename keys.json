@@ -17721,8 +17721,15 @@
     "userId": "7992898389",
     "source": "script",
     "createdAt": "2026-03-17T22:47:26.791Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T22:48:07.497Z",
     "geo": {
+      "ip": "187.188.42.186",
+      "city": "Mexicali",
+      "region": "Baja California",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.188.42.186",
       "city": "Mexicali",
       "region": "Baja California",
