@@ -16020,5 +16020,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-8831F8-3279CD-9F8473": {
+    "expires": "2026-03-18T18:02:09.371Z",
+    "hwid": "4623614334-20eebd2c-2bde-46a9-af71-14b7ba5ca4e5",
+    "browserHwid": null,
+    "username": "MIKE1mbi",
+    "userId": "4623614334",
+    "source": "script",
+    "createdAt": "2026-03-17T18:02:09.734Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.121.200.50",
+      "city": "Rio Bonito",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
