@@ -12877,8 +12877,15 @@
     "userId": "8148117599",
     "source": "script",
     "createdAt": "2026-03-17T10:55:19.941Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T10:56:25.987Z",
     "geo": {
+      "ip": "171.243.61.208",
+      "city": "Vũng Tàu",
+      "region": "Bà Rịa–Vũng Tàu Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "171.243.61.208",
       "city": "Vũng Tàu",
       "region": "Bà Rịa–Vũng Tàu Province",
