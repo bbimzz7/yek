@@ -12444,8 +12444,15 @@
     "userId": "6083483026",
     "source": "script",
     "createdAt": "2026-03-17T09:41:26.829Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T09:43:36.235Z",
     "geo": {
+      "ip": "14.178.216.173",
+      "city": "Thị Trấn Quảng Uyên",
+      "region": "Cao Bằng Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "14.178.216.173",
       "city": "Thị Trấn Quảng Uyên",
       "region": "Cao Bằng Province",
