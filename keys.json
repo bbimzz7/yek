@@ -15025,5 +15025,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-E23416-30DC7F-785347": {
+    "expires": "2026-03-18T15:54:51.823Z",
+    "hwid": "9665502207-e75dcb0b-62df-4982-b003-01bf75fe88b1",
+    "browserHwid": null,
+    "username": "eumysnaf",
+    "userId": "9665502207",
+    "source": "script",
+    "createdAt": "2026-03-17T15:54:52.144Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.109.113.114",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    }
   }
 }
