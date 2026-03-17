@@ -10711,8 +10711,15 @@
     "userId": "10487242758",
     "source": "script",
     "createdAt": "2026-03-17T03:57:18.417Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T03:57:55.154Z",
     "geo": {
+      "ip": "103.254.104.14",
+      "city": "Surabaya",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.254.104.14",
       "city": "Surabaya",
       "region": "Lampung",
