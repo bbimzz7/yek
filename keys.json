@@ -9773,5 +9773,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-B76D1F-353BBB-3F4939": {
+    "expires": "2026-03-18T00:18:49.506Z",
+    "hwid": "10020074273-17d232f1-32f1-4572-a995-471aa803da71",
+    "browserHwid": null,
+    "username": "goku_986553",
+    "userId": "10020074273",
+    "source": "script",
+    "createdAt": "2026-03-17T00:18:49.693Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.100.65.197",
+      "city": "Guayaquil",
+      "region": "Guayas",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
