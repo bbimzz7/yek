@@ -12435,5 +12435,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-6C4C18-CDA7F4-709247": {
+    "expires": "2026-03-18T09:41:26.536Z",
+    "hwid": "6083483026-ad470984-0a09-4b3b-bb65-0c0417afdd26",
+    "browserHwid": null,
+    "username": "chippxinhh210613",
+    "userId": "6083483026",
+    "source": "script",
+    "createdAt": "2026-03-17T09:41:26.829Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.178.216.173",
+      "city": "Thị Trấn Quảng Uyên",
+      "region": "Cao Bằng Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
