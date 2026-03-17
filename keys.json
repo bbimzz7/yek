@@ -16998,5 +16998,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-09ED63-FCD6A2-9A3A93": {
+    "expires": "2026-03-18T20:25:04.316Z",
+    "hwid": "9264582231-20a5bf9d-af90-4e81-986a-1a355454d5de",
+    "browserHwid": null,
+    "username": "N0ah_XER02021",
+    "userId": "9264582231",
+    "source": "script",
+    "createdAt": "2026-03-17T20:25:04.866Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.255.169.14",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
