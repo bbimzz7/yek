@@ -16492,8 +16492,15 @@
     "userId": "3273820646",
     "source": "script",
     "createdAt": "2026-03-17T19:11:55.004Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T19:12:00.325Z",
     "geo": {
+      "ip": "89.188.178.222",
+      "city": "Fryazino",
+      "region": "Moscow Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "89.188.178.222",
       "city": "Fryazino",
       "region": "Moscow Oblast",
