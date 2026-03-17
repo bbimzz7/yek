@@ -11418,8 +11418,15 @@
     "userId": "8911607085",
     "source": "script",
     "createdAt": "2026-03-17T07:21:15.100Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T07:21:21.420Z",
     "geo": {
+      "ip": "103.240.68.37",
+      "city": "Lubuk Pakam",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.240.68.37",
       "city": "Lubuk Pakam",
       "region": "North Sumatra",
