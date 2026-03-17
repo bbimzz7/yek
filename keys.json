@@ -11571,5 +11571,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BAAFAB-867B86-82F1C9": {
+    "expires": "2026-03-18T07:51:33.452Z",
+    "hwid": "10684237899-c6f7e319-f04d-4189-8416-080d6edc5ec2",
+    "browserHwid": null,
+    "username": "mimicyucu4",
+    "userId": "10684237899",
+    "source": "script",
+    "createdAt": "2026-03-17T07:51:33.686Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.179.248.74",
+      "city": "Kabanjahe",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
