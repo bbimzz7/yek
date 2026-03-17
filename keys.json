@@ -17832,5 +17832,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-3823F9-C8FC59-46195B": {
+    "expires": "2026-03-18T23:11:23.164Z",
+    "hwid": "7742167765-5fe12443-5900-4084-9e6b-6ef82580fe38",
+    "browserHwid": null,
+    "username": "ifor_indraaa",
+    "userId": "7742167765",
+    "source": "script",
+    "createdAt": "2026-03-17T23:11:23.659Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.11.89",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
