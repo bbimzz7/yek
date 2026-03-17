@@ -16339,5 +16339,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-67CB46-A4858F-376995": {
+    "expires": "2026-03-18T18:48:53.381Z",
+    "hwid": "8880744259-23b1c348-581f-488a-afe3-ad5e24bbc583",
+    "browserHwid": null,
+    "username": "Adian07150",
+    "userId": "8880744259",
+    "source": "script",
+    "createdAt": "2026-03-17T18:48:53.925Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.28.40.30",
+      "city": "Dallas",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
