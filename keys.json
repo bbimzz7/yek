@@ -17351,5 +17351,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-9FD3A3-F4EE87-1C4DC6": {
+    "expires": "2026-03-18T21:27:22.797Z",
+    "hwid": "9174937274-1500864d-65d5-4230-9ee9-59e31f660e54",
+    "browserHwid": null,
+    "username": "Luk4ssLV",
+    "userId": "9174937274",
+    "source": "script",
+    "createdAt": "2026-03-17T21:27:23.175Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.62.63.194",
+      "city": "Ushuaia",
+      "region": "Tierra del Fuego",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
