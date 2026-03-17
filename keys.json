@@ -13974,8 +13974,15 @@
     "userId": "3417082914",
     "source": "script",
     "createdAt": "2026-03-17T13:48:07.007Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T13:48:51.056Z",
     "geo": {
+      "ip": "180.195.50.96",
+      "city": "Bacoor",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "180.195.50.96",
       "city": "Bacoor",
       "region": "Calabarzon",
