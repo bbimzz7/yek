@@ -12708,8 +12708,15 @@
     "userId": "8924676530",
     "source": "script",
     "createdAt": "2026-03-17T10:29:06.901Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T10:29:15.837Z",
     "geo": {
+      "ip": "182.10.129.225",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.10.129.225",
       "city": "Bandung",
       "region": "West Java",
