@@ -15242,5 +15242,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-A50882-106138-845A52": {
+    "expires": "2026-03-18T16:15:14.616Z",
+    "hwid": "10685760433-7da941cf-d247-4c60-a670-b6c8ab6a8033",
+    "browserHwid": null,
+    "username": "Fydhdghdgd",
+    "userId": "10685760433",
+    "source": "script",
+    "createdAt": "2026-03-17T16:15:14.974Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.63.87",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
