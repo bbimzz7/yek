@@ -15482,5 +15482,22 @@
       "country": "Nepal",
       "cc": "NP"
     }
+  },
+  "VH-8D4C14-769E7E-701328": {
+    "expires": "2026-03-18T16:27:47.020Z",
+    "hwid": "7094051372-b51f778e-04a8-4e35-a5ec-e8a64fcac2b6",
+    "browserHwid": null,
+    "username": "Elitieng",
+    "userId": "7094051372",
+    "source": "script",
+    "createdAt": "2026-03-17T16:27:47.285Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.243.31.59",
+      "city": "Essen",
+      "region": "North Rhine-Westphalia",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
