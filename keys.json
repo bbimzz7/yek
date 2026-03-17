@@ -12651,5 +12651,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-010348-133AD3-8981D2": {
+    "expires": "2026-03-18T10:17:55.148Z",
+    "hwid": "607782347-1CAD77E1-071B-45A2-AEA5-87F18E21F48B",
+    "browserHwid": null,
+    "username": "newcoupe",
+    "userId": "607782347",
+    "source": "script",
+    "createdAt": "2026-03-17T10:17:55.425Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "184.22.209.199",
+      "city": "Ubon Ratchathani",
+      "region": "Ubon Ratchathani",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
