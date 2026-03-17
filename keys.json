@@ -16710,5 +16710,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-441572-368D23-D924CE": {
+    "expires": "2026-03-18T19:41:40.715Z",
+    "hwid": "8646173456-531008B5-72DB-473E-A399-3CB63F55C9B6",
+    "browserHwid": null,
+    "username": "Luxarion_01K",
+    "userId": "8646173456",
+    "source": "script",
+    "createdAt": "2026-03-17T19:41:41.029Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.56.112.35",
+      "city": "Monza",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
