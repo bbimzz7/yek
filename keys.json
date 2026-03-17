@@ -17031,8 +17031,15 @@
     "userId": "2544474248",
     "source": "script",
     "createdAt": "2026-03-17T20:31:01.278Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T20:32:06.559Z",
     "geo": {
+      "ip": "45.179.103.13",
+      "city": "Canapi",
+      "region": "Alagoas",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.179.103.13",
       "city": "Canapi",
       "region": "Alagoas",
