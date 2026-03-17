@@ -17214,5 +17214,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-EF1D55-3AAE4E-FE8110": {
+    "expires": "2026-03-18T20:54:50.263Z",
+    "hwid": "9473021925-a27752a5-c343-44f3-b2b1-384c1d52984c",
+    "browserHwid": null,
+    "username": "tobau91",
+    "userId": "9473021925",
+    "source": "script",
+    "createdAt": "2026-03-17T20:54:50.534Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.80.196.205",
+      "city": "Manokwari",
+      "region": "West Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
