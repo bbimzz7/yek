@@ -16029,8 +16029,15 @@
     "userId": "4623614334",
     "source": "script",
     "createdAt": "2026-03-17T18:02:09.734Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T18:03:21.883Z",
     "geo": {
+      "ip": "168.121.200.50",
+      "city": "Rio Bonito",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "168.121.200.50",
       "city": "Rio Bonito",
       "region": "Rio de Janeiro",
