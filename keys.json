@@ -13180,5 +13180,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FAB349-B9729C-77C8D1": {
+    "expires": "2026-03-18T11:31:25.155Z",
+    "hwid": "8501835868-f5965bec-2b45-47f9-a4b3-dcd258c97d4a",
+    "browserHwid": null,
+    "username": "akosiboycalamansi",
+    "userId": "8501835868",
+    "source": "script",
+    "createdAt": "2026-03-17T11:31:25.612Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.149.37.91",
+      "city": "Imus",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
