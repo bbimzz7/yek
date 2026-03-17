@@ -16580,5 +16580,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-55F927-04CAF6-D08B4A": {
+    "expires": "2026-03-18T19:30:37.918Z",
+    "hwid": "8612535719-c2a68c64-5cbf-4fda-b91e-69cca2ea1049",
+    "browserHwid": null,
+    "username": "shxyka_1",
+    "userId": "8612535719",
+    "source": "script",
+    "createdAt": "2026-03-17T19:30:38.244Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.172.42.91",
+      "city": "Karawang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
