@@ -12461,8 +12461,15 @@
     "userId": "8452779335",
     "source": "script",
     "createdAt": "2026-03-17T09:43:14.731Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T09:43:22.820Z",
     "geo": {
+      "ip": "112.207.208.168",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.207.208.168",
       "city": "Makati City",
       "region": "Metro Manila",
