@@ -11532,8 +11532,15 @@
     "userId": "7454039417",
     "source": "script",
     "createdAt": "2026-03-17T07:44:06.749Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T07:44:16.542Z",
     "geo": {
+      "ip": "27.125.243.137",
+      "city": "Bukit Gemuroh",
+      "region": "Penang",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "27.125.243.137",
       "city": "Bukit Gemuroh",
       "region": "Penang",
