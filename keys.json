@@ -14311,8 +14311,15 @@
     "userId": "9440437529",
     "source": "script",
     "createdAt": "2026-03-17T14:33:47.037Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T14:33:53.849Z",
     "geo": {
+      "ip": "183.171.102.142",
+      "city": "Pasir Gudang",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "183.171.102.142",
       "city": "Pasir Gudang",
       "region": "Johor",
