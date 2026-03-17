@@ -12572,5 +12572,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-3B4EB3-31B7A3-745777": {
+    "expires": "2026-03-18T10:07:17.018Z",
+    "hwid": "10112785050-c18dbc08-1ccb-4fe4-90f3-3a54830dee95",
+    "browserHwid": null,
+    "username": "RAFA212444",
+    "userId": "10112785050",
+    "source": "script",
+    "createdAt": "2026-03-17T10:07:17.353Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.69.167.204",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
