@@ -12764,5 +12764,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-A0312E-8A2929-B755A2": {
+    "expires": "2026-03-18T10:44:41.780Z",
+    "hwid": "7155180929-8ebd1fe0-d77b-4e3a-a9a4-5780a6f18879",
+    "browserHwid": null,
+    "username": "gojo_perple500",
+    "userId": "7155180929",
+    "source": "script",
+    "createdAt": "2026-03-17T10:44:42.229Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.201.163.157",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
