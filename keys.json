@@ -10774,5 +10774,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-1E3549-298446-752756": {
+    "expires": "2026-03-18T04:16:59.608Z",
+    "hwid": "8138844915-9cad5d34-2d68-4d4b-8454-068851768ef4",
+    "browserHwid": null,
+    "username": "Better_cookies1",
+    "userId": "8138844915",
+    "source": "script",
+    "createdAt": "2026-03-17T04:16:59.987Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.158.184.187",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
