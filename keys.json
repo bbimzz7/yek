@@ -10726,5 +10726,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E7BB3B-FEB5F0-3BF38E": {
+    "expires": "2026-03-18T04:08:33.119Z",
+    "hwid": "8314481541-6788d8f7-4817-4aef-9d75-5ec533e9828a",
+    "browserHwid": null,
+    "username": "ACENNIX_OFICIAL",
+    "userId": "8314481541",
+    "source": "script",
+    "createdAt": "2026-03-17T04:08:33.463Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.157.238.84",
+      "city": "Ciudad Valles",
+      "region": "San Luis Potosí",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
