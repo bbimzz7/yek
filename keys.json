@@ -11976,7 +11976,7 @@
     "userId": "1441175997",
     "source": "script",
     "createdAt": "2026-03-17T08:58:29.046Z",
-    "lastUsed": "2026-03-17T08:59:11.483Z",
+    "lastUsed": "2026-03-17T19:37:12.008Z",
     "geo": {
       "ip": "188.246.249.33",
       "city": "Almaty",
@@ -11985,9 +11985,9 @@
       "cc": "KZ"
     },
     "lastGeo": {
-      "ip": "188.246.249.33",
-      "city": "Almaty",
-      "region": "Almaty",
+      "ip": "95.182.106.37",
+      "city": "Taldykorgan",
+      "region": "Jetisu Region",
       "country": "Kazakhstan",
       "cc": "KZ"
     }
