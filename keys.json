@@ -11734,8 +11734,15 @@
     "userId": "7197418519",
     "source": "script",
     "createdAt": "2026-03-17T08:24:58.729Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T08:25:09.669Z",
     "geo": {
+      "ip": "154.246.166.202",
+      "city": "Râs el Oued",
+      "region": "Bordj Bou Arréridj",
+      "country": "Algeria",
+      "cc": "DZ"
+    },
+    "lastGeo": {
       "ip": "154.246.166.202",
       "city": "Râs el Oued",
       "region": "Bordj Bou Arréridj",
