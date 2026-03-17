@@ -14061,5 +14061,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-8FC579-79BA24-BD6715": {
+    "expires": "2026-03-18T14:05:05.277Z",
+    "hwid": "5649041907-a6d1881c-70fe-412e-a055-c95240b2cd9f",
+    "browserHwid": null,
+    "username": "miumiu_45633",
+    "userId": "5649041907",
+    "source": "script",
+    "createdAt": "2026-03-17T14:05:05.651Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.58.73.125",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
