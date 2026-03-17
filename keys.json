@@ -14223,5 +14223,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-29F08E-CB71CA-3F897A": {
+    "expires": "2026-03-18T14:28:11.296Z",
+    "hwid": "9943454449-4398fb90-050e-40f3-b94f-03f99d4b9f01",
+    "browserHwid": null,
+    "username": "Mrdiamond67r150",
+    "userId": "9943454449",
+    "source": "script",
+    "createdAt": "2026-03-17T14:28:11.712Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "59.103.216.147",
+      "city": "Lahore",
+      "region": "Punjab",
+      "country": "Pakistan",
+      "cc": "PK"
+    }
   }
 }
