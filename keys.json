@@ -9710,8 +9710,15 @@
     "userId": "5318226262",
     "source": "script",
     "createdAt": "2026-03-17T00:11:07.949Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T00:11:50.714Z",
     "geo": {
+      "ip": "180.241.28.122",
+      "city": "Tarakan",
+      "region": "North Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.241.28.122",
       "city": "Tarakan",
       "region": "North Kalimantan",
