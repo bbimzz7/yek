@@ -10960,5 +10960,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4FB9E0-CF9F8D-4E12FB": {
+    "expires": "2026-03-18T05:43:14.185Z",
+    "hwid": "3926735117-46505797-6987-4605-B9DC-331483435C18",
+    "browserHwid": null,
+    "username": "quangkien1238",
+    "userId": "3926735117",
+    "source": "script",
+    "createdAt": "2026-03-17T05:43:14.577Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.243.52.138",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
