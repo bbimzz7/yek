@@ -16219,5 +16219,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AE0D11-C3E9F9-1E7854": {
+    "expires": "2026-03-18T18:22:51.069Z",
+    "hwid": "9779786574-6d678d6e-518d-4211-bed2-8742658eb8df",
+    "browserHwid": null,
+    "username": "Nvvaaqt",
+    "userId": "9779786574",
+    "source": "script",
+    "createdAt": "2026-03-17T18:22:51.399Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.69.106.122",
+      "city": "Serang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
