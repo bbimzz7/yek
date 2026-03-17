@@ -9886,5 +9886,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-95DC9F-83D225-BFB9F6": {
+    "expires": "2026-03-18T00:46:00.014Z",
+    "hwid": "8548821648-8548c7c9-a124-46ee-ad4c-d4eeb1b2c8bb",
+    "browserHwid": null,
+    "username": "RIP_Turzxx",
+    "userId": "8548821648",
+    "source": "script",
+    "createdAt": "2026-03-17T00:46:00.480Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.25.197.123",
+      "city": "Blora",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
