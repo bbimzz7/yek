@@ -14960,5 +14960,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-8DADF5-C64208-B19932": {
+    "expires": "2026-03-18T15:44:12.272Z",
+    "hwid": "3474304962-623118A1-8C34-4D17-BD81-10EA3E55D7B9",
+    "browserHwid": null,
+    "username": "Silverdog2022",
+    "userId": "3474304962",
+    "source": "script",
+    "createdAt": "2026-03-17T15:44:12.684Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "82.115.47.196",
+      "city": "Shymkent",
+      "region": "Shymkent",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
