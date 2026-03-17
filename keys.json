@@ -15218,5 +15218,22 @@
       "country": "Belarus",
       "cc": "BY"
     }
+  },
+  "VH-50E8DF-D392FF-DB3082": {
+    "expires": "2026-03-18T16:10:29.905Z",
+    "hwid": "7557809051-0376ccff-65d0-40ab-93ef-9030c078ffee",
+    "browserHwid": null,
+    "username": "gogitata50",
+    "userId": "7557809051",
+    "source": "script",
+    "createdAt": "2026-03-17T16:10:30.203Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.216.181.188",
+      "city": "Gustavo Adolfo Madero",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
