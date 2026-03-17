@@ -15170,5 +15170,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-3BE38F-B3BF4E-010DB3": {
+    "expires": "2026-03-18T16:04:25.085Z",
+    "hwid": "5110795238-6bbff18d-c126-4812-b734-688b319ec05c",
+    "browserHwid": null,
+    "username": "sofi12346300",
+    "userId": "5110795238",
+    "source": "script",
+    "createdAt": "2026-03-17T16:04:25.415Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.78.28.5",
+      "city": "Bogotá",
+      "region": "Bogota D.C.",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
