@@ -16116,5 +16116,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-147963-CB0347-12E7A1": {
+    "expires": "2026-03-18T18:08:21.363Z",
+    "hwid": "10685856456-114dbf21-000c-4baf-b90b-41520dd05b1a",
+    "browserHwid": null,
+    "username": "Gibals_445",
+    "userId": "10685856456",
+    "source": "script",
+    "createdAt": "2026-03-17T18:08:21.690Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "174.220.46.157",
+      "city": "Souderton",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
