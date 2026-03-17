@@ -13348,5 +13348,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-1CEE5C-FCFC06-00013A": {
+    "expires": "2026-03-18T11:59:45.103Z",
+    "hwid": "753522780-a01696eb-52c7-4178-9c50-c5a71eee2a86",
+    "browserHwid": null,
+    "username": "imam_6",
+    "userId": "753522780",
+    "source": "script",
+    "createdAt": "2026-03-17T11:59:45.342Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.168.225",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
