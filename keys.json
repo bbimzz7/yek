@@ -9869,5 +9869,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2A1B84-F0D253-71103B": {
+    "expires": "2026-03-18T00:44:37.825Z",
+    "hwid": "4889831922-04abdc15-03a1-4ce4-9e1b-fe102dac5914",
+    "browserHwid": null,
+    "username": "ZEKEN64",
+    "userId": "4889831922",
+    "source": "script",
+    "createdAt": "2026-03-17T00:44:38.184Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.164.94.44",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
