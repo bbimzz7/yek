@@ -14945,8 +14945,15 @@
     "userId": "4965071115",
     "source": "script",
     "createdAt": "2026-03-17T15:42:08.750Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T15:42:17.524Z",
     "geo": {
+      "ip": "180.73.188.94",
+      "city": "Sungai Buloh",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "180.73.188.94",
       "city": "Sungai Buloh",
       "region": "Selangor",
