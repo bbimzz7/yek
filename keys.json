@@ -12798,14 +12798,22 @@
   },
   "VH-1DD83C-78C9A1-43B7E4": {
     "expires": "2026-03-18T10:51:36.213Z",
-    "hwid": null,
+    "hwid": "10684622040-78cb8055-0881-4902-bb49-8208c5a0ef2e",
     "browserHwid": "BR-6FCE0349-WKTJI",
-    "username": "Justnoob_490",
-    "userId": null,
+    "username": "justnoob_490",
+    "userId": "10684622040",
     "source": "browser",
     "createdAt": "2026-03-17T10:51:36.734Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T10:53:49.475Z",
     "geo": {
+      "ip": "180.191.74.194",
+      "city": "Taguig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "boundAt": "2026-03-17T10:53:49.469Z",
+    "lastGeo": {
       "ip": "180.191.74.194",
       "city": "Taguig",
       "region": "Metro Manila",
