@@ -12660,8 +12660,15 @@
     "userId": "607782347",
     "source": "script",
     "createdAt": "2026-03-17T10:17:55.425Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T10:18:01.873Z",
     "geo": {
+      "ip": "184.22.209.199",
+      "city": "Ubon Ratchathani",
+      "region": "Ubon Ratchathani",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "184.22.209.199",
       "city": "Ubon Ratchathani",
       "region": "Ubon Ratchathani",
