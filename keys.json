@@ -16411,5 +16411,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-8B0F33-D35F90-E21AF4": {
+    "expires": "2026-03-18T18:55:20.061Z",
+    "hwid": "5537655201-70ee1d6f-1613-4424-af1f-d6d5a6fc249b",
+    "browserHwid": null,
+    "username": "mahperi29",
+    "userId": "5537655201",
+    "source": "script",
+    "createdAt": "2026-03-17T18:55:20.699Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "149.88.27.158",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
+    }
   }
 }
