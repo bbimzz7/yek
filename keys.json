@@ -8433,8 +8433,15 @@
     "userId": "5031541614",
     "source": "script",
     "createdAt": "2026-03-17T23:55:22.453Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T23:55:28.241Z",
     "geo": {
+      "ip": "98.217.39.236",
+      "city": "Methuen",
+      "region": "Massachusetts",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "98.217.39.236",
       "city": "Methuen",
       "region": "Massachusetts",
