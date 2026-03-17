@@ -15868,8 +15868,15 @@
     "userId": "9878290792",
     "source": "script",
     "createdAt": "2026-03-17T17:25:35.548Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T17:27:14.950Z",
     "geo": {
+      "ip": "185.181.51.65",
+      "city": "Donduşeni",
+      "region": "Donduşeni",
+      "country": "Moldova",
+      "cc": "MD"
+    },
+    "lastGeo": {
       "ip": "185.181.51.65",
       "city": "Donduşeni",
       "region": "Donduşeni",
