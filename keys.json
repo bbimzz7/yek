@@ -10503,5 +10503,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-7F2471-6AAC61-A5B8D2": {
+    "expires": "2026-03-18T03:30:33.520Z",
+    "hwid": "9455284393-7d39cae4-38e2-4d1f-bc88-749826b8e978",
+    "browserHwid": null,
+    "username": "kadun_17",
+    "userId": "9455284393",
+    "source": "script",
+    "createdAt": "2026-03-17T03:30:33.864Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.159.96.171",
+      "city": "Kertosono",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
