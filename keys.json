@@ -14158,5 +14158,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F82830-398DAE-D7288B": {
+    "expires": "2026-03-18T14:16:55.672Z",
+    "hwid": "6224818547-2e779c93-ba2e-402d-b524-65129beea5e0",
+    "browserHwid": null,
+    "username": "Goth_zyxv2",
+    "userId": "6224818547",
+    "source": "script",
+    "createdAt": "2026-03-17T14:16:56.225Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.46.155.75",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
