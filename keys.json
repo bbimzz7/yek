@@ -11523,5 +11523,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2E356B-623B6C-DF469D": {
+    "expires": "2026-03-18T07:44:06.521Z",
+    "hwid": "7454039417-ac59012c-01af-4796-ba2c-d0493b151cef",
+    "browserHwid": null,
+    "username": "BlueberryCool144",
+    "userId": "7454039417",
+    "source": "script",
+    "createdAt": "2026-03-17T07:44:06.749Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.243.137",
+      "city": "Bukit Gemuroh",
+      "region": "Penang",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
