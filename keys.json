@@ -14432,5 +14432,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-948D03-95797B-F5C2C8": {
+    "expires": "2026-03-18T14:43:08.245Z",
+    "hwid": null,
+    "browserHwid": "BR-4B9973EA-NZ9N2",
+    "username": "SkyVortex",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-17T14:43:08.537Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.178.234.123",
+      "city": "Guarulhos",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
