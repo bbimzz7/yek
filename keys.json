@@ -10735,8 +10735,15 @@
     "userId": "8314481541",
     "source": "script",
     "createdAt": "2026-03-17T04:08:33.463Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T04:09:28.208Z",
     "geo": {
+      "ip": "189.157.238.84",
+      "city": "Ciudad Valles",
+      "region": "San Luis Potosí",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.157.238.84",
       "city": "Ciudad Valles",
       "region": "San Luis Potosí",
