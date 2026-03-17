@@ -13821,5 +13821,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-94F590-D8F756-17E6AC": {
+    "expires": "2026-03-18T13:32:42.469Z",
+    "hwid": "10263541889-3015bc31-6d47-4fad-868b-cb6c0ac064b9",
+    "browserHwid": null,
+    "username": "delta91773",
+    "userId": "10263541889",
+    "source": "script",
+    "createdAt": "2026-03-17T13:32:42.976Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.188.35.234",
+      "city": "Santa Teresa del Tuy",
+      "region": "Miranda",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
