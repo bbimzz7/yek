@@ -13629,5 +13629,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-DC8C30-F8043E-ACC210": {
+    "expires": "2026-03-18T12:59:45.784Z",
+    "hwid": "3275499803-750AA1C5-64D8-4F4A-9072-516AD7F8E08C",
+    "browserHwid": null,
+    "username": "juxnadlx",
+    "userId": "3275499803",
+    "source": "script",
+    "createdAt": "2026-03-17T12:59:46.310Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "145.53.81.148",
+      "city": "Rijswijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
