@@ -14374,5 +14374,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-9B76E7-1D9A10-575211": {
+    "expires": "2026-03-18T14:41:21.937Z",
+    "hwid": "9588239379-8376977b-d65a-41e4-9ae6-9ebc8026f891",
+    "browserHwid": null,
+    "username": "gatau_namasendiri91",
+    "userId": "9588239379",
+    "source": "script",
+    "createdAt": "2026-03-17T14:41:22.189Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.217.217.202",
+      "city": "Cileungsir",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
