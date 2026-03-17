@@ -10157,5 +10157,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-CDDE87-453D9D-8F6759": {
+    "expires": "2026-03-18T01:48:21.891Z",
+    "hwid": "2595034611-01F3C739-A261-462A-AF00-E01435410AC3",
+    "browserHwid": null,
+    "username": "KatyaUWU123456",
+    "userId": "2595034611",
+    "source": "script",
+    "createdAt": "2026-03-17T01:48:22.066Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.32.73.236",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
