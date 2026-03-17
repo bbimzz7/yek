@@ -16822,8 +16822,15 @@
     "userId": "9333936035",
     "source": "script",
     "createdAt": "2026-03-17T19:50:46.111Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T19:50:59.887Z",
     "geo": {
+      "ip": "49.149.129.228",
+      "city": "Naga",
+      "region": "Bicol Region",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "49.149.129.228",
       "city": "Naga",
       "region": "Bicol Region",
