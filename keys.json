@@ -17127,8 +17127,15 @@
     "userId": "8135977713",
     "source": "script",
     "createdAt": "2026-03-17T20:44:12.507Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-17T20:44:23.886Z",
     "geo": {
+      "ip": "176.64.9.46",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "176.64.9.46",
       "city": "Almaty",
       "region": "Almaty",
