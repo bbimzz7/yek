@@ -13965,5 +13965,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-ABF3D3-D98D82-45D98A": {
+    "expires": "2026-03-18T13:48:06.396Z",
+    "hwid": "3417082914-fa4c5045-17e6-4c04-b744-41af3b2f5007",
+    "browserHwid": null,
+    "username": "jhejhe_1223",
+    "userId": "3417082914",
+    "source": "script",
+    "createdAt": "2026-03-17T13:48:07.007Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.195.50.96",
+      "city": "Bacoor",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
