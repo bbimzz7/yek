@@ -11063,5 +11063,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E04B76-1BC8CF-463041": {
+    "expires": "2026-03-18T05:59:30.257Z",
+    "hwid": "348926888-e785bcae-a996-40b3-8f3f-30e3ba5d4cbb",
+    "browserHwid": null,
+    "username": "ajimaestro05",
+    "userId": "348926888",
+    "source": "script",
+    "createdAt": "2026-03-17T05:59:30.455Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.227.143.88",
+      "city": "Bukit Tinggi",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
