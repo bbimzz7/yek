@@ -17094,5 +17094,22 @@
       "country": "Azerbaijan",
       "cc": "AZ"
     }
+  },
+  "VH-B765B6-E30FA4-034E60": {
+    "expires": "2026-03-18T20:39:54.815Z",
+    "hwid": "3072931826-091f5878-6389-4ee6-9709-3902f24cd6cf",
+    "browserHwid": null,
+    "username": "xpinox7",
+    "userId": "3072931826",
+    "source": "script",
+    "createdAt": "2026-03-17T20:39:55.126Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.60.66.147",
+      "city": "Santiago",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
