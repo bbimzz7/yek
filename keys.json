@@ -12812,5 +12812,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E370DF-28D1F9-2F94AA": {
+    "expires": "2026-03-18T10:52:14.766Z",
+    "hwid": "5495299666-C5BEEF67-6057-4601-AB4C-6FA40C20E37E",
+    "browserHwid": null,
+    "username": "emclone100",
+    "userId": "5495299666",
+    "source": "script",
+    "createdAt": "2026-03-17T10:52:15.260Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "42.118.63.153",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
