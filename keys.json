@@ -8891,5 +8891,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-4E1EC1-45EDDD-0EA65C": {
+    "expires": "2026-03-19T01:02:50.381Z",
+    "hwid": "2236858906-125F1A57-22F6-45C4-99BE-B6B4C110E1FB",
+    "browserHwid": null,
+    "username": "IIIllIIIIIlllIIIIl",
+    "userId": "2236858906",
+    "source": "script",
+    "createdAt": "2026-03-18T01:02:50.599Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "81.141.66.134",
+      "city": "Stroud",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
