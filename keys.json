@@ -14713,5 +14713,22 @@
       "country": "Chile",
       "cc": "CL"
     }
+  },
+  "VH-39AF59-38AE39-82BC46": {
+    "expires": "2026-03-19T19:47:25.063Z",
+    "hwid": "5028531372-d781848a-38d8-4874-9285-200d53208cf9",
+    "browserHwid": null,
+    "username": "CAXPOK963",
+    "userId": "5028531372",
+    "source": "script",
+    "createdAt": "2026-03-18T19:47:25.552Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.120.54.22",
+      "city": "Brest",
+      "region": "Brest",
+      "country": "Belarus",
+      "cc": "BY"
+    }
   }
 }
