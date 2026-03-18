@@ -13535,7 +13535,7 @@
     "userId": "5442360729",
     "source": "script",
     "createdAt": "2026-03-18T15:26:38.980Z",
-    "lastUsed": "2026-03-18T16:41:52.016Z",
+    "lastUsed": "2026-03-18T19:08:58.079Z",
     "geo": {
       "ip": "149.102.239.228",
       "city": "Bucharest",
@@ -13544,11 +13544,11 @@
       "cc": "RO"
     },
     "lastGeo": {
-      "ip": "149.102.239.228",
-      "city": "Bucharest",
-      "region": "București",
-      "country": "Romania",
-      "cc": "RO"
+      "ip": "185.98.171.140",
+      "city": "Toronto",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
     }
   },
   "VH-8DD6A0-7C3A0F-1D5D40": {
