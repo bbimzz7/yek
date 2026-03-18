@@ -8544,5 +8544,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A3FD97-7FB669-750BF7": {
+    "expires": "2026-03-19T00:01:51.749Z",
+    "hwid": "5611423291-da9d721d-71f5-45ad-8c7d-61d83cbe1aba",
+    "browserHwid": null,
+    "username": "PhanTon_75061",
+    "userId": "5611423291",
+    "source": "script",
+    "createdAt": "2026-03-18T00:01:51.945Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.193.125.46",
+      "city": "Aparecida",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
