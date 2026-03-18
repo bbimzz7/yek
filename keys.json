@@ -9147,8 +9147,15 @@
     "userId": "9426366276",
     "source": "script",
     "createdAt": "2026-03-18T02:08:23.618Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T02:12:31.811Z",
     "geo": {
+      "ip": "187.246.3.72",
+      "city": "Toluca",
+      "region": "México",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.246.3.72",
       "city": "Toluca",
       "region": "México",
