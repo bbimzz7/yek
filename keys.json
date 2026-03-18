@@ -14170,14 +14170,22 @@
   },
   "VH-E0F046-609B9E-0600C5": {
     "expires": "2026-03-19T18:02:21.498Z",
-    "hwid": null,
+    "hwid": "10322526557-40811a44-65e6-44c9-b429-288076b953f6",
     "browserHwid": "BR-1AF5B27D-6SL4Y",
-    "username": "Chikengotbanned",
-    "userId": null,
+    "username": "chikengotbanned",
+    "userId": "10322526557",
     "source": "browser",
     "createdAt": "2026-03-18T18:02:21.824Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T18:02:58.402Z",
     "geo": {
+      "ip": "194.176.237.200",
+      "city": "Létavértes",
+      "region": "Hajdú-Bihar",
+      "country": "Hungary",
+      "cc": "HU"
+    },
+    "boundAt": "2026-03-18T18:02:58.394Z",
+    "lastGeo": {
       "ip": "194.176.237.200",
       "city": "Létavértes",
       "region": "Hajdú-Bihar",
