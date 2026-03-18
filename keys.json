@@ -15107,5 +15107,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-C5657F-33BB94-E46A2B": {
+    "expires": "2026-03-19T21:26:18.663Z",
+    "hwid": "8482471494-3725dcb0-2132-4931-b9d1-dbea88dacca0",
+    "browserHwid": null,
+    "username": "Isaiahdagoatkr3",
+    "userId": "8482471494",
+    "source": "script",
+    "createdAt": "2026-03-18T21:26:19.218Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.111.36.251",
+      "city": "Atlanta",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
