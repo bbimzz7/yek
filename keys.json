@@ -13862,5 +13862,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-99DD8F-275993-F8488B": {
+    "expires": "2026-03-19T16:25:51.419Z",
+    "hwid": "8707581631-56e39e0f-f85b-46bd-a32e-da2f1465fda1",
+    "browserHwid": null,
+    "username": "adamacan123",
+    "userId": "8707581631",
+    "source": "script",
+    "createdAt": "2026-03-18T16:25:51.717Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.166.212.254",
+      "city": "Samarinda",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
