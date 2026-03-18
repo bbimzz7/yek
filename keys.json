@@ -13910,5 +13910,22 @@
       "country": "Australia",
       "cc": "AU"
     }
+  },
+  "VH-D972FA-968964-D5AEA7": {
+    "expires": "2026-03-19T16:48:27.635Z",
+    "hwid": "5739633405-a8498217-95ca-4906-8324-3f58b70071e7",
+    "browserHwid": null,
+    "username": "Andria2014s",
+    "userId": "5739633405",
+    "source": "script",
+    "createdAt": "2026-03-18T16:48:28.113Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.58.114.204",
+      "city": "Batumi",
+      "region": "Adjara",
+      "country": "Georgia",
+      "cc": "GE"
+    }
   }
 }
