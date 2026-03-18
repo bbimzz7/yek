@@ -15847,8 +15847,15 @@
     "userId": "8489298498",
     "source": "script",
     "createdAt": "2026-03-18T23:49:56.000Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T23:51:49.641Z",
     "geo": {
+      "ip": "165.101.84.6",
+      "city": "Tanjungluar",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "165.101.84.6",
       "city": "Tanjungluar",
       "region": "West Nusa Tenggara",
