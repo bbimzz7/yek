@@ -10369,5 +10369,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-F08873-07CE99-9F82F3": {
+    "expires": "2026-03-19T05:11:00.477Z",
+    "hwid": "7764157878-485b7f4c-92c0-4b4c-b6bb-03211a9ba3bb",
+    "browserHwid": null,
+    "username": "rhiana3691",
+    "userId": "7764157878",
+    "source": "script",
+    "createdAt": "2026-03-18T05:11:00.692Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.65.141",
+      "city": "San Pablo",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
