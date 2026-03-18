@@ -9090,5 +9090,22 @@
       "country": "Barbados",
       "cc": "BB"
     }
+  },
+  "VH-BECA4E-80F115-7FB4B5": {
+    "expires": "2026-03-19T02:03:56.085Z",
+    "hwid": "1148341169-E3B92F08-6056-4E64-B5BB-A1F7B3780790",
+    "browserHwid": null,
+    "username": "grandzio12",
+    "userId": "1148341169",
+    "source": "script",
+    "createdAt": "2026-03-18T02:03:56.530Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.181.217",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
