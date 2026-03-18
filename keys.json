@@ -14922,5 +14922,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-963AC6-E36D1A-092167": {
+    "expires": "2026-03-19T20:16:40.677Z",
+    "hwid": "8041517177-abd5abb1-4e5f-44f4-b370-effbdcd5f3cf",
+    "browserHwid": null,
+    "username": "lashes553",
+    "userId": "8041517177",
+    "source": "script",
+    "createdAt": "2026-03-18T20:16:40.959Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "51.195.218.233",
+      "city": "Erith",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
