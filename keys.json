@@ -12268,5 +12268,22 @@
       "country": "Morocco",
       "cc": "MA"
     }
+  },
+  "VH-0CD6AE-6154F8-B4C3F3": {
+    "expires": "2026-03-19T11:38:43.261Z",
+    "hwid": "7044300239-2da62a4e-33c5-4349-8915-b6de79783a57",
+    "browserHwid": null,
+    "username": "D4N1EL4114",
+    "userId": "7044300239",
+    "source": "script",
+    "createdAt": "2026-03-18T11:38:43.528Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "206.1.155.245",
+      "city": "Maracaibo",
+      "region": "Zulia",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
