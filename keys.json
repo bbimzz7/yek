@@ -9446,8 +9446,15 @@
     "userId": "10210268497",
     "source": "script",
     "createdAt": "2026-03-18T03:08:01.428Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T03:08:09.567Z",
     "geo": {
+      "ip": "172.56.221.255",
+      "city": "Philadelphia",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.56.221.255",
       "city": "Philadelphia",
       "region": "Pennsylvania",
