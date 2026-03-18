@@ -13341,5 +13341,22 @@
       "country": "Spain",
       "cc": "ES"
     }
+  },
+  "VH-A103A3-D6399B-2EB7A7": {
+    "expires": "2026-03-19T14:49:03.410Z",
+    "hwid": "3252195265-f998884b-54b7-44a6-b8f0-23d57bceac23",
+    "browserHwid": null,
+    "username": "cute_markonah124",
+    "userId": "3252195265",
+    "source": "script",
+    "createdAt": "2026-03-18T14:49:03.754Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.246.183",
+      "city": "Cyberjaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
