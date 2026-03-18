@@ -9485,5 +9485,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DD4B38-F57BBD-FD79B8": {
+    "expires": "2026-03-19T03:10:34.685Z",
+    "hwid": "9021695674-307602b4-96fb-4b37-99c4-254727fff73e",
+    "browserHwid": null,
+    "username": "fdgfvvxvx",
+    "userId": "9021695674",
+    "source": "script",
+    "createdAt": "2026-03-18T03:10:34.879Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.164.102",
+      "city": "Kocasinan",
+      "region": "Istanbul",
+      "country": "Türkiye",
+      "cc": "TR"
+    }
   }
 }
