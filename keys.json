@@ -15525,5 +15525,22 @@
       "country": "Morocco",
       "cc": "MA"
     }
+  },
+  "VH-67E94A-6C0B81-6DEC2A": {
+    "expires": "2026-03-19T22:50:02.735Z",
+    "hwid": "8878840118-50acbf54-ce8d-42df-aa6a-90163b73d8ac",
+    "browserHwid": null,
+    "username": "jhoncena30077",
+    "userId": "8878840118",
+    "source": "script",
+    "createdAt": "2026-03-18T22:50:03.220Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.47.86.75",
+      "city": "Chiguayante",
+      "region": "Región del Biobío",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
