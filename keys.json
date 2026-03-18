@@ -9550,5 +9550,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-95AF18-4EAD35-B0FF8B": {
+    "expires": "2026-03-19T03:15:51.361Z",
+    "hwid": null,
+    "browserHwid": "BR-316904AA-E6P6E",
+    "username": "VH-79B6F4-F98ED8-F9EA87",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-18T03:15:51.568Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "93.36.169.230",
+      "city": "Turin",
+      "region": "Piedmont",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
