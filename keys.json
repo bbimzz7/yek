@@ -13173,5 +13173,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-D64C91-77DA71-621287": {
+    "expires": "2026-03-19T14:07:12.510Z",
+    "hwid": "10191010886-714e27ab-0fb0-4ae5-ae6e-3ba818c24ebe",
+    "browserHwid": null,
+    "username": "giftisbest1234",
+    "userId": "10191010886",
+    "source": "script",
+    "createdAt": "2026-03-18T14:07:13.037Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "169.239.85.50",
+      "city": "Sasolburg",
+      "region": "Free State",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
