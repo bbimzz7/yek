@@ -9833,8 +9833,15 @@
     "userId": "9455284393",
     "source": "script",
     "createdAt": "2026-03-18T03:54:40.892Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T03:54:57.607Z",
     "geo": {
+      "ip": "182.8.97.35",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.8.97.35",
       "city": "Surabaya",
       "region": "East Java",
