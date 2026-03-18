@@ -9461,5 +9461,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-1312BC-BF8B05-38632F": {
+    "expires": "2026-03-19T03:10:26.828Z",
+    "hwid": "6206507275-3aac8ae7-5e74-47ad-98ba-1b9d90c77356",
+    "browserHwid": null,
+    "username": "NAYUMi_1r79",
+    "userId": "6206507275",
+    "source": "script",
+    "createdAt": "2026-03-18T03:10:27.030Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.114.145",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
