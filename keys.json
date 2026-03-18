@@ -14271,5 +14271,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-273E8C-7146E0-A4A546": {
+    "expires": "2026-03-19T18:42:25.038Z",
+    "hwid": "8831012000-710bc547-5157-4f5a-926e-9b022a878907",
+    "browserHwid": null,
+    "username": "Diko_go14",
+    "userId": "8831012000",
+    "source": "script",
+    "createdAt": "2026-03-18T18:42:25.558Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.73.108.44",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
