@@ -9896,5 +9896,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-4E78A2-837993-846B19": {
+    "expires": "2026-03-19T04:03:56.014Z",
+    "hwid": "10684456270-1973434a-4d2e-4157-a644-47a1e92afab0",
+    "browserHwid": null,
+    "username": "hakimlagigabut",
+    "userId": "10684456270",
+    "source": "script",
+    "createdAt": "2026-03-18T04:03:56.222Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.246.143",
+      "city": "Tumpat",
+      "region": "Kelantan",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
