@@ -13086,8 +13086,15 @@
     "userId": "7535247843",
     "source": "script",
     "createdAt": "2026-03-18T13:48:11.414Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T13:48:21.547Z",
     "geo": {
+      "ip": "180.194.206.160",
+      "city": "Iligan",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "180.194.206.160",
       "city": "Iligan",
       "region": "Northern Mindanao",
