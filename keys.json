@@ -13790,5 +13790,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-86453A-516B31-FB1771": {
+    "expires": "2026-03-19T16:16:50.244Z",
+    "hwid": "4233714856-9A27422D-AF3A-423D-9B15-6FADC73BCB0E",
+    "browserHwid": null,
+    "username": "2ixrps",
+    "userId": "4233714856",
+    "source": "script",
+    "createdAt": "2026-03-18T16:16:50.676Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "42.118.57.45",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
