@@ -10306,8 +10306,15 @@
     "userId": "2406017360",
     "source": "script",
     "createdAt": "2026-03-18T05:08:30.626Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T05:10:14.139Z",
     "geo": {
+      "ip": "172.99.61.46",
+      "city": "Tampa",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.99.61.46",
       "city": "Tampa",
       "region": "Florida",
