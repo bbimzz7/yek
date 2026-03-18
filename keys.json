@@ -15188,8 +15188,15 @@
     "userId": "2443566123",
     "source": "script",
     "createdAt": "2026-03-18T21:42:32.078Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T21:42:43.193Z",
     "geo": {
+      "ip": "72.49.228.36",
+      "city": "Cincinnati",
+      "region": "Ohio",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "72.49.228.36",
       "city": "Cincinnati",
       "region": "Ohio",
