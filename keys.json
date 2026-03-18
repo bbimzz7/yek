@@ -12916,5 +12916,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-876EAF-370BC3-8533C3": {
+    "expires": "2026-03-19T13:22:14.372Z",
+    "hwid": "7525727154-1576c519-ec94-43b3-8b77-defc69036737",
+    "browserHwid": null,
+    "username": "Royal_5648",
+    "userId": "7525727154",
+    "source": "script",
+    "createdAt": "2026-03-18T13:22:14.708Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.13.57.247",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    }
   }
 }
