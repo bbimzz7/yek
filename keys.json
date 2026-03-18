@@ -13871,8 +13871,15 @@
     "userId": "8707581631",
     "source": "script",
     "createdAt": "2026-03-18T16:25:51.717Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T16:26:07.640Z",
     "geo": {
+      "ip": "103.166.212.254",
+      "city": "Samarinda",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.166.212.254",
       "city": "Samarinda",
       "region": "East Kalimantan",
