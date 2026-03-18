@@ -14994,5 +14994,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-3CF356-C569C9-593C8D": {
+    "expires": "2026-03-19T20:33:28.651Z",
+    "hwid": "7190839743-45e2a7f8-35e7-4c7d-80a0-de40843ed961",
+    "browserHwid": null,
+    "username": "mirasggvjj",
+    "userId": "7190839743",
+    "source": "script",
+    "createdAt": "2026-03-18T20:33:29.158Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.34.29.210",
+      "city": "Aktobe",
+      "region": "Aktyubinskaya Oblast'",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
