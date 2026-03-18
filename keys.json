@@ -15534,8 +15534,15 @@
     "userId": "8878840118",
     "source": "script",
     "createdAt": "2026-03-18T22:50:03.220Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T22:57:18.340Z",
     "geo": {
+      "ip": "190.47.86.75",
+      "city": "Chiguayante",
+      "region": "Región del Biobío",
+      "country": "Chile",
+      "cc": "CL"
+    },
+    "lastGeo": {
       "ip": "190.47.86.75",
       "city": "Chiguayante",
       "region": "Región del Biobío",
