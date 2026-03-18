@@ -8681,5 +8681,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-777C04-54C1A2-CD81C7": {
+    "expires": "2026-03-19T00:21:59.349Z",
+    "hwid": "10681075446-D6430F6E-CBC4-41EE-941F-6A61007C7DF8",
+    "browserHwid": null,
+    "username": "YournotgoodlikeME123",
+    "userId": "10681075446",
+    "source": "script",
+    "createdAt": "2026-03-18T00:21:59.541Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "72.235.36.247",
+      "city": "Honolulu",
+      "region": "Hawaii",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
