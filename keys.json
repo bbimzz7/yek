@@ -5448,7 +5448,7 @@
     "userId": "7526258222",
     "source": "script",
     "createdAt": "2026-03-17T15:55:54.540Z",
-    "lastUsed": "2026-03-17T16:46:50.320Z",
+    "lastUsed": "2026-03-18T05:32:44.114Z",
     "geo": {
       "ip": "182.4.72.95",
       "city": "Padang",
@@ -5457,9 +5457,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "182.4.72.95",
-      "city": "Padang",
-      "region": "West Sumatra",
+      "ip": "160.22.177.27",
+      "city": "Bangkinang",
+      "region": "Riau",
       "country": "Indonesia",
       "cc": "ID"
     }
