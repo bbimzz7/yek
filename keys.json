@@ -13639,5 +13639,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8A5005-F05D94-1881E6": {
+    "expires": "2026-03-19T15:45:47.819Z",
+    "hwid": "9720452394-3C16FBEF-700F-4493-9298-870D9A05211B",
+    "browserHwid": null,
+    "username": "themadarist",
+    "userId": "9720452394",
+    "source": "script",
+    "createdAt": "2026-03-18T15:45:48.177Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "197.146.154.20",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "country": "Morocco",
+      "cc": "MA"
+    }
   }
 }
