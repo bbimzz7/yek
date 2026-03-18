@@ -13598,5 +13598,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-34099C-3BF31E-FE327A": {
+    "expires": "2026-03-19T15:43:30.646Z",
+    "hwid": "9312900260-68c9cd3a-704f-4484-b65c-bef8a3f7f0a4",
+    "browserHwid": null,
+    "username": "Krixy_Any",
+    "userId": "9312900260",
+    "source": "script",
+    "createdAt": "2026-03-18T15:43:31.148Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.237.245.50",
+      "city": "Chisinau",
+      "region": "Chișinău Municipality",
+      "country": "Moldova",
+      "cc": "MD"
+    }
   }
 }
