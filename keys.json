@@ -14319,5 +14319,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-B1C416-230C53-63618C": {
+    "expires": "2026-03-19T18:55:24.868Z",
+    "hwid": "10642357862-c2164085-5697-4bc4-9a01-45166650221b",
+    "browserHwid": null,
+    "username": "dkffirid",
+    "userId": "10642357862",
+    "source": "script",
+    "createdAt": "2026-03-18T18:55:25.460Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.3.228.109",
+      "city": "Abī al Khaşīb",
+      "region": "Basra Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
