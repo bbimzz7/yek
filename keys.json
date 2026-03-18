@@ -14955,8 +14955,15 @@
     "userId": "10063938787",
     "source": "script",
     "createdAt": "2026-03-18T20:17:35.836Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T20:17:44.024Z",
     "geo": {
+      "ip": "187.95.45.168",
+      "city": "Nova Friburgo",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "187.95.45.168",
       "city": "Nova Friburgo",
       "region": "Rio de Janeiro",
