@@ -8730,5 +8730,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-76E784-E4AE41-38E8CC": {
+    "expires": "2026-03-19T00:27:13.046Z",
+    "hwid": "6129631070-740adc2c-e67f-4d95-b257-b91a6d868390",
+    "browserHwid": null,
+    "username": "zenitsu_999991",
+    "userId": "6129631070",
+    "source": "script",
+    "createdAt": "2026-03-18T00:27:13.249Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.179.136",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
