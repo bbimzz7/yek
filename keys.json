@@ -13550,5 +13550,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-8DD6A0-7C3A0F-1D5D40": {
+    "expires": "2026-03-19T15:42:08.922Z",
+    "hwid": "9439740680-83746e09-d7a0-458a-a46f-8c5c7f0c30c6",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-03-18T15:42:09.429Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.119.79",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
