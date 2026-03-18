@@ -6810,7 +6810,7 @@
     "userId": "5537655201",
     "source": "script",
     "createdAt": "2026-03-17T18:55:20.699Z",
-    "lastUsed": "2026-03-17T22:30:30.873Z",
+    "lastUsed": "2026-03-18T09:07:14.000Z",
     "geo": {
       "ip": "149.88.27.158",
       "city": "Zurich",
@@ -6819,11 +6819,11 @@
       "cc": "CH"
     },
     "lastGeo": {
-      "ip": "155.117.189.51",
-      "city": "Secaucus",
-      "region": "New Jersey",
-      "country": "United States",
-      "cc": "US"
+      "ip": "149.102.244.70",
+      "city": "Warsaw",
+      "region": "Mazovia",
+      "country": "Poland",
+      "cc": "PL"
     }
   },
   "VH-9E7735-AF0896-07E4D9": {
