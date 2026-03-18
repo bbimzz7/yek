@@ -10702,8 +10702,15 @@
     "userId": "5211158703",
     "source": "script",
     "createdAt": "2026-03-18T06:00:01.664Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T06:00:44.600Z",
     "geo": {
+      "ip": "172.59.216.248",
+      "city": "Elizabeth",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.59.216.248",
       "city": "Elizabeth",
       "region": "New Jersey",
