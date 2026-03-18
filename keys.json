@@ -11953,5 +11953,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-00838A-29DAA4-9AAC34": {
+    "expires": "2026-03-19T10:05:09.969Z",
+    "hwid": "3090451600-BF863C1C-3955-47B7-8B64-A628167572F2",
+    "browserHwid": null,
+    "username": "ruman0008",
+    "userId": "3090451600",
+    "source": "script",
+    "createdAt": "2026-03-18T10:05:10.283Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.182.194.245",
+      "city": "Naaldwijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
