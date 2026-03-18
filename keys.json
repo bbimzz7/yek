@@ -15654,8 +15654,15 @@
     "userId": "9105419589",
     "source": "script",
     "createdAt": "2026-03-18T23:19:06.073Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T23:20:09.015Z",
     "geo": {
+      "ip": "168.228.132.213",
+      "city": "Cotoca",
+      "region": "Santa Cruz Department",
+      "country": "Bolivia",
+      "cc": "BO"
+    },
+    "lastGeo": {
       "ip": "168.228.132.213",
       "city": "Cotoca",
       "region": "Santa Cruz Department",
