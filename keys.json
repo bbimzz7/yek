@@ -15510,8 +15510,15 @@
     "userId": "9686999505",
     "source": "script",
     "createdAt": "2026-03-18T22:42:43.435Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T22:42:50.904Z",
     "geo": {
+      "ip": "196.115.13.58",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "country": "Morocco",
+      "cc": "MA"
+    },
+    "lastGeo": {
       "ip": "196.115.13.58",
       "city": "Casablanca",
       "region": "Casablanca-Settat",
