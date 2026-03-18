@@ -14150,5 +14150,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-60F0C2-27701D-0E021D": {
+    "expires": "2026-03-19T17:58:48.743Z",
+    "hwid": "5424758841-1ab4278e-4063-407c-bea2-7497e1ac724c",
+    "browserHwid": null,
+    "username": "craft5f",
+    "userId": "5424758841",
+    "source": "script",
+    "createdAt": "2026-03-18T17:58:49.207Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.152.86.150",
+      "city": "São Bernardo do Campo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
