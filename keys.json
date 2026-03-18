@@ -9509,5 +9509,22 @@
       "country": "Türkiye",
       "cc": "TR"
     }
+  },
+  "VH-5DE994-5390DE-DE4E04": {
+    "expires": "2026-03-19T03:12:53.915Z",
+    "hwid": "8212079204-f0f4239b-1559-4c8d-80a2-30cd64e01ba7",
+    "browserHwid": null,
+    "username": "c00lKind_Skrip",
+    "userId": "8212079204",
+    "source": "script",
+    "createdAt": "2026-03-18T03:12:54.126Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.47.134.40",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
