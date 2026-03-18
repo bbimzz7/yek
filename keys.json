@@ -11595,14 +11595,22 @@
   },
   "VH-BC135C-ED59E9-452134": {
     "expires": "2026-03-19T09:01:25.962Z",
-    "hwid": null,
+    "hwid": "8542375694-2DC123EC-CD69-4EE1-9CEC-3BD1FC3398D0",
     "browserHwid": "BR-0EFABFAC-TJGPC",
     "username": "tung50o",
-    "userId": null,
+    "userId": "8542375694",
     "source": "browser",
     "createdAt": "2026-03-18T09:01:26.214Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T09:01:35.931Z",
     "geo": {
+      "ip": "118.70.120.192",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "boundAt": "2026-03-18T09:01:35.924Z",
+    "lastGeo": {
       "ip": "118.70.120.192",
       "city": "Hanoi",
       "region": "Hanoi",
