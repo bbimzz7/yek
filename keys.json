@@ -12001,5 +12001,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-EA97D6-537FE4-806D63": {
+    "expires": "2026-03-19T10:13:35.014Z",
+    "hwid": null,
+    "browserHwid": "BR-111038DF-HE7F8",
+    "username": "HADZ_805",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-18T10:13:35.528Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.83.40.38",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
