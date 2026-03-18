@@ -12829,8 +12829,15 @@
     "userId": "6169945653",
     "source": "script",
     "createdAt": "2026-03-18T13:03:40.877Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T13:05:01.918Z",
     "geo": {
+      "ip": "111.125.104.220",
+      "city": "Clark",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "111.125.104.220",
       "city": "Clark",
       "region": "Central Luzon",
