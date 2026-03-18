@@ -12292,5 +12292,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-0BDF24-A9FFDE-348874": {
+    "expires": "2026-03-19T11:49:37.675Z",
+    "hwid": "6134731557-f88699ec-6657-48d5-825d-c15ede513c35",
+    "browserHwid": null,
+    "username": "medin5550",
+    "userId": "6134731557",
+    "source": "script",
+    "createdAt": "2026-03-18T11:49:38.189Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.99.42.173",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
