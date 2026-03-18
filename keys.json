@@ -15501,5 +15501,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B521E8-2C0240-B01003": {
+    "expires": "2026-03-19T22:42:43.120Z",
+    "hwid": "9686999505-b4b38b95-c3f8-4e6a-9a6c-9ff25af4f614",
+    "browserHwid": null,
+    "username": "flip_yatta",
+    "userId": "9686999505",
+    "source": "script",
+    "createdAt": "2026-03-18T22:42:43.435Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "196.115.13.58",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "country": "Morocco",
+      "cc": "MA"
+    }
   }
 }
