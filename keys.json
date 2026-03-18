@@ -11175,8 +11175,15 @@
     "userId": "7564826445",
     "source": "script",
     "createdAt": "2026-03-18T07:37:56.264Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T07:38:04.133Z",
     "geo": {
+      "ip": "112.198.86.31",
+      "city": "Iloilo City",
+      "region": "Western Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.198.86.31",
       "city": "Iloilo City",
       "region": "Western Visayas",
