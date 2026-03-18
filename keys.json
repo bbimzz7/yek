@@ -14336,5 +14336,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-676C9A-9FB944-907F66": {
+    "expires": "2026-03-19T18:56:52.296Z",
+    "hwid": "9354764990-245FA6BE-4DED-43FA-9294-C506790A799C",
+    "browserHwid": null,
+    "username": "Star_lightcub",
+    "userId": "9354764990",
+    "source": "script",
+    "createdAt": "2026-03-18T18:56:52.595Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "173.81.57.162",
+      "city": "Marietta",
+      "region": "Ohio",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
