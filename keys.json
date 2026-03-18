@@ -9752,5 +9752,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-FE3077-4DC82B-1D2E71": {
+    "expires": "2026-03-19T03:38:18.864Z",
+    "hwid": "1922162668-1fa178c0-893d-47f9-be13-ea1f5afd9284",
+    "browserHwid": null,
+    "username": "langrbeast",
+    "userId": "1922162668",
+    "source": "script",
+    "createdAt": "2026-03-18T03:38:19.093Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.148.54.152",
+      "city": "Dumaguete",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
