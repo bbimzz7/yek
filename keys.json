@@ -12075,8 +12075,15 @@
     "userId": "9537096392",
     "source": "script",
     "createdAt": "2026-03-18T10:38:31.356Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T10:38:50.539Z",
     "geo": {
+      "ip": "180.247.58.85",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.247.58.85",
       "city": "Palu",
       "region": "Central Sulawesi",
