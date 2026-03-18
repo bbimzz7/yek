@@ -13367,8 +13367,15 @@
     "userId": "10157193611",
     "source": "script",
     "createdAt": "2026-03-18T14:51:59.819Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T14:52:09.806Z",
     "geo": {
+      "ip": "175.136.84.240",
+      "city": "Ampang",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "175.136.84.240",
       "city": "Ampang",
       "region": "Kuala Lumpur",
