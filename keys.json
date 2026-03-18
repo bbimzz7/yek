@@ -9027,8 +9027,15 @@
     "userId": "8634432048",
     "source": "script",
     "createdAt": "2026-03-18T01:22:36.906Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T01:22:42.834Z",
     "geo": {
+      "ip": "125.165.127.247",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.165.127.247",
       "city": "Pekanbaru",
       "region": "Riau",
