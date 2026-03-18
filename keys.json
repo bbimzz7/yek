@@ -13158,8 +13158,15 @@
     "userId": "8214304302",
     "source": "script",
     "createdAt": "2026-03-18T14:05:37.779Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T14:06:16.144Z",
     "geo": {
+      "ip": "2.79.237.64",
+      "city": "Atyrau",
+      "region": "Atyrau Oblisi",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "2.79.237.64",
       "city": "Atyrau",
       "region": "Atyrau Oblisi",
