@@ -10765,5 +10765,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5D63C1-518C1F-8289F2": {
+    "expires": "2026-03-19T06:25:57.392Z",
+    "hwid": "8263792455-ef0ecc21-4676-4f32-87ed-6bda13da015b",
+    "browserHwid": null,
+    "username": "Rayo02745",
+    "userId": "8263792455",
+    "source": "script",
+    "createdAt": "2026-03-18T06:25:57.644Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.171.160.202",
+      "city": "Maracaibo",
+      "region": "Zulia",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
