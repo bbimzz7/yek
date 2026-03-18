@@ -10647,15 +10647,23 @@
   },
   "VH-D58CB0-1AE389-FDB0AB": {
     "expires": "2026-03-19T05:58:05.561Z",
-    "hwid": null,
+    "hwid": "7166170703-19807ef2-9946-46e0-b2df-030837d43d88",
     "browserHwid": "BR-7FA5BC2D-FS1KG",
     "username": "Aydildi5",
-    "userId": null,
+    "userId": "7166170703",
     "source": "browser",
     "createdAt": "2026-03-18T05:58:05.783Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T06:00:00.965Z",
     "geo": {
       "ip": "182.3.141.234",
+      "city": "Samarinda",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-18T06:00:00.961Z",
+    "lastGeo": {
+      "ip": "182.3.140.219",
       "city": "Samarinda",
       "region": "East Kalimantan",
       "country": "Indonesia",
