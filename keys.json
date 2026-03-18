@@ -8883,8 +8883,15 @@
     "userId": "9454373495",
     "source": "script",
     "createdAt": "2026-03-18T01:01:23.928Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T01:02:59.173Z",
     "geo": {
+      "ip": "1.47.153.127",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "1.47.153.127",
       "city": "Bangkok",
       "region": "Bangkok",
