@@ -9268,5 +9268,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-BD7132-B7A147-0734E2": {
+    "expires": "2026-03-19T02:41:45.868Z",
+    "hwid": "7838172149-ce64d0f5-1c1e-4e0a-acaa-8ce98f94d2da",
+    "browserHwid": null,
+    "username": "Incursio473",
+    "userId": "7838172149",
+    "source": "script",
+    "createdAt": "2026-03-18T02:41:46.318Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.214.251",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
