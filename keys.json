@@ -13269,5 +13269,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-AB673B-346716-C17625": {
+    "expires": "2026-03-19T14:32:35.626Z",
+    "hwid": "2404524780-5EEFD820-C1D8-4654-85CD-9F17E8B45DC3",
+    "browserHwid": null,
+    "username": "fidodolwo",
+    "userId": "2404524780",
+    "source": "script",
+    "createdAt": "2026-03-18T14:32:35.910Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.100.182.79",
+      "city": "Chiang Mai",
+      "region": "Chiang Mai",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
