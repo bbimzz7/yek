@@ -8979,8 +8979,15 @@
     "userId": "8164388303",
     "source": "script",
     "createdAt": "2026-03-18T01:18:00.066Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T01:18:05.694Z",
     "geo": {
+      "ip": "45.238.5.167",
+      "city": "Sidrolândia",
+      "region": "Mato Grosso do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.238.5.167",
       "city": "Sidrolândia",
       "region": "Mato Grosso do Sul",
