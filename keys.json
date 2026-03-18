@@ -11787,8 +11787,15 @@
     "userId": "4416613833",
     "source": "script",
     "createdAt": "2026-03-18T09:27:52.628Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T09:27:59.600Z",
     "geo": {
+      "ip": "95.87.69.17",
+      "city": "Bishkek",
+      "region": "Gorod Bishkek",
+      "country": "Kyrgyzstan",
+      "cc": "KG"
+    },
+    "lastGeo": {
       "ip": "95.87.69.17",
       "city": "Bishkek",
       "region": "Gorod Bishkek",
