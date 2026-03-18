@@ -13038,8 +13038,15 @@
     "userId": "124975513",
     "source": "script",
     "createdAt": "2026-03-18T13:37:22.947Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T13:37:28.021Z",
     "geo": {
+      "ip": "178.163.212.178",
+      "city": "Minsk",
+      "region": "Minsk City",
+      "country": "Belarus",
+      "cc": "BY"
+    },
+    "lastGeo": {
       "ip": "178.163.212.178",
       "city": "Minsk",
       "region": "Minsk City",
