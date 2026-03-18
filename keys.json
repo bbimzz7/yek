@@ -13062,7 +13062,7 @@
     "userId": "9005991399",
     "source": "script",
     "createdAt": "2026-03-18T13:39:37.430Z",
-    "lastUsed": "2026-03-18T20:05:42.943Z",
+    "lastUsed": "2026-03-18T23:39:55.095Z",
     "geo": {
       "ip": "88.236.174.222",
       "city": "Diyarbakır",
@@ -13071,11 +13071,11 @@
       "cc": "TR"
     },
     "lastGeo": {
-      "ip": "98.98.142.214",
-      "city": "London",
-      "region": "England",
-      "country": "United Kingdom",
-      "cc": "GB"
+      "ip": "103.88.232.55",
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
     }
   },
   "VH-EC4F0E-0C74E5-00560B": {
