@@ -13062,13 +13062,20 @@
     "userId": "9005991399",
     "source": "script",
     "createdAt": "2026-03-18T13:39:37.430Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T13:41:21.505Z",
     "geo": {
       "ip": "88.236.174.222",
       "city": "Diyarbakır",
       "region": "Diyarbakır Province",
       "country": "Türkiye",
       "cc": "TR"
+    },
+    "lastGeo": {
+      "ip": "149.102.237.113",
+      "city": "Milan",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
     }
   }
 }
