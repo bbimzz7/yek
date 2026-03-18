@@ -12340,5 +12340,22 @@
       "country": "Georgia",
       "cc": "GE"
     }
+  },
+  "VH-DA3022-255463-2A1B12": {
+    "expires": "2026-03-19T11:58:35.008Z",
+    "hwid": "7929095685-AB91AEC1-6DBC-4A91-8A18-E51E616CE897",
+    "browserHwid": null,
+    "username": "komuha93",
+    "userId": "7929095685",
+    "source": "script",
+    "createdAt": "2026-03-18T11:58:35.210Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.163.8.149",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
