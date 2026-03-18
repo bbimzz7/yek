@@ -10926,5 +10926,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-A0B039-DF51A8-171ADC": {
+    "expires": "2026-03-19T06:44:53.703Z",
+    "hwid": "8669778276-24ae48f9-a530-45df-a6dc-ed83c9e849d8",
+    "browserHwid": null,
+    "username": "WTD_8886",
+    "userId": "8669778276",
+    "source": "script",
+    "createdAt": "2026-03-18T06:44:53.936Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "162.43.191.72",
+      "city": "Dallas",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
