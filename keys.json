@@ -11464,5 +11464,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DB2733-EE2127-262208": {
+    "expires": "2026-03-19T08:39:48.192Z",
+    "hwid": "10688646883-e808a1a3-0281-4df3-a856-3dc58208fdbd",
+    "browserHwid": null,
+    "username": "Ezechiel_Tyler",
+    "userId": "10688646883",
+    "source": "script",
+    "createdAt": "2026-03-18T08:39:48.429Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.113.200.50",
+      "city": "Quatre Bornes",
+      "region": "Plaines Wilhems District",
+      "country": "Mauritius",
+      "cc": "MU"
+    }
   }
 }
