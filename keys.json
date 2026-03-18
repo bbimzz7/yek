@@ -14504,5 +14504,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-77A74E-610EA7-3B3016": {
+    "expires": "2026-03-19T19:17:54.774Z",
+    "hwid": "4109948528-e20d0418-be74-4059-a2d0-9d4cd2a4b4cb",
+    "browserHwid": null,
+    "username": "harispro0136",
+    "userId": "4109948528",
+    "source": "script",
+    "createdAt": "2026-03-18T19:17:55.052Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.211.96.144",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
