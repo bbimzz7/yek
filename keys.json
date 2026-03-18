@@ -15075,8 +15075,15 @@
     "userId": "10690817248",
     "source": "script",
     "createdAt": "2026-03-18T21:05:27.385Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T21:29:49.976Z",
     "geo": {
+      "ip": "51.178.86.121",
+      "city": "Strasbourg",
+      "region": "Grand Est",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "51.178.86.121",
       "city": "Strasbourg",
       "region": "Grand Est",
