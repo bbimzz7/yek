@@ -12018,5 +12018,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-16C043-C33EDB-8368FB": {
+    "expires": "2026-03-19T10:24:53.139Z",
+    "hwid": "7235849278-E00F405A-97D0-491C-BDF8-3B4B1294B4BC",
+    "browserHwid": null,
+    "username": "the_c4nadii",
+    "userId": "7235849278",
+    "source": "script",
+    "createdAt": "2026-03-18T10:24:53.654Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.24.61.110",
+      "city": "Erbil",
+      "region": "Erbil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
