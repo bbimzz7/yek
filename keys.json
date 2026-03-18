@@ -15083,5 +15083,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-9A7643-5C9973-73EADC": {
+    "expires": "2026-03-19T21:13:18.416Z",
+    "hwid": "6085321790-9856aba9-b240-44ed-921a-dcfb48a4c8fb",
+    "browserHwid": null,
+    "username": "Behold008",
+    "userId": "6085321790",
+    "source": "script",
+    "createdAt": "2026-03-18T21:13:18.936Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "166.198.103.192",
+      "city": "Maumee",
+      "region": "Ohio",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
