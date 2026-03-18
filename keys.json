@@ -9665,8 +9665,15 @@
     "userId": "3350640283",
     "source": "script",
     "createdAt": "2026-03-18T03:26:48.575Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T03:26:55.379Z",
     "geo": {
+      "ip": "73.85.50.52",
+      "city": "Miami",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.85.50.52",
       "city": "Miami",
       "region": "Florida",
