@@ -11166,5 +11166,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FDDB1F-5590B5-385136": {
+    "expires": "2026-03-19T07:37:55.822Z",
+    "hwid": "7564826445-8e090506-e0b9-48bb-b76d-6bed4d28de33",
+    "browserHwid": null,
+    "username": "cookiebomb310451",
+    "userId": "7564826445",
+    "source": "script",
+    "createdAt": "2026-03-18T07:37:56.264Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.198.86.31",
+      "city": "Iloilo City",
+      "region": "Western Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
