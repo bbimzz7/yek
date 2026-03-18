@@ -14054,5 +14054,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-17EFBB-9BEE7B-82B09A": {
+    "expires": "2026-03-19T17:27:36.841Z",
+    "hwid": "5237008942-FED1D272-ED2E-4E91-BE00-A014E4318B94",
+    "browserHwid": null,
+    "username": "Gcoli30",
+    "userId": "5237008942",
+    "source": "script",
+    "createdAt": "2026-03-18T17:27:37.405Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.229.224.26",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
