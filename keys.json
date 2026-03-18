@@ -8763,8 +8763,15 @@
     "userId": "8293783017",
     "source": "script",
     "createdAt": "2026-03-18T00:28:07.329Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T00:28:17.909Z",
     "geo": {
+      "ip": "170.254.248.222",
+      "city": "Mocajuba",
+      "region": "Pará",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "170.254.248.222",
       "city": "Mocajuba",
       "region": "Pará",
