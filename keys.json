@@ -13005,5 +13005,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F4D0B2-76AE61-8746EB": {
+    "expires": "2026-03-19T13:35:41.365Z",
+    "hwid": "7604693281-0616fdc6-8919-46c7-95e1-9a666b0b9874",
+    "browserHwid": null,
+    "username": "SD_JAY533",
+    "userId": "7604693281",
+    "source": "script",
+    "createdAt": "2026-03-18T13:35:41.686Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.176.35.104",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
