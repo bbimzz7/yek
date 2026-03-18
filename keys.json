@@ -8496,5 +8496,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F73E6E-1E0A21-A9C89C": {
+    "expires": "2026-03-19T00:01:08.369Z",
+    "hwid": "3532879130-773712e9-356f-40f4-8cbf-529cf7071202",
+    "browserHwid": null,
+    "username": "Gabigol5678i",
+    "userId": "3532879130",
+    "source": "script",
+    "createdAt": "2026-03-18T00:01:08.582Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.165.221.200",
+      "city": "Ipatinga",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
