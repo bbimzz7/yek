@@ -14737,5 +14737,22 @@
       "country": "Belarus",
       "cc": "BY"
     }
+  },
+  "VH-EB0734-BDB5D2-43089E": {
+    "expires": "2026-03-19T19:49:50.714Z",
+    "hwid": "2987176924-1a2bab13-b973-4192-bdc1-178682cdddd7",
+    "browserHwid": null,
+    "username": "six6zh",
+    "userId": "2987176924",
+    "source": "script",
+    "createdAt": "2026-03-18T19:49:51.186Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.150.68.7",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
