@@ -13766,5 +13766,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-5F06FD-6CFCC8-8ECA76": {
+    "expires": "2026-03-19T16:08:40.106Z",
+    "hwid": "10509512646-dafd2d21-a227-4a20-aa08-23e899c53f0b",
+    "browserHwid": null,
+    "username": "amirnopak4",
+    "userId": "10509512646",
+    "source": "script",
+    "createdAt": "2026-03-18T16:08:41.375Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.62.241.138",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
