@@ -13190,5 +13190,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-6F08FD-42032E-5BA8EB": {
+    "expires": "2026-03-19T14:08:28.807Z",
+    "hwid": "2040586250-4D44CC12-DA5B-4273-8F24-4AC40E7E9A42",
+    "browserHwid": null,
+    "username": "sakoakiebkjabbwjnwnk",
+    "userId": "2040586250",
+    "source": "script",
+    "createdAt": "2026-03-18T14:08:29.105Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.42.233",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
