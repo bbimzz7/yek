@@ -14576,5 +14576,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-64BEEF-61BC0A-43B678": {
+    "expires": "2026-03-19T19:23:14.669Z",
+    "hwid": "1238714443-822f8716-23b6-45af-af86-991073031226",
+    "browserHwid": null,
+    "username": "danuri2b",
+    "userId": "1238714443",
+    "source": "script",
+    "createdAt": "2026-03-18T19:23:15.855Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.245.29.221",
+      "city": "Indramayu",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
