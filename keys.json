@@ -13101,5 +13101,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-136BB1-E4CD19-81A78A": {
+    "expires": "2026-03-19T13:52:59.234Z",
+    "hwid": "151732305-87c73995-66b3-4a71-ac78-30a98621bcdc",
+    "browserHwid": null,
+    "username": "xC0L1N",
+    "userId": "151732305",
+    "source": "script",
+    "createdAt": "2026-03-18T13:52:59.774Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.253.184.75",
+      "city": "Ambon City",
+      "region": "Maluku",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
