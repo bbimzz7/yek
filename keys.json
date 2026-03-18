@@ -11319,11 +11319,18 @@
     "userId": "10653916482",
     "source": "script",
     "createdAt": "2026-03-18T08:00:11.460Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T08:00:33.752Z",
     "geo": {
       "ip": "114.10.73.24",
       "city": "Jakarta",
       "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "180.254.76.236",
+      "city": "Tangerang",
+      "region": "Banten",
       "country": "Indonesia",
       "cc": "ID"
     }
