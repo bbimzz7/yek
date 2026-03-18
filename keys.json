@@ -9325,8 +9325,15 @@
     "userId": "10094353764",
     "source": "script",
     "createdAt": "2026-03-18T02:56:39.086Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T02:56:46.790Z",
     "geo": {
+      "ip": "27.125.240.70",
+      "city": "Taman Rajawali",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "27.125.240.70",
       "city": "Taman Rajawali",
       "region": "Sabah",
