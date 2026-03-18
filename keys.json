@@ -12445,8 +12445,15 @@
     "userId": "10680636021",
     "source": "script",
     "createdAt": "2026-03-18T12:21:08.251Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T12:21:25.932Z",
     "geo": {
+      "ip": "148.153.140.219",
+      "city": "Mumbai",
+      "region": "Maharashtra",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "148.153.140.219",
       "city": "Mumbai",
       "region": "Maharashtra",
