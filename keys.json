@@ -9123,8 +9123,15 @@
     "userId": "9912135131",
     "source": "script",
     "createdAt": "2026-03-18T02:05:10.009Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T02:08:50.456Z",
     "geo": {
+      "ip": "103.189.201.184",
+      "city": "Pare",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.189.201.184",
       "city": "Pare",
       "region": "East Java",
