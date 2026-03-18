@@ -8826,5 +8826,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-EB57B8-22489D-35E6C1": {
+    "expires": "2026-03-19T00:45:52.551Z",
+    "hwid": "8867143046-9c59785c-f4b5-4f9e-90fa-aa262e63c2fb",
+    "browserHwid": null,
+    "username": "LIKS1418",
+    "userId": "8867143046",
+    "source": "script",
+    "createdAt": "2026-03-18T00:45:52.993Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.1.134.33",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
