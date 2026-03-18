@@ -11223,8 +11223,15 @@
     "userId": "8434351665",
     "source": "script",
     "createdAt": "2026-03-18T07:51:00.344Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T07:51:47.009Z",
     "geo": {
+      "ip": "114.10.134.174",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.134.174",
       "city": "Makassar",
       "region": "South Sulawesi",
