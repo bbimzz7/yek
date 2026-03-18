@@ -12517,7 +12517,7 @@
     "userId": "10525725285",
     "source": "script",
     "createdAt": "2026-03-18T12:24:33.742Z",
-    "lastUsed": "2026-03-18T12:29:44.004Z",
+    "lastUsed": "2026-03-18T12:41:10.888Z",
     "geo": {
       "ip": "203.27.107.63",
       "city": "Singapore",
@@ -12526,11 +12526,11 @@
       "cc": "SG"
     },
     "lastGeo": {
-      "ip": "203.27.107.63",
-      "city": "Singapore",
-      "region": "North West",
-      "country": "Singapore",
-      "cc": "SG"
+      "ip": "14.49.145.30",
+      "city": "Seogwipo-si",
+      "region": "Jeju-do",
+      "country": "South Korea",
+      "cc": "KR"
     }
   },
   "VH-D8B64E-EDE17D-DE284B": {
