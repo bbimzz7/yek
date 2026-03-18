@@ -8835,8 +8835,15 @@
     "userId": "8867143046",
     "source": "script",
     "createdAt": "2026-03-18T00:45:52.993Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T00:46:23.072Z",
     "geo": {
+      "ip": "182.1.134.33",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.1.134.33",
       "city": "Manado",
       "region": "North Sulawesi",
