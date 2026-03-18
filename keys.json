@@ -5263,7 +5263,7 @@
     "userId": "6199237676",
     "source": "script",
     "createdAt": "2026-03-17T15:34:31.917Z",
-    "lastUsed": "2026-03-18T05:31:14.723Z",
+    "lastUsed": "2026-03-18T10:23:53.576Z",
     "geo": {
       "ip": "160.22.177.27",
       "city": "Bangkinang",
@@ -5272,8 +5272,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "160.22.177.27",
-      "city": "Bangkinang",
+      "ip": "182.1.44.133",
+      "city": "Pekanbaru",
       "region": "Riau",
       "country": "Indonesia",
       "cc": "ID"
