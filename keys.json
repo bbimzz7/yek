@@ -13358,5 +13358,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-A0B638-E61A7E-BF568A": {
+    "expires": "2026-03-19T14:51:59.489Z",
+    "hwid": "10157193611-c88628c8-0f12-4d7e-b4ad-4157b1c93ae1",
+    "browserHwid": null,
+    "username": "arianapro_619",
+    "userId": "10157193611",
+    "source": "script",
+    "createdAt": "2026-03-18T14:51:59.819Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.136.84.240",
+      "city": "Ampang",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
