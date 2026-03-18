@@ -14102,5 +14102,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-4F8FB3-A5A5AE-ABBFF0": {
+    "expires": "2026-03-19T17:42:50.211Z",
+    "hwid": "4268476616-48a20199-300c-45a1-b3a8-9046683e0d70",
+    "browserHwid": null,
+    "username": "A_xbdo",
+    "userId": "4268476616",
+    "source": "script",
+    "createdAt": "2026-03-18T17:42:50.711Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "169.224.99.205",
+      "city": "Najaf",
+      "region": "An Najaf",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
