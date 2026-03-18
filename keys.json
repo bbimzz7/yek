@@ -9639,5 +9639,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-86D3BD-1DF792-E249B8": {
+    "expires": "2026-03-19T03:23:54.108Z",
+    "hwid": null,
+    "browserHwid": "BR-61536AB8-L670G",
+    "username": "--[[ \tWARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk! ]] loadstring(game:HttpGet(\"https://raw.githubusercontent.com/bbimzz7/Scriptsob/refs/heads/main/sambung_kata.lua\"))()",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-18T03:23:54.305Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.217.46",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
