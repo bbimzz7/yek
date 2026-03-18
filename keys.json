@@ -11641,5 +11641,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B7DE89-B419CB-B7D888": {
+    "expires": "2026-03-19T09:08:44.817Z",
+    "hwid": "1071051-72178c13-6faf-4d76-adb7-2f87a52604c2",
+    "browserHwid": null,
+    "username": "10seth11",
+    "userId": "1071051",
+    "source": "script",
+    "createdAt": "2026-03-18T09:08:45.055Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.166.26.134",
+      "city": "Rowotengah",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
