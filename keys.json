@@ -13838,5 +13838,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-EB4551-A61EAC-0EA754": {
+    "expires": "2026-03-19T16:24:42.191Z",
+    "hwid": "9978077968-e8848bf7-197b-4bbc-884f-4486bbfb9eb1",
+    "browserHwid": null,
+    "username": "Tightlyret",
+    "userId": "9978077968",
+    "source": "script",
+    "createdAt": "2026-03-18T16:24:42.545Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.96.157.29",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
