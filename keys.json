@@ -14689,5 +14689,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FBD84D-4169B7-A300C0": {
+    "expires": "2026-03-19T19:38:13.096Z",
+    "hwid": "9549092487-c75f46ef-1e2e-49ac-8e58-d4ceb34006d1",
+    "browserHwid": null,
+    "username": "1x1x1x14746",
+    "userId": "9549092487",
+    "source": "script",
+    "createdAt": "2026-03-18T19:38:13.407Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.5.40.20",
+      "city": "Concepción",
+      "region": "Región del Biobío",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
