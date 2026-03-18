@@ -10693,5 +10693,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0A7208-CC8440-39E3D9": {
+    "expires": "2026-03-19T06:00:01.421Z",
+    "hwid": "5211158703-76473ccb-fa29-4018-8450-68a126857dfb",
+    "browserHwid": null,
+    "username": "jumaren_5777",
+    "userId": "5211158703",
+    "source": "script",
+    "createdAt": "2026-03-18T06:00:01.664Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.59.216.248",
+      "city": "Elizabeth",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
