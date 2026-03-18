@@ -15806,5 +15806,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-D26E59-D3C6B1-E68E52": {
+    "expires": "2026-03-19T23:35:55.683Z",
+    "hwid": "10691074979-d0ed9d68-d9b2-46ec-9488-71c8f6d09cbc",
+    "browserHwid": null,
+    "username": "Karrica2",
+    "userId": "10691074979",
+    "source": "script",
+    "createdAt": "2026-03-18T23:35:55.953Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "66.9.166.158",
+      "city": "Kingston",
+      "region": "Kingston",
+      "country": "Jamaica",
+      "cc": "JM"
+    }
   }
 }
