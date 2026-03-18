@@ -10500,5 +10500,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-7F9443-996320-8234B1": {
+    "expires": "2026-03-19T05:32:59.941Z",
+    "hwid": "9841315302-da46bf96-40e1-44ad-9237-2c811bc9dd16",
+    "browserHwid": null,
+    "username": "DapaCrafter",
+    "userId": "9841315302",
+    "source": "script",
+    "createdAt": "2026-03-18T05:33:00.162Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.6.87.42",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
