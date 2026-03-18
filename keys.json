@@ -11262,5 +11262,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-6570FD-A42A09-2BE16E": {
+    "expires": "2026-03-19T07:57:00.628Z",
+    "hwid": "10664754911-4d36e9ab-967c-4f40-ba28-e70ec339c3a8",
+    "browserHwid": null,
+    "username": "mamtakut",
+    "userId": "10664754911",
+    "source": "script",
+    "createdAt": "2026-03-18T07:57:00.881Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.172.24",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
