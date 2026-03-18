@@ -10789,5 +10789,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-2B051B-81ED6B-ABB716": {
+    "expires": "2026-03-19T06:26:16.558Z",
+    "hwid": "9292205697-8a0cb6b0-cd96-4bbf-b861-08bcf2c0db2b",
+    "browserHwid": null,
+    "username": "Lipzz658",
+    "userId": "9292205697",
+    "source": "script",
+    "createdAt": "2026-03-18T06:26:16.827Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.128.109.87",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
