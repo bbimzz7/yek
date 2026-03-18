@@ -15741,5 +15741,22 @@
       "country": "Barbados",
       "cc": "BB"
     }
+  },
+  "VH-C01CA1-58EBB7-DD7A56": {
+    "expires": "2026-03-19T23:26:55.867Z",
+    "hwid": "9682247898-e550b4df-8617-40fc-b83f-d8d6d7a79e57",
+    "browserHwid": null,
+    "username": "fvtytby",
+    "userId": "9682247898",
+    "source": "script",
+    "createdAt": "2026-03-18T23:26:56.136Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "217.138.215.214",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "The Netherlands",
+      "cc": "NL"
+    }
   }
 }
