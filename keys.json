@@ -9713,8 +9713,15 @@
     "userId": "9270105151",
     "source": "script",
     "createdAt": "2026-03-18T03:34:50.090Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T03:36:06.173Z",
     "geo": {
+      "ip": "182.8.66.204",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.8.66.204",
       "city": "Surabaya",
       "region": "East Java",
