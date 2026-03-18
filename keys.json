@@ -10186,8 +10186,15 @@
     "userId": "1351225474",
     "source": "script",
     "createdAt": "2026-03-18T04:44:52.817Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T04:48:50.639Z",
     "geo": {
+      "ip": "27.125.240.163",
+      "city": "Puteri Lake City",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "27.125.240.163",
       "city": "Puteri Lake City",
       "region": "Selangor",
