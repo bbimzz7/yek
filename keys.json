@@ -13718,5 +13718,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-025276-517566-9E2DBF": {
+    "expires": "2026-03-19T16:01:45.074Z",
+    "hwid": "1167471149-07ee9d60-3098-41a7-aacf-2b770d1c046f",
+    "browserHwid": null,
+    "username": "Robloxian132772512",
+    "userId": "1167471149",
+    "source": "script",
+    "createdAt": "2026-03-18T16:01:45.558Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.180.63.6",
+      "city": "Presidente Derqui",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
