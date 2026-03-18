@@ -14295,5 +14295,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-BF41D7-289441-70754A": {
+    "expires": "2026-03-19T18:52:05.432Z",
+    "hwid": "8529395000-b36919b7-1aa1-4a09-8527-1e662cc38e40",
+    "browserHwid": null,
+    "username": "tbdhddj1",
+    "userId": "8529395000",
+    "source": "script",
+    "createdAt": "2026-03-18T18:52:05.969Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.239.234.204",
+      "city": "Colômbia",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
