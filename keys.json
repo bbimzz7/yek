@@ -14672,5 +14672,22 @@
       "country": "Cyprus",
       "cc": "CY"
     }
+  },
+  "VH-1622D0-26F52A-126628": {
+    "expires": "2026-03-19T19:38:05.878Z",
+    "hwid": "8172890203-a8ace033-47aa-48b0-8257-bfa524a5bee2",
+    "browserHwid": null,
+    "username": "Shb_503",
+    "userId": "8172890203",
+    "source": "script",
+    "createdAt": "2026-03-18T19:38:06.348Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.25.59.15",
+      "city": "Sidoarjo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
