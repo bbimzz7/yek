@@ -8778,5 +8778,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-53F527-013FD1-ADD059": {
+    "expires": "2026-03-19T00:31:07.839Z",
+    "hwid": "9772188866-63fd068b-8d6c-49c8-88ea-13e25964e620",
+    "browserHwid": null,
+    "username": "Sammy_spydrinii",
+    "userId": "9772188866",
+    "source": "script",
+    "createdAt": "2026-03-18T00:31:08.039Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.102.139",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
