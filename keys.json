@@ -15453,5 +15453,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-18BCF8-E0E906-90B8D4": {
+    "expires": "2026-03-19T22:38:03.632Z",
+    "hwid": "8015340158-5AD5FA6B-D71A-4A49-8107-C7BEE74E695C",
+    "browserHwid": null,
+    "username": "JxshuaFak",
+    "userId": "8015340158",
+    "source": "script",
+    "createdAt": "2026-03-18T22:38:04.123Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.0.107.143",
+      "city": "Ciudad Ojeda",
+      "region": "Zulia",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
