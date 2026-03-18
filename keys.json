@@ -12277,8 +12277,15 @@
     "userId": "7044300239",
     "source": "script",
     "createdAt": "2026-03-18T11:38:43.528Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T11:39:44.961Z",
     "geo": {
+      "ip": "206.1.155.245",
+      "city": "Maracaibo",
+      "region": "Zulia",
+      "country": "Venezuela",
+      "cc": "VE"
+    },
+    "lastGeo": {
       "ip": "206.1.155.245",
       "city": "Maracaibo",
       "region": "Zulia",
