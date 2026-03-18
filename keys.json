@@ -8922,5 +8922,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-109527-528A9F-33EE39": {
+    "expires": "2026-03-19T01:15:17.162Z",
+    "hwid": "5807157663-95801a65-1373-401f-b100-52318feca531",
+    "browserHwid": null,
+    "username": "masih_pemula1010",
+    "userId": "5807157663",
+    "source": "script",
+    "createdAt": "2026-03-18T01:15:17.627Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.183.197",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
