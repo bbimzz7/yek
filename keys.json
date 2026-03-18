@@ -10234,8 +10234,15 @@
     "userId": "9568579831",
     "source": "script",
     "createdAt": "2026-03-18T04:56:22.068Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T04:57:36.651Z",
     "geo": {
+      "ip": "180.245.235.125",
+      "city": "Srengseng",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.245.235.125",
       "city": "Srengseng",
       "region": "Jakarta",
