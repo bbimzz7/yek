@@ -11447,5 +11447,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-3DB77F-2B191E-45FA70": {
+    "expires": "2026-03-19T08:39:42.793Z",
+    "hwid": "10537009648-688edc26-4e6e-4c48-9935-b445d4050231",
+    "browserHwid": null,
+    "username": "sirul_hacker",
+    "userId": "10537009648",
+    "source": "script",
+    "createdAt": "2026-03-18T08:39:43.036Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.161.239",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
