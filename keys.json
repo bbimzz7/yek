@@ -15092,8 +15092,15 @@
     "userId": "6085321790",
     "source": "script",
     "createdAt": "2026-03-18T21:13:18.936Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T21:13:27.832Z",
     "geo": {
+      "ip": "166.198.103.192",
+      "city": "Maumee",
+      "region": "Ohio",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "166.198.103.192",
       "city": "Maumee",
       "region": "Ohio",
