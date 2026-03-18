@@ -13622,5 +13622,22 @@
       "country": "Moldova",
       "cc": "MD"
     }
+  },
+  "VH-9A07A2-16FADD-9DD366": {
+    "expires": "2026-03-19T15:45:40.926Z",
+    "hwid": "8911607085-115fa753-bfad-4c9c-acad-fed528085ee8",
+    "browserHwid": null,
+    "username": "4lbieeq",
+    "userId": "8911607085",
+    "source": "script",
+    "createdAt": "2026-03-18T15:45:41.229Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.240.68.151",
+      "city": "Deli Tua",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
