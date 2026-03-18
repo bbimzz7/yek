@@ -9824,5 +9824,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-1AB0FD-0271A0-2524FE": {
+    "expires": "2026-03-19T03:54:40.488Z",
+    "hwid": "9455284393-7d39cae4-38e2-4d1f-bc88-749826b8e978",
+    "browserHwid": null,
+    "username": "kadun_17",
+    "userId": "9455284393",
+    "source": "script",
+    "createdAt": "2026-03-18T03:54:40.892Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.97.35",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
