@@ -5383,7 +5383,7 @@
     "userId": "8219168100",
     "source": "script",
     "createdAt": "2026-03-17T15:47:40.637Z",
-    "lastUsed": "2026-03-18T04:33:01.157Z",
+    "lastUsed": "2026-03-18T12:37:14.442Z",
     "geo": {
       "ip": "39.194.1.40",
       "city": "Banjarmasin",
@@ -5392,7 +5392,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "39.194.1.40",
+      "ip": "39.194.4.90",
       "city": "Banjarmasin",
       "region": "South Kalimantan",
       "country": "Indonesia",
