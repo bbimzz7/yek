@@ -13951,5 +13951,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-D80AB8-57C8EC-6F9805": {
+    "expires": "2026-03-19T16:53:29.798Z",
+    "hwid": "7856324416-02ae9c47-c31b-4055-98fb-aeaf604713fa",
+    "browserHwid": null,
+    "username": "biledocapa",
+    "userId": "7856324416",
+    "source": "script",
+    "createdAt": "2026-03-18T16:53:30.128Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.177.218.109",
+      "city": "Montes Claros",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
