@@ -13742,5 +13742,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-691127-445D65-E701A4": {
+    "expires": "2026-03-19T16:05:34.554Z",
+    "hwid": "10449666047-5EA7B996-7D74-4E08-A647-98BC1647517A",
+    "browserHwid": null,
+    "username": "Jaw22233398",
+    "userId": "10449666047",
+    "source": "script",
+    "createdAt": "2026-03-18T16:05:34.921Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.6.162.155",
+      "city": "Rio de Janeiro",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
