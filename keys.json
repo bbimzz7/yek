@@ -11802,5 +11802,22 @@
       "country": "Kyrgyzstan",
       "cc": "KG"
     }
+  },
+  "VH-1C557D-58D8AA-0F501C": {
+    "expires": "2026-03-19T09:28:31.049Z",
+    "hwid": "9938783721-f21fba3f-9643-4233-b8b7-9f328bcd32dc",
+    "browserHwid": null,
+    "username": "SahaSia887",
+    "userId": "9938783721",
+    "source": "script",
+    "createdAt": "2026-03-18T09:28:31.284Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.129.158",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
