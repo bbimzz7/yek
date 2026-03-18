@@ -13934,5 +13934,22 @@
       "country": "Georgia",
       "cc": "GE"
     }
+  },
+  "VH-695DAE-B219E3-FEF819": {
+    "expires": "2026-03-19T16:53:23.084Z",
+    "hwid": "7674153469-5d2dd9c4-de9b-42ff-b9c3-9a85dfb66777",
+    "browserHwid": null,
+    "username": "Elgatto_rafael",
+    "userId": "7674153469",
+    "source": "script",
+    "createdAt": "2026-03-18T16:53:23.631Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.210.91.173",
+      "city": "Kuching",
+      "region": "Sarawak",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
