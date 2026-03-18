@@ -11617,5 +11617,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-FDC4D0-1B310B-2074EB": {
+    "expires": "2026-03-19T09:07:48.724Z",
+    "hwid": "8754030715-2613015b-618f-4311-8955-b554fdb86f29",
+    "browserHwid": null,
+    "username": "Ardi_5739",
+    "userId": "8754030715",
+    "source": "script",
+    "createdAt": "2026-03-18T09:07:49.199Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.227.187.245",
+      "city": "Sumbersewu",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
