@@ -12820,5 +12820,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-657359-38650A-AF9E2F": {
+    "expires": "2026-03-19T13:03:40.587Z",
+    "hwid": "6169945653-25f9183b-c727-4211-b28c-6cd6efde0981",
+    "browserHwid": null,
+    "username": "empressprin6",
+    "userId": "6169945653",
+    "source": "script",
+    "createdAt": "2026-03-18T13:03:40.877Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.125.104.220",
+      "city": "Clark",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
