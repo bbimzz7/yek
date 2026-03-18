@@ -13535,7 +13535,7 @@
     "userId": "5442360729",
     "source": "script",
     "createdAt": "2026-03-18T15:26:38.980Z",
-    "lastUsed": "2026-03-18T19:38:29.036Z",
+    "lastUsed": "2026-03-18T19:47:34.695Z",
     "geo": {
       "ip": "149.102.239.228",
       "city": "Bucharest",
@@ -13544,11 +13544,11 @@
       "cc": "RO"
     },
     "lastGeo": {
-      "ip": "57.128.173.54",
-      "city": "Erith",
-      "region": "England",
-      "country": "United Kingdom",
-      "cc": "GB"
+      "ip": "141.94.21.195",
+      "city": "Gravelines",
+      "region": "Hauts-de-France",
+      "country": "France",
+      "cc": "FR"
     }
   },
   "VH-8DD6A0-7C3A0F-1D5D40": {
