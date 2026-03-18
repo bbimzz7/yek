@@ -12772,5 +12772,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-94870B-2415E5-E8E329": {
+    "expires": "2026-03-19T12:56:24.017Z",
+    "hwid": "10043706027-890ebd80-d89b-4a76-8567-445595c9aaf7",
+    "browserHwid": null,
+    "username": "Afdal_Roblox99",
+    "userId": "10043706027",
+    "source": "script",
+    "createdAt": "2026-03-18T12:56:24.261Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.2.203.253",
+      "city": "Wasior",
+      "region": "West Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
