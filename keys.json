@@ -15693,5 +15693,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-623E85-35056E-1441F1": {
+    "expires": "2026-03-19T23:24:06.031Z",
+    "hwid": "3673443863-a42c9564-5a29-4936-a91e-739b26893451",
+    "browserHwid": null,
+    "username": "ahmadalkati12samar",
+    "userId": "3673443863",
+    "source": "script",
+    "createdAt": "2026-03-18T23:24:06.276Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.194.60.170",
+      "city": "Braunschweig",
+      "region": "Lower Saxony",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
