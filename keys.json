@@ -12237,5 +12237,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-844137-1865B0-02DBA5": {
+    "expires": "2026-03-19T11:38:28.966Z",
+    "hwid": "7933131978-BF93054C-63E8-4724-886C-3BFAF5B2B2C0",
+    "browserHwid": null,
+    "username": "rip_moha750",
+    "userId": "7933131978",
+    "source": "script",
+    "createdAt": "2026-03-18T11:38:29.307Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.97.163.7",
+      "city": "Tangier",
+      "region": "Tanger-Tetouan-Al Hoceima",
+      "country": "Morocco",
+      "cc": "MA"
+    }
   }
 }
