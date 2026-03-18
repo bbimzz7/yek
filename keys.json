@@ -15702,8 +15702,15 @@
     "userId": "3673443863",
     "source": "script",
     "createdAt": "2026-03-18T23:24:06.276Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T23:24:13.460Z",
     "geo": {
+      "ip": "188.194.60.170",
+      "city": "Braunschweig",
+      "region": "Lower Saxony",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "188.194.60.170",
       "city": "Braunschweig",
       "region": "Lower Saxony",
