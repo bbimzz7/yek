@@ -11238,5 +11238,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EDE700-CBEB9F-A60A45": {
+    "expires": "2026-03-19T07:55:16.877Z",
+    "hwid": "9787972788-0B1ABD75-1B15-4E5C-BE2C-20216D0A9B8F",
+    "browserHwid": null,
+    "username": "Mr_Arsen4ik",
+    "userId": "9787972788",
+    "source": "script",
+    "createdAt": "2026-03-18T07:55:17.326Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.8.242.153",
+      "city": "Khasavyurt",
+      "region": "Dagestan",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
