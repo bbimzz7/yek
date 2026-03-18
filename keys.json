@@ -9340,5 +9340,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-9362B2-8E02A9-002F29": {
+    "expires": "2026-03-19T02:58:11.604Z",
+    "hwid": "9465550698-02a90924-7703-47c3-ab44-577c9b50f693",
+    "browserHwid": null,
+    "username": "XYZ_REZA20129",
+    "userId": "9465550698",
+    "source": "script",
+    "createdAt": "2026-03-18T02:58:11.900Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.130.63",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
