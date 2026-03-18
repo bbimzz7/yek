@@ -10581,8 +10581,15 @@
     "userId": "1118592130",
     "source": "script",
     "createdAt": "2026-03-18T05:38:48.537Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T05:38:53.885Z",
     "geo": {
+      "ip": "171.225.201.92",
+      "city": "Haiphong",
+      "region": "Haiphong",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "171.225.201.92",
       "city": "Haiphong",
       "region": "Haiphong",
