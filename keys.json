@@ -10950,5 +10950,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-3C5DDB-AB6F54-E85D2B": {
+    "expires": "2026-03-19T06:48:18.626Z",
+    "hwid": "5047757624-17877417-36ac-4cf0-b8a8-256d4a793e6a",
+    "browserHwid": null,
+    "username": "virza_gemeng",
+    "userId": "5047757624",
+    "source": "script",
+    "createdAt": "2026-03-18T06:48:18.854Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.161.110",
+      "city": "Cirebon",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
