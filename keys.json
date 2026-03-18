@@ -15438,8 +15438,15 @@
     "userId": "8697600421",
     "source": "script",
     "createdAt": "2026-03-18T22:22:20.165Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T22:22:31.223Z",
     "geo": {
+      "ip": "180.247.44.33",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.247.44.33",
       "city": "Palu",
       "region": "Central Sulawesi",
