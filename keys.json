@@ -11502,5 +11502,22 @@
       "country": "Mauritius",
       "cc": "MU"
     }
+  },
+  "VH-F90D7D-6E83BB-AEC7C9": {
+    "expires": "2026-03-19T08:41:23.501Z",
+    "hwid": null,
+    "browserHwid": "BR-3B6539C3-MUDVC",
+    "username": "mj_fan577",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-18T08:41:23.756Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.162.245.110",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
