@@ -12933,5 +12933,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-830FFF-33DAAD-18AFF6": {
+    "expires": "2026-03-19T13:25:12.710Z",
+    "hwid": "753522780-a01696eb-52c7-4178-9c50-c5a71eee2a86",
+    "browserHwid": null,
+    "username": "imam_6",
+    "userId": "753522780",
+    "source": "script",
+    "createdAt": "2026-03-18T13:25:13.028Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.168.225",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
