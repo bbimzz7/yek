@@ -11430,5 +11430,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A8E2B8-8598CE-C033E3": {
+    "expires": "2026-03-19T08:39:33.415Z",
+    "hwid": "10166716531-2267c2b4-7a8f-46f5-b9e8-242d07a13910",
+    "browserHwid": null,
+    "username": "UNSAIS12",
+    "userId": "10166716531",
+    "source": "script",
+    "createdAt": "2026-03-18T08:39:33.885Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.84.37.239",
+      "city": "Salvador",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
