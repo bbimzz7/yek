@@ -4316,7 +4316,7 @@
     "userId": "10659804838",
     "source": "script",
     "createdAt": "2026-03-17T13:36:40.210Z",
-    "lastUsed": "2026-03-17T13:37:00.437Z",
+    "lastUsed": "2026-03-18T00:55:18.705Z",
     "geo": {
       "ip": "116.206.214.76",
       "city": "Sukadana",
@@ -4325,8 +4325,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "116.206.214.76",
-      "city": "Sukadana",
+      "ip": "116.206.214.177",
+      "city": "Sekampung",
       "region": "Lampung",
       "country": "Indonesia",
       "cc": "ID"
