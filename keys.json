@@ -15405,5 +15405,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D9E185-079CFF-3AE901": {
+    "expires": "2026-03-19T22:21:43.236Z",
+    "hwid": "4447426070-97a5d9f2-9b1c-4240-beb9-964f7c4e2b6c",
+    "browserHwid": null,
+    "username": "Gaeeeel071217",
+    "userId": "4447426070",
+    "source": "script",
+    "createdAt": "2026-03-18T22:21:43.721Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.23.38",
+      "city": "Arlington",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
