@@ -15782,5 +15782,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-5F5728-24DF70-D9D29A": {
+    "expires": "2026-03-19T23:33:42.365Z",
+    "hwid": "5442360729-2a7306e0-3fa1-4033-8284-3f42d9a50757",
+    "browserHwid": null,
+    "username": "Zpoxzzz",
+    "userId": "5442360729",
+    "source": "script",
+    "createdAt": "2026-03-18T23:33:42.633Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "141.94.21.195",
+      "city": "Gravelines",
+      "region": "Hauts-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
