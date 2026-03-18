@@ -11905,5 +11905,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-C88B11-2D29D1-67FF05": {
+    "expires": "2026-03-19T09:57:26.886Z",
+    "hwid": "6083483026-ad470984-0a09-4b3b-bb65-0c0417afdd26",
+    "browserHwid": null,
+    "username": "chippxinhh210613",
+    "userId": "6083483026",
+    "source": "script",
+    "createdAt": "2026-03-18T09:57:27.160Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.178.216.173",
+      "city": "Thị Trấn Quảng Uyên",
+      "region": "Cao Bằng Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
