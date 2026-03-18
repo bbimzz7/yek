@@ -8553,8 +8553,15 @@
     "userId": "5611423291",
     "source": "script",
     "createdAt": "2026-03-18T00:01:51.945Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T00:02:01.868Z",
     "geo": {
+      "ip": "177.193.125.46",
+      "city": "Aparecida",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.193.125.46",
       "city": "Aparecida",
       "region": "São Paulo",
