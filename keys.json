@@ -15838,5 +15838,22 @@
       "country": "Jamaica",
       "cc": "JM"
     }
+  },
+  "VH-D6D5D5-D308EC-E07711": {
+    "expires": "2026-03-19T23:49:55.550Z",
+    "hwid": "8489298498-5bb556cd-8378-4f1e-99b1-9c908a45d6c0",
+    "browserHwid": null,
+    "username": "MONTAI_FIGHT",
+    "userId": "8489298498",
+    "source": "script",
+    "createdAt": "2026-03-18T23:49:56.000Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.101.84.6",
+      "city": "Tanjungluar",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
