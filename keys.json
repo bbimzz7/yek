@@ -12436,5 +12436,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B3F256-A8970C-DAC5FE": {
+    "expires": "2026-03-19T12:21:07.697Z",
+    "hwid": "10680636021-16a4e55a-9749-4aab-8b45-32479543465b",
+    "browserHwid": null,
+    "username": "SofuaLoveGkeb",
+    "userId": "10680636021",
+    "source": "script",
+    "createdAt": "2026-03-18T12:21:08.251Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "148.153.140.219",
+      "city": "Mumbai",
+      "region": "Maharashtra",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
