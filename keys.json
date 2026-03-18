@@ -14489,8 +14489,15 @@
     "userId": "10596432983",
     "source": "script",
     "createdAt": "2026-03-18T19:15:46.105Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T19:17:49.056Z",
     "geo": {
+      "ip": "170.80.63.75",
+      "city": "Pedra Preta",
+      "region": "Mato Grosso",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "170.80.63.75",
       "city": "Pedra Preta",
       "region": "Mato Grosso",
