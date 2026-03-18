@@ -11190,5 +11190,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-ECE829-417E75-C4B6C1": {
+    "expires": "2026-03-19T07:40:24.379Z",
+    "hwid": "4338207583-94f0f017-5cab-45a1-b245-823175772d61",
+    "browserHwid": null,
+    "username": "RizkSmile",
+    "userId": "4338207583",
+    "source": "script",
+    "createdAt": "2026-03-18T07:40:24.631Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.18.35.106",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
