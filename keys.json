@@ -10557,8 +10557,15 @@
     "userId": "5679767822",
     "source": "script",
     "createdAt": "2026-03-18T05:36:45.120Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T05:37:02.205Z",
     "geo": {
+      "ip": "188.70.59.141",
+      "city": "Kuwait City",
+      "region": "Al Asimah",
+      "country": "Kuwait",
+      "cc": "KW"
+    },
+    "lastGeo": {
       "ip": "188.70.59.141",
       "city": "Kuwait City",
       "region": "Al Asimah",
