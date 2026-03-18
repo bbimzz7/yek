@@ -11890,8 +11890,15 @@
     "userId": "4728995072",
     "source": "script",
     "createdAt": "2026-03-18T09:52:23.258Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T09:52:28.838Z",
     "geo": {
+      "ip": "178.206.241.217",
+      "city": "Naberezhnyye Chelny",
+      "region": "Tatarstan Republic",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "178.206.241.217",
       "city": "Naberezhnyye Chelny",
       "region": "Tatarstan Republic",
