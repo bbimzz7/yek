@@ -10935,8 +10935,15 @@
     "userId": "8669778276",
     "source": "script",
     "createdAt": "2026-03-18T06:44:53.936Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T06:45:02.682Z",
     "geo": {
+      "ip": "162.43.191.72",
+      "city": "Dallas",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "162.43.191.72",
       "city": "Dallas",
       "region": "Texas",
