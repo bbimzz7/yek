@@ -12868,5 +12868,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-F9C308-BA7786-E6C8B2": {
+    "expires": "2026-03-19T13:18:17.090Z",
+    "hwid": "10662699657-552baa13-1101-466d-a722-23b004fa087b",
+    "browserHwid": null,
+    "username": "putra_brazil14",
+    "userId": "10662699657",
+    "source": "script",
+    "createdAt": "2026-03-18T13:18:17.581Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.211.97.9",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
