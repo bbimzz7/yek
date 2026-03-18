@@ -9162,5 +9162,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-8ECD34-CAD25C-172D41": {
+    "expires": "2026-03-19T02:14:35.330Z",
+    "hwid": "10620930936-d16379d8-f70a-480a-a65b-66d6688cef60",
+    "browserHwid": null,
+    "username": "ESEWE_XD9",
+    "userId": "10620930936",
+    "source": "script",
+    "createdAt": "2026-03-18T02:14:35.719Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.86.75.63",
+      "city": "San Salvador",
+      "region": "San Salvador Department",
+      "country": "El Salvador",
+      "cc": "SV"
+    }
   }
 }
