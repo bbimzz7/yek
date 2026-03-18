@@ -13245,5 +13245,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-53C298-3CFFF2-BD9CB9": {
+    "expires": "2026-03-19T14:29:55.323Z",
+    "hwid": "7619860312-51e42509-45c3-4831-b219-50bcc1ac996a",
+    "browserHwid": null,
+    "username": "Sophiaherobrine800",
+    "userId": "7619860312",
+    "source": "script",
+    "createdAt": "2026-03-18T14:29:55.881Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "78.25.4.80",
+      "city": "Polonne",
+      "region": "Khmelnytskyi Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
