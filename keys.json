@@ -14970,5 +14970,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-CE2F2D-E6E77C-DCF778": {
+    "expires": "2026-03-19T20:23:48.895Z",
+    "hwid": "10591243760-49D0F510-C37F-4F8F-B04D-244B6F9DE584",
+    "browserHwid": null,
+    "username": "testingtheselll",
+    "userId": "10591243760",
+    "source": "script",
+    "createdAt": "2026-03-18T20:23:49.437Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.38.57.183",
+      "city": "Abu Dhabi",
+      "region": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
