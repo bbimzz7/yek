@@ -1922,7 +1922,7 @@
     "userId": "7454039417",
     "source": "script",
     "createdAt": "2026-03-17T07:44:06.749Z",
-    "lastUsed": "2026-03-17T07:44:16.542Z",
+    "lastUsed": "2026-03-18T02:17:05.619Z",
     "geo": {
       "ip": "27.125.243.137",
       "city": "Bukit Gemuroh",
@@ -1931,9 +1931,9 @@
       "cc": "MY"
     },
     "lastGeo": {
-      "ip": "27.125.243.137",
-      "city": "Bukit Gemuroh",
-      "region": "Penang",
+      "ip": "182.63.106.117",
+      "city": "Kuching",
+      "region": "Sarawak",
       "country": "Malaysia",
       "cc": "MY"
     }
