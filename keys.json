@@ -15066,5 +15066,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-EDCB11-5CA38E-5978BD": {
+    "expires": "2026-03-19T21:05:26.892Z",
+    "hwid": "10690817248-462f3631-d038-41c1-b85a-a3023f2a5372",
+    "browserHwid": null,
+    "username": "AkariAoki00",
+    "userId": "10690817248",
+    "source": "script",
+    "createdAt": "2026-03-18T21:05:27.385Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "51.178.86.121",
+      "city": "Strasbourg",
+      "region": "Grand Est",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
