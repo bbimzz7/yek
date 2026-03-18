@@ -13293,5 +13293,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-615446-B8D257-612779": {
+    "expires": "2026-03-19T14:34:18.138Z",
+    "hwid": "10564582210-cd14c46d-1817-4781-88c6-5b6f85418e83",
+    "browserHwid": null,
+    "username": "lolipops20262",
+    "userId": "10564582210",
+    "source": "script",
+    "createdAt": "2026-03-18T14:34:18.460Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "141.105.139.159",
+      "city": "Kyiv",
+      "region": "Kyiv City",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
