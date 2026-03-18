@@ -15462,8 +15462,15 @@
     "userId": "8015340158",
     "source": "script",
     "createdAt": "2026-03-18T22:38:04.123Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T22:38:12.920Z",
     "geo": {
+      "ip": "179.0.107.143",
+      "city": "Ciudad Ojeda",
+      "region": "Zulia",
+      "country": "Venezuela",
+      "cc": "VE"
+    },
+    "lastGeo": {
       "ip": "179.0.107.143",
       "city": "Ciudad Ojeda",
       "region": "Zulia",
