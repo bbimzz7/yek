@@ -10225,5 +10225,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E55C6C-C814DA-A47FF8": {
+    "expires": "2026-03-19T04:56:21.628Z",
+    "hwid": "9568579831-0d33e8de-9595-4f31-bbbf-d4a99b779e79",
+    "browserHwid": null,
+    "username": "Astro_meenV2",
+    "userId": "9568579831",
+    "source": "script",
+    "createdAt": "2026-03-18T04:56:22.068Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.245.235.125",
+      "city": "Srengseng",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
