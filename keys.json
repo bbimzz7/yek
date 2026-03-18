@@ -11929,5 +11929,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-672734-FC4E2E-D94806": {
+    "expires": "2026-03-19T10:02:20.305Z",
+    "hwid": "4641730727-8886fc4e-deb3-4f46-a6fe-8a296f87afc7",
+    "browserHwid": null,
+    "username": "riccogamer14yt",
+    "userId": "4641730727",
+    "source": "script",
+    "createdAt": "2026-03-18T10:02:20.586Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.161.182.153",
+      "city": "Milano",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
