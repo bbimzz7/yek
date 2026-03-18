@@ -13982,5 +13982,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-D59F46-F9C32A-39DB98": {
+    "expires": "2026-03-19T16:57:40.178Z",
+    "hwid": "9487930453-18d85596-3766-45db-96ec-267725be7dd8",
+    "browserHwid": null,
+    "username": "Sopoaku87",
+    "userId": "9487930453",
+    "source": "script",
+    "createdAt": "2026-03-18T16:57:40.512Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.99.241",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
