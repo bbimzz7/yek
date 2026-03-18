@@ -10081,5 +10081,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-A27716-23E61D-73936F": {
+    "expires": "2026-03-19T04:23:01.144Z",
+    "hwid": "2872492482-f49af1c7-ea8e-4520-92a9-6d4b97272c9d",
+    "browserHwid": null,
+    "username": "sanasy_852",
+    "userId": "2872492482",
+    "source": "script",
+    "createdAt": "2026-03-18T04:23:01.314Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.88.232.179",
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
