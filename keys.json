@@ -10774,8 +10774,15 @@
     "userId": "8263792455",
     "source": "script",
     "createdAt": "2026-03-18T06:25:57.644Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T06:26:07.663Z",
     "geo": {
+      "ip": "38.171.160.202",
+      "city": "Maracaibo",
+      "region": "Zulia",
+      "country": "Venezuela",
+      "cc": "VE"
+    },
+    "lastGeo": {
       "ip": "38.171.160.202",
       "city": "Maracaibo",
       "region": "Zulia",
