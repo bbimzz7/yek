@@ -9600,8 +9600,15 @@
     "userId": "7723074767",
     "source": "script",
     "createdAt": "2026-03-18T03:20:12.171Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T03:21:30.804Z",
     "geo": {
+      "ip": "103.173.140.177",
+      "city": "Kroya",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.173.140.177",
       "city": "Kroya",
       "region": "Central Java",
