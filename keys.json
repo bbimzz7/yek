@@ -13182,8 +13182,15 @@
     "userId": "10191010886",
     "source": "script",
     "createdAt": "2026-03-18T14:07:13.037Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T14:14:55.875Z",
     "geo": {
+      "ip": "169.239.85.50",
+      "city": "Sasolburg",
+      "region": "Free State",
+      "country": "South Africa",
+      "cc": "ZA"
+    },
+    "lastGeo": {
       "ip": "169.239.85.50",
       "city": "Sasolburg",
       "region": "Free State",
