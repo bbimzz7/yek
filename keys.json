@@ -11046,5 +11046,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-80BDE9-3B752C-B4CF56": {
+    "expires": "2026-03-19T07:10:26.319Z",
+    "hwid": "10670941962-5bb7bb06-1313-4cbc-8a35-c94d4c22c0af",
+    "browserHwid": null,
+    "username": "coughingcloud",
+    "userId": "10670941962",
+    "source": "script",
+    "createdAt": "2026-03-18T07:10:26.582Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.39.117",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
