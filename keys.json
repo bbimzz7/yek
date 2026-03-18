@@ -13254,8 +13254,15 @@
     "userId": "7619860312",
     "source": "script",
     "createdAt": "2026-03-18T14:29:55.881Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T14:30:10.903Z",
     "geo": {
+      "ip": "78.25.4.80",
+      "city": "Polonne",
+      "region": "Khmelnytskyi Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "78.25.4.80",
       "city": "Polonne",
       "region": "Khmelnytskyi Oblast",
