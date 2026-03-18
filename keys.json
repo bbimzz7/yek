@@ -14078,5 +14078,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-A11A0D-5A0EB6-26C367": {
+    "expires": "2026-03-19T17:37:40.482Z",
+    "hwid": "7356327663-34bbb398-e648-4475-aaa5-26393f7bceef",
+    "browserHwid": null,
+    "username": "rFiIHqEWaNV",
+    "userId": "7356327663",
+    "source": "script",
+    "createdAt": "2026-03-18T17:37:40.968Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.53.205.241",
+      "city": "Chiang Mai",
+      "region": "Chiang Mai",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
