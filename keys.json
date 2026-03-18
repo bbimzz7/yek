@@ -10393,5 +10393,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-8FF6DD-58F429-E6E583": {
+    "expires": "2026-03-19T05:16:23.874Z",
+    "hwid": null,
+    "browserHwid": "BR-0C4FC2A0-3YE1M",
+    "username": "Kejawa",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-18T05:16:24.092Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.11.154.167",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
