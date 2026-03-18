@@ -12364,5 +12364,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-46E468-B2C9B5-0D54A3": {
+    "expires": "2026-03-19T11:58:45.064Z",
+    "hwid": "7760871416-c52888b1-e94c-4fd5-a3ab-7c6cf8c4225c",
+    "browserHwid": null,
+    "username": "Vzy_Km",
+    "userId": "7760871416",
+    "source": "script",
+    "createdAt": "2026-03-18T11:58:45.296Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.5.242.113",
+      "city": "Hua Hin",
+      "region": "Prachuap Khiri Khan",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
