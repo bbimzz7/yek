@@ -12637,8 +12637,15 @@
     "userId": "8655843460",
     "source": "script",
     "createdAt": "2026-03-18T12:39:36.453Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T12:40:20.406Z",
     "geo": {
+      "ip": "194.187.250.51",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "194.187.250.51",
       "city": "Frankfurt am Main",
       "region": "Hesse",
