@@ -12388,5 +12388,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-E0DB62-64BE3F-2162E6": {
+    "expires": "2026-03-19T12:03:08.148Z",
+    "hwid": "9409925017-01516302-7dfa-4a14-b52b-f63b5eacb647",
+    "browserHwid": null,
+    "username": "Zahradelisa1123",
+    "userId": "9409925017",
+    "source": "script",
+    "createdAt": "2026-03-18T12:03:08.425Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.75.255.61",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
