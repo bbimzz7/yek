@@ -10194,5 +10194,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-2070C1-898910-570D92": {
+    "expires": "2026-03-19T04:47:13.518Z",
+    "hwid": "9984680361-905e0f0b-5e7c-4bf7-b96e-dd91245edb41",
+    "browserHwid": null,
+    "username": "monisamonic",
+    "userId": "9984680361",
+    "source": "script",
+    "createdAt": "2026-03-18T04:47:13.761Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.198.160.88",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
