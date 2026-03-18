@@ -14609,8 +14609,15 @@
     "userId": "4729757882",
     "source": "script",
     "createdAt": "2026-03-18T19:28:02.215Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T19:33:25.434Z",
     "geo": {
+      "ip": "95.70.202.103",
+      "city": "Bursa",
+      "region": "Bursa Province",
+      "country": "Türkiye",
+      "cc": "TR"
+    },
+    "lastGeo": {
       "ip": "95.70.202.103",
       "city": "Bursa",
       "region": "Bursa Province",
