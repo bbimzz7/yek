@@ -13727,8 +13727,15 @@
     "userId": "1167471149",
     "source": "script",
     "createdAt": "2026-03-18T16:01:45.558Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T16:02:09.376Z",
     "geo": {
+      "ip": "45.180.63.6",
+      "city": "Presidente Derqui",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "45.180.63.6",
       "city": "Presidente Derqui",
       "region": "Buenos Aires",
