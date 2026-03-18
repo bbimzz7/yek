@@ -12412,5 +12412,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-ABAC31-BD6462-512B49": {
+    "expires": "2026-03-19T12:08:20.676Z",
+    "hwid": "7221686995-66507257-3bdf-4754-ae76-7fa1b42e1d9f",
+    "browserHwid": null,
+    "username": "DIMASRUNGKAT",
+    "userId": "7221686995",
+    "source": "script",
+    "createdAt": "2026-03-18T12:08:20.923Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.47.132.61",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
