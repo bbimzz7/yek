@@ -10410,5 +10410,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DE5B93-D89419-144A08": {
+    "expires": "2026-03-19T05:18:47.796Z",
+    "hwid": null,
+    "browserHwid": "BR-0C4FC2A0-XOR3Q",
+    "username": "ipin_gantank",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-18T05:18:48.004Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.11.154.167",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
