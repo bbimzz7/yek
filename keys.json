@@ -15429,5 +15429,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-98B65C-22A570-9D78A0": {
+    "expires": "2026-03-19T22:22:18.831Z",
+    "hwid": "8697600421-ef6ab619-a20f-4176-b9d5-1b1fc8418617",
+    "browserHwid": null,
+    "username": "DELD_583",
+    "userId": "8697600421",
+    "source": "script",
+    "createdAt": "2026-03-18T22:22:20.165Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.44.33",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
