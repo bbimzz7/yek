@@ -10413,14 +10413,22 @@
   },
   "VH-DE5B93-D89419-144A08": {
     "expires": "2026-03-19T05:18:47.796Z",
-    "hwid": null,
+    "hwid": "8360325726-98a80927-30cb-4ccb-be1b-4c88f5dd3414",
     "browserHwid": "BR-0C4FC2A0-XOR3Q",
     "username": "ipin_gantank",
-    "userId": null,
+    "userId": "8360325726",
     "source": "browser",
     "createdAt": "2026-03-18T05:18:48.004Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T05:19:46.056Z",
     "geo": {
+      "ip": "182.11.154.167",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-18T05:19:46.048Z",
+    "lastGeo": {
       "ip": "182.11.154.167",
       "city": "Pontianak",
       "region": "West Kalimantan",
