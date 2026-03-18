@@ -15477,5 +15477,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-D57EE8-4B6740-B17343": {
+    "expires": "2026-03-19T22:38:48.807Z",
+    "hwid": "8556992773-f6203b79-bf69-43eb-9a0e-ecb95a5efad5",
+    "browserHwid": null,
+    "username": "justman553",
+    "userId": "8556992773",
+    "source": "script",
+    "createdAt": "2026-03-18T22:38:49.112Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.134.148",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
