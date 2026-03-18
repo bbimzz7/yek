@@ -13631,8 +13631,15 @@
     "userId": "8911607085",
     "source": "script",
     "createdAt": "2026-03-18T15:45:41.229Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T15:45:49.714Z",
     "geo": {
+      "ip": "103.240.68.151",
+      "city": "Deli Tua",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.240.68.151",
       "city": "Deli Tua",
       "region": "North Sumatra",
