@@ -15717,5 +15717,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-E28263-E30B09-52BEDF": {
+    "expires": "2026-03-19T23:25:49.605Z",
+    "hwid": "7526402763-34777fbe-cc29-4852-aac2-92524919dfed",
+    "browserHwid": null,
+    "username": "not_buttercup8",
+    "userId": "7526402763",
+    "source": "script",
+    "createdAt": "2026-03-18T23:25:49.831Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "196.3.216.79",
+      "city": "Bridgetown",
+      "region": "Saint Michael",
+      "country": "Barbados",
+      "cc": "BB"
+    }
   }
 }
