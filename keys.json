@@ -10974,5 +10974,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-76E8C8-B51C79-DBAEE2": {
+    "expires": "2026-03-19T07:01:03.176Z",
+    "hwid": "3110055749-76e8abcd-829b-46d3-898a-45d2866e81af",
+    "browserHwid": null,
+    "username": "nics123uwu",
+    "userId": "3110055749",
+    "source": "script",
+    "createdAt": "2026-03-18T07:01:03.617Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.144.35.174",
+      "city": "Biñan",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
