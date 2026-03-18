@@ -13478,5 +13478,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-CDD43E-F8A693-65E9A8": {
+    "expires": "2026-03-19T15:12:43.249Z",
+    "hwid": "5017840984-464C7591-E7B5-4E65-A068-1C4FFFD41234",
+    "browserHwid": null,
+    "username": "Yuma_l4mommy",
+    "userId": "5017840984",
+    "source": "script",
+    "createdAt": "2026-03-18T15:12:43.824Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "81.56.175.58",
+      "city": "Milano",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
