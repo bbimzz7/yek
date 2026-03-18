@@ -14039,8 +14039,15 @@
     "userId": "7192409733",
     "source": "script",
     "createdAt": "2026-03-18T17:08:50.457Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T17:08:59.807Z",
     "geo": {
+      "ip": "35.145.120.34",
+      "city": "Orlando",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "35.145.120.34",
       "city": "Orlando",
       "region": "Florida",
