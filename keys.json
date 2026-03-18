@@ -13053,5 +13053,22 @@
       "country": "Belarus",
       "cc": "BY"
     }
+  },
+  "VH-4C1BAC-6A156E-20C7DC": {
+    "expires": "2026-03-19T13:39:37.115Z",
+    "hwid": "9005991399-5d9829ea-bda2-459e-a7be-56e1afc0c4bd",
+    "browserHwid": null,
+    "username": "Melisa27590",
+    "userId": "9005991399",
+    "source": "script",
+    "createdAt": "2026-03-18T13:39:37.430Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.236.174.222",
+      "city": "Diyarbakır",
+      "region": "Diyarbakır Province",
+      "country": "Türkiye",
+      "cc": "TR"
+    }
   }
 }
