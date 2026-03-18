@@ -13454,5 +13454,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F60E3C-BD31D5-024F0A": {
+    "expires": "2026-03-19T15:06:58.518Z",
+    "hwid": "4034615420-35dc3792-9440-4cd8-afc3-4a5153dc5eb7",
+    "browserHwid": null,
+    "username": "sympathyof",
+    "userId": "4034615420",
+    "source": "script",
+    "createdAt": "2026-03-18T15:06:58.955Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.235.184.84",
+      "city": "Prabuty",
+      "region": "Pomerania",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
