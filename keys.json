@@ -11527,5 +11527,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F357F0-058A25-21A6E1": {
+    "expires": "2026-03-19T08:51:38.702Z",
+    "hwid": "10525725285-71FCB334-7B7D-40A9-B7C8-D25B3D111401",
+    "browserHwid": null,
+    "username": "X7VXNM",
+    "userId": "10525725285",
+    "source": "script",
+    "createdAt": "2026-03-18T08:51:39.181Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.49.145.30",
+      "city": "Seogwipo-si",
+      "region": "Jeju-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
