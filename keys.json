@@ -15364,5 +15364,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-03D941-759D21-82D5E5": {
+    "expires": "2026-03-19T22:12:49.512Z",
+    "hwid": "10584606334-0108568d-2f35-4a65-9219-448f21bd4b8e",
+    "browserHwid": null,
+    "username": "Akthatgoh67",
+    "userId": "10584606334",
+    "source": "script",
+    "createdAt": "2026-03-18T22:12:49.757Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "209.232.200.145",
+      "city": "Des Moines",
+      "region": "Iowa",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
