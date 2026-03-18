@@ -15003,8 +15003,15 @@
     "userId": "7190839743",
     "source": "script",
     "createdAt": "2026-03-18T20:33:29.158Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T20:33:43.139Z",
     "geo": {
+      "ip": "5.34.29.210",
+      "city": "Aktobe",
+      "region": "Aktyubinskaya Oblast'",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "5.34.29.210",
       "city": "Aktobe",
       "region": "Aktyubinskaya Oblast'",
