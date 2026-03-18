@@ -9680,5 +9680,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-E3C998-E92AF9-57A85F": {
+    "expires": "2026-03-19T03:27:26.845Z",
+    "hwid": "9523199475-f525eec0-6a01-4910-8708-0404591c4ce4",
+    "browserHwid": null,
+    "username": "anjing8593",
+    "userId": "9523199475",
+    "source": "script",
+    "createdAt": "2026-03-18T03:27:27.033Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "139.194.132.122",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
