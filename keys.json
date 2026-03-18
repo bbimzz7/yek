@@ -10258,13 +10258,20 @@
     "userId": "10686096893",
     "source": "script",
     "createdAt": "2026-03-18T05:00:31.443Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T05:00:39.316Z",
     "geo": {
       "ip": "45.148.119.196",
       "city": "Warsaw",
       "region": "Mazovia",
       "country": "Poland",
       "cc": "PL"
+    },
+    "lastGeo": {
+      "ip": "188.113.150.103",
+      "city": "Yuzhno-Sakhalinsk",
+      "region": "Sakhalin Oblast",
+      "country": "Russia",
+      "cc": "RU"
     }
   }
 }
