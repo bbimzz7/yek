@@ -13134,8 +13134,15 @@
     "userId": "10396570514",
     "source": "script",
     "createdAt": "2026-03-18T13:56:16.846Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T13:57:14.531Z",
     "geo": {
+      "ip": "103.217.217.202",
+      "city": "Cileungsir",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.217.217.202",
       "city": "Cileungsir",
       "region": "West Java",
