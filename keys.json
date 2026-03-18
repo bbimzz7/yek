@@ -10049,8 +10049,15 @@
     "userId": "5503394918",
     "source": "script",
     "createdAt": "2026-03-18T04:17:07.943Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T04:19:40.284Z",
     "geo": {
+      "ip": "179.38.212.247",
+      "city": "Moreno",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "179.38.212.247",
       "city": "Moreno",
       "region": "Buenos Aires",
