@@ -10016,5 +10016,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-943BB7-462115-4D6286": {
+    "expires": "2026-03-19T04:16:00.652Z",
+    "hwid": "8603835428-a19279c4-36ec-4f35-8346-05758e7fb284",
+    "browserHwid": null,
+    "username": "mas_aniees",
+    "userId": "8603835428",
+    "source": "script",
+    "createdAt": "2026-03-18T04:16:00.859Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "149.88.107.76",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
