@@ -10596,5 +10596,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-F3F1DB-4B713C-CD42CD": {
+    "expires": "2026-03-19T05:39:39.149Z",
+    "hwid": "8356900493-00fbffd5-bcbf-4302-9315-70a2594bdabd",
+    "browserHwid": null,
+    "username": "INC0MU231982",
+    "userId": "8356900493",
+    "source": "script",
+    "createdAt": "2026-03-18T05:39:39.355Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.65.233.88",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
