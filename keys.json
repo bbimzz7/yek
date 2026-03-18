@@ -11962,8 +11962,15 @@
     "userId": "3090451600",
     "source": "script",
     "createdAt": "2026-03-18T10:05:10.283Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T10:05:15.949Z",
     "geo": {
+      "ip": "185.182.194.245",
+      "city": "Naaldwijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "185.182.194.245",
       "city": "Naaldwijk",
       "region": "South Holland",
