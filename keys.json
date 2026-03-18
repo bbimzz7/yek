@@ -10572,5 +10572,22 @@
       "country": "Kuwait",
       "cc": "KW"
     }
+  },
+  "VH-D154AC-6AEF86-00B711": {
+    "expires": "2026-03-19T05:38:48.329Z",
+    "hwid": "1118592130-5BAC4934-266B-4484-A823-F5BB134E2084",
+    "browserHwid": null,
+    "username": "beocon1234",
+    "userId": "1118592130",
+    "source": "script",
+    "createdAt": "2026-03-18T05:38:48.537Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.225.201.92",
+      "city": "Haiphong",
+      "region": "Haiphong",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
