@@ -10885,5 +10885,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-F732F7-8452B6-205A35": {
+    "expires": "2026-03-19T06:37:30.046Z",
+    "hwid": "9770082818-b7557231-6712-4812-a6e7-0c2d580be128",
+    "browserHwid": null,
+    "username": "ilovebacons90420",
+    "userId": "9770082818",
+    "source": "script",
+    "createdAt": "2026-03-18T06:37:30.264Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "131.226.103.107",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
