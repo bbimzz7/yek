@@ -14617,5 +14617,22 @@
       "country": "Türkiye",
       "cc": "TR"
     }
+  },
+  "VH-5A035B-F67D9D-0C1A08": {
+    "expires": "2026-03-19T19:28:57.388Z",
+    "hwid": "10026967621-49a1790b-4ccf-4fd7-9316-cf09c2037589",
+    "browserHwid": null,
+    "username": "marmoetxoxo",
+    "userId": "10026967621",
+    "source": "script",
+    "createdAt": "2026-03-18T19:28:57.632Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.129.150.70",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
