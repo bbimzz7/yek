@@ -9944,5 +9944,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-617022-8A9D3B-544821": {
+    "expires": "2026-03-19T04:07:03.599Z",
+    "hwid": "2434855288-ac4339bc-a3f7-4d7f-89ff-4aea4ae6d745",
+    "browserHwid": null,
+    "username": "Sebastian897uwu",
+    "userId": "2434855288",
+    "source": "script",
+    "createdAt": "2026-03-18T04:07:03.795Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.115.59.222",
+      "city": "Tegucigalpa",
+      "region": "Francisco Morazán Department",
+      "country": "Honduras",
+      "cc": "HN"
+    }
   }
 }
