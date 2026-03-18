@@ -12460,5 +12460,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-5E417E-557CFD-6F617A": {
+    "expires": "2026-03-19T12:21:57.440Z",
+    "hwid": "10688665690-dfab0bf7-a013-4c29-b1d1-925ee056c575",
+    "browserHwid": null,
+    "username": "jambita64",
+    "userId": "10688665690",
+    "source": "script",
+    "createdAt": "2026-03-18T12:21:57.955Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.178.253",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
