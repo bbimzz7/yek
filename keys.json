@@ -10533,8 +10533,15 @@
     "userId": "8773404875",
     "source": "script",
     "createdAt": "2026-03-18T05:35:26.740Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T05:35:38.249Z",
     "geo": {
+      "ip": "180.248.10.11",
+      "city": "Kediri",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.248.10.11",
       "city": "Kediri",
       "region": "East Java",
