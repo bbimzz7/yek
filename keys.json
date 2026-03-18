@@ -11551,5 +11551,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-F13AA6-8525EB-E55571": {
+    "expires": "2026-03-19T08:57:42.676Z",
+    "hwid": null,
+    "browserHwid": "BR-05819E45-LXFEB",
+    "username": "jaitx1233",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-18T08:57:43.120Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "58.69.69.176",
+      "city": "Pasay",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
