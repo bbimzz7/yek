@@ -9656,5 +9656,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C654A7-D727A7-0350DE": {
+    "expires": "2026-03-19T03:26:48.353Z",
+    "hwid": "3350640283-1f3d7544-73c7-4e7b-b681-af9ad26e3f27",
+    "browserHwid": null,
+    "username": "deathvo1ces",
+    "userId": "3350640283",
+    "source": "script",
+    "createdAt": "2026-03-18T03:26:48.575Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.85.50.52",
+      "city": "Miami",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
