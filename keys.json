@@ -12628,5 +12628,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-844EBB-3218C7-CFBC91": {
+    "expires": "2026-03-19T12:39:35.960Z",
+    "hwid": "8655843460-213bab26-de8a-40c4-a103-09deddc0aabb",
+    "browserHwid": null,
+    "username": "aseelmoulla98761",
+    "userId": "8655843460",
+    "source": "script",
+    "createdAt": "2026-03-18T12:39:36.453Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "194.187.250.51",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
