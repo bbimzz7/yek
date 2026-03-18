@@ -11866,8 +11866,15 @@
     "userId": "7441592241",
     "source": "script",
     "createdAt": "2026-03-18T09:52:17.947Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T09:52:26.000Z",
     "geo": {
+      "ip": "39.38.194.166",
+      "city": "Bahawalpur",
+      "region": "Punjab",
+      "country": "Pakistan",
+      "cc": "PK"
+    },
+    "lastGeo": {
       "ip": "39.38.194.166",
       "city": "Bahawalpur",
       "region": "Punjab",
