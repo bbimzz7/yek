@@ -14946,5 +14946,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-5819CA-05EFF1-7574EE": {
+    "expires": "2026-03-19T20:17:35.633Z",
+    "hwid": "10063938787-00bca5bf-8f20-432e-9489-38cf26664968",
+    "browserHwid": null,
+    "username": "creitinmiojo",
+    "userId": "10063938787",
+    "source": "script",
+    "createdAt": "2026-03-18T20:17:35.836Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.95.45.168",
+      "city": "Nova Friburgo",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
