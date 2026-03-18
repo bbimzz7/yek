@@ -11094,5 +11094,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-AE82E1-9AFA2F-EB0592": {
+    "expires": "2026-03-19T07:11:55.852Z",
+    "hwid": "8690517848-f000282d-35ee-40db-b8ea-d256ebddcb04",
+    "browserHwid": null,
+    "username": "irfan_delta",
+    "userId": "8690517848",
+    "source": "script",
+    "createdAt": "2026-03-18T07:11:56.052Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.46.101",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
