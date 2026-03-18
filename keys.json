@@ -9533,5 +9533,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-79B6F4-F98ED8-F9EA87": {
+    "expires": "2026-03-19T03:15:39.694Z",
+    "hwid": "10463407417-7700d9ec-341f-4981-8a00-399a9bed1e70",
+    "browserHwid": null,
+    "username": "uryufdggfy",
+    "userId": "10463407417",
+    "source": "script",
+    "createdAt": "2026-03-18T03:15:39.878Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "93.36.169.230",
+      "city": "Turin",
+      "region": "Piedmont",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
