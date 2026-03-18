@@ -10323,8 +10323,15 @@
     "userId": "8462157743",
     "source": "script",
     "createdAt": "2026-03-18T05:08:35.732Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T05:08:40.705Z",
     "geo": {
+      "ip": "182.8.100.70",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.8.100.70",
       "city": "Surabaya",
       "region": "East Java",
