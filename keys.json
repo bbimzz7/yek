@@ -13886,5 +13886,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-71D70A-82C65E-111CEF": {
+    "expires": "2026-03-19T16:39:42.080Z",
+    "hwid": "6223875001-c0237596-c6aa-488e-bea2-5712a7253c79",
+    "browserHwid": null,
+    "username": "BlueberryFriends3",
+    "userId": "6223875001",
+    "source": "script",
+    "createdAt": "2026-03-18T16:39:42.605Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "211.30.176.59",
+      "city": "Brisbane",
+      "region": "Queensland",
+      "country": "Australia",
+      "cc": "AU"
+    }
   }
 }
