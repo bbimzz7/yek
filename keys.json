@@ -14247,5 +14247,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-45BBC0-D71B47-F38A01": {
+    "expires": "2026-03-19T18:39:08.648Z",
+    "hwid": "8703193725-03dc7651-bf11-45c6-88fb-8c2bd7a0e0c9",
+    "browserHwid": null,
+    "username": "Kai_andasc",
+    "userId": "8703193725",
+    "source": "script",
+    "createdAt": "2026-03-18T18:39:09.180Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.200.34.74",
+      "city": "Goiânia",
+      "region": "Goiás",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
