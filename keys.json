@@ -12253,8 +12253,15 @@
     "userId": "7933131978",
     "source": "script",
     "createdAt": "2026-03-18T11:38:29.307Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T11:38:39.962Z",
     "geo": {
+      "ip": "102.97.163.7",
+      "city": "Tangier",
+      "region": "Tanger-Tetouan-Al Hoceima",
+      "country": "Morocco",
+      "cc": "MA"
+    },
+    "lastGeo": {
       "ip": "102.97.163.7",
       "city": "Tangier",
       "region": "Tanger-Tetouan-Al Hoceima",
