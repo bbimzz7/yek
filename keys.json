@@ -8970,5 +8970,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-4005DD-C4FB35-5F6C8E": {
+    "expires": "2026-03-19T01:17:59.836Z",
+    "hwid": "8164388303-23c9b9df-85c2-4260-9a3b-93cf7dcbee47",
+    "browserHwid": null,
+    "username": "ToDurmindoKry",
+    "userId": "8164388303",
+    "source": "script",
+    "createdAt": "2026-03-18T01:18:00.066Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.238.5.167",
+      "city": "Sidrolândia",
+      "region": "Mato Grosso do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
