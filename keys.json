@@ -9881,8 +9881,15 @@
     "userId": "10297623640",
     "source": "script",
     "createdAt": "2026-03-18T03:57:37.701Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T03:58:18.515Z",
     "geo": {
+      "ip": "177.240.102.253",
+      "city": "Puebla City",
+      "region": "Puebla",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "177.240.102.253",
       "city": "Puebla City",
       "region": "Puebla",
