@@ -14802,5 +14802,22 @@
       "country": "Turkey",
       "cc": "TR"
     }
+  },
+  "VH-4C76BF-ED43B9-280549": {
+    "expires": "2026-03-19T20:00:24.738Z",
+    "hwid": "10474204027-00bca5bf-8f20-432e-9489-38cf26664968",
+    "browserHwid": null,
+    "username": "creitindoabacaxi",
+    "userId": "10474204027",
+    "source": "script",
+    "createdAt": "2026-03-18T20:00:25.239Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.95.45.168",
+      "city": "Nova Friburgo",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
