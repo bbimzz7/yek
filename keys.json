@@ -11070,5 +11070,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-18A437-9B864C-6CBB0D": {
+    "expires": "2026-03-19T07:10:40.237Z",
+    "hwid": "4500936166-ce6d4ca7-8426-40c0-b001-46f41fb7fe9e",
+    "browserHwid": null,
+    "username": "r90gu7",
+    "userId": "4500936166",
+    "source": "script",
+    "createdAt": "2026-03-18T07:10:40.516Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.191.108.89",
+      "city": "Ninh Bình",
+      "region": "Ninh Bình Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
