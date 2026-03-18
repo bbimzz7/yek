@@ -14826,5 +14826,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-9A5A6F-801059-66C1C4": {
+    "expires": "2026-03-19T20:00:45.177Z",
+    "hwid": "9689145558-7849bab8-0e96-4321-aa7a-e14a03ccb4e6",
+    "browserHwid": null,
+    "username": "colocolo9780",
+    "userId": "9689145558",
+    "source": "script",
+    "createdAt": "2026-03-18T20:00:45.459Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.60.73.22",
+      "city": "Santiago",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
