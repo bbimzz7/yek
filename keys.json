@@ -8585,5 +8585,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-0A2F08-D6B078-FEBFCA": {
+    "expires": "2026-03-19T00:04:25.322Z",
+    "hwid": "10683679047-f751c906-b629-408e-886f-6a9581157033",
+    "browserHwid": null,
+    "username": "Shrimpo_Pie",
+    "userId": "10683679047",
+    "source": "script",
+    "createdAt": "2026-03-18T00:04:25.518Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.211.214.174",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
