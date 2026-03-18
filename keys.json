@@ -12748,5 +12748,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-8091C2-EEAC88-82E1BA": {
+    "expires": "2026-03-19T12:51:30.436Z",
+    "hwid": "8139344170-ab5d7a1d-88d7-43ff-9173-94b709b6892d",
+    "browserHwid": null,
+    "username": "HARKOTA_LE",
+    "userId": "8139344170",
+    "source": "script",
+    "createdAt": "2026-03-18T12:51:30.665Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "148.153.159.168",
+      "city": "Dallas",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
