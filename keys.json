@@ -9316,5 +9316,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-937F75-BE5361-D904CD": {
+    "expires": "2026-03-19T02:56:38.631Z",
+    "hwid": "10094353764-a59f8648-0b97-4db3-a399-60499a33e65e",
+    "browserHwid": null,
+    "username": "koko_6667869",
+    "userId": "10094353764",
+    "source": "script",
+    "createdAt": "2026-03-18T02:56:39.086Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.240.70",
+      "city": "Taman Rajawali",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
