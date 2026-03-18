@@ -15542,5 +15542,22 @@
       "country": "Chile",
       "cc": "CL"
     }
+  },
+  "VH-940F0C-0301F9-BBE978": {
+    "expires": "2026-03-19T22:55:42.911Z",
+    "hwid": "10482447083-82b38ce9-42a3-4053-8acd-c706410cf738",
+    "browserHwid": null,
+    "username": "ashley_20202dsj",
+    "userId": "10482447083",
+    "source": "script",
+    "createdAt": "2026-03-18T22:55:43.409Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.153.94.168",
+      "city": "Caracas",
+      "region": "Distrito Federal",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
