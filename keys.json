@@ -15815,8 +15815,15 @@
     "userId": "10691074979",
     "source": "script",
     "createdAt": "2026-03-18T23:35:55.953Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T23:36:06.837Z",
     "geo": {
+      "ip": "66.9.166.158",
+      "city": "Kingston",
+      "region": "Kingston",
+      "country": "Jamaica",
+      "cc": "JM"
+    },
+    "lastGeo": {
       "ip": "66.9.166.158",
       "city": "Kingston",
       "region": "Kingston",
