@@ -13526,5 +13526,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-89DEF5-6E3662-093CE5": {
+    "expires": "2026-03-19T15:26:38.436Z",
+    "hwid": "5442360729-5504a7a2-0af9-4ff3-9882-983b41724b20",
+    "browserHwid": null,
+    "username": "Zpoxzzz",
+    "userId": "5442360729",
+    "source": "script",
+    "createdAt": "2026-03-18T15:26:38.980Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "149.102.239.228",
+      "city": "Bucharest",
+      "region": "București",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
