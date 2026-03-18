@@ -14874,5 +14874,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-5CC24C-A4FBC5-1C1D1D": {
+    "expires": "2026-03-19T20:13:39.838Z",
+    "hwid": "8699337145-9df217a8-a4ac-439c-ab2d-19ccee148e7d",
+    "browserHwid": null,
+    "username": "stealme54",
+    "userId": "8699337145",
+    "source": "script",
+    "createdAt": "2026-03-18T20:13:40.077Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.240.18.118",
+      "city": "Riga",
+      "region": "Rīga",
+      "country": "Latvia",
+      "cc": "LV"
+    }
   }
 }
