@@ -8633,5 +8633,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-FC8375-B65E37-653023": {
+    "expires": "2026-03-19T00:19:39.548Z",
+    "hwid": "9818622071-185443e5-f1ed-4593-8393-d3d2e2667af8",
+    "browserHwid": null,
+    "username": "Criz_topher9",
+    "userId": "9818622071",
+    "source": "script",
+    "createdAt": "2026-03-18T00:19:39.770Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.158.236.234",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
