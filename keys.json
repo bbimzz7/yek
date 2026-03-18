@@ -15131,5 +15131,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-81E6F5-4C878D-918D96": {
+    "expires": "2026-03-19T21:27:14.072Z",
+    "hwid": "10686254659-6ec113bf-7f5e-4e4a-b061-ac642a192d25",
+    "browserHwid": null,
+    "username": "Nathan991713",
+    "userId": "10686254659",
+    "source": "script",
+    "createdAt": "2026-03-18T21:27:14.583Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.178.155.159",
+      "city": "Canoas",
+      "region": "Rio Grande do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
