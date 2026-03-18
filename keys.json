@@ -10661,5 +10661,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6B9CF7-02DD37-B987B7": {
+    "expires": "2026-03-19T05:59:18.843Z",
+    "hwid": "10284593601-098d5f49-8356-4506-b43e-52e6a47e9789",
+    "browserHwid": null,
+    "username": "batubara9191",
+    "userId": "10284593601",
+    "source": "script",
+    "createdAt": "2026-03-18T05:59:19.052Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.81.65.67",
+      "city": "Sukoharjo Satu",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
