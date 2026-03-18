@@ -9114,5 +9114,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FDA722-C1BBF0-8E8A35": {
+    "expires": "2026-03-19T02:05:09.519Z",
+    "hwid": "9912135131-de4bbf05-1589-4c65-adb0-2dfa7d37c6f8",
+    "browserHwid": null,
+    "username": "398madu",
+    "userId": "9912135131",
+    "source": "script",
+    "createdAt": "2026-03-18T02:05:10.009Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.201.184",
+      "city": "Pare",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
