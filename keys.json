@@ -9066,5 +9066,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-C102EB-08F611-DE598E": {
+    "expires": "2026-03-19T01:52:24.600Z",
+    "hwid": "8854689984-34777fbe-cc29-4852-aac2-92524919dfed",
+    "browserHwid": null,
+    "username": "thatgirlhanna_2",
+    "userId": "8854689984",
+    "source": "script",
+    "createdAt": "2026-03-18T01:52:25.024Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "196.3.206.207",
+      "city": "Bridgetown",
+      "region": "Saint Michael",
+      "country": "Barbados",
+      "cc": "BB"
+    }
   }
 }
