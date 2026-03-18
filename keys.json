@@ -12844,5 +12844,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E8F7D2-DB88DD-70B28D": {
+    "expires": "2026-03-19T13:13:16.152Z",
+    "hwid": "6199662683-7067379f-c928-4c93-b97a-40a946553915",
+    "browserHwid": null,
+    "username": "Kwinka_1586",
+    "userId": "6199662683",
+    "source": "script",
+    "createdAt": "2026-03-18T13:13:16.771Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.47.113.73",
+      "city": "Kyiv",
+      "region": "Kyiv City",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
