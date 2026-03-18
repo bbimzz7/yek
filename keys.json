@@ -15162,5 +15162,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-F6B6FB-87FCF2-087668": {
+    "expires": "2026-03-19T21:39:59.929Z",
+    "hwid": "8682915676-efedaf88-4a05-4577-8b88-3b044008b246",
+    "browserHwid": null,
+    "username": "AceOrTreat4",
+    "userId": "8682915676",
+    "source": "script",
+    "createdAt": "2026-03-18T21:40:00.476Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.111.54.99",
+      "city": "Jeddah",
+      "region": "Mecca Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
