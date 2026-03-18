@@ -13814,5 +13814,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-CFA5A5-6B87A3-3DD077": {
+    "expires": "2026-03-19T16:19:43.787Z",
+    "hwid": "8422789718-11e19043-6c4a-4724-b69e-7eb863fd02b4",
+    "browserHwid": null,
+    "username": "Amir_423100",
+    "userId": "8422789718",
+    "source": "script",
+    "createdAt": "2026-03-18T16:19:44.332Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "148.153.140.235",
+      "city": "Mumbai",
+      "region": "Maharashtra",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
