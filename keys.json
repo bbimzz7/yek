@@ -6786,7 +6786,7 @@
     "userId": "3478118697",
     "source": "script",
     "createdAt": "2026-03-17T18:51:36.377Z",
-    "lastUsed": "2026-03-17T18:51:43.542Z",
+    "lastUsed": "2026-03-18T03:19:09.363Z",
     "geo": {
       "ip": "37.99.59.113",
       "city": "Almaty",
@@ -6795,7 +6795,7 @@
       "cc": "KZ"
     },
     "lastGeo": {
-      "ip": "37.99.59.113",
+      "ip": "37.99.60.211",
       "city": "Almaty",
       "region": "Almaty",
       "country": "Kazakhstan",
