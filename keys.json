@@ -12781,11 +12781,18 @@
     "userId": "10043706027",
     "source": "script",
     "createdAt": "2026-03-18T12:56:24.261Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T12:56:33.012Z",
     "geo": {
       "ip": "182.2.203.253",
       "city": "Wasior",
       "region": "West Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "182.2.200.191",
+      "city": "Sorong",
+      "region": "Southwest Papua",
       "country": "Indonesia",
       "cc": "ID"
     }
