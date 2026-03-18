@@ -14722,8 +14722,15 @@
     "userId": "5028531372",
     "source": "script",
     "createdAt": "2026-03-18T19:47:25.552Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T19:47:55.790Z",
     "geo": {
+      "ip": "178.120.54.22",
+      "city": "Brest",
+      "region": "Brest",
+      "country": "Belarus",
+      "cc": "BY"
+    },
+    "lastGeo": {
       "ip": "178.120.54.22",
       "city": "Brest",
       "region": "Brest",
