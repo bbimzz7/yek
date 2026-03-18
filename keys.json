@@ -14432,5 +14432,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-722466-78A942-498196": {
+    "expires": "2026-03-19T19:13:21.007Z",
+    "hwid": "10690336403-45044d8a-6ed1-4e94-9a6f-50de29bdca7e",
+    "browserHwid": null,
+    "username": "Altheinn",
+    "userId": "10690336403",
+    "source": "script",
+    "createdAt": "2026-03-18T19:13:21.287Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.65.225.26",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
