@@ -8900,8 +8900,15 @@
     "userId": "2236858906",
     "source": "script",
     "createdAt": "2026-03-18T01:02:50.599Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T01:02:54.940Z",
     "geo": {
+      "ip": "81.141.66.134",
+      "city": "Stroud",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "81.141.66.134",
       "city": "Stroud",
       "region": "England",
