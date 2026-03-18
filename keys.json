@@ -15292,5 +15292,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E09F10-7A21E7-E90EE2": {
+    "expires": "2026-03-19T22:07:29.951Z",
+    "hwid": "7217145180-dcac9be2-6003-4f85-8d13-faeaeba9f4e0",
+    "browserHwid": null,
+    "username": "x_x98377",
+    "userId": "7217145180",
+    "source": "script",
+    "createdAt": "2026-03-18T22:07:30.230Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.151.226.238",
+      "city": "Lembang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
