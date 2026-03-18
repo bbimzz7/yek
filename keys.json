@@ -9367,14 +9367,22 @@
   },
   "VH-BC94ED-6DFAD6-88FE2F": {
     "expires": "2026-03-19T03:02:04.481Z",
-    "hwid": null,
+    "hwid": "8726670999-22aaa8b3-65c3-431b-8fd9-b12ed6676d0b",
     "browserHwid": "BR-5F8622E3-GM8WZ",
-    "username": "iam_2106",
-    "userId": null,
+    "username": "Iam_2106",
+    "userId": "8726670999",
     "source": "browser",
     "createdAt": "2026-03-18T03:02:04.730Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T03:02:18.676Z",
     "geo": {
+      "ip": "125.167.48.193",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-18T03:02:18.670Z",
+    "lastGeo": {
       "ip": "125.167.48.193",
       "city": "Palembang",
       "region": "South Sumatra",
