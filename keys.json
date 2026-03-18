@@ -15179,5 +15179,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-8EC66E-E1CD3C-E03233": {
+    "expires": "2026-03-19T21:42:31.564Z",
+    "hwid": "2443566123-A1C54122-6085-42EF-BA7C-BC6E2C26379C",
+    "browserHwid": null,
+    "username": "lovelyvibes908",
+    "userId": "2443566123",
+    "source": "script",
+    "createdAt": "2026-03-18T21:42:32.078Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "72.49.228.36",
+      "city": "Cincinnati",
+      "region": "Ohio",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
