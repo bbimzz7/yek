@@ -11977,5 +11977,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-2FB488-40437C-CD8F52": {
+    "expires": "2026-03-19T10:07:59.470Z",
+    "hwid": "10191605651-edbeb8a7-3b27-49af-9c7b-5a1f962df1cb",
+    "browserHwid": null,
+    "username": "rbgaminn",
+    "userId": "10191605651",
+    "source": "script",
+    "createdAt": "2026-03-18T10:07:59.727Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.36.189.132",
+      "city": "Delhi",
+      "region": "National Capital Territory of Delhi",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
