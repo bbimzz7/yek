@@ -12066,5 +12066,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-E4DD62-002E95-6E69CC": {
+    "expires": "2026-03-19T10:38:30.920Z",
+    "hwid": "9537096392-caf4ab57-9547-46ea-90d1-7e47015bcb3b",
+    "browserHwid": null,
+    "username": "personil9",
+    "userId": "9537096392",
+    "source": "script",
+    "createdAt": "2026-03-18T10:38:31.356Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.58.85",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
