@@ -9018,5 +9018,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-30735F-54E6C4-E1CBD9": {
+    "expires": "2026-03-19T01:22:36.705Z",
+    "hwid": "8634432048-fc05e324-df34-4990-b07a-332992da1977",
+    "browserHwid": null,
+    "username": "Revon_Zzzz",
+    "userId": "8634432048",
+    "source": "script",
+    "createdAt": "2026-03-18T01:22:36.906Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.165.127.247",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
