@@ -15645,5 +15645,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3A288C-DA7F39-7AF81A": {
+    "expires": "2026-03-19T23:19:05.752Z",
+    "hwid": "9105419589-7a93d56a-6d3f-4967-b169-d1485207f8e3",
+    "browserHwid": null,
+    "username": "012kwowiwiw4",
+    "userId": "9105419589",
+    "source": "script",
+    "createdAt": "2026-03-18T23:19:06.073Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.228.132.213",
+      "city": "Cotoca",
+      "region": "Santa Cruz Department",
+      "country": "Bolivia",
+      "cc": "BO"
+    }
   }
 }
