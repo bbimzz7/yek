@@ -15597,5 +15597,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-911DFF-7DFAC6-B0FE36": {
+    "expires": "2026-03-19T23:11:56.176Z",
+    "hwid": "5063505458-550e4b9e-2970-4650-96fa-9c1ecaea848d",
+    "browserHwid": null,
+    "username": "flakawqq",
+    "userId": "5063505458",
+    "source": "script",
+    "createdAt": "2026-03-18T23:11:56.481Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.125.212.150",
+      "city": "Campinas",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
