@@ -8994,5 +8994,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-A5874B-08F67A-551C60": {
+    "expires": "2026-03-19T01:20:53.340Z",
+    "hwid": "10687449276-6df3fbc4-92c3-4fcf-a253-63dd96e1c586",
+    "browserHwid": null,
+    "username": "Hockai7",
+    "userId": "10687449276",
+    "source": "script",
+    "createdAt": "2026-03-18T01:20:53.553Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "66.168.24.55",
+      "city": "Rosemount",
+      "region": "Minnesota",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
