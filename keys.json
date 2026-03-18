@@ -10670,8 +10670,15 @@
     "userId": "10284593601",
     "source": "script",
     "createdAt": "2026-03-18T05:59:19.052Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T05:59:31.406Z",
     "geo": {
+      "ip": "103.81.65.67",
+      "city": "Sukoharjo Satu",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.81.65.67",
       "city": "Sukoharjo Satu",
       "region": "Lampung",
