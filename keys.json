@@ -10741,5 +10741,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-FB692D-40A837-906981": {
+    "expires": "2026-03-19T06:24:39.073Z",
+    "hwid": "8898440669-1c595a57-e31b-4dff-87ea-d022a5c57151",
+    "browserHwid": null,
+    "username": "pw_asep00",
+    "userId": "8898440669",
+    "source": "script",
+    "createdAt": "2026-03-18T06:24:39.479Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.10.8.174",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
