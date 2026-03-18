@@ -15573,5 +15573,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-63F144-EBDFB1-38C7F2": {
+    "expires": "2026-03-19T23:06:51.491Z",
+    "hwid": "8326897940-bed9eae0-52a5-46bc-a8c8-f71ba7d9d973",
+    "browserHwid": null,
+    "username": "RENO_AJA28",
+    "userId": "8326897940",
+    "source": "script",
+    "createdAt": "2026-03-18T23:06:52.011Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.70.122.202",
+      "city": "Kudus",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
