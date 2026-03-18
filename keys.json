@@ -9437,5 +9437,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A13C84-B726FB-54C1BA": {
+    "expires": "2026-03-19T03:08:01.200Z",
+    "hwid": "10210268497-5ad7a793-8bb4-49de-beb1-60780b6ec9e0",
+    "browserHwid": null,
+    "username": "Kairik470",
+    "userId": "10210268497",
+    "source": "script",
+    "createdAt": "2026-03-18T03:08:01.428Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.221.255",
+      "city": "Philadelphia",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
