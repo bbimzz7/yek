@@ -14480,5 +14480,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-F0C0C0-018379-5FF12A": {
+    "expires": "2026-03-19T19:15:45.773Z",
+    "hwid": "10596432983-a2716728-28d4-4ecb-9753-5ebec45a5c1c",
+    "browserHwid": null,
+    "username": "eltiscfer",
+    "userId": "10596432983",
+    "source": "script",
+    "createdAt": "2026-03-18T19:15:46.105Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.80.63.75",
+      "city": "Pedra Preta",
+      "region": "Mato Grosso",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
