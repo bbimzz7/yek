@@ -10273,5 +10273,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-66A384-DAFCE2-FDDAA9": {
+    "expires": "2026-03-19T05:06:38.481Z",
+    "hwid": "4881852389-B5CA1668-730F-4778-96DA-534EC9B1C2B5",
+    "browserHwid": null,
+    "username": "jisu_5566",
+    "userId": "4881852389",
+    "source": "script",
+    "createdAt": "2026-03-18T05:06:38.912Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.119.66.42",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
