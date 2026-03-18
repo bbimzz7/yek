@@ -12042,5 +12042,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-C71800-578A5B-817D8A": {
+    "expires": "2026-03-19T10:29:55.062Z",
+    "hwid": "7276142976-417f23ab-c2a3-40a7-8a15-4bb1c3c902fa",
+    "browserHwid": null,
+    "username": "citygaminhking2k12",
+    "userId": "7276142976",
+    "source": "script",
+    "createdAt": "2026-03-18T10:29:55.347Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.163.13.4",
+      "city": "Bến Tre",
+      "region": "Bến Tre Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
