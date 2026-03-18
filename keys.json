@@ -12114,5 +12114,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-3526F7-7F62A6-DE86A6": {
+    "expires": "2026-03-19T10:58:53.191Z",
+    "hwid": "7387100040-d1fb07a6-90e7-4894-adc5-ef5bc2b3b562",
+    "browserHwid": null,
+    "username": "binimiyuki19",
+    "userId": "7387100040",
+    "source": "script",
+    "createdAt": "2026-03-18T10:58:53.690Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "131.226.103.52",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
