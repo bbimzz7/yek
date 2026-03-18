@@ -12700,5 +12700,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A4CB79-7E35BC-7AC23A": {
+    "expires": "2026-03-19T12:44:32.523Z",
+    "hwid": "10138579223-36b87904-7b76-458b-a1fb-60a4f74bb21e",
+    "browserHwid": null,
+    "username": "Evade_noobiecore",
+    "userId": "10138579223",
+    "source": "script",
+    "createdAt": "2026-03-18T12:44:32.768Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.170.94",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
