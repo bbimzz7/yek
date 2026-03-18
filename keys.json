@@ -10105,5 +10105,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-410950-63643E-0D43AA": {
+    "expires": "2026-03-19T04:27:10.660Z",
+    "hwid": "10034105265-0507fc97-1cfa-460a-a68d-45825f12b1b6",
+    "browserHwid": null,
+    "username": "DymZzz4EV3R",
+    "userId": "10034105265",
+    "source": "script",
+    "createdAt": "2026-03-18T04:27:10.837Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.78.161",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
