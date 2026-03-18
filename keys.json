@@ -15669,5 +15669,22 @@
       "country": "Bolivia",
       "cc": "BO"
     }
+  },
+  "VH-FA432E-A6C03C-B643F6": {
+    "expires": "2026-03-19T23:22:59.377Z",
+    "hwid": "2249345755-1CE986E2-E02B-4643-84CE-9DAB8BA01BC7",
+    "browserHwid": null,
+    "username": "LegionXHero",
+    "userId": "2249345755",
+    "source": "script",
+    "createdAt": "2026-03-18T23:22:59.627Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.94.184.52",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
