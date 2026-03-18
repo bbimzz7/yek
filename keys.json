@@ -12196,5 +12196,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-240803-569BC0-28DB8F": {
+    "expires": "2026-03-19T11:35:17.575Z",
+    "hwid": "10632939235-75ed8b27-954a-4d21-8393-40f5741fecdb",
+    "browserHwid": null,
+    "username": "edalet012",
+    "userId": "10632939235",
+    "source": "script",
+    "createdAt": "2026-03-18T11:35:18.064Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.146.113.103",
+      "city": "Baku",
+      "region": "Baku City",
+      "country": "Azerbaijan",
+      "cc": "AZ"
+    }
   }
 }
