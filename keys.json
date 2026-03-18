@@ -14600,5 +14600,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-147733-997831-21B340": {
+    "expires": "2026-03-19T19:28:01.930Z",
+    "hwid": "4729757882-8fd679e5-eef2-4009-b390-9f87aa7fe378",
+    "browserHwid": null,
+    "username": "CR7_FAN1230",
+    "userId": "4729757882",
+    "source": "script",
+    "createdAt": "2026-03-18T19:28:02.215Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.70.202.103",
+      "city": "Bursa",
+      "region": "Bursa Province",
+      "country": "Türkiye",
+      "cc": "TR"
+    }
   }
 }
