@@ -11247,8 +11247,15 @@
     "userId": "9787972788",
     "source": "script",
     "createdAt": "2026-03-18T07:55:17.326Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T07:56:44.371Z",
     "geo": {
+      "ip": "46.8.242.153",
+      "city": "Khasavyurt",
+      "region": "Dagestan",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "46.8.242.153",
       "city": "Khasavyurt",
       "region": "Dagestan",
