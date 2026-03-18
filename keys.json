@@ -8690,8 +8690,15 @@
     "userId": "10681075446",
     "source": "script",
     "createdAt": "2026-03-18T00:21:59.541Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T00:22:09.356Z",
     "geo": {
+      "ip": "72.235.36.247",
+      "city": "Honolulu",
+      "region": "Hawaii",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "72.235.36.247",
       "city": "Honolulu",
       "region": "Hawaii",
