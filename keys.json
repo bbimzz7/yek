@@ -12724,5 +12724,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-95BDBD-3B3A17-3F058B": {
+    "expires": "2026-03-19T12:47:15.918Z",
+    "hwid": "10515373753-f4886b78-6eee-4e78-a278-1c31da4a0ca8",
+    "browserHwid": null,
+    "username": "ShindoXG",
+    "userId": "10515373753",
+    "source": "script",
+    "createdAt": "2026-03-18T12:47:16.222Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.210.132.86",
+      "city": "Bacoor",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
