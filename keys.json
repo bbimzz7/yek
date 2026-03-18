@@ -13670,5 +13670,22 @@
       "country": "Morocco",
       "cc": "MA"
     }
+  },
+  "VH-BCE277-1D1507-431C36": {
+    "expires": "2026-03-19T15:52:04.549Z",
+    "hwid": "7185605143-e4f8b403-03d3-4152-8b89-dc5fb8c4b997",
+    "browserHwid": null,
+    "username": "Afif_05lu",
+    "userId": "7185605143",
+    "source": "script",
+    "createdAt": "2026-03-18T15:52:05.078Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.135.197.120",
+      "city": "Ipoh",
+      "region": "Perak",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
