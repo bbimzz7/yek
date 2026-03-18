@@ -10837,5 +10837,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D5255D-FD75D1-4E0C8A": {
+    "expires": "2026-03-19T06:34:35.911Z",
+    "hwid": "9041218863-c20dbc49-7f96-497e-ba1c-990d5ab85401",
+    "browserHwid": null,
+    "username": "yuna_hhh41",
+    "userId": "9041218863",
+    "source": "script",
+    "createdAt": "2026-03-18T06:34:36.170Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.98.105.19",
+      "city": "San Roque",
+      "region": "Andalusia",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
