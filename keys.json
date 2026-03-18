@@ -13823,8 +13823,15 @@
     "userId": "8422789718",
     "source": "script",
     "createdAt": "2026-03-18T16:19:44.332Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T16:19:53.409Z",
     "geo": {
+      "ip": "148.153.140.235",
+      "city": "Mumbai",
+      "region": "Maharashtra",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "148.153.140.235",
       "city": "Mumbai",
       "region": "Maharashtra",
