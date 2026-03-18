@@ -10025,7 +10025,7 @@
     "userId": "8603835428",
     "source": "script",
     "createdAt": "2026-03-18T04:16:00.859Z",
-    "lastUsed": "2026-03-18T05:47:24.104Z",
+    "lastUsed": "2026-03-18T15:05:41.299Z",
     "geo": {
       "ip": "149.88.107.76",
       "city": "Singapore",
@@ -10034,11 +10034,11 @@
       "cc": "SG"
     },
     "lastGeo": {
-      "ip": "149.88.107.76",
-      "city": "Singapore",
-      "region": "North West",
-      "country": "Singapore",
-      "cc": "SG"
+      "ip": "182.11.130.212",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
     }
   },
   "VH-7C9232-E58064-D636FE": {
