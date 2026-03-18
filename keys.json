@@ -11214,5 +11214,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E786D8-C14A03-A4EC4B": {
+    "expires": "2026-03-19T07:50:59.761Z",
+    "hwid": "8434351665-dd7abf49-1cfe-4828-b709-6f9bbea594e3",
+    "browserHwid": null,
+    "username": "vadeltaba1",
+    "userId": "8434351665",
+    "source": "script",
+    "createdAt": "2026-03-18T07:51:00.344Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.134.174",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
