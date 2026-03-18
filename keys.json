@@ -9567,5 +9567,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-843D60-BE694C-BEACB4": {
+    "expires": "2026-03-19T03:17:25.810Z",
+    "hwid": "10596432983-791192a7-43ac-4b4f-ae83-da2ef9e8d846",
+    "browserHwid": null,
+    "username": "eltiscfer",
+    "userId": "10596432983",
+    "source": "script",
+    "createdAt": "2026-03-18T03:17:26.003Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.80.63.75",
+      "city": "Pedra Preta",
+      "region": "Mato Grosso",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
