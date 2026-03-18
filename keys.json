@@ -12051,8 +12051,15 @@
     "userId": "7276142976",
     "source": "script",
     "createdAt": "2026-03-18T10:29:55.347Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T10:30:03.030Z",
     "geo": {
+      "ip": "113.163.13.4",
+      "city": "Bến Tre",
+      "region": "Bến Tre Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "113.163.13.4",
       "city": "Bến Tre",
       "region": "Bến Tre Province",
