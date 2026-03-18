@@ -14585,7 +14585,7 @@
     "userId": "1238714443",
     "source": "script",
     "createdAt": "2026-03-18T19:23:15.855Z",
-    "lastUsed": "2026-03-18T19:23:28.133Z",
+    "lastUsed": "2026-03-18T19:45:15.877Z",
     "geo": {
       "ip": "180.245.29.221",
       "city": "Indramayu",
@@ -14594,8 +14594,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "165.101.230.209",
-      "city": "Jatibarang",
+      "ip": "180.245.29.221",
+      "city": "Indramayu",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
