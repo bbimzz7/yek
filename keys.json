@@ -14126,5 +14126,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-5572AB-9E0E84-F0EE4F": {
+    "expires": "2026-03-19T17:47:33.294Z",
+    "hwid": "10657032416-d21ae165-7857-435f-a237-82dbd48ba346",
+    "browserHwid": null,
+    "username": "aboutyouwhen",
+    "userId": "10657032416",
+    "source": "script",
+    "createdAt": "2026-03-18T17:47:33.570Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.119.79",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
