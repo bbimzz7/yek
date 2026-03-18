@@ -15381,5 +15381,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-1CB9EC-D762BC-37B84C": {
+    "expires": "2026-03-19T22:14:24.594Z",
+    "hwid": "8712209496-90765442-41b4-4cf4-87a0-947e402c6a26",
+    "browserHwid": null,
+    "username": "RAFATR13",
+    "userId": "8712209496",
+    "source": "script",
+    "createdAt": "2026-03-18T22:14:24.815Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.47.71",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
