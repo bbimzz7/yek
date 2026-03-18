@@ -12090,5 +12090,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EB9E9C-8DEA32-7E135D": {
+    "expires": "2026-03-19T10:40:35.956Z",
+    "hwid": "10686128096-b4288347-98ad-441e-8c4e-3f2f18dc941c",
+    "browserHwid": null,
+    "username": "xranitel03",
+    "userId": "10686128096",
+    "source": "script",
+    "createdAt": "2026-03-18T10:40:36.476Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "155.117.20.10",
+      "city": "Dallas",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
