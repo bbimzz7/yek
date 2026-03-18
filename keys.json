@@ -10040,5 +10040,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-7C9232-E58064-D636FE": {
+    "expires": "2026-03-19T04:17:07.747Z",
+    "hwid": "5503394918-5fd1d6a3-f006-447a-b95b-b44e9d0fc91b",
+    "browserHwid": null,
+    "username": "XXDDD635",
+    "userId": "5503394918",
+    "source": "script",
+    "createdAt": "2026-03-18T04:17:07.943Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.38.212.247",
+      "city": "Moreno",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
