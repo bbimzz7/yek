@@ -12316,5 +12316,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-47901E-C3B7E4-528847": {
+    "expires": "2026-03-19T11:53:10.280Z",
+    "hwid": "3812603361-55b9da5d-fd8a-4822-bf64-82c199d1ca04",
+    "browserHwid": null,
+    "username": "remuufgbro",
+    "userId": "3812603361",
+    "source": "script",
+    "createdAt": "2026-03-18T11:53:10.501Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "72.56.50.119",
+      "city": "Tbilisi",
+      "region": "Tbilisi",
+      "country": "Georgia",
+      "cc": "GE"
+    }
   }
 }
