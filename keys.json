@@ -9591,5 +9591,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-E66FB6-424897-316000": {
+    "expires": "2026-03-19T03:20:11.946Z",
+    "hwid": "7723074767-80d8e9f2-9d7b-4579-a071-7b7918d34965",
+    "browserHwid": null,
+    "username": "HintonSuzannec46",
+    "userId": "7723074767",
+    "source": "script",
+    "createdAt": "2026-03-18T03:20:12.171Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.173.140.177",
+      "city": "Kroya",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
