@@ -10846,11 +10846,18 @@
     "userId": "9041218863",
     "source": "script",
     "createdAt": "2026-03-18T06:34:36.170Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T06:35:48.479Z",
     "geo": {
       "ip": "88.98.105.19",
       "city": "San Roque",
       "region": "Andalusia",
+      "country": "Spain",
+      "cc": "ES"
+    },
+    "lastGeo": {
+      "ip": "88.98.108.19",
+      "city": "Redován",
+      "region": "Valencia",
       "country": "Spain",
       "cc": "ES"
     }
