@@ -11857,5 +11857,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-678074-FDBB51-0123A4": {
+    "expires": "2026-03-19T09:52:17.424Z",
+    "hwid": "7441592241-bfd025b1-2542-4ffa-b256-116957fe3284",
+    "browserHwid": null,
+    "username": "KhanMonica5",
+    "userId": "7441592241",
+    "source": "script",
+    "createdAt": "2026-03-18T09:52:17.947Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.38.194.166",
+      "city": "Bahawalpur",
+      "region": "Punjab",
+      "country": "Pakistan",
+      "cc": "PK"
+    }
   }
 }
