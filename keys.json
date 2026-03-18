@@ -8754,5 +8754,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-738FDE-C3971D-7B43ED": {
+    "expires": "2026-03-19T00:28:07.140Z",
+    "hwid": "8293783017-e7e3b793-98c0-4bfb-964f-21e9ee99dd32",
+    "browserHwid": null,
+    "username": "smirf535",
+    "userId": "8293783017",
+    "source": "script",
+    "createdAt": "2026-03-18T00:28:07.329Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.254.248.222",
+      "city": "Mocajuba",
+      "region": "Pará",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
