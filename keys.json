@@ -14408,5 +14408,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1A9C83-4C7735-42C4E3": {
+    "expires": "2026-03-19T19:12:53.136Z",
+    "hwid": "6008049958-9791da0c-8067-4309-9650-ee5e4a27c110",
+    "browserHwid": null,
+    "username": "vapoplol2012",
+    "userId": "6008049958",
+    "source": "script",
+    "createdAt": "2026-03-18T19:12:53.441Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "80.239.191.4",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
