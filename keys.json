@@ -11665,5 +11665,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F6DC7C-6275FD-8A86B0": {
+    "expires": "2026-03-19T09:10:13.645Z",
+    "hwid": "3147846507-1c7a9b89-861d-4352-8d92-c5a24f32b1fd",
+    "browserHwid": null,
+    "username": "kyaTheBadKid",
+    "userId": "3147846507",
+    "source": "script",
+    "createdAt": "2026-03-18T09:10:14.132Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.99.61.46",
+      "city": "Tampa",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
