@@ -11737,5 +11737,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-5CA9BD-7BE3DF-2CD5CB": {
+    "expires": "2026-03-19T09:24:07.227Z",
+    "hwid": "10688809404-62923358-6410-4716-bf55-35df3c9f43b8",
+    "browserHwid": null,
+    "username": "Ahcengkepleset",
+    "userId": "10688809404",
+    "source": "script",
+    "createdAt": "2026-03-18T09:24:07.533Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.62.23.28",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
