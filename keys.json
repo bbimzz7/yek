@@ -11391,8 +11391,15 @@
     "userId": "8883255020",
     "source": "script",
     "createdAt": "2026-03-18T08:31:37.812Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T08:31:51.320Z",
     "geo": {
+      "ip": "103.149.101.190",
+      "city": "San Mariano",
+      "region": "Cagayan Valley",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "103.149.101.190",
       "city": "San Mariano",
       "region": "Cagayan Valley",
