@@ -13077,5 +13077,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-EC4F0E-0C74E5-00560B": {
+    "expires": "2026-03-19T13:48:10.864Z",
+    "hwid": "7535247843-9d4f594f-4675-4cd5-adbb-bf55305700dd",
+    "browserHwid": null,
+    "username": "Salman_max123",
+    "userId": "7535247843",
+    "source": "script",
+    "createdAt": "2026-03-18T13:48:11.414Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.194.206.160",
+      "city": "Iligan",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
