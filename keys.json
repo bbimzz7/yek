@@ -11358,5 +11358,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D7266F-A594B7-F7F01F": {
+    "expires": "2026-03-19T08:25:17.851Z",
+    "hwid": "8371996442-76473ccb-fa29-4018-8450-68a126857dfb",
+    "browserHwid": null,
+    "username": "ST3R_605",
+    "userId": "8371996442",
+    "source": "script",
+    "createdAt": "2026-03-18T08:25:18.333Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.59.216.170",
+      "city": "Elizabeth",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
