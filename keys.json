@@ -9953,8 +9953,15 @@
     "userId": "2434855288",
     "source": "script",
     "createdAt": "2026-03-18T04:07:03.795Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T04:07:14.511Z",
     "geo": {
+      "ip": "181.115.59.222",
+      "city": "Tegucigalpa",
+      "region": "Francisco Morazán Department",
+      "country": "Honduras",
+      "cc": "HN"
+    },
+    "lastGeo": {
       "ip": "181.115.59.222",
       "city": "Tegucigalpa",
       "region": "Francisco Morazán Department",
