@@ -10314,5 +10314,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-BDD1E0-648B9E-26CC99": {
+    "expires": "2026-03-19T05:08:35.506Z",
+    "hwid": "8462157743-a7265a93-7c4a-4866-ae33-6ef445efc7cf",
+    "browserHwid": null,
+    "username": "JunJunJun_639",
+    "userId": "8462157743",
+    "source": "script",
+    "createdAt": "2026-03-18T05:08:35.732Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.100.70",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
