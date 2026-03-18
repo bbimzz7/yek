@@ -12661,8 +12661,15 @@
     "userId": "8417001995",
     "source": "script",
     "createdAt": "2026-03-18T12:40:50.287Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T12:41:05.930Z",
     "geo": {
+      "ip": "112.209.65.135",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.209.65.135",
       "city": "Manila",
       "region": "Metro Manila",
