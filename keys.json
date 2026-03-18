@@ -14199,5 +14199,22 @@
       "country": "Hungary",
       "cc": "HU"
     }
+  },
+  "VH-D49D12-EB3AFC-0BF34C": {
+    "expires": "2026-03-19T18:06:35.452Z",
+    "hwid": "10243409509-2aa3dd44-6426-4c2e-8061-576ac8e9f2da",
+    "browserHwid": null,
+    "username": "niraaa037",
+    "userId": "10243409509",
+    "source": "script",
+    "createdAt": "2026-03-18T18:06:35.768Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.245.255.109",
+      "city": "Subang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
