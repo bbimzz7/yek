@@ -14650,8 +14650,15 @@
     "userId": "3359957484",
     "source": "script",
     "createdAt": "2026-03-18T19:31:09.845Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T19:31:14.434Z",
     "geo": {
+      "ip": "31.153.42.38",
+      "city": "Nicosia",
+      "region": "Nicosia",
+      "country": "Cyprus",
+      "cc": "CY"
+    },
+    "lastGeo": {
       "ip": "31.153.42.38",
       "city": "Nicosia",
       "region": "Nicosia",
