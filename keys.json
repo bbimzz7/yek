@@ -12580,5 +12580,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-738709-1F75AA-37EF75": {
+    "expires": "2026-03-19T12:29:40.400Z",
+    "hwid": "8510986605-8c7f6631-de31-4992-ba3a-8842d6229692",
+    "browserHwid": null,
+    "username": "zxcsix87",
+    "userId": "8510986605",
+    "source": "script",
+    "createdAt": "2026-03-18T12:29:40.679Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.211.7.175",
+      "city": "Kyiv",
+      "region": "Kyiv City",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
