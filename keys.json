@@ -14159,8 +14159,15 @@
     "userId": "5424758841",
     "source": "script",
     "createdAt": "2026-03-18T17:58:49.207Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-18T18:04:42.006Z",
     "geo": {
+      "ip": "177.152.86.150",
+      "city": "São Bernardo do Campo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.152.86.150",
       "city": "São Bernardo do Campo",
       "region": "São Paulo",
