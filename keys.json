@@ -14167,5 +14167,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-E0F046-609B9E-0600C5": {
+    "expires": "2026-03-19T18:02:21.498Z",
+    "hwid": null,
+    "browserHwid": "BR-1AF5B27D-6SL4Y",
+    "username": "Chikengotbanned",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-18T18:02:21.824Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "194.176.237.200",
+      "city": "Létavértes",
+      "region": "Hajdú-Bihar",
+      "country": "Hungary",
+      "cc": "HU"
+    }
   }
 }
