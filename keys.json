@@ -12652,5 +12652,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-0EC67C-A8F406-38F22A": {
+    "expires": "2026-03-19T12:40:50.004Z",
+    "hwid": "8417001995-a7e6ad53-18b7-4b4f-a98a-6174c6eecf10",
+    "browserHwid": null,
+    "username": "KimYuna_890",
+    "userId": "8417001995",
+    "source": "script",
+    "createdAt": "2026-03-18T12:40:50.287Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.209.65.135",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
