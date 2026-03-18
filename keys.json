@@ -8850,5 +8850,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1C8739-EFCA13-96EA70": {
+    "expires": "2026-03-19T00:57:02.591Z",
+    "hwid": "9772325011-0f0c0e6a-335b-445c-8a23-9cd75d65e8d6",
+    "browserHwid": null,
+    "username": "zanx2169",
+    "userId": "9772325011",
+    "source": "script",
+    "createdAt": "2026-03-18T00:57:03.009Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.68.54.254",
+      "city": "Pekalongan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
