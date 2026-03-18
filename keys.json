@@ -9131,5 +9131,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-549114-2C5461-963295": {
+    "expires": "2026-03-19T02:08:23.406Z",
+    "hwid": "9426366276-1c9c49ff-94ac-4b60-bb3c-cbd409443a0c",
+    "browserHwid": null,
+    "username": "insano990433",
+    "userId": "9426366276",
+    "source": "script",
+    "createdAt": "2026-03-18T02:08:23.618Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.246.3.72",
+      "city": "Toluca",
+      "region": "México",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
