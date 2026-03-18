@@ -14898,5 +14898,22 @@
       "country": "Latvia",
       "cc": "LV"
     }
+  },
+  "VH-9195EF-0EB03E-71144F": {
+    "expires": "2026-03-19T20:14:14.250Z",
+    "hwid": "8998185124-FB7BA6F4-4629-44FB-9BDE-0470A78D86DC",
+    "browserHwid": null,
+    "username": "biglongjoni",
+    "userId": "8998185124",
+    "source": "script",
+    "createdAt": "2026-03-18T20:14:14.534Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.99.113",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
