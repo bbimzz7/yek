@@ -9905,7 +9905,7 @@
     "userId": "10684456270",
     "source": "script",
     "createdAt": "2026-03-18T04:03:56.222Z",
-    "lastUsed": "2026-03-18T06:11:07.784Z",
+    "lastUsed": "2026-03-18T06:50:46.243Z",
     "geo": {
       "ip": "27.125.246.143",
       "city": "Tumpat",
@@ -9914,9 +9914,9 @@
       "cc": "MY"
     },
     "lastGeo": {
-      "ip": "27.125.246.179",
-      "city": "Batu Kawan",
-      "region": "Penang",
+      "ip": "27.125.246.130",
+      "city": "Kampung Sedenak",
+      "region": "Johor",
       "country": "Malaysia",
       "cc": "MY"
     }
