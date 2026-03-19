@@ -16578,8 +16578,15 @@
     "userId": "8934539583",
     "source": "script",
     "createdAt": "2026-03-19T02:32:13.207Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T02:32:33.054Z",
     "geo": {
+      "ip": "203.83.40.15",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "203.83.40.15",
       "city": "Jakarta",
       "region": "Jakarta",
