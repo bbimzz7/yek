@@ -19995,5 +19995,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-82C54A-36D695-3FD310": {
+    "expires": "2026-03-20T13:49:41.396Z",
+    "hwid": "8510986605-8c7f6631-de31-4992-ba3a-8842d6229692",
+    "browserHwid": null,
+    "username": "zxcsix87",
+    "userId": "8510986605",
+    "source": "script",
+    "createdAt": "2026-03-19T13:49:42.074Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.248.136.221",
+      "city": "Auly",
+      "region": "Dnipropetrovsk Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
