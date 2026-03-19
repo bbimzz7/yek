@@ -18037,5 +18037,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-97038A-BDC605-3F25E0": {
+    "expires": "2026-03-20T06:58:04.439Z",
+    "hwid": "8388926134-5438bc63-9f94-46f6-9901-45c12a7f92ad",
+    "browserHwid": null,
+    "username": "axxv911",
+    "userId": "8388926134",
+    "source": "script",
+    "createdAt": "2026-03-19T06:58:04.728Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.249.155.163",
+      "city": "Manokwari",
+      "region": "West Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
