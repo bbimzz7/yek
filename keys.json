@@ -21565,5 +21565,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-D02FC7-AA1153-2D2117": {
+    "expires": "2026-03-20T19:01:07.171Z",
+    "hwid": "9394760513-a4643894-7512-44e6-9a1f-7bded9cd7f40",
+    "browserHwid": null,
+    "username": "Arya122565",
+    "userId": "9394760513",
+    "source": "script",
+    "createdAt": "2026-03-19T19:01:07.759Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "62.201.254.163",
+      "city": "Sulaymaniyah",
+      "region": "Sulaymaniyah Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
