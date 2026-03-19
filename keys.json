@@ -19170,11 +19170,18 @@
     "userId": "10599259356",
     "source": "script",
     "createdAt": "2026-03-19T11:15:00.530Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T11:17:31.304Z",
     "geo": {
       "ip": "183.80.38.44",
       "city": "Thu Dau Mot",
       "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
+      "ip": "116.109.187.21",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
       "country": "Vietnam",
       "cc": "VN"
     }
