@@ -17389,5 +17389,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6DF3F0-B4CF19-0E1906": {
+    "expires": "2026-03-20T05:11:14.731Z",
+    "hwid": "6179415612-bcecae5a-f85d-40a2-8a0a-0c99c1d940e8",
+    "browserHwid": null,
+    "username": "DinoCookie044",
+    "userId": "6179415612",
+    "source": "script",
+    "createdAt": "2026-03-19T05:11:15.237Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.251.194",
+      "city": "Bukit Jambul",
+      "region": "Penang",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
