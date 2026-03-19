@@ -17614,8 +17614,15 @@
     "userId": "10477657711",
     "source": "script",
     "createdAt": "2026-03-19T05:43:11.165Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T05:43:20.424Z",
     "geo": {
+      "ip": "38.253.240.90",
+      "city": "Jatiroto",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "38.253.240.90",
       "city": "Jatiroto",
       "region": "Central Java",
