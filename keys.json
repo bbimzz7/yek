@@ -21493,5 +21493,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-41A373-D725C7-4CB1EE": {
+    "expires": "2026-03-20T18:49:32.430Z",
+    "hwid": "5001768535-8b65ad3c-d39f-4a5a-a7c6-92b85bd49ddc",
+    "browserHwid": null,
+    "username": "rydjchdo64",
+    "userId": "5001768535",
+    "source": "script",
+    "createdAt": "2026-03-19T18:49:33.016Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.153.94.172",
+      "city": "Varniţa",
+      "region": "Anenii Noi",
+      "country": "Moldova",
+      "cc": "MD"
+    }
   }
 }
