@@ -22699,5 +22699,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-91E017-F29524-36B8CF": {
+    "expires": "2026-03-20T23:40:13.853Z",
+    "hwid": "2460515965-D8E7A8F5-AF26-4EF4-B285-E74593DA672A",
+    "browserHwid": null,
+    "username": "H4L7m",
+    "userId": "2460515965",
+    "source": "script",
+    "createdAt": "2026-03-19T23:40:14.469Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "43.230.96.130",
+      "city": "Singapore",
+      "region": "South West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
