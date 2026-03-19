@@ -19819,8 +19819,15 @@
     "userId": "10288777793",
     "source": "script",
     "createdAt": "2026-03-19T12:59:56.673Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T13:00:07.427Z",
     "geo": {
+      "ip": "180.249.155.163",
+      "city": "Manokwari",
+      "region": "West Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.249.155.163",
       "city": "Manokwari",
       "region": "West Papua",
