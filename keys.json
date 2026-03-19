@@ -20413,5 +20413,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C099BB-B9C7CF-44E5F7": {
+    "expires": "2026-03-20T14:38:03.055Z",
+    "hwid": "9128498119-5E108F4F-2099-4454-BD2E-A2D7C5CC050D",
+    "browserHwid": null,
+    "username": "DuskenyxHollowz",
+    "userId": "9128498119",
+    "source": "script",
+    "createdAt": "2026-03-19T14:38:03.450Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.180.123.221",
+      "city": "Duren Tiga",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
