@@ -16882,5 +16882,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-808B3F-C06D1C-ED56C3": {
+    "expires": "2026-03-20T03:17:39.329Z",
+    "hwid": "8811612636-b6c756df-52df-45ab-a59a-e06a0acc233a",
+    "browserHwid": null,
+    "username": "karen_566580",
+    "userId": "8811612636",
+    "source": "script",
+    "createdAt": "2026-03-19T03:17:39.681Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.245.52.62",
+      "city": "Monterrey",
+      "region": "Nuevo León",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
