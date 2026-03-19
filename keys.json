@@ -20974,8 +20974,15 @@
     "userId": "8251698254",
     "source": "script",
     "createdAt": "2026-03-19T16:48:33.414Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T16:48:43.274Z",
     "geo": {
+      "ip": "49.36.204.103",
+      "city": "Srinagar",
+      "region": "Jammu and Kashmir",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "49.36.204.103",
       "city": "Srinagar",
       "region": "Jammu and Kashmir",
