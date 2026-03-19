@@ -20243,5 +20243,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-D6E031-B727D9-1E1645": {
+    "expires": "2026-03-20T14:12:51.065Z",
+    "hwid": null,
+    "browserHwid": "BR-22945E01-3DA6U",
+    "username": "Ririn22851",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-19T14:12:51.539Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.142.255.58",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
