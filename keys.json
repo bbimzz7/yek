@@ -19795,8 +19795,15 @@
     "userId": "3819925923",
     "source": "script",
     "createdAt": "2026-03-19T12:57:34.912Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T12:57:59.073Z",
     "geo": {
+      "ip": "171.242.68.141",
+      "city": "Vinh",
+      "region": "Nghệ An Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "171.242.68.141",
       "city": "Vinh",
       "region": "Nghệ An Province",
