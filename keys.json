@@ -20941,5 +20941,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DBEB98-1222E0-9DC281": {
+    "expires": "2026-03-20T16:40:26.211Z",
+    "hwid": "8619465750-D0172EB4-39F5-423C-B10E-0A71C1A291CF",
+    "browserHwid": null,
+    "username": "CryoTurtlee",
+    "userId": "8619465750",
+    "source": "script",
+    "createdAt": "2026-03-19T16:40:26.831Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.5.111.80",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
