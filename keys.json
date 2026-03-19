@@ -18335,8 +18335,15 @@
     "userId": "9348686404",
     "source": "script",
     "createdAt": "2026-03-19T08:18:41.091Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T08:18:49.389Z",
     "geo": {
+      "ip": "103.137.204.200",
+      "city": "Cuenca",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "103.137.204.200",
       "city": "Cuenca",
       "region": "Calabarzon",
