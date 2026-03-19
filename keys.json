@@ -18302,5 +18302,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-7BADB4-72C545-EDE963": {
+    "expires": "2026-03-20T08:18:35.423Z",
+    "hwid": "6206507275-65a36399-38dd-4fcf-9bb7-f8ea8d752f71",
+    "browserHwid": null,
+    "username": "NAYUMi_1r79",
+    "userId": "6206507275",
+    "source": "script",
+    "createdAt": "2026-03-19T08:18:35.741Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.115.2",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
