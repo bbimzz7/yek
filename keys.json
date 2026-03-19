@@ -22249,5 +22249,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-B99D42-EA11F1-D1E874": {
+    "expires": "2026-03-20T22:17:22.292Z",
+    "hwid": "7217145180-dcac9be2-6003-4f85-8d13-faeaeba9f4e0",
+    "browserHwid": null,
+    "username": "x_x98377",
+    "userId": "7217145180",
+    "source": "script",
+    "createdAt": "2026-03-19T22:17:22.614Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.101.67",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
