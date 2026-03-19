@@ -21262,13 +21262,20 @@
     "userId": "9459071766",
     "source": "script",
     "createdAt": "2026-03-19T18:17:44.521Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T18:18:51.755Z",
     "geo": {
       "ip": "182.8.178.38",
       "city": "Balikpapan",
       "region": "East Kalimantan",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.39.148.58",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   },
   "VH-2A4D7C-CB7329-400570": {
