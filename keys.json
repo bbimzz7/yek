@@ -22378,8 +22378,15 @@
     "userId": "5213861132",
     "source": "script",
     "createdAt": "2026-03-19T22:38:31.624Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T22:38:39.121Z",
     "geo": {
+      "ip": "179.24.84.207",
+      "city": "Maldonado",
+      "region": "Maldonado",
+      "country": "Uruguay",
+      "cc": "UY"
+    },
+    "lastGeo": {
       "ip": "179.24.84.207",
       "city": "Maldonado",
       "region": "Maldonado",
