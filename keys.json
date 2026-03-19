@@ -18206,5 +18206,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-161A21-D1B33E-B27CB5": {
+    "expires": "2026-03-20T07:53:26.824Z",
+    "hwid": "929542338-ACEDA741-49D9-4C70-8D33-9CE4EB70E6B1",
+    "browserHwid": null,
+    "username": "hoki232",
+    "userId": "929542338",
+    "source": "script",
+    "createdAt": "2026-03-19T07:53:27.157Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.81.195.22",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
