@@ -20566,8 +20566,15 @@
     "userId": "10081616101",
     "source": "script",
     "createdAt": "2026-03-19T14:58:37.606Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T14:59:45.181Z",
     "geo": {
+      "ip": "103.105.213.193",
+      "city": "Dumaguete",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "103.105.213.193",
       "city": "Dumaguete",
       "region": "Central Visayas",
