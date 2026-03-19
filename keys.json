@@ -16634,5 +16634,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7FBD19-885963-3208B8": {
+    "expires": "2026-03-20T02:42:18.130Z",
+    "hwid": "7845678368-beb2861f-e56d-4fe0-9d3f-fb0f9bd3cf98",
+    "browserHwid": null,
+    "username": "Angel122377388",
+    "userId": "7845678368",
+    "source": "script",
+    "createdAt": "2026-03-19T02:42:18.373Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.231.233.6",
+      "city": "Monte Carmelo",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
