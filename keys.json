@@ -17590,8 +17590,15 @@
     "userId": "9556408015",
     "source": "script",
     "createdAt": "2026-03-19T05:42:31.703Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T05:42:37.328Z",
     "geo": {
+      "ip": "115.164.181.18",
+      "city": "Petaling Jaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "115.164.181.18",
       "city": "Petaling Jaya",
       "region": "Selangor",
