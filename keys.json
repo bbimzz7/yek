@@ -15301,7 +15301,7 @@
     "userId": "7217145180",
     "source": "script",
     "createdAt": "2026-03-18T22:07:30.230Z",
-    "lastUsed": "2026-03-19T00:32:05.791Z",
+    "lastUsed": "2026-03-19T01:39:19.414Z",
     "geo": {
       "ip": "103.151.226.238",
       "city": "Lembang",
@@ -15310,8 +15310,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.122.71.193",
-      "city": "Bandung",
+      "ip": "103.151.226.238",
+      "city": "Lembang",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
