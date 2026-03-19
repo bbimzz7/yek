@@ -21109,5 +21109,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-4DAC60-4C6D5E-F60CFD": {
+    "expires": "2026-03-20T17:30:47.925Z",
+    "hwid": "5055560503-7ae3a3b5-895b-40a2-bd61-21e62d014165",
+    "browserHwid": null,
+    "username": "gatito65366",
+    "userId": "5055560503",
+    "source": "script",
+    "createdAt": "2026-03-19T17:30:48.497Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "173.40.224.141",
+      "city": "Porterville",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
