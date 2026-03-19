@@ -21238,8 +21238,15 @@
     "userId": "10694438922",
     "source": "script",
     "createdAt": "2026-03-19T18:10:30.798Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T18:12:22.013Z",
     "geo": {
+      "ip": "2.134.111.137",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "2.134.111.137",
       "city": "Almaty",
       "region": "Almaty",
