@@ -16785,5 +16785,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-A0123D-7DF6FA-4C3284": {
+    "expires": "2026-03-20T02:55:47.458Z",
+    "hwid": "10683715237-f9dd83d0-659f-4a41-9fd4-681e7291f002",
+    "browserHwid": null,
+    "username": "vitooooo059",
+    "userId": "10683715237",
+    "source": "script",
+    "createdAt": "2026-03-19T02:55:47.674Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.87.202.54",
+      "city": "Lamongan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
