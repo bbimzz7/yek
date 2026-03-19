@@ -22581,14 +22581,22 @@
   },
   "VH-A0E572-E3AC99-EB5EC1": {
     "expires": "2026-03-20T23:19:11.412Z",
-    "hwid": null,
+    "hwid": "7547521146-33cc33a4-1ec6-424b-b015-55a2d2876129",
     "browserHwid": "BR-781D4341-CVCF3",
     "username": "Baller_6485",
-    "userId": null,
+    "userId": "7547521146",
     "source": "browser",
     "createdAt": "2026-03-19T23:19:11.951Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T23:19:19.314Z",
     "geo": {
+      "ip": "86.33.88.155",
+      "city": "Zagreb",
+      "region": "City of Zagreb",
+      "country": "Croatia",
+      "cc": "HR"
+    },
+    "boundAt": "2026-03-19T23:19:19.308Z",
+    "lastGeo": {
       "ip": "86.33.88.155",
       "city": "Zagreb",
       "region": "City of Zagreb",
