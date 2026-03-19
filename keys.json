@@ -21663,8 +21663,15 @@
     "userId": "6157330701",
     "source": "script",
     "createdAt": "2026-03-19T19:16:35.754Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T19:20:27.074Z",
     "geo": {
+      "ip": "72.252.198.154",
+      "city": "Mandeville",
+      "region": "Manchester",
+      "country": "Jamaica",
+      "cc": "JM"
+    },
+    "lastGeo": {
       "ip": "72.252.198.154",
       "city": "Mandeville",
       "region": "Manchester",
