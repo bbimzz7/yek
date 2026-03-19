@@ -21334,7 +21334,7 @@
     "userId": "10158503650",
     "source": "script",
     "createdAt": "2026-03-19T18:32:06.967Z",
-    "lastUsed": "2026-03-19T18:46:21.251Z",
+    "lastUsed": "2026-03-19T20:34:07.640Z",
     "geo": {
       "ip": "149.50.211.146",
       "city": "Singapore",
@@ -21343,11 +21343,11 @@
       "cc": "SG"
     },
     "lastGeo": {
-      "ip": "149.50.211.146",
-      "city": "Singapore",
-      "region": "North West",
-      "country": "Singapore",
-      "cc": "SG"
+      "ip": "149.88.27.145",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
     }
   },
   "VH-1FA40D-87E15E-F8DDEF": {
