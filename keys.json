@@ -17220,5 +17220,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-91D0F3-4102AC-CC8624": {
+    "expires": "2026-03-20T04:35:46.017Z",
+    "hwid": "2591181671-1f622879-a8b0-4f3c-bb60-a0985bc21fe8",
+    "browserHwid": null,
+    "username": "Andrexnano",
+    "userId": "2591181671",
+    "source": "script",
+    "createdAt": "2026-03-19T04:35:46.492Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.5.246.10",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
