@@ -20581,5 +20581,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-12266A-BDD980-930C42": {
+    "expires": "2026-03-20T15:13:57.988Z",
+    "hwid": "7025868286-0bd151f3-d871-404d-a372-06fccf04157c",
+    "browserHwid": null,
+    "username": "th_vy330",
+    "userId": "7025868286",
+    "source": "script",
+    "createdAt": "2026-03-19T15:13:58.634Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "183.80.38.96",
+      "city": "Quận Hai",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
