@@ -19538,5 +19538,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-45D481-C3A631-694692": {
+    "expires": "2026-03-20T12:25:13.100Z",
+    "hwid": "8308707589-988bf34b-60f7-4577-90e9-35c44f99c6ef",
+    "browserHwid": null,
+    "username": "cookie_straw2",
+    "userId": "8308707589",
+    "source": "script",
+    "createdAt": "2026-03-19T12:25:13.424Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.54.154.61",
+      "city": "Tarlac City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
