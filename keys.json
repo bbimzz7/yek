@@ -19506,8 +19506,15 @@
     "userId": "9766193194",
     "source": "script",
     "createdAt": "2026-03-19T12:22:19.121Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T12:22:29.917Z",
     "geo": {
+      "ip": "103.232.219.38",
+      "city": "Petaling Jaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "103.232.219.38",
       "city": "Petaling Jaya",
       "region": "Selangor",
