@@ -22795,5 +22795,22 @@
       "country": "Paraguay",
       "cc": "PY"
     }
+  },
+  "VH-4C0775-562315-03A653": {
+    "expires": "2026-03-20T23:58:51.034Z",
+    "hwid": "8678284420-d6974977-90d8-442f-9e5a-bb24a23495fb",
+    "browserHwid": null,
+    "username": "panjull616",
+    "userId": "8678284420",
+    "source": "script",
+    "createdAt": "2026-03-19T23:58:51.712Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.19.227.254",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
