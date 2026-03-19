@@ -19882,5 +19882,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-1EE181-A06A01-551589": {
+    "expires": "2026-03-20T13:28:32.511Z",
+    "hwid": "8727002836-DC281631-F96B-4EB2-97E0-C54C0C1E491F",
+    "browserHwid": null,
+    "username": "BonbonVernanta",
+    "userId": "8727002836",
+    "source": "script",
+    "createdAt": "2026-03-19T13:28:32.833Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.83.40.31",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
