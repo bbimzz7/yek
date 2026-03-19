@@ -18319,5 +18319,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-168E1D-604DE7-851E39": {
+    "expires": "2026-03-20T08:18:40.801Z",
+    "hwid": "9348686404-63b885c4-62fe-4cfa-8a50-1ee63f9990e7",
+    "browserHwid": null,
+    "username": "evilsurp_i",
+    "userId": "9348686404",
+    "source": "script",
+    "createdAt": "2026-03-19T08:18:41.091Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.137.204.200",
+      "city": "Cuenca",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
