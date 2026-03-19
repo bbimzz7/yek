@@ -17398,8 +17398,15 @@
     "userId": "6179415612",
     "source": "script",
     "createdAt": "2026-03-19T05:11:15.237Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T05:11:27.958Z",
     "geo": {
+      "ip": "27.125.251.194",
+      "city": "Bukit Jambul",
+      "region": "Penang",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "27.125.251.194",
       "city": "Bukit Jambul",
       "region": "Penang",
