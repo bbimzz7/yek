@@ -22419,8 +22419,15 @@
     "userId": "8674387215",
     "source": "script",
     "createdAt": "2026-03-19T22:43:10.319Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T22:44:30.154Z",
     "geo": {
+      "ip": "202.125.82.163",
+      "city": "Bojonegoro",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "202.125.82.163",
       "city": "Bojonegoro",
       "region": "East Java",
