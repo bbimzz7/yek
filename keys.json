@@ -22563,8 +22563,15 @@
     "userId": "2039808582",
     "source": "script",
     "createdAt": "2026-03-19T23:12:48.614Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T23:12:58.561Z",
     "geo": {
+      "ip": "2.73.41.48",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "2.73.41.48",
       "city": "Almaty",
       "region": "Almaty",
