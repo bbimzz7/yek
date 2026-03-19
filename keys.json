@@ -19178,5 +19178,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-43DC6B-44EE45-BE52B8": {
+    "expires": "2026-03-20T11:17:24.312Z",
+    "hwid": "4612174926-836C0BC4-F129-49ED-84F2-0A1D536B740C",
+    "browserHwid": null,
+    "username": "ksuiidg4444",
+    "userId": "4612174926",
+    "source": "script",
+    "createdAt": "2026-03-19T11:17:24.820Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.228.33.210",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
