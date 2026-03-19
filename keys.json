@@ -22410,5 +22410,22 @@
       "country": "Bolivia",
       "cc": "BO"
     }
+  },
+  "VH-41B27E-6781CB-83563D": {
+    "expires": "2026-03-20T22:43:10.037Z",
+    "hwid": "8674387215-038d3b00-bc43-443d-94b1-a23d24d2df12",
+    "browserHwid": null,
+    "username": "inc0mu6945",
+    "userId": "8674387215",
+    "source": "script",
+    "createdAt": "2026-03-19T22:43:10.319Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.125.82.163",
+      "city": "Bojonegoro",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
