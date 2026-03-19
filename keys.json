@@ -22644,5 +22644,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-B2AB22-09FE33-CA68EB": {
+    "expires": "2026-03-20T23:32:03.084Z",
+    "hwid": "5063505458-550e4b9e-2970-4650-96fa-9c1ecaea848d",
+    "browserHwid": null,
+    "username": "flakawqq",
+    "userId": "5063505458",
+    "source": "script",
+    "createdAt": "2026-03-19T23:32:03.371Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.125.213.51",
+      "city": "Campinas",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
