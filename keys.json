@@ -16319,5 +16319,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-23BB3A-41322B-C36050": {
+    "expires": "2026-03-20T01:44:58.827Z",
+    "hwid": "3342704500-93c38e96-a721-4497-8d62-c4e37fae5e8f",
+    "browserHwid": null,
+    "username": "BIG_jegui",
+    "userId": "3342704500",
+    "source": "script",
+    "createdAt": "2026-03-19T01:44:59.333Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.232.181.101",
+      "city": "João Alfredo",
+      "region": "Pernambuco",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
