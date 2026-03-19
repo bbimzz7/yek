@@ -21301,5 +21301,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-FDAADB-D43EA8-3D710B": {
+    "expires": "2026-03-20T18:19:12.436Z",
+    "hwid": "10603566657-8f4a6072-093e-49f5-9730-cf3f22af1f3b",
+    "browserHwid": null,
+    "username": "A_KL122",
+    "userId": "10603566657",
+    "source": "script",
+    "createdAt": "2026-03-19T18:19:13.001Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.160.141.12",
+      "city": "Bandar Seri Begawan",
+      "region": "Brunei-Muara District",
+      "country": "Brunei",
+      "cc": "BN"
+    }
   }
 }
