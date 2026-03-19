@@ -19843,7 +19843,7 @@
     "userId": "10058031304",
     "source": "script",
     "createdAt": "2026-03-19T13:18:24.915Z",
-    "lastUsed": "2026-03-19T13:51:03.311Z",
+    "lastUsed": "2026-03-19T23:55:55.558Z",
     "geo": {
       "ip": "182.4.5.96",
       "city": "Ambon City",
@@ -19852,9 +19852,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "182.4.5.96",
-      "city": "Ambon City",
-      "region": "Maluku",
+      "ip": "202.65.234.226",
+      "city": "Surabaya",
+      "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
     }
