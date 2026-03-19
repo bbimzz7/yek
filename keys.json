@@ -17156,8 +17156,15 @@
     "userId": "5476462597",
     "source": "script",
     "createdAt": "2026-03-19T04:19:02.991Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T04:19:09.810Z",
     "geo": {
+      "ip": "172.59.9.129",
+      "city": "Bridgeport",
+      "region": "Connecticut",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.59.9.129",
       "city": "Bridgeport",
       "region": "Connecticut",
