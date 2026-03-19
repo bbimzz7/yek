@@ -22345,5 +22345,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-87FB35-0A7C46-C8395C": {
+    "expires": "2026-03-20T22:37:07.868Z",
+    "hwid": "10628453799-19aab1b3-f63b-46fb-93d2-b32aab08e921",
+    "browserHwid": null,
+    "username": "angelyt77891",
+    "userId": "10628453799",
+    "source": "script",
+    "createdAt": "2026-03-19T22:37:08.207Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.28.219.173",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
