@@ -22465,5 +22465,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-0F105D-B2F1DD-1DBA0F": {
+    "expires": "2026-03-20T22:59:49.563Z",
+    "hwid": "9876188063-e733e0fa-f46d-45b7-b96e-0fc3589c7730",
+    "browserHwid": null,
+    "username": "G7OL4VC03",
+    "userId": "9876188063",
+    "source": "script",
+    "createdAt": "2026-03-19T22:59:50.086Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "142.118.109.164",
+      "city": "Montreal",
+      "region": "Quebec",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
