@@ -18158,5 +18158,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C86842-E9E359-69B81D": {
+    "expires": "2026-03-20T07:16:40.980Z",
+    "hwid": "4157255473-6a1a32c4-0995-402c-972e-61c8e7470c1e",
+    "browserHwid": null,
+    "username": "ahmdj1j",
+    "userId": "4157255473",
+    "source": "script",
+    "createdAt": "2026-03-19T07:16:41.473Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.77.55.17",
+      "city": "Baghdad",
+      "region": "Baghdad",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
