@@ -20075,5 +20075,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8C4F82-7E0FEF-1454F6": {
+    "expires": "2026-03-20T13:56:37.276Z",
+    "hwid": "10656924433-c781efc4-db91-40c4-a509-359af17a59e3",
+    "browserHwid": null,
+    "username": "sawitpraboworawrrr",
+    "userId": "10656924433",
+    "source": "script",
+    "createdAt": "2026-03-19T13:56:37.679Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.165.105.200",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
