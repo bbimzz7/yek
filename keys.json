@@ -16682,5 +16682,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E07AB4-3CED64-310E28": {
+    "expires": "2026-03-20T02:49:50.656Z",
+    "hwid": "6166723663-2b02e981-9ed5-41a9-a434-8a63c3b5caf1",
+    "browserHwid": null,
+    "username": "evil11196",
+    "userId": "6166723663",
+    "source": "script",
+    "createdAt": "2026-03-19T02:49:50.877Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.124.249.10",
+      "city": "Khartoum",
+      "region": "Khartoum",
+      "country": "Sudan",
+      "cc": "SD"
+    }
   }
 }
