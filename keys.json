@@ -21613,5 +21613,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-158FB6-EB2101-D3CE67": {
+    "expires": "2026-03-20T19:03:38.933Z",
+    "hwid": "7094302375-6cdf4bce-1466-46dd-990d-f6b980fa22cc",
+    "browserHwid": null,
+    "username": "GOKER_GOT",
+    "userId": "7094302375",
+    "source": "script",
+    "createdAt": "2026-03-19T19:03:39.456Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "194.127.110.166",
+      "city": "Kirkuk",
+      "region": "Kirkuk Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
