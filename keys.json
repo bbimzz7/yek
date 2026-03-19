@@ -17701,5 +17701,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-184365-21C126-BA4E9E": {
+    "expires": "2026-03-20T05:50:35.515Z",
+    "hwid": "10590200161-ea5dad7e-1c2e-4e5e-b945-71e50a7e016c",
+    "browserHwid": null,
+    "username": "arba_op1",
+    "userId": "10590200161",
+    "source": "script",
+    "createdAt": "2026-03-19T05:50:35.759Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.98.89",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
