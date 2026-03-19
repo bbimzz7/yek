@@ -19530,8 +19530,15 @@
     "userId": "4754833625",
     "source": "script",
     "createdAt": "2026-03-19T12:23:42.780Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T12:25:46.103Z",
     "geo": {
+      "ip": "116.98.245.125",
+      "city": "Vụ Bản",
+      "region": "Phu Tho",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "116.98.245.125",
       "city": "Vụ Bản",
       "region": "Phu Tho",
