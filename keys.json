@@ -19401,5 +19401,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-7C7EC3-162E30-DD5F42": {
+    "expires": "2026-03-20T12:08:39.655Z",
+    "hwid": "8847309284-ce935a61-d426-4869-a06e-8c8a03999e5f",
+    "browserHwid": null,
+    "username": "SKYZ_Evade",
+    "userId": "8847309284",
+    "source": "script",
+    "createdAt": "2026-03-19T12:08:40.177Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.129.133",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
