@@ -16737,5 +16737,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C1C760-7C7A43-51EC99": {
+    "expires": "2026-03-20T02:53:55.715Z",
+    "hwid": "7607577641-c947c51c-9d02-4907-bd18-67fbd06fe9d3",
+    "browserHwid": null,
+    "username": "starblox1891",
+    "userId": "7607577641",
+    "source": "script",
+    "createdAt": "2026-03-19T02:53:55.953Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.252.19.80",
+      "city": "Santo Domingo Este",
+      "region": "Santo Domingo Province",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
