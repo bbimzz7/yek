@@ -15896,8 +15896,15 @@
     "userId": "4090807875",
     "source": "script",
     "createdAt": "2026-03-19T00:06:51.219Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T00:07:22.099Z",
     "geo": {
+      "ip": "172.56.88.101",
+      "city": "Phoenix",
+      "region": "Arizona",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.56.88.101",
       "city": "Phoenix",
       "region": "Arizona",
