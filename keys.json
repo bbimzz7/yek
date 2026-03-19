@@ -22603,5 +22603,22 @@
       "country": "Croatia",
       "cc": "HR"
     }
+  },
+  "VH-B936BB-5AA1B6-0062CA": {
+    "expires": "2026-03-20T23:25:21.619Z",
+    "hwid": "10647684004-73c2f05d-984e-434b-95a4-b419d5463b4c",
+    "browserHwid": null,
+    "username": "BPB_753",
+    "userId": "10647684004",
+    "source": "script",
+    "createdAt": "2026-03-19T23:25:21.936Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.100.48.102",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    }
   }
 }
