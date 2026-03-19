@@ -21880,13 +21880,20 @@
     "userId": "4456307309",
     "source": "script",
     "createdAt": "2026-03-19T19:51:50.037Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T19:52:15.629Z",
     "geo": {
       "ip": "182.9.36.78",
       "city": "Medan",
       "region": "North Sumatra",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.38.200.108",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
