@@ -20533,5 +20533,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-2476D6-6B8BE5-D97629": {
+    "expires": "2026-03-20T14:53:50.165Z",
+    "hwid": "10678586122-f55f8320-d523-431b-8053-c71b913f0c4d",
+    "browserHwid": null,
+    "username": "NoiseUou",
+    "userId": "10678586122",
+    "source": "script",
+    "createdAt": "2026-03-19T14:53:50.529Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.0.178.169",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
