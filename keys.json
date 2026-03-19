@@ -21205,5 +21205,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-9155FD-3EEB46-A835D9": {
+    "expires": "2026-03-20T18:08:14.664Z",
+    "hwid": "1441175997-1aab47ba-0b17-4ca3-b547-4e42e86773af",
+    "browserHwid": null,
+    "username": "Ddgamer2801",
+    "userId": "1441175997",
+    "source": "script",
+    "createdAt": "2026-03-19T18:08:15.218Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.46.137.51",
+      "city": "Taldykorgan",
+      "region": "Jetisu Region",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
