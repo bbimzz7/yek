@@ -21430,8 +21430,15 @@
     "userId": "5442360729",
     "source": "script",
     "createdAt": "2026-03-19T18:40:03.974Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T18:40:15.759Z",
     "geo": {
+      "ip": "185.132.132.57",
+      "city": "Naaldwijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "185.132.132.57",
       "city": "Naaldwijk",
       "region": "South Holland",
