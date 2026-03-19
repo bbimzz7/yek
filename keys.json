@@ -17965,5 +17965,22 @@
       "country": "Japan",
       "cc": "JP"
     }
+  },
+  "VH-1303B7-429068-2616BE": {
+    "expires": "2026-03-20T06:43:19.367Z",
+    "hwid": "9180859926-88e26305-1a09-4164-9e8a-052d8d2ea7e6",
+    "browserHwid": null,
+    "username": "polianesta",
+    "userId": "9180859926",
+    "source": "script",
+    "createdAt": "2026-03-19T06:43:19.615Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.85.197.7",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
