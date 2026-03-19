@@ -16521,5 +16521,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FAD31C-878777-57E514": {
+    "expires": "2026-03-20T02:17:14.192Z",
+    "hwid": "10691352296-f7929aa4-70ad-418c-8364-bf37f137a0c0",
+    "browserHwid": null,
+    "username": "Urgirlskyu",
+    "userId": "10691352296",
+    "source": "script",
+    "createdAt": "2026-03-19T02:17:14.468Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "66.9.166.158",
+      "city": "Kingston",
+      "region": "Kingston",
+      "country": "Jamaica",
+      "cc": "JM"
+    }
   }
 }
