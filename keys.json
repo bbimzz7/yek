@@ -18920,5 +18920,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1FE15F-2A1326-C43B7D": {
+    "expires": "2026-03-20T10:10:47.311Z",
+    "hwid": "8282138024-e6550af2-d830-46fc-a14f-dff8a18f7d9c",
+    "browserHwid": null,
+    "username": "Leiii_Tamaki",
+    "userId": "8282138024",
+    "source": "script",
+    "createdAt": "2026-03-19T10:10:47.623Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.90.232.161",
+      "city": "Dau",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
