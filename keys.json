@@ -16923,5 +16923,22 @@
       "country": "New Caledonia",
       "cc": "NC"
     }
+  },
+  "VH-EF374F-F14A3E-FCCEA1": {
+    "expires": "2026-03-20T03:28:15.647Z",
+    "hwid": null,
+    "browserHwid": "BR-09FB4F17-YOCWI",
+    "username": "ROBIT6218",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-19T03:28:16.860Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.35.14",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
