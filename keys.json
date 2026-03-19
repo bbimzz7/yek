@@ -22578,5 +22578,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-A0E572-E3AC99-EB5EC1": {
+    "expires": "2026-03-20T23:19:11.412Z",
+    "hwid": null,
+    "browserHwid": "BR-781D4341-CVCF3",
+    "username": "Baller_6485",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-19T23:19:11.951Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "86.33.88.155",
+      "city": "Zagreb",
+      "region": "City of Zagreb",
+      "country": "Croatia",
+      "cc": "HR"
+    }
   }
 }
