@@ -19233,5 +19233,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-70187E-D0F1FA-867F1D": {
+    "expires": "2026-03-20T11:23:26.569Z",
+    "hwid": "7232931251-04d28a8d-5681-4620-942b-5e3b5a5e46cc",
+    "browserHwid": null,
+    "username": "qwerty53080",
+    "userId": "7232931251",
+    "source": "script",
+    "createdAt": "2026-03-19T11:23:26.890Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "91.212.194.12",
+      "city": "Mykytyn Rog",
+      "region": "Dnipropetrovsk Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
