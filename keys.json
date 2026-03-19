@@ -18215,8 +18215,15 @@
     "userId": "929542338",
     "source": "script",
     "createdAt": "2026-03-19T07:53:27.157Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T07:53:32.676Z",
     "geo": {
+      "ip": "103.81.195.22",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.81.195.22",
       "city": "Bekasi",
       "region": "West Java",
