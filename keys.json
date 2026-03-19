@@ -16288,5 +16288,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2BD78E-AFC18B-F1F4A6": {
+    "expires": "2026-03-20T01:38:05.444Z",
+    "hwid": "3735563304-3efaa3be-5f63-4abe-9e28-78b991f910d6",
+    "browserHwid": null,
+    "username": "ILOVEMONEY33456",
+    "userId": "3735563304",
+    "source": "script",
+    "createdAt": "2026-03-19T01:38:05.937Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.242.130.137",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
