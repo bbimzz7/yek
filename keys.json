@@ -17292,5 +17292,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-3E89E3-59C01E-7DCBD6": {
+    "expires": "2026-03-20T04:46:51.518Z",
+    "hwid": "8084483829-b91bf506-585e-44d2-b3a3-0c7e2fb98811",
+    "browserHwid": null,
+    "username": "its_chaxx73",
+    "userId": "8084483829",
+    "source": "script",
+    "createdAt": "2026-03-19T04:46:51.805Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.129.101",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
