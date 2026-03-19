@@ -16665,5 +16665,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-CD1471-6D5D38-BCBCA3": {
+    "expires": "2026-03-20T02:47:57.432Z",
+    "hwid": "6229323494-dc31f09e-00f2-49b2-9e1d-976635f4c170",
+    "browserHwid": null,
+    "username": "owi7811",
+    "userId": "6229323494",
+    "source": "script",
+    "createdAt": "2026-03-19T02:47:57.708Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "154.19.38.251",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
