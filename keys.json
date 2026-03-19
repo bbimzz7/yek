@@ -20629,5 +20629,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-5A14B7-16C388-8CAA4D": {
+    "expires": "2026-03-20T15:30:11.760Z",
+    "hwid": "8721103129-6dd7a59b-45fc-42ec-a0c0-c49367e5bafc",
+    "browserHwid": null,
+    "username": "kingkong12345256",
+    "userId": "8721103129",
+    "source": "script",
+    "createdAt": "2026-03-19T15:30:12.393Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "126.209.13.139",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
