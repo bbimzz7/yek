@@ -16691,8 +16691,15 @@
     "userId": "6166723663",
     "source": "script",
     "createdAt": "2026-03-19T02:49:50.877Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T02:50:04.278Z",
     "geo": {
+      "ip": "102.124.249.10",
+      "city": "Khartoum",
+      "region": "Khartoum",
+      "country": "Sudan",
+      "cc": "SD"
+    },
+    "lastGeo": {
       "ip": "102.124.249.10",
       "city": "Khartoum",
       "region": "Khartoum",
