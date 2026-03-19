@@ -22039,5 +22039,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-6916B6-4D2152-C2A443": {
+    "expires": "2026-03-20T21:14:44.600Z",
+    "hwid": null,
+    "browserHwid": "BR-6B1AAAF3-RS0OI",
+    "username": "https://jnkie.com/flow/430d491d-f89b-4a08-b980-cb8fbe009496",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-19T21:14:45.136Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "97.165.86.63",
+      "city": "Allentown",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
