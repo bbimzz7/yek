@@ -22107,14 +22107,22 @@
   },
   "VH-BE453D-934B48-B8FA7F": {
     "expires": "2026-03-20T21:29:52.029Z",
-    "hwid": null,
+    "hwid": "8482471494-3725dcb0-2132-4931-b9d1-dbea88dacca0",
     "browserHwid": "BR-6732153E-42LI4",
     "username": "Isaiahdagoatkr3",
-    "userId": null,
+    "userId": "8482471494",
     "source": "browser",
     "createdAt": "2026-03-19T21:29:52.552Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T21:30:40.864Z",
     "geo": {
+      "ip": "172.111.36.251",
+      "city": "Atlanta",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    },
+    "boundAt": "2026-03-19T21:30:40.856Z",
+    "lastGeo": {
       "ip": "172.111.36.251",
       "city": "Atlanta",
       "region": "Georgia",
