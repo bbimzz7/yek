@@ -16127,5 +16127,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-FE57D3-CF4582-39DC91": {
+    "expires": "2026-03-20T01:05:28.201Z",
+    "hwid": "2796478688-07057F4F-8B77-4FAE-81E7-8F5B5786688E",
+    "browserHwid": null,
+    "username": "Slayer47987",
+    "userId": "2796478688",
+    "source": "script",
+    "createdAt": "2026-03-19T01:05:28.488Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "147.160.237.118",
+      "city": "Abilene",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
