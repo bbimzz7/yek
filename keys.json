@@ -21734,5 +21734,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-539C92-1C118F-E43590": {
+    "expires": "2026-03-20T19:38:20.517Z",
+    "hwid": "7572594506-1156B895-3C12-4AA1-92A9-E32D279A6DD9",
+    "browserHwid": null,
+    "username": "CheatPanel0",
+    "userId": "7572594506",
+    "source": "script",
+    "createdAt": "2026-03-19T19:38:21.107Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.144.64.133",
+      "city": "Vologda",
+      "region": "Vologda Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
