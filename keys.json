@@ -18735,5 +18735,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-2C61DC-01BF30-65409C": {
+    "expires": "2026-03-20T09:36:04.316Z",
+    "hwid": "10525725285-71FCB334-7B7D-40A9-B7C8-D25B3D111401",
+    "browserHwid": null,
+    "username": "X7VXNM",
+    "userId": "10525725285",
+    "source": "script",
+    "createdAt": "2026-03-19T09:36:04.633Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.49.145.30",
+      "city": "Seogwipo-si",
+      "region": "Jeju-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
