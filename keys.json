@@ -16770,8 +16770,15 @@
     "userId": "3602963335",
     "source": "script",
     "createdAt": "2026-03-19T02:55:02.331Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T02:55:09.373Z",
     "geo": {
+      "ip": "37.239.224.20",
+      "city": "Ad Dawr",
+      "region": "Salah ad Din",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "37.239.224.20",
       "city": "Ad Dawr",
       "region": "Salah ad Din",
