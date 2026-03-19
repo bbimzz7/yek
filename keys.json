@@ -16055,5 +16055,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-3DF262-E1582C-EA459F": {
+    "expires": "2026-03-20T00:39:12.332Z",
+    "hwid": "10688561902-8293c381-8c0f-4022-a02a-b1754fd6ce62",
+    "browserHwid": null,
+    "username": "skibidisahur1367",
+    "userId": "10688561902",
+    "source": "script",
+    "createdAt": "2026-03-19T00:39:12.845Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.159.103.12",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
