@@ -22747,5 +22747,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-08D3F1-11767B-901189": {
+    "expires": "2026-03-20T23:49:27.625Z",
+    "hwid": "8374034841-2de526d0-dcd3-4513-b8d6-4421e50cb125",
+    "browserHwid": null,
+    "username": "Arizona_5731",
+    "userId": "8374034841",
+    "source": "script",
+    "createdAt": "2026-03-19T23:49:28.153Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.211.109.198",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
