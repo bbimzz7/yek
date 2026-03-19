@@ -17869,5 +17869,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-104DD7-F15990-FBE902": {
+    "expires": "2026-03-20T06:37:47.035Z",
+    "hwid": "10660890741-8498669a-5ffd-459f-a940-f3251e7d42fe",
+    "browserHwid": null,
+    "username": "asqa_180",
+    "userId": "10660890741",
+    "source": "script",
+    "createdAt": "2026-03-19T06:37:47.354Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.72.33.246",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
