@@ -15983,5 +15983,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-545199-4B9174-CC34FA": {
+    "expires": "2026-03-20T00:17:21.747Z",
+    "hwid": "9719596915-56ac8a97-442b-4633-b833-8ee9c12dcfd1",
+    "browserHwid": null,
+    "username": "altheaacutieYT",
+    "userId": "9719596915",
+    "source": "script",
+    "createdAt": "2026-03-19T00:17:21.971Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.203.161.127",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
