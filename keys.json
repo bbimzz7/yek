@@ -21061,5 +21061,22 @@
       "country": "Costa Rica",
       "cc": "CR"
     }
+  },
+  "VH-FE585C-AE9EB2-1B45D0": {
+    "expires": "2026-03-20T17:10:45.258Z",
+    "hwid": "8279020963-c706f462-dd20-4b99-bd0d-21159d531148",
+    "browserHwid": null,
+    "username": "fa390661",
+    "userId": "8279020963",
+    "source": "script",
+    "createdAt": "2026-03-19T17:10:45.791Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "130.193.250.5",
+      "city": "Erbil",
+      "region": "Erbil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
