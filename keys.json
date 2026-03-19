@@ -18167,8 +18167,15 @@
     "userId": "4157255473",
     "source": "script",
     "createdAt": "2026-03-19T07:16:41.473Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T07:16:48.747Z",
     "geo": {
+      "ip": "37.77.55.17",
+      "city": "Baghdad",
+      "region": "Baghdad",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "37.77.55.17",
       "city": "Baghdad",
       "region": "Baghdad",
