@@ -18783,5 +18783,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-71CF02-172C16-B45EDD": {
+    "expires": "2026-03-20T09:49:14.520Z",
+    "hwid": "7737644072-5d6a8365-d6bb-4a84-835a-a76a9c80ee32",
+    "browserHwid": null,
+    "username": "evade_pro575",
+    "userId": "7737644072",
+    "source": "script",
+    "createdAt": "2026-03-19T09:49:15.022Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.135.28.145",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
