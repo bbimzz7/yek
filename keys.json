@@ -17934,5 +17934,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-5994AA-96101D-55F804": {
+    "expires": "2026-03-20T06:42:01.836Z",
+    "hwid": "8100338963-230b8ba9-bad1-4cb0-8038-543548843ea8",
+    "browserHwid": null,
+    "username": "xLunaStarx_Dark",
+    "userId": "8100338963",
+    "source": "script",
+    "createdAt": "2026-03-19T06:42:02.108Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.109.131.107",
+      "city": "Ōta",
+      "region": "Tokyo",
+      "country": "Japan",
+      "cc": "JP"
+    }
   }
 }
