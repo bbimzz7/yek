@@ -20004,8 +20004,15 @@
     "userId": "8510986605",
     "source": "script",
     "createdAt": "2026-03-19T13:49:42.074Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T13:50:05.011Z",
     "geo": {
+      "ip": "5.248.136.221",
+      "city": "Auly",
+      "region": "Dnipropetrovsk Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "5.248.136.221",
       "city": "Auly",
       "region": "Dnipropetrovsk Oblast",
