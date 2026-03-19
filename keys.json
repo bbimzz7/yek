@@ -17205,8 +17205,15 @@
     "userId": "8457285761",
     "source": "script",
     "createdAt": "2026-03-19T04:28:26.586Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T04:35:34.868Z",
     "geo": {
+      "ip": "180.190.53.181",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "180.190.53.181",
       "city": "Cebu City",
       "region": "Central Visayas",
