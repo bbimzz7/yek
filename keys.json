@@ -16506,8 +16506,15 @@
     "userId": "10680415185",
     "source": "script",
     "createdAt": "2026-03-19T02:13:04.964Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T02:15:28.382Z",
     "geo": {
+      "ip": "103.150.218.150",
+      "city": "Pancur Biru Lestari II",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.150.218.150",
       "city": "Pancur Biru Lestari II",
       "region": "Riau Islands",
