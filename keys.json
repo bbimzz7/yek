@@ -19747,8 +19747,15 @@
     "userId": "8136323104",
     "source": "script",
     "createdAt": "2026-03-19T12:49:03.338Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T12:49:09.725Z",
     "geo": {
+      "ip": "117.5.152.43",
+      "city": "Bắc Giang",
+      "region": "Bắc Giang Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "117.5.152.43",
       "city": "Bắc Giang",
       "region": "Bắc Giang Province",
