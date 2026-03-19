@@ -22506,5 +22506,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-878792-77860E-9D6F76": {
+    "expires": "2026-03-20T23:04:50.311Z",
+    "hwid": "7459767355-b0c335b0-2aee-499a-9111-8f6cf1b604f3",
+    "browserHwid": null,
+    "username": "itzpret4",
+    "userId": "7459767355",
+    "source": "script",
+    "createdAt": "2026-03-19T23:04:50.867Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.5.199.2",
+      "city": "Campo Grande",
+      "region": "Mato Grosso do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
