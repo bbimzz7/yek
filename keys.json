@@ -19410,8 +19410,15 @@
     "userId": "8847309284",
     "source": "script",
     "createdAt": "2026-03-19T12:08:40.177Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T12:08:48.525Z",
     "geo": {
+      "ip": "114.10.129.133",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.129.133",
       "city": "Manado",
       "region": "North Sulawesi",
