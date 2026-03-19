@@ -21709,5 +21709,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6D5C9B-6DFD02-76491F": {
+    "expires": "2026-03-20T19:27:21.883Z",
+    "hwid": null,
+    "browserHwid": "BR-2B10FABC-WKRRV",
+    "username": "jawabisingg",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-19T19:27:22.449Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.152.232.148",
+      "city": "Pamanukan",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
