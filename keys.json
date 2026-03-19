@@ -21895,5 +21895,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-5855CC-0E3935-0DAE5B": {
+    "expires": "2026-03-20T20:00:20.592Z",
+    "hwid": "1130249106-56294DEC-4DCB-4AD4-A137-8C8F82BB9360",
+    "browserHwid": null,
+    "username": "ERSULT3N",
+    "userId": "1130249106",
+    "source": "script",
+    "createdAt": "2026-03-19T20:00:20.907Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.209.156.90",
+      "city": "Aktau",
+      "region": "Mangistauskaya Oblast'",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
