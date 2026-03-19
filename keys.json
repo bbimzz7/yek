@@ -21589,5 +21589,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-3ED0B6-9C5B73-BB78F7": {
+    "expires": "2026-03-20T19:01:32.380Z",
+    "hwid": "8687437207-765d2bb6-8626-479c-b98c-f16872cf46de",
+    "browserHwid": null,
+    "username": "Dyalamsyah",
+    "userId": "8687437207",
+    "source": "script",
+    "createdAt": "2026-03-19T19:01:33.813Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "82.38.200.70",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
