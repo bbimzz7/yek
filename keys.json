@@ -22225,5 +22225,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F4EFA0-BE940C-A13DC6": {
+    "expires": "2026-03-20T22:13:34.684Z",
+    "hwid": "10571837986-5376f634-ae26-4dff-afa9-8340f162bf5b",
+    "browserHwid": null,
+    "username": "vitorlukas2026",
+    "userId": "10571837986",
+    "source": "script",
+    "createdAt": "2026-03-19T22:13:35.248Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.182.50.240",
+      "city": "Timóteo",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
