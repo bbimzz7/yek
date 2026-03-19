@@ -20557,5 +20557,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-97E32B-2AEC11-2EACE2": {
+    "expires": "2026-03-20T14:58:37.194Z",
+    "hwid": "10081616101-62aed771-27f3-44a3-8518-59ecaca8d3cf",
+    "browserHwid": null,
+    "username": "leffylaa",
+    "userId": "10081616101",
+    "source": "script",
+    "createdAt": "2026-03-19T14:58:37.606Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.105.213.193",
+      "city": "Dumaguete",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
