@@ -16175,5 +16175,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-ED2287-5ECE6E-A26FFF": {
+    "expires": "2026-03-20T01:15:18.603Z",
+    "hwid": "8719216282-e8fd7dc8-5c81-4911-a95a-692bcc48582c",
+    "browserHwid": null,
+    "username": "axegod_7899",
+    "userId": "8719216282",
+    "source": "script",
+    "createdAt": "2026-03-19T01:15:18.864Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.148.44.241",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
