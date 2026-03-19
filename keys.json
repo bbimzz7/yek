@@ -19521,5 +19521,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-DA6D95-27E173-A056E8": {
+    "expires": "2026-03-20T12:23:42.517Z",
+    "hwid": "4754833625-5b403415-7df9-4d21-a4c0-f10954792823",
+    "browserHwid": null,
+    "username": "ripn_cuahi",
+    "userId": "4754833625",
+    "source": "script",
+    "createdAt": "2026-03-19T12:23:42.780Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.98.245.125",
+      "city": "Vụ Bản",
+      "region": "Phu Tho",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
