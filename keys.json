@@ -20485,5 +20485,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-214EBB-08FB6B-DEC784": {
+    "expires": "2026-03-20T14:48:00.451Z",
+    "hwid": "10408292453-bb250e07-8092-40f3-9e25-318281f32a28",
+    "browserHwid": null,
+    "username": "Anthonyd_studio",
+    "userId": "10408292453",
+    "source": "script",
+    "createdAt": "2026-03-19T14:48:00.898Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.174.237.157",
+      "city": "Porto Alegre",
+      "region": "Rio Grande do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
