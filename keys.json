@@ -20502,5 +20502,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-316358-5B9ED6-5F147B": {
+    "expires": "2026-03-20T14:49:13.550Z",
+    "hwid": "2376665853-8e77f912-6014-4b10-91d2-45aabdff6a16",
+    "browserHwid": null,
+    "username": "velv3tbyte",
+    "userId": "2376665853",
+    "source": "script",
+    "createdAt": "2026-03-19T14:49:13.938Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.112.75.98",
+      "city": "Kroczyce",
+      "region": "Silesia",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
