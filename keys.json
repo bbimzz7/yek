@@ -19762,5 +19762,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-DF2CD4-790CE2-60E75E": {
+    "expires": "2026-03-20T12:55:55.277Z",
+    "hwid": "3825156894-8f898e37-8808-42c0-a3ea-7f48ccf782b9",
+    "browserHwid": null,
+    "username": "procron45",
+    "userId": "3825156894",
+    "source": "script",
+    "createdAt": "2026-03-19T12:55:55.758Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "31.145.63.65",
+      "city": "Adala",
+      "region": "Manisa",
+      "country": "Turkey",
+      "cc": "TR"
+    }
   }
 }
