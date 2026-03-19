@@ -21214,8 +21214,15 @@
     "userId": "1441175997",
     "source": "script",
     "createdAt": "2026-03-19T18:08:15.218Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T18:08:27.180Z",
     "geo": {
+      "ip": "95.46.137.51",
+      "city": "Taldykorgan",
+      "region": "Jetisu Region",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "95.46.137.51",
       "city": "Taldykorgan",
       "region": "Jetisu Region",
