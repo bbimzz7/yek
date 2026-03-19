@@ -19786,5 +19786,22 @@
       "country": "Turkey",
       "cc": "TR"
     }
+  },
+  "VH-58C781-C12703-4B51B5": {
+    "expires": "2026-03-20T12:57:34.624Z",
+    "hwid": "3819925923-D10D00D1-1CDE-487E-9E39-1EC2166CF057",
+    "browserHwid": null,
+    "username": "GiaBaoEvent2",
+    "userId": "3819925923",
+    "source": "script",
+    "createdAt": "2026-03-19T12:57:34.912Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.242.68.141",
+      "city": "Vinh",
+      "region": "Nghệ An Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
