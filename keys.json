@@ -21654,5 +21654,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-74E39F-86B7EE-79D3E5": {
+    "expires": "2026-03-20T19:16:35.420Z",
+    "hwid": "6157330701-33140764-e681-4076-b959-dbf8acae862a",
+    "browserHwid": null,
+    "username": "Maryalol6",
+    "userId": "6157330701",
+    "source": "script",
+    "createdAt": "2026-03-19T19:16:35.754Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "72.252.198.154",
+      "city": "Mandeville",
+      "region": "Manchester",
+      "country": "Jamaica",
+      "cc": "JM"
+    }
   }
 }
