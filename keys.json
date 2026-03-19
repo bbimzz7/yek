@@ -22539,8 +22539,15 @@
     "userId": "4617764111",
     "source": "script",
     "createdAt": "2026-03-19T23:05:59.546Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T23:07:12.203Z",
     "geo": {
+      "ip": "38.156.235.116",
+      "city": "Santo Domingo",
+      "region": "Nacional",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    },
+    "lastGeo": {
       "ip": "38.156.235.116",
       "city": "Santo Domingo",
       "region": "Nacional",
