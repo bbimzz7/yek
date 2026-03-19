@@ -22330,11 +22330,18 @@
     "userId": "9960152464",
     "source": "script",
     "createdAt": "2026-03-19T22:33:56.300Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T22:36:42.942Z",
     "geo": {
       "ip": "180.190.186.106",
       "city": "Lahug",
       "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "222.127.171.243",
+      "city": "Iloilo City",
+      "region": "Western Visayas",
       "country": "Philippines",
       "cc": "PH"
     }
