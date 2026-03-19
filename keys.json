@@ -21253,5 +21253,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-A3A585-9B621B-0DBF20": {
+    "expires": "2026-03-20T18:17:43.947Z",
+    "hwid": "9459071766-5f8c1055-b443-41b1-a5b8-c310c7577593",
+    "browserHwid": null,
+    "username": "Minnstore",
+    "userId": "9459071766",
+    "source": "script",
+    "createdAt": "2026-03-19T18:17:44.521Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.178.38",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
