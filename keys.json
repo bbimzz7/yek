@@ -22273,5 +22273,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B4D95E-C40A1A-E83D0A": {
+    "expires": "2026-03-20T22:20:24.590Z",
+    "hwid": "7697651834-5B8A4D5E-29FB-4E2B-99FE-CAA2E30E8E4A",
+    "browserHwid": null,
+    "username": "Andiara902",
+    "userId": "7697651834",
+    "source": "script",
+    "createdAt": "2026-03-19T22:20:24.954Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "207.244.71.84",
+      "city": "Manassas",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
