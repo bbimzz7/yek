@@ -18840,8 +18840,15 @@
     "userId": "9895007111",
     "source": "script",
     "createdAt": "2026-03-19T09:53:50.936Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T09:55:21.713Z",
     "geo": {
+      "ip": "112.201.176.73",
+      "city": "Pasig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.201.176.73",
       "city": "Pasig",
       "region": "Metro Manila",
