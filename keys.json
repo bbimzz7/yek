@@ -22653,8 +22653,15 @@
     "userId": "5063505458",
     "source": "script",
     "createdAt": "2026-03-19T23:32:03.371Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T23:32:18.542Z",
     "geo": {
+      "ip": "179.125.213.51",
+      "city": "Campinas",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "179.125.213.51",
       "city": "Campinas",
       "region": "São Paulo",
