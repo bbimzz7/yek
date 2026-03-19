@@ -19082,5 +19082,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1F462C-3D6009-BF1BC6": {
+    "expires": "2026-03-20T10:53:24.344Z",
+    "hwid": "4192344416-08204474-506f-414f-a14b-7378b30ed187",
+    "browserHwid": null,
+    "username": "qisyaadelia1485",
+    "userId": "4192344416",
+    "source": "script",
+    "createdAt": "2026-03-19T10:53:24.682Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.140.96.24",
+      "city": "Muar town",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
