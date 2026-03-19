@@ -21270,5 +21270,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2A4D7C-CB7329-400570": {
+    "expires": "2026-03-20T18:17:58.294Z",
+    "hwid": "10028895219-7c5d3e8d-8a8e-4f74-a301-11899a85c3de",
+    "browserHwid": null,
+    "username": "kadokad_153",
+    "userId": "10028895219",
+    "source": "script",
+    "createdAt": "2026-03-19T18:17:58.629Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "198.244.232.116",
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
