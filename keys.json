@@ -17773,5 +17773,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-E0E150-BE1F22-04A719": {
+    "expires": "2026-03-20T06:02:00.184Z",
+    "hwid": "8341691307-0d809dd3-0ef5-4e6d-85c7-3592ab962283",
+    "browserHwid": null,
+    "username": "acursio261",
+    "userId": "8341691307",
+    "source": "script",
+    "createdAt": "2026-03-19T06:02:00.732Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.242.82",
+      "city": "Bukit Jambul",
+      "region": "Penang",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
