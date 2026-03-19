@@ -22282,13 +22282,20 @@
     "userId": "7697651834",
     "source": "script",
     "createdAt": "2026-03-19T22:20:24.954Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T22:21:46.140Z",
     "geo": {
       "ip": "207.244.71.84",
       "city": "Manassas",
       "region": "Virginia",
       "country": "United States",
       "cc": "US"
+    },
+    "lastGeo": {
+      "ip": "114.10.135.246",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
     }
   }
 }
