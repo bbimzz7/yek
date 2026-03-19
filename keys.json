@@ -19019,19 +19019,27 @@
   },
   "VH-759B21-E6726D-D22093": {
     "expires": "2026-03-20T10:41:45.734Z",
-    "hwid": null,
+    "hwid": "9024086162-e52fa9dc-739d-43c0-b736-26508d4af5e9",
     "browserHwid": "BR-07D9B6B2-3UP8Z",
     "username": "Menttisi",
-    "userId": null,
+    "userId": "9024086162",
     "source": "browser",
     "createdAt": "2026-03-19T10:41:46.253Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T10:45:19.671Z",
     "geo": {
       "ip": "95.24.162.98",
       "city": "Moscow",
       "region": "Moscow",
       "country": "Russia",
       "cc": "RU"
+    },
+    "boundAt": "2026-03-19T10:45:19.662Z",
+    "lastGeo": {
+      "ip": "23.251.51.237",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
     }
   }
 }
