@@ -18350,5 +18350,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-5B8964-798F1D-2C1193": {
+    "expires": "2026-03-20T08:19:49.358Z",
+    "hwid": "10364765611-2896332d-531d-4408-9d9b-06d2365ecaae",
+    "browserHwid": null,
+    "username": "FANZZZZ8080",
+    "userId": "10364765611",
+    "source": "script",
+    "createdAt": "2026-03-19T08:19:49.620Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.111.118.165",
+      "city": "Blitar",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
