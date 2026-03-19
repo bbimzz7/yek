@@ -22482,5 +22482,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-DF146D-9F5577-9AB9F7": {
+    "expires": "2026-03-20T22:59:56.661Z",
+    "hwid": "9005991399-5d9829ea-bda2-459e-a7be-56e1afc0c4bd",
+    "browserHwid": null,
+    "username": "Melisa27590",
+    "userId": "9005991399",
+    "source": "script",
+    "createdAt": "2026-03-19T22:59:56.958Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "51.158.238.38",
+      "city": "Haarlem",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
