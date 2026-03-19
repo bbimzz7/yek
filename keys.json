@@ -17797,5 +17797,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-7C4833-91FDA0-B8E87A": {
+    "expires": "2026-03-20T06:04:33.608Z",
+    "hwid": "8721860968-E5BCE7D5-467E-4BE9-AE3A-7C88249B935B",
+    "browserHwid": null,
+    "username": "Cosmicyul",
+    "userId": "8721860968",
+    "source": "script",
+    "createdAt": "2026-03-19T06:04:34.101Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.120.206",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
