@@ -17605,5 +17605,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-869C7B-FB2F69-C816A4": {
+    "expires": "2026-03-20T05:43:10.879Z",
+    "hwid": "10477657711-5214ccf4-30d0-4001-b4ff-58e3b51afcbf",
+    "browserHwid": null,
+    "username": "tiang_naik3",
+    "userId": "10477657711",
+    "source": "script",
+    "createdAt": "2026-03-19T05:43:11.165Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.253.240.90",
+      "city": "Jatiroto",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
