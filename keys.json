@@ -20053,14 +20053,22 @@
   },
   "VH-1CE36F-3E1FEF-E5CEC4": {
     "expires": "2026-03-20T13:56:24.820Z",
-    "hwid": null,
+    "hwid": "9568497330-545b2680-7603-46a7-aed3-1a16f0d71b7b",
     "browserHwid": "BR-0094792B-YOLTT",
     "username": "bonaissshere",
-    "userId": null,
+    "userId": "9568497330",
     "source": "browser",
     "createdAt": "2026-03-19T13:56:25.126Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T13:56:33.721Z",
     "geo": {
+      "ip": "182.9.2.62",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-19T13:56:33.715Z",
+    "lastGeo": {
       "ip": "182.9.2.62",
       "city": "Surakarta",
       "region": "Central Java",
