@@ -19834,5 +19834,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4CE6AF-285590-EFCCDD": {
+    "expires": "2026-03-20T13:18:24.308Z",
+    "hwid": "10058031304-6b838dfe-10cc-4da3-a115-ac965ab18ff9",
+    "browserHwid": null,
+    "username": "Halo_ita35",
+    "userId": "10058031304",
+    "source": "script",
+    "createdAt": "2026-03-19T13:18:24.915Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.5.96",
+      "city": "Ambon City",
+      "region": "Maluku",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
