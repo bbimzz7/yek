@@ -21823,5 +21823,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AD72EC-C4A334-98E86B": {
+    "expires": "2026-03-20T19:41:51.526Z",
+    "hwid": "10651655104-2fbff7ff-bf53-4226-a763-2476b27afecf",
+    "browserHwid": null,
+    "username": "estiven223358",
+    "userId": "10651655104",
+    "source": "script",
+    "createdAt": "2026-03-19T19:41:52.786Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.19.211.175",
+      "city": "Medellín",
+      "region": "Antioquia",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
