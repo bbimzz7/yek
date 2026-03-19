@@ -15147,7 +15147,7 @@
     "userId": "10686254659",
     "source": "script",
     "createdAt": "2026-03-18T21:27:14.583Z",
-    "lastUsed": "2026-03-18T21:28:54.993Z",
+    "lastUsed": "2026-03-19T18:11:58.442Z",
     "geo": {
       "ip": "45.178.155.159",
       "city": "Canoas",
@@ -15156,7 +15156,7 @@
       "cc": "BR"
     },
     "lastGeo": {
-      "ip": "45.178.155.159",
+      "ip": "45.178.155.160",
       "city": "Canoas",
       "region": "Rio Grande do Sul",
       "country": "Brazil",
