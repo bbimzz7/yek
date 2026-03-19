@@ -19810,5 +19810,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-B49163-4D8533-54707A": {
+    "expires": "2026-03-20T12:59:56.374Z",
+    "hwid": "10288777793-5438bc63-9f94-46f6-9901-45c12a7f92ad",
+    "browserHwid": null,
+    "username": "asiap8891",
+    "userId": "10288777793",
+    "source": "script",
+    "createdAt": "2026-03-19T12:59:56.673Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.249.155.163",
+      "city": "Manokwari",
+      "region": "West Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
