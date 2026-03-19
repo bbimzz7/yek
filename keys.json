@@ -18655,5 +18655,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-769FB5-E3A7D6-0D0EF8": {
+    "expires": "2026-03-20T09:27:43.007Z",
+    "hwid": null,
+    "browserHwid": "BR-3B6535C4-VF6I4",
+    "username": "Aku_baconke5",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-19T09:27:43.529Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.106.219.172",
+      "city": "Pasuruan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
