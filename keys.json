@@ -20677,5 +20677,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-543FCE-22F2C3-46AF64": {
+    "expires": "2026-03-20T15:36:01.923Z",
+    "hwid": "9242894788-00789BAC-68B3-4DBF-8EF4-9C34AC5010E4",
+    "browserHwid": null,
+    "username": "Kayeyee25",
+    "userId": "9242894788",
+    "source": "script",
+    "createdAt": "2026-03-19T15:36:02.261Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.94.57.217",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
