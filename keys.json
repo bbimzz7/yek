@@ -19146,8 +19146,15 @@
     "userId": "10576232313",
     "source": "script",
     "createdAt": "2026-03-19T10:57:24.470Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T10:57:41.787Z",
     "geo": {
+      "ip": "212.16.245.143",
+      "city": "Düren",
+      "region": "North Rhine-Westphalia",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "212.16.245.143",
       "city": "Düren",
       "region": "North Rhine-Westphalia",
