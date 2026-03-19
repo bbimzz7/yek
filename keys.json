@@ -16328,8 +16328,15 @@
     "userId": "3342704500",
     "source": "script",
     "createdAt": "2026-03-19T01:44:59.333Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T01:45:13.491Z",
     "geo": {
+      "ip": "45.232.181.101",
+      "city": "João Alfredo",
+      "region": "Pernambuco",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.232.181.101",
       "city": "João Alfredo",
       "region": "Pernambuco",
