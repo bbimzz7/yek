@@ -21967,5 +21967,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8C4032-413521-AA5888": {
+    "expires": "2026-03-20T20:45:50.563Z",
+    "hwid": "8442901261-eb1daa94-0292-474c-bf01-5bcc2d8c1551",
+    "browserHwid": null,
+    "username": "kolante34",
+    "userId": "8442901261",
+    "source": "script",
+    "createdAt": "2026-03-19T20:45:51.098Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.5.35.54",
+      "city": "Concepción",
+      "region": "Región del Biobío",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
