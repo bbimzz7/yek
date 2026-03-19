@@ -19578,8 +19578,15 @@
     "userId": "2209972600",
     "source": "script",
     "createdAt": "2026-03-19T12:26:06.378Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T12:26:24.815Z",
     "geo": {
+      "ip": "188.132.132.195",
+      "city": "Istanbul",
+      "region": "Istanbul",
+      "country": "Türkiye",
+      "cc": "TR"
+    },
+    "lastGeo": {
       "ip": "188.132.132.195",
       "city": "Istanbul",
       "region": "Istanbul",
