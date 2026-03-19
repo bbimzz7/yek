@@ -18182,5 +18182,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-EA2B60-93967B-7912D4": {
+    "expires": "2026-03-20T07:50:58.121Z",
+    "hwid": "10448641586-fc413065-6fd2-4c10-b0be-1228805a0a32",
+    "browserHwid": null,
+    "username": "cesia_2uu",
+    "userId": "10448641586",
+    "source": "script",
+    "createdAt": "2026-03-19T07:50:58.625Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.29.17.125",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
