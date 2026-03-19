@@ -21637,5 +21637,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-2A592F-0302B8-F4DC1E": {
+    "expires": "2026-03-20T19:13:37.916Z",
+    "hwid": "10656872787-05c47f3e-37d5-4381-97d1-7748149597a4",
+    "browserHwid": null,
+    "username": "prawira2875",
+    "userId": "10656872787",
+    "source": "script",
+    "createdAt": "2026-03-19T19:13:38.499Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.29.153",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
