@@ -17638,8 +17638,15 @@
     "userId": "7657041111",
     "source": "script",
     "createdAt": "2026-03-19T05:43:42.454Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T05:43:53.531Z",
     "geo": {
+      "ip": "114.79.19.103",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.79.19.103",
       "city": "Surabaya",
       "region": "East Java",
