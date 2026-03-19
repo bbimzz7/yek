@@ -20518,8 +20518,15 @@
     "userId": "2376665853",
     "source": "script",
     "createdAt": "2026-03-19T14:49:13.938Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T14:49:22.362Z",
     "geo": {
+      "ip": "176.112.75.98",
+      "city": "Kroczyce",
+      "region": "Silesia",
+      "country": "Poland",
+      "cc": "PL"
+    },
+    "lastGeo": {
       "ip": "176.112.75.98",
       "city": "Kroczyce",
       "region": "Silesia",
