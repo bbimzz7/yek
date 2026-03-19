@@ -22708,8 +22708,15 @@
     "userId": "2460515965",
     "source": "script",
     "createdAt": "2026-03-19T23:40:14.469Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T23:40:22.624Z",
     "geo": {
+      "ip": "43.230.96.130",
+      "city": "Singapore",
+      "region": "South West",
+      "country": "Singapore",
+      "cc": "SG"
+    },
+    "lastGeo": {
       "ip": "43.230.96.130",
       "city": "Singapore",
       "region": "South West",
