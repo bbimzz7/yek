@@ -19386,8 +19386,15 @@
     "userId": "10688982981",
     "source": "script",
     "createdAt": "2026-03-19T12:03:04.180Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T12:03:12.860Z",
     "geo": {
+      "ip": "200.81.152.16",
+      "city": "Luján",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "200.81.152.16",
       "city": "Luján",
       "region": "Buenos Aires",
