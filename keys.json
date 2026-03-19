@@ -21502,8 +21502,15 @@
     "userId": "5001768535",
     "source": "script",
     "createdAt": "2026-03-19T18:49:33.016Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T18:49:45.720Z",
     "geo": {
+      "ip": "95.153.94.172",
+      "city": "Varniţa",
+      "region": "Anenii Noi",
+      "country": "Moldova",
+      "cc": "MD"
+    },
+    "lastGeo": {
       "ip": "95.153.94.172",
       "city": "Varniţa",
       "region": "Anenii Noi",
