@@ -21782,5 +21782,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AB381D-5F96A3-FA9943": {
+    "expires": "2026-03-20T19:39:33.894Z",
+    "hwid": null,
+    "browserHwid": "BR-3E2C9CBC-C90I8",
+    "username": "boboboy123ygvjijbb\"",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-19T19:39:34.221Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.13.204.59",
+      "city": "Jontro",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
