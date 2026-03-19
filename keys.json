@@ -16497,5 +16497,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F89CAA-85447E-FFF4C9": {
+    "expires": "2026-03-20T02:13:04.627Z",
+    "hwid": "10680415185-5ebaba96-cebd-4846-a285-536358caa1f2",
+    "browserHwid": null,
+    "username": "robbsV2",
+    "userId": "10680415185",
+    "source": "script",
+    "createdAt": "2026-03-19T02:13:04.964Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.150.218.150",
+      "city": "Pancur Biru Lestari II",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
