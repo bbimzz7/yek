@@ -22354,11 +22354,18 @@
     "userId": "10628453799",
     "source": "script",
     "createdAt": "2026-03-19T22:37:08.207Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T22:37:26.961Z",
     "geo": {
       "ip": "120.28.219.173",
       "city": "Cagayan de Oro",
       "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "119.92.71.140",
+      "city": "Carmona",
+      "region": "Calabarzon",
       "country": "Philippines",
       "cc": "PH"
     }
