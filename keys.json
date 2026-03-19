@@ -17005,8 +17005,15 @@
     "userId": "4870184400",
     "source": "script",
     "createdAt": "2026-03-19T03:35:41.313Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T03:35:49.185Z",
     "geo": {
+      "ip": "209.35.167.199",
+      "city": "San Juan",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "209.35.167.199",
       "city": "San Juan",
       "region": "Metro Manila",
