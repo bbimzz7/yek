@@ -22015,5 +22015,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-0907CB-EEA634-525613": {
+    "expires": "2026-03-20T21:08:38.292Z",
+    "hwid": "10410551497-9bc5c82d-9d79-496e-a927-c609f421cd39",
+    "browserHwid": null,
+    "username": "Being_FooL22",
+    "userId": "10410551497",
+    "source": "script",
+    "createdAt": "2026-03-19T21:08:38.872Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "195.154.200.62",
+      "city": "Paris",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
