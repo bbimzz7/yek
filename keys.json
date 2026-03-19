@@ -20893,5 +20893,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CFC17D-A92B2C-D1762D": {
+    "expires": "2026-03-20T16:16:26.201Z",
+    "hwid": "5548467161-0cecb3dd-59e0-4765-97eb-22f563a1bb89",
+    "browserHwid": null,
+    "username": "Arthur_q73",
+    "userId": "5548467161",
+    "source": "script",
+    "createdAt": "2026-03-19T16:16:26.569Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.161.83.15",
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
