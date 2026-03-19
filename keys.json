@@ -20845,5 +20845,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-08C8F4-16FDAE-9A5538": {
+    "expires": "2026-03-20T16:12:19.014Z",
+    "hwid": "7801764589-3D5743B1-FA65-41CD-987A-6BDD93DEBBF3",
+    "browserHwid": null,
+    "username": "kakaindoo0",
+    "userId": "7801764589",
+    "source": "script",
+    "createdAt": "2026-03-19T16:12:19.611Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.91.3",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
