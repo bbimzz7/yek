@@ -20494,8 +20494,15 @@
     "userId": "10408292453",
     "source": "script",
     "createdAt": "2026-03-19T14:48:00.898Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T14:49:20.466Z",
     "geo": {
+      "ip": "45.174.237.157",
+      "city": "Porto Alegre",
+      "region": "Rio Grande do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.174.237.157",
       "city": "Porto Alegre",
       "region": "Rio Grande do Sul",
