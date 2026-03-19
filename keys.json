@@ -22129,5 +22129,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-2FD8F7-301521-35D80C": {
+    "expires": "2026-03-20T21:40:42.889Z",
+    "hwid": "5357079604-4e07e4d0-0ab6-41e6-a9da-744cc0248fb6",
+    "browserHwid": null,
+    "username": "X_xxxxdemon",
+    "userId": "5357079604",
+    "source": "script",
+    "createdAt": "2026-03-19T21:40:43.383Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "72.9.8.224",
+      "city": "Lexington Park",
+      "region": "Maryland",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
