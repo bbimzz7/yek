@@ -19257,5 +19257,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-FF3292-7AF662-F0D9B0": {
+    "expires": "2026-03-20T11:24:19.153Z",
+    "hwid": "10523872958-e52fa9dc-739d-43c0-b736-26508d4af5e9",
+    "browserHwid": null,
+    "username": "DEBOCHKA_LOL",
+    "userId": "10523872958",
+    "source": "script",
+    "createdAt": "2026-03-19T11:24:19.471Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "23.251.51.237",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
