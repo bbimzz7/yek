@@ -21847,5 +21847,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-1749A4-C6308A-D74AA9": {
+    "expires": "2026-03-20T19:46:58.570Z",
+    "hwid": "3778587049-52943a66-5c41-4602-b3c7-356b4b94ab9b",
+    "browserHwid": null,
+    "username": "Alex_123opq",
+    "userId": "3778587049",
+    "source": "script",
+    "createdAt": "2026-03-19T19:46:58.886Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "35.151.111.22",
+      "city": "Madison",
+      "region": "Wisconsin",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
