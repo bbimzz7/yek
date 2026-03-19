@@ -22201,5 +22201,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-8A13D3-352929-E20170": {
+    "expires": "2026-03-20T21:57:15.906Z",
+    "hwid": "9471540025-2da03aac-b117-4c35-b363-b48ef39ea195",
+    "browserHwid": null,
+    "username": "Hyuse44",
+    "userId": "9471540025",
+    "source": "script",
+    "createdAt": "2026-03-19T21:57:16.438Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.13.7",
+      "city": "Sukabumi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
