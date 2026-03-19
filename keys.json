@@ -19569,5 +19569,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-69A5DD-E8A6B7-68CBF2": {
+    "expires": "2026-03-20T12:26:06.121Z",
+    "hwid": "2209972600-03886779-4a2f-4266-a92e-1cace7c3c440",
+    "browserHwid": null,
+    "username": "ecdvtv",
+    "userId": "2209972600",
+    "source": "script",
+    "createdAt": "2026-03-19T12:26:06.378Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.132.132.195",
+      "city": "Istanbul",
+      "region": "Istanbul",
+      "country": "Türkiye",
+      "cc": "TR"
+    }
   }
 }
