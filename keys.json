@@ -20821,5 +20821,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-B1A994-2A45A5-8529A1": {
+    "expires": "2026-03-20T16:07:29.066Z",
+    "hwid": "8035010764-7a023c33-7609-4c4c-aad8-6ccf41042cf0",
+    "browserHwid": null,
+    "username": "xxxXaleXxxx_030",
+    "userId": "8035010764",
+    "source": "script",
+    "createdAt": "2026-03-19T16:07:29.624Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.192.103.164",
+      "city": "Posadas",
+      "region": "Misiones",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
