@@ -19137,5 +19137,22 @@
       "country": "Japan",
       "cc": "JP"
     }
+  },
+  "VH-3576B9-FF995A-74B1AC": {
+    "expires": "2026-03-20T10:57:24.218Z",
+    "hwid": "10576232313-ffb9974c-e227-49dd-a41f-9a4ee2553875",
+    "browserHwid": null,
+    "username": "Pwrinzxy",
+    "userId": "10576232313",
+    "source": "script",
+    "createdAt": "2026-03-19T10:57:24.470Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.16.245.143",
+      "city": "Düren",
+      "region": "North Rhine-Westphalia",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
