@@ -19353,5 +19353,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-CF73E8-DBF8DC-22B1CF": {
+    "expires": "2026-03-20T12:03:02.633Z",
+    "hwid": "8375500054-e2429f2e-b474-40df-84be-d96e2fe3a5d4",
+    "browserHwid": null,
+    "username": "nevzii5",
+    "userId": "8375500054",
+    "source": "script",
+    "createdAt": "2026-03-19T12:03:03.020Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.202.50.35",
+      "city": "San Fernando",
+      "region": "Ilocos",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
