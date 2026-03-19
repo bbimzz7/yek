@@ -18518,5 +18518,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-6FF048-08F800-F54B43": {
+    "expires": "2026-03-20T08:58:47.716Z",
+    "hwid": "8460029703-3f562d46-9ffb-4829-a537-d0f715d3fa0c",
+    "browserHwid": null,
+    "username": "RealRosa6216",
+    "userId": "8460029703",
+    "source": "script",
+    "createdAt": "2026-03-19T08:58:48.228Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "93.209.193.238",
+      "city": "Wiesbaden",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
