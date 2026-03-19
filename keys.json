@@ -19930,5 +19930,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-2E24F1-952A67-B1C419": {
+    "expires": "2026-03-20T13:34:55.044Z",
+    "hwid": "8773404875-41f34715-f68b-4d22-a946-aafa08a7a75d",
+    "browserHwid": null,
+    "username": "Dutaep",
+    "userId": "8773404875",
+    "source": "script",
+    "createdAt": "2026-03-19T13:34:55.434Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.248.10.11",
+      "city": "Kediri",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
