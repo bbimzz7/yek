@@ -18278,5 +18278,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-E8CF1B-674492-01DAC6": {
+    "expires": "2026-03-20T08:14:09.263Z",
+    "hwid": "2396964271-10f0be11-272a-452a-97ff-70efad2fc7ca",
+    "browserHwid": null,
+    "username": "BZee_b",
+    "userId": "2396964271",
+    "source": "script",
+    "createdAt": "2026-03-19T08:14:09.602Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.133.214.106",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
