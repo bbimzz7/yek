@@ -22153,5 +22153,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-DCF21F-97F124-F15B1B": {
+    "expires": "2026-03-20T21:44:10.679Z",
+    "hwid": "10690817248-462f3631-d038-41c1-b85a-a3023f2a5372",
+    "browserHwid": null,
+    "username": "AkariAoki00",
+    "userId": "10690817248",
+    "source": "script",
+    "createdAt": "2026-03-19T21:44:11.208Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "135.125.132.209",
+      "city": "Limburg an der Lahn",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
