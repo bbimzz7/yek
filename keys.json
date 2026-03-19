@@ -22443,8 +22443,15 @@
     "userId": "8087181787",
     "source": "script",
     "createdAt": "2026-03-19T22:45:33.624Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T22:45:43.789Z",
     "geo": {
+      "ip": "185.187.77.97",
+      "city": "Duhok",
+      "region": "Duhok Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "185.187.77.97",
       "city": "Duhok",
       "region": "Duhok Governorate",
