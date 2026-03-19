@@ -18254,5 +18254,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-82B74C-5D9E41-BD94FD": {
+    "expires": "2026-03-20T08:11:23.842Z",
+    "hwid": "8654525173-287a9075-bd3b-4e57-ab10-6c45c232b9f8",
+    "browserHwid": null,
+    "username": "NoobToProWithPieDie",
+    "userId": "8654525173",
+    "source": "script",
+    "createdAt": "2026-03-19T08:11:24.165Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "81.88.147.7",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
