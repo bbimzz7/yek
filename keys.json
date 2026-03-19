@@ -18944,5 +18944,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-73C4BF-958853-34C2AB": {
+    "expires": "2026-03-20T10:24:04.438Z",
+    "hwid": "10684640056-d0df73c7-3510-413e-8b13-b009e0b11200",
+    "browserHwid": null,
+    "username": "theowner_072",
+    "userId": "10684640056",
+    "source": "script",
+    "createdAt": "2026-03-19T10:24:04.960Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "122.52.92.193",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
