@@ -21070,8 +21070,15 @@
     "userId": "8279020963",
     "source": "script",
     "createdAt": "2026-03-19T17:10:45.791Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T17:14:31.227Z",
     "geo": {
+      "ip": "130.193.250.5",
+      "city": "Erbil",
+      "region": "Erbil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "130.193.250.5",
       "city": "Erbil",
       "region": "Erbil Governorate",
