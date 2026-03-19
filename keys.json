@@ -18992,5 +18992,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D9A951-73F965-4E850D": {
+    "expires": "2026-03-20T10:40:09.194Z",
+    "hwid": "4936542511-73b37007-0afe-4047-98cb-b67cb9539421",
+    "browserHwid": null,
+    "username": "nescaffee24",
+    "userId": "4936542511",
+    "source": "script",
+    "createdAt": "2026-03-19T10:40:09.804Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "131.226.104.52",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
