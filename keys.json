@@ -19906,5 +19906,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8107A9-3E95ED-20D46D": {
+    "expires": "2026-03-20T13:33:57.813Z",
+    "hwid": "10295273428-a08612b4-fcbd-4824-877a-de3155020d28",
+    "browserHwid": null,
+    "username": "2247NEW",
+    "userId": "10295273428",
+    "source": "script",
+    "createdAt": "2026-03-19T13:33:58.500Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.136.105.96",
+      "city": "Odesa",
+      "region": "Odesa",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
