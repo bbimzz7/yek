@@ -21517,5 +21517,22 @@
       "country": "Moldova",
       "cc": "MD"
     }
+  },
+  "VH-E42332-A6DAB2-9912A6": {
+    "expires": "2026-03-20T18:50:11.513Z",
+    "hwid": "4338672414-14F6ACFB-98B5-4BB2-BED6-6333DF1860AA",
+    "browserHwid": null,
+    "username": "Frank51256",
+    "userId": "4338672414",
+    "source": "script",
+    "createdAt": "2026-03-19T18:50:12.090Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.122.141.89",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
