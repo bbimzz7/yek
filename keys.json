@@ -19707,5 +19707,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-EE440C-307EDC-463370": {
+    "expires": "2026-03-20T12:48:36.808Z",
+    "hwid": "2607131128-2BFB1E4C-C4BF-43B3-A016-167499D55161",
+    "browserHwid": null,
+    "username": "Fad1yn",
+    "userId": "2607131128",
+    "source": "script",
+    "createdAt": "2026-03-19T12:48:37.139Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.211.212.204",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
