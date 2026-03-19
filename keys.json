@@ -16367,5 +16367,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4BC517-968B0B-3D8296": {
+    "expires": "2026-03-20T01:50:50.499Z",
+    "hwid": null,
+    "browserHwid": "BR-38D820B6-9PKVZ",
+    "username": "acachamma_ex126",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-19T01:50:50.826Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.147.9.201",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
