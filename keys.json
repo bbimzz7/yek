@@ -19305,5 +19305,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DA6475-5C3A28-1D5E74": {
+    "expires": "2026-03-20T11:59:34.029Z",
+    "hwid": "8814266002-F4E28EDE-BE32-47E3-BFF5-37755DAF43D4",
+    "browserHwid": null,
+    "username": "Emanwarrr",
+    "userId": "8814266002",
+    "source": "script",
+    "createdAt": "2026-03-19T11:59:34.545Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.216.53",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
