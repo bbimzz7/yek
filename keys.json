@@ -19851,5 +19851,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-33CF50-49E0F9-31FD38": {
+    "expires": "2026-03-20T13:25:02.832Z",
+    "hwid": "5097257446-a2c984ca-d3cd-4e4e-9bf4-ee9961142fdb",
+    "browserHwid": null,
+    "username": "Gerami_rd189",
+    "userId": "5097257446",
+    "source": "script",
+    "createdAt": "2026-03-19T13:25:03.294Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.169.156.13",
+      "city": "Buenos Aires",
+      "region": "Buenos Aires F.D.",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
