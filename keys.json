@@ -21928,8 +21928,15 @@
     "userId": "9010777479",
     "source": "script",
     "createdAt": "2026-03-19T20:22:50.348Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T20:26:37.567Z",
     "geo": {
+      "ip": "191.241.52.210",
+      "city": "Várzea Nova",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "191.241.52.210",
       "city": "Várzea Nova",
       "region": "Bahia",
