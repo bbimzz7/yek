@@ -15911,5 +15911,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-FB0F49-EA18C4-7F8FF9": {
+    "expires": "2026-03-20T00:10:29.616Z",
+    "hwid": "9998756875-a9580b70-8341-40db-8ef0-adf6d96c154f",
+    "browserHwid": null,
+    "username": "hallowen9979",
+    "userId": "9998756875",
+    "source": "script",
+    "createdAt": "2026-03-19T00:10:29.929Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "84.233.195.43",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
