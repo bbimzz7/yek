@@ -20797,5 +20797,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-BFB131-DE95C0-BE3A92": {
+    "expires": "2026-03-20T15:54:08.705Z",
+    "hwid": "10014398894-1b5dd250-88ae-4677-bca4-2c63d719dd51",
+    "browserHwid": null,
+    "username": "quuy1nn",
+    "userId": "10014398894",
+    "source": "script",
+    "createdAt": "2026-03-19T15:54:09.108Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "155.117.52.228",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
