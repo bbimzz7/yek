@@ -20590,8 +20590,15 @@
     "userId": "7025868286",
     "source": "script",
     "createdAt": "2026-03-19T15:13:58.634Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T15:14:12.150Z",
     "geo": {
+      "ip": "183.80.38.96",
+      "city": "Quận Hai",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "183.80.38.96",
       "city": "Quận Hai",
       "region": "Ho Chi Minh City (HCMC)",
