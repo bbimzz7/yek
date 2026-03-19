@@ -19281,5 +19281,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-0E5B40-C0A414-A7842D": {
+    "expires": "2026-03-20T11:37:39.267Z",
+    "hwid": "8521280167-988bf34b-60f7-4577-90e9-35c44f99c6ef",
+    "browserHwid": null,
+    "username": "sjdjei_jeudn",
+    "userId": "8521280167",
+    "source": "script",
+    "createdAt": "2026-03-19T11:37:39.820Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.54.154.61",
+      "city": "Tarlac City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
