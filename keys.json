@@ -21919,5 +21919,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-5C39D8-FAF06B-4ED9D3": {
+    "expires": "2026-03-20T20:22:49.772Z",
+    "hwid": "9010777479-66d4981a-cd2f-4adf-8b55-bfa91200a78c",
+    "browserHwid": null,
+    "username": "Archanjo_ismael",
+    "userId": "9010777479",
+    "source": "script",
+    "createdAt": "2026-03-19T20:22:50.348Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.241.52.210",
+      "city": "Várzea Nova",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
