@@ -21310,8 +21310,15 @@
     "userId": "10603566657",
     "source": "script",
     "createdAt": "2026-03-19T18:19:13.001Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T18:22:08.371Z",
     "geo": {
+      "ip": "119.160.141.12",
+      "city": "Bandar Seri Begawan",
+      "region": "Brunei-Muara District",
+      "country": "Brunei",
+      "cc": "BN"
+    },
+    "lastGeo": {
       "ip": "119.160.141.12",
       "city": "Bandar Seri Begawan",
       "region": "Brunei-Muara District",
