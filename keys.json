@@ -18527,8 +18527,15 @@
     "userId": "8460029703",
     "source": "script",
     "createdAt": "2026-03-19T08:58:48.228Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T08:59:02.437Z",
     "geo": {
+      "ip": "93.209.193.238",
+      "city": "Wiesbaden",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "93.209.193.238",
       "city": "Wiesbaden",
       "region": "Hesse",
