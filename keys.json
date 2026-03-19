@@ -21526,8 +21526,15 @@
     "userId": "4338672414",
     "source": "script",
     "createdAt": "2026-03-19T18:50:12.090Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T18:50:40.526Z",
     "geo": {
+      "ip": "124.122.141.89",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "124.122.141.89",
       "city": "Bangkok",
       "region": "Bangkok",
