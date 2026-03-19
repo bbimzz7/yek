@@ -22675,5 +22675,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-116200-F06060-224BBD": {
+    "expires": "2026-03-20T23:33:51.845Z",
+    "hwid": "10690104377-8fb9c4ef-2349-450d-89f8-0ea2aa49dc71",
+    "browserHwid": null,
+    "username": "ahhhsakitsyg",
+    "userId": "10690104377",
+    "source": "script",
+    "createdAt": "2026-03-19T23:33:52.158Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.3.138.52",
+      "city": "Samarinda",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
