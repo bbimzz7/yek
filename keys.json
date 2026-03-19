@@ -18872,5 +18872,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-A86F5C-B7BB12-E7CFA5": {
+    "expires": "2026-03-20T10:06:44.704Z",
+    "hwid": "10534699837-9d9de6c0-e2dd-4ff8-9888-055a55245764",
+    "browserHwid": null,
+    "username": "always_riel",
+    "userId": "10534699837",
+    "source": "script",
+    "createdAt": "2026-03-19T10:06:45.193Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.179.71",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
