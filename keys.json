@@ -19771,8 +19771,15 @@
     "userId": "3825156894",
     "source": "script",
     "createdAt": "2026-03-19T12:55:55.758Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T12:56:14.207Z",
     "geo": {
+      "ip": "31.145.63.65",
+      "city": "Adala",
+      "region": "Manisa",
+      "country": "Turkey",
+      "cc": "TR"
+    },
+    "lastGeo": {
       "ip": "31.145.63.65",
       "city": "Adala",
       "region": "Manisa",
