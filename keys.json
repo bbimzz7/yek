@@ -22771,5 +22771,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-8337E2-DF3FF4-C6ABA3": {
+    "expires": "2026-03-20T23:57:44.832Z",
+    "hwid": "10362481068-EC92B277-5DE2-443E-A72D-FF23FFC42350",
+    "browserHwid": null,
+    "username": "neymar1106250",
+    "userId": "10362481068",
+    "source": "script",
+    "createdAt": "2026-03-19T23:57:45.335Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.17.124.179",
+      "city": "San Francisco",
+      "region": "Central Department",
+      "country": "Paraguay",
+      "cc": "PY"
+    }
   }
 }
