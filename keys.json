@@ -18079,5 +18079,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-4E7EC9-E2BBC0-4AC708": {
+    "expires": "2026-03-20T07:07:18.376Z",
+    "hwid": "10662419231-bd5eb188-8275-47d2-aefd-950abcd94f40",
+    "browserHwid": null,
+    "username": "firao758",
+    "userId": "10662419231",
+    "source": "script",
+    "createdAt": "2026-03-19T07:07:18.881Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.0.26.43",
+      "city": "Maduran",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
