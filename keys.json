@@ -21118,8 +21118,15 @@
     "userId": "5055560503",
     "source": "script",
     "createdAt": "2026-03-19T17:30:48.497Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T17:31:03.786Z",
     "geo": {
+      "ip": "173.40.224.141",
+      "city": "Porterville",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "173.40.224.141",
       "city": "Porterville",
       "region": "California",
