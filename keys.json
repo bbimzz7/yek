@@ -16007,5 +16007,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-C3C9A0-273D50-A7165B": {
+    "expires": "2026-03-20T00:20:29.807Z",
+    "hwid": "7156475248-154c360c-2455-4056-a645-a14b072e7dca",
+    "browserHwid": null,
+    "username": "zryan_930",
+    "userId": "7156475248",
+    "source": "script",
+    "createdAt": "2026-03-19T00:20:30.056Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.70.133.234",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
