@@ -19242,8 +19242,15 @@
     "userId": "7232931251",
     "source": "script",
     "createdAt": "2026-03-19T11:23:26.890Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T11:23:42.089Z",
     "geo": {
+      "ip": "91.212.194.12",
+      "city": "Mykytyn Rog",
+      "region": "Dnipropetrovsk Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "91.212.194.12",
       "city": "Mykytyn Rog",
       "region": "Dnipropetrovsk Oblast",
