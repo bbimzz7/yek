@@ -22474,10 +22474,17 @@
     "userId": "9876188063",
     "source": "script",
     "createdAt": "2026-03-19T22:59:50.086Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T23:01:29.618Z",
     "geo": {
       "ip": "142.118.109.164",
       "city": "Montreal",
+      "region": "Quebec",
+      "country": "Canada",
+      "cc": "CA"
+    },
+    "lastGeo": {
+      "ip": "206.172.86.251",
+      "city": "LaSalle",
       "region": "Quebec",
       "country": "Canada",
       "cc": "CA"
