@@ -20830,8 +20830,15 @@
     "userId": "8035010764",
     "source": "script",
     "createdAt": "2026-03-19T16:07:29.624Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T16:08:53.847Z",
     "geo": {
+      "ip": "181.192.103.164",
+      "city": "Posadas",
+      "region": "Misiones",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "181.192.103.164",
       "city": "Posadas",
       "region": "Misiones",
