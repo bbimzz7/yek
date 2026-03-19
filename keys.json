@@ -18422,5 +18422,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-23CF71-BEB021-79C022": {
+    "expires": "2026-03-20T08:34:48.360Z",
+    "hwid": "8434351665-dd7abf49-1cfe-4828-b709-6f9bbea594e3",
+    "browserHwid": null,
+    "username": "vadeltaba1",
+    "userId": "8434351665",
+    "source": "script",
+    "createdAt": "2026-03-19T08:34:48.664Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.1.133.191",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
