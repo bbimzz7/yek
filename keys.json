@@ -16482,8 +16482,15 @@
     "userId": "9655366382",
     "source": "script",
     "createdAt": "2026-03-19T02:08:38.221Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T02:08:47.067Z",
     "geo": {
+      "ip": "103.172.42.233",
+      "city": "Cikampek",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.172.42.233",
       "city": "Cikampek",
       "region": "West Java",
