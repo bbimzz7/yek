@@ -19690,5 +19690,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-3DD6E8-9566F4-7D47D0": {
+    "expires": "2026-03-20T12:48:26.542Z",
+    "hwid": "4641730727-8886fc4e-deb3-4f46-a6fe-8a296f87afc7",
+    "browserHwid": null,
+    "username": "riccogamer14yt",
+    "userId": "4641730727",
+    "source": "script",
+    "createdAt": "2026-03-19T12:48:27.039Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "78.210.51.114",
+      "city": "Milano",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
