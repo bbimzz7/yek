@@ -17196,5 +17196,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-65BE91-F68AC0-53A8D5": {
+    "expires": "2026-03-20T04:28:26.274Z",
+    "hwid": "8457285761-0dd0e5d0-378c-435e-aafd-eecbb693423f",
+    "browserHwid": null,
+    "username": "shenn_475",
+    "userId": "8457285761",
+    "source": "script",
+    "createdAt": "2026-03-19T04:28:26.586Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.190.53.181",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
