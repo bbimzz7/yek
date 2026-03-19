@@ -19458,8 +19458,15 @@
     "userId": "8612535719",
     "source": "script",
     "createdAt": "2026-03-19T12:17:16.176Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T12:17:24.490Z",
     "geo": {
+      "ip": "140.213.139.136",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "140.213.139.136",
       "city": "Semarang",
       "region": "Central Java",
