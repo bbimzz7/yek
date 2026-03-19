@@ -21190,8 +21190,15 @@
     "userId": "8831012000",
     "source": "script",
     "createdAt": "2026-03-19T17:53:56.931Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T17:54:07.439Z",
     "geo": {
+      "ip": "87.121.125.12",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "87.121.125.12",
       "city": "Almaty",
       "region": "Almaty",
