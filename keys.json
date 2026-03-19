@@ -22780,8 +22780,15 @@
     "userId": "10362481068",
     "source": "script",
     "createdAt": "2026-03-19T23:57:45.335Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T23:57:51.790Z",
     "geo": {
+      "ip": "186.17.124.179",
+      "city": "San Francisco",
+      "region": "Central Department",
+      "country": "Paraguay",
+      "cc": "PY"
+    },
+    "lastGeo": {
       "ip": "186.17.124.179",
       "city": "San Francisco",
       "region": "Central Department",
