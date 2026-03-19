@@ -18623,8 +18623,15 @@
     "userId": "10350671207",
     "source": "script",
     "createdAt": "2026-03-19T09:18:18.624Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T09:18:25.556Z",
     "geo": {
+      "ip": "136.158.119.10",
+      "city": "Tarlac City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.119.10",
       "city": "Tarlac City",
       "region": "Central Luzon",
