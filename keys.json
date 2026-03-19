@@ -20277,11 +20277,18 @@
     "userId": "8577097486",
     "source": "script",
     "createdAt": "2026-03-19T14:14:25.430Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T14:15:35.974Z",
     "geo": {
       "ip": "124.217.79.50",
       "city": "Mexico",
       "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "49.151.233.203",
+      "city": "Baguio City",
+      "region": "Cordillera",
       "country": "Philippines",
       "cc": "PH"
     }
