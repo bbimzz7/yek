@@ -19161,5 +19161,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-D7723F-958EFA-70746B": {
+    "expires": "2026-03-20T11:14:59.970Z",
+    "hwid": "10599259356-84d78998-1c4e-4cdb-97a8-de712446ebc2",
+    "browserHwid": null,
+    "username": "mamaynecon8",
+    "userId": "10599259356",
+    "source": "script",
+    "createdAt": "2026-03-19T11:15:00.530Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "183.80.38.44",
+      "city": "Thu Dau Mot",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
