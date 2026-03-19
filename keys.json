@@ -15935,5 +15935,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-29F211-9CE404-ABFCCC": {
+    "expires": "2026-03-20T00:13:21.188Z",
+    "hwid": "4199988114-029a570f-5b19-45f5-bc48-e934c98c1493",
+    "browserHwid": null,
+    "username": "arai1635",
+    "userId": "4199988114",
+    "source": "script",
+    "createdAt": "2026-03-19T00:13:21.482Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.20.38.130",
+      "city": "Indramayu",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
