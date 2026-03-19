@@ -22234,8 +22234,15 @@
     "userId": "10571837986",
     "source": "script",
     "createdAt": "2026-03-19T22:13:35.248Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T22:13:43.405Z",
     "geo": {
+      "ip": "201.182.50.240",
+      "city": "Timóteo",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "201.182.50.240",
       "city": "Timóteo",
       "region": "Minas Gerais",
