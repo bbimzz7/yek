@@ -20109,5 +20109,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-DE9871-5A6222-0E1B5D": {
+    "expires": "2026-03-20T13:56:45.641Z",
+    "hwid": "9783331269-e382efc2-fd2b-4e69-918b-553bf5117851",
+    "browserHwid": null,
+    "username": "nikk_00x",
+    "userId": "9783331269",
+    "source": "script",
+    "createdAt": "2026-03-19T13:56:47.346Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "207.248.9.244",
+      "city": "Santa Helena de Goiás",
+      "region": "Goiás",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
