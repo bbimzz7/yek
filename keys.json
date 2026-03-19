@@ -22080,5 +22080,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-02DAD0-1936A4-7D65DC": {
+    "expires": "2026-03-20T21:28:42.462Z",
+    "hwid": "6071658630-54660c70-e9db-4884-a1c6-25f8f60655cd",
+    "browserHwid": null,
+    "username": "nunyab63",
+    "userId": "6071658630",
+    "source": "script",
+    "createdAt": "2026-03-19T21:28:43.026Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.161.95.123",
+      "city": "Mercer Island",
+      "region": "Washington",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
