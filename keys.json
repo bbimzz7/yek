@@ -22024,7 +22024,7 @@
     "userId": "10410551497",
     "source": "script",
     "createdAt": "2026-03-19T21:08:38.872Z",
-    "lastUsed": "2026-03-19T21:31:01.483Z",
+    "lastUsed": "2026-03-19T21:54:12.718Z",
     "geo": {
       "ip": "195.154.200.62",
       "city": "Paris",
@@ -22033,11 +22033,11 @@
       "cc": "FR"
     },
     "lastGeo": {
-      "ip": "195.154.200.62",
-      "city": "Paris",
-      "region": "Île-de-France",
-      "country": "France",
-      "cc": "FR"
+      "ip": "46.216.120.112",
+      "city": "Minsk",
+      "region": "Minsk City",
+      "country": "Belarus",
+      "cc": "BY"
     }
   },
   "VH-6916B6-4D2152-C2A443": {
