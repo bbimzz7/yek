@@ -20219,5 +20219,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-19CD95-AAB5D1-D65353": {
+    "expires": "2026-03-20T14:11:42.720Z",
+    "hwid": "7784930486-3d52b1cd-d79e-403b-b53a-a7163a17ba56",
+    "browserHwid": null,
+    "username": "ferihsx454619",
+    "userId": "7784930486",
+    "source": "script",
+    "createdAt": "2026-03-19T14:11:43.032Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.211.117.58",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
