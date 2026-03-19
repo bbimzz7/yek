@@ -18494,5 +18494,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-C113A9-30032D-2E74E0": {
+    "expires": "2026-03-20T08:48:36.959Z",
+    "hwid": "10692731599-fae486a9-a395-472d-ba21-f95a53dfb9e7",
+    "browserHwid": null,
+    "username": "sjshdjs_828392",
+    "userId": "10692731599",
+    "source": "script",
+    "createdAt": "2026-03-19T08:48:37.245Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.232.219.38",
+      "city": "Petaling Jaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
