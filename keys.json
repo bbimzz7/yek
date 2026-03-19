@@ -21037,5 +21037,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-B11716-FF5C20-9513A4": {
+    "expires": "2026-03-20T17:02:37.166Z",
+    "hwid": "10691974264-cb9495c7-3d0c-4375-9753-a6a24921bfa0",
+    "browserHwid": null,
+    "username": "fw6rwr6e6re",
+    "userId": "10691974264",
+    "source": "script",
+    "createdAt": "2026-03-19T17:02:37.724Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.151.100.61",
+      "city": "San José",
+      "region": "Provincia de San José",
+      "country": "Costa Rica",
+      "cc": "CR"
+    }
   }
 }
