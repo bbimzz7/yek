@@ -20734,8 +20734,15 @@
     "userId": "10367562493",
     "source": "script",
     "createdAt": "2026-03-19T15:51:06.760Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T15:52:07.157Z",
     "geo": {
+      "ip": "103.166.101.184",
+      "city": "Madhyapur Thimi",
+      "region": "Bagmati Province",
+      "country": "Nepal",
+      "cc": "NP"
+    },
+    "lastGeo": {
       "ip": "103.166.101.184",
       "city": "Madhyapur Thimi",
       "region": "Bagmati Province",
