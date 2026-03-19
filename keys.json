@@ -16593,5 +16593,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-98619E-9D013D-E6D85F": {
+    "expires": "2026-03-20T02:34:16.226Z",
+    "hwid": "8147630947-fa579a6b-e2ec-4c2d-9b04-425364b867b0",
+    "browserHwid": null,
+    "username": "ahan27x",
+    "userId": "8147630947",
+    "source": "script",
+    "createdAt": "2026-03-19T02:34:16.537Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.169.238.65",
+      "city": "Kedaton",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
