@@ -19370,5 +19370,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-F97580-5912DF-3D7F25": {
+    "expires": "2026-03-20T12:03:02.522Z",
+    "hwid": "10688982981-b32acfb8-9e52-4b75-a7d6-cb7ab1561e25",
+    "browserHwid": null,
+    "username": "sis_apk",
+    "userId": "10688982981",
+    "source": "script",
+    "createdAt": "2026-03-19T12:03:04.180Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "200.81.152.16",
+      "city": "Luján",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
