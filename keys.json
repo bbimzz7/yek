@@ -17533,5 +17533,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-9F2A5D-4F5925-09CDEC": {
+    "expires": "2026-03-20T05:39:08.930Z",
+    "hwid": "9080722182-f1a00a49-63d9-4de8-8f60-0489da2f8855",
+    "browserHwid": null,
+    "username": "rahasia_123566672",
+    "userId": "9080722182",
+    "source": "script",
+    "createdAt": "2026-03-19T05:39:09.478Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.167.56.83",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
