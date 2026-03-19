@@ -19209,5 +19209,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-5E402D-357FFC-65921B": {
+    "expires": "2026-03-20T11:22:46.915Z",
+    "hwid": "8318297501-c60b27c3-5b8f-47a3-8f14-c8a83fc53ad5",
+    "browserHwid": null,
+    "username": "kumo_984",
+    "userId": "8318297501",
+    "source": "script",
+    "createdAt": "2026-03-19T11:22:47.400Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "47.129.6.119",
+      "city": "Singapore",
+      "region": "Central Singapore",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
