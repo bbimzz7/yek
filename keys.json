@@ -22434,5 +22434,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E1DFB7-806403-C9ECAF": {
+    "expires": "2026-03-20T22:45:33.348Z",
+    "hwid": "8087181787-7cc0f96c-dad6-4775-bf57-654ec5689c6c",
+    "browserHwid": null,
+    "username": "miamia24557",
+    "userId": "8087181787",
+    "source": "script",
+    "createdAt": "2026-03-19T22:45:33.624Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.187.77.97",
+      "city": "Duhok",
+      "region": "Duhok Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
