@@ -19482,8 +19482,15 @@
     "userId": "5456571128",
     "source": "script",
     "createdAt": "2026-03-19T12:18:06.191Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T12:18:15.001Z",
     "geo": {
+      "ip": "185.234.27.159",
+      "city": "Petropavl",
+      "region": "North Kazakhstan",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "185.234.27.159",
       "city": "Petropavl",
       "region": "North Kazakhstan",
