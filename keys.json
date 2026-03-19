@@ -17422,8 +17422,15 @@
     "userId": "6003374428",
     "source": "script",
     "createdAt": "2026-03-19T05:15:56.794Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T05:16:36.423Z",
     "geo": {
+      "ip": "165.99.239.63",
+      "city": "Demak",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "165.99.239.63",
       "city": "Demak",
       "region": "Central Java",
