@@ -18088,8 +18088,15 @@
     "userId": "10662419231",
     "source": "script",
     "createdAt": "2026-03-19T07:07:18.881Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T07:07:30.745Z",
     "geo": {
+      "ip": "49.0.26.43",
+      "city": "Maduran",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "49.0.26.43",
       "city": "Maduran",
       "region": "East Java",
