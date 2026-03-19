@@ -19738,5 +19738,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-434655-39AE16-F35C84": {
+    "expires": "2026-03-20T12:49:02.989Z",
+    "hwid": "8136323104-E7D6E77A-37E1-4A67-BB53-99A8C5A9A88D",
+    "browserHwid": null,
+    "username": "ad0n1sKKV",
+    "userId": "8136323104",
+    "source": "script",
+    "createdAt": "2026-03-19T12:49:03.338Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "117.5.152.43",
+      "city": "Bắc Giang",
+      "region": "Bắc Giang Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
