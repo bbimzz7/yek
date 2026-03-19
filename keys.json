@@ -19497,5 +19497,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-35D6FD-6EF773-D5A34F": {
+    "expires": "2026-03-20T12:22:18.742Z",
+    "hwid": "9766193194-fae486a9-a395-472d-ba21-f95a53dfb9e7",
+    "browserHwid": null,
+    "username": "mochi_ayyy0",
+    "userId": "9766193194",
+    "source": "script",
+    "createdAt": "2026-03-19T12:22:19.121Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.232.219.38",
+      "city": "Petaling Jaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
