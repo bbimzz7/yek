@@ -20292,5 +20292,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-511575-507326-8928FC": {
+    "expires": "2026-03-20T14:23:08.850Z",
+    "hwid": "7797066932-15BE1DE9-4F7C-406D-AE0F-E4D1BB43C248",
+    "browserHwid": null,
+    "username": "Metahocrux",
+    "userId": "7797066932",
+    "source": "script",
+    "createdAt": "2026-03-19T14:23:09.541Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.65.13",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
