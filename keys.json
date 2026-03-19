@@ -21421,5 +21421,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3CE9BE-5783DB-0854AD": {
+    "expires": "2026-03-20T18:40:03.631Z",
+    "hwid": "5442360729-20629f05-fdb5-447c-a5f9-543b740ae481",
+    "browserHwid": null,
+    "username": "Zpoxzzz",
+    "userId": "5442360729",
+    "source": "script",
+    "createdAt": "2026-03-19T18:40:03.974Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.132.132.57",
+      "city": "Naaldwijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
