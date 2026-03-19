@@ -18398,5 +18398,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-EFEE44-A4A200-256ABE": {
+    "expires": "2026-03-20T08:33:53.371Z",
+    "hwid": "10094353764-a59f8648-0b97-4db3-a399-60499a33e65e",
+    "browserHwid": null,
+    "username": "koko_6667869",
+    "userId": "10094353764",
+    "source": "script",
+    "createdAt": "2026-03-19T08:33:53.834Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "183.171.100.70",
+      "city": "Glenmarie Estate",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
