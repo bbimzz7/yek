@@ -16151,5 +16151,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-35DB65-55540E-646289": {
+    "expires": "2026-03-20T01:11:24.946Z",
+    "hwid": "9183274283-85d234b7-6ef6-4040-8676-19be0eea0fd9",
+    "browserHwid": null,
+    "username": "Niko192207",
+    "userId": "9183274283",
+    "source": "script",
+    "createdAt": "2026-03-19T01:11:25.170Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.58.72.121",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
