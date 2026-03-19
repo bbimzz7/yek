@@ -22723,5 +22723,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-989112-4BA0BB-82ED87": {
+    "expires": "2026-03-20T23:41:27.435Z",
+    "hwid": "10695712974-156aa030-0fb4-4cd7-be30-f5536f8ddc32",
+    "browserHwid": null,
+    "username": "aleplasiaw",
+    "userId": "10695712974",
+    "source": "script",
+    "createdAt": "2026-03-19T23:41:27.763Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.247.70",
+      "city": "Mount Austin",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
