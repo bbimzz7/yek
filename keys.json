@@ -20398,8 +20398,15 @@
     "userId": "8525450888",
     "source": "script",
     "createdAt": "2026-03-19T14:36:05.280Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T14:36:20.976Z",
     "geo": {
+      "ip": "103.189.116.10",
+      "city": "Wonosobo",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.189.116.10",
       "city": "Wonosobo",
       "region": "Central Java",
