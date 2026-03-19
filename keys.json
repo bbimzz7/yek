@@ -21469,5 +21469,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-F12ED8-38F8E3-9D03B8": {
+    "expires": "2026-03-20T18:43:18.840Z",
+    "hwid": "10641160358-e89c31e3-2d1d-4b76-846e-094cb39e396b",
+    "browserHwid": null,
+    "username": "bocilanomalis",
+    "userId": "10641160358",
+    "source": "script",
+    "createdAt": "2026-03-19T18:43:19.176Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.111.100.184",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
