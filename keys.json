@@ -20195,5 +20195,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E78B3B-BAE4BD-6813A3": {
+    "expires": "2026-03-20T14:10:50.507Z",
+    "hwid": "5828505269-f9b8d1ba-dba3-421e-8d6c-1010d746a21a",
+    "browserHwid": null,
+    "username": "bloxfruits_only99",
+    "userId": "5828505269",
+    "source": "script",
+    "createdAt": "2026-03-19T14:10:50.878Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.39.134",
+      "city": "Palangkaraya",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
