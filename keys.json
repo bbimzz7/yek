@@ -19362,8 +19362,15 @@
     "userId": "8375500054",
     "source": "script",
     "createdAt": "2026-03-19T12:03:03.020Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T12:03:09.796Z",
     "geo": {
+      "ip": "112.202.50.35",
+      "city": "San Fernando",
+      "region": "Ilocos",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.202.50.35",
       "city": "San Fernando",
       "region": "Ilocos",
