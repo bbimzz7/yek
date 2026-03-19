@@ -16794,7 +16794,7 @@
     "userId": "10683715237",
     "source": "script",
     "createdAt": "2026-03-19T02:55:47.674Z",
-    "lastUsed": "2026-03-19T02:58:08.557Z",
+    "lastUsed": "2026-03-19T07:30:57.018Z",
     "geo": {
       "ip": "103.87.202.54",
       "city": "Lamongan",
@@ -16803,8 +16803,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.87.202.54",
-      "city": "Lamongan",
+      "ip": "182.8.66.188",
+      "city": "Surabaya",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
