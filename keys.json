@@ -21373,5 +21373,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E0A417-B58049-890978": {
+    "expires": "2026-03-20T18:36:10.028Z",
+    "hwid": "7036165409-c278e4aa-f4f2-49f9-a5de-391bff2644b4",
+    "browserHwid": null,
+    "username": "Tunabus9",
+    "userId": "7036165409",
+    "source": "script",
+    "createdAt": "2026-03-19T18:36:10.589Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.88.101",
+      "city": "Phoenix",
+      "region": "Arizona",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
