@@ -16112,8 +16112,15 @@
     "userId": "6142379873",
     "source": "script",
     "createdAt": "2026-03-19T01:02:50.094Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T01:04:57.854Z",
     "geo": {
+      "ip": "111.90.231.250",
+      "city": "Dau",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "111.90.231.250",
       "city": "Dau",
       "region": "Central Luzon",
