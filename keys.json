@@ -14393,7 +14393,7 @@
     "userId": "8105314539",
     "source": "script",
     "createdAt": "2026-03-18T19:11:27.203Z",
-    "lastUsed": "2026-03-18T22:10:50.974Z",
+    "lastUsed": "2026-03-19T15:56:59.624Z",
     "geo": {
       "ip": "125.166.8.8",
       "city": "Malang",
@@ -14402,8 +14402,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "125.166.8.8",
-      "city": "Malang",
+      "ip": "103.147.77.154",
+      "city": "Magetan",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
