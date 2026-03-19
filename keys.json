@@ -21685,5 +21685,22 @@
       "country": "Jamaica",
       "cc": "JM"
     }
+  },
+  "VH-C91212-1D6965-B692AF": {
+    "expires": "2026-03-20T19:25:25.042Z",
+    "hwid": "10688365438-130fa3bc-2786-4916-afe1-0a6037ebe7f5",
+    "browserHwid": null,
+    "username": "CyberIndo39",
+    "userId": "10688365438",
+    "source": "script",
+    "createdAt": "2026-03-19T19:25:25.596Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.8.196.101",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
