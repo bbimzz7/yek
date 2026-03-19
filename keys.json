@@ -17485,5 +17485,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-277D74-FF7BF7-0E90A8": {
+    "expires": "2026-03-20T05:32:52.572Z",
+    "hwid": "3874678301-6EC7EE74-D613-42FE-805D-A282DBD5F86E",
+    "browserHwid": null,
+    "username": "vipnooblols",
+    "userId": "3874678301",
+    "source": "script",
+    "createdAt": "2026-03-19T05:32:52.911Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.13.156.99",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    }
   }
 }
