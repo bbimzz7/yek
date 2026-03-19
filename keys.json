@@ -19641,5 +19641,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-3EE49F-E3A3E1-64C5DF": {
+    "expires": "2026-03-20T12:36:17.526Z",
+    "hwid": "7019438328-ed3ecc52-0fca-4261-9f96-a58ce97b42b5",
+    "browserHwid": null,
+    "username": "fjdnfoy",
+    "userId": "7019438328",
+    "source": "script",
+    "createdAt": "2026-03-19T12:36:18.107Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "169.224.3.58",
+      "city": "Baghdad",
+      "region": "Baghdad",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
