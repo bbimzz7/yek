@@ -21856,8 +21856,15 @@
     "userId": "3778587049",
     "source": "script",
     "createdAt": "2026-03-19T19:46:58.886Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T19:47:08.070Z",
     "geo": {
+      "ip": "35.151.111.22",
+      "city": "Madison",
+      "region": "Wisconsin",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "35.151.111.22",
       "city": "Madison",
       "region": "Wisconsin",
