@@ -22369,5 +22369,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-7397DC-DFFB08-BF19E0": {
+    "expires": "2026-03-20T22:38:31.289Z",
+    "hwid": "5213861132-84186DA7-051D-4DBD-B6AC-190C63CE65EF",
+    "browserHwid": null,
+    "username": "lazaro792sans2",
+    "userId": "5213861132",
+    "source": "script",
+    "createdAt": "2026-03-19T22:38:31.624Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.24.84.207",
+      "city": "Maldonado",
+      "region": "Maldonado",
+      "country": "Uruguay",
+      "cc": "UY"
+    }
   }
 }
