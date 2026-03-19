@@ -16650,8 +16650,15 @@
     "userId": "7845678368",
     "source": "script",
     "createdAt": "2026-03-19T02:42:18.373Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T02:46:03.262Z",
     "geo": {
+      "ip": "45.231.233.6",
+      "city": "Monte Carmelo",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.231.233.6",
       "city": "Monte Carmelo",
       "region": "Minas Gerais",
