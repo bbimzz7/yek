@@ -20026,5 +20026,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-0C73E9-5AD321-948BD2": {
+    "expires": "2026-03-20T13:53:01.911Z",
+    "hwid": "10525725285-9445a2a2-4b4e-43c2-adc3-cfbc49c36f6f",
+    "browserHwid": null,
+    "username": "X7VXNM",
+    "userId": "10525725285",
+    "source": "script",
+    "createdAt": "2026-03-19T13:53:02.393Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.49.145.30",
+      "city": "Seogwipo-si",
+      "region": "Jeju-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
