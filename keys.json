@@ -19593,5 +19593,22 @@
       "country": "Türkiye",
       "cc": "TR"
     }
+  },
+  "VH-F13389-5CADFB-D9B4A4": {
+    "expires": "2026-03-20T12:29:45.621Z",
+    "hwid": "8138844915-9cad5d34-2d68-4d4b-8454-068851768ef4",
+    "browserHwid": null,
+    "username": "Better_cookies1",
+    "userId": "8138844915",
+    "source": "script",
+    "createdAt": "2026-03-19T12:29:45.863Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.158.184.187",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
