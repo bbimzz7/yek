@@ -15887,5 +15887,22 @@
       "country": "Algeria",
       "cc": "DZ"
     }
+  },
+  "VH-FA0BCF-0706EE-C9428A": {
+    "expires": "2026-03-20T00:06:50.721Z",
+    "hwid": "4090807875-c278e4aa-f4f2-49f9-a5de-391bff2644b4",
+    "browserHwid": null,
+    "username": "yxng_chi5",
+    "userId": "4090807875",
+    "source": "script",
+    "createdAt": "2026-03-19T00:06:51.219Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.88.101",
+      "city": "Phoenix",
+      "region": "Arizona",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
