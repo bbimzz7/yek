@@ -16805,14 +16805,22 @@
   },
   "VH-8D7F83-3C961E-11B1CA": {
     "expires": "2026-03-20T02:56:36.593Z",
-    "hwid": null,
+    "hwid": "7753337418-9546f3ca-ac02-436c-b39e-a476a3a21742",
     "browserHwid": "BR-7B1393A5-9G8O8",
-    "username": "Rarajomblo23",
-    "userId": null,
+    "username": "rarajomblo23",
+    "userId": "7753337418",
     "source": "browser",
     "createdAt": "2026-03-19T02:56:36.845Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T02:56:46.638Z",
     "geo": {
+      "ip": "103.154.148.134",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-19T02:56:46.630Z",
+    "lastGeo": {
       "ip": "103.154.148.134",
       "city": "Medan",
       "region": "North Sumatra",
