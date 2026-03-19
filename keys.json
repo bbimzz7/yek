@@ -21013,5 +21013,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-45ABF3-793D6E-BBFADB": {
+    "expires": "2026-03-20T16:57:20.986Z",
+    "hwid": "10404535253-be85b2dd-4d77-46fb-950d-3e92c9390ef6",
+    "browserHwid": null,
+    "username": "Kira_yamato93",
+    "userId": "10404535253",
+    "source": "script",
+    "createdAt": "2026-03-19T16:57:21.515Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.166.16.42",
+      "city": "Vienne",
+      "region": "Rhône-Alpes",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
