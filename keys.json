@@ -21181,5 +21181,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-47D882-F8CABF-86EDFE": {
+    "expires": "2026-03-20T17:53:56.608Z",
+    "hwid": "8831012000-0f938044-e7bd-4fd8-9067-0395de80e492",
+    "browserHwid": null,
+    "username": "Diko_go14",
+    "userId": "8831012000",
+    "source": "script",
+    "createdAt": "2026-03-19T17:53:56.931Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "87.121.125.12",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
