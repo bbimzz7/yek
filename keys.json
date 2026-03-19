@@ -21622,8 +21622,15 @@
     "userId": "7094302375",
     "source": "script",
     "createdAt": "2026-03-19T19:03:39.456Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T19:08:22.679Z",
     "geo": {
+      "ip": "194.127.110.166",
+      "city": "Kirkuk",
+      "region": "Kirkuk Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "194.127.110.166",
       "city": "Kirkuk",
       "region": "Kirkuk Governorate",
