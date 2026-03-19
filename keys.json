@@ -21743,8 +21743,15 @@
     "userId": "7572594506",
     "source": "script",
     "createdAt": "2026-03-19T19:38:21.107Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T19:38:25.746Z",
     "geo": {
+      "ip": "5.144.64.133",
+      "city": "Vologda",
+      "region": "Vologda Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "5.144.64.133",
       "city": "Vologda",
       "region": "Vologda Oblast",
