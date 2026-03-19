@@ -20470,8 +20470,15 @@
     "userId": "8188462365",
     "source": "script",
     "createdAt": "2026-03-19T14:47:27.955Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-19T14:47:47.950Z",
     "geo": {
+      "ip": "116.89.56.159",
+      "city": "Singapore",
+      "region": "South West",
+      "country": "Singapore",
+      "cc": "SG"
+    },
+    "lastGeo": {
       "ip": "116.89.56.159",
       "city": "Singapore",
       "region": "South West",
