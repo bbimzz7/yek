@@ -16449,5 +16449,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-04FB0F-055239-67B46B": {
+    "expires": "2026-03-20T02:03:24.496Z",
+    "hwid": "1808693732-DE2E3FF5-E4EF-4B2A-8E69-2F54C812E609",
+    "browserHwid": null,
+    "username": "ILMIGG112",
+    "userId": "1808693732",
+    "source": "script",
+    "createdAt": "2026-03-19T02:03:24.795Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.196.156.244",
+      "city": "Sawangan",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
