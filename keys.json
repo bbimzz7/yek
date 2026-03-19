@@ -20725,5 +20725,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-A4E3B8-A9A719-B110DD": {
+    "expires": "2026-03-20T15:51:04.940Z",
+    "hwid": "10367562493-602f8975-163a-4f4f-940e-11782f17c0d5",
+    "browserHwid": null,
+    "username": "shadow_guy885",
+    "userId": "10367562493",
+    "source": "script",
+    "createdAt": "2026-03-19T15:51:06.760Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.166.101.184",
+      "city": "Madhyapur Thimi",
+      "region": "Bagmati Province",
+      "country": "Nepal",
+      "cc": "NP"
+    }
   }
 }
