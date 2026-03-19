@@ -20917,5 +20917,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-2B5623-A3BC69-7BF500": {
+    "expires": "2026-03-20T16:35:31.344Z",
+    "hwid": "7395700353-59b94714-6e0b-4eb4-9843-c971362e6b6b",
+    "browserHwid": null,
+    "username": "noob087933",
+    "userId": "7395700353",
+    "source": "script",
+    "createdAt": "2026-03-19T16:35:31.909Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.18.232.14",
+      "city": "Demak",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
