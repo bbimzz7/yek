@@ -16979,5 +16979,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-770EAD-D812F2-B89A5C": {
+    "expires": "2026-03-20T03:31:32.123Z",
+    "hwid": "10466453628-6004c4a2-5c75-431e-8618-5dd9a82c6451",
+    "browserHwid": null,
+    "username": "rork0187",
+    "userId": "10466453628",
+    "source": "script",
+    "createdAt": "2026-03-19T03:31:32.401Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.158.189.116",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
