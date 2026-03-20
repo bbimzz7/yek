@@ -23094,5 +23094,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-FB6F27-9707AB-ACEA93": {
+    "expires": "2026-03-21T01:08:40.731Z",
+    "hwid": "10471770584-847B7CD6-F7DB-4BEC-A5CF-B1015B352BF1",
+    "browserHwid": null,
+    "username": "posh_live",
+    "userId": "10471770584",
+    "source": "script",
+    "createdAt": "2026-03-20T01:08:41.270Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.156.118.30",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
