@@ -27244,5 +27244,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-24338A-44D23C-3D2300": {
+    "expires": "2026-03-21T15:24:35.196Z",
+    "hwid": "3255484373-e1607791-fa6d-4bf6-9300-1678a14eb50e",
+    "browserHwid": null,
+    "username": "Veniel1122",
+    "userId": "3255484373",
+    "source": "script",
+    "createdAt": "2026-03-20T15:24:35.532Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "139.135.192.101",
+      "city": "Calamba",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
