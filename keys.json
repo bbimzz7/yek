@@ -26103,5 +26103,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2EFB7C-07FF76-075017": {
+    "expires": "2026-03-21T11:32:47.397Z",
+    "hwid": "10659804838-deea6685-53a6-4fdd-9e3e-b59e555fd8ce",
+    "browserHwid": null,
+    "username": "halog_41",
+    "userId": "10659804838",
+    "source": "script",
+    "createdAt": "2026-03-20T11:32:47.743Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.206.214.183",
+      "city": "Sekampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
