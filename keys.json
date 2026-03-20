@@ -26112,8 +26112,15 @@
     "userId": "10659804838",
     "source": "script",
     "createdAt": "2026-03-20T11:32:47.743Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T11:33:02.809Z",
     "geo": {
+      "ip": "116.206.214.183",
+      "city": "Sekampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "116.206.214.183",
       "city": "Sekampung",
       "region": "Lampung",
