@@ -24180,8 +24180,15 @@
     "userId": "4694027594",
     "source": "script",
     "createdAt": "2026-03-20T05:33:13.594Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T05:33:21.941Z",
     "geo": {
+      "ip": "86.98.172.185",
+      "city": "Dubai",
+      "region": "Dubai",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    },
+    "lastGeo": {
       "ip": "86.98.172.185",
       "city": "Dubai",
       "region": "Dubai",
