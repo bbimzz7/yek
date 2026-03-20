@@ -23881,8 +23881,15 @@
     "userId": "7449691022",
     "source": "script",
     "createdAt": "2026-03-20T04:39:00.558Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T04:39:09.124Z",
     "geo": {
+      "ip": "76.36.90.141",
+      "city": "Florence",
+      "region": "South Carolina",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "76.36.90.141",
       "city": "Florence",
       "region": "South Carolina",
