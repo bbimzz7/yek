@@ -24943,8 +24943,15 @@
     "userId": "7894657675",
     "source": "script",
     "createdAt": "2026-03-20T07:42:48.246Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T07:47:48.009Z",
     "geo": {
+      "ip": "180.252.235.44",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.252.235.44",
       "city": "Jakarta",
       "region": "Jakarta",
