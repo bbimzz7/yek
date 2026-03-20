@@ -27542,5 +27542,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-366297-C86743-FF1B17": {
+    "expires": "2026-03-21T16:32:55.336Z",
+    "hwid": "9183274283-85d234b7-6ef6-4040-8676-19be0eea0fd9",
+    "browserHwid": null,
+    "username": "Niko192207",
+    "userId": "9183274283",
+    "source": "script",
+    "createdAt": "2026-03-20T16:32:55.668Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.58.72.53",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
