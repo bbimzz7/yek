@@ -27865,5 +27865,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-C665A7-AC4701-71929C": {
+    "expires": "2026-03-21T17:41:44.197Z",
+    "hwid": "10692296292-f7b7c6c5-16c8-4686-b3d7-542d677563bf",
+    "browserHwid": null,
+    "username": "dajljaeindxjy",
+    "userId": "10692296292",
+    "source": "script",
+    "createdAt": "2026-03-20T17:41:45.798Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "51.252.175.203",
+      "city": "Riyadh",
+      "region": "Riyadh Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
