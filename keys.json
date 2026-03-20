@@ -25366,5 +25366,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-D82CFB-C623ED-D54C6D": {
+    "expires": "2026-03-21T08:35:50.329Z",
+    "hwid": "7999308039-6501abbe-df55-47da-a7ae-168a6d6e9ffe",
+    "browserHwid": null,
+    "username": "amqr_112",
+    "userId": "7999308039",
+    "source": "script",
+    "createdAt": "2026-03-20T08:35:50.653Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "60.53.32.118",
+      "city": "Johor Bahru",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
