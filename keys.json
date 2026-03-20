@@ -24130,5 +24130,22 @@
       "country": "Hungary",
       "cc": "HU"
     }
+  },
+  "VH-CF0AAB-69433D-23DA35": {
+    "expires": "2026-03-21T05:27:28.996Z",
+    "hwid": "8577097486-62dcfe66-0be7-4bca-8c28-859624fb1d9d",
+    "browserHwid": null,
+    "username": "MS_Andrea324",
+    "userId": "8577097486",
+    "source": "script",
+    "createdAt": "2026-03-20T05:27:29.355Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.151.233.203",
+      "city": "Baguio City",
+      "region": "Cordillera",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
