@@ -25174,5 +25174,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-47512F-78098C-A17138": {
+    "expires": "2026-03-21T08:11:20.429Z",
+    "hwid": "9080722182-f1a00a49-63d9-4de8-8f60-0489da2f8855",
+    "browserHwid": null,
+    "username": "rahasia_123566672",
+    "userId": "9080722182",
+    "source": "script",
+    "createdAt": "2026-03-20T08:11:21.880Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.167.56.83",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
