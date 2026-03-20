@@ -24301,14 +24301,22 @@
   },
   "VH-D014C5-506BB8-06A4AC": {
     "expires": "2026-03-21T05:54:54.383Z",
-    "hwid": null,
+    "hwid": "9136107834-5a5f6a1e-b290-45ff-a7ad-6d398ba8e5ae",
     "browserHwid": "BR-03428722-38APY",
     "username": "Iightedpurple",
-    "userId": null,
+    "userId": "9136107834",
     "source": "browser",
     "createdAt": "2026-03-20T05:54:54.888Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T05:55:20.184Z",
     "geo": {
+      "ip": "172.59.123.234",
+      "city": "Jenks",
+      "region": "Oklahoma",
+      "country": "United States",
+      "cc": "US"
+    },
+    "boundAt": "2026-03-20T05:55:20.178Z",
+    "lastGeo": {
       "ip": "172.59.123.234",
       "city": "Jenks",
       "region": "Oklahoma",
