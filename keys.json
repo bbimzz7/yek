@@ -26337,5 +26337,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-712BA4-52F94F-658FF8": {
+    "expires": "2026-03-21T12:20:33.661Z",
+    "hwid": "8246613708-BC6E7B9A-3C56-4496-B81E-2BA6D853907F",
+    "browserHwid": null,
+    "username": "M3XIE23",
+    "userId": "8246613708",
+    "source": "script",
+    "createdAt": "2026-03-20T12:20:34.174Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.161.21",
+      "city": "Cirebon",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
