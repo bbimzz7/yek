@@ -22916,5 +22916,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-30DC61-DE1B53-F915D5": {
+    "expires": "2026-03-21T00:26:09.033Z",
+    "hwid": "7812736452-bd67ea94-927a-4654-9e96-0863155e41fa",
+    "browserHwid": null,
+    "username": "Nagi_RV4",
+    "userId": "7812736452",
+    "source": "script",
+    "createdAt": "2026-03-20T00:26:09.391Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.242.74.225",
+      "city": "Dammam",
+      "region": "Eastern Province",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
