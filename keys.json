@@ -27817,5 +27817,22 @@
       "country": "Spain",
       "cc": "ES"
     }
+  },
+  "VH-1CCC56-209B77-5FD44B": {
+    "expires": "2026-03-21T17:37:22.898Z",
+    "hwid": "8554581604-347e88d9-e3f7-4e3b-878e-a3cb318f095f",
+    "browserHwid": null,
+    "username": "Nhichiely",
+    "userId": "8554581604",
+    "source": "script",
+    "createdAt": "2026-03-20T17:37:23.370Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.211.43.123",
+      "city": "Pasay",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
