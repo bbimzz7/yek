@@ -20542,7 +20542,7 @@
     "userId": "10678586122",
     "source": "script",
     "createdAt": "2026-03-19T14:53:50.529Z",
-    "lastUsed": "2026-03-19T14:56:08.194Z",
+    "lastUsed": "2026-03-20T04:36:52.441Z",
     "geo": {
       "ip": "182.0.178.169",
       "city": "Jakarta",
@@ -20551,7 +20551,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "182.0.143.41",
+      "ip": "182.3.38.157",
       "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
