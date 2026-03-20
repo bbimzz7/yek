@@ -23478,5 +23478,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-27FB23-731A15-FE5FB1": {
+    "expires": "2026-03-21T03:13:48.607Z",
+    "hwid": "8257914418-17e9e272-9e78-47f6-aa68-a757d641b2de",
+    "browserHwid": null,
+    "username": "kaisar10073",
+    "userId": "8257914418",
+    "source": "script",
+    "createdAt": "2026-03-20T03:13:49.150Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.166.125.249",
+      "city": "Kabupaten Tuban",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
