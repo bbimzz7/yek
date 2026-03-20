@@ -28634,5 +28634,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-3DA3B8-56BFD4-7F878A": {
+    "expires": "2026-03-21T22:36:34.237Z",
+    "hwid": "10357717847-ff0ad6e7-4bcc-40ad-9b26-e37668198a35",
+    "browserHwid": null,
+    "username": "Lilly_snake1515",
+    "userId": "10357717847",
+    "source": "script",
+    "createdAt": "2026-03-20T22:36:34.775Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.53.107.22",
+      "city": "Santo Domingo",
+      "region": "Nacional",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
