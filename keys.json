@@ -25870,5 +25870,22 @@
       "country": "Nepal",
       "cc": "NP"
     }
+  },
+  "VH-33B507-7AE278-BAE467": {
+    "expires": "2026-03-21T10:13:38.465Z",
+    "hwid": "7313230330-9f325002-fdfb-4687-8c49-aba4a1076ed1",
+    "browserHwid": null,
+    "username": "yersxp9",
+    "userId": "7313230330",
+    "source": "script",
+    "createdAt": "2026-03-20T10:13:38.877Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.139.147",
+      "city": "Benua Baru",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
