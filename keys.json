@@ -24226,5 +24226,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5E52E8-72F515-20EF33": {
+    "expires": "2026-03-21T05:43:45.225Z",
+    "hwid": "10573203188-d71c93be-2162-49f2-8a02-8e86317bcef6",
+    "browserHwid": null,
+    "username": "oyot_delta",
+    "userId": "10573203188",
+    "source": "script",
+    "createdAt": "2026-03-20T05:43:45.747Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.55.252",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
