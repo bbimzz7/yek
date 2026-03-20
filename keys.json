@@ -23142,5 +23142,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-2C24B4-DCA0FE-CD2BF9": {
+    "expires": "2026-03-21T01:18:35.695Z",
+    "hwid": "9666226303-bae126ad-8f4c-4433-abc9-b6cb1941e11e",
+    "browserHwid": null,
+    "username": "Kobesay676767",
+    "userId": "9666226303",
+    "source": "script",
+    "createdAt": "2026-03-20T01:18:36.252Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.198.138.29",
+      "city": "General Trias",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
