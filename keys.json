@@ -24951,5 +24951,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9A11A8-9C797F-43D6FB": {
+    "expires": "2026-03-21T07:46:46.217Z",
+    "hwid": "3915442115-C7C59FC1-9B94-438E-819E-0A43A2EAE268",
+    "browserHwid": null,
+    "username": "miras21531",
+    "userId": "3915442115",
+    "source": "script",
+    "createdAt": "2026-03-20T07:46:46.579Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.133.40.113",
+      "city": "Petropavl",
+      "region": "North Kazakhstan",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
