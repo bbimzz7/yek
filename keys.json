@@ -24782,5 +24782,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3B075E-EEEB38-FBE2A6": {
+    "expires": "2026-03-21T07:08:36.274Z",
+    "hwid": "9757644280-9925f2d9-77e1-4073-b222-aad6c8ee379f",
+    "browserHwid": null,
+    "username": "mr_sigmaaura67",
+    "userId": "9757644280",
+    "source": "script",
+    "createdAt": "2026-03-20T07:08:36.574Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.38.28.165",
+      "city": "Abu Dhabi",
+      "region": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
