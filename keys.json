@@ -27333,5 +27333,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-82C590-C7576F-BB1514": {
+    "expires": "2026-03-21T16:01:13.512Z",
+    "hwid": "8510986605-8c7f6631-de31-4992-ba3a-8842d6229692",
+    "browserHwid": null,
+    "username": "zxcsix87",
+    "userId": "8510986605",
+    "source": "script",
+    "createdAt": "2026-03-20T16:01:13.944Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.142.89.210",
+      "city": "Kyiv",
+      "region": "Kyiv City",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
