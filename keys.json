@@ -25318,5 +25318,22 @@
       "country": "The Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-4AB62F-91DAE5-9A0028": {
+    "expires": "2026-03-21T08:31:02.129Z",
+    "hwid": "3687693750-7b59cd19-d3fb-4a22-a403-819e9b1a04b5",
+    "browserHwid": null,
+    "username": "meowing_my",
+    "userId": "3687693750",
+    "source": "script",
+    "createdAt": "2026-03-20T08:31:02.534Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "23.166.88.145",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
+    }
   }
 }
