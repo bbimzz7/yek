@@ -25855,9 +25855,16 @@
     "userId": "5585145051",
     "source": "script",
     "createdAt": "2026-03-20T10:11:08.124Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T10:11:19.692Z",
     "geo": {
       "ip": "117.103.119.0",
+      "city": "Lamjung",
+      "region": "Gandaki Pradesh",
+      "country": "Nepal",
+      "cc": "NP"
+    },
+    "lastGeo": {
+      "ip": "117.103.119.24",
       "city": "Lamjung",
       "region": "Gandaki Pradesh",
       "country": "Nepal",
