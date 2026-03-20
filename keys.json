@@ -25294,5 +25294,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-6CEC2E-75A058-78CAFA": {
+    "expires": "2026-03-21T08:28:42.801Z",
+    "hwid": "9689180588-252d1cd5-cf17-49df-8a29-c23e112396ef",
+    "browserHwid": null,
+    "username": "fppejj2344",
+    "userId": "9689180588",
+    "source": "script",
+    "createdAt": "2026-03-20T08:28:43.157Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "195.133.76.11",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "The Netherlands",
+      "cc": "NL"
+    }
   }
 }
