@@ -23615,5 +23615,22 @@
       "country": "Barbados",
       "cc": "BB"
     }
+  },
+  "VH-5FD1D7-1CD4F4-563872": {
+    "expires": "2026-03-21T03:34:12.082Z",
+    "hwid": "10347883318-dd05849a-ff93-425f-9097-a56279b4fe93",
+    "browserHwid": null,
+    "username": "az341728",
+    "userId": "10347883318",
+    "source": "script",
+    "createdAt": "2026-03-20T03:34:12.633Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "41.92.106.167",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "country": "Morocco",
+      "cc": "MA"
+    }
   }
 }
