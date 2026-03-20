@@ -28283,8 +28283,15 @@
     "userId": "10000190501",
     "source": "script",
     "createdAt": "2026-03-20T19:59:38.901Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T19:59:47.759Z",
     "geo": {
+      "ip": "160.19.18.117",
+      "city": "Subang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "160.19.18.117",
       "city": "Subang",
       "region": "West Java",
