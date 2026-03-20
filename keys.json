@@ -28154,5 +28154,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1CA5DF-5C6BC8-477C17": {
+    "expires": "2026-03-21T18:38:41.234Z",
+    "hwid": "9804461506-f56dcb91-e634-4901-8096-9c3465bad8c3",
+    "browserHwid": null,
+    "username": "Ruuuyeeed",
+    "userId": "9804461506",
+    "source": "script",
+    "createdAt": "2026-03-20T18:38:41.611Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.75.203",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
