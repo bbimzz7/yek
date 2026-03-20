@@ -25054,5 +25054,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-217711-208331-6B5971": {
+    "expires": "2026-03-21T08:06:50.139Z",
+    "hwid": "9081161297-f3172207-24e1-4a54-830b-f0099ad74221",
+    "browserHwid": null,
+    "username": "bandarah67",
+    "userId": "9081161297",
+    "source": "script",
+    "createdAt": "2026-03-20T08:06:50.726Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.11.129.82",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
