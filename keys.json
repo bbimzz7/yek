@@ -24323,5 +24323,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-2D5B4B-1C8B2C-7A182B": {
+    "expires": "2026-03-21T05:57:22.675Z",
+    "hwid": "9735879743-C169F9CA-163A-4DCE-A367-498141043FDA",
+    "browserHwid": null,
+    "username": "Fifi_01259",
+    "userId": "9735879743",
+    "source": "script",
+    "createdAt": "2026-03-20T05:57:23.007Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.233.218.37",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
