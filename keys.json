@@ -26843,8 +26843,15 @@
     "userId": "7509316828",
     "source": "script",
     "createdAt": "2026-03-20T14:08:21.353Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T14:10:11.093Z",
     "geo": {
+      "ip": "186.243.27.57",
+      "city": "Manaus",
+      "region": "Amazonas",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "186.243.27.57",
       "city": "Manaus",
       "region": "Amazonas",
