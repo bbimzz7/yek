@@ -26158,5 +26158,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D1A452-CE9AAC-8C5AD6": {
+    "expires": "2026-03-21T11:45:08.469Z",
+    "hwid": "10170798591-798D4D87-EF77-4585-B2D7-E611AA964127",
+    "browserHwid": null,
+    "username": "dsdkfdlsflsdlkrttrt",
+    "userId": "10170798591",
+    "source": "script",
+    "createdAt": "2026-03-20T11:45:09.057Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.162.137",
+      "city": "Istres",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
