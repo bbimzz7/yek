@@ -23624,9 +23624,16 @@
     "userId": "10347883318",
     "source": "script",
     "createdAt": "2026-03-20T03:34:12.633Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T03:34:24.936Z",
     "geo": {
       "ip": "41.92.106.167",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "country": "Morocco",
+      "cc": "MA"
+    },
+    "lastGeo": {
+      "ip": "41.92.105.145",
       "city": "Casablanca",
       "region": "Casablanca-Settat",
       "country": "Morocco",
