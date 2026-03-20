@@ -22940,5 +22940,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-9AA975-984BB5-83017A": {
+    "expires": "2026-03-21T00:42:51.051Z",
+    "hwid": "9841924682-a2818be2-c022-4680-bf10-0406e3643390",
+    "browserHwid": null,
+    "username": "velodieeiedid",
+    "userId": "9841924682",
+    "source": "script",
+    "createdAt": "2026-03-20T00:42:51.582Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.148.113.113",
+      "city": "Ribeirão das Neves",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
