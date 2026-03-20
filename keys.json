@@ -25678,5 +25678,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-211188-48B10F-3228CC": {
+    "expires": "2026-03-21T09:54:07.236Z",
+    "hwid": "9315350877-39ff39f1-af22-471f-8b92-b69056fe9772",
+    "browserHwid": null,
+    "username": "1LDEMAR0",
+    "userId": "9315350877",
+    "source": "script",
+    "createdAt": "2026-03-20T09:54:07.613Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.8.164.109",
+      "city": "Caracas",
+      "region": "Distrito Federal",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
