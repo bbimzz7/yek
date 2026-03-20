@@ -26730,8 +26730,15 @@
     "userId": "4090164544",
     "source": "script",
     "createdAt": "2026-03-20T13:55:13.228Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T13:55:23.052Z",
     "geo": {
+      "ip": "14.0.23.88",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "14.0.23.88",
       "city": "Hanoi",
       "region": "Hanoi",
