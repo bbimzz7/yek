@@ -27575,8 +27575,15 @@
     "userId": "8287862625",
     "source": "script",
     "createdAt": "2026-03-20T16:36:02.791Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T16:36:55.456Z",
     "geo": {
+      "ip": "103.133.63.165",
+      "city": "Metro",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.133.63.165",
       "city": "Metro",
       "region": "Lampung",
