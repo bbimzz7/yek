@@ -27268,5 +27268,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-45833C-B2BED2-F6AFC4": {
+    "expires": "2026-03-21T15:29:15.485Z",
+    "hwid": "9113908792-8E6F33AF-06E8-496A-8285-7C30A8123552",
+    "browserHwid": null,
+    "username": "youkun101",
+    "userId": "9113908792",
+    "source": "script",
+    "createdAt": "2026-03-20T15:29:15.792Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.82.245.120",
+      "city": "Nanga Bulik",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
