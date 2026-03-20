@@ -25750,5 +25750,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-B8439C-A347F3-FE85D7": {
+    "expires": "2026-03-21T10:03:37.797Z",
+    "hwid": "9149759741-7d2db19f-3351-4600-adc3-d362928be0a2",
+    "browserHwid": null,
+    "username": "Om_Fadhil2",
+    "userId": "9149759741",
+    "source": "script",
+    "createdAt": "2026-03-20T10:03:39.140Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.15.118.122",
+      "city": "Dukuhturi",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
