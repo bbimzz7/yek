@@ -23214,5 +23214,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-DEC901-18AD70-E398A0": {
+    "expires": "2026-03-21T01:35:18.806Z",
+    "hwid": "8703966769-d4da12c6-1b6b-4828-99a7-0823adaf438c",
+    "browserHwid": null,
+    "username": "TergelTekuYT",
+    "userId": "8703966769",
+    "source": "script",
+    "createdAt": "2026-03-20T01:35:19.334Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.9.46.243",
+      "city": "Ulan Bator",
+      "region": "Ulaanbaatar",
+      "country": "Mongolia",
+      "cc": "MN"
+    }
   }
 }
