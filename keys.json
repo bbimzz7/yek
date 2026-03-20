@@ -28346,5 +28346,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-A3E66C-7E8AFD-696B31": {
+    "expires": "2026-03-21T20:28:51.101Z",
+    "hwid": "7235849278-E00F405A-97D0-491C-BDF8-3B4B1294B4BC",
+    "browserHwid": null,
+    "username": "the_c4nadii",
+    "userId": "7235849278",
+    "source": "script",
+    "createdAt": "2026-03-20T20:28:51.855Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.24.61.241",
+      "city": "Erbil",
+      "region": "Erbil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
