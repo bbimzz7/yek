@@ -28178,5 +28178,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4F246B-A635E9-EBE3B3": {
+    "expires": "2026-03-21T19:24:54.051Z",
+    "hwid": "9014505033-1f95a8ab-0c88-44f4-a0be-bc3e3bc48df4",
+    "browserHwid": null,
+    "username": "Wizzle828",
+    "userId": "9014505033",
+    "source": "script",
+    "createdAt": "2026-03-20T19:24:54.639Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.75.238.209",
+      "city": "Seri Kembangan",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
