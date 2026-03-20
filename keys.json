@@ -27986,5 +27986,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-EF985F-2700C1-609CD5": {
+    "expires": "2026-03-21T18:21:06.664Z",
+    "hwid": "2996231848-d2b98f3d-5905-4bcf-98c7-94221c995842",
+    "browserHwid": null,
+    "username": "calon_jnazah",
+    "userId": "2996231848",
+    "source": "script",
+    "createdAt": "2026-03-20T18:21:07.149Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.64.118",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
