@@ -23567,5 +23567,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-4BD402-94B47D-0AA246": {
+    "expires": "2026-03-21T03:27:14.734Z",
+    "hwid": "10166591323-99605150-d62d-4dee-964f-c4080f988c80",
+    "browserHwid": null,
+    "username": "XxALExXZZX6",
+    "userId": "10166591323",
+    "source": "script",
+    "createdAt": "2026-03-20T03:27:15.095Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.216.195.214",
+      "city": "Mexico City",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
