@@ -24018,8 +24018,15 @@
     "userId": "8765603583",
     "source": "script",
     "createdAt": "2026-03-20T05:07:23.963Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T05:08:50.668Z",
     "geo": {
+      "ip": "182.62.227.158",
+      "city": "Puchong",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "182.62.227.158",
       "city": "Puchong",
       "region": "Selangor",
