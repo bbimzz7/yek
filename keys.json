@@ -25942,5 +25942,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-D4089F-F05D43-512C50": {
+    "expires": "2026-03-21T10:43:19.256Z",
+    "hwid": "3668176310-cf524421-bba2-4775-b411-0123465d7d18",
+    "browserHwid": null,
+    "username": "kr_ryomifan",
+    "userId": "3668176310",
+    "source": "script",
+    "createdAt": "2026-03-20T10:43:19.812Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "106.101.74.125",
+      "city": "Seongnam-si",
+      "region": "Gyeonggi-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
