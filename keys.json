@@ -23077,5 +23077,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CAF258-492803-25D0AF": {
+    "expires": "2026-03-21T00:58:59.685Z",
+    "hwid": "10525071693-2d34b538-6256-43e8-8113-76a0c8ae043d",
+    "browserHwid": null,
+    "username": "Kireniscome",
+    "userId": "10525071693",
+    "source": "script",
+    "createdAt": "2026-03-20T00:58:59.969Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "174.64.185.245",
+      "city": "Baton Rouge",
+      "region": "Louisiana",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
