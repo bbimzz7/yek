@@ -28010,5 +28010,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2DA99C-B3E1DC-EE4256": {
+    "expires": "2026-03-21T18:21:31.198Z",
+    "hwid": "10185763566-7ab8dec5-3161-4bfc-abe5-61c896bd3c83",
+    "browserHwid": null,
+    "username": "MR_M1005alt1",
+    "userId": "10185763566",
+    "source": "script",
+    "createdAt": "2026-03-20T18:21:31.592Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.49.156.104",
+      "city": "Dubai",
+      "region": "Dubai",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
