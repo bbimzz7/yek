@@ -25927,8 +25927,15 @@
     "userId": "7396777923",
     "source": "script",
     "createdAt": "2026-03-20T10:35:43.407Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T10:36:04.554Z",
     "geo": {
+      "ip": "147.30.137.43",
+      "city": "Semey",
+      "region": "Abai Region",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "147.30.137.43",
       "city": "Semey",
       "region": "Abai Region",
