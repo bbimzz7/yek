@@ -26223,5 +26223,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-23076A-0CC4A3-3AE75D": {
+    "expires": "2026-03-21T12:03:47.681Z",
+    "hwid": "8522384190-D8F731E2-97A0-4C4D-AC0F-AEEC54533A5F",
+    "browserHwid": null,
+    "username": "Arteliy_3",
+    "userId": "8522384190",
+    "source": "script",
+    "createdAt": "2026-03-20T12:03:48.262Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "194.44.50.145",
+      "city": "Lviv",
+      "region": "Lviv",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
