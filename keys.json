@@ -27412,5 +27412,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6B7397-ADE3F0-0F68D7": {
+    "expires": "2026-03-21T16:13:24.147Z",
+    "hwid": "4363808145-D666C61E-3AF7-449F-BF71-187B6011BB8C",
+    "browserHwid": null,
+    "username": "jarfuf2341",
+    "userId": "4363808145",
+    "source": "script",
+    "createdAt": "2026-03-20T16:13:24.799Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.208.238.83",
+      "city": "Surgut",
+      "region": "Khanty-Mansia",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
