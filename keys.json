@@ -24597,5 +24597,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-CD3442-F7687F-4B9360": {
+    "expires": "2026-03-21T06:44:26.167Z",
+    "hwid": "4771730297-75a70cd2-488a-4356-bcaf-2d5ace3d13e6",
+    "browserHwid": null,
+    "username": "Jermiah040816",
+    "userId": "4771730297",
+    "source": "script",
+    "createdAt": "2026-03-20T06:44:26.722Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.189.47",
+      "city": "Riverside",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
