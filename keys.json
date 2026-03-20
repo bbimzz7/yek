@@ -23985,5 +23985,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-2ADEC8-2CC835-19647C": {
+    "expires": "2026-03-21T05:05:42.423Z",
+    "hwid": "10694930923-f2717c24-fb17-4b77-9c50-6e201398cd97",
+    "browserHwid": null,
+    "username": "Rightinit100",
+    "userId": "10694930923",
+    "source": "script",
+    "createdAt": "2026-03-20T05:05:42.959Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.240.38",
+      "city": "San Diego",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
