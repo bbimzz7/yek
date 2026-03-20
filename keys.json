@@ -26867,8 +26867,15 @@
     "userId": "10616483403",
     "source": "script",
     "createdAt": "2026-03-20T14:11:08.519Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T14:13:26.604Z",
     "geo": {
+      "ip": "190.98.110.182",
+      "city": "Paramaribo",
+      "region": "Paramaribo District",
+      "country": "Suriname",
+      "cc": "SR"
+    },
+    "lastGeo": {
       "ip": "190.98.110.182",
       "city": "Paramaribo",
       "region": "Paramaribo District",
