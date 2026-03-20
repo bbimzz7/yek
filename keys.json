@@ -23639,5 +23639,22 @@
       "country": "Morocco",
       "cc": "MA"
     }
+  },
+  "VH-AC479F-CB6C50-460B76": {
+    "expires": "2026-03-21T03:45:31.435Z",
+    "hwid": "10628453799-c109c89a-cc7f-47eb-ab8e-621677734a28",
+    "browserHwid": null,
+    "username": "angelyt77891",
+    "userId": "10628453799",
+    "source": "script",
+    "createdAt": "2026-03-20T03:45:32.082Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.106.125.121",
+      "city": "Pasay",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
