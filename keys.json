@@ -27995,11 +27995,18 @@
     "userId": "2996231848",
     "source": "script",
     "createdAt": "2026-03-20T18:21:07.149Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T18:21:16.259Z",
     "geo": {
       "ip": "112.215.64.118",
       "city": "Jakarta",
       "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "112.215.63.238",
+      "city": "Banjar Badung",
+      "region": "Bali",
       "country": "Indonesia",
       "cc": "ID"
     }
