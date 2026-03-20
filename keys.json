@@ -25582,5 +25582,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-AAAFC7-97641A-239C88": {
+    "expires": "2026-03-21T09:27:15.190Z",
+    "hwid": "10548468645-18684615-ed92-4d30-adf8-d7177ba04023",
+    "browserHwid": null,
+    "username": "BiiSiTray",
+    "userId": "10548468645",
+    "source": "script",
+    "createdAt": "2026-03-20T09:27:15.746Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.254.53.6",
+      "city": "Phù Mỹ",
+      "region": "Gia Lai",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
