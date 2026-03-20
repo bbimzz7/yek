@@ -27460,5 +27460,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-0917D9-FA141E-423788": {
+    "expires": "2026-03-21T16:19:42.661Z",
+    "hwid": "8586710084-b854522e-0b67-4e4f-bed6-8feceaba259e",
+    "browserHwid": null,
+    "username": "Yuzo0930",
+    "userId": "8586710084",
+    "source": "script",
+    "createdAt": "2026-03-20T16:19:43.024Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.228.171",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
