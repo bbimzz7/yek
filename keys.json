@@ -21430,7 +21430,7 @@
     "userId": "5442360729",
     "source": "script",
     "createdAt": "2026-03-19T18:40:03.974Z",
-    "lastUsed": "2026-03-19T18:40:15.759Z",
+    "lastUsed": "2026-03-20T10:34:50.506Z",
     "geo": {
       "ip": "185.132.132.57",
       "city": "Naaldwijk",
@@ -21439,11 +21439,11 @@
       "cc": "NL"
     },
     "lastGeo": {
-      "ip": "185.132.132.57",
-      "city": "Naaldwijk",
-      "region": "South Holland",
-      "country": "Netherlands",
-      "cc": "NL"
+      "ip": "205.147.17.4",
+      "city": "Oslo",
+      "region": "Oslo County",
+      "country": "Norway",
+      "cc": "NO"
     }
   },
   "VH-F30FE4-32B442-91A903": {
