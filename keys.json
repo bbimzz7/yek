@@ -24250,5 +24250,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-85FDA1-128BBB-8BFC44": {
+    "expires": "2026-03-21T05:47:56.552Z",
+    "hwid": "3364720786-22d6950f-49b2-4a88-8854-4700ead681a8",
+    "browserHwid": null,
+    "username": "sambarina_minang",
+    "userId": "3364720786",
+    "source": "script",
+    "createdAt": "2026-03-20T05:47:56.877Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.154.139.25",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
