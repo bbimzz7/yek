@@ -27687,5 +27687,22 @@
       "country": "Georgia",
       "cc": "GE"
     }
+  },
+  "VH-784F24-BB7481-17A0C6": {
+    "expires": "2026-03-21T16:56:39.270Z",
+    "hwid": "10689484288-bb368de9-9d00-4afb-aec0-51fe0f31f76c",
+    "browserHwid": null,
+    "username": "dareal1fennec",
+    "userId": "10689484288",
+    "source": "script",
+    "createdAt": "2026-03-20T16:56:39.639Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "86.103.48.195",
+      "city": "Schrecksbach",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
