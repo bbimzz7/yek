@@ -24084,8 +24084,15 @@
     "userId": "4870184400",
     "source": "script",
     "createdAt": "2026-03-20T05:19:58.340Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T05:20:06.619Z",
     "geo": {
+      "ip": "103.36.18.156",
+      "city": "City of Muntinlupa",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "103.36.18.156",
       "city": "City of Muntinlupa",
       "region": "Calabarzon",
