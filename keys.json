@@ -28163,8 +28163,15 @@
     "userId": "9804461506",
     "source": "script",
     "createdAt": "2026-03-20T18:38:41.611Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T18:38:48.486Z",
     "geo": {
+      "ip": "110.137.75.203",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "110.137.75.203",
       "city": "Bengkulu",
       "region": "Bengkulu",
