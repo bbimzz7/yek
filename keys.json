@@ -26817,5 +26817,22 @@
       "country": "Croatia",
       "cc": "HR"
     }
+  },
+  "VH-B576B1-614698-3CAB69": {
+    "expires": "2026-03-21T14:05:16.204Z",
+    "hwid": "9444512126-cc35f674-0174-4268-9316-09f8e16c8111",
+    "browserHwid": null,
+    "username": "H3RO_Magic202067",
+    "userId": "9444512126",
+    "source": "script",
+    "createdAt": "2026-03-20T14:05:16.868Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.99.225.161",
+      "city": "Jember",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
