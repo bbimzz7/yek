@@ -26713,7 +26713,7 @@
     "userId": "10158503650",
     "source": "script",
     "createdAt": "2026-03-20T13:36:36.064Z",
-    "lastUsed": "2026-03-20T22:37:40.741Z",
+    "lastUsed": "2026-03-20T22:55:41.040Z",
     "geo": {
       "ip": "149.22.88.131",
       "city": "Seattle",
@@ -26722,11 +26722,11 @@
       "cc": "US"
     },
     "lastGeo": {
-      "ip": "149.22.88.131",
-      "city": "Seattle",
-      "region": "Washington",
-      "country": "United States",
-      "cc": "US"
+      "ip": "149.22.82.57",
+      "city": "Toronto",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
     }
   },
   "VH-907A8A-958E1C-130BB4": {
