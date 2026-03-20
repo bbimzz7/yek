@@ -28514,5 +28514,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-6ACEE1-054A07-6CF8C8": {
+    "expires": "2026-03-21T21:04:17.384Z",
+    "hwid": "10650592496-13f7d6ae-51d7-41e6-a723-d850f0023c94",
+    "browserHwid": null,
+    "username": "bacon_nasional1",
+    "userId": "10650592496",
+    "source": "script",
+    "createdAt": "2026-03-20T21:04:17.957Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.161.65",
+      "city": "Cirebon",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
