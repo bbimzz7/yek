@@ -28740,8 +28740,15 @@
     "userId": "10012619248",
     "source": "script",
     "createdAt": "2026-03-20T23:18:26.698Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T23:18:38.420Z",
     "geo": {
+      "ip": "202.152.203.60",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "202.152.203.60",
       "city": "South Tangerang",
       "region": "Banten",
