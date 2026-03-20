@@ -24693,5 +24693,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-564619-C3746D-C7D923": {
+    "expires": "2026-03-21T06:56:12.455Z",
+    "hwid": "10275169932-a7853c42-d2e9-445e-beff-9cdaa8f3ce07",
+    "browserHwid": null,
+    "username": "tubers93o649",
+    "userId": "10275169932",
+    "source": "script",
+    "createdAt": "2026-03-20T06:56:12.814Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.194.175.64",
+      "city": "Sempu",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
