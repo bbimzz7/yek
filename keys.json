@@ -24347,5 +24347,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-DCFC20-5EF6D8-075A8B": {
+    "expires": "2026-03-21T06:05:02.095Z",
+    "hwid": "7308688440-7ef2aedd-2aac-422c-aee5-07badb58a279",
+    "browserHwid": null,
+    "username": "yuji_xXh4rr1sxX",
+    "userId": "7308688440",
+    "source": "script",
+    "createdAt": "2026-03-20T06:05:02.628Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "183.171.102.106",
+      "city": "Bangi",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
