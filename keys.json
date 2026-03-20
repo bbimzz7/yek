@@ -23744,8 +23744,15 @@
     "userId": "8425207938",
     "source": "script",
     "createdAt": "2026-03-20T04:18:18.053Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T04:33:02.022Z",
     "geo": {
+      "ip": "103.61.5.110",
+      "city": "Meral",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.61.5.110",
       "city": "Meral",
       "region": "Riau Islands",
