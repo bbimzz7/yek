@@ -26802,8 +26802,15 @@
     "userId": "8440747003",
     "source": "script",
     "createdAt": "2026-03-20T13:59:01.138Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T13:59:17.501Z",
     "geo": {
+      "ip": "82.132.19.19",
+      "city": "Zagreb",
+      "region": "City of Zagreb",
+      "country": "Croatia",
+      "cc": "HR"
+    },
+    "lastGeo": {
       "ip": "82.132.19.19",
       "city": "Zagreb",
       "region": "City of Zagreb",
