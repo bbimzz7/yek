@@ -27501,5 +27501,22 @@
       "country": "Bulgaria",
       "cc": "BG"
     }
+  },
+  "VH-EAB55C-B30568-B33019": {
+    "expires": "2026-03-21T16:26:56.142Z",
+    "hwid": "5739633405-905de362-ccb2-4efb-a26c-b852235ed336",
+    "browserHwid": null,
+    "username": "Andria2014s",
+    "userId": "5739633405",
+    "source": "script",
+    "createdAt": "2026-03-20T16:26:56.509Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.58.114.204",
+      "city": "Batumi",
+      "region": "Adjara",
+      "country": "Georgia",
+      "cc": "GE"
+    }
   }
 }
