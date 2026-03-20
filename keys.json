@@ -28610,5 +28610,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3C85A4-9A6CD5-CEC929": {
+    "expires": "2026-03-21T21:59:34.530Z",
+    "hwid": "2418239109-CD07430B-A00B-405C-9C08-56752A80C106",
+    "browserHwid": null,
+    "username": "0qvs_4",
+    "userId": "2418239109",
+    "source": "script",
+    "createdAt": "2026-03-20T21:59:35.073Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.39.4.52",
+      "city": "Nizhnevartovsk",
+      "region": "Khanty-Mansia",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
