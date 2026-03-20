@@ -28764,8 +28764,15 @@
     "userId": "10190633580",
     "source": "script",
     "createdAt": "2026-03-20T23:21:20.576Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T23:26:02.611Z",
     "geo": {
+      "ip": "203.91.115.50",
+      "city": "Choyr",
+      "region": "Govĭ-Sumber",
+      "country": "Mongolia",
+      "cc": "MN"
+    },
+    "lastGeo": {
       "ip": "203.91.115.50",
       "city": "Choyr",
       "region": "Govĭ-Sumber",
