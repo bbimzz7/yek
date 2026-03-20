@@ -24702,8 +24702,15 @@
     "userId": "10275169932",
     "source": "script",
     "createdAt": "2026-03-20T06:56:12.814Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T06:57:37.669Z",
     "geo": {
+      "ip": "103.194.175.64",
+      "city": "Sempu",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.194.175.64",
       "city": "Sempu",
       "region": "East Java",
