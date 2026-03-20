@@ -25846,5 +25846,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-8A22EF-15F2F6-A14D6A": {
+    "expires": "2026-03-21T10:11:07.805Z",
+    "hwid": "5585145051-2c44b353-36cd-479c-96af-349a12468ae3",
+    "browserHwid": null,
+    "username": "bacongod5757",
+    "userId": "5585145051",
+    "source": "script",
+    "createdAt": "2026-03-20T10:11:08.124Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "117.103.119.0",
+      "city": "Lamjung",
+      "region": "Gandaki Pradesh",
+      "country": "Nepal",
+      "cc": "NP"
+    }
   }
 }
