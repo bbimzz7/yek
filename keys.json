@@ -25558,5 +25558,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-76D8B7-7F7847-BB060E": {
+    "expires": "2026-03-21T09:21:00.849Z",
+    "hwid": "8511115036-dbe59c16-b91b-4730-ac0a-d2a1b53527d1",
+    "browserHwid": null,
+    "username": "makasatchan",
+    "userId": "8511115036",
+    "source": "script",
+    "createdAt": "2026-03-20T09:21:01.405Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.99.189.7",
+      "city": "Paris",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
