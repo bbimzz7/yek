@@ -27484,5 +27484,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4B3326-0FEAE2-718B0B": {
+    "expires": "2026-03-21T16:22:00.947Z",
+    "hwid": "10640298432-da6cf102-d0f2-4d10-b053-c38b340748ff",
+    "browserHwid": null,
+    "username": "yusuafta",
+    "userId": "10640298432",
+    "source": "script",
+    "createdAt": "2026-03-20T16:22:01.343Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.94.192.253",
+      "city": "Sofia",
+      "region": "Sofia-Capital",
+      "country": "Bulgaria",
+      "cc": "BG"
+    }
   }
 }
