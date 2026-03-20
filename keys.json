@@ -25111,8 +25111,15 @@
     "userId": "5099854938",
     "source": "script",
     "createdAt": "2026-03-20T08:07:40.361Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T08:07:48.709Z",
     "geo": {
+      "ip": "59.102.27.182",
+      "city": "Melbourne",
+      "region": "Victoria",
+      "country": "Australia",
+      "cc": "AU"
+    },
+    "lastGeo": {
       "ip": "59.102.27.182",
       "city": "Melbourne",
       "region": "Victoria",
