@@ -26247,5 +26247,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-10370A-53C92C-58F059": {
+    "expires": "2026-03-21T12:07:11.087Z",
+    "hwid": "10690272720-95e8f480-095d-452d-a934-48a3d244a5a5",
+    "browserHwid": null,
+    "username": "ber8336373737",
+    "userId": "10690272720",
+    "source": "script",
+    "createdAt": "2026-03-20T12:07:11.648Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "8.242.185.2",
+      "city": "Popayán",
+      "region": "Cauca Department",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
