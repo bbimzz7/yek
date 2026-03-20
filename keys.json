@@ -26882,5 +26882,22 @@
       "country": "Suriname",
       "cc": "SR"
     }
+  },
+  "VH-0E2D9B-3F1598-E22ECD": {
+    "expires": "2026-03-21T14:15:02.366Z",
+    "hwid": "8807117826-055ca10f-3cb9-46fe-a8ae-37f23784678e",
+    "browserHwid": null,
+    "username": "peeshaweee",
+    "userId": "8807117826",
+    "source": "script",
+    "createdAt": "2026-03-20T14:15:02.805Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.136.89.98",
+      "city": "Ciamis",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
