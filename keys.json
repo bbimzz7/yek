@@ -23994,8 +23994,15 @@
     "userId": "10694930923",
     "source": "script",
     "createdAt": "2026-03-20T05:05:42.959Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T05:06:03.145Z",
     "geo": {
+      "ip": "172.56.240.38",
+      "city": "San Diego",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.56.240.38",
       "city": "San Diego",
       "region": "California",
