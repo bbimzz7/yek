@@ -28586,5 +28586,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-38F781-49C300-02D37E": {
+    "expires": "2026-03-21T21:46:08.168Z",
+    "hwid": "23617163-42be2626-544a-413e-a284-e5a5dece986e",
+    "browserHwid": null,
+    "username": "jani111602",
+    "userId": "23617163",
+    "source": "script",
+    "createdAt": "2026-03-20T21:46:08.731Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.243.8.216",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
