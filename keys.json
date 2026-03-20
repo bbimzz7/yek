@@ -25495,8 +25495,15 @@
     "userId": "9021695674",
     "source": "script",
     "createdAt": "2026-03-20T08:58:18.841Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T08:58:30.525Z",
     "geo": {
+      "ip": "104.28.164.99",
+      "city": "Kocasinan",
+      "region": "Istanbul",
+      "country": "Türkiye",
+      "cc": "TR"
+    },
+    "lastGeo": {
       "ip": "104.28.164.99",
       "city": "Kocasinan",
       "region": "Istanbul",
