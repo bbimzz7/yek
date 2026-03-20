@@ -27012,8 +27012,15 @@
     "userId": "2532314015",
     "source": "script",
     "createdAt": "2026-03-20T14:38:16.248Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T14:38:23.008Z",
     "geo": {
+      "ip": "103.194.46.69",
+      "city": "Pasar Kulon",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.194.46.69",
       "city": "Pasar Kulon",
       "region": "West Java",
