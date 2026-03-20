@@ -24573,5 +24573,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-432926-45EE09-F37205": {
+    "expires": "2026-03-21T06:38:06.771Z",
+    "hwid": "10340244736-d50eab1a-8632-451b-8099-d9624d60e6a8",
+    "browserHwid": null,
+    "username": "hiokivoicechat",
+    "userId": "10340244736",
+    "source": "script",
+    "createdAt": "2026-03-20T06:38:07.089Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.63.33.97",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
