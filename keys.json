@@ -27436,5 +27436,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-9D933B-23B7C1-AD7F2A": {
+    "expires": "2026-03-21T16:16:35.997Z",
+    "hwid": "2577358169-2caf9538-8766-48ee-92e9-5a8aae8c45c4",
+    "browserHwid": null,
+    "username": "scorepionjames",
+    "userId": "2577358169",
+    "source": "script",
+    "createdAt": "2026-03-20T16:16:36.590Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.145.194.90",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
