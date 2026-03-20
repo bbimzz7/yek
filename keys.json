@@ -27148,5 +27148,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-9339E2-C9B6C3-C0EA70": {
+    "expires": "2026-03-21T15:12:14.142Z",
+    "hwid": "5624090231-16ca951b-f7de-4d36-9934-9e7b98a609cc",
+    "browserHwid": null,
+    "username": "creaptiezYT",
+    "userId": "5624090231",
+    "source": "script",
+    "createdAt": "2026-03-20T15:12:14.770Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "197.26.48.36",
+      "city": "Nabeul",
+      "region": "Nabeul Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    }
   }
 }
