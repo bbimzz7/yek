@@ -25414,5 +25414,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-4F339A-790BB1-6576BD": {
+    "expires": "2026-03-21T08:53:30.368Z",
+    "hwid": "10274565284-a76a4712-8ef9-49fc-ad69-84801ce4ac37",
+    "browserHwid": null,
+    "username": "aduhaibalze",
+    "userId": "10274565284",
+    "source": "script",
+    "createdAt": "2026-03-20T08:53:30.756Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.193.196",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
