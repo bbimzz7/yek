@@ -21694,7 +21694,7 @@
     "userId": "10688365438",
     "source": "script",
     "createdAt": "2026-03-19T19:25:25.596Z",
-    "lastUsed": "2026-03-19T19:38:47.440Z",
+    "lastUsed": "2026-03-20T15:16:59.838Z",
     "geo": {
       "ip": "114.8.196.101",
       "city": "Jakarta",
@@ -21703,9 +21703,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.10.75.140",
-      "city": "Jakarta",
-      "region": "Jakarta",
+      "ip": "160.191.233.117",
+      "city": "Cikupa",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
