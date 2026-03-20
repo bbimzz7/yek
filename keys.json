@@ -24397,8 +24397,15 @@
     "userId": "10688323294",
     "source": "script",
     "createdAt": "2026-03-20T06:07:49.134Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T06:10:43.473Z",
     "geo": {
+      "ip": "187.189.163.99",
+      "city": "Guadalupe",
+      "region": "Nuevo León",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.189.163.99",
       "city": "Guadalupe",
       "region": "Nuevo León",
