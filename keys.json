@@ -24283,8 +24283,15 @@
     "userId": "4028132135",
     "source": "script",
     "createdAt": "2026-03-20T05:48:44.837Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T05:48:49.843Z",
     "geo": {
+      "ip": "98.25.46.57",
+      "city": "Columbia",
+      "region": "South Carolina",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "98.25.46.57",
       "city": "Columbia",
       "region": "South Carolina",
