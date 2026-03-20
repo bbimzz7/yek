@@ -28226,5 +28226,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-E0161A-CC34F5-ADED2F": {
+    "expires": "2026-03-21T19:29:07.200Z",
+    "hwid": "10131137628-9c9a6bac-6578-4563-91cc-2712c730bfb5",
+    "browserHwid": null,
+    "username": "linkinpark_267",
+    "userId": "10131137628",
+    "source": "script",
+    "createdAt": "2026-03-20T19:29:07.885Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "128.14.21.208",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
+    }
   }
 }
