@@ -25270,5 +25270,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D45A34-9E5946-3E7D1D": {
+    "expires": "2026-03-21T08:25:21.650Z",
+    "hwid": "8558859571-7c491c82-d6ee-420c-b72b-e04e47857c5a",
+    "browserHwid": null,
+    "username": "BananaRIN102",
+    "userId": "8558859571",
+    "source": "script",
+    "createdAt": "2026-03-20T08:25:21.974Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.99.190.252",
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
