@@ -27109,9 +27109,16 @@
     "userId": "10414723903",
     "source": "script",
     "createdAt": "2026-03-20T14:55:23.859Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T14:55:36.559Z",
     "geo": {
       "ip": "103.144.8.120",
+      "city": "Möng La",
+      "region": "Shan State",
+      "country": "Myanmar",
+      "cc": "MM"
+    },
+    "lastGeo": {
+      "ip": "103.144.8.99",
       "city": "Möng La",
       "region": "Shan State",
       "country": "Myanmar",
