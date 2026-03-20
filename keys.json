@@ -26464,5 +26464,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B8A942-50DF3E-5D62A5": {
+    "expires": "2026-03-21T12:41:52.563Z",
+    "hwid": "3938937906-a7fc2338-6acc-477a-8359-eb564c7b6bc7",
+    "browserHwid": null,
+    "username": "tikaDahal1234",
+    "userId": "3938937906",
+    "source": "script",
+    "createdAt": "2026-03-20T12:41:52.955Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.50.66.108",
+      "city": "Itahari",
+      "region": "Koshi",
+      "country": "Nepal",
+      "cc": "NP"
+    }
   }
 }
