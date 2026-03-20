@@ -22732,7 +22732,7 @@
     "userId": "10695712974",
     "source": "script",
     "createdAt": "2026-03-19T23:41:27.763Z",
-    "lastUsed": "2026-03-20T16:18:31.743Z",
+    "lastUsed": "2026-03-20T16:36:24.470Z",
     "geo": {
       "ip": "27.125.247.70",
       "city": "Mount Austin",
@@ -22741,9 +22741,9 @@
       "cc": "MY"
     },
     "lastGeo": {
-      "ip": "27.125.247.57",
-      "city": "Rantau",
-      "region": "Negeri Sembilan",
+      "ip": "27.125.247.250",
+      "city": "Bukit Jambul",
+      "region": "Penang",
       "country": "Malaysia",
       "cc": "MY"
     }
