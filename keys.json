@@ -23584,5 +23584,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-CDC989-4C27AA-1F2612": {
+    "expires": "2026-03-21T03:27:33.208Z",
+    "hwid": "6177445993-06f42782-97b4-417c-acbf-2a340e46966a",
+    "browserHwid": null,
+    "username": "grannydna66",
+    "userId": "6177445993",
+    "source": "script",
+    "createdAt": "2026-03-20T03:27:33.579Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "196.3.205.151",
+      "city": "Bridgetown",
+      "region": "Saint Michael",
+      "country": "Barbados",
+      "cc": "BB"
+    }
   }
 }
