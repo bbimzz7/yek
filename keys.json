@@ -24678,8 +24678,15 @@
     "userId": "8385956190",
     "source": "script",
     "createdAt": "2026-03-20T06:55:30.127Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T06:55:58.811Z",
     "geo": {
+      "ip": "2.135.111.46",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "2.135.111.46",
       "city": "Almaty",
       "region": "Almaty",
