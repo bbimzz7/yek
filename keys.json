@@ -26023,8 +26023,15 @@
     "userId": "2881996359",
     "source": "script",
     "createdAt": "2026-03-20T11:11:38.951Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T11:11:54.717Z",
     "geo": {
+      "ip": "125.167.119.137",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.167.119.137",
       "city": "Makassar",
       "region": "South Sulawesi",
