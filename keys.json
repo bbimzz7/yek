@@ -22988,5 +22988,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-72F4E2-43DE41-4F295A": {
+    "expires": "2026-03-21T00:55:06.022Z",
+    "hwid": "6037225105-8cae34a2-05d0-4f03-b2b4-0123b35d1fcf",
+    "browserHwid": null,
+    "username": "Huhhdhdhd0",
+    "userId": "6037225105",
+    "source": "script",
+    "createdAt": "2026-03-20T00:55:06.598Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.10.130.188",
+      "city": "San Antonio",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
