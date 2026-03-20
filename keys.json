@@ -26793,5 +26793,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DD0D04-DB167D-0B3942": {
+    "expires": "2026-03-21T13:59:00.858Z",
+    "hwid": "8440747003-33cc33a4-1ec6-424b-b015-55a2d2876129",
+    "browserHwid": null,
+    "username": "wedrixal_gg",
+    "userId": "8440747003",
+    "source": "script",
+    "createdAt": "2026-03-20T13:59:01.138Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "82.132.19.19",
+      "city": "Zagreb",
+      "region": "City of Zagreb",
+      "country": "Croatia",
+      "cc": "HR"
+    }
   }
 }
