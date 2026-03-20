@@ -26368,5 +26368,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FA50C3-E7A933-B887F5": {
+    "expires": "2026-03-21T12:22:46.521Z",
+    "hwid": "4857246342-53A7E15D-B22B-465A-A363-40EA19C6D36B",
+    "browserHwid": null,
+    "username": "Uchu_Wachu",
+    "userId": "4857246342",
+    "source": "script",
+    "createdAt": "2026-03-20T12:22:47.067Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.98.135.132",
+      "city": "Dnipro",
+      "region": "Dnipropetrovsk Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
