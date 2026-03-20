@@ -27220,5 +27220,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-47A05B-D95115-87F733": {
+    "expires": "2026-03-21T15:23:14.380Z",
+    "hwid": "10698469830-30065129-7938-4e21-9486-16f643b1e24a",
+    "browserHwid": null,
+    "username": "imjustabacon4325",
+    "userId": "10698469830",
+    "source": "script",
+    "createdAt": "2026-03-20T15:23:14.766Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.74.225.40",
+      "city": "Johor Bahru",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
