@@ -25726,5 +25726,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-B45165-24D1D7-EBFAC5": {
+    "expires": "2026-03-21T10:00:59.617Z",
+    "hwid": "8389878762-6331f5bf-c5a0-43ba-a7d3-aaaddcef32f2",
+    "browserHwid": null,
+    "username": "fan_roblox1002987",
+    "userId": "8389878762",
+    "source": "script",
+    "createdAt": "2026-03-20T10:00:59.922Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.91.209.77",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
