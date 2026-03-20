@@ -28731,5 +28731,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-0FB9C8-A87325-0D5BC9": {
+    "expires": "2026-03-21T23:18:26.323Z",
+    "hwid": "10012619248-1496FFAD-0A6A-481A-B7DA-1FD064B1B192",
+    "browserHwid": null,
+    "username": "EternallyRunes",
+    "userId": "10012619248",
+    "source": "script",
+    "createdAt": "2026-03-20T23:18:26.698Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.152.203.60",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
