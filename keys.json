@@ -22949,8 +22949,15 @@
     "userId": "9841924682",
     "source": "script",
     "createdAt": "2026-03-20T00:42:51.582Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T00:43:20.085Z",
     "geo": {
+      "ip": "201.148.113.113",
+      "city": "Ribeirão das Neves",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "201.148.113.113",
       "city": "Ribeirão das Neves",
       "region": "Minas Gerais",
