@@ -23896,5 +23896,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-03BA11-BE3C9C-3655B4": {
+    "expires": "2026-03-21T04:54:29.626Z",
+    "hwid": "7526258222-4f15efe9-9f8f-4413-9227-74c89bc69020",
+    "browserHwid": null,
+    "username": "Giantara_satya",
+    "userId": "7526258222",
+    "source": "script",
+    "createdAt": "2026-03-20T04:54:30.133Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.125.20.43",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
