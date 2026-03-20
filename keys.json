@@ -26658,8 +26658,15 @@
     "userId": "8283786070",
     "source": "script",
     "createdAt": "2026-03-20T13:28:03.188Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T13:29:02.263Z",
     "geo": {
+      "ip": "149.22.88.131",
+      "city": "Seattle",
+      "region": "Washington",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "149.22.88.131",
       "city": "Seattle",
       "region": "Washington",
