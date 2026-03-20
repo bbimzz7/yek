@@ -25990,5 +25990,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D62F63-42AEC8-B8DEBF": {
+    "expires": "2026-03-21T10:53:15.503Z",
+    "hwid": "8928462946-acd9314f-2ec2-4f23-99ec-3b267dec9d90",
+    "browserHwid": null,
+    "username": "HHCMido",
+    "userId": "8928462946",
+    "source": "script",
+    "createdAt": "2026-03-20T10:53:16.046Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.26.220.1",
+      "city": "San Juan de Aznalfarache",
+      "region": "Andalusia",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
