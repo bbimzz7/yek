@@ -24058,5 +24058,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-28D637-772DF0-056878": {
+    "expires": "2026-03-21T05:19:53.937Z",
+    "hwid": "7795908343-7b9717b9-d45c-46f4-90b6-49a7d7f69023",
+    "browserHwid": null,
+    "username": "oishi_flakes",
+    "userId": "7795908343",
+    "source": "script",
+    "createdAt": "2026-03-20T05:19:54.416Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.148.152.107",
+      "city": "Iligan",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
