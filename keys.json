@@ -24171,5 +24171,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E16B0C-D29C34-389CA1": {
+    "expires": "2026-03-21T05:33:13.286Z",
+    "hwid": "4694027594-cc35d912-0284-4d44-acbb-18162c792361",
+    "browserHwid": null,
+    "username": "jess_lovely8",
+    "userId": "4694027594",
+    "source": "script",
+    "createdAt": "2026-03-20T05:33:13.594Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "86.98.172.185",
+      "city": "Dubai",
+      "region": "Dubai",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
