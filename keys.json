@@ -25102,5 +25102,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-0A427B-F695C2-7AC77B": {
+    "expires": "2026-03-21T08:07:40.024Z",
+    "hwid": "5099854938-617700A5-E95D-4A40-A89A-9BC7A3C78556",
+    "browserHwid": null,
+    "username": "0_oDuckyy",
+    "userId": "5099854938",
+    "source": "script",
+    "createdAt": "2026-03-20T08:07:40.361Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "59.102.27.182",
+      "city": "Melbourne",
+      "region": "Victoria",
+      "country": "Australia",
+      "cc": "AU"
+    }
   }
 }
