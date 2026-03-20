@@ -28523,8 +28523,15 @@
     "userId": "10650592496",
     "source": "script",
     "createdAt": "2026-03-20T21:04:17.957Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T21:05:02.617Z",
     "geo": {
+      "ip": "182.10.161.65",
+      "city": "Cirebon",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.10.161.65",
       "city": "Cirebon",
       "region": "West Java",
