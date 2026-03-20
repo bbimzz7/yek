@@ -25951,8 +25951,15 @@
     "userId": "3668176310",
     "source": "script",
     "createdAt": "2026-03-20T10:43:19.812Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T10:43:29.562Z",
     "geo": {
+      "ip": "106.101.74.125",
+      "city": "Seongnam-si",
+      "region": "Gyeonggi-do",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "lastGeo": {
       "ip": "106.101.74.125",
       "city": "Seongnam-si",
       "region": "Gyeonggi-do",
