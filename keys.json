@@ -25159,8 +25159,15 @@
     "userId": "10086826101",
     "source": "script",
     "createdAt": "2026-03-20T08:09:30.843Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T08:09:42.576Z",
     "geo": {
+      "ip": "223.181.27.216",
+      "city": "Patna",
+      "region": "Bihar",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "223.181.27.216",
       "city": "Patna",
       "region": "Bihar",
