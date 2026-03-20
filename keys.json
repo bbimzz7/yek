@@ -28499,8 +28499,15 @@
     "userId": "10493496791",
     "source": "script",
     "createdAt": "2026-03-20T20:56:30.682Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T20:57:41.751Z",
     "geo": {
+      "ip": "131.72.89.179",
+      "city": "Jesuítas",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "131.72.89.179",
       "city": "Jesuítas",
       "region": "Paraná",
