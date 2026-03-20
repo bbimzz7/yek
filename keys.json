@@ -27752,5 +27752,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-A404CA-0E09B0-73AE8C": {
+    "expires": "2026-03-21T17:09:06.712Z",
+    "hwid": null,
+    "browserHwid": "BR-643934CA-FQPRL",
+    "username": "VH-F9381C-EC9C78-E176C7",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-20T17:09:07.155Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "207.191.166.130",
+      "city": "Rivadavia",
+      "region": "Mendoza",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
