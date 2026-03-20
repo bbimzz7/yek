@@ -23511,8 +23511,15 @@
     "userId": "9150942498",
     "source": "script",
     "createdAt": "2026-03-20T03:24:20.998Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T03:24:32.644Z",
     "geo": {
+      "ip": "112.202.119.213",
+      "city": "Biñan",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.202.119.213",
       "city": "Biñan",
       "region": "Calabarzon",
