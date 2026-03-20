@@ -24960,8 +24960,15 @@
     "userId": "3915442115",
     "source": "script",
     "createdAt": "2026-03-20T07:46:46.579Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T07:47:06.179Z",
     "geo": {
+      "ip": "2.133.40.113",
+      "city": "Petropavl",
+      "region": "North Kazakhstan",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "2.133.40.113",
       "city": "Petropavl",
       "region": "North Kazakhstan",
