@@ -23735,5 +23735,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-6715A3-1952A2-712476": {
+    "expires": "2026-03-21T04:18:17.386Z",
+    "hwid": "8425207938-f98f4ad6-4c47-4d81-a771-1519c5de43f4",
+    "browserHwid": null,
+    "username": "marvel_mbekntah",
+    "userId": "8425207938",
+    "source": "script",
+    "createdAt": "2026-03-20T04:18:18.053Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.61.5.110",
+      "city": "Meral",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
