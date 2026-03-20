@@ -24630,8 +24630,15 @@
     "userId": "5432728156",
     "source": "script",
     "createdAt": "2026-03-20T06:46:45.208Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T06:50:18.008Z",
     "geo": {
+      "ip": "180.251.168.217",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.251.168.217",
       "city": "Makassar",
       "region": "South Sulawesi",
