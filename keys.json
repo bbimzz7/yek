@@ -28202,5 +28202,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-515146-A1BFE0-82C63E": {
+    "expires": "2026-03-21T19:28:30.908Z",
+    "hwid": "9092513161-40b824ec-40db-44f3-a0e9-44946935860d",
+    "browserHwid": null,
+    "username": "XIANn6_6",
+    "userId": "9092513161",
+    "source": "script",
+    "createdAt": "2026-03-20T19:28:31.318Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.65.13",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
