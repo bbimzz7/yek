@@ -27325,8 +27325,15 @@
     "userId": "7005941968",
     "source": "script",
     "createdAt": "2026-03-20T16:00:30.876Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T16:01:57.550Z",
     "geo": {
+      "ip": "200.216.167.107",
+      "city": "Recife",
+      "region": "Pernambuco",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "200.216.167.107",
       "city": "Recife",
       "region": "Pernambuco",
