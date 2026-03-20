@@ -24621,5 +24621,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-86D48B-4BD1A6-96A9C5": {
+    "expires": "2026-03-21T06:46:44.878Z",
+    "hwid": "5432728156-ae7ec11b-92af-4ce4-a86d-9e5faa4bf36d",
+    "browserHwid": null,
+    "username": "uyshpzusoa",
+    "userId": "5432728156",
+    "source": "script",
+    "createdAt": "2026-03-20T06:46:45.208Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.251.168.217",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
