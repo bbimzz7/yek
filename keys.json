@@ -23872,5 +23872,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-75B756-18A5E2-E66B9E": {
+    "expires": "2026-03-21T04:39:00.044Z",
+    "hwid": "7449691022-3405f7f7-a9d0-4293-97da-8fa75199652b",
+    "browserHwid": null,
+    "username": "Vm4p974",
+    "userId": "7449691022",
+    "source": "script",
+    "createdAt": "2026-03-20T04:39:00.558Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.36.90.141",
+      "city": "Florence",
+      "region": "South Carolina",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
