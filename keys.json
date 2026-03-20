@@ -24813,5 +24813,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-3CF484-B26A1D-1AC164": {
+    "expires": "2026-03-21T07:11:54.381Z",
+    "hwid": "2214107996-bd7c61ab-e548-4b05-b178-4cdde2e861b3",
+    "browserHwid": null,
+    "username": "AD1T9A",
+    "userId": "2214107996",
+    "source": "script",
+    "createdAt": "2026-03-20T07:11:54.680Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.58.74",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
