@@ -27696,8 +27696,15 @@
     "userId": "10689484288",
     "source": "script",
     "createdAt": "2026-03-20T16:56:39.639Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T16:56:54.611Z",
     "geo": {
+      "ip": "86.103.48.195",
+      "city": "Schrecksbach",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "86.103.48.195",
       "city": "Schrecksbach",
       "region": "Hesse",
