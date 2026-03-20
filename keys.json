@@ -27133,8 +27133,15 @@
     "userId": "10463561110",
     "source": "script",
     "createdAt": "2026-03-20T15:00:18.021Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T15:01:28.467Z",
     "geo": {
+      "ip": "18.169.157.253",
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "18.169.157.253",
       "city": "London",
       "region": "England",
