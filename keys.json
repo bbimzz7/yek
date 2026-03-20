@@ -23166,5 +23166,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-87C93A-276953-48F7FE": {
+    "expires": "2026-03-21T01:24:40.465Z",
+    "hwid": "10672720172-97da1a15-e4bf-4b18-9d7f-d5d407bd7883",
+    "browserHwid": null,
+    "username": "JamalawAwaw_Orr",
+    "userId": "10672720172",
+    "source": "script",
+    "createdAt": "2026-03-20T01:24:41.173Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.241.222.184",
+      "city": "Batam",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
