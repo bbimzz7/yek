@@ -26721,5 +26721,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-907A8A-958E1C-130BB4": {
+    "expires": "2026-03-21T13:55:12.613Z",
+    "hwid": "4090164544-04AEB29C-3ADB-4C84-BDCF-E731E8D30587",
+    "browserHwid": null,
+    "username": "khoiphace2013",
+    "userId": "4090164544",
+    "source": "script",
+    "createdAt": "2026-03-20T13:55:13.228Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.0.23.88",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
