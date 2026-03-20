@@ -28187,8 +28187,15 @@
     "userId": "9014505033",
     "source": "script",
     "createdAt": "2026-03-20T19:24:54.639Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T19:26:22.842Z",
     "geo": {
+      "ip": "180.75.238.209",
+      "city": "Seri Kembangan",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "180.75.238.209",
       "city": "Seri Kembangan",
       "region": "Selangor",
