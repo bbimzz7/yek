@@ -23930,5 +23930,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EC37AB-C448F4-B73642": {
+    "expires": "2026-03-21T04:58:29.863Z",
+    "hwid": "1576016440-96b86273-af79-46ad-87e4-4e9a867df866",
+    "browserHwid": null,
+    "username": "sophiasanchez7",
+    "userId": "1576016440",
+    "source": "script",
+    "createdAt": "2026-03-20T04:58:30.181Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "72.183.203.66",
+      "city": "Carrollton",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
