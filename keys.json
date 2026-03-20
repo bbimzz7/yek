@@ -25702,5 +25702,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-04D831-F85E55-BB3234": {
+    "expires": "2026-03-21T09:56:29.545Z",
+    "hwid": "9402346176-b8f49213-7aed-47a1-94c0-e5019a16b4df",
+    "browserHwid": null,
+    "username": "hdhtdjhsj",
+    "userId": "9402346176",
+    "source": "script",
+    "createdAt": "2026-03-20T09:56:29.868Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.99.253.135",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
