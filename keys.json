@@ -24982,5 +24982,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-9CBC1C-A2604C-327A7A": {
+    "expires": "2026-03-21T07:50:15.241Z",
+    "hwid": "8219168100-c4e53658-4b5e-49bd-ba78-080c3b1682dc",
+    "browserHwid": null,
+    "username": "aku_sedi79",
+    "userId": "8219168100",
+    "source": "script",
+    "createdAt": "2026-03-20T07:50:15.542Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.4.90",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
