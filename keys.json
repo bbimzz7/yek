@@ -23848,5 +23848,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C623B2-D41E81-821C30": {
+    "expires": "2026-03-21T04:33:15.353Z",
+    "hwid": "3898873021-dc9e352f-3be5-4c19-918e-abb957523ce0",
+    "browserHwid": null,
+    "username": "wildanninjahitam",
+    "userId": "3898873021",
+    "source": "script",
+    "createdAt": "2026-03-20T04:33:15.635Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.62.165.137",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
