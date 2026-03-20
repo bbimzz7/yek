@@ -27381,5 +27381,22 @@
       "country": "Kenya",
       "cc": "KE"
     }
+  },
+  "VH-F0974F-2F4808-AA4181": {
+    "expires": "2026-03-21T16:06:34.441Z",
+    "hwid": "5392733334-098d5f49-8356-4506-b43e-52e6a47e9789",
+    "browserHwid": null,
+    "username": "MLBB_CEATORBES",
+    "userId": "5392733334",
+    "source": "script",
+    "createdAt": "2026-03-20T16:06:34.790Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.100.254",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
