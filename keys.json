@@ -26095,8 +26095,15 @@
     "userId": "5581284144",
     "source": "script",
     "createdAt": "2026-03-20T11:29:17.601Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T11:35:12.939Z",
     "geo": {
+      "ip": "103.111.139.230",
+      "city": "Gubengairlangga",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.111.139.230",
       "city": "Gubengairlangga",
       "region": "East Java",
