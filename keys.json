@@ -25615,8 +25615,15 @@
     "userId": "8352010491",
     "source": "script",
     "createdAt": "2026-03-20T09:38:52.153Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T09:39:09.282Z",
     "geo": {
+      "ip": "47.11.128.77",
+      "city": "Siliguri",
+      "region": "West Bengal",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "47.11.128.77",
       "city": "Siliguri",
       "region": "West Bengal",
