@@ -22925,8 +22925,15 @@
     "userId": "7812736452",
     "source": "script",
     "createdAt": "2026-03-20T00:26:09.391Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T00:26:16.786Z",
     "geo": {
+      "ip": "37.242.74.225",
+      "city": "Dammam",
+      "region": "Eastern Province",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    },
+    "lastGeo": {
       "ip": "37.242.74.225",
       "city": "Dammam",
       "region": "Eastern Province",
