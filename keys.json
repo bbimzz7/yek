@@ -23151,8 +23151,15 @@
     "userId": "9666226303",
     "source": "script",
     "createdAt": "2026-03-20T01:18:36.252Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T01:18:42.871Z",
     "geo": {
+      "ip": "112.198.138.29",
+      "city": "General Trias",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.198.138.29",
       "city": "General Trias",
       "region": "Calabarzon",
