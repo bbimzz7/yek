@@ -23487,8 +23487,15 @@
     "userId": "8257914418",
     "source": "script",
     "createdAt": "2026-03-20T03:13:49.150Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T03:13:57.151Z",
     "geo": {
+      "ip": "103.166.125.249",
+      "city": "Kabupaten Tuban",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.166.125.249",
       "city": "Kabupaten Tuban",
       "region": "East Java",
