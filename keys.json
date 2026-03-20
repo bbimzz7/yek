@@ -23543,5 +23543,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-1418FB-2230F2-B28B6B": {
+    "expires": "2026-03-21T03:25:04.672Z",
+    "hwid": null,
+    "browserHwid": "BR-4FD060A9-TNZTD",
+    "username": "https://discord.gg/fVVZWMwmKG",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-20T03:25:05.021Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.202.119.213",
+      "city": "Biñan",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
