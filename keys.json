@@ -24910,5 +24910,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-FFE429-B4B848-B2EDBF": {
+    "expires": "2026-03-21T07:33:54.570Z",
+    "hwid": "7395700353-aed6da23-d4af-4533-a8bb-1d2cff1ac043",
+    "browserHwid": null,
+    "username": "noob087933",
+    "userId": "7395700353",
+    "source": "script",
+    "createdAt": "2026-03-20T07:33:55.218Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.18.232.14",
+      "city": "Demak",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
