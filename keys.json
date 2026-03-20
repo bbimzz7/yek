@@ -25966,5 +25966,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-B74E45-B4A359-248664": {
+    "expires": "2026-03-21T10:46:15.550Z",
+    "hwid": "10680590485-24cf3a1b-7a73-4841-a312-946a611a9a55",
+    "browserHwid": null,
+    "username": "x_VkNv",
+    "userId": "10680590485",
+    "source": "script",
+    "createdAt": "2026-03-20T10:46:16.086Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.48.78",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
