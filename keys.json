@@ -24154,5 +24154,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-FB3407-3F49D9-D9249C": {
+    "expires": "2026-03-21T05:32:11.412Z",
+    "hwid": "6155264692-fab012f3-3698-4384-9460-c91f2246a0a9",
+    "browserHwid": null,
+    "username": "Zardarihd",
+    "userId": "6155264692",
+    "source": "script",
+    "createdAt": "2026-03-20T05:32:11.706Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.163.118.214",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
