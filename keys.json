@@ -23038,8 +23038,15 @@
     "userId": "10241105569",
     "source": "script",
     "createdAt": "2026-03-20T00:56:18.928Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T00:56:30.190Z",
     "geo": {
+      "ip": "27.125.251.118",
+      "city": "Buloh Kasap",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "27.125.251.118",
       "city": "Buloh Kasap",
       "region": "Johor",
