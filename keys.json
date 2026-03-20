@@ -23752,5 +23752,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2CC3AB-384869-061C9F": {
+    "expires": "2026-03-21T04:20:58.318Z",
+    "hwid": "9251577250-b6577a8e-0a9b-4fa6-88ff-15926223a99e",
+    "browserHwid": null,
+    "username": "lyliarani",
+    "userId": "9251577250",
+    "source": "script",
+    "createdAt": "2026-03-20T04:20:58.823Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.85.206.46",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
