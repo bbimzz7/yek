@@ -28099,5 +28099,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-C71547-FD33FB-9847CD": {
+    "expires": "2026-03-21T18:30:29.135Z",
+    "hwid": "8945217888-bd7fa86e-1307-4da9-ba70-1ae6017cd675",
+    "browserHwid": null,
+    "username": "Yunus_Fernando",
+    "userId": "8945217888",
+    "source": "script",
+    "createdAt": "2026-03-20T18:30:29.487Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.160.62",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
