@@ -26086,5 +26086,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-DF5364-6988E6-087D3F": {
+    "expires": "2026-03-21T11:29:17.005Z",
+    "hwid": "5581284144-e2e82c90-0041-4a3c-94a2-56e1e758ec1c",
+    "browserHwid": null,
+    "username": "JUNAEDI0101",
+    "userId": "5581284144",
+    "source": "script",
+    "createdAt": "2026-03-20T11:29:17.601Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.111.139.230",
+      "city": "Gubengairlangga",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
