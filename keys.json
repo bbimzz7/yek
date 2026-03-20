@@ -27172,5 +27172,22 @@
       "country": "Tunisia",
       "cc": "TN"
     }
+  },
+  "VH-8F90A4-70B1EB-3CB545": {
+    "expires": "2026-03-21T15:14:08.704Z",
+    "hwid": "8612535719-c2a68c64-5cbf-4fda-b91e-69cca2ea1049",
+    "browserHwid": null,
+    "username": "shxyka_1",
+    "userId": "8612535719",
+    "source": "script",
+    "createdAt": "2026-03-20T15:14:09.152Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.141.252",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
