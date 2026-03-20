@@ -25078,5 +25078,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0EE3C8-262E4D-E25C7D": {
+    "expires": "2026-03-21T08:07:18.780Z",
+    "hwid": "7504181618-84C26C61-FCB0-45FC-9617-EB5E9BAEACB7",
+    "browserHwid": null,
+    "username": "full0877",
+    "userId": "7504181618",
+    "source": "script",
+    "createdAt": "2026-03-20T08:07:19.100Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.116.238.76",
+      "city": "Daegu",
+      "region": "Daegu",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
