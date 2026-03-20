@@ -23012,5 +23012,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-79DF05-10D05B-9085E4": {
+    "expires": "2026-03-21T00:55:30.066Z",
+    "hwid": "7584207748-62485b8f-3239-4ce8-ba10-b2e7739dd8ef",
+    "browserHwid": null,
+    "username": "JiyuanMC",
+    "userId": "7584207748",
+    "source": "script",
+    "createdAt": "2026-03-20T00:55:30.366Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.254.184.162",
+      "city": "Queens",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
