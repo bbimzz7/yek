@@ -28490,5 +28490,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3F323D-B9DBEF-445631": {
+    "expires": "2026-03-21T20:56:30.308Z",
+    "hwid": "10493496791-41b26b11-c829-46b8-a53d-ac4aecaa0b45",
+    "browserHwid": null,
+    "username": "Rip_DMCpoderoso19",
+    "userId": "10493496791",
+    "source": "script",
+    "createdAt": "2026-03-20T20:56:30.682Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "131.72.89.179",
+      "city": "Jesuítas",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
