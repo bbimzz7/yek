@@ -27971,8 +27971,15 @@
     "userId": "10505773120",
     "source": "script",
     "createdAt": "2026-03-20T18:16:19.774Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T18:16:31.311Z",
     "geo": {
+      "ip": "187.84.181.75",
+      "city": "Brasília",
+      "region": "Federal District",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "187.84.181.75",
       "city": "Brasília",
       "region": "Federal District",
