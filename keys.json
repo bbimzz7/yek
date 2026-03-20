@@ -24606,8 +24606,15 @@
     "userId": "4771730297",
     "source": "script",
     "createdAt": "2026-03-20T06:44:26.722Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T06:45:15.448Z",
     "geo": {
+      "ip": "172.56.189.47",
+      "city": "Riverside",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.56.189.47",
       "city": "Riverside",
       "region": "California",
