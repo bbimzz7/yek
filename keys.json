@@ -26834,5 +26834,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-43814A-5D1C0E-7AA83E": {
+    "expires": "2026-03-21T14:08:19.484Z",
+    "hwid": "7509316828-55257b97-ece6-4fb0-b4a0-77df568f2ee9",
+    "browserHwid": null,
+    "username": "Brunopro920",
+    "userId": "7509316828",
+    "source": "script",
+    "createdAt": "2026-03-20T14:08:21.353Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.243.27.57",
+      "city": "Manaus",
+      "region": "Amazonas",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
