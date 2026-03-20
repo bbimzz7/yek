@@ -26649,5 +26649,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D10301-951033-7CBC4D": {
+    "expires": "2026-03-21T13:28:02.439Z",
+    "hwid": "8283786070-4b184aec-3669-46bc-9639-dec8eaa4e425",
+    "browserHwid": null,
+    "username": "JIMMY_MR70",
+    "userId": "8283786070",
+    "source": "script",
+    "createdAt": "2026-03-20T13:28:03.188Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "149.22.88.131",
+      "city": "Seattle",
+      "region": "Washington",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
