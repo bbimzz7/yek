@@ -28250,5 +28250,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-662702-91DB2D-0CF546": {
+    "expires": "2026-03-21T19:53:35.451Z",
+    "hwid": "9606269557-87c8ccde-cc0b-4432-b427-6de50193cbcc",
+    "browserHwid": null,
+    "username": "RusdiGRAVITASI",
+    "userId": "9606269557",
+    "source": "script",
+    "createdAt": "2026-03-20T19:53:36.030Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.176.252.18",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
