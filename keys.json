@@ -27793,5 +27793,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-135F7B-A7DD71-1C986C": {
+    "expires": "2026-03-21T17:33:42.731Z",
+    "hwid": "4145883917-e6a0bd72-90ed-4148-a4fe-8911ef1c11ce",
+    "browserHwid": null,
+    "username": "Milexqwq",
+    "userId": "4145883917",
+    "source": "script",
+    "createdAt": "2026-03-20T17:33:43.436Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.26.214.102",
+      "city": "Zaragoza",
+      "region": "Aragon",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
