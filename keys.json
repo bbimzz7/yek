@@ -26964,8 +26964,15 @@
     "userId": "6223875001",
     "source": "script",
     "createdAt": "2026-03-20T14:31:46.788Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T14:31:55.899Z",
     "geo": {
+      "ip": "211.30.176.59",
+      "city": "Brisbane",
+      "region": "Queensland",
+      "country": "Australia",
+      "cc": "AU"
+    },
+    "lastGeo": {
       "ip": "211.30.176.59",
       "city": "Brisbane",
       "region": "Queensland",
