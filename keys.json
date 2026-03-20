@@ -21646,7 +21646,7 @@
     "userId": "10656872787",
     "source": "script",
     "createdAt": "2026-03-19T19:13:38.499Z",
-    "lastUsed": "2026-03-19T19:24:42.688Z",
+    "lastUsed": "2026-03-20T03:04:47.730Z",
     "geo": {
       "ip": "140.213.29.153",
       "city": "Medan",
@@ -21655,9 +21655,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.36.195",
-      "city": "Jakarta",
-      "region": "Jakarta",
+      "ip": "114.5.146.159",
+      "city": "Medan",
+      "region": "North Sumatra",
       "country": "Indonesia",
       "cc": "ID"
     }
