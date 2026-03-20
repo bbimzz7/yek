@@ -28058,5 +28058,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-49F9FC-ED83F4-A6A1DD": {
+    "expires": "2026-03-21T18:29:43.710Z",
+    "hwid": "9595903553-cc6d6743-dd66-4675-bdad-aa2c269878aa",
+    "browserHwid": null,
+    "username": "Dzoo300",
+    "userId": "9595903553",
+    "source": "script",
+    "createdAt": "2026-03-20T18:29:44.296Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.78.124.65",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
