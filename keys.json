@@ -28130,5 +28130,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-B72924-8139F4-EE21F6": {
+    "expires": "2026-03-21T18:36:04.907Z",
+    "hwid": "4806315738-a9f3422d-0a0f-4685-bfd7-0718ca48ec34",
+    "browserHwid": null,
+    "username": "FikiyIky_05",
+    "userId": "4806315738",
+    "source": "script",
+    "createdAt": "2026-03-20T18:36:05.521Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.162.215.42",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
