@@ -23593,8 +23593,15 @@
     "userId": "6177445993",
     "source": "script",
     "createdAt": "2026-03-20T03:27:33.579Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T03:28:11.686Z",
     "geo": {
+      "ip": "196.3.205.151",
+      "city": "Bridgetown",
+      "region": "Saint Michael",
+      "country": "Barbados",
+      "cc": "BB"
+    },
+    "lastGeo": {
       "ip": "196.3.205.151",
       "city": "Bridgetown",
       "region": "Saint Michael",
