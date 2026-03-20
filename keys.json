@@ -23817,5 +23817,22 @@
       "country": "Estonia",
       "cc": "EE"
     }
+  },
+  "VH-4BEE0C-68D653-B9E012": {
+    "expires": "2026-03-21T04:29:22.888Z",
+    "hwid": "4804944126-1c453535-dc50-46c5-b54f-736589e80781",
+    "browserHwid": null,
+    "username": "Paranoid342",
+    "userId": "4804944126",
+    "source": "script",
+    "createdAt": "2026-03-20T04:29:23.168Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.193.20",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
