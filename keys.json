@@ -27778,8 +27778,15 @@
     "userId": "2729222761",
     "source": "script",
     "createdAt": "2026-03-20T17:12:24.853Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T17:19:17.416Z",
     "geo": {
+      "ip": "176.112.75.98",
+      "city": "Kroczyce",
+      "region": "Silesia",
+      "country": "Poland",
+      "cc": "PL"
+    },
+    "lastGeo": {
       "ip": "176.112.75.98",
       "city": "Kroczyce",
       "region": "Silesia",
