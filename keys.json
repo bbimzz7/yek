@@ -28706,5 +28706,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8C2CDF-76EDAC-69B3FE": {
+    "expires": "2026-03-21T23:14:30.759Z",
+    "hwid": null,
+    "browserHwid": "BR-145EA256-49R3M",
+    "username": "POV_GONO",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-20T23:14:31.302Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.255.106.242",
+      "city": "Dronten",
+      "region": "Flevoland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
