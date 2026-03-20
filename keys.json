@@ -27364,5 +27364,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-EFD282-F95F62-59039B": {
+    "expires": "2026-03-21T16:05:53.816Z",
+    "hwid": "7853941385-50bdc147-22d4-498f-bb74-96cd815d8bbb",
+    "browserHwid": null,
+    "username": "bloxyaxa",
+    "userId": "7853941385",
+    "source": "script",
+    "createdAt": "2026-03-20T16:05:54.157Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "197.237.142.66",
+      "city": "Nairobi",
+      "region": "Nairobi County",
+      "country": "Kenya",
+      "cc": "KE"
+    }
   }
 }
