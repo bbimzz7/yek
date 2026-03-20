@@ -26931,5 +26931,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-BCEC81-E8B313-CC398B": {
+    "expires": "2026-03-21T14:22:34.542Z",
+    "hwid": "6092744592-1262612a-dfcb-4fe1-89f6-dd8dc69de228",
+    "browserHwid": null,
+    "username": "Mlisaaa122",
+    "userId": "6092744592",
+    "source": "script",
+    "createdAt": "2026-03-20T14:22:35.121Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.154.199",
+      "city": "Istres",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
