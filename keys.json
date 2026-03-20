@@ -27897,5 +27897,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-4494D1-C2F2DF-3708F8": {
+    "expires": "2026-03-21T17:47:37.519Z",
+    "hwid": "10699204104-4238ef5a-c1d7-42dd-aa4c-c3901e78d8fb",
+    "browserHwid": null,
+    "username": "nubzinho729",
+    "userId": "10699204104",
+    "source": "script",
+    "createdAt": "2026-03-20T17:47:38.254Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.243.5.92",
+      "city": "Fortaleza",
+      "region": "Ceará",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
