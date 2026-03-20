@@ -26416,5 +26416,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-AEB076-F253B4-FBD609": {
+    "expires": "2026-03-21T12:27:27.957Z",
+    "hwid": "5504685590-76981419-ec48-409a-ab83-eaa3adce4ff5",
+    "browserHwid": null,
+    "username": "aizenpalooolj1",
+    "userId": "5504685590",
+    "source": "script",
+    "createdAt": "2026-03-20T12:27:28.307Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.46.124",
+      "city": "Caloocan",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
