@@ -25126,5 +25126,22 @@
       "country": "Australia",
       "cc": "AU"
     }
+  },
+  "VH-1B9361-F04485-76EAEC": {
+    "expires": "2026-03-21T08:09:02.740Z",
+    "hwid": "9978077968-e8848bf7-197b-4bbc-884f-4486bbfb9eb1",
+    "browserHwid": null,
+    "username": "Tightlyret",
+    "userId": "9978077968",
+    "source": "script",
+    "createdAt": "2026-03-20T08:09:03.107Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.96.157.29",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
