@@ -27277,8 +27277,15 @@
     "userId": "9113908792",
     "source": "script",
     "createdAt": "2026-03-20T15:29:15.792Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T15:29:21.794Z",
     "geo": {
+      "ip": "36.82.245.120",
+      "city": "Nanga Bulik",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.82.245.120",
       "city": "Nanga Bulik",
       "region": "Central Kalimantan",
