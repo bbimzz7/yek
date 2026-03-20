@@ -28370,5 +28370,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-49A443-ECF844-265E30": {
+    "expires": "2026-03-21T20:36:15.744Z",
+    "hwid": "8388872458-96677867-b4e4-4b93-979b-52b404185b35",
+    "browserHwid": null,
+    "username": "alwaysdhan_326",
+    "userId": "8388872458",
+    "source": "script",
+    "createdAt": "2026-03-20T20:36:16.334Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.118.149",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
