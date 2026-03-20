@@ -27648,8 +27648,15 @@
     "userId": "753522780",
     "source": "script",
     "createdAt": "2026-03-20T16:46:28.288Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T16:46:40.021Z",
     "geo": {
+      "ip": "103.186.168.225",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.186.168.225",
       "city": "Jakarta",
       "region": "Jakarta",
