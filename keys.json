@@ -27735,5 +27735,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-F9381C-EC9C78-E176C7": {
+    "expires": "2026-03-21T17:08:48.826Z",
+    "hwid": "9989966024-e7a7e9b2-1f8d-478f-9a03-56bed0c8a530",
+    "browserHwid": null,
+    "username": "emir46171",
+    "userId": "9989966024",
+    "source": "script",
+    "createdAt": "2026-03-20T17:08:49.501Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "207.191.166.130",
+      "city": "Rivadavia",
+      "region": "Mendoza",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
