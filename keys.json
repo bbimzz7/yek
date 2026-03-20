@@ -28682,5 +28682,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-D1E03A-FFE150-386B73": {
+    "expires": "2026-03-21T23:08:56.179Z",
+    "hwid": "10222134495-1496FFAD-0A6A-481A-B7DA-1FD064B1B192",
+    "browserHwid": null,
+    "username": "kunxayxay",
+    "userId": "10222134495",
+    "source": "script",
+    "createdAt": "2026-03-20T23:08:56.800Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.152.203.60",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
