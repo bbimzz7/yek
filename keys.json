@@ -25351,8 +25351,15 @@
     "userId": "9790673853",
     "source": "script",
     "createdAt": "2026-03-20T08:33:14.814Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T08:33:19.912Z",
     "geo": {
+      "ip": "42.112.61.100",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "42.112.61.100",
       "city": "Hanoi",
       "region": "Hanoi",
