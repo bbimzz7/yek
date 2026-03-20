@@ -25759,8 +25759,15 @@
     "userId": "9149759741",
     "source": "script",
     "createdAt": "2026-03-20T10:03:39.140Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T10:03:47.707Z",
     "geo": {
+      "ip": "157.15.118.122",
+      "city": "Dukuhturi",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.15.118.122",
       "city": "Dukuhturi",
       "region": "Central Java",
