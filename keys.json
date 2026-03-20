@@ -24356,8 +24356,15 @@
     "userId": "7308688440",
     "source": "script",
     "createdAt": "2026-03-20T06:05:02.628Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T06:08:41.696Z",
     "geo": {
+      "ip": "183.171.102.106",
+      "city": "Bangi",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "183.171.102.106",
       "city": "Bangi",
       "region": "Selangor",
