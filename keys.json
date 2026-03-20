@@ -24009,5 +24009,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-8412DE-5DEA6C-F70422": {
+    "expires": "2026-03-21T05:07:23.426Z",
+    "hwid": "8765603583-8c19389b-e8a2-4b7e-800c-e0a61f46149c",
+    "browserHwid": null,
+    "username": "DAMIA_BACK1",
+    "userId": "8765603583",
+    "source": "script",
+    "createdAt": "2026-03-20T05:07:23.963Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.62.227.158",
+      "city": "Puchong",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
