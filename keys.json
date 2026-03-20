@@ -22498,10 +22498,17 @@
     "userId": "9005991399",
     "source": "script",
     "createdAt": "2026-03-19T22:59:56.958Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T17:39:33.016Z",
     "geo": {
       "ip": "51.158.238.38",
       "city": "Haarlem",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
+      "ip": "174.138.8.118",
+      "city": "Amsterdam",
       "region": "North Holland",
       "country": "Netherlands",
       "cc": "NL"
