@@ -26329,8 +26329,15 @@
     "userId": "8623882088",
     "source": "script",
     "createdAt": "2026-03-20T12:20:14.849Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T12:21:40.510Z",
     "geo": {
+      "ip": "103.164.229.143",
+      "city": "Pecangaan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.164.229.143",
       "city": "Pecangaan",
       "region": "Central Java",
