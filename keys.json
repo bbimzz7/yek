@@ -25918,5 +25918,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5925EB-328930-B4B70C": {
+    "expires": "2026-03-21T10:35:42.833Z",
+    "hwid": "7396777923-7a259c84-63e8-43f2-9e67-a1274b7d419b",
+    "browserHwid": null,
+    "username": "BEPHNTEMOUAKK",
+    "userId": "7396777923",
+    "source": "script",
+    "createdAt": "2026-03-20T10:35:43.407Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "147.30.137.43",
+      "city": "Semey",
+      "region": "Abai Region",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
