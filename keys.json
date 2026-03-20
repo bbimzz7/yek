@@ -22819,5 +22819,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-526375-AE5FFE-30E877": {
+    "expires": "2026-03-21T00:02:18.717Z",
+    "hwid": "10063938787-00bca5bf-8f20-432e-9489-38cf26664968",
+    "browserHwid": null,
+    "username": "creitinmiojo",
+    "userId": "10063938787",
+    "source": "script",
+    "createdAt": "2026-03-20T00:02:19.178Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.193.242.185",
+      "city": "Nova Friburgo",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
