@@ -23663,5 +23663,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-48B70D-A387C2-6F4271": {
+    "expires": "2026-03-21T03:48:16.384Z",
+    "hwid": "4000606812-506de117-a693-4a17-90e4-0f0ff29a1ac7",
+    "browserHwid": null,
+    "username": "SAVAHRA1",
+    "userId": "4000606812",
+    "source": "script",
+    "createdAt": "2026-03-20T03:48:16.927Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.165.155.19",
+      "city": "Pasarkemis",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
