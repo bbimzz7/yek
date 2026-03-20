@@ -25342,5 +25342,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-3C0C42-EB0ED9-11C006": {
+    "expires": "2026-03-21T08:33:14.441Z",
+    "hwid": "9790673853-FFD348CB-B563-446D-A8D1-467B63C3B2FA",
+    "browserHwid": null,
+    "username": "zmbieman1",
+    "userId": "9790673853",
+    "source": "script",
+    "createdAt": "2026-03-20T08:33:14.814Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "42.112.61.100",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
