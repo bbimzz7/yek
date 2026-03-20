@@ -28619,8 +28619,15 @@
     "userId": "2418239109",
     "source": "script",
     "createdAt": "2026-03-20T21:59:35.073Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T21:59:39.888Z",
     "geo": {
+      "ip": "46.39.4.52",
+      "city": "Nizhnevartovsk",
+      "region": "Khanty-Mansia",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "46.39.4.52",
       "city": "Nizhnevartovsk",
       "region": "Khanty-Mansia",
