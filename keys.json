@@ -27720,8 +27720,15 @@
     "userId": "10699004616",
     "source": "script",
     "createdAt": "2026-03-20T16:58:17.499Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T17:00:50.373Z",
     "geo": {
+      "ip": "42.116.101.139",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "42.116.101.139",
       "city": "Hanoi",
       "region": "Hanoi",
