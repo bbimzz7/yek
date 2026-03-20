@@ -23776,5 +23776,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F48C1B-125E40-A185F4": {
+    "expires": "2026-03-21T04:21:35.144Z",
+    "hwid": "8279663345-e2cd6e0d-d5c7-456e-8c7d-d93080aa03d4",
+    "browserHwid": null,
+    "username": "helena062236",
+    "userId": "8279663345",
+    "source": "script",
+    "createdAt": "2026-03-20T04:21:35.470Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.44.90.98",
+      "city": "Porto Alegre",
+      "region": "Rio Grande do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
