@@ -24274,5 +24274,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0DDC35-74E950-C4A631": {
+    "expires": "2026-03-21T05:48:44.472Z",
+    "hwid": "4028132135-10FF3DD5-B9F9-4E3E-9BD3-82FF7E99F903",
+    "browserHwid": null,
+    "username": "Vil3st",
+    "userId": "4028132135",
+    "source": "script",
+    "createdAt": "2026-03-20T05:48:44.837Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "98.25.46.57",
+      "city": "Columbia",
+      "region": "South Carolina",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
