@@ -27962,5 +27962,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6003EF-17008C-2C9854": {
+    "expires": "2026-03-21T18:16:19.151Z",
+    "hwid": "10505773120-cf0bf4be-6eef-4756-b30d-27f584cef0b2",
+    "browserHwid": null,
+    "username": "kxlly3y",
+    "userId": "10505773120",
+    "source": "script",
+    "createdAt": "2026-03-20T18:16:19.774Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.84.181.75",
+      "city": "Brasília",
+      "region": "Federal District",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
