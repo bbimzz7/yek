@@ -24202,5 +24202,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-1BD40F-CDC467-178B63": {
+    "expires": "2026-03-21T05:42:40.859Z",
+    "hwid": "8198367834-956E9BA4-884C-48C0-9B23-31B6EDE11586",
+    "browserHwid": null,
+    "username": "VinzzXyyy5",
+    "userId": "8198367834",
+    "source": "script",
+    "createdAt": "2026-03-20T05:42:41.380Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.156.165.79",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
