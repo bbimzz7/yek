@@ -27157,8 +27157,15 @@
     "userId": "5624090231",
     "source": "script",
     "createdAt": "2026-03-20T15:12:14.770Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T15:12:25.830Z",
     "geo": {
+      "ip": "197.26.48.36",
+      "city": "Nabeul",
+      "region": "Nabeul Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    },
+    "lastGeo": {
       "ip": "197.26.48.36",
       "city": "Nabeul",
       "region": "Nabeul Governorate",
