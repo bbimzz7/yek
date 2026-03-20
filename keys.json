@@ -23526,5 +23526,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-11EE47-A46003-DC2450": {
+    "expires": "2026-03-21T03:24:47.112Z",
+    "hwid": "1178393897-b32b2f16-86f1-4806-aed7-5f1148f199ba",
+    "browserHwid": null,
+    "username": "sysubxd",
+    "userId": "1178393897",
+    "source": "script",
+    "createdAt": "2026-03-20T03:24:47.502Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.2.98.113",
+      "city": "Palmas",
+      "region": "Tocantins",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
