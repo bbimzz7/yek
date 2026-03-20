@@ -27663,5 +27663,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7ECC1C-80E515-938E9B": {
+    "expires": "2026-03-21T16:54:20.447Z",
+    "hwid": "10314405231-f3b62e51-832f-414b-a563-d4820e3724be",
+    "browserHwid": null,
+    "username": "gabogabo_eo2",
+    "userId": "10314405231",
+    "source": "script",
+    "createdAt": "2026-03-20T16:54:21.121Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.58.121.211",
+      "city": "Tbilisi",
+      "region": "Tbilisi",
+      "country": "Georgia",
+      "cc": "GE"
+    }
   }
 }
