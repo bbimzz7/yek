@@ -26898,7 +26898,7 @@
     "userId": "8807117826",
     "source": "script",
     "createdAt": "2026-03-20T14:15:02.805Z",
-    "lastUsed": "2026-03-20T14:15:14.621Z",
+    "lastUsed": "2026-03-20T18:58:03.819Z",
     "geo": {
       "ip": "110.136.89.98",
       "city": "Ciamis",
@@ -26907,9 +26907,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "110.136.89.98",
-      "city": "Ciamis",
-      "region": "West Java",
+      "ip": "36.79.119.178",
+      "city": "Surabaya",
+      "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
     }
