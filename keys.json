@@ -27421,8 +27421,15 @@
     "userId": "4363808145",
     "source": "script",
     "createdAt": "2026-03-20T16:13:24.799Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T16:13:29.044Z",
     "geo": {
+      "ip": "178.208.238.83",
+      "city": "Surgut",
+      "region": "Khanty-Mansia",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "178.208.238.83",
       "city": "Surgut",
       "region": "Khanty-Mansia",
