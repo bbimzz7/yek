@@ -22843,5 +22843,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-3BCB68-A87FD3-6859A4": {
+    "expires": "2026-03-21T00:05:57.473Z",
+    "hwid": "8420978255-2f56af68-5544-4236-8552-b8efbd646ee6",
+    "browserHwid": null,
+    "username": "alfin_anjuada",
+    "userId": "8420978255",
+    "source": "script",
+    "createdAt": "2026-03-20T00:05:57.785Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.65.225.117",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
