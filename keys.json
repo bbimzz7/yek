@@ -24364,5 +24364,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-C1E669-0B86E7-525F8E": {
+    "expires": "2026-03-21T06:05:48.488Z",
+    "hwid": null,
+    "browserHwid": "BR-6FCCC98F-KXX3R",
+    "username": "Theforge-6701",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-20T06:05:48.845Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.225.151",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
