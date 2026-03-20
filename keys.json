@@ -26274,14 +26274,22 @@
   },
   "VH-02DAE2-E990D9-946116": {
     "expires": "2026-03-21T12:13:28.797Z",
-    "hwid": null,
+    "hwid": "7575252217-06ed74b3-2bd3-451c-b7c0-0dbaff6d0c40",
     "browserHwid": "BR-5BD100C8-SMDZL",
     "username": "TUYUL_ASUUUUUUY0",
-    "userId": null,
+    "userId": "7575252217",
     "source": "browser",
     "createdAt": "2026-03-20T12:13:29.354Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T12:14:46.792Z",
     "geo": {
+      "ip": "103.155.168.54",
+      "city": "Karawang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-20T12:14:46.769Z",
+    "lastGeo": {
       "ip": "103.155.168.54",
       "city": "Karawang",
       "region": "West Java",
