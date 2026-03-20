@@ -23310,5 +23310,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F52A62-82001A-4A7A74": {
+    "expires": "2026-03-21T02:04:36.559Z",
+    "hwid": "10295207533-ca222d78-d9cf-44bf-a41b-f02d5dddcaa8",
+    "browserHwid": null,
+    "username": "okwd73wakc80",
+    "userId": "10295207533",
+    "source": "script",
+    "createdAt": "2026-03-20T02:04:36.848Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "184.22.222.101",
+      "city": "Nakhon Ratchasima",
+      "region": "Nakhon Ratchasima",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
