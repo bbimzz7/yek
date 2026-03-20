@@ -27068,5 +27068,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-998CBB-23FFA0-F3FC70": {
+    "expires": "2026-03-21T14:54:50.788Z",
+    "hwid": "10261681437-b29576d0-461c-45db-98b8-e69b956cb654",
+    "browserHwid": null,
+    "username": "baconbaik838",
+    "userId": "10261681437",
+    "source": "script",
+    "createdAt": "2026-03-20T14:54:51.200Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.3.182",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
