@@ -26062,5 +26062,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2AA12A-0D18C1-352EA0": {
+    "expires": "2026-03-21T11:24:22.500Z",
+    "hwid": "10118735468-3a64fcf9-d285-47b8-906b-edf0a3c40f53",
+    "browserHwid": null,
+    "username": "c0olkidd_meen",
+    "userId": "10118735468",
+    "source": "script",
+    "createdAt": "2026-03-20T11:24:23.035Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.137.116.53",
+      "city": "Zaporizhzhya",
+      "region": "Zaporizhzhya Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
