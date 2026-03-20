@@ -26182,5 +26182,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-E7BCBC-4B8E90-E8FD15": {
+    "expires": "2026-03-21T11:50:46.279Z",
+    "hwid": "10695269605-b837f598-c09d-4de5-b0df-7b59e3d19f7a",
+    "browserHwid": null,
+    "username": "bigmuy223",
+    "userId": "10695269605",
+    "source": "script",
+    "createdAt": "2026-03-20T11:50:46.981Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.65.229.92",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
