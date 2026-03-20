@@ -22894,14 +22894,22 @@
   },
   "VH-6AAF9C-EC3CF1-FC8588": {
     "expires": "2026-03-21T00:23:39.572Z",
-    "hwid": null,
+    "hwid": "8382932266-e0b30995-bcab-4bd9-8610-b35452b57d2f",
     "browserHwid": "BR-5EFB060B-2UZHS",
-    "username": "Violet195687",
-    "userId": null,
+    "username": "violet195687",
+    "userId": "8382932266",
     "source": "browser",
     "createdAt": "2026-03-20T00:23:40.104Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T00:24:12.874Z",
     "geo": {
+      "ip": "74.244.72.250",
+      "city": "Anchorage",
+      "region": "Alaska",
+      "country": "United States",
+      "cc": "US"
+    },
+    "boundAt": "2026-03-20T00:24:12.865Z",
+    "lastGeo": {
       "ip": "74.244.72.250",
       "city": "Anchorage",
       "region": "Alaska",
