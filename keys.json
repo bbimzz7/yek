@@ -28643,8 +28643,15 @@
     "userId": "10357717847",
     "source": "script",
     "createdAt": "2026-03-20T22:36:34.775Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-20T22:36:43.403Z",
     "geo": {
+      "ip": "179.53.107.22",
+      "city": "Santo Domingo",
+      "region": "Nacional",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    },
+    "lastGeo": {
       "ip": "179.53.107.22",
       "city": "Santo Domingo",
       "region": "Nacional",
