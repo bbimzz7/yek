@@ -22964,5 +22964,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-4B8258-E89F10-2E242C": {
+    "expires": "2026-03-21T00:45:21.319Z",
+    "hwid": "10331840357-dc44b4ad-ed2d-4377-bcd4-b532316550ca",
+    "browserHwid": null,
+    "username": "Depii_starrFezz",
+    "userId": "10331840357",
+    "source": "script",
+    "createdAt": "2026-03-20T00:45:21.859Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.157.62.23",
+      "city": "Pangandaran",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
