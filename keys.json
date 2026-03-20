@@ -27316,5 +27316,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C97549-F8F16F-3AA461": {
+    "expires": "2026-03-21T16:00:29.975Z",
+    "hwid": "7005941968-f6a137c7-2150-4c99-995f-907d5f987e0f",
+    "browserHwid": null,
+    "username": "DAVI127I91",
+    "userId": "7005941968",
+    "source": "script",
+    "createdAt": "2026-03-20T16:00:30.876Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "200.216.167.107",
+      "city": "Recife",
+      "region": "Pernambuco",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
