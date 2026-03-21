@@ -31128,8 +31128,15 @@
     "userId": "8570595542",
     "source": "script",
     "createdAt": "2026-03-21T12:38:44.471Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T12:38:53.336Z",
     "geo": {
+      "ip": "86.96.66.28",
+      "city": "Ras al-Khaimah",
+      "region": "Emirate of Ras Al Khaimah",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    },
+    "lastGeo": {
       "ip": "86.96.66.28",
       "city": "Ras al-Khaimah",
       "region": "Emirate of Ras Al Khaimah",
