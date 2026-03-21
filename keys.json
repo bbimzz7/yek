@@ -29525,7 +29525,7 @@
     "userId": "7389581619",
     "source": "script",
     "createdAt": "2026-03-21T05:01:58.128Z",
-    "lastUsed": "2026-03-21T20:51:18.514Z",
+    "lastUsed": "2026-03-21T21:06:55.168Z",
     "geo": {
       "ip": "114.123.33.254",
       "city": "Central Jakarta",
@@ -29534,8 +29534,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.182.109",
-      "city": "Banjarmasin",
+      "ip": "114.123.39.23",
+      "city": "Tanjung",
       "region": "South Kalimantan",
       "country": "Indonesia",
       "cc": "ID"
