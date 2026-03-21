@@ -30453,5 +30453,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-E126C4-FDB615-AF11A7": {
+    "expires": "2026-03-22T10:08:06.783Z",
+    "hwid": null,
+    "browserHwid": "BR-3B65367E-EJUTU",
+    "username": "xwanncihuy",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-21T10:08:07.628Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.222.213",
+      "city": "Sungguminasa",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
