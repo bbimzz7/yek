@@ -31385,8 +31385,15 @@
     "userId": "8791433571",
     "source": "script",
     "createdAt": "2026-03-21T13:27:59.310Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T13:29:06.081Z",
     "geo": {
+      "ip": "162.255.199.23",
+      "city": "Taraz",
+      "region": "Zhambyl Oblysy",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "162.255.199.23",
       "city": "Taraz",
       "region": "Zhambyl Oblysy",
