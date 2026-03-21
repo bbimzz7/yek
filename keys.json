@@ -31481,8 +31481,15 @@
     "userId": "1510912484",
     "source": "script",
     "createdAt": "2026-03-21T13:35:56.748Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T13:37:33.150Z",
     "geo": {
+      "ip": "45.224.206.241",
+      "city": "Salvador",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.224.206.241",
       "city": "Salvador",
       "region": "Bahia",
