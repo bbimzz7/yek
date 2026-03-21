@@ -32605,5 +32605,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-66C0DD-D82C0A-AA6BD2": {
+    "expires": "2026-03-22T18:17:05.928Z",
+    "hwid": "7626650765-84a3ffcd-cf42-429b-92c2-fef598f202a6",
+    "browserHwid": null,
+    "username": "GLpareja17",
+    "userId": "7626650765",
+    "source": "script",
+    "createdAt": "2026-03-21T18:17:06.543Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.203.204.162",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
