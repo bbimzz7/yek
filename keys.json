@@ -33045,5 +33045,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-AB4C0F-DEEC55-B7D8F6": {
+    "expires": "2026-03-22T23:08:10.464Z",
+    "hwid": "9320744349-18339a42-2760-4ad8-877e-92bbf087257d",
+    "browserHwid": null,
+    "username": "DesySyg",
+    "userId": "9320744349",
+    "source": "script",
+    "createdAt": "2026-03-21T23:08:11.063Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.123.39.23",
+      "city": "Tanjung",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
