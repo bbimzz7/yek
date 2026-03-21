@@ -30030,8 +30030,15 @@
     "userId": "7676898378",
     "source": "script",
     "createdAt": "2026-03-21T09:00:00.678Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T09:00:10.950Z",
     "geo": {
+      "ip": "146.70.246.166",
+      "city": "Bucharest",
+      "region": "București",
+      "country": "Romania",
+      "cc": "RO"
+    },
+    "lastGeo": {
       "ip": "146.70.246.166",
       "city": "Bucharest",
       "region": "București",
