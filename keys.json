@@ -30222,9 +30222,16 @@
     "userId": "4631577132",
     "source": "script",
     "createdAt": "2026-03-21T09:19:04.251Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T09:19:12.077Z",
     "geo": {
       "ip": "172.225.245.102",
+      "city": "Auckland",
+      "region": "Auckland",
+      "country": "New Zealand",
+      "cc": "NZ"
+    },
+    "lastGeo": {
+      "ip": "49.224.215.98",
       "city": "Auckland",
       "region": "Auckland",
       "country": "New Zealand",
