@@ -32275,5 +32275,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-241345-BAE119-421E73": {
+    "expires": "2026-03-22T15:58:16.316Z",
+    "hwid": "8651877642-6a90e9ec-4333-4c11-8fa2-2c7fcf5669df",
+    "browserHwid": null,
+    "username": "Guliw_Whitee",
+    "userId": "8651877642",
+    "source": "script",
+    "createdAt": "2026-03-21T15:58:16.968Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.104.69.206",
+      "city": "Tbilisi",
+      "region": "Tbilisi",
+      "country": "Georgia",
+      "cc": "GE"
+    }
   }
 }
