@@ -31224,8 +31224,15 @@
     "userId": "1134539983",
     "source": "script",
     "createdAt": "2026-03-21T12:48:19.786Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T12:48:26.182Z",
     "geo": {
+      "ip": "114.10.152.129",
+      "city": "Melati",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.152.129",
       "city": "Melati",
       "region": "Yogyakarta",
