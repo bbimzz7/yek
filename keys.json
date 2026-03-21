@@ -31215,5 +31215,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D770F4-317095-9BA0B0": {
+    "expires": "2026-03-22T12:48:19.473Z",
+    "hwid": "1134539983-E6902972-CC39-48F4-97B7-31CEA7C2D148",
+    "browserHwid": null,
+    "username": "xcybernesia",
+    "userId": "1134539983",
+    "source": "script",
+    "createdAt": "2026-03-21T12:48:19.786Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.152.129",
+      "city": "Melati",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
