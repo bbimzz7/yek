@@ -29100,8 +29100,15 @@
     "userId": "800333603",
     "source": "script",
     "createdAt": "2026-03-21T02:24:00.306Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T02:24:20.000Z",
     "geo": {
+      "ip": "36.77.25.133",
+      "city": "Ciamis",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.77.25.133",
       "city": "Ciamis",
       "region": "West Java",
