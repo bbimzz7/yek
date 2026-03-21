@@ -30165,5 +30165,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-443465-2F8112-E79C35": {
+    "expires": "2026-03-22T09:12:16.044Z",
+    "hwid": "7395700353-aed6da23-d4af-4533-a8bb-1d2cff1ac043",
+    "browserHwid": null,
+    "username": "noob087933",
+    "userId": "7395700353",
+    "source": "script",
+    "createdAt": "2026-03-21T09:12:16.569Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.18.232.14",
+      "city": "Demak",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
