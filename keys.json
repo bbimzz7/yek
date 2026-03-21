@@ -24709,7 +24709,7 @@
     "userId": "10275169932",
     "source": "script",
     "createdAt": "2026-03-20T06:56:12.814Z",
-    "lastUsed": "2026-03-20T06:57:40.134Z",
+    "lastUsed": "2026-03-21T01:38:32.066Z",
     "geo": {
       "ip": "103.194.175.64",
       "city": "Sempu",
@@ -24718,8 +24718,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.194.175.64",
-      "city": "Sempu",
+      "ip": "36.74.209.210",
+      "city": "Jember",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
