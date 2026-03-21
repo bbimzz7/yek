@@ -31753,5 +31753,22 @@
       "country": "Kenya",
       "cc": "KE"
     }
+  },
+  "VH-425DE2-BD47D3-885C01": {
+    "expires": "2026-03-22T14:22:30.834Z",
+    "hwid": "7205509101-74C79B82-6309-4DFB-82BB-C332AA5AE016",
+    "browserHwid": null,
+    "username": "hapid1105",
+    "userId": "7205509101",
+    "source": "script",
+    "createdAt": "2026-03-21T14:22:31.317Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.129.27.96",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
