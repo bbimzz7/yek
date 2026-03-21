@@ -31119,5 +31119,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2297FA-6D7918-9DC215": {
+    "expires": "2026-03-22T12:38:44.102Z",
+    "hwid": "8570595542-c8c8c261-df20-40de-8936-009d57e4a658",
+    "browserHwid": null,
+    "username": "salimu777ix",
+    "userId": "8570595542",
+    "source": "script",
+    "createdAt": "2026-03-21T12:38:44.471Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "86.96.66.28",
+      "city": "Ras al-Khaimah",
+      "region": "Emirate of Ras Al Khaimah",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
