@@ -32910,8 +32910,15 @@
     "userId": "3685901893",
     "source": "script",
     "createdAt": "2026-03-21T21:53:21.493Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T21:53:28.228Z",
     "geo": {
+      "ip": "95.91.212.155",
+      "city": "Berlin",
+      "region": "State of Berlin",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "95.91.212.155",
       "city": "Berlin",
       "region": "State of Berlin",
