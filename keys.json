@@ -29711,14 +29711,22 @@
   },
   "VH-CAF7C5-3C9F26-F45B2B": {
     "expires": "2026-03-22T06:03:18.900Z",
-    "hwid": null,
+    "hwid": "4982784734-54286854-D58C-4F7A-BD7E-BFB16E2A0847",
     "browserHwid": "BR-668E339D-TF8SZ",
-    "username": "Biel_seupai",
-    "userId": null,
+    "username": "biel_seupai",
+    "userId": "4982784734",
     "source": "browser",
     "createdAt": "2026-03-21T06:03:19.502Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T06:03:26.855Z",
     "geo": {
+      "ip": "179.0.116.123",
+      "city": "Rio de Janeiro",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "boundAt": "2026-03-21T06:03:26.848Z",
+    "lastGeo": {
       "ip": "179.0.116.123",
       "city": "Rio de Janeiro",
       "region": "Rio de Janeiro",
