@@ -29163,5 +29163,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-CA8873-9EF62C-6C3944": {
+    "expires": "2026-03-22T02:27:55.638Z",
+    "hwid": "8043668165-8a2a5d82-193c-4ebd-a6b0-ce38efef39aa",
+    "browserHwid": null,
+    "username": "gueroveliquin",
+    "userId": "8043668165",
+    "source": "script",
+    "createdAt": "2026-03-21T02:27:55.946Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.230.140.105",
+      "city": "Torreón",
+      "region": "Coahuila",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
