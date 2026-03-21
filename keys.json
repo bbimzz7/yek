@@ -30951,5 +30951,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-26E702-7B43F2-6F418F": {
+    "expires": "2026-03-22T12:04:22.400Z",
+    "hwid": "10641160358-e89c31e3-2d1d-4b76-846e-094cb39e396b",
+    "browserHwid": null,
+    "username": "bocilanomalis",
+    "userId": "10641160358",
+    "source": "script",
+    "createdAt": "2026-03-21T12:04:22.959Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.111.100.184",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
