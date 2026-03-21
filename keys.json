@@ -29934,8 +29934,15 @@
     "userId": "2243961582",
     "source": "script",
     "createdAt": "2026-03-21T08:13:12.805Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T08:13:21.131Z",
     "geo": {
+      "ip": "103.141.20.146",
+      "city": "Dukuhsia",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.141.20.146",
       "city": "Dukuhsia",
       "region": "East Java",
