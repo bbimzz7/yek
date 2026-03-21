@@ -29021,8 +29021,15 @@
     "userId": "9325106191",
     "source": "script",
     "createdAt": "2026-03-21T01:43:57.418Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T01:44:12.618Z",
     "geo": {
+      "ip": "118.175.126.201",
+      "city": "Hat Yai",
+      "region": "Songkhla",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "118.175.126.201",
       "city": "Hat Yai",
       "region": "Songkhla",
