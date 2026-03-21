@@ -30984,8 +30984,15 @@
     "userId": "8722163854",
     "source": "script",
     "createdAt": "2026-03-21T12:06:06.022Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T12:06:11.122Z",
     "geo": {
+      "ip": "185.230.125.222",
+      "city": "Stockholm",
+      "region": "Stockholm County",
+      "country": "Sweden",
+      "cc": "SE"
+    },
+    "lastGeo": {
       "ip": "185.230.125.222",
       "city": "Stockholm",
       "region": "Stockholm County",
