@@ -29549,8 +29549,15 @@
     "userId": "6169945835",
     "source": "script",
     "createdAt": "2026-03-21T05:02:10.734Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T05:02:16.338Z",
     "geo": {
+      "ip": "45.224.49.158",
+      "city": "Jaraguá",
+      "region": "Goiás",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.224.49.158",
       "city": "Jaraguá",
       "region": "Goiás",
