@@ -30206,5 +30206,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-2DED0B-BE2571-7C9E04": {
+    "expires": "2026-03-22T09:19:03.677Z",
+    "hwid": "4631577132-2e5a8890-09ea-42b8-8462-4e59f178b19d",
+    "browserHwid": null,
+    "username": "Rangitiaria123",
+    "userId": "4631577132",
+    "source": "script",
+    "createdAt": "2026-03-21T09:19:04.251Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.225.245.102",
+      "city": "Auckland",
+      "region": "Auckland",
+      "country": "New Zealand",
+      "cc": "NZ"
+    }
   }
 }
