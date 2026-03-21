@@ -29244,8 +29244,15 @@
     "userId": "4696897669",
     "source": "script",
     "createdAt": "2026-03-21T03:13:21.225Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T03:13:29.400Z",
     "geo": {
+      "ip": "86.124.122.29",
+      "city": "Oradea",
+      "region": "Bihor County",
+      "country": "Romania",
+      "cc": "RO"
+    },
+    "lastGeo": {
       "ip": "86.124.122.29",
       "city": "Oradea",
       "region": "Bihor County",
