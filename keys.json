@@ -28899,5 +28899,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-4272F8-BB321E-B43F62": {
+    "expires": "2026-03-22T00:25:57.424Z",
+    "hwid": "3668176310-aeb6cf0a-3c75-4550-83f8-bdf359c8878c",
+    "browserHwid": null,
+    "username": "kr_ryomifan",
+    "userId": "3668176310",
+    "source": "script",
+    "createdAt": "2026-03-21T00:25:57.973Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "106.101.74.125",
+      "city": "Seongnam-si",
+      "region": "Gyeonggi-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
