@@ -33069,5 +33069,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F01FD7-DEB870-DA1A00": {
+    "expires": "2026-03-22T23:13:48.161Z",
+    "hwid": "7073500539-5CCF570C-4A45-4B49-BA14-EE60B041EEE2",
+    "browserHwid": null,
+    "username": "luca04197",
+    "userId": "7073500539",
+    "source": "script",
+    "createdAt": "2026-03-21T23:13:48.845Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.7.214.245",
+      "city": "Belo Horizonte",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
