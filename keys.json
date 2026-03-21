@@ -31849,5 +31849,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-1E5887-2CFB91-A983D6": {
+    "expires": "2026-03-22T14:32:04.900Z",
+    "hwid": "1484006466-ddb062b8-47ac-45dc-aabf-d660475e48ec",
+    "browserHwid": null,
+    "username": "maluta333",
+    "userId": "1484006466",
+    "source": "script",
+    "createdAt": "2026-03-21T14:32:05.319Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "109.95.201.121",
+      "city": "Tychy",
+      "region": "Silesia",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
