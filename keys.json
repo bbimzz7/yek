@@ -31986,5 +31986,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-899B3C-4C0B0E-2F78F5": {
+    "expires": "2026-03-22T15:13:52.481Z",
+    "hwid": "9005991399-5d9829ea-bda2-459e-a7be-56e1afc0c4bd",
+    "browserHwid": null,
+    "username": "Melisa27590",
+    "userId": "9005991399",
+    "source": "script",
+    "createdAt": "2026-03-21T15:13:52.870Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "57.129.47.130",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
