@@ -33030,8 +33030,15 @@
     "userId": "10650630131",
     "source": "script",
     "createdAt": "2026-03-21T23:03:41.259Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T23:03:47.136Z",
     "geo": {
+      "ip": "86.99.200.14",
+      "city": "Ajman",
+      "region": "Ajman",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    },
+    "lastGeo": {
       "ip": "86.99.200.14",
       "city": "Ajman",
       "region": "Ajman",
