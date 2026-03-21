@@ -29492,5 +29492,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-929736-C627E0-58F03D": {
+    "expires": "2026-03-22T04:54:45.200Z",
+    "hwid": "8920073898-584c6ee8-535f-4f24-87ac-6216dfde1e36",
+    "browserHwid": null,
+    "username": "no_namewak",
+    "userId": "8920073898",
+    "source": "script",
+    "createdAt": "2026-03-21T04:54:45.554Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.249.153.180",
+      "city": "Sentani",
+      "region": "Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
