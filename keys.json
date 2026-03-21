@@ -32805,5 +32805,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-1B1739-280EFA-05D2D3": {
+    "expires": "2026-03-22T20:34:38.160Z",
+    "hwid": "10611486116-c03add4a-477d-41f4-99f2-abcdb27a01ed",
+    "browserHwid": null,
+    "username": "TukangCilok080",
+    "userId": "10611486116",
+    "source": "script",
+    "createdAt": "2026-03-21T20:34:38.746Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.248.199.39",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
