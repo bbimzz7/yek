@@ -30862,5 +30862,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-62BF80-223197-183977": {
+    "expires": "2026-03-22T11:48:15.238Z",
+    "hwid": "8499901548-d907a3c7-60d3-4b02-9b1a-6062c16cd9d3",
+    "browserHwid": null,
+    "username": "Ella125219",
+    "userId": "8499901548",
+    "source": "script",
+    "createdAt": "2026-03-21T11:48:15.857Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.176.76.248",
+      "city": "Iloilo City",
+      "region": "Western Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
