@@ -32901,5 +32901,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-9FDD06-403299-82900F": {
+    "expires": "2026-03-22T21:53:20.883Z",
+    "hwid": "3685901893-A5B827F1-C0DA-4794-80B2-89F2B7799419",
+    "browserHwid": null,
+    "username": "Marogant1234",
+    "userId": "3685901893",
+    "source": "script",
+    "createdAt": "2026-03-21T21:53:21.493Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.91.212.155",
+      "city": "Berlin",
+      "region": "State of Berlin",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
