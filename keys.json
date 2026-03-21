@@ -31496,5 +31496,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-B21DF0-F4DF6F-EF0DEB": {
+    "expires": "2026-03-22T13:42:38.468Z",
+    "hwid": "10349882216-0183f050-86ea-4c42-a5ad-dfc74f50170c",
+    "browserHwid": null,
+    "username": "fluffy_cotonCLOUD",
+    "userId": "10349882216",
+    "source": "script",
+    "createdAt": "2026-03-21T13:42:39.104Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.191.40.227",
+      "city": "Tarlac City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
