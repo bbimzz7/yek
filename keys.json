@@ -30526,5 +30526,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-201D27-B4B694-5D0DC4": {
+    "expires": "2026-03-22T10:28:01.466Z",
+    "hwid": "9814861971-7c991bf3-bc3f-43f6-b428-8f7e21c9841a",
+    "browserHwid": null,
+    "username": "ToxicWisp9880",
+    "userId": "9814861971",
+    "source": "script",
+    "createdAt": "2026-03-21T10:28:02.128Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.230.123.109",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
