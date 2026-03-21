@@ -29757,5 +29757,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-91547A-0869BF-F36CA7": {
+    "expires": "2026-03-22T06:46:57.757Z",
+    "hwid": "10301152212-545447a0-99c0-43e1-b37f-aa420f566615",
+    "browserHwid": null,
+    "username": "NillyGIGI",
+    "userId": "10301152212",
+    "source": "script",
+    "createdAt": "2026-03-21T06:46:58.390Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.223.56.138",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
