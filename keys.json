@@ -30261,5 +30261,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-7CB34D-001C3A-544254": {
+    "expires": "2026-03-22T09:30:45.704Z",
+    "hwid": "10629249750-AE2D385D-B73A-4B91-9D88-169ECEFAD257",
+    "browserHwid": null,
+    "username": "VxRajl7",
+    "userId": "10629249750",
+    "source": "script",
+    "createdAt": "2026-03-21T09:30:46.304Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "217.253.205.216",
+      "city": "Salzgitter",
+      "region": "Lower Saxony",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
