@@ -32501,7 +32501,7 @@
     "userId": "7788329478",
     "source": "script",
     "createdAt": "2026-03-21T17:28:19.659Z",
-    "lastUsed": "2026-03-21T17:28:29.386Z",
+    "lastUsed": "2026-03-21T19:31:19.741Z",
     "geo": {
       "ip": "180.243.242.44",
       "city": "Tasikmalaya",
@@ -32510,9 +32510,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "180.243.242.44",
-      "city": "Tasikmalaya",
-      "region": "West Java",
+      "ip": "180.252.120.73",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
