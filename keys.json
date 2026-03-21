@@ -30927,5 +30927,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-5F7650-532CC2-A2467E": {
+    "expires": "2026-03-22T11:54:53.538Z",
+    "hwid": "10702378525-1efda63f-3f9b-43df-83c4-ee1bc42f5ddb",
+    "browserHwid": null,
+    "username": "itz_w1you",
+    "userId": "10702378525",
+    "source": "script",
+    "createdAt": "2026-03-21T11:54:53.866Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.42.242.85",
+      "city": "Pavlodar",
+      "region": "Pavlodar Region",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
