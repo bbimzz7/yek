@@ -33078,8 +33078,15 @@
     "userId": "7073500539",
     "source": "script",
     "createdAt": "2026-03-21T23:13:48.845Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T23:14:02.849Z",
     "geo": {
+      "ip": "45.7.214.245",
+      "city": "Belo Horizonte",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.7.214.245",
       "city": "Belo Horizonte",
       "region": "Minas Gerais",
