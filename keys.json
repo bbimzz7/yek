@@ -31618,8 +31618,15 @@
     "userId": "7733938277",
     "source": "script",
     "createdAt": "2026-03-21T13:54:29.134Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T14:01:30.833Z",
     "geo": {
+      "ip": "131.100.39.20",
+      "city": "Port of Spain",
+      "region": "Port of Spain",
+      "country": "Trinidad and Tobago",
+      "cc": "TT"
+    },
+    "lastGeo": {
       "ip": "131.100.39.20",
       "city": "Port of Spain",
       "region": "Port of Spain",
