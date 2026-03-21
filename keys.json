@@ -32684,5 +32684,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-4767EE-1B1818-AD4AF4": {
+    "expires": "2026-03-22T18:46:17.649Z",
+    "hwid": "5355124092-7de3e532-8fb7-416f-8773-5d6f4798c9d8",
+    "browserHwid": null,
+    "username": "oy5q70ret",
+    "userId": "5355124092",
+    "source": "script",
+    "createdAt": "2026-03-21T18:46:18.285Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.82.25.234",
+      "city": "Castelo Branco",
+      "region": "Castelo Branco",
+      "country": "Portugal",
+      "cc": "PT"
+    }
   }
 }
