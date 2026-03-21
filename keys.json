@@ -30318,8 +30318,15 @@
     "userId": "6056796133",
     "source": "script",
     "createdAt": "2026-03-21T09:38:42.698Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T09:38:48.604Z",
     "geo": {
+      "ip": "182.253.58.68",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.253.58.68",
       "city": "Jakarta",
       "region": "Jakarta",
