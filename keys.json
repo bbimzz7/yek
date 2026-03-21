@@ -31544,5 +31544,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-CC5430-B60280-40F632": {
+    "expires": "2026-03-22T13:47:32.209Z",
+    "hwid": "4688355919-a9bfe447-44f7-419d-a57e-6d9f87ae6407",
+    "browserHwid": null,
+    "username": "dtbdroxz",
+    "userId": "4688355919",
+    "source": "script",
+    "createdAt": "2026-03-21T13:47:32.634Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.59.106.229",
+      "city": "Milwaukee",
+      "region": "Wisconsin",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
