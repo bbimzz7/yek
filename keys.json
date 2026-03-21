@@ -31344,8 +31344,15 @@
     "userId": "9524974306",
     "source": "script",
     "createdAt": "2026-03-21T13:25:44.519Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T13:27:19.281Z",
     "geo": {
+      "ip": "177.130.28.25",
+      "city": "Água Boa",
+      "region": "Mato Grosso",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.130.28.25",
       "city": "Água Boa",
       "region": "Mato Grosso",
