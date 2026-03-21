@@ -28875,5 +28875,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-46AC39-E55B2D-D36AB9": {
+    "expires": "2026-03-22T00:20:04.911Z",
+    "hwid": "3901637277-5215235A-25A6-4FE1-A2BA-D33A58501517",
+    "browserHwid": null,
+    "username": "jajegejwjeb",
+    "userId": "3901637277",
+    "source": "script",
+    "createdAt": "2026-03-21T00:20:05.585Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.196.35.124",
+      "city": "Tunuyán",
+      "region": "Mendoza",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
