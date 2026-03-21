@@ -32066,5 +32066,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-BE3947-F4DD9D-80B08F": {
+    "expires": "2026-03-22T15:31:37.670Z",
+    "hwid": "9483099882-7d71a704-0d1e-47a6-ac35-dd401bbed67f",
+    "browserHwid": null,
+    "username": "fkhriogg",
+    "userId": "9483099882",
+    "source": "script",
+    "createdAt": "2026-03-21T15:31:38.052Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.157.48.22",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
