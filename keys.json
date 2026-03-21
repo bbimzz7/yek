@@ -29388,8 +29388,15 @@
     "userId": "5554609959",
     "source": "script",
     "createdAt": "2026-03-21T04:13:33.534Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T04:13:47.028Z",
     "geo": {
+      "ip": "60.90.131.44",
+      "city": "Minato-ku",
+      "region": "Tokyo",
+      "country": "Japan",
+      "cc": "JP"
+    },
+    "lastGeo": {
       "ip": "60.90.131.44",
       "city": "Minato-ku",
       "region": "Tokyo",
