@@ -27476,7 +27476,7 @@
     "userId": "8586710084",
     "source": "script",
     "createdAt": "2026-03-20T16:19:43.024Z",
-    "lastUsed": "2026-03-20T17:55:35.786Z",
+    "lastUsed": "2026-03-21T02:55:56.027Z",
     "geo": {
       "ip": "182.8.228.171",
       "city": "Yogyakarta",
@@ -27485,9 +27485,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "182.8.228.171",
-      "city": "Yogyakarta",
-      "region": "Yogyakarta",
+      "ip": "114.10.20.63",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
