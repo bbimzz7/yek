@@ -29403,5 +29403,22 @@
       "country": "Japan",
       "cc": "JP"
     }
+  },
+  "VH-0BB0FB-1FAA95-C35B88": {
+    "expires": "2026-03-22T04:21:19.903Z",
+    "hwid": "10628453799-c109c89a-cc7f-47eb-ab8e-621677734a28",
+    "browserHwid": null,
+    "username": "angelyt77891",
+    "userId": "10628453799",
+    "source": "script",
+    "createdAt": "2026-03-21T04:21:20.485Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.92.71.140",
+      "city": "Carmona",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
