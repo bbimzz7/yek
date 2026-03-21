@@ -31969,5 +31969,22 @@
       "country": "Chile",
       "cc": "CL"
     }
+  },
+  "VH-A73649-BE5165-C982AC": {
+    "expires": "2026-03-22T15:13:47.943Z",
+    "hwid": null,
+    "browserHwid": "BR-38BC105C-E7QNT",
+    "username": "ALAN2707077",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-21T15:13:48.634Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.38.25",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
