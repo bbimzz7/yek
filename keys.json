@@ -30888,8 +30888,15 @@
     "userId": "7027149030",
     "source": "script",
     "createdAt": "2026-03-21T11:52:32.735Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T11:52:44.334Z",
     "geo": {
+      "ip": "175.158.241.221",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "175.158.241.221",
       "city": "Cebu City",
       "region": "Central Visayas",
