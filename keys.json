@@ -33054,8 +33054,15 @@
     "userId": "9320744349",
     "source": "script",
     "createdAt": "2026-03-21T23:08:11.063Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T23:08:25.029Z",
     "geo": {
+      "ip": "114.123.39.23",
+      "city": "Tanjung",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.123.39.23",
       "city": "Tanjung",
       "region": "South Kalimantan",
