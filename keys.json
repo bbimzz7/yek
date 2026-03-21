@@ -28803,5 +28803,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-787C72-C4FF2C-F35DEC": {
+    "expires": "2026-03-22T00:00:44.765Z",
+    "hwid": "5023475429-CFC02260-46C6-409E-81A9-BFB41199B29F",
+    "browserHwid": null,
+    "username": "Rip_shark5422",
+    "userId": "5023475429",
+    "source": "script",
+    "createdAt": "2026-03-21T00:00:45.471Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.115.171.157",
+      "city": "Saint-Marc",
+      "region": "Artibonite",
+      "country": "Haiti",
+      "cc": "HT"
+    }
   }
 }
