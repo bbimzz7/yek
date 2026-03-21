@@ -29283,5 +29283,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-ABA9B2-21FF85-2CD97E": {
+    "expires": "2026-03-22T03:34:30.809Z",
+    "hwid": "10653429659-c1073ef9-4051-40af-93b8-d2ca8f35fb34",
+    "browserHwid": null,
+    "username": "Brodyyyyy27",
+    "userId": "10653429659",
+    "source": "script",
+    "createdAt": "2026-03-21T03:34:31.167Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.1.236.209",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
