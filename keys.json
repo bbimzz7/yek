@@ -29733,5 +29733,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-9E9ACE-CC84AD-549FBB": {
+    "expires": "2026-03-22T06:11:39.274Z",
+    "hwid": "8287462709-c2829bcc-12fc-44a3-aec0-2903d012ebb2",
+    "browserHwid": null,
+    "username": "Jasmine_917392",
+    "userId": "8287462709",
+    "source": "script",
+    "createdAt": "2026-03-21T06:11:39.818Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.115.2",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
