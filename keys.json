@@ -32925,5 +32925,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-AF2FA2-B3E4CB-49BD0F": {
+    "expires": "2026-03-22T22:04:36.372Z",
+    "hwid": "10557222774-859e31b7-955a-4735-a185-0d2570c4b219",
+    "browserHwid": null,
+    "username": "its_luci557",
+    "userId": "10557222774",
+    "source": "script",
+    "createdAt": "2026-03-21T22:04:36.987Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.35.62.141",
+      "city": "Cincinnati",
+      "region": "Ohio",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
