@@ -29139,5 +29139,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-53D8CD-38B3E9-B98937": {
+    "expires": "2026-03-22T02:27:46.724Z",
+    "hwid": "4589295663-818b0389-c269-4e12-9904-45d9ae7372e3",
+    "browserHwid": null,
+    "username": "TueuseLegend",
+    "userId": "4589295663",
+    "source": "script",
+    "createdAt": "2026-03-21T02:27:47.072Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.12.163.30",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    }
   }
 }
