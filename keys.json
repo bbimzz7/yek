@@ -31352,5 +31352,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-298655-2E7EC1-496EA4": {
+    "expires": "2026-03-22T13:26:01.054Z",
+    "hwid": "10703417754-a3f3114c-581e-4833-9568-d67f1d95ea55",
+    "browserHwid": null,
+    "username": "B901097",
+    "userId": "10703417754",
+    "source": "script",
+    "createdAt": "2026-03-21T13:26:01.371Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.154.172.89",
+      "city": "Teresina",
+      "region": "Piauí",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
