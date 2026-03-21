@@ -32042,5 +32042,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-FE5EB2-24B745-485B35": {
+    "expires": "2026-03-22T15:30:48.071Z",
+    "hwid": "5502597831-0ef35884-ed9a-4b06-8008-ff1b42347a19",
+    "browserHwid": null,
+    "username": "Zed776699",
+    "userId": "5502597831",
+    "source": "script",
+    "createdAt": "2026-03-21T15:30:51.491Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "169.224.100.100",
+      "city": "Najaf",
+      "region": "An Najaf",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
