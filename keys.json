@@ -28860,8 +28860,15 @@
     "userId": "9148716775",
     "source": "script",
     "createdAt": "2026-03-21T00:12:26.674Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T00:16:41.068Z",
     "geo": {
+      "ip": "192.135.210.12",
+      "city": "Purwakarta",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "192.135.210.12",
       "city": "Purwakarta",
       "region": "West Java",
