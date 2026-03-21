@@ -31071,5 +31071,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-F7548E-379E8B-A79A3F": {
+    "expires": "2026-03-22T12:31:37.970Z",
+    "hwid": "5485759914-ae81a907-f483-49d9-abf7-1ddb73050c03",
+    "browserHwid": null,
+    "username": "nayaka591",
+    "userId": "5485759914",
+    "source": "script",
+    "createdAt": "2026-03-21T12:31:38.577Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.12.13",
+      "city": "Jatiluhur",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
