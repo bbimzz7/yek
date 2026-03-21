@@ -32444,5 +32444,22 @@
       "country": "Australia",
       "cc": "AU"
     }
+  },
+  "VH-A9AB23-027D2A-744CFD": {
+    "expires": "2026-03-22T17:08:20.032Z",
+    "hwid": "10118735468-3a64fcf9-d285-47b8-906b-edf0a3c40f53",
+    "browserHwid": null,
+    "username": "c0olkidd_meen",
+    "userId": "10118735468",
+    "source": "script",
+    "createdAt": "2026-03-21T17:08:20.726Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.137.206.138",
+      "city": "Kyiv",
+      "region": "Kyiv City",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
