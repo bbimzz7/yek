@@ -31167,5 +31167,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-8AA161-7B37F8-BD70AA": {
+    "expires": "2026-03-22T12:45:24.348Z",
+    "hwid": "3009276700-0266164B-8954-4396-BB0D-4935FC99B3A5",
+    "browserHwid": null,
+    "username": "gordo_experienciYT",
+    "userId": "3009276700",
+    "source": "script",
+    "createdAt": "2026-03-21T12:45:24.691Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.11.5.114",
+      "city": "Drammen",
+      "region": "Buskerud",
+      "country": "Norway",
+      "cc": "NO"
+    }
   }
 }
