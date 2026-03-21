@@ -30126,10 +30126,17 @@
     "userId": "3416236285",
     "source": "script",
     "createdAt": "2026-03-21T09:04:30.082Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T09:04:34.804Z",
     "geo": {
       "ip": "36.81.232.110",
       "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "36.81.224.169",
+      "city": "Bogor",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
