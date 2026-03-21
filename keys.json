@@ -29781,5 +29781,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-57CF65-61C47B-C276D2": {
+    "expires": "2026-03-22T06:49:15.620Z",
+    "hwid": "9294351254-8DF6B1D9-5507-4099-9BEE-D872E3A4AB01",
+    "browserHwid": null,
+    "username": "mardiols0",
+    "userId": "9294351254",
+    "source": "script",
+    "createdAt": "2026-03-21T06:49:16.035Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.248.13.182",
+      "city": "Kediri",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
