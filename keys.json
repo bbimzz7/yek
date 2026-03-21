@@ -31448,5 +31448,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-050BD6-14A580-72A418": {
+    "expires": "2026-03-22T13:34:55.236Z",
+    "hwid": "9322579523-b255548f-82c0-4d18-be27-5f8cc30dd8c4",
+    "browserHwid": null,
+    "username": "mirahchanzzzz",
+    "userId": "9322579523",
+    "source": "script",
+    "createdAt": "2026-03-21T13:34:55.540Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.244.1",
+      "city": "Pagoh",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
