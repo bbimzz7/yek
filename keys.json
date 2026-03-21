@@ -31729,5 +31729,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-8EC709-1418AD-D65355": {
+    "expires": "2026-03-22T14:17:18.279Z",
+    "hwid": "9627168305-100ce0f2-d9ce-4040-b437-1ec39d4fa183",
+    "browserHwid": null,
+    "username": "llxilliefan3007",
+    "userId": "9627168305",
+    "source": "script",
+    "createdAt": "2026-03-21T14:17:18.896Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.217.4.34",
+      "city": "Nairobi",
+      "region": "Nairobi County",
+      "country": "Kenya",
+      "cc": "KE"
+    }
   }
 }
