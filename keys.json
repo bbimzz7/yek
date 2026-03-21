@@ -31690,8 +31690,15 @@
     "userId": "4641730727",
     "source": "script",
     "createdAt": "2026-03-21T14:07:03.313Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T14:07:13.176Z",
     "geo": {
+      "ip": "78.213.180.150",
+      "city": "Milano",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "lastGeo": {
       "ip": "78.213.180.150",
       "city": "Milano",
       "region": "Lombardy",
