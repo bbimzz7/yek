@@ -32357,8 +32357,15 @@
     "userId": "10297623640",
     "source": "script",
     "createdAt": "2026-03-21T16:32:59.170Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T16:33:12.159Z",
     "geo": {
+      "ip": "177.240.102.253",
+      "city": "Puebla City",
+      "region": "Puebla",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "177.240.102.253",
       "city": "Puebla City",
       "region": "Puebla",
