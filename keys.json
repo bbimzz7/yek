@@ -31738,8 +31738,15 @@
     "userId": "9627168305",
     "source": "script",
     "createdAt": "2026-03-21T14:17:18.896Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T14:18:58.714Z",
     "geo": {
+      "ip": "102.217.4.34",
+      "city": "Nairobi",
+      "region": "Nairobi County",
+      "country": "Kenya",
+      "cc": "KE"
+    },
+    "lastGeo": {
       "ip": "102.217.4.34",
       "city": "Nairobi",
       "region": "Nairobi County",
