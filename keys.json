@@ -32853,5 +32853,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9B6E5A-B159FD-4C3571": {
+    "expires": "2026-03-22T21:09:42.460Z",
+    "hwid": "10576232313-ffb9974c-e227-49dd-a41f-9a4ee2553875",
+    "browserHwid": null,
+    "username": "Pwrinzxy",
+    "userId": "10576232313",
+    "source": "script",
+    "createdAt": "2026-03-21T21:09:43.039Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.208.189.203",
+      "city": "Heilbronn",
+      "region": "Baden-Wurttemberg",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
