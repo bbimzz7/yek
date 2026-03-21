@@ -29564,5 +29564,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-A5A1D1-0A3472-A9BB83": {
+    "expires": "2026-03-22T05:08:15.779Z",
+    "hwid": "10701146577-92a78b95-e900-4247-9f2b-d18ac29de06c",
+    "browserHwid": null,
+    "username": "Vfdsnipjsfvldnij7",
+    "userId": "10701146577",
+    "source": "script",
+    "createdAt": "2026-03-21T05:08:16.420Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "35.147.55.11",
+      "city": "San Antonio",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
