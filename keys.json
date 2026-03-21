@@ -32018,5 +32018,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-F8AE3B-68982B-B91546": {
+    "expires": "2026-03-22T15:30:34.561Z",
+    "hwid": "3255484373-e1607791-fa6d-4bf6-9300-1678a14eb50e",
+    "browserHwid": null,
+    "username": "Veniel1122",
+    "userId": "3255484373",
+    "source": "script",
+    "createdAt": "2026-03-21T15:30:35.136Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.94.5.130",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
