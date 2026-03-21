@@ -29331,5 +29331,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-438576-66C47A-8E125A": {
+    "expires": "2026-03-22T03:53:20.269Z",
+    "hwid": "3901637277-39d77918-7d0f-4810-990a-00199f3905aa",
+    "browserHwid": null,
+    "username": "jajegejwjeb",
+    "userId": "3901637277",
+    "source": "script",
+    "createdAt": "2026-03-21T03:53:20.819Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.196.35.124",
+      "city": "Tunuyán",
+      "region": "Mendoza",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
