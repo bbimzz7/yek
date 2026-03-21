@@ -31873,5 +31873,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-7418B3-238C6D-2FFA95": {
+    "expires": "2026-03-22T14:50:48.602Z",
+    "hwid": "3508016986-a33d5293-47e7-4792-8322-ba8a6f73e19f",
+    "browserHwid": null,
+    "username": "itz_uwmoon",
+    "userId": "3508016986",
+    "source": "script",
+    "createdAt": "2026-03-21T14:50:49.267Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.131.95.156",
+      "city": "Campinas",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
