@@ -31705,5 +31705,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-798879-DEAFF7-ABB3BE": {
+    "expires": "2026-03-22T14:13:22.114Z",
+    "hwid": "10158503650-107aa7cd-d2db-40c6-864a-0c030b7210c4",
+    "browserHwid": null,
+    "username": "ayham444k",
+    "userId": "10158503650",
+    "source": "script",
+    "createdAt": "2026-03-21T14:13:22.738Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.70.202.36",
+      "city": "East Hazel Crest",
+      "region": "Illinois",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
