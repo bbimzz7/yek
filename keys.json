@@ -29501,8 +29501,15 @@
     "userId": "8920073898",
     "source": "script",
     "createdAt": "2026-03-21T04:54:45.554Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T04:56:17.525Z",
     "geo": {
+      "ip": "180.249.153.180",
+      "city": "Sentani",
+      "region": "Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.249.153.180",
       "city": "Sentani",
       "region": "Papua",
