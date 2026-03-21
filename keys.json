@@ -31858,8 +31858,15 @@
     "userId": "1484006466",
     "source": "script",
     "createdAt": "2026-03-21T14:32:05.319Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T14:32:51.788Z",
     "geo": {
+      "ip": "109.95.201.121",
+      "city": "Tychy",
+      "region": "Silesia",
+      "country": "Poland",
+      "cc": "PL"
+    },
+    "lastGeo": {
       "ip": "109.95.201.121",
       "city": "Tychy",
       "region": "Silesia",
