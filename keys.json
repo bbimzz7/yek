@@ -30390,7 +30390,7 @@
     "userId": "5442360729",
     "source": "script",
     "createdAt": "2026-03-21T09:50:13.423Z",
-    "lastUsed": "2026-03-21T09:54:28.865Z",
+    "lastUsed": "2026-03-21T14:10:33.584Z",
     "geo": {
       "ip": "79.110.55.14",
       "city": "Toseong",
@@ -30399,11 +30399,11 @@
       "cc": "KR"
     },
     "lastGeo": {
-      "ip": "79.110.55.14",
-      "city": "Toseong",
-      "region": "Gangwon-do",
-      "country": "South Korea",
-      "cc": "KR"
+      "ip": "212.104.214.184",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
     }
   },
   "VH-88BFC3-575CC2-625DEA": {
