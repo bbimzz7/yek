@@ -28923,5 +28923,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-38FBB5-C68AC1-5BFC63": {
+    "expires": "2026-03-22T00:36:29.559Z",
+    "hwid": "5424758841-1ab4278e-4063-407c-bea2-7497e1ac724c",
+    "browserHwid": null,
+    "username": "craft5f",
+    "userId": "5424758841",
+    "source": "script",
+    "createdAt": "2026-03-21T00:36:30.102Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.171.186.10",
+      "city": "São Bernardo do Campo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
