@@ -32372,5 +32372,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-8B9BC8-DEB487-080E1F": {
+    "expires": "2026-03-22T16:41:24.268Z",
+    "hwid": "9536586030-a15570a4-d276-4130-b717-32596dd37f9a",
+    "browserHwid": null,
+    "username": "supermin070",
+    "userId": "9536586030",
+    "source": "script",
+    "createdAt": "2026-03-21T16:41:24.990Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.211.139.132",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
