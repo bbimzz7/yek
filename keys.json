@@ -32732,5 +32732,22 @@
       "country": "Austria",
       "cc": "AT"
     }
+  },
+  "VH-4B6550-E60085-BED090": {
+    "expires": "2026-03-22T20:00:12.593Z",
+    "hwid": null,
+    "browserHwid": "BR-22945E01-3DA6U",
+    "username": "Ririn22851",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-21T20:00:13.309Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.78.123.183",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
