@@ -29853,5 +29853,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6A98C7-1F4BF9-FC7157": {
+    "expires": "2026-03-22T07:41:30.198Z",
+    "hwid": "8632513649-b25f83e2-9b86-48be-b15a-d52d07ba2ee3",
+    "browserHwid": null,
+    "username": "beanstalk_mushro0m",
+    "userId": "8632513649",
+    "source": "script",
+    "createdAt": "2026-03-21T07:41:30.724Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.211.160.129",
+      "city": "Duri",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
