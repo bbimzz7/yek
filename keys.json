@@ -29925,5 +29925,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2EB12F-7F8C94-AD5813": {
+    "expires": "2026-03-22T08:13:12.229Z",
+    "hwid": "2243961582-7e3d8819-f6e9-471f-a853-3a68b1803af8",
+    "browserHwid": null,
+    "username": "Mr_RShadow",
+    "userId": "2243961582",
+    "source": "script",
+    "createdAt": "2026-03-21T08:13:12.805Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.141.20.146",
+      "city": "Dukuhsia",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
