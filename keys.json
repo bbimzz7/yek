@@ -32717,8 +32717,15 @@
     "userId": "3787417083",
     "source": "script",
     "createdAt": "2026-03-21T18:50:32.262Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T18:50:37.938Z",
     "geo": {
+      "ip": "213.225.4.45",
+      "city": "Vienna",
+      "region": "Vienna",
+      "country": "Austria",
+      "cc": "AT"
+    },
+    "lastGeo": {
       "ip": "213.225.4.45",
       "city": "Vienna",
       "region": "Vienna",
