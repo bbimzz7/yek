@@ -30559,10 +30559,17 @@
     "userId": "10701890047",
     "source": "script",
     "createdAt": "2026-03-21T10:37:30.175Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T10:37:52.846Z",
     "geo": {
       "ip": "120.28.137.205",
       "city": "Caloocan",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "126.209.74.213",
+      "city": "Manila",
       "region": "Metro Manila",
       "country": "Philippines",
       "cc": "PH"
