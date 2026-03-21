@@ -32557,5 +32557,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3C2E09-5A5284-63172F": {
+    "expires": "2026-03-22T17:48:34.433Z",
+    "hwid": "1839363302-02de2597-bff1-436e-97c0-aedda04214e0",
+    "browserHwid": null,
+    "username": "retrodla123",
+    "userId": "1839363302",
+    "source": "script",
+    "createdAt": "2026-03-21T17:48:35.308Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.137.149.216",
+      "city": "Dnipro",
+      "region": "Dnipropetrovsk Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
