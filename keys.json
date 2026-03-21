@@ -30502,5 +30502,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-F3CDA3-8C3912-428ECC": {
+    "expires": "2026-03-22T10:21:49.097Z",
+    "hwid": "8410972199-91a8189c-73e8-4470-ad34-d9885df5446e",
+    "browserHwid": null,
+    "username": "GengPelariHandal",
+    "userId": "8410972199",
+    "source": "script",
+    "createdAt": "2026-03-21T10:21:49.705Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.50.92.149",
+      "city": "Sukamulya",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
