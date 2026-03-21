@@ -30390,8 +30390,15 @@
     "userId": "5442360729",
     "source": "script",
     "createdAt": "2026-03-21T09:50:13.423Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T09:50:24.288Z",
     "geo": {
+      "ip": "79.110.55.14",
+      "city": "Toseong",
+      "region": "Gangwon-do",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "lastGeo": {
       "ip": "79.110.55.14",
       "city": "Toseong",
       "region": "Gangwon-do",
