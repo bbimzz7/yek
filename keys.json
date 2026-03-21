@@ -31176,8 +31176,15 @@
     "userId": "3009276700",
     "source": "script",
     "createdAt": "2026-03-21T12:45:24.691Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T12:45:31.334Z",
     "geo": {
+      "ip": "176.11.5.114",
+      "city": "Drammen",
+      "region": "Buskerud",
+      "country": "Norway",
+      "cc": "NO"
+    },
+    "lastGeo": {
       "ip": "176.11.5.114",
       "city": "Drammen",
       "region": "Buskerud",
