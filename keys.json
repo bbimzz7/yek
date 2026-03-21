@@ -32420,5 +32420,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-A853E4-2F5F93-5D8954": {
+    "expires": "2026-03-22T16:51:30.701Z",
+    "hwid": "10622550501-5cbec996-7d28-4ac4-9eab-f43374d78340",
+    "browserHwid": null,
+    "username": "Amirah_111673",
+    "userId": "10622550501",
+    "source": "script",
+    "createdAt": "2026-03-21T16:51:31.355Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.12.214.91",
+      "city": "Yarrawonga",
+      "region": "Victoria",
+      "country": "Australia",
+      "cc": "AU"
+    }
   }
 }
