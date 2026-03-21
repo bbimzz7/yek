@@ -30831,5 +30831,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-9F2B29-C31AB4-BBCC72": {
+    "expires": "2026-03-22T11:34:42.387Z",
+    "hwid": "10680590485-24cf3a1b-7a73-4841-a312-946a611a9a55",
+    "browserHwid": null,
+    "username": "x_VkNv",
+    "userId": "10680590485",
+    "source": "script",
+    "createdAt": "2026-03-21T11:34:42.668Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.48.78",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
