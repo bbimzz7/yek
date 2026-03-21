@@ -32735,19 +32735,27 @@
   },
   "VH-4B6550-E60085-BED090": {
     "expires": "2026-03-22T20:00:12.593Z",
-    "hwid": null,
+    "hwid": "9312986086-dfb96275-d00b-4a20-9740-e6f9a40b4dc2",
     "browserHwid": "BR-22945E01-3DA6U",
     "username": "Ririn22851",
-    "userId": null,
+    "userId": "9312986086",
     "source": "browser",
     "createdAt": "2026-03-21T20:00:13.309Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T20:00:53.002Z",
     "geo": {
       "ip": "203.78.123.183",
       "city": "Surabaya",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "boundAt": "2026-03-21T20:00:52.974Z",
+    "lastGeo": {
+      "ip": "164.52.98.196",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
     }
   }
 }
