@@ -31008,8 +31008,15 @@
     "userId": "8634579651",
     "source": "script",
     "createdAt": "2026-03-21T12:10:35.827Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T12:10:47.279Z",
     "geo": {
+      "ip": "113.210.90.222",
+      "city": "Kudat",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "113.210.90.222",
       "city": "Kudat",
       "region": "Sabah",
