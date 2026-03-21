@@ -29355,5 +29355,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-3C7E2E-9CE886-653DDF": {
+    "expires": "2026-03-22T04:07:18.642Z",
+    "hwid": "9471540025-2da03aac-b117-4c35-b363-b48ef39ea195",
+    "browserHwid": null,
+    "username": "Hyuse44",
+    "userId": "9471540025",
+    "source": "script",
+    "createdAt": "2026-03-21T04:07:19.196Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.146.162",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
