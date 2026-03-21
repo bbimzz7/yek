@@ -32629,5 +32629,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-B3FA23-D84216-880188": {
+    "expires": "2026-03-22T18:28:17.348Z",
+    "hwid": "9550147866-4bd55248-c380-4b4b-8402-4550ee8c1f0c",
+    "browserHwid": null,
+    "username": "nabiltxd2",
+    "userId": "9550147866",
+    "source": "script",
+    "createdAt": "2026-03-21T18:28:17.995Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "210.79.141.202",
+      "city": "Margahayukencana",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
