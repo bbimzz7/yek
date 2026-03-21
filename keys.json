@@ -32653,5 +32653,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F9B2DF-98A1CA-148BE3": {
+    "expires": "2026-03-22T18:31:42.689Z",
+    "hwid": "4242055942-8845CB5D-5CE2-4828-9404-CB054503690F",
+    "browserHwid": null,
+    "username": "sirskeettt",
+    "userId": "4242055942",
+    "source": "script",
+    "createdAt": "2026-03-21T18:31:43.124Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.88.145",
+      "city": "Phoenix",
+      "region": "Arizona",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
