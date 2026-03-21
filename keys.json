@@ -30359,8 +30359,15 @@
     "userId": "9861236390",
     "source": "script",
     "createdAt": "2026-03-21T09:42:57.039Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T09:44:11.181Z",
     "geo": {
+      "ip": "183.89.208.239",
+      "city": "Nakhon Ratchasima",
+      "region": "Nakhon Ratchasima",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "183.89.208.239",
       "city": "Nakhon Ratchasima",
       "region": "Nakhon Ratchasima",
