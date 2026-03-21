@@ -30703,8 +30703,15 @@
     "userId": "7363012874",
     "source": "script",
     "createdAt": "2026-03-21T11:09:46.682Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T11:10:41.762Z",
     "geo": {
+      "ip": "180.247.60.40",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.247.60.40",
       "city": "Palu",
       "region": "Central Sulawesi",
