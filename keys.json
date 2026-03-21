@@ -32949,5 +32949,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-B324FA-B2501F-4E940E": {
+    "expires": "2026-03-22T22:31:46.870Z",
+    "hwid": "7082196994-2cb856aa-d9c7-4ed4-b28e-24f24e34e041",
+    "browserHwid": null,
+    "username": "YEIKE332",
+    "userId": "7082196994",
+    "source": "script",
+    "createdAt": "2026-03-21T22:31:47.449Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.230.16.26",
+      "city": "Callao",
+      "region": "Provincia Constitucional del Callao",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
