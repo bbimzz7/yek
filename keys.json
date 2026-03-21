@@ -29211,5 +29211,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-813C6B-C1A33C-ABFAC4": {
+    "expires": "2026-03-22T02:55:17.180Z",
+    "hwid": "8054157790-1efa1fe1-8a0b-449a-9899-dec98ddf80ea",
+    "browserHwid": null,
+    "username": "Afz_linda29",
+    "userId": "8054157790",
+    "source": "script",
+    "createdAt": "2026-03-21T02:55:17.723Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.141.47.171",
+      "city": "Loakulu",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
