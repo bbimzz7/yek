@@ -31023,5 +31023,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-FE8705-E38FED-CC655C": {
+    "expires": "2026-03-22T12:15:25.831Z",
+    "hwid": "3332091245-23fad435-34ac-4eab-a6ac-cd2ecbb2aec7",
+    "browserHwid": null,
+    "username": "BocilGkNgotak",
+    "userId": "3332091245",
+    "source": "script",
+    "createdAt": "2026-03-21T12:15:26.223Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.106.13.106",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
