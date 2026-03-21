@@ -30775,8 +30775,15 @@
     "userId": "10568791237",
     "source": "script",
     "createdAt": "2026-03-21T11:27:16.013Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T11:27:24.524Z",
     "geo": {
+      "ip": "103.153.83.19",
+      "city": "Jagong",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.153.83.19",
       "city": "Jagong",
       "region": "Central Java",
