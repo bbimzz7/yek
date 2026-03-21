@@ -32485,5 +32485,22 @@
       "country": "Finland",
       "cc": "FI"
     }
+  },
+  "VH-B387D5-F2C2B2-06A871": {
+    "expires": "2026-03-22T17:28:19.068Z",
+    "hwid": "7788329478-7614e45e-0e26-4b58-b5f9-63aa538c0642",
+    "browserHwid": null,
+    "username": "rensseii",
+    "userId": "7788329478",
+    "source": "script",
+    "createdAt": "2026-03-21T17:28:19.659Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.243.242.44",
+      "city": "Tasikmalaya",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
