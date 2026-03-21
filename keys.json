@@ -32693,8 +32693,15 @@
     "userId": "5355124092",
     "source": "script",
     "createdAt": "2026-03-21T18:46:18.285Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T18:46:50.358Z",
     "geo": {
+      "ip": "2.82.25.234",
+      "city": "Castelo Branco",
+      "region": "Castelo Branco",
+      "country": "Portugal",
+      "cc": "PT"
+    },
+    "lastGeo": {
       "ip": "2.82.25.234",
       "city": "Castelo Branco",
       "region": "Castelo Branco",
