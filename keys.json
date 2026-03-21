@@ -32051,8 +32051,15 @@
     "userId": "5502597831",
     "source": "script",
     "createdAt": "2026-03-21T15:30:51.491Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T15:31:01.467Z",
     "geo": {
+      "ip": "169.224.100.100",
+      "city": "Najaf",
+      "region": "An Najaf",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "169.224.100.100",
       "city": "Najaf",
       "region": "An Najaf",
