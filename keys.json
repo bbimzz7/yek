@@ -32164,8 +32164,15 @@
     "userId": "8480395209",
     "source": "script",
     "createdAt": "2026-03-21T15:42:06.441Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T15:42:13.989Z",
     "geo": {
+      "ip": "95.77.198.80",
+      "city": "Focşani",
+      "region": "Vrancea",
+      "country": "Romania",
+      "cc": "RO"
+    },
+    "lastGeo": {
       "ip": "95.77.198.80",
       "city": "Focşani",
       "region": "Vrancea",
