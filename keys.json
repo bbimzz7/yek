@@ -30487,8 +30487,15 @@
     "userId": "7171516909",
     "source": "script",
     "createdAt": "2026-03-21T10:14:02.806Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T10:15:19.690Z",
     "geo": {
+      "ip": "194.124.250.4",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "194.124.250.4",
       "city": "Amsterdam",
       "region": "North Holland",
