@@ -32227,5 +32227,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-BBB48C-09BAA7-F66012": {
+    "expires": "2026-03-22T15:49:56.249Z",
+    "hwid": "1178393897-f27e25b5-43cc-48de-bb68-ff2eb4ea0b86",
+    "browserHwid": null,
+    "username": "sysubxd",
+    "userId": "1178393897",
+    "source": "script",
+    "createdAt": "2026-03-21T15:49:56.643Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.2.98.113",
+      "city": "Palmas",
+      "region": "Tocantins",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
