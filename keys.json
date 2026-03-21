@@ -31248,8 +31248,15 @@
     "userId": "10670215738",
     "source": "script",
     "createdAt": "2026-03-21T13:14:59.121Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T13:15:11.849Z",
     "geo": {
+      "ip": "108.181.59.53",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "108.181.59.53",
       "city": "Amsterdam",
       "region": "North Holland",
