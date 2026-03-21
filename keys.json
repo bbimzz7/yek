@@ -31553,8 +31553,15 @@
     "userId": "4688355919",
     "source": "script",
     "createdAt": "2026-03-21T13:47:32.634Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T13:48:18.038Z",
     "geo": {
+      "ip": "172.59.106.229",
+      "city": "Milwaukee",
+      "region": "Wisconsin",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.59.106.229",
       "city": "Milwaukee",
       "region": "Wisconsin",
