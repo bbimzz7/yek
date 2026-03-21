@@ -31328,5 +31328,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6078FF-428A15-CA8862": {
+    "expires": "2026-03-22T13:25:44.207Z",
+    "hwid": "9524974306-c6bf0272-f8d1-4ac8-affe-a4670f0405b7",
+    "browserHwid": null,
+    "username": "ethrfrrttrt",
+    "userId": "9524974306",
+    "source": "script",
+    "createdAt": "2026-03-21T13:25:44.519Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.130.28.25",
+      "city": "Água Boa",
+      "region": "Mato Grosso",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
