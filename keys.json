@@ -29436,8 +29436,15 @@
     "userId": "10696944469",
     "source": "script",
     "createdAt": "2026-03-21T04:35:55.220Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T04:37:36.200Z",
     "geo": {
+      "ip": "213.230.92.65",
+      "city": "Samarkand",
+      "region": "Samarqand Region",
+      "country": "Uzbekistan",
+      "cc": "UZ"
+    },
+    "lastGeo": {
       "ip": "213.230.92.65",
       "city": "Samarkand",
       "region": "Samarqand Region",
