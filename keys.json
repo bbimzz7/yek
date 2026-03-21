@@ -30021,5 +30021,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-731000-D94EB2-CA3C76": {
+    "expires": "2026-03-22T09:00:00.094Z",
+    "hwid": "7676898378-C790CD14-3D1A-4F0A-8398-1076BBD848F3",
+    "browserHwid": null,
+    "username": "MyRobloxBio",
+    "userId": "7676898378",
+    "source": "script",
+    "createdAt": "2026-03-21T09:00:00.678Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.70.246.166",
+      "city": "Bucharest",
+      "region": "București",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
