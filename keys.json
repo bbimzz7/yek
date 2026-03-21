@@ -32708,5 +32708,22 @@
       "country": "Portugal",
       "cc": "PT"
     }
+  },
+  "VH-7DAF26-18DDBC-714B8F": {
+    "expires": "2026-03-22T18:50:31.628Z",
+    "hwid": "3787417083-72A4BCBA-4F85-49E1-896E-FD8B08BBC0BF",
+    "browserHwid": null,
+    "username": "Yoruichilo",
+    "userId": "3787417083",
+    "source": "script",
+    "createdAt": "2026-03-21T18:50:32.262Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "213.225.4.45",
+      "city": "Vienna",
+      "region": "Vienna",
+      "country": "Austria",
+      "cc": "AT"
+    }
   }
 }
