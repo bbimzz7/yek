@@ -29877,5 +29877,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CC1774-38DC8E-5AD33D": {
+    "expires": "2026-03-22T08:05:22.090Z",
+    "hwid": "5828505269-f9b8d1ba-dba3-421e-8d6c-1010d746a21a",
+    "browserHwid": null,
+    "username": "bloxfruits_only99",
+    "userId": "5828505269",
+    "source": "script",
+    "createdAt": "2026-03-21T08:05:22.769Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.38.51",
+      "city": "Palangkaraya",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
