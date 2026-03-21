@@ -29091,5 +29091,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E40907-2D2949-E46F05": {
+    "expires": "2026-03-22T02:23:59.735Z",
+    "hwid": "800333603-35aa4841-aa9d-4f29-9354-a39d87c4a975",
+    "browserHwid": null,
+    "username": "TiaraipanLovers",
+    "userId": "800333603",
+    "source": "script",
+    "createdAt": "2026-03-21T02:24:00.306Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.77.25.133",
+      "city": "Ciamis",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
