@@ -32138,5 +32138,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-AC082E-B5D594-559201": {
+    "expires": "2026-03-22T15:41:54.614Z",
+    "hwid": null,
+    "browserHwid": "BR-2BFF1BC5-YZBPS",
+    "username": "SD_DANI18",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-21T15:41:55.161Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.190.49.140",
+      "city": "Maramag",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
