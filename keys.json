@@ -30999,5 +30999,22 @@
       "country": "Sweden",
       "cc": "SE"
     }
+  },
+  "VH-A68293-6BBC1C-82DD3E": {
+    "expires": "2026-03-22T12:10:35.421Z",
+    "hwid": "8634579651-f6cfd1b3-c75d-40ea-a33f-df3328b78e06",
+    "browserHwid": null,
+    "username": "idhmrziq",
+    "userId": "8634579651",
+    "source": "script",
+    "createdAt": "2026-03-21T12:10:35.827Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.210.90.222",
+      "city": "Kudat",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
