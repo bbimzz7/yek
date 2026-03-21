@@ -31681,5 +31681,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-C0A94E-B77F11-41E3D5": {
+    "expires": "2026-03-22T14:07:02.876Z",
+    "hwid": "4641730727-8886fc4e-deb3-4f46-a6fe-8a296f87afc7",
+    "browserHwid": null,
+    "username": "riccogamer14yt",
+    "userId": "4641730727",
+    "source": "script",
+    "createdAt": "2026-03-21T14:07:03.313Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "78.213.180.150",
+      "city": "Milano",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
