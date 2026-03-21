@@ -31921,5 +31921,22 @@
       "country": "Belgium",
       "cc": "BE"
     }
+  },
+  "VH-F8FD21-CE0EBE-E9090F": {
+    "expires": "2026-03-22T15:04:53.601Z",
+    "hwid": "7367884563-df331c64-24fc-4a70-acd1-d8256c652ebb",
+    "browserHwid": null,
+    "username": "jay_89515",
+    "userId": "7367884563",
+    "source": "script",
+    "createdAt": "2026-03-21T15:04:54.010Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "69.201.217.226",
+      "city": "Middletown",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
