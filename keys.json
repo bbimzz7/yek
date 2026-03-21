@@ -31376,5 +31376,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-1DAB78-FC83A8-FBA528": {
+    "expires": "2026-03-22T13:27:58.990Z",
+    "hwid": "8791433571-66d5251f-a632-4fb7-97ca-d149089fcc8f",
+    "browserHwid": null,
+    "username": "Kiril_15134",
+    "userId": "8791433571",
+    "source": "script",
+    "createdAt": "2026-03-21T13:27:59.310Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "162.255.199.23",
+      "city": "Taraz",
+      "region": "Zhambyl Oblysy",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
