@@ -30246,8 +30246,15 @@
     "userId": "5048135362",
     "source": "script",
     "createdAt": "2026-03-21T09:24:39.643Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T09:24:46.786Z",
     "geo": {
+      "ip": "157.46.181.121",
+      "city": "Valiyora",
+      "region": "Kerala",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "157.46.181.121",
       "city": "Valiyora",
       "region": "Kerala",
