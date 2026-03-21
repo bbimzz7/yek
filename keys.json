@@ -30694,5 +30694,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DC36BB-041AAC-FD5C7A": {
+    "expires": "2026-03-22T11:09:46.369Z",
+    "hwid": "7363012874-7705889e-9661-470d-98fc-56af319aabe8",
+    "browserHwid": null,
+    "username": "Yanzz_elite3",
+    "userId": "7363012874",
+    "source": "script",
+    "createdAt": "2026-03-21T11:09:46.682Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.60.40",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
