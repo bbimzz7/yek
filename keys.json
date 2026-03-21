@@ -30511,8 +30511,15 @@
     "userId": "8410972199",
     "source": "script",
     "createdAt": "2026-03-21T10:21:49.705Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T10:21:57.268Z",
     "geo": {
+      "ip": "36.50.92.149",
+      "city": "Sukamulya",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.50.92.149",
       "city": "Sukamulya",
       "region": "West Java",
