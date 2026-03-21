@@ -32155,5 +32155,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E7335B-262950-9E057B": {
+    "expires": "2026-03-22T15:42:06.025Z",
+    "hwid": "8480395209-2957454C-E357-4B09-B3A0-4701BF5584DE",
+    "browserHwid": null,
+    "username": "Xx_davidbrrbrr",
+    "userId": "8480395209",
+    "source": "script",
+    "createdAt": "2026-03-21T15:42:06.441Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.77.198.80",
+      "city": "Focşani",
+      "region": "Vrancea",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
