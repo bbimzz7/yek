@@ -30790,5 +30790,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6EC4A2-1715B2-D3412F": {
+    "expires": "2026-03-22T11:31:27.870Z",
+    "hwid": "8004057206-639dcce9-670b-4ed6-8d5f-d26c1740e85c",
+    "browserHwid": null,
+    "username": "fumblaxgz",
+    "userId": "8004057206",
+    "source": "script",
+    "createdAt": "2026-03-21T11:31:28.480Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.149.104.149",
+      "city": "Zamboanga City",
+      "region": "Zamboanga Peninsula",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
