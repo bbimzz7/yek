@@ -31152,8 +31152,15 @@
     "userId": "3019334281",
     "source": "script",
     "createdAt": "2026-03-21T12:43:06.585Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T12:43:19.218Z",
     "geo": {
+      "ip": "223.206.189.179",
+      "city": "Nakhon Pathom",
+      "region": "Nakhon Pathom",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "223.206.189.179",
       "city": "Nakhon Pathom",
       "region": "Nakhon Pathom",
