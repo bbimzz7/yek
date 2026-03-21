@@ -32398,8 +32398,15 @@
     "userId": "5403342990",
     "source": "script",
     "createdAt": "2026-03-21T16:42:30.988Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T16:42:36.907Z",
     "geo": {
+      "ip": "93.148.93.165",
+      "city": "Naples",
+      "region": "Campania",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "lastGeo": {
       "ip": "93.148.93.165",
       "city": "Naples",
       "region": "Campania",
