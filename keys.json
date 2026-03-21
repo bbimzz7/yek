@@ -30285,5 +30285,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-1FD923-8E2254-35934D": {
+    "expires": "2026-03-22T09:33:29.634Z",
+    "hwid": "6111552020-3bb8fffe-98b8-4f0d-8467-617af9716aa2",
+    "browserHwid": null,
+    "username": "N00B_At3vade",
+    "userId": "6111552020",
+    "source": "script",
+    "createdAt": "2026-03-21T09:33:30.225Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.207.216.52",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
