@@ -28860,7 +28860,7 @@
     "userId": "9148716775",
     "source": "script",
     "createdAt": "2026-03-21T00:12:26.674Z",
-    "lastUsed": "2026-03-21T00:16:41.068Z",
+    "lastUsed": "2026-03-21T09:07:47.232Z",
     "geo": {
       "ip": "192.135.210.12",
       "city": "Purwakarta",
@@ -28869,8 +28869,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "192.135.210.12",
-      "city": "Purwakarta",
+      "ip": "182.10.161.191",
+      "city": "Cirebon",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
