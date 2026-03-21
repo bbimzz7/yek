@@ -28827,5 +28827,22 @@
       "country": "Haiti",
       "cc": "HT"
     }
+  },
+  "VH-44E9F0-AC67BA-A8A781": {
+    "expires": "2026-03-22T00:10:46.940Z",
+    "hwid": "10696437027-9b7116ab-2394-4b0a-920c-94b78c2a4192",
+    "browserHwid": null,
+    "username": "cookie_chan3349",
+    "userId": "10696437027",
+    "source": "script",
+    "createdAt": "2026-03-21T00:10:47.486Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.138.62.109",
+      "city": "Klau",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
