@@ -30742,5 +30742,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-A9CC4E-972C33-5C12C4": {
+    "expires": "2026-03-22T11:13:50.590Z",
+    "hwid": "7690491802-90483775-3371-4fc3-a96d-e5b714f1a839",
+    "browserHwid": null,
+    "username": "64xdxd_11",
+    "userId": "7690491802",
+    "source": "script",
+    "createdAt": "2026-03-21T11:13:50.902Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.60.64.119",
+      "city": "Santiago",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
