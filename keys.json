@@ -31191,5 +31191,22 @@
       "country": "Norway",
       "cc": "NO"
     }
+  },
+  "VH-77F865-DD1214-3FCDE6": {
+    "expires": "2026-03-22T12:46:33.777Z",
+    "hwid": "6206507275-739b7a01-8e05-4759-8cbd-ec9499af4670",
+    "browserHwid": null,
+    "username": "NAYUMi_1r79",
+    "userId": "6206507275",
+    "source": "script",
+    "createdAt": "2026-03-21T12:46:34.139Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.115.2",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
