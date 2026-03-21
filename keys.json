@@ -28836,8 +28836,15 @@
     "userId": "10696437027",
     "source": "script",
     "createdAt": "2026-03-21T00:10:47.486Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T00:12:35.433Z",
     "geo": {
+      "ip": "103.138.62.109",
+      "city": "Klau",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.138.62.109",
       "city": "Klau",
       "region": "Bali",
