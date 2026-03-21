@@ -31424,5 +31424,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-4C87FF-1A2430-E4FD53": {
+    "expires": "2026-03-22T13:32:56.154Z",
+    "hwid": "10703509680-30224c9e-eb62-4163-aef6-81e3719ee7dd",
+    "browserHwid": null,
+    "username": "supercapli1",
+    "userId": "10703509680",
+    "source": "script",
+    "createdAt": "2026-03-21T13:32:56.454Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.179.67.106",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
