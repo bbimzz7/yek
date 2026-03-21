@@ -31897,5 +31897,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-FFD2D9-17789E-0E8761": {
+    "expires": "2026-03-22T14:59:24.506Z",
+    "hwid": "3948137194-7bf8622e-f7b7-4589-b9e5-1fb603877b9c",
+    "browserHwid": null,
+    "username": "Uniteryaaaa",
+    "userId": "3948137194",
+    "source": "script",
+    "createdAt": "2026-03-21T14:59:25.087Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "91.182.237.61",
+      "city": "Brussels",
+      "region": "Brussels Capital",
+      "country": "Belgium",
+      "cc": "BE"
+    }
   }
 }
