@@ -31635,8 +31635,15 @@
     "userId": "3932213162",
     "source": "script",
     "createdAt": "2026-03-21T14:01:18.843Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T14:01:23.412Z",
     "geo": {
+      "ip": "85.187.54.59",
+      "city": "Santa Cruz de Tenerife",
+      "region": "Canary Islands",
+      "country": "Spain",
+      "cc": "ES"
+    },
+    "lastGeo": {
       "ip": "85.187.54.59",
       "city": "Santa Cruz de Tenerife",
       "region": "Canary Islands",
