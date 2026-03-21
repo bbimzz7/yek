@@ -29708,5 +29708,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CAF7C5-3C9F26-F45B2B": {
+    "expires": "2026-03-22T06:03:18.900Z",
+    "hwid": null,
+    "browserHwid": "BR-668E339D-TF8SZ",
+    "username": "Biel_seupai",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-21T06:03:19.502Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.0.116.123",
+      "city": "Rio de Janeiro",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
