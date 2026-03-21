@@ -31577,8 +31577,15 @@
     "userId": "10691547290",
     "source": "script",
     "createdAt": "2026-03-21T13:48:47.341Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T13:49:00.825Z",
     "geo": {
+      "ip": "24.186.247.207",
+      "city": "The Bronx",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "24.186.247.207",
       "city": "The Bronx",
       "region": "New York",
