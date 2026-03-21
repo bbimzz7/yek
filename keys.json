@@ -30646,5 +30646,22 @@
       "country": "Lebanon",
       "cc": "LB"
     }
+  },
+  "VH-DF0173-A4C321-053CCE": {
+    "expires": "2026-03-22T11:03:51.784Z",
+    "hwid": "9901728114-b2e8ad50-0b64-4a98-8dd4-068741449ca3",
+    "browserHwid": null,
+    "username": "masucvat001",
+    "userId": "9901728114",
+    "source": "script",
+    "createdAt": "2026-03-21T11:03:52.419Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "42.114.202.16",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
