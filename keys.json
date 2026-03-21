@@ -29516,5 +29516,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F89FE9-5C4933-B866F4": {
+    "expires": "2026-03-22T05:01:57.506Z",
+    "hwid": "7389581619-18339a42-2760-4ad8-877e-92bbf087257d",
+    "browserHwid": null,
+    "username": "zildyzildy",
+    "userId": "7389581619",
+    "source": "script",
+    "createdAt": "2026-03-21T05:01:58.128Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.123.33.254",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
