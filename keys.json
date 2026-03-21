@@ -28844,5 +28844,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C66F6F-A16A78-ECE51B": {
+    "expires": "2026-03-22T00:12:26.120Z",
+    "hwid": "9148716775-5be5ea35-1ce6-433e-8ca5-ab327ffb2972",
+    "browserHwid": null,
+    "username": "KenzoGOD80",
+    "userId": "9148716775",
+    "source": "script",
+    "createdAt": "2026-03-21T00:12:26.674Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "192.135.210.12",
+      "city": "Purwakarta",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
