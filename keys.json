@@ -30879,5 +30879,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-223BD6-167B1C-314028": {
+    "expires": "2026-03-22T11:52:32.076Z",
+    "hwid": "7027149030-fa50a683-e92f-4ed9-886d-62b5c53dfc03",
+    "browserHwid": null,
+    "username": "keandikit123",
+    "userId": "7027149030",
+    "source": "script",
+    "createdAt": "2026-03-21T11:52:32.735Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.158.241.221",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
