@@ -31263,5 +31263,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-DC3308-B7CF5A-2E28D4": {
+    "expires": "2026-03-22T13:19:58.415Z",
+    "hwid": "10684328380-a705f824-2b61-4272-8aac-1fc7ff57d517",
+    "browserHwid": null,
+    "username": "fadaid15",
+    "userId": "10684328380",
+    "source": "script",
+    "createdAt": "2026-03-21T13:19:59.025Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.135.1.232",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
