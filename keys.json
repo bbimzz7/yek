@@ -29187,5 +29187,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-C3C089-1AECA7-850CBA": {
+    "expires": "2026-03-22T02:47:37.380Z",
+    "hwid": "10525725285-088C9791-7848-4EE0-B528-C9F22409E94B",
+    "browserHwid": null,
+    "username": "X7VXNM",
+    "userId": "10525725285",
+    "source": "script",
+    "createdAt": "2026-03-21T02:47:37.953Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.49.145.30",
+      "city": "Seogwipo-si",
+      "region": "Jeju-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
