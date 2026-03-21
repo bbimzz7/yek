@@ -30766,5 +30766,22 @@
       "country": "Chile",
       "cc": "CL"
     }
+  },
+  "VH-AA7AF8-5D77E5-39C307": {
+    "expires": "2026-03-22T11:27:15.374Z",
+    "hwid": "10568791237-246d3abc-dcd2-4309-a5b4-55aefda126e7",
+    "browserHwid": null,
+    "username": "ghd6289",
+    "userId": "10568791237",
+    "source": "script",
+    "createdAt": "2026-03-21T11:27:16.013Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.153.83.19",
+      "city": "Jagong",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
