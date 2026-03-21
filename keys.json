@@ -30711,5 +30711,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7DE076-BF5B74-F2BD81": {
+    "expires": "2026-03-22T11:10:18.889Z",
+    "hwid": "6066650055-3e138daf-15cf-4105-baf4-2a250811af89",
+    "browserHwid": null,
+    "username": "erm_whatthesigma1237",
+    "userId": "6066650055",
+    "source": "script",
+    "createdAt": "2026-03-21T11:10:19.242Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.196.176.51",
+      "city": "San Mateo",
+      "region": "Cagayan Valley",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
