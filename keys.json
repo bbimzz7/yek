@@ -31626,5 +31626,22 @@
       "country": "Trinidad and Tobago",
       "cc": "TT"
     }
+  },
+  "VH-CC777C-AE2F8C-E0732F": {
+    "expires": "2026-03-22T14:01:18.203Z",
+    "hwid": "3932213162-D8FE7D6E-EE6C-4DCD-ABFA-0B5266101484",
+    "browserHwid": null,
+    "username": "LordGatewayDelhi",
+    "userId": "3932213162",
+    "source": "script",
+    "createdAt": "2026-03-21T14:01:18.843Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "85.187.54.59",
+      "city": "Santa Cruz de Tenerife",
+      "region": "Canary Islands",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
