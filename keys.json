@@ -30456,15 +30456,23 @@
   },
   "VH-E126C4-FDB615-AF11A7": {
     "expires": "2026-03-22T10:08:06.783Z",
-    "hwid": null,
+    "hwid": "8933790906-1c301963-7e6c-46c3-89ec-d241e3713000",
     "browserHwid": "BR-3B65367E-EJUTU",
-    "username": "xwanncihuy",
-    "userId": null,
+    "username": "xWanncihuy",
+    "userId": "8933790906",
     "source": "browser",
     "createdAt": "2026-03-21T10:08:07.628Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T10:13:19.789Z",
     "geo": {
       "ip": "103.175.222.213",
+      "city": "Sungguminasa",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-21T10:13:19.754Z",
+    "lastGeo": {
+      "ip": "103.175.222.217",
       "city": "Sungguminasa",
       "region": "South Sulawesi",
       "country": "Indonesia",
