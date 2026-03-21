@@ -29100,7 +29100,7 @@
     "userId": "800333603",
     "source": "script",
     "createdAt": "2026-03-21T02:24:00.306Z",
-    "lastUsed": "2026-03-21T02:24:20.000Z",
+    "lastUsed": "2026-03-21T13:51:35.516Z",
     "geo": {
       "ip": "36.77.25.133",
       "city": "Ciamis",
@@ -29109,9 +29109,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "36.77.25.133",
-      "city": "Ciamis",
-      "region": "West Java",
+      "ip": "154.19.39.67",
+      "city": "Tangerang",
+      "region": "Banten",
       "country": "Indonesia",
       "cc": "ID"
     }
