@@ -30975,5 +30975,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2E3305-732DD4-031C2D": {
+    "expires": "2026-03-22T12:06:05.642Z",
+    "hwid": "8722163854-9E0AF49B-D462-4AF6-BA94-3A5E090B0A78",
+    "browserHwid": null,
+    "username": "x_vlyi",
+    "userId": "8722163854",
+    "source": "script",
+    "createdAt": "2026-03-21T12:06:06.022Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.230.125.222",
+      "city": "Stockholm",
+      "region": "Stockholm County",
+      "country": "Sweden",
+      "cc": "SE"
+    }
   }
 }
