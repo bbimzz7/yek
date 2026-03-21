@@ -32470,8 +32470,15 @@
     "userId": "8680167364",
     "source": "script",
     "createdAt": "2026-03-21T17:15:29.849Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T17:15:40.044Z",
     "geo": {
+      "ip": "109.122.0.237",
+      "city": "Helsinki",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "cc": "FI"
+    },
+    "lastGeo": {
       "ip": "109.122.0.237",
       "city": "Helsinki",
       "region": "Uusimaa",
