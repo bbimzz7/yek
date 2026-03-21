@@ -28884,9 +28884,16 @@
     "userId": "3901637277",
     "source": "script",
     "createdAt": "2026-03-21T00:20:05.585Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T00:20:12.880Z",
     "geo": {
       "ip": "168.196.35.124",
+      "city": "Tunuyán",
+      "region": "Mendoza",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
+      "ip": "168.196.35.123",
       "city": "Tunuyán",
       "region": "Mendoza",
       "country": "Argentina",
