@@ -28947,5 +28947,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-600659-4C9E85-9AEE90": {
+    "expires": "2026-03-22T00:48:27.034Z",
+    "hwid": "8434351665-dd7abf49-1cfe-4828-b709-6f9bbea594e3",
+    "browserHwid": null,
+    "username": "vadeltaba1",
+    "userId": "8434351665",
+    "source": "script",
+    "createdAt": "2026-03-21T00:48:27.625Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.134.143",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
