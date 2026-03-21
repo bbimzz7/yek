@@ -32781,5 +32781,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-331B91-FB9B8E-14F3D8": {
+    "expires": "2026-03-22T20:13:22.313Z",
+    "hwid": "4063760265-dbd11b61-46a3-4017-a8e1-75e498294411",
+    "browserHwid": null,
+    "username": "vzqriiv",
+    "userId": "4063760265",
+    "source": "script",
+    "createdAt": "2026-03-21T20:13:22.711Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.244.102.63",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
