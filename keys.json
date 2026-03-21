@@ -32566,8 +32566,15 @@
     "userId": "1839363302",
     "source": "script",
     "createdAt": "2026-03-21T17:48:35.308Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T17:48:49.262Z",
     "geo": {
+      "ip": "178.137.149.216",
+      "city": "Dnipro",
+      "region": "Dnipropetrovsk Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "178.137.149.216",
       "city": "Dnipro",
       "region": "Dnipropetrovsk Oblast",
