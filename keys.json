@@ -30381,5 +30381,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-841C0F-19B520-E7FFFB": {
+    "expires": "2026-03-22T09:50:12.855Z",
+    "hwid": "5442360729-20629f05-fdb5-447c-a5f9-543b740ae481",
+    "browserHwid": null,
+    "username": "Zpoxzzz",
+    "userId": "5442360729",
+    "source": "script",
+    "createdAt": "2026-03-21T09:50:13.423Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "79.110.55.14",
+      "city": "Toseong",
+      "region": "Gangwon-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
