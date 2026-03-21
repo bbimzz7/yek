@@ -31143,5 +31143,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-952003-F80379-6E34D5": {
+    "expires": "2026-03-22T12:43:06.141Z",
+    "hwid": "3019334281-0948796c-d655-4b87-ad12-02c789e9e182",
+    "browserHwid": null,
+    "username": "gghsx456",
+    "userId": "3019334281",
+    "source": "script",
+    "createdAt": "2026-03-21T12:43:06.585Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "223.206.189.179",
+      "city": "Nakhon Pathom",
+      "region": "Nakhon Pathom",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
