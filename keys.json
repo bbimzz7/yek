@@ -30270,8 +30270,15 @@
     "userId": "10629249750",
     "source": "script",
     "createdAt": "2026-03-21T09:30:46.304Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T09:30:53.034Z",
     "geo": {
+      "ip": "217.253.205.216",
+      "city": "Salzgitter",
+      "region": "Lower Saxony",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "217.253.205.216",
       "city": "Salzgitter",
       "region": "Lower Saxony",
