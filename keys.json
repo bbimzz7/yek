@@ -30631,8 +30631,15 @@
     "userId": "10675013110",
     "source": "script",
     "createdAt": "2026-03-21T10:55:00.230Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T10:55:15.569Z",
     "geo": {
+      "ip": "212.36.208.216",
+      "city": "Baabda",
+      "region": "Mohafazat Mont-Liban",
+      "country": "Lebanon",
+      "cc": "LB"
+    },
+    "lastGeo": {
       "ip": "212.36.208.216",
       "city": "Baabda",
       "region": "Mohafazat Mont-Liban",
