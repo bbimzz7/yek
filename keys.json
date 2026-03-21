@@ -31609,5 +31609,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-343EB5-F93BFE-D75D8C": {
+    "expires": "2026-03-22T13:54:28.849Z",
+    "hwid": "7733938277-af4e5778-a5cc-4f57-b391-1d4a9d2aa338",
+    "browserHwid": null,
+    "username": "drizzyworld5",
+    "userId": "7733938277",
+    "source": "script",
+    "createdAt": "2026-03-21T13:54:29.134Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "131.100.39.20",
+      "city": "Port of Spain",
+      "region": "Port of Spain",
+      "country": "Trinidad and Tobago",
+      "cc": "TT"
+    }
   }
 }
