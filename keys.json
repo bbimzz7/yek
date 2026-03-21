@@ -31520,5 +31520,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-43C3A0-327878-59313A": {
+    "expires": "2026-03-22T13:46:52.717Z",
+    "hwid": "3687693750-7b59cd19-d3fb-4a22-a403-819e9b1a04b5",
+    "browserHwid": null,
+    "username": "meowing_my",
+    "userId": "3687693750",
+    "source": "script",
+    "createdAt": "2026-03-21T13:46:53.114Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "23.166.88.145",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
+    }
   }
 }
