@@ -30936,8 +30936,15 @@
     "userId": "10702378525",
     "source": "script",
     "createdAt": "2026-03-21T11:54:53.866Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T11:55:58.127Z",
     "geo": {
+      "ip": "46.42.242.85",
+      "city": "Pavlodar",
+      "region": "Pavlodar Region",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "46.42.242.85",
       "city": "Pavlodar",
       "region": "Pavlodar Region",
