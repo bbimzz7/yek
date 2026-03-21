@@ -29997,5 +29997,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-293F35-798BB9-84795E": {
+    "expires": "2026-03-22T08:28:41.509Z",
+    "hwid": "8949261525-0329e2e8-663d-449b-9f35-0e8b76260599",
+    "browserHwid": null,
+    "username": "DRIGOD999",
+    "userId": "8949261525",
+    "source": "script",
+    "createdAt": "2026-03-21T08:28:42.084Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.26.176.166",
+      "city": "Utan",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
