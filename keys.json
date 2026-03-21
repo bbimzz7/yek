@@ -30574,5 +30574,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-A93E0A-315D9C-E890CA": {
+    "expires": "2026-03-22T10:45:49.054Z",
+    "hwid": "5504224260-26f677dc-8615-4059-9711-53f79e7bea58",
+    "browserHwid": null,
+    "username": "Dino321302",
+    "userId": "5504224260",
+    "source": "script",
+    "createdAt": "2026-03-21T10:45:49.661Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.204.191.91",
+      "city": "Mandaluyong",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
