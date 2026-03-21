@@ -30309,5 +30309,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-3DB613-CAB5E9-07FBBF": {
+    "expires": "2026-03-22T09:38:42.099Z",
+    "hwid": "6056796133-C57C0219-E81C-44DB-8DE9-3D7031981EC0",
+    "browserHwid": null,
+    "username": "HarveyHowie",
+    "userId": "6056796133",
+    "source": "script",
+    "createdAt": "2026-03-21T09:38:42.698Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.58.68",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
