@@ -29588,5 +29588,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-400943-3E1D30-A399FD": {
+    "expires": "2026-03-22T05:09:53.154Z",
+    "hwid": "1408236657-3402aba7-5f02-48e2-a84a-7f0489f7d333",
+    "browserHwid": null,
+    "username": "dhalura",
+    "userId": "1408236657",
+    "source": "script",
+    "createdAt": "2026-03-21T05:09:53.763Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.94.32.14",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
