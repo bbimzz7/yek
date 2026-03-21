@@ -32308,8 +32308,15 @@
     "userId": "10495491410",
     "source": "script",
     "createdAt": "2026-03-21T16:17:43.890Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T16:17:55.457Z",
     "geo": {
+      "ip": "92.55.187.16",
+      "city": "Kostanay",
+      "region": "Qostanay Oblysy",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "92.55.187.16",
       "city": "Kostanay",
       "region": "Qostanay Oblysy",
