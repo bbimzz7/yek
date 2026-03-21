@@ -30405,5 +30405,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-88BFC3-575CC2-625DEA": {
+    "expires": "2026-03-22T09:50:30.579Z",
+    "hwid": "671921157-9C782FD1-54AC-42DF-875C-17330C8D3693",
+    "browserHwid": null,
+    "username": "jolasindo",
+    "userId": "671921157",
+    "source": "script",
+    "createdAt": "2026-03-21T09:50:30.979Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.138.88.199",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
