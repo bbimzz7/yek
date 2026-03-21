@@ -29805,5 +29805,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-26ABEB-343089-8B349F": {
+    "expires": "2026-03-22T07:11:31.151Z",
+    "hwid": "9892646425-25e67313-e418-4607-ab73-264173f7cbd9",
+    "browserHwid": null,
+    "username": "StealthRiderCraze82",
+    "userId": "9892646425",
+    "source": "script",
+    "createdAt": "2026-03-21T07:11:31.701Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.147.77.154",
+      "city": "Magetan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
