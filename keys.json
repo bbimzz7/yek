@@ -32518,8 +32518,15 @@
     "userId": "8504444949",
     "source": "script",
     "createdAt": "2026-03-21T17:31:33.128Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T17:32:45.559Z",
     "geo": {
+      "ip": "152.32.96.70",
+      "city": "Pasig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "152.32.96.70",
       "city": "Pasig",
       "region": "Metro Manila",
