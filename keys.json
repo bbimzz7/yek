@@ -32590,8 +32590,15 @@
     "userId": "10644893714",
     "source": "script",
     "createdAt": "2026-03-21T17:59:49.953Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T18:02:33.726Z",
     "geo": {
+      "ip": "92.47.80.183",
+      "city": "Semey",
+      "region": "Abai Region",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "92.47.80.183",
       "city": "Semey",
       "region": "Abai Region",
