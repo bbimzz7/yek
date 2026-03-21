@@ -32973,5 +32973,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-BCC962-0ADE57-A46129": {
+    "expires": "2026-03-22T22:42:02.742Z",
+    "hwid": "4591154821-becd5252-d346-4290-a9b2-84fcc413eb7c",
+    "browserHwid": null,
+    "username": "Noob_MayZ3",
+    "userId": "4591154821",
+    "source": "script",
+    "createdAt": "2026-03-21T22:42:03.367Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.177.113.246",
+      "city": "Taguig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
