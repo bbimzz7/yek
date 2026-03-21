@@ -29268,8 +29268,15 @@
     "userId": "8318297501",
     "source": "script",
     "createdAt": "2026-03-21T03:27:17.259Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T03:27:59.072Z",
     "geo": {
+      "ip": "13.250.104.114",
+      "city": "Singapore",
+      "region": "Central Singapore",
+      "country": "Singapore",
+      "cc": "SG"
+    },
+    "lastGeo": {
       "ip": "13.250.104.114",
       "city": "Singapore",
       "region": "Central Singapore",
