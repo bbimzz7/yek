@@ -31810,8 +31810,15 @@
     "userId": "10302341061",
     "source": "script",
     "createdAt": "2026-03-21T14:28:54.003Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T14:29:19.542Z",
     "geo": {
+      "ip": "182.8.66.188",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.8.66.188",
       "city": "Surabaya",
       "region": "East Java",
