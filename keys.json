@@ -32212,8 +32212,15 @@
     "userId": "10280351021",
     "source": "script",
     "createdAt": "2026-03-21T15:49:12.434Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T15:49:16.830Z",
     "geo": {
+      "ip": "194.31.38.32",
+      "city": "Małogoszcz",
+      "region": "Świętokrzyskie",
+      "country": "Poland",
+      "cc": "PL"
+    },
+    "lastGeo": {
       "ip": "194.31.38.32",
       "city": "Małogoszcz",
       "region": "Świętokrzyskie",
