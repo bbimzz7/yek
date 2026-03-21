@@ -31568,5 +31568,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-596C2D-C8CA12-ABC201": {
+    "expires": "2026-03-22T13:48:47.031Z",
+    "hwid": "10691547290-a6bc10ad-d982-431b-893e-f0d974263cfd",
+    "browserHwid": null,
+    "username": "Cjdkckrkrf",
+    "userId": "10691547290",
+    "source": "script",
+    "createdAt": "2026-03-21T13:48:47.341Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.186.247.207",
+      "city": "The Bronx",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
