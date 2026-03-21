@@ -29316,8 +29316,15 @@
     "userId": "5349112408",
     "source": "script",
     "createdAt": "2026-03-21T03:46:51.335Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T03:48:14.487Z",
     "geo": {
+      "ip": "74.123.249.59",
+      "city": "Salinas",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "74.123.249.59",
       "city": "Salinas",
       "region": "California",
