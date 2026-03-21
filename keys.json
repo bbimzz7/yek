@@ -29949,5 +29949,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-24C64B-37EEFB-7960EB": {
+    "expires": "2026-03-22T08:16:23.850Z",
+    "hwid": "9674160066-9e39a9b0-f5ee-4272-8763-aceb9ae853e5",
+    "browserHwid": null,
+    "username": "cruzp020",
+    "userId": "9674160066",
+    "source": "script",
+    "createdAt": "2026-03-21T08:16:24.468Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.241.47.190",
+      "city": "Guadalajara",
+      "region": "Jalisco",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
