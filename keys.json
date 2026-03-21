@@ -31954,8 +31954,15 @@
     "userId": "5329785063",
     "source": "script",
     "createdAt": "2026-03-21T15:08:10.116Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-21T15:08:21.317Z",
     "geo": {
+      "ip": "181.226.242.174",
+      "city": "Chillán",
+      "region": "Ñuble",
+      "country": "Chile",
+      "cc": "CL"
+    },
+    "lastGeo": {
       "ip": "181.226.242.174",
       "city": "Chillán",
       "region": "Ñuble",
