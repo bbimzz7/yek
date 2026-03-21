@@ -31393,5 +31393,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-14EB89-DEB531-DAB0F2": {
+    "expires": "2026-03-22T13:28:10.524Z",
+    "hwid": "3161771315-ee9f67ad-669d-4dc9-8d2b-d521b26ea3e8",
+    "browserHwid": null,
+    "username": "gamer946482",
+    "userId": "3161771315",
+    "source": "script",
+    "createdAt": "2026-03-21T13:28:10.859Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.147.22.48",
+      "city": "Caloocan",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
