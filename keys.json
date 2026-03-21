@@ -29451,5 +29451,22 @@
       "country": "Uzbekistan",
       "cc": "UZ"
     }
+  },
+  "VH-446C23-B3FB0E-74DE8E": {
+    "expires": "2026-03-22T04:50:02.592Z",
+    "hwid": "9392252300-b43f6c28-d44e-474b-8b9b-c2611750161d",
+    "browserHwid": null,
+    "username": "agwubi",
+    "userId": "9392252300",
+    "source": "script",
+    "createdAt": "2026-03-21T04:50:03.159Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "174.203.0.74",
+      "city": "Houston",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
