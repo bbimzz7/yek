@@ -29829,5 +29829,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4681BC-CFD1C3-CAAB65": {
+    "expires": "2026-03-22T07:29:20.155Z",
+    "hwid": "3516328761-9D97BF70-7913-4ACC-A781-0DE27ED78CA5",
+    "browserHwid": null,
+    "username": "TNV_Mxtrix02",
+    "userId": "3516328761",
+    "source": "script",
+    "createdAt": "2026-03-21T07:29:20.791Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.41.191",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
