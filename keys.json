@@ -30622,5 +30622,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-669EF7-732A2C-1375A1": {
+    "expires": "2026-03-22T10:54:59.645Z",
+    "hwid": "10675013110-26507c6f-51e8-4432-b5cf-147478b4417d",
+    "browserHwid": null,
+    "username": "ijdwjimwdejk3",
+    "userId": "10675013110",
+    "source": "script",
+    "createdAt": "2026-03-21T10:55:00.230Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.36.208.216",
+      "city": "Baabda",
+      "region": "Mohafazat Mont-Liban",
+      "country": "Lebanon",
+      "cc": "LB"
+    }
   }
 }
