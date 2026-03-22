@@ -4989,8 +4989,15 @@
     "userId": "10375374745",
     "source": "script",
     "createdAt": "2026-03-22T15:58:07.085Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T15:58:57.759Z",
     "geo": {
+      "ip": "168.197.245.199",
+      "city": "Belford Roxo",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "168.197.245.199",
       "city": "Belford Roxo",
       "region": "Rio de Janeiro",
