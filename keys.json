@@ -33703,5 +33703,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-9CDCBE-6D6825-8025CA": {
+    "expires": "2026-03-23T03:52:46.314Z",
+    "hwid": "9085755336-08C3290A-A9B0-48FC-8F48-6C7D40285B46",
+    "browserHwid": null,
+    "username": "ilumizoldyyk",
+    "userId": "9085755336",
+    "source": "script",
+    "createdAt": "2026-03-22T03:52:46.724Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.138.251.56",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
