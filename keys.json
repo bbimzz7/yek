@@ -5525,5 +5525,22 @@
       "country": "Israel",
       "cc": "IL"
     }
+  },
+  "VH-CD727A-246D93-1A7BC7": {
+    "expires": "2026-03-23T23:45:29.749Z",
+    "hwid": null,
+    "browserHwid": "BR-1CFE8122-AO6QQ",
+    "username": "VH-B80BD2-3A5234-C0305F",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-22T23:45:29.952Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "147.235.219.255",
+      "city": "Rishon LeTsiyyon",
+      "region": "Central District",
+      "country": "Israel",
+      "cc": "IL"
+    }
   }
 }
