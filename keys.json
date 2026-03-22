@@ -4548,5 +4548,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-55D301-29BD8C-C3C5D2": {
+    "expires": "2026-03-23T12:56:45.635Z",
+    "hwid": "10568791237-246d3abc-dcd2-4309-a5b4-55aefda126e7",
+    "browserHwid": null,
+    "username": "ghd6289",
+    "userId": "10568791237",
+    "source": "script",
+    "createdAt": "2026-03-22T12:56:46.031Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "163.227.149.150",
+      "city": "Kurungannyawa",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
