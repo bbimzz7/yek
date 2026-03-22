@@ -4284,5 +4284,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-788377-EA7F2D-50DCD8": {
+    "expires": "2026-03-23T10:41:14.323Z",
+    "hwid": "8522378391-939BCB3B-A6C5-49AA-8D19-FFCF000F0424",
+    "browserHwid": null,
+    "username": "denk20019",
+    "userId": "8522378391",
+    "source": "script",
+    "createdAt": "2026-03-22T10:41:14.921Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.253.52.203",
+      "city": "Sidomulyo",
+      "region": "Gorontalo",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
