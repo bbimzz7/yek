@@ -4156,7 +4156,7 @@
     "userId": "7389581619",
     "source": "script",
     "createdAt": "2026-03-22T09:04:24.134Z",
-    "lastUsed": "2026-03-22T09:04:35.282Z",
+    "lastUsed": "2026-03-22T10:41:47.494Z",
     "geo": {
       "ip": "140.213.66.109",
       "city": "Banjarmasin",
@@ -4165,8 +4165,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.66.109",
-      "city": "Banjarmasin",
+      "ip": "114.123.37.93",
+      "city": "Pasararba",
       "region": "South Kalimantan",
       "country": "Indonesia",
       "cc": "ID"
