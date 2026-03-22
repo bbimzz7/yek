@@ -33647,8 +33647,15 @@
     "userId": "9942588368",
     "source": "script",
     "createdAt": "2026-03-22T03:24:13.482Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T03:24:21.792Z",
     "geo": {
+      "ip": "103.144.227.238",
+      "city": "Watansoppeng",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.144.227.238",
       "city": "Watansoppeng",
       "region": "South Sulawesi",
