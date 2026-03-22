@@ -33213,5 +33213,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-8D0459-B8DE6A-C1B89A": {
+    "expires": "2026-03-23T00:41:17.481Z",
+    "hwid": "3668176310-d9818c8b-3020-4830-b366-4037afcfe233",
+    "browserHwid": null,
+    "username": "kr_ryomifan",
+    "userId": "3668176310",
+    "source": "script",
+    "createdAt": "2026-03-22T00:41:17.903Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "106.101.74.125",
+      "city": "Seongnam-si",
+      "region": "Gyeonggi-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
