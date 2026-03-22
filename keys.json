@@ -33141,5 +33141,22 @@
       "country": "Bahrain",
       "cc": "BH"
     }
+  },
+  "VH-370415-9AFF67-825EC7": {
+    "expires": "2026-03-23T00:17:18.357Z",
+    "hwid": "10648822681-a2526aa7-da5c-4304-a741-94e463f71176",
+    "browserHwid": null,
+    "username": "official_dark098",
+    "userId": "10648822681",
+    "source": "script",
+    "createdAt": "2026-03-22T00:17:19.122Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "126.209.104.86",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
