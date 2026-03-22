@@ -4365,8 +4365,15 @@
     "userId": "8617790555",
     "source": "script",
     "createdAt": "2026-03-22T11:06:47.575Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T11:06:59.801Z",
     "geo": {
+      "ip": "121.101.134.88",
+      "city": "Boyolali",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "121.101.134.88",
       "city": "Boyolali",
       "region": "Central Java",
