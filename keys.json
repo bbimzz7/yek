@@ -33921,11 +33921,18 @@
     "userId": "10695712974",
     "source": "script",
     "createdAt": "2026-03-22T05:38:16.984Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T05:38:31.678Z",
     "geo": {
       "ip": "27.125.247.106",
       "city": "Muar town",
       "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
+      "ip": "27.125.247.33",
+      "city": "Bestari Jaya",
+      "region": "Selangor",
       "country": "Malaysia",
       "cc": "MY"
     }
