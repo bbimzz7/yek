@@ -33823,5 +33823,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FC95E0-62593B-DD41D4": {
+    "expires": "2026-03-23T04:46:12.995Z",
+    "hwid": "3978909523-462069C0-995E-450B-8690-223DAAEF9F97",
+    "browserHwid": null,
+    "username": "x3eze",
+    "userId": "3978909523",
+    "source": "script",
+    "createdAt": "2026-03-22T04:46:13.707Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.68.73.122",
+      "city": "Nanaimo",
+      "region": "British Columbia",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
