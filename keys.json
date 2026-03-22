@@ -33390,8 +33390,15 @@
     "userId": "9900600379",
     "source": "script",
     "createdAt": "2026-03-22T01:29:14.088Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T01:29:30.229Z",
     "geo": {
+      "ip": "112.198.120.81",
+      "city": "Talavera",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.198.120.81",
       "city": "Talavera",
       "region": "Central Luzon",
