@@ -33333,5 +33333,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-43BA0B-7861E7-7DAB77": {
+    "expires": "2026-03-23T01:09:15.925Z",
+    "hwid": "6206507275-69e6bea7-3747-4f6e-afc9-8c32292afe9f",
+    "browserHwid": null,
+    "username": "NAYUMi_1r79",
+    "userId": "6206507275",
+    "source": "script",
+    "createdAt": "2026-03-22T01:09:16.326Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.115.2",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
