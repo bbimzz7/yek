@@ -4228,8 +4228,15 @@
     "userId": "8251698254",
     "source": "script",
     "createdAt": "2026-03-22T09:51:28.036Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T09:52:53.157Z",
     "geo": {
+      "ip": "122.161.243.107",
+      "city": "Jammu",
+      "region": "Jammu and Kashmir",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "122.161.243.107",
       "city": "Jammu",
       "region": "Jammu and Kashmir",
