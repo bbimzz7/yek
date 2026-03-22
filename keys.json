@@ -4797,8 +4797,15 @@
     "userId": "10373053042",
     "source": "script",
     "createdAt": "2026-03-22T14:53:50.646Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T14:55:07.732Z",
     "geo": {
+      "ip": "201.182.62.233",
+      "city": "Cândido de Abreu",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "201.182.62.233",
       "city": "Cândido de Abreu",
       "region": "Paraná",
