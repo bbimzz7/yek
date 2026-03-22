@@ -34063,5 +34063,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-07EAE2-705F52-A224ED": {
+    "expires": "2026-03-23T06:14:50.802Z",
+    "hwid": "7035374383-217f764c-d968-4358-8e29-8fc804b22056",
+    "browserHwid": null,
+    "username": "chaseypogi_1097",
+    "userId": "7035374383",
+    "source": "script",
+    "createdAt": "2026-03-22T06:14:51.157Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "123.253.51.153",
+      "city": "Dasmariñas",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
