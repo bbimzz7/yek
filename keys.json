@@ -33599,7 +33599,7 @@
     "userId": "1834911604",
     "source": "script",
     "createdAt": "2026-03-22T02:24:31.745Z",
-    "lastUsed": "2026-03-22T02:27:53.828Z",
+    "lastUsed": "2026-03-22T02:34:55.193Z",
     "geo": {
       "ip": "111.94.147.234",
       "city": "Surabaya",
@@ -33608,9 +33608,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "111.94.147.234",
-      "city": "Surabaya",
-      "region": "East Java",
+      "ip": "111.94.32.14",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
