@@ -4308,5 +4308,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6B75BC-9B4DA4-B05ACF": {
+    "expires": "2026-03-23T10:56:16.563Z",
+    "hwid": "9203312399-cb1b80aa-c61f-41f0-ba3a-42f13550d9e9",
+    "browserHwid": null,
+    "username": "24_Andreicont2",
+    "userId": "9203312399",
+    "source": "script",
+    "createdAt": "2026-03-22T10:56:16.992Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "128.127.120.35",
+      "city": "Izvin",
+      "region": "Timiș County",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
