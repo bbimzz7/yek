@@ -5477,5 +5477,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-687304-330D0C-D640EE": {
+    "expires": "2026-03-23T23:14:22.007Z",
+    "hwid": "9675355288-e550d7e1-d597-4b01-b3e9-67b556febddb",
+    "browserHwid": null,
+    "username": "WL07C0",
+    "userId": "9675355288",
+    "source": "script",
+    "createdAt": "2026-03-22T23:14:22.248Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.75.23.204",
+      "city": "Palangkaraya",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
