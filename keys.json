@@ -34240,8 +34240,15 @@
     "userId": "10708561670",
     "source": "script",
     "createdAt": "2026-03-22T07:40:09.084Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T07:42:00.312Z",
     "geo": {
+      "ip": "103.47.132.15",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.47.132.15",
       "city": "Jakarta",
       "region": "Jakarta",
