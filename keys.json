@@ -33832,8 +33832,15 @@
     "userId": "3978909523",
     "source": "script",
     "createdAt": "2026-03-22T04:46:13.707Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T04:46:20.844Z",
     "geo": {
+      "ip": "24.68.73.122",
+      "city": "Nanaimo",
+      "region": "British Columbia",
+      "country": "Canada",
+      "cc": "CA"
+    },
+    "lastGeo": {
       "ip": "24.68.73.122",
       "city": "Nanaimo",
       "region": "British Columbia",
