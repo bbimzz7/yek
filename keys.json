@@ -4716,5 +4716,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CC0E42-36B289-E70C9F": {
+    "expires": "2026-03-23T14:42:31.166Z",
+    "hwid": "5553524408-b823a3a5-bbcd-4845-9e46-a8d32b8c1e8a",
+    "browserHwid": null,
+    "username": "strongest_hero245",
+    "userId": "5553524408",
+    "source": "script",
+    "createdAt": "2026-03-22T14:42:31.586Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "97.165.86.63",
+      "city": "Allentown",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
