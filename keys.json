@@ -5109,8 +5109,15 @@
     "userId": "7737644072",
     "source": "script",
     "createdAt": "2026-03-22T17:10:22.779Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T17:10:37.205Z",
     "geo": {
+      "ip": "115.135.27.133",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "115.135.27.133",
       "city": "Kuala Lumpur",
       "region": "Kuala Lumpur",
