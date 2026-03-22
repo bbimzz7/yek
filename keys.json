@@ -5196,5 +5196,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-FB9A9B-78D7CC-C25E12": {
+    "expires": "2026-03-23T19:01:04.689Z",
+    "hwid": "8708160101-07C37A54-3853-49E6-9B42-E43C7DB7E5F2",
+    "browserHwid": null,
+    "username": "yuziinxc9",
+    "userId": "8708160101",
+    "source": "script",
+    "createdAt": "2026-03-22T19:01:04.879Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.77.223",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
