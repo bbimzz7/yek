@@ -4845,8 +4845,15 @@
     "userId": "8537174058",
     "source": "script",
     "createdAt": "2026-03-22T15:09:07.919Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T15:09:19.980Z",
     "geo": {
+      "ip": "49.145.47.227",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "49.145.47.227",
       "city": "Cebu City",
       "region": "Central Visayas",
