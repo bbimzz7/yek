@@ -33174,8 +33174,15 @@
     "userId": "10305736604",
     "source": "script",
     "createdAt": "2026-03-22T00:18:47.254Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T00:18:53.997Z",
     "geo": {
+      "ip": "14.168.167.14",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "14.168.167.14",
       "city": "Ho Chi Minh City",
       "region": "Ho Chi Minh",
