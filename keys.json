@@ -5508,5 +5508,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B80BD2-3A5234-C0305F": {
+    "expires": "2026-03-23T23:45:17.753Z",
+    "hwid": "9878499328-bfb6571d-6806-4558-af76-168eb664e684",
+    "browserHwid": null,
+    "username": "sukuna1230114",
+    "userId": "9878499328",
+    "source": "script",
+    "createdAt": "2026-03-22T23:45:18.145Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "147.235.219.255",
+      "city": "Rishon LeTsiyyon",
+      "region": "Central District",
+      "country": "Israel",
+      "cc": "IL"
+    }
   }
 }
