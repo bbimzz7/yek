@@ -5246,8 +5246,15 @@
     "userId": "10347194793",
     "source": "script",
     "createdAt": "2026-03-22T19:22:06.035Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T19:22:15.320Z",
     "geo": {
+      "ip": "121.101.130.92",
+      "city": "Kebon Gunung",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "121.101.130.92",
       "city": "Kebon Gunung",
       "region": "Central Java",
