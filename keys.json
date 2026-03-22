@@ -34351,5 +34351,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-4415A4-99757A-A57AC2": {
+    "expires": "2026-03-23T08:44:21.927Z",
+    "hwid": "10694365583-9445a2a2-4b4e-43c2-adc3-cfbc49c36f6f",
+    "browserHwid": null,
+    "username": "Z54090",
+    "userId": "10694365583",
+    "source": "script",
+    "createdAt": "2026-03-22T08:44:22.562Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.49.145.30",
+      "city": "Seogwipo-si",
+      "region": "Jeju-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
