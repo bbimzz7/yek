@@ -33638,5 +33638,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-64B042-2EA6F8-96ADF9": {
+    "expires": "2026-03-23T03:24:12.777Z",
+    "hwid": "9942588368-dc9bb78c-a5b1-4adb-8365-d99860fe3284",
+    "browserHwid": null,
+    "username": "halo_gusi67",
+    "userId": "9942588368",
+    "source": "script",
+    "createdAt": "2026-03-22T03:24:13.482Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.144.227.238",
+      "city": "Watansoppeng",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
