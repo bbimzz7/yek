@@ -5028,5 +5028,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-6D7CEA-DD5A53-1E1DCC": {
+    "expires": "2026-03-23T16:30:51.097Z",
+    "hwid": "9644853789-5bc448aa-d491-4b5e-a3da-b1917e8d2923",
+    "browserHwid": null,
+    "username": "DyyPemancing",
+    "userId": "9644853789",
+    "source": "script",
+    "createdAt": "2026-03-22T16:30:51.284Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.10.97.15",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
