@@ -5052,5 +5052,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8B3DE5-2EC08F-E8A51A": {
+    "expires": "2026-03-23T16:55:16.438Z",
+    "hwid": "4138133972-2cb856aa-d9c7-4ed4-b28e-24f24e34e041",
+    "browserHwid": null,
+    "username": "MaNgAs88",
+    "userId": "4138133972",
+    "source": "script",
+    "createdAt": "2026-03-22T16:55:16.822Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.230.16.26",
+      "city": "Callao",
+      "region": "Provincia Constitucional del Callao",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
