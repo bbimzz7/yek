@@ -5316,5 +5316,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-92E355-12B07B-55F473": {
+    "expires": "2026-03-23T20:28:08.454Z",
+    "hwid": "9515624287-08a2d2c2-e522-4e56-8281-c155cf286e79",
+    "browserHwid": null,
+    "username": "dksX4U",
+    "userId": "9515624287",
+    "source": "script",
+    "createdAt": "2026-03-22T20:28:08.869Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.93.93.236",
+      "city": "Kertosono",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
