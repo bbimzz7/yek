@@ -5388,5 +5388,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-1FEA2A-27A554-2029BB": {
+    "expires": "2026-03-23T21:36:27.057Z",
+    "hwid": "3710597-D5428589-2DEB-4D7F-989C-B7BEBEF65B6C",
+    "browserHwid": null,
+    "username": "Eragon676",
+    "userId": "3710597",
+    "source": "script",
+    "createdAt": "2026-03-22T21:36:27.437Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.255.140.193",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
