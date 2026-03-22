@@ -5237,5 +5237,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-F978E8-3A818E-047EDF": {
+    "expires": "2026-03-23T19:22:05.810Z",
+    "hwid": "10347194793-aaca0ff4-a889-480c-9dca-fc8f332e3fd9",
+    "browserHwid": null,
+    "username": "xzygospin1",
+    "userId": "10347194793",
+    "source": "script",
+    "createdAt": "2026-03-22T19:22:06.035Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "121.101.130.92",
+      "city": "Kebon Gunung",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
