@@ -5172,5 +5172,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-30E250-EB8AAB-056BFC": {
+    "expires": "2026-03-23T18:57:00.793Z",
+    "hwid": "10250853831-fbef470e-3d89-4dd5-b246-19603444905a",
+    "browserHwid": null,
+    "username": "1_2pf0",
+    "userId": "10250853831",
+    "source": "script",
+    "createdAt": "2026-03-22T18:57:01.234Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.227.148.34",
+      "city": "Funes",
+      "region": "Santa Fe",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
