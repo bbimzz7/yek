@@ -4476,5 +4476,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-5C323D-CF7F27-1782BF": {
+    "expires": "2026-03-23T12:10:08.044Z",
+    "hwid": "8510986605-8c7f6631-de31-4992-ba3a-8842d6229692",
+    "browserHwid": null,
+    "username": "zxcsix87",
+    "userId": "8510986605",
+    "source": "script",
+    "createdAt": "2026-03-22T12:10:08.369Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.248.106.142",
+      "city": "Auly",
+      "region": "Dnipropetrovsk Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
