@@ -4884,5 +4884,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-382CB8-67A4D8-B07073": {
+    "expires": "2026-03-23T15:25:59.935Z",
+    "hwid": "1854028152-e996638a-935b-4b5f-a9a5-7ecd907e1a35",
+    "browserHwid": null,
+    "username": "Agaimoil",
+    "userId": "1854028152",
+    "source": "script",
+    "createdAt": "2026-03-22T15:26:00.338Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "81.88.148.14",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
