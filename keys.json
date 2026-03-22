@@ -5205,8 +5205,15 @@
     "userId": "8708160101",
     "source": "script",
     "createdAt": "2026-03-22T19:01:04.879Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T19:01:10.565Z",
     "geo": {
+      "ip": "180.254.77.223",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.254.77.223",
       "city": "Tangerang",
       "region": "Banten",
