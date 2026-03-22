@@ -34360,8 +34360,15 @@
     "userId": "10694365583",
     "source": "script",
     "createdAt": "2026-03-22T08:44:22.562Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T08:44:35.425Z",
     "geo": {
+      "ip": "14.49.145.30",
+      "city": "Seogwipo-si",
+      "region": "Jeju-do",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "lastGeo": {
       "ip": "14.49.145.30",
       "city": "Seogwipo-si",
       "region": "Jeju-do",
