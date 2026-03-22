@@ -33470,5 +33470,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-C30757-7C5276-0AED3B": {
+    "expires": "2026-03-23T01:41:23.473Z",
+    "hwid": "4849147851-9F91AA8A-0B8F-4505-97E6-57562A5E83B8",
+    "browserHwid": null,
+    "username": "deyfwithwb",
+    "userId": "4849147851",
+    "source": "script",
+    "createdAt": "2026-03-22T01:41:23.808Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "65.27.16.109",
+      "city": "Bridgetown",
+      "region": "Ohio",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
