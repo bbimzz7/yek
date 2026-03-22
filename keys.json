@@ -34159,5 +34159,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EFDBB6-6CD742-0551E9": {
+    "expires": "2026-03-23T06:58:49.687Z",
+    "hwid": "9231433845-f0bbc625-5ef4-458d-ae77-65487a71fdeb",
+    "browserHwid": null,
+    "username": "afggg_29",
+    "userId": "9231433845",
+    "source": "script",
+    "createdAt": "2026-03-22T06:58:50.346Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.62.51.224",
+      "city": "Shah Alam",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
