@@ -34279,5 +34279,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-92EAD2-CB0BD2-9C355F": {
+    "expires": "2026-03-23T07:54:39.088Z",
+    "hwid": "10701834619-3bb97c96-89f7-4f0c-b731-c08f3befa3a4",
+    "browserHwid": null,
+    "username": "Zzz1_zzzZ1",
+    "userId": "10701834619",
+    "source": "script",
+    "createdAt": "2026-03-22T07:54:39.716Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.128.39.236",
+      "city": "Burgos",
+      "region": "Castille and León",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
