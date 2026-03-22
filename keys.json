@@ -33775,5 +33775,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2D7B5D-058F14-983B1B": {
+    "expires": "2026-03-23T04:21:50.962Z",
+    "hwid": "2996231848-d2b98f3d-5905-4bcf-98c7-94221c995842",
+    "browserHwid": null,
+    "username": "calon_jnazah",
+    "userId": "2996231848",
+    "source": "script",
+    "createdAt": "2026-03-22T04:21:51.345Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.187.29.8",
+      "city": "Muhajirin",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
