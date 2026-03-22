@@ -32477,7 +32477,7 @@
     "userId": "8680167364",
     "source": "script",
     "createdAt": "2026-03-21T17:15:29.849Z",
-    "lastUsed": "2026-03-21T21:27:05.412Z",
+    "lastUsed": "2026-03-22T07:55:32.934Z",
     "geo": {
       "ip": "109.122.0.237",
       "city": "Helsinki",
@@ -32486,11 +32486,11 @@
       "cc": "FI"
     },
     "lastGeo": {
-      "ip": "185.139.215.27",
-      "city": "Amsterdam",
-      "region": "North Holland",
-      "country": "Netherlands",
-      "cc": "NL"
+      "ip": "23.251.60.55",
+      "city": "Marseille",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
     }
   },
   "VH-B387D5-F2C2B2-06A871": {
