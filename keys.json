@@ -4485,7 +4485,7 @@
     "userId": "8510986605",
     "source": "script",
     "createdAt": "2026-03-22T12:10:08.369Z",
-    "lastUsed": "2026-03-22T12:24:37.035Z",
+    "lastUsed": "2026-03-22T14:49:32.823Z",
     "geo": {
       "ip": "5.248.106.142",
       "city": "Auly",
@@ -4494,9 +4494,9 @@
       "cc": "UA"
     },
     "lastGeo": {
-      "ip": "5.248.106.142",
-      "city": "Auly",
-      "region": "Dnipropetrovsk Oblast",
+      "ip": "45.142.89.210",
+      "city": "Kyiv",
+      "region": "Kyiv City",
       "country": "Ukraine",
       "cc": "UA"
     }
