@@ -33126,8 +33126,15 @@
     "userId": "10685871129",
     "source": "script",
     "createdAt": "2026-03-22T00:15:44.367Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T00:16:57.925Z",
     "geo": {
+      "ip": "37.131.109.20",
+      "city": "Manama",
+      "region": "Manama",
+      "country": "Bahrain",
+      "cc": "BH"
+    },
+    "lastGeo": {
       "ip": "37.131.109.20",
       "city": "Manama",
       "region": "Manama",
