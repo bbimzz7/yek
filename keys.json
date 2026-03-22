@@ -33880,8 +33880,15 @@
     "userId": "8641632993",
     "source": "script",
     "createdAt": "2026-03-22T05:18:06.144Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T05:18:17.892Z",
     "geo": {
+      "ip": "184.22.36.228",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "184.22.36.228",
       "city": "Bangkok",
       "region": "Bangkok",
