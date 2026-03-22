@@ -4461,8 +4461,15 @@
     "userId": "3321356677",
     "source": "script",
     "createdAt": "2026-03-22T12:08:46.318Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T12:09:04.510Z",
     "geo": {
+      "ip": "5.68.144.38",
+      "city": "Leytonstone",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "5.68.144.38",
       "city": "Leytonstone",
       "region": "England",
