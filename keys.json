@@ -4788,5 +4788,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DE5F8E-F41616-F6CFB9": {
+    "expires": "2026-03-23T14:53:50.440Z",
+    "hwid": "10373053042-ecba706d-063a-41b9-bad8-eb7e1f8a151d",
+    "browserHwid": null,
+    "username": "Matheus_126113",
+    "userId": "10373053042",
+    "source": "script",
+    "createdAt": "2026-03-22T14:53:50.646Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.182.62.233",
+      "city": "Cândido de Abreu",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
