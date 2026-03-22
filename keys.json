@@ -4452,5 +4452,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-9C2118-03F731-CAFD76": {
+    "expires": "2026-03-23T12:08:46.005Z",
+    "hwid": "3321356677-d7e34b96-5b24-464f-a7ba-81f5eb41d385",
+    "browserHwid": null,
+    "username": "nitzakitty123",
+    "userId": "3321356677",
+    "source": "script",
+    "createdAt": "2026-03-22T12:08:46.318Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.68.144.38",
+      "city": "Leytonstone",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
