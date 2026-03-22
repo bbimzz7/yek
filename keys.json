@@ -34135,5 +34135,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-E89DDE-736295-BD5CCB": {
+    "expires": "2026-03-23T06:40:45.392Z",
+    "hwid": "10000190501-c9ce047a-5c46-4401-974c-92fd8e834d39",
+    "browserHwid": null,
+    "username": "dammnxyz",
+    "userId": "10000190501",
+    "source": "script",
+    "createdAt": "2026-03-22T06:40:46.016Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.19.18.117",
+      "city": "Subang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
