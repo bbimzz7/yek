@@ -5013,8 +5013,15 @@
     "userId": "10325637272",
     "source": "script",
     "createdAt": "2026-03-22T16:30:36.533Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T16:30:46.426Z",
     "geo": {
+      "ip": "66.181.179.176",
+      "city": "Ulan Bator",
+      "region": "Ulaanbaatar",
+      "country": "Mongolia",
+      "cc": "MN"
+    },
+    "lastGeo": {
       "ip": "66.181.179.176",
       "city": "Ulan Bator",
       "region": "Ulaanbaatar",
