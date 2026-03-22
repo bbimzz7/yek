@@ -33453,5 +33453,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8EB4A6-038011-F1E45A": {
+    "expires": "2026-03-23T01:41:10.384Z",
+    "hwid": "10567669140-bb13a277-05ce-49de-9a22-083b4f8ff780",
+    "browserHwid": null,
+    "username": "bacon_loves392",
+    "userId": "10567669140",
+    "source": "script",
+    "createdAt": "2026-03-22T01:41:10.720Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.220.193.202",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
