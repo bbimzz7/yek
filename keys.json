@@ -5148,5 +5148,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-DEE093-D57F52-9F2AF3": {
+    "expires": "2026-03-23T18:51:46.247Z",
+    "hwid": "8515894563-f63e6abd-3a1d-434b-a912-6b6ff76d595d",
+    "browserHwid": null,
+    "username": "im_noob456742",
+    "userId": "8515894563",
+    "source": "script",
+    "createdAt": "2026-03-22T18:51:46.577Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.249.153.239",
+      "city": "Manokwari",
+      "region": "West Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
