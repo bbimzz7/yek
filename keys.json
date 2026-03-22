@@ -4243,5 +4243,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-1BF64D-67822D-01AB79": {
+    "expires": "2026-03-23T10:04:50.090Z",
+    "hwid": "4758474774-b0924dba-eedf-4601-ba0f-c649a64af263",
+    "browserHwid": null,
+    "username": "vicenzoo73",
+    "userId": "4758474774",
+    "source": "script",
+    "createdAt": "2026-03-22T10:04:50.581Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.58.79.158",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
