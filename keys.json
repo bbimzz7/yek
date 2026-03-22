@@ -34303,5 +34303,22 @@
       "country": "Spain",
       "cc": "ES"
     }
+  },
+  "VH-C46A79-F44EF6-E2A0E0": {
+    "expires": "2026-03-23T07:59:23.182Z",
+    "hwid": "7137902447-5DE6FB19-A772-417C-84CF-5AC114AED69A",
+    "browserHwid": null,
+    "username": "fhfhfi633",
+    "userId": "7137902447",
+    "source": "script",
+    "createdAt": "2026-03-22T07:59:23.667Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.243.182.208",
+      "city": "Moscow",
+      "region": "Moscow",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
