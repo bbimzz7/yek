@@ -34255,5 +34255,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A15111-BAF807-B3B20B": {
+    "expires": "2026-03-23T07:52:30.821Z",
+    "hwid": "10678356249-fce58532-4989-45fa-9456-de1e14fa5bd5",
+    "browserHwid": null,
+    "username": "Yo_imgoated28",
+    "userId": "10678356249",
+    "source": "script",
+    "createdAt": "2026-03-22T07:52:31.457Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.241.149",
+      "city": "San Diego",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
