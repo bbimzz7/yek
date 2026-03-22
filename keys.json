@@ -4317,8 +4317,15 @@
     "userId": "9203312399",
     "source": "script",
     "createdAt": "2026-03-22T10:56:16.992Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T10:56:51.788Z",
     "geo": {
+      "ip": "128.127.120.35",
+      "city": "Izvin",
+      "region": "Timiș County",
+      "country": "Romania",
+      "cc": "RO"
+    },
+    "lastGeo": {
       "ip": "128.127.120.35",
       "city": "Izvin",
       "region": "Timiș County",
