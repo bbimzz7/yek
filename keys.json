@@ -34399,5 +34399,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-4447BC-F758BC-9E1F33": {
+    "expires": "2026-03-23T09:00:30.336Z",
+    "hwid": "10416604862-ab898cbe-5a51-4b2b-9be2-30a96a02ad99",
+    "browserHwid": null,
+    "username": "nanadd_941",
+    "userId": "10416604862",
+    "source": "script",
+    "createdAt": "2026-03-22T09:00:30.979Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.5.223",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
