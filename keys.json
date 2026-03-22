@@ -5181,8 +5181,15 @@
     "userId": "10250853831",
     "source": "script",
     "createdAt": "2026-03-22T18:57:01.234Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T18:58:53.729Z",
     "geo": {
+      "ip": "190.227.148.34",
+      "city": "Funes",
+      "region": "Santa Fe",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "190.227.148.34",
       "city": "Funes",
       "region": "Santa Fe",
