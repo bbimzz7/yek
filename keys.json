@@ -4332,5 +4332,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-B1F394-B0CF3D-B70C16": {
+    "expires": "2026-03-23T11:05:15.786Z",
+    "hwid": "10706235776-5e2d1f9b-1038-4ed3-8e44-4eb6d2011f1b",
+    "browserHwid": null,
+    "username": "Rakdid8",
+    "userId": "10706235776",
+    "source": "script",
+    "createdAt": "2026-03-22T11:05:16.293Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.164.22.203",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
