@@ -5436,5 +5436,22 @@
       "country": "Hungary",
       "cc": "HU"
     }
+  },
+  "VH-02655C-645E9A-EAB280": {
+    "expires": "2026-03-23T22:11:35.583Z",
+    "hwid": "10288333033-64d2f662-4980-494e-b99b-093b2658c844",
+    "browserHwid": null,
+    "username": "Moenayuyu6",
+    "userId": "10288333033",
+    "source": "script",
+    "createdAt": "2026-03-22T22:11:35.968Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "58.147.189.106",
+      "city": "Pemangkat",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
