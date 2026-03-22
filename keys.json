@@ -33623,8 +33623,15 @@
     "userId": "405840807",
     "source": "script",
     "createdAt": "2026-03-22T02:54:39.164Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T02:54:45.627Z",
     "geo": {
+      "ip": "125.165.106.218",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.165.106.218",
       "city": "Pekanbaru",
       "region": "Riau",
