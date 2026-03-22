@@ -5542,5 +5542,22 @@
       "country": "Israel",
       "cc": "IL"
     }
+  },
+  "VH-130268-75D060-BAFBFB": {
+    "expires": "2026-03-23T23:46:41.788Z",
+    "hwid": "5728197756-ffa20c14-916b-4c82-ae3a-ffb51491da25",
+    "browserHwid": null,
+    "username": "SOLFX_71",
+    "userId": "5728197756",
+    "source": "script",
+    "createdAt": "2026-03-22T23:46:41.976Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "151.255.12.158",
+      "city": "Jeddah",
+      "region": "Mecca Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
