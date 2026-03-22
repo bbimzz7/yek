@@ -33117,5 +33117,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F6B8A1-3CBEED-B65975": {
+    "expires": "2026-03-23T00:15:43.677Z",
+    "hwid": "10685871129-e14cab6d-61db-4549-a177-9c892d950249",
+    "browserHwid": null,
+    "username": "Thrtxqw",
+    "userId": "10685871129",
+    "source": "script",
+    "createdAt": "2026-03-22T00:15:44.367Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.131.109.20",
+      "city": "Manama",
+      "region": "Manama",
+      "country": "Bahrain",
+      "cc": "BH"
+    }
   }
 }
