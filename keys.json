@@ -4413,8 +4413,15 @@
     "userId": "9531606975",
     "source": "script",
     "createdAt": "2026-03-22T11:42:16.555Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T11:42:42.645Z",
     "geo": {
+      "ip": "168.167.18.167",
+      "city": "Gaborone",
+      "region": "Gaborone",
+      "country": "Botswana",
+      "cc": "BW"
+    },
+    "lastGeo": {
       "ip": "168.167.18.167",
       "city": "Gaborone",
       "region": "Gaborone",
