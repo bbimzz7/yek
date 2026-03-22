@@ -33479,8 +33479,15 @@
     "userId": "4849147851",
     "source": "script",
     "createdAt": "2026-03-22T01:41:23.808Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T01:41:30.226Z",
     "geo": {
+      "ip": "65.27.16.109",
+      "city": "Bridgetown",
+      "region": "Ohio",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "65.27.16.109",
       "city": "Bridgetown",
       "region": "Ohio",
