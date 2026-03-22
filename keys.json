@@ -4932,5 +4932,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-175C1F-896093-BEF78A": {
+    "expires": "2026-03-23T15:48:44.411Z",
+    "hwid": "8287862625-2db38e92-4999-46cf-b30f-852200b2a9b1",
+    "browserHwid": null,
+    "username": "DINOST58",
+    "userId": "8287862625",
+    "source": "script",
+    "createdAt": "2026-03-22T15:48:44.593Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.3.102.11",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
