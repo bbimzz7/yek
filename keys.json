@@ -34183,5 +34183,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-1C8B35-E6064D-EF0B6C": {
+    "expires": "2026-03-23T07:04:59.197Z",
+    "hwid": "10680590485-b159b8c7-869a-4bcf-bf86-936c43f848ab",
+    "browserHwid": null,
+    "username": "x_VkNv",
+    "userId": "10680590485",
+    "source": "script",
+    "createdAt": "2026-03-22T07:04:59.833Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.248.37.202",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
