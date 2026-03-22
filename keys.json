@@ -33542,5 +33542,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-C013B1-EB3539-B40691": {
+    "expires": "2026-03-23T02:16:02.923Z",
+    "hwid": "9876760721-1f7b84d4-bdee-4b5d-9a2b-f047c161bb3e",
+    "browserHwid": null,
+    "username": "LordGMsultan",
+    "userId": "9876760721",
+    "source": "script",
+    "createdAt": "2026-03-22T02:16:03.498Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.75.242.114",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
