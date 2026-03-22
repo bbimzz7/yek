@@ -5124,5 +5124,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-467805-A0DEE0-D26044": {
+    "expires": "2026-03-23T17:53:39.203Z",
+    "hwid": "7710508291-90a69c20-c16a-4847-b958-7d4d7248ca32",
+    "browserHwid": null,
+    "username": "Xxyanna_m1",
+    "userId": "7710508291",
+    "source": "script",
+    "createdAt": "2026-03-22T17:53:39.596Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "152.237.131.250",
+      "city": "Manaus",
+      "region": "Amazonas",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
