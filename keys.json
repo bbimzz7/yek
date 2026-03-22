@@ -5373,8 +5373,15 @@
     "userId": "6029348419",
     "source": "script",
     "createdAt": "2026-03-22T21:26:02.040Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T21:26:09.844Z",
     "geo": {
+      "ip": "73.6.224.43",
+      "city": "Houston",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.6.224.43",
       "city": "Houston",
       "region": "Texas",
