@@ -34207,5 +34207,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-469B04-3E489E-BD9F9F": {
+    "expires": "2026-03-23T07:25:36.654Z",
+    "hwid": "7743906079-00cd8671-b069-4cf2-8493-486da8ce46f4",
+    "browserHwid": null,
+    "username": "Justachillguy_q",
+    "userId": "7743906079",
+    "source": "script",
+    "createdAt": "2026-03-22T07:25:37.355Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "72.189.19.99",
+      "city": "Clermont",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
