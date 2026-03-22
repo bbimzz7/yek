@@ -5133,8 +5133,15 @@
     "userId": "7710508291",
     "source": "script",
     "createdAt": "2026-03-22T17:53:39.596Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T17:56:01.254Z",
     "geo": {
+      "ip": "152.237.131.250",
+      "city": "Manaus",
+      "region": "Amazonas",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "152.237.131.250",
       "city": "Manaus",
       "region": "Amazonas",
