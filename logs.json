@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-03-22T09:39:22.795Z",
+    "action": "bulkdelete",
+    "detail": "1279 key terpilih dihapus"
+  },
+  {
     "ts": "2026-03-18T05:58:59.286Z",
     "action": "resethwid",
     "detail": "HWID key VH-E3F8D0-8C706F-6AC903 direset"
