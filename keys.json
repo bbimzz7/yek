@@ -4740,5 +4740,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-9E0059-5B1014-461BFB": {
+    "expires": "2026-03-23T14:44:38.060Z",
+    "hwid": "4086264197-16c03db8-6215-422e-a48b-224a46c2d689",
+    "browserHwid": null,
+    "username": "Ademxz1",
+    "userId": "4086264197",
+    "source": "script",
+    "createdAt": "2026-03-22T14:44:38.452Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "169.224.86.140",
+      "city": "Samawah",
+      "region": "Muthanna Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
