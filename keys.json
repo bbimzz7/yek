@@ -4908,5 +4908,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-76A1B8-95C339-0E7E85": {
+    "expires": "2026-03-23T15:47:49.836Z",
+    "hwid": "8586710084-c14ebc56-498f-4048-a3e9-c88a0070054a",
+    "browserHwid": null,
+    "username": "Yuzo0930",
+    "userId": "8586710084",
+    "source": "script",
+    "createdAt": "2026-03-22T15:47:50.186Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.228.143",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
