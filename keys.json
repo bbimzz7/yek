@@ -4509,11 +4509,18 @@
     "userId": "10561614263",
     "source": "script",
     "createdAt": "2026-03-22T12:34:05.353Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T12:36:15.039Z",
     "geo": {
       "ip": "183.171.96.25",
       "city": "Putra Heights",
       "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
+      "ip": "183.171.100.57",
+      "city": "Muadzam Shah City",
+      "region": "Pahang",
       "country": "Malaysia",
       "cc": "MY"
     }
