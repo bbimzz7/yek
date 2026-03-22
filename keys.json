@@ -5412,5 +5412,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C5C8EA-13BF71-1F8EAB": {
+    "expires": "2026-03-23T22:09:45.267Z",
+    "hwid": "10185530021-5940F9D8-B7B3-4B3B-812E-05E96F466A09",
+    "browserHwid": null,
+    "username": "RomanticSongs",
+    "userId": "10185530021",
+    "source": "script",
+    "createdAt": "2026-03-22T22:09:45.649Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.164.184.124",
+      "city": "Budapest",
+      "region": "Budapest",
+      "country": "Hungary",
+      "cc": "HU"
+    }
   }
 }
