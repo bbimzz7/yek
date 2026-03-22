@@ -4749,8 +4749,15 @@
     "userId": "4086264197",
     "source": "script",
     "createdAt": "2026-03-22T14:44:38.452Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T14:44:44.582Z",
     "geo": {
+      "ip": "169.224.86.140",
+      "city": "Samawah",
+      "region": "Muthanna Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "169.224.86.140",
       "city": "Samawah",
       "region": "Muthanna Governorate",
