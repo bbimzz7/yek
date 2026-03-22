@@ -5061,8 +5061,15 @@
     "userId": "4138133972",
     "source": "script",
     "createdAt": "2026-03-22T16:55:16.822Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T16:55:41.311Z",
     "geo": {
+      "ip": "201.230.16.26",
+      "city": "Callao",
+      "region": "Provincia Constitucional del Callao",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
       "ip": "201.230.16.26",
       "city": "Callao",
       "region": "Provincia Constitucional del Callao",
