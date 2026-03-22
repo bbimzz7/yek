@@ -34471,5 +34471,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-89AA88-AA265E-0EFDA8": {
+    "expires": "2026-03-23T09:35:11.886Z",
+    "hwid": "8360351336-3994a303-b198-4d2c-9c53-e34b61376a14",
+    "browserHwid": null,
+    "username": "akulapar12343",
+    "userId": "8360351336",
+    "source": "script",
+    "createdAt": "2026-03-22T09:35:12.582Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.46.186.116",
+      "city": "Kebon Gunung",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
