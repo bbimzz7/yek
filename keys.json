@@ -31529,7 +31529,7 @@
     "userId": "3687693750",
     "source": "script",
     "createdAt": "2026-03-21T13:46:53.114Z",
-    "lastUsed": "2026-03-21T13:52:27.399Z",
+    "lastUsed": "2026-03-22T07:32:37.264Z",
     "geo": {
       "ip": "23.166.88.145",
       "city": "Zurich",
@@ -31538,11 +31538,11 @@
       "cc": "CH"
     },
     "lastGeo": {
-      "ip": "23.166.88.145",
-      "city": "Zurich",
-      "region": "Zurich",
-      "country": "Switzerland",
-      "cc": "CH"
+      "ip": "46.36.153.15",
+      "city": "Oral",
+      "region": "West Kazakhstan",
+      "country": "Kazakhstan",
+      "cc": "KZ"
     }
   },
   "VH-CC5430-B60280-40F632": {
