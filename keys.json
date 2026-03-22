@@ -34216,8 +34216,15 @@
     "userId": "7743906079",
     "source": "script",
     "createdAt": "2026-03-22T07:25:37.355Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T07:25:46.957Z",
     "geo": {
+      "ip": "72.189.19.99",
+      "city": "Clermont",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "72.189.19.99",
       "city": "Clermont",
       "region": "Florida",
