@@ -34231,5 +34231,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-71C220-16CF92-6D27DB": {
+    "expires": "2026-03-23T07:40:08.479Z",
+    "hwid": "10708561670-8e769be2-f478-4496-8637-e9de575e6d65",
+    "browserHwid": null,
+    "username": "Old_evade5",
+    "userId": "10708561670",
+    "source": "script",
+    "createdAt": "2026-03-22T07:40:09.084Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.47.132.15",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
