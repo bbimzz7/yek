@@ -33198,8 +33198,15 @@
     "userId": "10684264190",
     "source": "script",
     "createdAt": "2026-03-22T00:38:36.947Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T00:38:46.481Z",
     "geo": {
+      "ip": "27.145.14.202",
+      "city": "Khlong Luang",
+      "region": "Pathum Thani",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "27.145.14.202",
       "city": "Khlong Luang",
       "region": "Pathum Thani",
