@@ -4428,5 +4428,22 @@
       "country": "Botswana",
       "cc": "BW"
     }
+  },
+  "VH-864B17-386183-69D93B": {
+    "expires": "2026-03-23T11:53:33.494Z",
+    "hwid": "10709134643-7E444C35-A67A-46F3-AD96-08D56788455E",
+    "browserHwid": null,
+    "username": "gakkjebbieu228",
+    "userId": "10709134643",
+    "source": "script",
+    "createdAt": "2026-03-22T11:53:33.909Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "109.163.218.113",
+      "city": "Angarsk",
+      "region": "Irkutsk Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
