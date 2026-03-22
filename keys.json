@@ -33727,5 +33727,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-33B8C7-2CBE15-6C1136": {
+    "expires": "2026-03-23T04:00:15.918Z",
+    "hwid": "8945217888-bd7fa86e-1307-4da9-ba70-1ae6017cd675",
+    "browserHwid": null,
+    "username": "Yunus_Fernando",
+    "userId": "8945217888",
+    "source": "script",
+    "createdAt": "2026-03-22T04:00:16.561Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.67.248",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
