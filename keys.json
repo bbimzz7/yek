@@ -34480,8 +34480,15 @@
     "userId": "8360351336",
     "source": "script",
     "createdAt": "2026-03-22T09:35:12.582Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T09:35:52.633Z",
     "geo": {
+      "ip": "103.46.186.116",
+      "city": "Kebon Gunung",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.46.186.116",
       "city": "Kebon Gunung",
       "region": "Central Java",
