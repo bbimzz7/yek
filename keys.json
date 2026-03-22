@@ -34375,5 +34375,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-35F568-3EC7B9-6F6D01": {
+    "expires": "2026-03-23T08:52:41.261Z",
+    "hwid": "9154458903-674BDE6A-2614-41A1-85DE-4B7E1C0578E7",
+    "browserHwid": null,
+    "username": "passwordinjected",
+    "userId": "9154458903",
+    "source": "script",
+    "createdAt": "2026-03-22T08:52:41.869Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "86.15.108.93",
+      "city": "Leicester",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
