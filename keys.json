@@ -2177,7 +2177,7 @@
     "userId": "8680167364",
     "source": "script",
     "createdAt": "2026-03-21T17:15:29.849Z",
-    "lastUsed": "2026-03-22T12:24:42.945Z",
+    "lastUsed": "2026-03-22T13:43:20.397Z",
     "geo": {
       "ip": "109.122.0.237",
       "city": "Helsinki",
@@ -2186,11 +2186,11 @@
       "cc": "FI"
     },
     "lastGeo": {
-      "ip": "5.56.26.22",
-      "city": "Frankfurt am Main",
-      "region": "Hesse",
-      "country": "Germany",
-      "cc": "DE"
+      "ip": "185.139.215.121",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
     }
   },
   "VH-B387D5-F2C2B2-06A871": {
