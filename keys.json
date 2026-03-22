@@ -33671,8 +33671,15 @@
     "userId": "5465747386",
     "source": "script",
     "createdAt": "2026-03-22T03:27:13.322Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-22T03:28:12.181Z",
     "geo": {
+      "ip": "14.191.185.212",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "14.191.185.212",
       "city": "Hanoi",
       "region": "Hanoi",
