@@ -5364,5 +5364,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-9B8DBD-40C775-F4E920": {
+    "expires": "2026-03-23T21:26:01.644Z",
+    "hwid": "6029348419-E017C1AD-C0EB-4336-B4D7-F0215DC7D792",
+    "browserHwid": null,
+    "username": "Tamiraxxz",
+    "userId": "6029348419",
+    "source": "script",
+    "createdAt": "2026-03-22T21:26:02.040Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.6.224.43",
+      "city": "Houston",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
