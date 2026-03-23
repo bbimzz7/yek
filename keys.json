@@ -7421,5 +7421,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-A9AAC3-7FACF0-CB725E": {
+    "expires": "2026-03-24T21:31:33.794Z",
+    "hwid": "9054316140-8a6a3ce3-0bc8-443a-85bf-ded786c67d26",
+    "browserHwid": null,
+    "username": "aidanisocool_2",
+    "userId": "9054316140",
+    "source": "script",
+    "createdAt": "2026-03-23T21:31:34.194Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.177.217.66",
+      "city": "Georgetown",
+      "region": "Demerara-Mahaica",
+      "country": "Guyana",
+      "cc": "GY"
+    }
   }
 }
