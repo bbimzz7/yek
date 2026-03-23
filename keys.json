@@ -5841,11 +5841,18 @@
     "userId": "9322579523",
     "source": "script",
     "createdAt": "2026-03-23T04:00:02.518Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T04:01:09.130Z",
     "geo": {
       "ip": "27.125.241.101",
       "city": "Kampung Teluk Kumbar",
       "region": "Penang",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
+      "ip": "27.125.241.86",
+      "city": "Sungai Petani",
+      "region": "Kedah",
       "country": "Malaysia",
       "cc": "MY"
     }
