@@ -7085,5 +7085,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-2A9400-CF4656-2729BA": {
+    "expires": "2026-03-24T16:56:24.844Z",
+    "hwid": "9935240128-914fdd68-52f4-4321-8a17-7c7c0865c43b",
+    "browserHwid": null,
+    "username": "glasserple",
+    "userId": "9935240128",
+    "source": "script",
+    "createdAt": "2026-03-23T16:56:25.269Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.75.236.136",
+      "city": "Seri Kembangan",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
