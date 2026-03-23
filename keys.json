@@ -5976,5 +5976,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B041B9-A58351-40DD1F": {
+    "expires": "2026-03-24T05:33:17.349Z",
+    "hwid": "9298098173-a1249d35-159c-448f-a6cc-75ea6b572dfa",
+    "browserHwid": null,
+    "username": "rendynocihit",
+    "userId": "9298098173",
+    "source": "script",
+    "createdAt": "2026-03-23T05:33:17.827Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.162.222",
+      "city": "Samarinda",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
