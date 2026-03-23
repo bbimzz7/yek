@@ -4653,7 +4653,7 @@
     "userId": "8612535719",
     "source": "script",
     "createdAt": "2026-03-22T14:08:01.532Z",
-    "lastUsed": "2026-03-22T20:14:59.558Z",
+    "lastUsed": "2026-03-23T13:37:10.404Z",
     "geo": {
       "ip": "140.213.139.82",
       "city": "Semarang",
@@ -4662,9 +4662,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.10.6.125",
-      "city": "Semarang",
-      "region": "Central Java",
+      "ip": "103.162.54.147",
+      "city": "Jatiwangi",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
