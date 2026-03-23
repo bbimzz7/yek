@@ -7373,5 +7373,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1F64E8-61BDB4-8F84E0": {
+    "expires": "2026-03-24T21:18:43.372Z",
+    "hwid": "1553829594-33c9e6b9-f0b2-4bcc-9ced-c10f191aa95e",
+    "browserHwid": null,
+    "username": "9IvSz",
+    "userId": "1553829594",
+    "source": "script",
+    "createdAt": "2026-03-23T21:18:43.856Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "173.20.160.208",
+      "city": "Waukee",
+      "region": "Iowa",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
