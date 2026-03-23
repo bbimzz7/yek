@@ -5712,5 +5712,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-417E5D-95C551-AD683A": {
+    "expires": "2026-03-24T02:34:38.937Z",
+    "hwid": "2591181671-1f622879-a8b0-4f3c-bb60-a0985bc21fe8",
+    "browserHwid": null,
+    "username": "Andrexnano",
+    "userId": "2591181671",
+    "source": "script",
+    "createdAt": "2026-03-23T02:34:39.377Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.5.200.200",
+      "city": "Driyorejo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
