@@ -6508,8 +6508,15 @@
     "userId": "9888927763",
     "source": "script",
     "createdAt": "2026-03-23T11:59:04.191Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T11:59:16.931Z",
     "geo": {
+      "ip": "41.25.43.230",
+      "city": "Ngagane",
+      "region": "KwaZulu-Natal",
+      "country": "South Africa",
+      "cc": "ZA"
+    },
+    "lastGeo": {
       "ip": "41.25.43.230",
       "city": "Ngagane",
       "region": "KwaZulu-Natal",
