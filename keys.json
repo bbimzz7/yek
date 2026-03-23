@@ -7229,5 +7229,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2BA031-0F79BB-752A40": {
+    "expires": "2026-03-24T18:27:34.641Z",
+    "hwid": "7710508291-d44018c1-aabb-4b3b-aad2-58fe7ebf65b5",
+    "browserHwid": null,
+    "username": "Xxyanna_m1",
+    "userId": "7710508291",
+    "source": "script",
+    "createdAt": "2026-03-23T18:27:35.103Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "152.237.131.250",
+      "city": "Manaus",
+      "region": "Amazonas",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
