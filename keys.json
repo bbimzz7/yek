@@ -6000,5 +6000,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CBB2B2-0860A0-26CC84": {
+    "expires": "2026-03-24T06:01:06.562Z",
+    "hwid": "10191605651-edbeb8a7-3b27-49af-9c7b-5a1f962df1cb",
+    "browserHwid": null,
+    "username": "rbgaminn",
+    "userId": "10191605651",
+    "source": "script",
+    "createdAt": "2026-03-23T06:01:06.986Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.36.191.150",
+      "city": "Delhi",
+      "region": "National Capital Territory of Delhi",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
