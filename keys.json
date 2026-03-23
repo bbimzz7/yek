@@ -5664,5 +5664,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-4E18CA-B2BC17-F202D8": {
+    "expires": "2026-03-24T01:57:25.075Z",
+    "hwid": "3332091245-23fad435-34ac-4eab-a6ac-cd2ecbb2aec7",
+    "browserHwid": null,
+    "username": "BocilGkNgotak",
+    "userId": "3332091245",
+    "source": "script",
+    "createdAt": "2026-03-23T01:57:25.437Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.10.182.113",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
