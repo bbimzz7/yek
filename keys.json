@@ -5566,5 +5566,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-E17079-F6B579-7D29FF": {
+    "expires": "2026-03-24T00:28:33.210Z",
+    "hwid": "8669905878-94e068f1-bc81-48ec-b0cf-5357a2295228",
+    "browserHwid": null,
+    "username": "piieuwww",
+    "userId": "8669905878",
+    "source": "script",
+    "createdAt": "2026-03-23T00:28:33.562Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.173.173",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
