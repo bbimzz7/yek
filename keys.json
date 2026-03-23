@@ -6523,5 +6523,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-C7522B-C2AAB3-44E60C": {
+    "expires": "2026-03-24T12:12:54.083Z",
+    "hwid": "9453567755-c76402c0-c25c-4a18-9208-ab32b404c1be",
+    "browserHwid": null,
+    "username": "Ldiee06",
+    "userId": "9453567755",
+    "source": "script",
+    "createdAt": "2026-03-23T12:12:54.457Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.102.12.85",
+      "city": "Rembang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
