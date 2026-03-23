@@ -7277,5 +7277,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2FE56C-518EA1-1ABE2F": {
+    "expires": "2026-03-24T20:11:03.818Z",
+    "hwid": "3386814648-87310be3-a962-48a1-a59b-60803e65b15c",
+    "browserHwid": null,
+    "username": "jekon85",
+    "userId": "3386814648",
+    "source": "script",
+    "createdAt": "2026-03-23T20:11:04.199Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "169.224.30.139",
+      "city": "Baghdad",
+      "region": "Baghdad",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
