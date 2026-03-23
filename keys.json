@@ -7109,5 +7109,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-607CA1-0A370D-64A3AE": {
+    "expires": "2026-03-24T16:58:56.126Z",
+    "hwid": "4295786097-5A933BF4-649D-4FAF-BAF0-48FA7D86D1C6",
+    "browserHwid": null,
+    "username": "B0t_HeSab2323",
+    "userId": "4295786097",
+    "source": "script",
+    "createdAt": "2026-03-23T16:58:56.405Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "78.163.157.135",
+      "city": "İzmit",
+      "region": "Kocaeli",
+      "country": "Türkiye",
+      "cc": "TR"
+    }
   }
 }
