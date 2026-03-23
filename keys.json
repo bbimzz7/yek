@@ -7445,5 +7445,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-FD4715-86DE8D-2A499F": {
+    "expires": "2026-03-24T21:55:52.461Z",
+    "hwid": "9342878027-74719da9-7d3e-4fe0-a80a-ec3976c38411",
+    "browserHwid": null,
+    "username": "4Lk4y8",
+    "userId": "9342878027",
+    "source": "script",
+    "createdAt": "2026-03-23T21:55:52.882Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "121.101.130.92",
+      "city": "Kebon Gunung",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
