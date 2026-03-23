@@ -6129,8 +6129,15 @@
     "userId": "9938783721",
     "source": "script",
     "createdAt": "2026-03-23T07:48:29.078Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T07:48:44.151Z",
     "geo": {
+      "ip": "114.5.212.121",
+      "city": "Jatiluhur",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.5.212.121",
       "city": "Jatiluhur",
       "region": "West Java",
