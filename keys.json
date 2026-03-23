@@ -6693,8 +6693,15 @@
     "userId": "9755640879",
     "source": "script",
     "createdAt": "2026-03-23T13:09:10.277Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T13:10:28.518Z",
     "geo": {
+      "ip": "136.158.64.210",
+      "city": "San Pablo",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.64.210",
       "city": "San Pablo",
       "region": "Calabarzon",
