@@ -6998,8 +6998,15 @@
     "userId": "10716925642",
     "source": "script",
     "createdAt": "2026-03-23T16:28:27.534Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T16:30:55.299Z",
     "geo": {
+      "ip": "180.190.240.112",
+      "city": "Iloilo City",
+      "region": "Western Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "180.190.240.112",
       "city": "Iloilo City",
       "region": "Western Visayas",
