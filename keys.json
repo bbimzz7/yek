@@ -6451,5 +6451,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EAA7BD-1EF71B-951A4A": {
+    "expires": "2026-03-24T11:27:03.093Z",
+    "hwid": "7313326017-1a6a87a3-5979-4bdc-8027-21d4f77c55ee",
+    "browserHwid": null,
+    "username": "Zayn_2326",
+    "userId": "7313326017",
+    "source": "script",
+    "createdAt": "2026-03-23T11:27:03.535Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.210.90.163",
+      "city": "Kudat",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
