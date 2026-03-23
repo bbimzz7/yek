@@ -6340,8 +6340,15 @@
     "userId": "9342878027",
     "source": "script",
     "createdAt": "2026-03-23T10:48:47.851Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T10:49:03.815Z",
     "geo": {
+      "ip": "121.101.130.92",
+      "city": "Kebon Gunung",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "121.101.130.92",
       "city": "Kebon Gunung",
       "region": "Central Java",
