@@ -6282,5 +6282,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-BA1CB5-F987F4-073270": {
+    "expires": "2026-03-24T10:02:23.929Z",
+    "hwid": null,
+    "browserHwid": "BR-3B6535C4-ZJ6M5",
+    "username": "schwco412",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-23T10:02:24.360Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.4.78.27",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
