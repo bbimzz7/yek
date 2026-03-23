@@ -5721,7 +5721,7 @@
     "userId": "2591181671",
     "source": "script",
     "createdAt": "2026-03-23T02:34:39.377Z",
-    "lastUsed": "2026-03-23T05:05:28.420Z",
+    "lastUsed": "2026-03-23T07:45:13.398Z",
     "geo": {
       "ip": "182.5.200.200",
       "city": "Driyorejo",
@@ -5730,8 +5730,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "182.5.200.200",
-      "city": "Driyorejo",
+      "ip": "149.113.55.222",
+      "city": "Surabaya",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
