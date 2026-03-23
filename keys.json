@@ -7118,8 +7118,15 @@
     "userId": "4295786097",
     "source": "script",
     "createdAt": "2026-03-23T16:58:56.405Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T16:59:03.317Z",
     "geo": {
+      "ip": "78.163.157.135",
+      "city": "İzmit",
+      "region": "Kocaeli",
+      "country": "Türkiye",
+      "cc": "TR"
+    },
+    "lastGeo": {
       "ip": "78.163.157.135",
       "city": "İzmit",
       "region": "Kocaeli",
