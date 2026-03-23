@@ -6667,5 +6667,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6675DB-02D202-527B27": {
+    "expires": "2026-03-24T12:59:19.760Z",
+    "hwid": null,
+    "browserHwid": "BR-3B65367E-INLOP",
+    "username": "1st36",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-23T12:59:20.207Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.154.151.98",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
