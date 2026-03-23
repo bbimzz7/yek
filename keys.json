@@ -6547,5 +6547,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-47C70F-66B0FB-D1B07E": {
+    "expires": "2026-03-24T12:47:10.053Z",
+    "hwid": "9198996735-c4c65062-a371-49de-9384-313a0f425ae2",
+    "browserHwid": null,
+    "username": "Ziixanjitiktok",
+    "userId": "9198996735",
+    "source": "script",
+    "createdAt": "2026-03-23T12:47:10.513Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.254.97.93",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
