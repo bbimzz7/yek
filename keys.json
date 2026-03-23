@@ -7325,5 +7325,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-000C45-686EC5-67E97A": {
+    "expires": "2026-03-24T20:48:43.604Z",
+    "hwid": "10615898815-a9cc2ff0-2ec6-41cc-81b8-316207ae1f42",
+    "browserHwid": null,
+    "username": "Yusufy484",
+    "userId": "10615898815",
+    "source": "script",
+    "createdAt": "2026-03-23T20:48:44.048Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "151.254.78.134",
+      "city": "Riyadh",
+      "region": "Riyadh Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
