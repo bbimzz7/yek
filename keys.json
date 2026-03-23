@@ -6240,5 +6240,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-898A29-31CD46-FB92B0": {
+    "expires": "2026-03-24T09:05:46.186Z",
+    "hwid": "9820243761-dbad8e2a-e407-4e4d-9d76-f846c7446b4d",
+    "browserHwid": null,
+    "username": "nico_678110",
+    "userId": "9820243761",
+    "source": "script",
+    "createdAt": "2026-03-23T09:05:46.688Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "122.52.170.207",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
