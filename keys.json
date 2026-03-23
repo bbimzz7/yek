@@ -7046,8 +7046,15 @@
     "userId": "8612535719",
     "source": "script",
     "createdAt": "2026-03-23T16:42:05.633Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T16:42:16.219Z",
     "geo": {
+      "ip": "103.162.54.147",
+      "city": "Jatiwangi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.162.54.147",
       "city": "Jatiwangi",
       "region": "West Java",
