@@ -6725,5 +6725,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-8FCA48-A7365F-73A4A4": {
+    "expires": "2026-03-24T13:35:47.442Z",
+    "hwid": null,
+    "browserHwid": "BR-103E3633-ANFW7",
+    "username": "VH-902A12-AB6F14-37BD25",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-23T13:35:47.721Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.49.145.30",
+      "city": "Seogwipo-si",
+      "region": "Jeju-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
