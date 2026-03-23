@@ -7469,5 +7469,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-5CC5AA-0B4F3D-E5884B": {
+    "expires": "2026-03-24T22:41:55.761Z",
+    "hwid": "7916559463-20361024-5517-4f90-8059-1351bba8ba9f",
+    "browserHwid": null,
+    "username": "ARyo_TID",
+    "userId": "7916559463",
+    "source": "script",
+    "createdAt": "2026-03-23T22:41:56.199Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.138.53.141",
+      "city": "Karawang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
