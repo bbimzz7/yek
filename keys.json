@@ -6225,13 +6225,20 @@
     "userId": "10347194793",
     "source": "script",
     "createdAt": "2026-03-23T08:33:05.969Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T08:33:28.189Z",
     "geo": {
       "ip": "121.101.130.92",
       "city": "Kebon Gunung",
       "region": "Central Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.22.193.113",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
