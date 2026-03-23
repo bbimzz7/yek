@@ -7037,5 +7037,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6600B9-65CD08-523891": {
+    "expires": "2026-03-24T16:42:05.146Z",
+    "hwid": "8612535719-c2a68c64-5cbf-4fda-b91e-69cca2ea1049",
+    "browserHwid": null,
+    "username": "shxyka_1",
+    "userId": "8612535719",
+    "source": "script",
+    "createdAt": "2026-03-23T16:42:05.633Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.162.54.147",
+      "city": "Jatiwangi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
