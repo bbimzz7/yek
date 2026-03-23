@@ -6643,5 +6643,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-AFD66B-582CCA-4C845F": {
+    "expires": "2026-03-24T12:51:15.354Z",
+    "hwid": "8172890203-a8ace033-47aa-48b0-8257-bfa524a5bee2",
+    "browserHwid": null,
+    "username": "Shb_503",
+    "userId": "8172890203",
+    "source": "script",
+    "createdAt": "2026-03-23T12:51:15.571Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.236.134",
+      "city": "Batu",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
