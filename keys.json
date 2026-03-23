@@ -6331,5 +6331,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-B06A2B-2DBE58-F76CEC": {
+    "expires": "2026-03-24T10:48:47.402Z",
+    "hwid": "9342878027-aaca0ff4-a889-480c-9dca-fc8f332e3fd9",
+    "browserHwid": null,
+    "username": "4Lk4y8",
+    "userId": "9342878027",
+    "source": "script",
+    "createdAt": "2026-03-23T10:48:47.851Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "121.101.130.92",
+      "city": "Kebon Gunung",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
