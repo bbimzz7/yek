@@ -5832,5 +5832,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-555071-7C4BE7-7EDD18": {
+    "expires": "2026-03-24T04:00:02.098Z",
+    "hwid": "9322579523-b255548f-82c0-4d18-be27-5f8cc30dd8c4",
+    "browserHwid": null,
+    "username": "mirahchanzzzz",
+    "userId": "9322579523",
+    "source": "script",
+    "createdAt": "2026-03-23T04:00:02.518Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.241.101",
+      "city": "Kampung Teluk Kumbar",
+      "region": "Penang",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
