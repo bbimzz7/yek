@@ -6797,5 +6797,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-72FD74-226CB0-522E3F": {
+    "expires": "2026-03-24T14:25:54.012Z",
+    "hwid": "6108369369-d2ccdbea-8f3d-4b9d-8d49-a1dfc55d27b7",
+    "browserHwid": null,
+    "username": "BOBA142210",
+    "userId": "6108369369",
+    "source": "script",
+    "createdAt": "2026-03-23T14:25:54.498Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "148.153.140.230",
+      "city": "Mumbai",
+      "region": "Maharashtra",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
