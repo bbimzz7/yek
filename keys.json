@@ -6708,5 +6708,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-902A12-AB6F14-37BD25": {
+    "expires": "2026-03-24T13:35:39.854Z",
+    "hwid": "10525725285-53343F2D-5400-4B82-BCA3-7BCBFAF03D70",
+    "browserHwid": null,
+    "username": "X7VXNM",
+    "userId": "10525725285",
+    "source": "script",
+    "createdAt": "2026-03-23T13:35:40.260Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.49.145.30",
+      "city": "Seogwipo-si",
+      "region": "Jeju-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
