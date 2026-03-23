@@ -7205,5 +7205,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-D87AD6-A23239-F183B2": {
+    "expires": "2026-03-24T18:17:38.883Z",
+    "hwid": "10023663324-6DCD6433-2E68-40DD-AC49-42EB7DF2CC7B",
+    "browserHwid": null,
+    "username": "gnclay",
+    "userId": "10023663324",
+    "source": "script",
+    "createdAt": "2026-03-23T18:17:39.308Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.138.251.52",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
