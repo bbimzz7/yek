@@ -6821,5 +6821,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-18C5C3-575694-AE4119": {
+    "expires": "2026-03-24T15:31:20.608Z",
+    "hwid": "7794457342-41b14656-df9a-47bd-87e5-9e2bfa68bc89",
+    "browserHwid": null,
+    "username": "KRAKATOU9",
+    "userId": "7794457342",
+    "source": "script",
+    "createdAt": "2026-03-23T15:31:21.083Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.65.82.44",
+      "city": "Cilacap",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
