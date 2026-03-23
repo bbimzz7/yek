@@ -6830,8 +6830,15 @@
     "userId": "7794457342",
     "source": "script",
     "createdAt": "2026-03-23T15:31:21.083Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T15:32:02.055Z",
     "geo": {
+      "ip": "36.65.82.44",
+      "city": "Cilacap",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.65.82.44",
       "city": "Cilacap",
       "region": "Central Java",
