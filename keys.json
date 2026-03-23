@@ -6388,8 +6388,15 @@
     "userId": "5442360729",
     "source": "script",
     "createdAt": "2026-03-23T10:57:19.410Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T10:57:30.626Z",
     "geo": {
+      "ip": "130.195.216.84",
+      "city": "Umraniye",
+      "region": "Istanbul",
+      "country": "Turkey",
+      "cc": "TR"
+    },
+    "lastGeo": {
       "ip": "130.195.216.84",
       "city": "Umraniye",
       "region": "Istanbul",
