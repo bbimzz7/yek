@@ -6595,5 +6595,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-3632B9-94317A-04CB26": {
+    "expires": "2026-03-24T12:48:18.864Z",
+    "hwid": "9721229649-f56dcb91-e634-4901-8096-9c3465bad8c3",
+    "browserHwid": null,
+    "username": "ID53824822",
+    "userId": "9721229649",
+    "source": "script",
+    "createdAt": "2026-03-23T12:48:19.315Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.75.193",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
