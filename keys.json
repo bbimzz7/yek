@@ -6168,5 +6168,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-9DCA7D-5F0666-BE3BF4": {
+    "expires": "2026-03-24T08:08:35.907Z",
+    "hwid": "1408236657-3402aba7-5f02-48e2-a84a-7f0489f7d333",
+    "browserHwid": null,
+    "username": "dhalura",
+    "userId": "1408236657",
+    "source": "script",
+    "createdAt": "2026-03-23T08:08:36.278Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.94.32.14",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
