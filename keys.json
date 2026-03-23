@@ -5760,5 +5760,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-A851F8-CB7633-005CC4": {
+    "expires": "2026-03-24T03:07:11.547Z",
+    "hwid": "1056962153-c5498c08-202f-42d2-b303-7edbdb9d6bba",
+    "browserHwid": null,
+    "username": "Enji_5775",
+    "userId": "1056962153",
+    "source": "script",
+    "createdAt": "2026-03-23T03:07:11.953Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.170.68",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
