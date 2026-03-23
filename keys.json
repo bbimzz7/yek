@@ -6758,8 +6758,15 @@
     "userId": "8680167364",
     "source": "script",
     "createdAt": "2026-03-23T14:07:45.126Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T14:07:55.690Z",
     "geo": {
+      "ip": "23.251.60.187",
+      "city": "Marseille",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "23.251.60.187",
       "city": "Marseille",
       "region": "Provence-Alpes-Côte d'Azur",
