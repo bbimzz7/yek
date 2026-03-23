@@ -6033,8 +6033,15 @@
     "userId": "10680590485",
     "source": "script",
     "createdAt": "2026-03-23T06:03:04.858Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T06:07:11.786Z",
     "geo": {
+      "ip": "180.248.37.202",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.248.37.202",
       "city": "Malang",
       "region": "East Java",
