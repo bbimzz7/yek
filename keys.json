@@ -5904,5 +5904,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D31823-64227C-46021C": {
+    "expires": "2026-03-24T04:40:28.518Z",
+    "hwid": "8308707589-988bf34b-60f7-4577-90e9-35c44f99c6ef",
+    "browserHwid": null,
+    "username": "cookie_straw2",
+    "userId": "8308707589",
+    "source": "script",
+    "createdAt": "2026-03-23T04:40:28.873Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.54.198.61",
+      "city": "Talavera",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
