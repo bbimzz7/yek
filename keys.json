@@ -7382,8 +7382,15 @@
     "userId": "1553829594",
     "source": "script",
     "createdAt": "2026-03-23T21:18:43.856Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T21:19:15.154Z",
     "geo": {
+      "ip": "173.20.160.208",
+      "city": "Waukee",
+      "region": "Iowa",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "173.20.160.208",
       "city": "Waukee",
       "region": "Iowa",
