@@ -3484,7 +3484,7 @@
     "userId": "2996231848",
     "source": "script",
     "createdAt": "2026-03-22T04:21:51.345Z",
-    "lastUsed": "2026-03-23T02:10:30.245Z",
+    "lastUsed": "2026-03-23T02:50:52.931Z",
     "geo": {
       "ip": "115.187.29.8",
       "city": "Muhajirin",
@@ -3493,9 +3493,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "115.187.29.8",
-      "city": "Muhajirin",
-      "region": "West Nusa Tenggara",
+      "ip": "112.215.64.220",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
