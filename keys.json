@@ -6153,8 +6153,15 @@
     "userId": "4520101711",
     "source": "script",
     "createdAt": "2026-03-23T07:53:12.537Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T07:54:08.826Z",
     "geo": {
+      "ip": "189.225.154.122",
+      "city": "Naucalpan",
+      "region": "México",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.225.154.122",
       "city": "Naucalpan",
       "region": "México",
