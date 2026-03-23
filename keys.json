@@ -7238,8 +7238,15 @@
     "userId": "7710508291",
     "source": "script",
     "createdAt": "2026-03-23T18:27:35.103Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T18:42:39.439Z",
     "geo": {
+      "ip": "152.237.131.250",
+      "city": "Manaus",
+      "region": "Amazonas",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "152.237.131.250",
       "city": "Manaus",
       "region": "Amazonas",
