@@ -7190,8 +7190,15 @@
     "userId": "7926586744",
     "source": "script",
     "createdAt": "2026-03-23T18:11:54.793Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T18:12:11.518Z",
     "geo": {
+      "ip": "152.57.13.233",
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "152.57.13.233",
       "city": "Bengaluru",
       "region": "Karnataka",
