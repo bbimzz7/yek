@@ -7349,5 +7349,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-6443C0-2DACD0-4A86F2": {
+    "expires": "2026-03-24T21:07:45.141Z",
+    "hwid": "9151309017-45188F65-C91B-47C4-A8BD-BE370293EBE1",
+    "browserHwid": null,
+    "username": "Sveeett999",
+    "userId": "9151309017",
+    "source": "script",
+    "createdAt": "2026-03-23T21:07:45.598Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.251.155.117",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
