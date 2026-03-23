@@ -6652,8 +6652,15 @@
     "userId": "8172890203",
     "source": "script",
     "createdAt": "2026-03-23T12:51:15.571Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-23T12:51:23.808Z",
     "geo": {
+      "ip": "103.175.236.134",
+      "city": "Batu",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.175.236.134",
       "city": "Batu",
       "region": "East Java",
