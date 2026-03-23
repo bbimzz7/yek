@@ -5640,5 +5640,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-90E834-F6731A-6ED31F": {
+    "expires": "2026-03-24T01:09:31.062Z",
+    "hwid": "8703966769-d4da12c6-1b6b-4828-99a7-0823adaf438c",
+    "browserHwid": null,
+    "username": "TergelTekuYT",
+    "userId": "8703966769",
+    "source": "script",
+    "createdAt": "2026-03-23T01:09:31.460Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.9.46.40",
+      "city": "Ulan Bator",
+      "region": "Ulaanbaatar",
+      "country": "Mongolia",
+      "cc": "MN"
+    }
   }
 }
