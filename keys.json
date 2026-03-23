@@ -6403,5 +6403,22 @@
       "country": "Turkey",
       "cc": "TR"
     }
+  },
+  "VH-B8849C-F970F6-F93C88": {
+    "expires": "2026-03-24T10:59:20.649Z",
+    "hwid": "7208349372-28e49f0b-38ac-46f1-9450-515e4e23ca8a",
+    "browserHwid": null,
+    "username": "xatar131",
+    "userId": "7208349372",
+    "source": "script",
+    "createdAt": "2026-03-23T10:59:20.873Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.106.31.165",
+      "city": "Erbil",
+      "region": "Erbil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
