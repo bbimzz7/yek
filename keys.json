@@ -2497,5 +2497,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-C8CBA8-5524BC-56CA16": {
+    "expires": "2026-03-25T07:07:34.506Z",
+    "hwid": "10662762128-B87BCFEA-EB3E-44E9-8A02-10D118751A2F",
+    "browserHwid": null,
+    "username": "vrvywy",
+    "userId": "10662762128",
+    "source": "script",
+    "createdAt": "2026-03-24T07:07:34.677Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "121.82.135.30",
+      "city": "Osaka",
+      "region": "Osaka",
+      "country": "Japan",
+      "cc": "JP"
+    }
   }
 }
