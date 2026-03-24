@@ -4840,5 +4840,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-9CD3EF-5E9847-EF9417": {
+    "expires": "2026-03-25T18:39:32.128Z",
+    "hwid": "9165719107-dda83927-d814-4a70-a64c-5963e7f012cd",
+    "browserHwid": null,
+    "username": "DUMMY_YUD",
+    "userId": "9165719107",
+    "source": "script",
+    "createdAt": "2026-03-24T18:39:32.347Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "156.155.223.96",
+      "city": "Boksburg",
+      "region": "Gauteng",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
