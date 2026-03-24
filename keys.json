@@ -3909,5 +3909,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-6AD3EA-9DB922-69C5CF": {
+    "expires": "2026-03-25T14:36:04.283Z",
+    "hwid": "9198996735-c4c65062-a371-49de-9384-313a0f425ae2",
+    "browserHwid": null,
+    "username": "Ziixanjitiktok",
+    "userId": "9198996735",
+    "source": "script",
+    "createdAt": "2026-03-24T14:36:04.693Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.65.238.237",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
