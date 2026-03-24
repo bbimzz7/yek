@@ -4605,5 +4605,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-7A083F-64B2A1-C20A84": {
+    "expires": "2026-03-25T17:34:54.657Z",
+    "hwid": "1097283241-3A55E3A6-E89D-4AFE-8B62-1C5EFD5E7867",
+    "browserHwid": null,
+    "username": "pacefikastj",
+    "userId": "1097283241",
+    "source": "script",
+    "createdAt": "2026-03-24T17:34:55.076Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.209.134.214",
+      "city": "Warsaw",
+      "region": "Mazovia",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
