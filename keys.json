@@ -7775,5 +7775,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0BA84F-B11995-DCC62D": {
+    "expires": "2026-03-25T01:54:57.652Z",
+    "hwid": "4696897669-7b835202-e522-40cf-90ed-ad8233d74381",
+    "browserHwid": null,
+    "username": "jocuri_23",
+    "userId": "4696897669",
+    "source": "script",
+    "createdAt": "2026-03-24T01:54:58.034Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "82.78.49.39",
+      "city": "Oradea",
+      "region": "Bihor County",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
