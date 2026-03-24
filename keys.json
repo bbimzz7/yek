@@ -3324,5 +3324,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5CFD8D-89B252-0F8020": {
+    "expires": "2026-03-25T11:56:21.128Z",
+    "hwid": "10704120606-2207ee24-f27a-417c-ae9b-f12bd89e3591",
+    "browserHwid": null,
+    "username": "voucher67862",
+    "userId": "10704120606",
+    "source": "script",
+    "createdAt": "2026-03-24T11:56:21.364Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.32.28.23",
+      "city": "Anaheim",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
