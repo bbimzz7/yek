@@ -2242,7 +2242,7 @@
     "userId": "8961519442",
     "source": "script",
     "createdAt": "2026-03-24T05:27:37.872Z",
-    "lastUsed": "2026-03-24T11:37:03.528Z",
+    "lastUsed": "2026-03-24T12:20:38.596Z",
     "geo": {
       "ip": "114.10.147.111",
       "city": "Bandung",
@@ -2251,7 +2251,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.10.147.111",
+      "ip": "114.10.146.111",
       "city": "Bandung",
       "region": "West Java",
       "country": "Indonesia",
