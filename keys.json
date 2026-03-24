@@ -3789,5 +3789,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CAEB0D-C663C3-3D6793": {
+    "expires": "2026-03-25T13:54:05.057Z",
+    "hwid": "2571459445-E89D7D6A-9C88-4018-AF12-A69B4F87A5A2",
+    "browserHwid": null,
+    "username": "lailaparquer638",
+    "userId": "2571459445",
+    "source": "script",
+    "createdAt": "2026-03-24T13:54:05.437Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.99.155.37",
+      "city": "Cali",
+      "region": "Valle del Cauca Department",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
