@@ -5049,5 +5049,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2DCB04-0B9F11-26D036": {
+    "expires": "2026-03-25T19:32:15.878Z",
+    "hwid": "1676615293-1FBD8531-D8C6-43EF-8B6F-8FDF88238CA0",
+    "browserHwid": null,
+    "username": "angi221107",
+    "userId": "1676615293",
+    "source": "script",
+    "createdAt": "2026-03-24T19:32:16.380Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "217.249.193.86",
+      "city": "Wernigerode",
+      "region": "Saxony-Anhalt",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
