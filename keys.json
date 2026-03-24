@@ -3798,8 +3798,15 @@
     "userId": "2571459445",
     "source": "script",
     "createdAt": "2026-03-24T13:54:05.437Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T13:54:11.747Z",
     "geo": {
+      "ip": "190.99.155.37",
+      "city": "Cali",
+      "region": "Valle del Cauca Department",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
       "ip": "190.99.155.37",
       "city": "Cali",
       "region": "Valle del Cauca Department",
