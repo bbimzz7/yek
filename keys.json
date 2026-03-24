@@ -5337,5 +5337,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-73839D-D5C446-FF75D2": {
+    "expires": "2026-03-25T21:39:26.762Z",
+    "hwid": "3237861341-58197F92-06F8-40EB-A6A7-73C04D9D3B9D",
+    "browserHwid": null,
+    "username": "alonso12112221",
+    "userId": "3237861341",
+    "source": "script",
+    "createdAt": "2026-03-24T21:39:27.178Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.236.20.186",
+      "city": "Quillota",
+      "region": "Región de Valparaíso",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
