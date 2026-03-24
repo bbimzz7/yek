@@ -3251,8 +3251,15 @@
     "userId": "5786834377",
     "source": "script",
     "createdAt": "2026-03-24T11:31:27.875Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T11:31:36.457Z",
     "geo": {
+      "ip": "46.116.247.226",
+      "city": "Petah Tikva",
+      "region": "Central District",
+      "country": "Israel",
+      "cc": "IL"
+    },
+    "lastGeo": {
       "ip": "46.116.247.226",
       "city": "Petah Tikva",
       "region": "Central District",
