@@ -4986,8 +4986,15 @@
     "userId": "5749727055",
     "source": "script",
     "createdAt": "2026-03-24T19:16:32.388Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T19:16:45.423Z",
     "geo": {
+      "ip": "147.235.223.0",
+      "city": "Rishon LeTsiyyon",
+      "region": "Central District",
+      "country": "Israel",
+      "cc": "IL"
+    },
+    "lastGeo": {
       "ip": "147.235.223.0",
       "city": "Rishon LeTsiyyon",
       "region": "Central District",
