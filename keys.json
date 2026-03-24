@@ -3604,5 +3604,22 @@
       "country": "Bulgaria",
       "cc": "BG"
     }
+  },
+  "VH-4D3E8C-CA946B-AD2C7F": {
+    "expires": "2026-03-25T13:06:11.050Z",
+    "hwid": "8285524536-6cfeed1f-3f70-4f85-880e-b38248da37a7",
+    "browserHwid": null,
+    "username": "RAFFYYY001",
+    "userId": "8285524536",
+    "source": "script",
+    "createdAt": "2026-03-24T13:06:11.466Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.128.98.85",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
