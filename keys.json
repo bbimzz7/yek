@@ -4929,5 +4929,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-205873-513EE2-EB0793": {
+    "expires": "2026-03-25T18:58:08.339Z",
+    "hwid": "9528866635-4A4510F6-016E-4CD4-9649-32B1C4E5C7FD",
+    "browserHwid": null,
+    "username": "Avokemo",
+    "userId": "9528866635",
+    "source": "script",
+    "createdAt": "2026-03-24T18:58:08.568Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.47.134.124",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
