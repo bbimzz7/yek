@@ -3933,5 +3933,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-7A22ED-A38785-497F5B": {
+    "expires": "2026-03-25T14:38:54.734Z",
+    "hwid": "10720714868-db757a81-f264-46f2-b3fa-52609b7005f3",
+    "browserHwid": null,
+    "username": "GG_VINICIUS104",
+    "userId": "10720714868",
+    "source": "script",
+    "createdAt": "2026-03-24T14:38:55.177Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.51.34.150",
+      "city": "Fortaleza",
+      "region": "Ceará",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
