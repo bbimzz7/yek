@@ -3459,5 +3459,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BDADCF-50289B-9A7BAB": {
+    "expires": "2026-03-25T12:44:05.928Z",
+    "hwid": "9339463894-c918dc32-48d4-463e-99b0-da14b9a7722c",
+    "browserHwid": null,
+    "username": "babaikaa_aa",
+    "userId": "9339463894",
+    "source": "script",
+    "createdAt": "2026-03-24T12:44:06.316Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.57.98.41",
+      "city": "Kyzylorda",
+      "region": "Qyzylorda Oblysy",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
