@@ -4719,5 +4719,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-65B8C9-06416D-4C23B6": {
+    "expires": "2026-03-25T18:07:28.513Z",
+    "hwid": "3687693750-7b59cd19-d3fb-4a22-a403-819e9b1a04b5",
+    "browserHwid": null,
+    "username": "meowing_my",
+    "userId": "3687693750",
+    "source": "script",
+    "createdAt": "2026-03-24T18:07:28.920Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "193.108.117.78",
+      "city": "Frankfurt",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
