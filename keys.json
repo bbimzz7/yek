@@ -4808,5 +4808,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-0AA629-F582E4-0BF1AF": {
+    "expires": "2026-03-25T18:36:35.040Z",
+    "hwid": "3655703692-e5f4724c-9db5-402e-9650-5679082045e9",
+    "browserHwid": null,
+    "username": "isaiducanttouchdis",
+    "userId": "3655703692",
+    "source": "script",
+    "createdAt": "2026-03-24T18:36:35.238Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "174.208.225.54",
+      "city": "Hickory Hills",
+      "region": "Illinois",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
