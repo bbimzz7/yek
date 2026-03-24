@@ -5466,8 +5466,15 @@
     "userId": "10707610336",
     "source": "script",
     "createdAt": "2026-03-24T22:03:29.141Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T22:06:12.098Z",
     "geo": {
+      "ip": "187.207.205.124",
+      "city": "Nunkiní",
+      "region": "Campeche",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.207.205.124",
       "city": "Nunkiní",
       "region": "Campeche",
