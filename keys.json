@@ -3918,13 +3918,20 @@
     "userId": "9198996735",
     "source": "script",
     "createdAt": "2026-03-24T14:36:04.693Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T14:36:41.816Z",
     "geo": {
       "ip": "202.65.238.237",
       "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "162.128.153.215",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
     }
   }
 }
