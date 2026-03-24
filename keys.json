@@ -3266,5 +3266,22 @@
       "country": "Israel",
       "cc": "IL"
     }
+  },
+  "VH-64A627-908B40-2CB201": {
+    "expires": "2026-03-25T11:41:49.931Z",
+    "hwid": "7911657999-baca1834-6c3b-450c-b71e-791828bea176",
+    "browserHwid": null,
+    "username": "radodwifa27",
+    "userId": "7911657999",
+    "source": "script",
+    "createdAt": "2026-03-24T11:41:50.324Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.91.148.103",
+      "city": "Parung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
