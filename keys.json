@@ -3894,8 +3894,15 @@
     "userId": "10174271861",
     "source": "script",
     "createdAt": "2026-03-24T14:28:35.557Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T14:28:42.046Z",
     "geo": {
+      "ip": "89.32.156.54",
+      "city": "Assisi",
+      "region": "Umbria",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "lastGeo": {
       "ip": "89.32.156.54",
       "city": "Assisi",
       "region": "Umbria",
