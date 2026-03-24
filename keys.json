@@ -5217,5 +5217,22 @@
       "country": "Türkiye",
       "cc": "TR"
     }
+  },
+  "VH-022E6A-E88E40-4CFE8B": {
+    "expires": "2026-03-25T20:47:38.941Z",
+    "hwid": "5035900074-71c81b4d-d14c-4962-8b9e-ff0b5d186b70",
+    "browserHwid": null,
+    "username": "Hhugpoo0",
+    "userId": "5035900074",
+    "source": "script",
+    "createdAt": "2026-03-24T20:47:39.165Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "86.186.137.82",
+      "city": "Ballymoney",
+      "region": "Northern Ireland",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
