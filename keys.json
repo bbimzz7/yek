@@ -2329,5 +2329,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-2F4980-F96759-1CD0AD": {
+    "expires": "2026-03-25T06:17:19.677Z",
+    "hwid": "7166239018-2cc2f049-22a7-4749-9285-369b3743e9d2",
+    "browserHwid": null,
+    "username": "jneal754",
+    "userId": "7166239018",
+    "source": "script",
+    "createdAt": "2026-03-24T06:17:19.977Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.111.102.212",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
