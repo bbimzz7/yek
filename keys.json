@@ -4590,8 +4590,15 @@
     "userId": "4647430163",
     "source": "script",
     "createdAt": "2026-03-24T17:14:55.037Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T17:15:02.390Z",
     "geo": {
+      "ip": "80.7.196.106",
+      "city": "Manchester",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "80.7.196.106",
       "city": "Manchester",
       "region": "England",
