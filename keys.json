@@ -4694,5 +4694,22 @@
       "country": "Uruguay",
       "cc": "UY"
     }
+  },
+  "VH-E83DBA-F2E5F6-EBF9CE": {
+    "expires": "2026-03-25T17:58:30.193Z",
+    "hwid": null,
+    "browserHwid": "BR-71524522-NLML7",
+    "username": "Cooki3DarkOm3n",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-24T17:58:30.702Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.183.119.132",
+      "city": "Santana de Parnaíba",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
