@@ -3548,5 +3548,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EAE7B3-CE857B-D25506": {
+    "expires": "2026-03-25T12:57:28.743Z",
+    "hwid": null,
+    "browserHwid": "BR-22945E01-3DA6U",
+    "username": "Ririn22851",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-24T12:57:28.973Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.142.255.58",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
