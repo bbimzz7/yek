@@ -3870,8 +3870,15 @@
     "userId": "10346022278",
     "source": "script",
     "createdAt": "2026-03-24T14:09:40.296Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T14:09:48.957Z",
     "geo": {
+      "ip": "182.63.53.234",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "182.63.53.234",
       "city": "Kota Kinabalu",
       "region": "Sabah",
