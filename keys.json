@@ -2626,8 +2626,15 @@
     "userId": "7323857583",
     "source": "script",
     "createdAt": "2026-03-24T07:36:27.773Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T07:37:28.550Z",
     "geo": {
+      "ip": "102.152.211.28",
+      "city": "Ben Arous",
+      "region": "Ben Arous Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    },
+    "lastGeo": {
       "ip": "102.152.211.28",
       "city": "Ben Arous",
       "region": "Ben Arous Governorate",
