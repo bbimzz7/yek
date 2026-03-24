@@ -3411,5 +3411,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F4006B-F12DFA-C21409": {
+    "expires": "2026-03-25T12:20:07.957Z",
+    "hwid": "2641814571-04f5cec1-cfe6-4fee-9e42-6283e54631ed",
+    "browserHwid": null,
+    "username": "GABRIELDOCLASHROYALE",
+    "userId": "2641814571",
+    "source": "script",
+    "createdAt": "2026-03-24T12:20:08.223Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.189.138.93",
+      "city": "Rio Grande",
+      "region": "Rio Grande do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
