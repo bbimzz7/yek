@@ -2161,5 +2161,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-2061D6-E3DBD7-E37F12": {
+    "expires": "2026-03-25T05:03:29.813Z",
+    "hwid": "10719531924-2cc2f049-22a7-4749-9285-369b3743e9d2",
+    "browserHwid": null,
+    "username": "bcisnif",
+    "userId": "10719531924",
+    "source": "script",
+    "createdAt": "2026-03-24T05:03:30.288Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.111.102.212",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
