@@ -3011,11 +3011,18 @@
     "userId": "10719864493",
     "source": "script",
     "createdAt": "2026-03-24T10:11:31.504Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T10:11:37.524Z",
     "geo": {
       "ip": "124.217.34.153",
       "city": "Talisay",
       "region": "Western Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "124.106.23.38",
+      "city": "Mandaluyong",
+      "region": "Metro Manila",
       "country": "Philippines",
       "cc": "PH"
     }
