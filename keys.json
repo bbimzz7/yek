@@ -7895,5 +7895,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-05E371-FCA4B4-4791A2": {
+    "expires": "2026-03-25T02:39:01.813Z",
+    "hwid": "1178393897-f27e25b5-43cc-48de-bb68-ff2eb4ea0b86",
+    "browserHwid": null,
+    "username": "sysubxd",
+    "userId": "1178393897",
+    "source": "script",
+    "createdAt": "2026-03-24T02:39:02.192Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.2.98.113",
+      "city": "Palmas",
+      "region": "Tocantins",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
