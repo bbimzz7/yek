@@ -5058,8 +5058,15 @@
     "userId": "1676615293",
     "source": "script",
     "createdAt": "2026-03-24T19:32:16.380Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T19:32:21.679Z",
     "geo": {
+      "ip": "217.249.193.86",
+      "city": "Wernigerode",
+      "region": "Saxony-Anhalt",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "217.249.193.86",
       "city": "Wernigerode",
       "region": "Saxony-Anhalt",
