@@ -3652,5 +3652,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-4ECFA1-B84810-E3D649": {
+    "expires": "2026-03-25T13:07:18.987Z",
+    "hwid": "10689416246-69631ff4-74a3-4564-b42b-6f0556c03451",
+    "browserHwid": null,
+    "username": "wafiq_1938",
+    "userId": "10689416246",
+    "source": "script",
+    "createdAt": "2026-03-24T13:07:19.399Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.246.224",
+      "city": "Siburan",
+      "region": "Sarawak",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
