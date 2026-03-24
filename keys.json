@@ -5154,8 +5154,15 @@
     "userId": "1662156623",
     "source": "script",
     "createdAt": "2026-03-24T20:27:28.931Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T20:28:19.895Z",
     "geo": {
+      "ip": "179.49.191.2",
+      "city": "Queimados",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "179.49.191.2",
       "city": "Queimados",
       "region": "Rio de Janeiro",
