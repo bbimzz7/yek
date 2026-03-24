@@ -4053,5 +4053,22 @@
       "country": "Morocco",
       "cc": "MA"
     }
+  },
+  "VH-095810-F13290-0D58C2": {
+    "expires": "2026-03-25T15:23:18.206Z",
+    "hwid": "10720595849-b946da14-7c67-4274-a362-58648ce092d1",
+    "browserHwid": null,
+    "username": "wutwut1396",
+    "userId": "10720595849",
+    "source": "script",
+    "createdAt": "2026-03-24T15:23:18.671Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.135.200",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
