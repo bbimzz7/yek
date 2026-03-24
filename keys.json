@@ -2521,5 +2521,22 @@
       "country": "Japan",
       "cc": "JP"
     }
+  },
+  "VH-711D3C-ED5400-A9F29D": {
+    "expires": "2026-03-25T07:21:03.077Z",
+    "hwid": "4713301867-FFD348CB-B563-446D-A8D1-467B63C3B2FA",
+    "browserHwid": null,
+    "username": "13hTj3",
+    "userId": "4713301867",
+    "source": "script",
+    "createdAt": "2026-03-24T07:21:03.462Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.98.252.24",
+      "city": "Đắk Hà",
+      "region": "Quang Ngai",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
