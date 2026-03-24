@@ -4864,5 +4864,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-E17464-09F8EE-32E33B": {
+    "expires": "2026-03-25T18:45:15.141Z",
+    "hwid": "10477477201-EADA1E05-D2C8-4B2A-91AF-4D32B4430911",
+    "browserHwid": null,
+    "username": "Mixuzeo",
+    "userId": "10477477201",
+    "source": "script",
+    "createdAt": "2026-03-24T18:45:15.582Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.97.125",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
