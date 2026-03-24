@@ -2963,8 +2963,15 @@
     "userId": "5088966253",
     "source": "script",
     "createdAt": "2026-03-24T10:08:05.775Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T10:08:10.560Z",
     "geo": {
+      "ip": "49.48.112.239",
+      "city": "Khon Kaen",
+      "region": "Khon Kaen",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "49.48.112.239",
       "city": "Khon Kaen",
       "region": "Khon Kaen",
