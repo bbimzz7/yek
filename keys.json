@@ -2930,5 +2930,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0B5B6B-34BE86-1DB042": {
+    "expires": "2026-03-25T09:47:16.294Z",
+    "hwid": "1074569226-965FDE0D-63BB-4871-95DA-0BB0E8DA9263",
+    "browserHwid": null,
+    "username": "Maleezgg",
+    "userId": "1074569226",
+    "source": "script",
+    "createdAt": "2026-03-24T09:47:16.616Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "184.22.14.182",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
