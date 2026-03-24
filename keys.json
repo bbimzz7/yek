@@ -5385,5 +5385,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-721D74-ECBC0A-2B04A3": {
+    "expires": "2026-03-25T21:50:57.742Z",
+    "hwid": "8440952619-DA859E8A-44FE-46F0-9748-E5AAEA2B668A",
+    "browserHwid": null,
+    "username": "Kurokos_Basketbal2",
+    "userId": "8440952619",
+    "source": "script",
+    "createdAt": "2026-03-24T21:50:58.113Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "87.165.6.249",
+      "city": "Grevenbroich",
+      "region": "North Rhine-Westphalia",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
