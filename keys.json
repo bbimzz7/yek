@@ -5097,5 +5097,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-58A47C-205125-BB24B0": {
+    "expires": "2026-03-25T19:56:57.145Z",
+    "hwid": "8667848315-0720ebb6-6dae-43a6-bb90-78cd0bdf1377",
+    "browserHwid": null,
+    "username": "Lynxz_0804",
+    "userId": "8667848315",
+    "source": "script",
+    "createdAt": "2026-03-24T19:56:57.506Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.201.111",
+      "city": "Batam",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
