@@ -2668,14 +2668,22 @@
   },
   "VH-A0521E-BF4AD4-CC1391": {
     "expires": "2026-03-25T07:39:15.242Z",
-    "hwid": null,
+    "hwid": "7273770173-c9fa8c70-caec-4f11-8f9a-b2437f36c9ae",
     "browserHwid": "BR-5FFF0506-WH0VF",
     "username": "locff_55",
-    "userId": null,
+    "userId": "7273770173",
     "source": "browser",
     "createdAt": "2026-03-24T07:39:15.568Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T07:41:42.009Z",
     "geo": {
+      "ip": "42.113.216.89",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "boundAt": "2026-03-24T07:41:42.002Z",
+    "lastGeo": {
       "ip": "42.113.216.89",
       "city": "Ho Chi Minh City",
       "region": "Ho Chi Minh",
