@@ -4581,5 +4581,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4B659F-416E5B-3B1A5B": {
+    "expires": "2026-03-25T17:14:54.836Z",
+    "hwid": "4647430163-e8accfdf-adf5-423b-8c66-390bb51a1a5c",
+    "browserHwid": null,
+    "username": "5urhdty",
+    "userId": "4647430163",
+    "source": "script",
+    "createdAt": "2026-03-24T17:14:55.037Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "80.7.196.106",
+      "city": "Manchester",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
