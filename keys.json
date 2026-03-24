@@ -4677,5 +4677,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E9157D-FB9DCF-08D781": {
+    "expires": "2026-03-25T17:43:52.738Z",
+    "hwid": "6103496832-be87be3a-5b55-4e83-8f9c-0e5f89cf1cb5",
+    "browserHwid": null,
+    "username": "Mesimessi22",
+    "userId": "6103496832",
+    "source": "script",
+    "createdAt": "2026-03-24T17:43:53.120Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.28.157.51",
+      "city": "Montevideo",
+      "region": "Montevideo Department",
+      "country": "Uruguay",
+      "cc": "UY"
+    }
   }
 }
