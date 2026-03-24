@@ -4173,5 +4173,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D7F892-56C7A2-03BEA9": {
+    "expires": "2026-03-25T15:54:02.625Z",
+    "hwid": "5312203670-EBE7C184-7C27-466D-9789-F568494DF0D4",
+    "browserHwid": null,
+    "username": "BloxFruitsBones",
+    "userId": "5312203670",
+    "source": "script",
+    "createdAt": "2026-03-24T15:54:02.870Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "213.196.96.218",
+      "city": "Belgrade",
+      "region": "Belgrade",
+      "country": "Serbia",
+      "cc": "RS"
+    }
   }
 }
