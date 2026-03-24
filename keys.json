@@ -3726,8 +3726,15 @@
     "userId": "8282870568",
     "source": "script",
     "createdAt": "2026-03-24T13:31:40.522Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T13:31:46.333Z",
     "geo": {
+      "ip": "36.79.7.60",
+      "city": "Padangsidempuan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.79.7.60",
       "city": "Padangsidempuan",
       "region": "North Sumatra",
