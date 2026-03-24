@@ -2643,8 +2643,15 @@
     "userId": "2349276121",
     "source": "script",
     "createdAt": "2026-03-24T07:36:54.588Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T07:37:00.816Z",
     "geo": {
+      "ip": "1.2.184.140",
+      "city": "Uttaradit",
+      "region": "Uttaradit",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "1.2.184.140",
       "city": "Uttaradit",
       "region": "Uttaradit",
