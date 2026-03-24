@@ -4977,5 +4977,22 @@
       "country": "Costa Rica",
       "cc": "CR"
     }
+  },
+  "VH-571899-6DEE2B-5C586F": {
+    "expires": "2026-03-25T19:16:31.948Z",
+    "hwid": "5749727055-a881a96c-a80b-4001-94c6-97df543c9c53",
+    "browserHwid": null,
+    "username": "akiviev",
+    "userId": "5749727055",
+    "source": "script",
+    "createdAt": "2026-03-24T19:16:32.388Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "147.235.223.0",
+      "city": "Rishon LeTsiyyon",
+      "region": "Central District",
+      "country": "Israel",
+      "cc": "IL"
+    }
   }
 }
