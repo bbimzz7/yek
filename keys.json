@@ -1271,7 +1271,7 @@
     "userId": "3687693750",
     "source": "script",
     "createdAt": "2026-03-23T18:01:01.495Z",
-    "lastUsed": "2026-03-24T14:24:21.493Z",
+    "lastUsed": "2026-03-24T14:44:49.037Z",
     "geo": {
       "ip": "193.108.119.131",
       "city": "Frankfurt",
@@ -1281,10 +1281,10 @@
     },
     "lastGeo": {
       "ip": "193.108.117.78",
-      "city": "Frankfurt",
-      "region": "Hesse",
-      "country": "Germany",
-      "cc": "DE"
+      "city": null,
+      "region": null,
+      "country": null,
+      "cc": null
     }
   },
   "VH-2F33E2-ADFCFE-8A9F92": {
