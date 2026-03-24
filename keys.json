@@ -5313,5 +5313,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-5479D2-2EB67F-D544D3": {
+    "expires": "2026-03-25T21:15:27.915Z",
+    "hwid": "10722602414-7e0b5e5e-398e-47f8-a7e3-696b3d40a016",
+    "browserHwid": null,
+    "username": "jrjrdjkjrudijr",
+    "userId": "10722602414",
+    "source": "script",
+    "createdAt": "2026-03-24T21:15:28.310Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.73.73.197",
+      "city": "Jeddah",
+      "region": "Mecca Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
