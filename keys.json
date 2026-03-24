@@ -2401,5 +2401,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-44ECFC-4BFA5D-992980": {
+    "expires": "2026-03-25T06:42:36.159Z",
+    "hwid": "10351624834-B87BCFEA-EB3E-44E9-8A02-10D118751A2F",
+    "browserHwid": null,
+    "username": "doihiidesu",
+    "userId": "10351624834",
+    "source": "script",
+    "createdAt": "2026-03-24T06:42:36.544Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "121.82.135.30",
+      "city": "Osaka",
+      "region": "Osaka",
+      "country": "Japan",
+      "cc": "JP"
+    }
   }
 }
