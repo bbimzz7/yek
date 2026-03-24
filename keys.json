@@ -5370,8 +5370,15 @@
     "userId": "4635130894",
     "source": "script",
     "createdAt": "2026-03-24T21:48:57.790Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T21:49:11.677Z",
     "geo": {
+      "ip": "76.39.242.86",
+      "city": "Milwaukee",
+      "region": "Wisconsin",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "76.39.242.86",
       "city": "Milwaukee",
       "region": "Wisconsin",
