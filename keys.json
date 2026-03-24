@@ -5169,5 +5169,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-49F65A-A9BD0A-5A2BAC": {
+    "expires": "2026-03-25T20:43:22.909Z",
+    "hwid": "1812255238-85d1c7af-ec25-4237-a3bb-c392c3af31b5",
+    "browserHwid": null,
+    "username": "SHUMAGGERPAPA",
+    "userId": "1812255238",
+    "source": "script",
+    "createdAt": "2026-03-24T20:43:23.344Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.232.90.215",
+      "city": "San Luis Potosí City",
+      "region": "San Luis Potosí",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
