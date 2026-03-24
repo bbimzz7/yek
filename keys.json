@@ -7904,8 +7904,15 @@
     "userId": "1178393897",
     "source": "script",
     "createdAt": "2026-03-24T02:39:02.192Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T02:40:14.606Z",
     "geo": {
+      "ip": "177.2.98.113",
+      "city": "Palmas",
+      "region": "Tocantins",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.2.98.113",
       "city": "Palmas",
       "region": "Tocantins",
