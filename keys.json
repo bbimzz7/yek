@@ -1607,7 +1607,7 @@
     "userId": "7916559463",
     "source": "script",
     "createdAt": "2026-03-23T22:41:56.199Z",
-    "lastUsed": "2026-03-23T22:44:09.949Z",
+    "lastUsed": "2026-03-24T06:20:23.400Z",
     "geo": {
       "ip": "110.138.53.141",
       "city": "Karawang",
@@ -1616,9 +1616,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "110.138.53.141",
-      "city": "Karawang",
-      "region": "West Java",
+      "ip": "182.253.58.46",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
