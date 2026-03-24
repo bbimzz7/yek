@@ -5145,5 +5145,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EEF55A-FA7511-565083": {
+    "expires": "2026-03-25T20:27:28.553Z",
+    "hwid": "1662156623-458b2717-e492-4382-b9fa-384f69f78ebe",
+    "browserHwid": null,
+    "username": "Andre_stylegz",
+    "userId": "1662156623",
+    "source": "script",
+    "createdAt": "2026-03-24T20:27:28.931Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.49.191.2",
+      "city": "Queimados",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
