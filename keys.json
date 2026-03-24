@@ -7646,8 +7646,15 @@
     "userId": "8065153871",
     "source": "script",
     "createdAt": "2026-03-24T01:15:21.263Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T01:21:50.638Z",
     "geo": {
+      "ip": "103.175.237.38",
+      "city": "Ngebruk",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.175.237.38",
       "city": "Ngebruk",
       "region": "East Java",
