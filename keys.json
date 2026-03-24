@@ -7598,8 +7598,15 @@
     "userId": "5063505458",
     "source": "script",
     "createdAt": "2026-03-24T00:36:48.231Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T00:37:01.110Z",
     "geo": {
+      "ip": "179.125.213.51",
+      "city": "Campinas",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "179.125.213.51",
       "city": "Campinas",
       "region": "São Paulo",
