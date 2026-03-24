@@ -4912,5 +4912,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-308A52-482711-119372": {
+    "expires": "2026-03-25T18:54:40.897Z",
+    "hwid": "9989570522-0cb32386-f31d-409e-b607-e1f8fcba0361",
+    "browserHwid": null,
+    "username": "kakjsjska05",
+    "userId": "9989570522",
+    "source": "script",
+    "createdAt": "2026-03-24T18:54:41.151Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.114.113.230",
+      "city": "San Miguel de Tucumán",
+      "region": "Tucuman",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
