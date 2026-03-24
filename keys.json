@@ -4398,8 +4398,15 @@
     "userId": "7666930452",
     "source": "script",
     "createdAt": "2026-03-24T16:47:13.498Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T16:48:25.431Z",
     "geo": {
+      "ip": "38.137.179.126",
+      "city": "Barquisimeto",
+      "region": "Lara",
+      "country": "Venezuela",
+      "cc": "VE"
+    },
+    "lastGeo": {
       "ip": "38.137.179.126",
       "city": "Barquisimeto",
       "region": "Lara",
