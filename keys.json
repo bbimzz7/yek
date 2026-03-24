@@ -5241,5 +5241,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-D06F75-9611F6-F63D16": {
+    "expires": "2026-03-25T20:56:22.075Z",
+    "hwid": "671921157-9C782FD1-54AC-42DF-875C-17330C8D3693",
+    "browserHwid": null,
+    "username": "jolasindo",
+    "userId": "671921157",
+    "source": "script",
+    "createdAt": "2026-03-24T20:56:22.462Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.138.88.199",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
