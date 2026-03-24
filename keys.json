@@ -4022,5 +4022,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-029800-BC5380-E768B1": {
+    "expires": "2026-03-25T15:12:01.484Z",
+    "hwid": "7860606819-174e76de-e775-4e4a-afcc-0427fef39e90",
+    "browserHwid": null,
+    "username": "cycjcygh",
+    "userId": "7860606819",
+    "source": "script",
+    "createdAt": "2026-03-24T15:12:01.886Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "196.69.65.1",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "country": "Morocco",
+      "cc": "MA"
+    }
   }
 }
