@@ -2449,5 +2449,22 @@
       "country": "Kuwait",
       "cc": "KW"
     }
+  },
+  "VH-4854F3-3DF0A6-CBFEB2": {
+    "expires": "2026-03-25T06:45:37.873Z",
+    "hwid": "9516103849-0bb6b546-21fe-44a0-acc5-562b3707cb84",
+    "browserHwid": null,
+    "username": "Ayan_77434",
+    "userId": "9516103849",
+    "source": "script",
+    "createdAt": "2026-03-24T06:45:38.069Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.16.148.65",
+      "city": "Esik",
+      "region": "Almaty Region",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
