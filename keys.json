@@ -2747,8 +2747,15 @@
     "userId": "8287554608",
     "source": "script",
     "createdAt": "2026-03-24T08:46:38.556Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T08:47:20.887Z",
     "geo": {
+      "ip": "62.212.60.177",
+      "city": "Tbilisi",
+      "region": "Tbilisi",
+      "country": "Georgia",
+      "cc": "GE"
+    },
+    "lastGeo": {
       "ip": "62.212.60.177",
       "city": "Tbilisi",
       "region": "Tbilisi",
