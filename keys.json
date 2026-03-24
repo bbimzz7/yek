@@ -7681,14 +7681,22 @@
   },
   "VH-A24006-893430-D14BEA": {
     "expires": "2026-03-25T01:21:03.697Z",
-    "hwid": null,
+    "hwid": "9190846871-a9eb680c-0c07-4fb1-b8c1-cba53427dce0",
     "browserHwid": "BR-61268FBA-6EZS0",
     "username": "akucowo448",
-    "userId": null,
+    "userId": "9190846871",
     "source": "browser",
     "createdAt": "2026-03-24T01:21:04.007Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T01:21:12.175Z",
     "geo": {
+      "ip": "103.212.239.50",
+      "city": "Parung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-24T01:21:12.167Z",
+    "lastGeo": {
       "ip": "103.212.239.50",
       "city": "Parung",
       "region": "West Java",
