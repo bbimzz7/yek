@@ -2978,5 +2978,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-D808F0-B310F0-268BFC": {
+    "expires": "2026-03-25T10:10:22.897Z",
+    "hwid": "5333270441-10c162df-bc41-4a93-8079-4df4f1431390",
+    "browserHwid": null,
+    "username": "The_propergOat",
+    "userId": "5333270441",
+    "source": "script",
+    "createdAt": "2026-03-24T10:10:23.167Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.104.136.146",
+      "city": "Pasig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
