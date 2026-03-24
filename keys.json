@@ -5361,5 +5361,22 @@
       "country": "Chile",
       "cc": "CL"
     }
+  },
+  "VH-FA3E32-5AF6BA-F0E9E9": {
+    "expires": "2026-03-25T21:48:57.422Z",
+    "hwid": "4635130894-922BB658-6320-49B8-8DAE-C79A8E770DBD",
+    "browserHwid": null,
+    "username": "iCuffno304",
+    "userId": "4635130894",
+    "source": "script",
+    "createdAt": "2026-03-24T21:48:57.790Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.39.242.86",
+      "city": "Milwaukee",
+      "region": "Wisconsin",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
