@@ -5457,5 +5457,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-E0A1CF-622F30-4DEBDD": {
+    "expires": "2026-03-25T22:03:28.744Z",
+    "hwid": "10707610336-a9313087-1e02-47ad-a3a1-e5887423a2ce",
+    "browserHwid": null,
+    "username": "paalmita0968",
+    "userId": "10707610336",
+    "source": "script",
+    "createdAt": "2026-03-24T22:03:29.141Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.207.205.124",
+      "city": "Nunkiní",
+      "region": "Campeche",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
