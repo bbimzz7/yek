@@ -4317,5 +4317,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-0F11DB-58C8AD-2EBC1D": {
+    "expires": "2026-03-25T16:25:25.008Z",
+    "hwid": "8989317909-4a86dfd6-f269-41b2-83c2-e51728b86a1c",
+    "browserHwid": null,
+    "username": "nopberkelas92",
+    "userId": "8989317909",
+    "source": "script",
+    "createdAt": "2026-03-24T16:25:25.387Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.77.216.179",
+      "city": "Bangkinang",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
