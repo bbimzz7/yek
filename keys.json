@@ -3371,7 +3371,7 @@
     "userId": "10706484614",
     "source": "browser",
     "createdAt": "2026-03-24T12:14:09.820Z",
-    "lastUsed": "2026-03-24T14:45:15.121Z",
+    "lastUsed": "2026-03-24T23:42:29.432Z",
     "geo": {
       "ip": "182.2.77.145",
       "city": "Surakarta",
@@ -3382,10 +3382,10 @@
     "boundAt": "2026-03-24T12:15:22.969Z",
     "lastGeo": {
       "ip": "138.252.159.2",
-      "city": null,
-      "region": null,
-      "country": null,
-      "cc": null
+      "city": "Kebumen",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
     }
   },
   "VH-CEF4D8-4F6713-9080E7": {
