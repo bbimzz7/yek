@@ -3531,5 +3531,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-F70827-BA3427-B1E651": {
+    "expires": "2026-03-25T12:57:19.528Z",
+    "hwid": "9732352598-852aebc2-282f-49f4-84be-364b5fcea7a8",
+    "browserHwid": null,
+    "username": "Mauuul_14",
+    "userId": "9732352598",
+    "source": "script",
+    "createdAt": "2026-03-24T12:57:20.011Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.141.47.135",
+      "city": "Loakulu",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
