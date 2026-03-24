@@ -2858,5 +2858,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2C953F-A42099-1966A9": {
+    "expires": "2026-03-25T09:20:50.298Z",
+    "hwid": "10694317036-d14b69f1-bea5-4bc2-a580-232c70133868",
+    "browserHwid": null,
+    "username": "VoiceALT681",
+    "userId": "10694317036",
+    "source": "script",
+    "createdAt": "2026-03-24T09:20:50.506Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "152.58.169.208",
+      "city": "Guwahati",
+      "region": "Assam",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
