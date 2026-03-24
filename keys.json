@@ -2434,8 +2434,15 @@
     "userId": "2634765192",
     "source": "script",
     "createdAt": "2026-03-24T06:43:33.241Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T06:43:42.144Z",
     "geo": {
+      "ip": "37.231.46.15",
+      "city": "Kuwait City",
+      "region": "Al Asimah",
+      "country": "Kuwait",
+      "cc": "KW"
+    },
+    "lastGeo": {
       "ip": "37.231.46.15",
       "city": "Kuwait City",
       "region": "Al Asimah",
