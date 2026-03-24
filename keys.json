@@ -4614,8 +4614,15 @@
     "userId": "1097283241",
     "source": "script",
     "createdAt": "2026-03-24T17:34:55.076Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T17:35:01.912Z",
     "geo": {
+      "ip": "37.209.134.214",
+      "city": "Warsaw",
+      "region": "Mazovia",
+      "country": "Poland",
+      "cc": "PL"
+    },
+    "lastGeo": {
       "ip": "37.209.134.214",
       "city": "Warsaw",
       "region": "Mazovia",
