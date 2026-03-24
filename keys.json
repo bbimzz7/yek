@@ -4341,5 +4341,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-85A344-A4AC34-993B10": {
+    "expires": "2026-03-25T16:25:57.296Z",
+    "hwid": "4574339519-ca1763c1-8980-4fb9-85a8-b97ad609fdf9",
+    "browserHwid": null,
+    "username": "NL_1274",
+    "userId": "4574339519",
+    "source": "script",
+    "createdAt": "2026-03-24T16:25:57.546Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.244.108.130",
+      "city": "Dammam",
+      "region": "Eastern Province",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
