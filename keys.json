@@ -3717,5 +3717,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6F8B72-B1009E-990D9C": {
+    "expires": "2026-03-25T13:31:40.180Z",
+    "hwid": "8282870568-E247C5F2-D289-4EE9-92D2-2D26B119C0A6",
+    "browserHwid": null,
+    "username": "RenxnSkie",
+    "userId": "8282870568",
+    "source": "script",
+    "createdAt": "2026-03-24T13:31:40.522Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.79.7.60",
+      "city": "Padangsidempuan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
