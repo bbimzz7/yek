@@ -4697,14 +4697,22 @@
   },
   "VH-E83DBA-F2E5F6-EBF9CE": {
     "expires": "2026-03-25T17:58:30.193Z",
-    "hwid": null,
+    "hwid": "10120218136-f8a1149e-77a0-4096-83a3-e5d9778a9dbd",
     "browserHwid": "BR-71524522-NLML7",
     "username": "Cooki3DarkOm3n",
-    "userId": null,
+    "userId": "10120218136",
     "source": "browser",
     "createdAt": "2026-03-24T17:58:30.702Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T17:59:34.218Z",
     "geo": {
+      "ip": "45.183.119.132",
+      "city": "Santana de Parnaíba",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "boundAt": "2026-03-24T17:59:34.209Z",
+    "lastGeo": {
       "ip": "45.183.119.132",
       "city": "Santana de Parnaíba",
       "region": "São Paulo",
