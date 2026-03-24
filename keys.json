@@ -2634,5 +2634,22 @@
       "country": "Tunisia",
       "cc": "TN"
     }
+  },
+  "VH-80AAF5-8DD6F7-4B1405": {
+    "expires": "2026-03-25T07:36:54.403Z",
+    "hwid": "2349276121-462b092e-3719-4eab-828c-fb30a89dc4b0",
+    "browserHwid": null,
+    "username": "bffgghhfPro",
+    "userId": "2349276121",
+    "source": "script",
+    "createdAt": "2026-03-24T07:36:54.588Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.2.184.140",
+      "city": "Uttaradit",
+      "region": "Uttaradit",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
