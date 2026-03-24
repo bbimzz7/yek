@@ -4494,8 +4494,15 @@
     "userId": "2482410879",
     "source": "script",
     "createdAt": "2026-03-24T17:07:14.093Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T17:07:20.379Z",
     "geo": {
+      "ip": "45.160.105.211",
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.160.105.211",
       "city": "São Paulo",
       "region": "São Paulo",
