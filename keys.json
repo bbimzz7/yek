@@ -3122,5 +3122,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-57E477-C47EC5-93D9E5": {
+    "expires": "2026-03-25T10:33:49.378Z",
+    "hwid": "1504083749-3C3A01D4-4E46-4A23-B1C4-289E1BA947D3",
+    "browserHwid": null,
+    "username": "didgsifs",
+    "userId": "1504083749",
+    "source": "script",
+    "createdAt": "2026-03-24T10:33:49.747Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.228.116.191",
+      "city": "Chon Buri",
+      "region": "Chon Buri",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
