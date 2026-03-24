@@ -5553,5 +5553,22 @@
       "country": "Bahrain",
       "cc": "BH"
     }
+  },
+  "VH-C16E9B-BEF982-804CA1": {
+    "expires": "2026-03-25T22:41:31.093Z",
+    "hwid": "9716777269-F82FF6D3-A8E3-486B-AE32-C5E250570F1F",
+    "browserHwid": null,
+    "username": "DustRainCat",
+    "userId": "9716777269",
+    "source": "script",
+    "createdAt": "2026-03-24T22:41:31.316Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.191.164.215",
+      "city": "Audincourt",
+      "region": "Bourgogne",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
