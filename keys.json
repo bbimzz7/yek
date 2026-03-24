@@ -5226,8 +5226,15 @@
     "userId": "5035900074",
     "source": "script",
     "createdAt": "2026-03-24T20:47:39.165Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T20:47:46.974Z",
     "geo": {
+      "ip": "86.186.137.82",
+      "city": "Ballymoney",
+      "region": "Northern Ireland",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "86.186.137.82",
       "city": "Ballymoney",
       "region": "Northern Ireland",
