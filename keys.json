@@ -3365,14 +3365,22 @@
   },
   "VH-6D659C-082607-0A12BB": {
     "expires": "2026-03-25T12:14:09.409Z",
-    "hwid": null,
+    "hwid": "10706484614-80e781c8-ce72-4210-86fa-2b219da7e68f",
     "browserHwid": "BR-5DE1ECD8-PDB7M",
-    "username": "elmaboy67",
-    "userId": null,
+    "username": "ElMaboy67",
+    "userId": "10706484614",
     "source": "browser",
     "createdAt": "2026-03-24T12:14:09.820Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T12:15:22.975Z",
     "geo": {
+      "ip": "182.2.77.145",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-24T12:15:22.969Z",
+    "lastGeo": {
       "ip": "182.2.77.145",
       "city": "Surakarta",
       "region": "Central Java",
