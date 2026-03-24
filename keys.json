@@ -2690,5 +2690,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-9D26C2-06B883-540EE2": {
+    "expires": "2026-03-25T08:00:00.558Z",
+    "hwid": "8186632870-de15e7b9-e760-412e-87a1-c7f2f8eadd6d",
+    "browserHwid": null,
+    "username": "sofia_177024",
+    "userId": "8186632870",
+    "source": "script",
+    "createdAt": "2026-03-24T08:00:01.055Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.235.92.143",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
