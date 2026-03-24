@@ -4413,5 +4413,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-393E6F-AD7C6E-E70815": {
+    "expires": "2026-03-25T16:52:02.682Z",
+    "hwid": "8753597179-e05c9544-d2a8-4e40-a3a5-a37b102044e0",
+    "browserHwid": null,
+    "username": "Faainn25",
+    "userId": "8753597179",
+    "source": "script",
+    "createdAt": "2026-03-24T16:52:02.970Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.38.149",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
