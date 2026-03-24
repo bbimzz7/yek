@@ -3621,5 +3621,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E4125A-F8F299-0393E8": {
+    "expires": "2026-03-25T13:06:14.201Z",
+    "hwid": "9111960162-96C747BC-F9B1-4510-81F6-386C526829EF",
+    "browserHwid": null,
+    "username": "Xnova_Script",
+    "userId": "9111960162",
+    "source": "script",
+    "createdAt": "2026-03-24T13:06:14.406Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "51.158.205.239",
+      "city": "Haarlem",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
