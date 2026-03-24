@@ -7710,5 +7710,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F16643-2C69E6-F2EC4D": {
+    "expires": "2026-03-25T01:26:05.764Z",
+    "hwid": "8067854684-412f281e-edd1-4266-bb80-12d9c9542aa3",
+    "browserHwid": null,
+    "username": "alex516124",
+    "userId": "8067854684",
+    "source": "script",
+    "createdAt": "2026-03-24T01:26:05.953Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.203.100.141",
+      "city": "Santa Matilde",
+      "region": "Querétaro",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
