@@ -4888,5 +4888,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2A0F3F-B231BA-507FDF": {
+    "expires": "2026-03-25T18:50:50.471Z",
+    "hwid": "5840735588-E2BD4E96-22E6-4FEE-8D99-184C9ACB863C",
+    "browserHwid": null,
+    "username": "Tpa393",
+    "userId": "5840735588",
+    "source": "script",
+    "createdAt": "2026-03-24T18:50:50.986Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.32.144.125",
+      "city": "Armavir",
+      "region": "Krasnodar Krai",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
