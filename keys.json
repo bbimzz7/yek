@@ -3981,5 +3981,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FBC3CC-B8C21B-D611EE": {
+    "expires": "2026-03-25T14:47:23.165Z",
+    "hwid": "10318219619-3d330403-0a80-471e-af28-1465e517b191",
+    "browserHwid": null,
+    "username": "WTXH4RD",
+    "userId": "10318219619",
+    "source": "script",
+    "createdAt": "2026-03-24T14:47:23.644Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "195.181.161.186",
+      "city": "Prague",
+      "region": "Prague",
+      "country": "Czechia",
+      "cc": "CZ"
+    }
   }
 }
