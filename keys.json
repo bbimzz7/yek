@@ -4389,5 +4389,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-6935CF-984E22-7E58D5": {
+    "expires": "2026-03-25T16:47:13.023Z",
+    "hwid": "7666930452-9b0b0686-8c75-4a55-be7b-52b5fcd828af",
+    "browserHwid": null,
+    "username": "DAVID_GOLD49",
+    "userId": "7666930452",
+    "source": "script",
+    "createdAt": "2026-03-24T16:47:13.498Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.137.179.126",
+      "city": "Barquisimeto",
+      "region": "Lara",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
