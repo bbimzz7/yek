@@ -7637,5 +7637,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-7C53AD-7E4D4F-CB76E4": {
+    "expires": "2026-03-25T01:15:20.710Z",
+    "hwid": "8065153871-dabc028d-766b-4b61-a080-d5caf264a427",
+    "browserHwid": null,
+    "username": "davino_gabut",
+    "userId": "8065153871",
+    "source": "script",
+    "createdAt": "2026-03-24T01:15:21.263Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.237.38",
+      "city": "Ngebruk",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
