@@ -5346,10 +5346,17 @@
     "userId": "3237861341",
     "source": "script",
     "createdAt": "2026-03-24T21:39:27.178Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T21:39:33.069Z",
     "geo": {
       "ip": "201.236.20.186",
       "city": "Quillota",
+      "region": "Región de Valparaíso",
+      "country": "Chile",
+      "cc": "CL"
+    },
+    "lastGeo": {
+      "ip": "186.78.226.202",
+      "city": "Concón",
       "region": "Región de Valparaíso",
       "country": "Chile",
       "cc": "CL"
