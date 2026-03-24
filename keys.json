@@ -4470,8 +4470,15 @@
     "userId": "8190533023",
     "source": "script",
     "createdAt": "2026-03-24T17:01:39.513Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T17:01:47.626Z",
     "geo": {
+      "ip": "114.79.6.95",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.79.6.95",
       "city": "Jakarta",
       "region": "Jakarta",
