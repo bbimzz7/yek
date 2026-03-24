@@ -2665,5 +2665,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-A0521E-BF4AD4-CC1391": {
+    "expires": "2026-03-25T07:39:15.242Z",
+    "hwid": null,
+    "browserHwid": "BR-5FFF0506-WH0VF",
+    "username": "locff_55",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-24T07:39:15.568Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "42.113.216.89",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
