@@ -4849,8 +4849,15 @@
     "userId": "9165719107",
     "source": "script",
     "createdAt": "2026-03-24T18:39:32.347Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T18:40:08.561Z",
     "geo": {
+      "ip": "156.155.223.96",
+      "city": "Boksburg",
+      "region": "Gauteng",
+      "country": "South Africa",
+      "cc": "ZA"
+    },
+    "lastGeo": {
       "ip": "156.155.223.96",
       "city": "Boksburg",
       "region": "Gauteng",
