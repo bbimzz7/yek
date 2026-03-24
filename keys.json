@@ -3323,8 +3323,15 @@
     "userId": "10680590485",
     "source": "script",
     "createdAt": "2026-03-24T11:56:09.239Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T11:57:46.341Z",
     "geo": {
+      "ip": "180.248.37.102",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.248.37.102",
       "city": "Malang",
       "region": "East Java",
