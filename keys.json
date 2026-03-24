@@ -3678,8 +3678,15 @@
     "userId": "8095738600",
     "source": "script",
     "createdAt": "2026-03-24T13:08:28.287Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T13:12:04.155Z",
     "geo": {
+      "ip": "49.151.64.81",
+      "city": "Roxas",
+      "region": "Cagayan Valley",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "49.151.64.81",
       "city": "Roxas",
       "region": "Cagayan Valley",
