@@ -3333,8 +3333,15 @@
     "userId": "10704120606",
     "source": "script",
     "createdAt": "2026-03-24T11:56:21.364Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T11:56:29.574Z",
     "geo": {
+      "ip": "76.32.28.23",
+      "city": "Anaheim",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "76.32.28.23",
       "city": "Anaheim",
       "region": "California",
