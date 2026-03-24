@@ -4817,8 +4817,15 @@
     "userId": "3655703692",
     "source": "script",
     "createdAt": "2026-03-24T18:36:35.238Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T18:36:49.499Z",
     "geo": {
+      "ip": "174.208.225.54",
+      "city": "Hickory Hills",
+      "region": "Illinois",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "174.208.225.54",
       "city": "Hickory Hills",
       "region": "Illinois",
