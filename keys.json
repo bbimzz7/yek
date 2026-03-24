@@ -3155,8 +3155,15 @@
     "userId": "7464725910",
     "source": "script",
     "createdAt": "2026-03-24T10:38:23.767Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T10:38:27.727Z",
     "geo": {
+      "ip": "27.145.13.109",
+      "city": "Khlong Luang",
+      "region": "Pathum Thani",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "27.145.13.109",
       "city": "Khlong Luang",
       "region": "Pathum Thani",
