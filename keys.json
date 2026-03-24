@@ -4326,8 +4326,15 @@
     "userId": "8989317909",
     "source": "script",
     "createdAt": "2026-03-24T16:25:25.387Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T16:25:32.946Z",
     "geo": {
+      "ip": "36.77.216.179",
+      "city": "Bangkinang",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.77.216.179",
       "city": "Bangkinang",
       "region": "Riau",
