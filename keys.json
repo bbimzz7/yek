@@ -4101,5 +4101,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-29F0E1-942DCE-B23F32": {
+    "expires": "2026-03-25T15:47:56.714Z",
+    "hwid": "10185763566-7ab8dec5-3161-4bfc-abe5-61c896bd3c83",
+    "browserHwid": null,
+    "username": "MR_M1005alt1",
+    "userId": "10185763566",
+    "source": "script",
+    "createdAt": "2026-03-24T15:47:57.118Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.97.119.171",
+      "city": "Dubai",
+      "region": "Dubai",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
