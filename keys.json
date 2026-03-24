@@ -2795,11 +2795,18 @@
     "userId": "10628453799",
     "source": "script",
     "createdAt": "2026-03-24T09:09:53.674Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T09:16:35.954Z",
     "geo": {
       "ip": "124.106.125.121",
       "city": "Pasay",
       "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "120.28.219.173",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
       "country": "Philippines",
       "cc": "PH"
     }
