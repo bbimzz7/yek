@@ -4077,5 +4077,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-357EC3-F19DF4-46FD00": {
+    "expires": "2026-03-25T15:44:29.562Z",
+    "hwid": "4766626505-11ab0530-5ee0-40d4-9fec-5b11593afacd",
+    "browserHwid": null,
+    "username": "ocastortv",
+    "userId": "4766626505",
+    "source": "script",
+    "createdAt": "2026-03-24T15:44:29.974Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.227.244.216",
+      "city": "Abbadia San Salvatore",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
