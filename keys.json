@@ -7734,5 +7734,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-7E0A5C-814E10-DF1BA2": {
+    "expires": "2026-03-25T01:36:20.765Z",
+    "hwid": "9644853789-5bc448aa-d491-4b5e-a3da-b1917e8d2923",
+    "browserHwid": null,
+    "username": "DyyPemancing",
+    "userId": "9644853789",
+    "source": "script",
+    "createdAt": "2026-03-24T01:36:21.183Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.10.97.15",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
