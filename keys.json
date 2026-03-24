@@ -2882,5 +2882,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-A27861-0705AF-4F1336": {
+    "expires": "2026-03-25T09:29:36.311Z",
+    "hwid": "5029591641-cf22ca35-4b2c-4873-9b9d-722bae5a81b0",
+    "browserHwid": null,
+    "username": "XoRiiouz",
+    "userId": "5029591641",
+    "source": "script",
+    "createdAt": "2026-03-24T09:29:36.655Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.136.57.134",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
