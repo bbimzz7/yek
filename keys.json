@@ -2617,5 +2617,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-7AE201-629EC1-EEFA86": {
+    "expires": "2026-03-25T07:36:27.425Z",
+    "hwid": "7323857583-B093A9EC-EDBE-4879-B9C8-91B7CBB1EF85",
+    "browserHwid": null,
+    "username": "nawofopen_7",
+    "userId": "7323857583",
+    "source": "script",
+    "createdAt": "2026-03-24T07:36:27.773Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.152.211.28",
+      "city": "Ben Arous",
+      "region": "Ben Arous Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    }
   }
 }
