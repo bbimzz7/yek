@@ -2714,5 +2714,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-92CF31-6AAC1B-A24BEA": {
+    "expires": "2026-03-25T08:44:45.125Z",
+    "hwid": "9650880199-2ecfeb96-bcb4-4ffc-aadb-2ac47be70109",
+    "browserHwid": null,
+    "username": "Ghanaian0",
+    "userId": "9650880199",
+    "source": "script",
+    "createdAt": "2026-03-24T08:44:45.478Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.1.64.48",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
