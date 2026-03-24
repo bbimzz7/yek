@@ -3750,8 +3750,15 @@
     "userId": "8586710084",
     "source": "script",
     "createdAt": "2026-03-24T13:31:42.437Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T13:31:49.951Z",
     "geo": {
+      "ip": "182.8.228.143",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.8.228.143",
       "city": "Yogyakarta",
       "region": "Yogyakarta",
