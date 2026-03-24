@@ -4752,8 +4752,15 @@
     "userId": "2794662512",
     "source": "script",
     "createdAt": "2026-03-24T18:08:20.513Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T18:08:25.842Z",
     "geo": {
+      "ip": "84.39.165.213",
+      "city": "Wroclaw",
+      "region": "Lower Silesia",
+      "country": "Poland",
+      "cc": "PL"
+    },
+    "lastGeo": {
       "ip": "84.39.165.213",
       "city": "Wroclaw",
       "region": "Lower Silesia",
