@@ -3669,5 +3669,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-628943-86935F-B88729": {
+    "expires": "2026-03-25T13:08:28.024Z",
+    "hwid": "8095738600-9b66328b-efb7-4e98-8cf8-8f74eadbc3e5",
+    "browserHwid": null,
+    "username": "roblox_user_8095738600",
+    "userId": "8095738600",
+    "source": "script",
+    "createdAt": "2026-03-24T13:08:28.287Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.151.64.81",
+      "city": "Roxas",
+      "region": "Cagayan Valley",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
