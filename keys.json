@@ -5001,5 +5001,22 @@
       "country": "Israel",
       "cc": "IL"
     }
+  },
+  "VH-D96BF7-0493A3-46BF86": {
+    "expires": "2026-03-25T19:17:19.255Z",
+    "hwid": "1643262426-B08CE19A-DFA8-4AC0-9C03-FC3BDE0DF6C7",
+    "browserHwid": null,
+    "username": "Bamello0723",
+    "userId": "1643262426",
+    "source": "script",
+    "createdAt": "2026-03-24T19:17:19.660Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.220.134.222",
+      "city": "Rio Grande",
+      "region": "Rio Grande do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
