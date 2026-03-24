@@ -4197,5 +4197,22 @@
       "country": "Serbia",
       "cc": "RS"
     }
+  },
+  "VH-E1BCC3-C62F09-777CF1": {
+    "expires": "2026-03-25T16:04:23.927Z",
+    "hwid": "670995600-53a9ae46-4bf3-47ae-baf5-9c0a2ced0b78",
+    "browserHwid": null,
+    "username": "takkusiakancintaku",
+    "userId": "670995600",
+    "source": "script",
+    "createdAt": "2026-03-24T16:04:24.359Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.179.87",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
