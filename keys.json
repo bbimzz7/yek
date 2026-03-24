@@ -2425,5 +2425,22 @@
       "country": "Japan",
       "cc": "JP"
     }
+  },
+  "VH-FCE1B0-B074C6-568581": {
+    "expires": "2026-03-25T06:43:32.919Z",
+    "hwid": "2634765192-566863E8-7581-4820-A44E-5239AF04160D",
+    "browserHwid": null,
+    "username": "Yossif_33",
+    "userId": "2634765192",
+    "source": "script",
+    "createdAt": "2026-03-24T06:43:33.241Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.231.46.15",
+      "city": "Kuwait City",
+      "region": "Al Asimah",
+      "country": "Kuwait",
+      "cc": "KW"
+    }
   }
 }
