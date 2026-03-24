@@ -3813,5 +3813,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-32BA3B-B2965D-0B3AA6": {
+    "expires": "2026-03-25T14:01:36.677Z",
+    "hwid": "8779508323-c1f3065b-ca81-4d73-9723-8a243f49d0fb",
+    "browserHwid": null,
+    "username": "WanzzZ_090",
+    "userId": "8779508323",
+    "source": "script",
+    "createdAt": "2026-03-24T14:01:37.092Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.144.227.172",
+      "city": "Watansoppeng",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
