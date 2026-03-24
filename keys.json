@@ -4350,8 +4350,15 @@
     "userId": "4574339519",
     "source": "script",
     "createdAt": "2026-03-24T16:25:57.546Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T16:26:09.165Z",
     "geo": {
+      "ip": "5.244.108.130",
+      "city": "Dammam",
+      "region": "Eastern Province",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    },
+    "lastGeo": {
       "ip": "5.244.108.130",
       "city": "Dammam",
       "region": "Eastern Province",
