@@ -7663,8 +7663,15 @@
     "userId": "2996231848",
     "source": "script",
     "createdAt": "2026-03-24T01:18:47.729Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T01:18:57.123Z",
     "geo": {
+      "ip": "115.187.29.8",
+      "city": "Muhajirin",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "115.187.29.8",
       "city": "Muhajirin",
       "region": "West Nusa Tenggara",
