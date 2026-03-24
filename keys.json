@@ -4293,5 +4293,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-3243FD-9E7C54-3081EF": {
+    "expires": "2026-03-25T16:24:21.806Z",
+    "hwid": "9202812078-95e12a18-4a52-4804-8d22-6df164e218d0",
+    "browserHwid": null,
+    "username": "stivenalape9",
+    "userId": "9202812078",
+    "source": "script",
+    "createdAt": "2026-03-24T16:24:22.294Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.156.54.30",
+      "city": "Bogotá",
+      "region": "Bogota D.C.",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
