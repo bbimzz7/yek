@@ -4005,5 +4005,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-1CB1F2-646ADE-CC9A5E": {
+    "expires": "2026-03-25T15:10:41.683Z",
+    "hwid": "4295462831-e38ac11f-2d22-48f2-913b-6742fefaa044",
+    "browserHwid": null,
+    "username": "8eieieuudduudh3b3",
+    "userId": "4295462831",
+    "source": "script",
+    "createdAt": "2026-03-24T15:10:42.103Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.107.95.182",
+      "city": "Rio de Janeiro",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
