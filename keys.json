@@ -3242,5 +3242,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-C20BE6-6FFB4C-1CAC55": {
+    "expires": "2026-03-25T11:31:27.658Z",
+    "hwid": "5786834377-46FB1521-204F-4333-B1CA-D125FD46EB91",
+    "browserHwid": null,
+    "username": "vrtp48",
+    "userId": "5786834377",
+    "source": "script",
+    "createdAt": "2026-03-24T11:31:27.875Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.116.247.226",
+      "city": "Petah Tikva",
+      "region": "Central District",
+      "country": "Israel",
+      "cc": "IL"
+    }
   }
 }
