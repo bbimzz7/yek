@@ -7847,5 +7847,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-89722D-2A6E44-729484": {
+    "expires": "2026-03-25T02:25:27.585Z",
+    "hwid": "8522378391-939BCB3B-A6C5-49AA-8D19-FFCF000F0424",
+    "browserHwid": null,
+    "username": "denk20019",
+    "userId": "8522378391",
+    "source": "script",
+    "createdAt": "2026-03-24T02:25:28.028Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.253.52.203",
+      "city": "Sidomulyo",
+      "region": "Gorontalo",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
