@@ -2458,8 +2458,15 @@
     "userId": "9516103849",
     "source": "script",
     "createdAt": "2026-03-24T06:45:38.069Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T06:46:43.916Z",
     "geo": {
+      "ip": "46.16.148.65",
+      "city": "Esik",
+      "region": "Almaty Region",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "46.16.148.65",
       "city": "Esik",
       "region": "Almaty Region",
