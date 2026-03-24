@@ -4897,8 +4897,15 @@
     "userId": "5840735588",
     "source": "script",
     "createdAt": "2026-03-24T18:50:50.986Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T18:50:57.098Z",
     "geo": {
+      "ip": "176.32.144.125",
+      "city": "Armavir",
+      "region": "Krasnodar Krai",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "176.32.144.125",
       "city": "Armavir",
       "region": "Krasnodar Krai",
