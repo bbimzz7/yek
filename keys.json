@@ -2410,8 +2410,15 @@
     "userId": "10351624834",
     "source": "script",
     "createdAt": "2026-03-24T06:42:36.544Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T06:42:47.120Z",
     "geo": {
+      "ip": "121.82.135.30",
+      "city": "Osaka",
+      "region": "Osaka",
+      "country": "Japan",
+      "cc": "JP"
+    },
+    "lastGeo": {
       "ip": "121.82.135.30",
       "city": "Osaka",
       "region": "Osaka",
