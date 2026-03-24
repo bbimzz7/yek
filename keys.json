@@ -3420,8 +3420,15 @@
     "userId": "2641814571",
     "source": "script",
     "createdAt": "2026-03-24T12:20:08.223Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-24T12:21:22.303Z",
     "geo": {
+      "ip": "179.189.138.93",
+      "city": "Rio Grande",
+      "region": "Rio Grande do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "179.189.138.93",
       "city": "Rio Grande",
       "region": "Rio Grande do Sul",
