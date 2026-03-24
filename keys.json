@@ -7919,5 +7919,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-2ED22F-DB6AE0-BE5652": {
+    "expires": "2026-03-25T02:48:40.732Z",
+    "hwid": "10609852545-89034d58-4d33-4824-86f1-3c0b9f8f3b81",
+    "browserHwid": null,
+    "username": "Mozkiki_j70",
+    "userId": "10609852545",
+    "source": "script",
+    "createdAt": "2026-03-24T02:48:41.097Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.29.26.98",
+      "city": "Jember",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
