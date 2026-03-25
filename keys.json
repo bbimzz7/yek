@@ -5891,8 +5891,15 @@
     "userId": "10352610394",
     "source": "script",
     "createdAt": "2026-03-25T01:38:52.493Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T01:45:16.472Z",
     "geo": {
+      "ip": "110.137.75.106",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "110.137.75.106",
       "city": "Bengkulu",
       "region": "Bengkulu",
