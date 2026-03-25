@@ -7415,5 +7415,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-076032-8CBCC9-D3EB7C": {
+    "expires": "2026-03-26T09:26:44.968Z",
+    "hwid": "9605258669-4357DBD3-F3AD-4B12-B21C-D61819F7EC02",
+    "browserHwid": null,
+    "username": "eurekarozez7",
+    "userId": "9605258669",
+    "source": "script",
+    "createdAt": "2026-03-25T09:26:45.209Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.162.158.140",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
