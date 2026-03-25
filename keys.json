@@ -6122,5 +6122,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-09966C-18DAA3-261AC0": {
+    "expires": "2026-03-26T02:56:27.161Z",
+    "hwid": "10718246784-0d24ef73-7670-44b9-a4cb-5f03166b4e70",
+    "browserHwid": null,
+    "username": "Tubers93_back62",
+    "userId": "10718246784",
+    "source": "script",
+    "createdAt": "2026-03-25T02:56:27.585Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.134.20.64",
+      "city": "Little Rock",
+      "region": "Arkansas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
