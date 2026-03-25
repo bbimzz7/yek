@@ -8008,5 +8008,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E757CB-E2BBD2-99FE2C": {
+    "expires": "2026-03-26T12:39:43.117Z",
+    "hwid": "9453567755-c76402c0-c25c-4a18-9208-ab32b404c1be",
+    "browserHwid": null,
+    "username": "Ldiee06",
+    "userId": "9453567755",
+    "source": "script",
+    "createdAt": "2026-03-25T12:39:43.562Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.102.12.85",
+      "city": "Rembang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
