@@ -7086,5 +7086,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-FC33D5-D9E27A-5F3E48": {
+    "expires": "2026-03-26T07:35:40.956Z",
+    "hwid": "7978900798-c18a4357-7cdc-4452-bc43-e17b33d9b00d",
+    "browserHwid": null,
+    "username": "clsnot101",
+    "userId": "7978900798",
+    "source": "script",
+    "createdAt": "2026-03-25T07:35:41.381Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.57.207.59",
+      "city": "Mandalay",
+      "region": "Mandalay Region",
+      "country": "Myanmar",
+      "cc": "MM"
+    }
   }
 }
