@@ -7367,5 +7367,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-4D3541-665402-FB1740": {
+    "expires": "2026-03-26T09:22:50.837Z",
+    "hwid": "5392733334-098d5f49-8356-4506-b43e-52e6a47e9789",
+    "browserHwid": null,
+    "username": "MLBB_CEATORBES",
+    "userId": "5392733334",
+    "source": "script",
+    "createdAt": "2026-03-25T09:22:51.062Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.81.65.67",
+      "city": "Sukoharjo Satu",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
