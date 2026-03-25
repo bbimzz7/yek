@@ -7326,5 +7326,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-85B91C-743936-48A4C6": {
+    "expires": "2026-03-26T09:17:25.815Z",
+    "hwid": "3892803752-e473570c-888f-469f-9345-d2cdefc64548",
+    "browserHwid": null,
+    "username": "UltraNegaNub",
+    "userId": "3892803752",
+    "source": "script",
+    "createdAt": "2026-03-25T09:17:26.230Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.75.46.215",
+      "city": "Ipoh",
+      "region": "Perak",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
