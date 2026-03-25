@@ -9083,5 +9083,22 @@
       "country": "Morocco",
       "cc": "MA"
     }
+  },
+  "VH-415F45-8CBF83-5537E6": {
+    "expires": "2026-03-26T23:09:11.409Z",
+    "hwid": "10722452498-F9B47084-E480-4077-84C5-6E0B00752654",
+    "browserHwid": null,
+    "username": "Fghdd12312",
+    "userId": "10722452498",
+    "source": "script",
+    "createdAt": "2026-03-25T23:09:11.837Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.172.46.12",
+      "city": "Bruay-la-Buissière",
+      "region": "Hauts-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
