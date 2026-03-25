@@ -7936,5 +7936,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-D953DB-FCC9E4-17825F": {
+    "expires": "2026-03-26T11:59:32.833Z",
+    "hwid": "457698637-7FE0F0AE-5F2C-445F-92D5-F128875D2430",
+    "browserHwid": null,
+    "username": "trolleur006",
+    "userId": "457698637",
+    "source": "script",
+    "createdAt": "2026-03-25T11:59:33.055Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "93.14.140.80",
+      "city": "Perpignan",
+      "region": "Occitanie",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
