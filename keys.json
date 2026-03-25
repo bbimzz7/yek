@@ -8128,5 +8128,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-51C92D-54957E-B5D3ED": {
+    "expires": "2026-03-26T13:42:20.654Z",
+    "hwid": "3927517891-37AD22D9-CA93-4A01-A478-6CCD5926C814",
+    "browserHwid": null,
+    "username": "SOLAFBX58",
+    "userId": "3927517891",
+    "source": "script",
+    "createdAt": "2026-03-25T13:42:21.062Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.139.10.146",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
