@@ -8338,5 +8338,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-4A23EF-DE7E59-6F8758": {
+    "expires": "2026-03-26T15:07:34.309Z",
+    "hwid": "7881829984-a93e189d-6bc4-4eb4-bf0d-3c8a0407ceb6",
+    "browserHwid": null,
+    "username": "emirbaba45466",
+    "userId": "7881829984",
+    "source": "script",
+    "createdAt": "2026-03-25T15:07:34.794Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "141.227.133.169",
+      "city": "Marseille",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
