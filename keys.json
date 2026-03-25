@@ -8458,5 +8458,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E451F0-88B91A-30A20F": {
+    "expires": "2026-03-26T15:45:54.495Z",
+    "hwid": "10251371013-36e0222d-eab7-4d41-a833-85092e3eba0a",
+    "browserHwid": null,
+    "username": "TheFuzzyBear80",
+    "userId": "10251371013",
+    "source": "script",
+    "createdAt": "2026-03-25T15:45:54.748Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.179.29.1",
+      "city": "Elez Han",
+      "region": "Ferizaj",
+      "country": "Kosovo",
+      "cc": "XK"
+    }
   }
 }
