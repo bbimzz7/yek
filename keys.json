@@ -6002,5 +6002,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3AB86E-1AE820-9EAFE2": {
+    "expires": "2026-03-26T02:28:01.338Z",
+    "hwid": "9251577250-b6577a8e-0a9b-4fa6-88ff-15926223a99e",
+    "browserHwid": null,
+    "username": "lyliarani",
+    "userId": "9251577250",
+    "source": "script",
+    "createdAt": "2026-03-25T02:28:01.514Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.190.52",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
