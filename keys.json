@@ -5106,7 +5106,7 @@
     "userId": "8667848315",
     "source": "script",
     "createdAt": "2026-03-24T19:56:57.506Z",
-    "lastUsed": "2026-03-25T09:43:14.537Z",
+    "lastUsed": "2026-03-25T13:15:20.823Z",
     "geo": {
       "ip": "112.215.201.111",
       "city": "Batam",
@@ -5115,9 +5115,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "112.215.201.107",
-      "city": "Batam",
-      "region": "Riau",
+      "ip": "140.213.158.13",
+      "city": "Banjar Badung",
+      "region": "Bali",
       "country": "Indonesia",
       "cc": "ID"
     }
