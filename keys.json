@@ -7559,5 +7559,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F1D7A0-9094B1-4F2F03": {
+    "expires": "2026-03-26T10:28:46.351Z",
+    "hwid": "454836040-7afed548-dc33-4d15-8828-f54c4092bfa8",
+    "browserHwid": null,
+    "username": "rendyno",
+    "userId": "454836040",
+    "source": "script",
+    "createdAt": "2026-03-25T10:28:46.825Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.63.26.163",
+      "city": "Probolinggo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
