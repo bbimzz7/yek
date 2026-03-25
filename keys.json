@@ -6227,8 +6227,15 @@
     "userId": "10546794981",
     "source": "script",
     "createdAt": "2026-03-25T03:43:23.442Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T03:43:30.429Z",
     "geo": {
+      "ip": "108.56.228.157",
+      "city": "Alexandria",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "108.56.228.157",
       "city": "Alexandria",
       "region": "Virginia",
