@@ -9011,5 +9011,22 @@
       "country": "Costa Rica",
       "cc": "CR"
     }
+  },
+  "VH-30F95F-293724-BC5CFF": {
+    "expires": "2026-03-26T22:21:14.554Z",
+    "hwid": "7900119454-136341b2-df91-4a47-94ea-a0a8e6558751",
+    "browserHwid": null,
+    "username": "Negu_187",
+    "userId": "7900119454",
+    "source": "script",
+    "createdAt": "2026-03-25T22:21:15.043Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "31.10.142.195",
+      "city": "Fislisbach",
+      "region": "Aargau",
+      "country": "Switzerland",
+      "cc": "CH"
+    }
   }
 }
