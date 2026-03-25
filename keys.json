@@ -8939,5 +8939,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-7F97AF-6075D6-48CCB0": {
+    "expires": "2026-03-26T20:19:22.741Z",
+    "hwid": "8242767061-A1109AF8-5127-4082-A5AC-44134B2530C6",
+    "browserHwid": null,
+    "username": "Sea24413",
+    "userId": "8242767061",
+    "source": "script",
+    "createdAt": "2026-03-25T20:19:22.990Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.156.111",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
