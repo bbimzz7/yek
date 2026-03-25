@@ -8563,8 +8563,15 @@
     "userId": "10406242958",
     "source": "script",
     "createdAt": "2026-03-25T16:16:34.159Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T16:17:23.385Z",
     "geo": {
+      "ip": "124.29.214.242",
+      "city": "Lahore",
+      "region": "Punjab",
+      "country": "Pakistan",
+      "cc": "PK"
+    },
+    "lastGeo": {
       "ip": "124.29.214.242",
       "city": "Lahore",
       "region": "Punjab",
