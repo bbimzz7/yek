@@ -6660,5 +6660,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-85AA81-D14B1E-406EAD": {
+    "expires": "2026-03-26T06:27:16.921Z",
+    "hwid": "9680503816-6698f823-d487-4f58-a62a-cfe8c2e7a93a",
+    "browserHwid": null,
+    "username": "Joshua_ak24",
+    "userId": "9680503816",
+    "source": "script",
+    "createdAt": "2026-03-25T06:27:17.126Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "139.135.67.246",
+      "city": "San Ramon",
+      "region": "Cordillera",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
