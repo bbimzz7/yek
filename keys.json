@@ -7335,8 +7335,15 @@
     "userId": "3892803752",
     "source": "script",
     "createdAt": "2026-03-25T09:17:26.230Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T09:21:03.061Z",
     "geo": {
+      "ip": "180.75.46.215",
+      "city": "Ipoh",
+      "region": "Perak",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "180.75.46.215",
       "city": "Ipoh",
       "region": "Perak",
