@@ -7199,5 +7199,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F317D7-2C6886-F4580D": {
+    "expires": "2026-03-26T08:02:06.101Z",
+    "hwid": "8650234740-6f58c616-5b14-4203-ad5e-dff1a015c28f",
+    "browserHwid": null,
+    "username": "KINGxSAPI",
+    "userId": "8650234740",
+    "source": "script",
+    "createdAt": "2026-03-25T08:02:06.350Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "139.195.136.29",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
