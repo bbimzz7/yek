@@ -8482,5 +8482,22 @@
       "country": "Kosovo",
       "cc": "XK"
     }
+  },
+  "VH-A8176E-129C2B-8E07A0": {
+    "expires": "2026-03-26T15:47:34.517Z",
+    "hwid": "7193314412-c9aeea34-d06c-4c8f-9414-3f52b76604de",
+    "browserHwid": null,
+    "username": "staynightd1",
+    "userId": "7193314412",
+    "source": "script",
+    "createdAt": "2026-03-25T15:47:34.811Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.13.204.48",
+      "city": "Regaloh",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
