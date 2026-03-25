@@ -7263,8 +7263,15 @@
     "userId": "9190846871",
     "source": "script",
     "createdAt": "2026-03-25T08:51:43.966Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T08:51:55.044Z",
     "geo": {
+      "ip": "103.4.76.137",
+      "city": "Parung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.4.76.137",
       "city": "Parung",
       "region": "West Java",
