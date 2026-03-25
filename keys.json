@@ -8515,8 +8515,15 @@
     "userId": "10525725285",
     "source": "script",
     "createdAt": "2026-03-25T16:05:26.754Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T16:05:37.535Z",
     "geo": {
+      "ip": "14.49.145.30",
+      "city": "Seogwipo-si",
+      "region": "Jeju-do",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "lastGeo": {
       "ip": "14.49.145.30",
       "city": "Seogwipo-si",
       "region": "Jeju-do",
