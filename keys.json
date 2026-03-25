@@ -7912,5 +7912,22 @@
       "country": "Uzbekistan",
       "cc": "UZ"
     }
+  },
+  "VH-E1962B-313A7B-51AFE6": {
+    "expires": "2026-03-26T11:58:25.405Z",
+    "hwid": "3590955711-657f7a6e-0635-47ca-972d-99cc245a4e7c",
+    "browserHwid": null,
+    "username": "Luunaaee",
+    "userId": "3590955711",
+    "source": "script",
+    "createdAt": "2026-03-25T11:58:25.633Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "128.14.107.27",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
