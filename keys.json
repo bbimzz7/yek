@@ -7016,8 +7016,15 @@
     "userId": "5106414008",
     "source": "script",
     "createdAt": "2026-03-25T07:15:25.416Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T07:15:35.805Z",
     "geo": {
+      "ip": "14.235.87.105",
+      "city": "Thái Bình",
+      "region": "Thái Bình Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "14.235.87.105",
       "city": "Thái Bình",
       "region": "Thái Bình Province",
