@@ -6578,5 +6578,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-2423BE-80F75A-D55D7E": {
+    "expires": "2026-03-26T06:19:10.259Z",
+    "hwid": "2521087962-81ebf70a-510c-4fec-9413-65e129685e73",
+    "browserHwid": null,
+    "username": "GTSPLOR",
+    "userId": "2521087962",
+    "source": "script",
+    "createdAt": "2026-03-25T06:19:10.703Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "58.69.117.160",
+      "city": "Santa Fe",
+      "region": "Eastern Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
