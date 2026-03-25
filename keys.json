@@ -7568,7 +7568,7 @@
     "userId": "454836040",
     "source": "script",
     "createdAt": "2026-03-25T10:28:46.825Z",
-    "lastUsed": "2026-03-25T10:29:27.725Z",
+    "lastUsed": "2026-03-25T17:30:42.905Z",
     "geo": {
       "ip": "103.63.26.163",
       "city": "Probolinggo",
@@ -7577,9 +7577,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.63.26.163",
-      "city": "Probolinggo",
-      "region": "East Java",
+      "ip": "114.10.42.55",
+      "city": "Ancol",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
