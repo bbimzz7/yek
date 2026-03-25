@@ -5882,5 +5882,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-E3B42F-BAFF9C-A90A02": {
+    "expires": "2026-03-26T01:38:52.101Z",
+    "hwid": "10352610394-1f0d7b09-bdd9-4be0-9668-b49d45068ec8",
+    "browserHwid": null,
+    "username": "Xrkingg82",
+    "userId": "10352610394",
+    "source": "script",
+    "createdAt": "2026-03-25T01:38:52.493Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.75.106",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
