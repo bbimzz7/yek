@@ -6773,5 +6773,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6FC745-E6522E-9079F9": {
+    "expires": "2026-03-26T06:48:08.731Z",
+    "hwid": null,
+    "browserHwid": "BR-21D88182-6JE67",
+    "username": "lunaleeby",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-25T06:48:09.122Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.54.121",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
