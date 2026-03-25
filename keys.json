@@ -7631,5 +7631,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A77318-B13E21-FE9DF8": {
+    "expires": "2026-03-26T10:41:23.812Z",
+    "hwid": "10269159670-b78e6336-69c7-4578-bc4f-8b933c0a7d14",
+    "browserHwid": null,
+    "username": "SNIPER_USER1232",
+    "userId": "10269159670",
+    "source": "script",
+    "createdAt": "2026-03-25T10:41:24.315Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "150.228.187.193",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
