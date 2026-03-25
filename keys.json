@@ -5721,5 +5721,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-A19BA5-D74C4A-F168E1": {
+    "expires": "2026-03-26T00:57:28.143Z",
+    "hwid": "753522780-47e32c50-9ec3-4ab3-bf4a-5c236831e974",
+    "browserHwid": null,
+    "username": "imam_6",
+    "userId": "753522780",
+    "source": "script",
+    "createdAt": "2026-03-25T00:57:28.504Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.168.225",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
