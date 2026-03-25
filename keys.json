@@ -7439,5 +7439,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-17E039-C9952E-45206F": {
+    "expires": "2026-03-26T09:43:55.837Z",
+    "hwid": "7257451032-3e96bcfa-76c4-4f39-8839-485fe4e80095",
+    "browserHwid": null,
+    "username": "VHANKLEX",
+    "userId": "7257451032",
+    "source": "script",
+    "createdAt": "2026-03-25T09:43:56.277Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.178.163",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
