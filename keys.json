@@ -8155,14 +8155,22 @@
   },
   "VH-4D0A76-013BF8-6D0C27": {
     "expires": "2026-03-26T13:44:12.886Z",
-    "hwid": null,
+    "hwid": "9006053269-657d9f29-50af-4d71-bf5e-32f13bf756be",
     "browserHwid": "BR-22945E01-3DA6U",
     "username": "zaitotselekbew",
-    "userId": null,
+    "userId": "9006053269",
     "source": "browser",
     "createdAt": "2026-03-25T13:44:13.145Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T13:47:57.049Z",
     "geo": {
+      "ip": "103.142.255.58",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-25T13:47:57.038Z",
+    "lastGeo": {
       "ip": "103.142.255.58",
       "city": "Jombang",
       "region": "East Java",
