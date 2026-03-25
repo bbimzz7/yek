@@ -6918,5 +6918,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-A05853-AED8BE-AD6D9F": {
+    "expires": "2026-03-26T07:06:21.328Z",
+    "hwid": "9107303146-C60C6708-B973-492A-8EBA-BCB520D21B67",
+    "browserHwid": null,
+    "username": "Tatatitiong",
+    "userId": "9107303146",
+    "source": "script",
+    "createdAt": "2026-03-25T07:06:21.552Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "117.18.17.50",
+      "city": "Kediri",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
