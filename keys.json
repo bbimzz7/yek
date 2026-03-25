@@ -7696,5 +7696,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-930CD5-7CD416-01C1B1": {
+    "expires": "2026-03-26T11:04:36.370Z",
+    "hwid": "8655179376-b4ac1cd1-ca59-434a-8229-d1483021b9d9",
+    "browserHwid": null,
+    "username": "kiyoshi_9038",
+    "userId": "8655179376",
+    "source": "script",
+    "createdAt": "2026-03-25T11:04:36.789Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.82.12",
+      "city": "Cabanatuan City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
