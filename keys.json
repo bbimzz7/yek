@@ -6323,8 +6323,15 @@
     "userId": "8414958625",
     "source": "script",
     "createdAt": "2026-03-25T04:27:36.242Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T04:30:35.633Z",
     "geo": {
+      "ip": "187.145.139.117",
+      "city": "Ecatepec",
+      "region": "México",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.145.139.117",
       "city": "Ecatepec",
       "region": "México",
