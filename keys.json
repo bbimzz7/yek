@@ -8915,5 +8915,22 @@
       "country": "Türkiye",
       "cc": "TR"
     }
+  },
+  "VH-BC5E4B-5FF00C-843413": {
+    "expires": "2026-03-26T20:18:30.414Z",
+    "hwid": "3386814648-87310be3-a962-48a1-a59b-60803e65b15c",
+    "browserHwid": null,
+    "username": "jekon85",
+    "userId": "3386814648",
+    "source": "script",
+    "createdAt": "2026-03-25T20:18:30.821Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "169.224.58.207",
+      "city": "Basra",
+      "region": "Basra Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
