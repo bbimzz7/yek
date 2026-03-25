@@ -6059,8 +6059,15 @@
     "userId": "8095372735",
     "source": "script",
     "createdAt": "2026-03-25T02:41:58.593Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T02:44:42.253Z",
     "geo": {
+      "ip": "189.245.131.90",
+      "city": "Coyoacán",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.245.131.90",
       "city": "Coyoacán",
       "region": "Mexico City",
