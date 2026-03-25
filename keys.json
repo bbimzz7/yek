@@ -6870,5 +6870,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-6E3A31-E9D768-38C974": {
+    "expires": "2026-03-26T07:02:16.256Z",
+    "hwid": "10066101475-fa00b908-9dc5-487c-94a0-f5f94fc87f09",
+    "browserHwid": null,
+    "username": "Vashee9",
+    "userId": "10066101475",
+    "source": "script",
+    "createdAt": "2026-03-25T07:02:16.459Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.83.40.62",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
