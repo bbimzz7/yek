@@ -4962,7 +4962,7 @@
     "userId": "8084277095",
     "source": "script",
     "createdAt": "2026-03-24T19:08:19.551Z",
-    "lastUsed": "2026-03-25T04:02:29.050Z",
+    "lastUsed": "2026-03-25T13:56:33.830Z",
     "geo": {
       "ip": "177.93.31.30",
       "city": "San José",
@@ -4971,11 +4971,11 @@
       "cc": "CR"
     },
     "lastGeo": {
-      "ip": "177.93.31.30",
-      "city": "San José",
-      "region": "Provincia de San José",
-      "country": "Costa Rica",
-      "cc": "CR"
+      "ip": "38.91.106.60",
+      "city": "Miami",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
     }
   },
   "VH-571899-6DEE2B-5C586F": {
