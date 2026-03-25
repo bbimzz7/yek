@@ -9092,8 +9092,15 @@
     "userId": "10722452498",
     "source": "script",
     "createdAt": "2026-03-25T23:09:11.837Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T23:09:16.655Z",
     "geo": {
+      "ip": "88.172.46.12",
+      "city": "Bruay-la-Buissière",
+      "region": "Hauts-de-France",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "88.172.46.12",
       "city": "Bruay-la-Buissière",
       "region": "Hauts-de-France",
