@@ -5915,8 +5915,15 @@
     "userId": "5128884238",
     "source": "script",
     "createdAt": "2026-03-25T01:57:32.445Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T01:57:41.237Z",
     "geo": {
+      "ip": "38.253.149.16",
+      "city": "San Isidro",
+      "region": "Lima region",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
       "ip": "38.253.149.16",
       "city": "San Isidro",
       "region": "Lima region",
