@@ -6458,5 +6458,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-6E8F16-FEAF88-7D54D5": {
+    "expires": "2026-03-26T05:12:54.054Z",
+    "hwid": "8172890203-a8ace033-47aa-48b0-8257-bfa524a5bee2",
+    "browserHwid": null,
+    "username": "Shb_503",
+    "userId": "8172890203",
+    "source": "script",
+    "createdAt": "2026-03-25T05:12:54.470Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.25.59.15",
+      "city": "Sidoarjo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
