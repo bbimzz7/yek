@@ -8722,5 +8722,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0CFA99-A6E35E-7AB2BC": {
+    "expires": "2026-03-26T17:49:29.390Z",
+    "hwid": null,
+    "browserHwid": "BR-76A9385D-Q27TY",
+    "username": "zimzam482",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-25T17:49:29.930Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.190.4.104",
+      "city": "Lahug",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
