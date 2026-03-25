@@ -9179,5 +9179,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-1215D6-34B62B-BC409F": {
+    "expires": "2026-03-26T23:38:10.822Z",
+    "hwid": "7710508291-d44018c1-aabb-4b3b-aad2-58fe7ebf65b5",
+    "browserHwid": null,
+    "username": "Xxyanna_m1",
+    "userId": "7710508291",
+    "source": "script",
+    "createdAt": "2026-03-25T23:38:11.292Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "152.237.131.250",
+      "city": "Manaus",
+      "region": "Amazonas",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
