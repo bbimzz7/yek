@@ -7681,8 +7681,15 @@
     "userId": "7606053907",
     "source": "script",
     "createdAt": "2026-03-25T10:52:07.530Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T10:52:16.828Z",
     "geo": {
+      "ip": "181.192.115.103",
+      "city": "Itapuranga",
+      "region": "Goiás",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "181.192.115.103",
       "city": "Itapuranga",
       "region": "Goiás",
