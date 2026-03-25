@@ -7729,8 +7729,15 @@
     "userId": "10709507395",
     "source": "script",
     "createdAt": "2026-03-25T11:15:32.511Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T11:17:03.890Z",
     "geo": {
+      "ip": "27.145.139.39",
+      "city": "Khan Na Yao",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "27.145.139.39",
       "city": "Khan Na Yao",
       "region": "Bangkok",
