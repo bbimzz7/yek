@@ -8218,5 +8218,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-47538E-345CD6-A7A759": {
+    "expires": "2026-03-26T14:05:46.411Z",
+    "hwid": "8024913788-d0444181-3fad-4fa4-ac08-fb929974ba50",
+    "browserHwid": null,
+    "username": "asml432",
+    "userId": "8024913788",
+    "source": "script",
+    "createdAt": "2026-03-25T14:05:46.853Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "80.187.116.234",
+      "city": "Bad Salzuflen",
+      "region": "North Rhine-Westphalia",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
