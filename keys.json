@@ -9035,5 +9035,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-CF542D-0E61B7-5B91B3": {
+    "expires": "2026-03-26T22:28:12.289Z",
+    "hwid": "8624359002-5c90b2ac-3b2c-4c1f-bd5b-9f8b917f823f",
+    "browserHwid": null,
+    "username": "hiakunbaru3",
+    "userId": "8624359002",
+    "source": "script",
+    "createdAt": "2026-03-25T22:28:12.729Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.144.227.192",
+      "city": "Watansoppeng",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
