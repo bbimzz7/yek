@@ -6530,5 +6530,22 @@
       "country": "Nicaragua",
       "cc": "NI"
     }
+  },
+  "VH-6B75DC-187623-1FE3F1": {
+    "expires": "2026-03-26T05:51:28.071Z",
+    "hwid": "10468424360-f5f37947-9fc0-475f-bb3a-33cb3b4dd5f1",
+    "browserHwid": null,
+    "username": "akwnbsb",
+    "userId": "10468424360",
+    "source": "script",
+    "createdAt": "2026-03-25T05:51:28.481Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.122.255.228",
+      "city": "Baghdad",
+      "region": "Baghdad",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
