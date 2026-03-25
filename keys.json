@@ -6050,5 +6050,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-AC4FF0-A78C73-E5696C": {
+    "expires": "2026-03-26T02:41:58.201Z",
+    "hwid": "8095372735-a80d8416-c3a7-47ba-bbe9-a6e9423e6ad2",
+    "browserHwid": null,
+    "username": "carlosct801",
+    "userId": "8095372735",
+    "source": "script",
+    "createdAt": "2026-03-25T02:41:58.593Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.245.131.90",
+      "city": "Coyoacán",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
