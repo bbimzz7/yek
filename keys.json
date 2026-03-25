@@ -7230,5 +7230,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2A56A6-6FA3C4-5E4F4D": {
+    "expires": "2026-03-26T08:39:55.443Z",
+    "hwid": "7704143667-35c00557-91df-4a69-8301-d53e6768e7da",
+    "browserHwid": null,
+    "username": "waiz_pvp",
+    "userId": "7704143667",
+    "source": "script",
+    "createdAt": "2026-03-25T08:39:55.844Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.192.215.39",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
