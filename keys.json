@@ -7840,5 +7840,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-9E9210-4FF717-D94F73": {
+    "expires": "2026-03-26T11:40:33.092Z",
+    "hwid": "10725051246-0a3f932b-f104-494d-9477-2e19dbffcb75",
+    "browserHwid": null,
+    "username": "ksmsmsmsksks_6",
+    "userId": "10725051246",
+    "source": "script",
+    "createdAt": "2026-03-25T11:40:33.545Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.81.65.67",
+      "city": "Sukoharjo Satu",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
