@@ -8177,5 +8177,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-53560B-6071CF-85034C": {
+    "expires": "2026-03-26T13:51:48.740Z",
+    "hwid": "10488578675-90303366-a27d-4314-8095-df6a560482cd",
+    "browserHwid": null,
+    "username": "tusgi4",
+    "userId": "10488578675",
+    "source": "script",
+    "createdAt": "2026-03-25T13:51:49.268Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.98.242",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
