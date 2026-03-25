@@ -6218,5 +6218,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AD35CF-D1E509-B3CE57": {
+    "expires": "2026-03-26T03:43:23.004Z",
+    "hwid": "10546794981-84839D1F-49CD-4869-9155-F569DD793A8D",
+    "browserHwid": null,
+    "username": "liam1233132",
+    "userId": "10546794981",
+    "source": "script",
+    "createdAt": "2026-03-25T03:43:23.442Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "108.56.228.157",
+      "city": "Alexandria",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
