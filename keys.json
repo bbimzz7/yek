@@ -5706,11 +5706,18 @@
     "userId": "7852143940",
     "source": "script",
     "createdAt": "2026-03-25T00:40:26.820Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T00:43:17.878Z",
     "geo": {
       "ip": "190.236.202.215",
       "city": "Lima",
       "region": "Lima Province",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
+      "ip": "201.230.158.18",
+      "city": "Jardin",
+      "region": "Ayacucho",
       "country": "Peru",
       "cc": "PE"
     }
