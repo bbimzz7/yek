@@ -8900,8 +8900,15 @@
     "userId": "3452579437",
     "source": "script",
     "createdAt": "2026-03-25T19:58:20.604Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T19:58:24.918Z",
     "geo": {
+      "ip": "78.180.32.94",
+      "city": "Mersin",
+      "region": "Mersin",
+      "country": "Türkiye",
+      "cc": "TR"
+    },
+    "lastGeo": {
       "ip": "78.180.32.94",
       "city": "Mersin",
       "region": "Mersin",
