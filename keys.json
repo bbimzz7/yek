@@ -6710,7 +6710,7 @@
     "userId": "8617422571",
     "source": "script",
     "createdAt": "2026-03-25T06:28:26.305Z",
-    "lastUsed": "2026-03-25T06:43:01.288Z",
+    "lastUsed": "2026-03-25T06:53:21.070Z",
     "geo": {
       "ip": "121.101.188.4",
       "city": "Banjarmasin",
@@ -6719,9 +6719,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "121.101.188.4",
-      "city": "Banjarmasin",
-      "region": "South Kalimantan",
+      "ip": "114.122.197.111",
+      "city": "Petakbehandang",
+      "region": "Central Kalimantan",
       "country": "Indonesia",
       "cc": "ID"
     }
