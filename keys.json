@@ -6669,8 +6669,15 @@
     "userId": "9680503816",
     "source": "script",
     "createdAt": "2026-03-25T06:27:17.126Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T06:27:25.045Z",
     "geo": {
+      "ip": "139.135.67.246",
+      "city": "San Ramon",
+      "region": "Cordillera",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "139.135.67.246",
       "city": "San Ramon",
       "region": "Cordillera",
