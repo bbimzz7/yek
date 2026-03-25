@@ -6846,5 +6846,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-945A69-D4F137-4E7815": {
+    "expires": "2026-03-26T07:00:53.116Z",
+    "hwid": "10654428156-eb97fe74-736f-4348-ae73-b0bdbbf1da1b",
+    "browserHwid": null,
+    "username": "rivalsbannedme78",
+    "userId": "10654428156",
+    "source": "script",
+    "createdAt": "2026-03-25T07:00:53.313Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.184.109.130",
+      "city": "Châtillon",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
