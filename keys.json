@@ -8707,8 +8707,15 @@
     "userId": "10719365503",
     "source": "script",
     "createdAt": "2026-03-25T17:33:51.411Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T17:34:03.574Z",
     "geo": {
+      "ip": "103.169.195.147",
+      "city": "Jatiroto",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.169.195.147",
       "city": "Jatiroto",
       "region": "Central Java",
