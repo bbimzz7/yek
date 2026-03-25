@@ -8602,5 +8602,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-F99DB3-F45942-BA349C": {
+    "expires": "2026-03-26T16:39:27.968Z",
+    "hwid": "9370599594-30594157-caa3-47c8-8754-bb06db6fecd1",
+    "browserHwid": null,
+    "username": "mr_ananasene",
+    "userId": "9370599594",
+    "source": "script",
+    "createdAt": "2026-03-25T16:39:28.464Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.237.123.31",
+      "city": "Erbil",
+      "region": "Erbil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
