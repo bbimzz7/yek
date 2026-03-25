@@ -5673,5 +5673,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-4328EA-846BAC-6F7C6F": {
+    "expires": "2026-03-26T00:37:43.842Z",
+    "hwid": "10631241236-abf49b76-d6bd-46d5-8082-5ae5ff5d1d0a",
+    "browserHwid": null,
+    "username": "Kimberlylbb",
+    "userId": "10631241236",
+    "source": "script",
+    "createdAt": "2026-03-25T00:37:44.207Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.153.63.75",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
