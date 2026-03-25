@@ -7960,5 +7960,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-25EC67-F226D5-6E7E4C": {
+    "expires": "2026-03-26T12:14:23.884Z",
+    "hwid": "10474205953-A9D7FFB1-254E-49E4-B10C-AF0B61FA6140",
+    "browserHwid": null,
+    "username": "Mansur_moi2",
+    "userId": "10474205953",
+    "source": "script",
+    "createdAt": "2026-03-25T12:14:24.402Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.34.53.107",
+      "city": "Karaganda",
+      "region": "Karaganda",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
