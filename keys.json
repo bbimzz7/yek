@@ -6482,5 +6482,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-505D8A-278CA8-1F4AAA": {
+    "expires": "2026-03-26T05:29:45.567Z",
+    "hwid": "7004142356-d41d3ad7-a284-43ac-bbe0-68c7d5f91808",
+    "browserHwid": null,
+    "username": "eqsjasykwt13847",
+    "userId": "7004142356",
+    "source": "script",
+    "createdAt": "2026-03-25T05:29:46.023Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.191.78",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
