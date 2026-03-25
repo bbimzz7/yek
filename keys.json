@@ -6903,11 +6903,18 @@
     "userId": "8726010590",
     "source": "script",
     "createdAt": "2026-03-25T07:02:17.077Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T07:02:28.134Z",
     "geo": {
       "ip": "122.3.203.122",
       "city": "Manila",
       "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "180.190.203.54",
+      "city": "Lahug",
+      "region": "Central Visayas",
       "country": "Philippines",
       "cc": "PH"
     }
