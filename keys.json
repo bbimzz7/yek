@@ -7350,5 +7350,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-06ACF6-1657A0-AEC195": {
+    "expires": "2026-03-26T09:22:43.943Z",
+    "hwid": "7990593421-de501e45-3ad8-4080-bd7a-83d1067d4bd0",
+    "browserHwid": null,
+    "username": "35MO359",
+    "userId": "7990593421",
+    "source": "script",
+    "createdAt": "2026-03-25T09:22:44.172Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "128.234.123.60",
+      "city": "Dammam",
+      "region": "Eastern Province",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
