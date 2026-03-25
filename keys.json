@@ -6506,5 +6506,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-148CDE-2FD03A-D77A76": {
+    "expires": "2026-03-26T05:31:17.388Z",
+    "hwid": "5461360455-bbc01f43-4dce-43ae-adc6-45482044d133",
+    "browserHwid": null,
+    "username": "ERLI_816",
+    "userId": "5461360455",
+    "source": "script",
+    "createdAt": "2026-03-25T05:31:17.792Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.77.204.190",
+      "city": "Managua",
+      "region": "Managua Department",
+      "country": "Nicaragua",
+      "cc": "NI"
+    }
   }
 }
