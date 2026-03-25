@@ -8725,17 +8725,25 @@
   },
   "VH-0CFA99-A6E35E-7AB2BC": {
     "expires": "2026-03-26T17:49:29.390Z",
-    "hwid": null,
+    "hwid": "8284142712-eb6d1b1b-642c-42db-b757-a96a2a8cd0cb",
     "browserHwid": "BR-76A9385D-Q27TY",
     "username": "zimzam482",
-    "userId": null,
+    "userId": "8284142712",
     "source": "browser",
     "createdAt": "2026-03-25T17:49:29.930Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T17:50:44.594Z",
     "geo": {
       "ip": "180.190.4.104",
       "city": "Lahug",
       "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "boundAt": "2026-03-25T17:50:44.578Z",
+    "lastGeo": {
+      "ip": "49.145.70.11",
+      "city": "Iloilo City",
+      "region": "Western Visayas",
       "country": "Philippines",
       "cc": "PH"
     }
