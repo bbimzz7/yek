@@ -8056,5 +8056,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1CCDB8-03598B-E25BAE": {
+    "expires": "2026-03-26T13:14:29.763Z",
+    "hwid": "4255511424-EC96FDBA-1689-406A-AF23-B60DBE0BC808",
+    "browserHwid": null,
+    "username": "AEGRAHTTWHAEGR",
+    "userId": "4255511424",
+    "source": "script",
+    "createdAt": "2026-03-25T13:14:30.327Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.114.244.164",
+      "city": "Hanover",
+      "region": "Lower Saxony",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
