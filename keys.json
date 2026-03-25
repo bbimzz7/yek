@@ -7945,8 +7945,15 @@
     "userId": "457698637",
     "source": "script",
     "createdAt": "2026-03-25T11:59:33.055Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T11:59:36.838Z",
     "geo": {
+      "ip": "93.14.140.80",
+      "city": "Perpignan",
+      "region": "Occitanie",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "93.14.140.80",
       "city": "Perpignan",
       "region": "Occitanie",
