@@ -7398,5 +7398,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A054BD-B4BE45-2C6C12": {
+    "expires": "2026-03-26T09:24:36.461Z",
+    "hwid": null,
+    "browserHwid": "BR-7590505A-D7BTE",
+    "username": "VH-06ACF6-1657A0-AEC195",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-25T09:24:36.711Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "128.234.123.60",
+      "city": "Dammam",
+      "region": "Eastern Province",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
