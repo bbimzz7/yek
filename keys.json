@@ -7191,8 +7191,15 @@
     "userId": "10620065180",
     "source": "script",
     "createdAt": "2026-03-25T08:01:55.575Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T08:02:38.922Z",
     "geo": {
+      "ip": "160.19.18.74",
+      "city": "Cicurug",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "160.19.18.74",
       "city": "Cicurug",
       "region": "West Java",
