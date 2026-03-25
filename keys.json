@@ -4776,7 +4776,7 @@
     "userId": "8933790906",
     "source": "browser",
     "createdAt": "2026-03-24T18:34:23.983Z",
-    "lastUsed": "2026-03-24T18:37:26.667Z",
+    "lastUsed": "2026-03-25T16:26:13.810Z",
     "geo": {
       "ip": "103.175.222.212",
       "city": "Sungguminasa",
@@ -4786,9 +4786,9 @@
     },
     "boundAt": "2026-03-24T18:37:26.657Z",
     "lastGeo": {
-      "ip": "103.175.222.235",
-      "city": "Sungguminasa",
-      "region": "South Sulawesi",
+      "ip": "103.175.222.219",
+      "city": "Airmadidi",
+      "region": "North Sulawesi",
       "country": "Indonesia",
       "cc": "ID"
     }
