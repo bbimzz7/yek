@@ -7071,8 +7071,15 @@
     "userId": "5752794769",
     "source": "script",
     "createdAt": "2026-03-25T07:26:14.498Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T07:26:28.168Z",
     "geo": {
+      "ip": "90.242.29.181",
+      "city": "Basingstoke",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "90.242.29.181",
       "city": "Basingstoke",
       "region": "England",
