@@ -8891,5 +8891,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E8A315-98FD27-6E275E": {
+    "expires": "2026-03-26T19:58:20.111Z",
+    "hwid": "3452579437-8652C100-91E7-4EDC-BD7F-8A8F6B89C0F5",
+    "browserHwid": null,
+    "username": "croskg23",
+    "userId": "3452579437",
+    "source": "script",
+    "createdAt": "2026-03-25T19:58:20.604Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "78.180.32.94",
+      "city": "Mersin",
+      "region": "Mersin",
+      "country": "Türkiye",
+      "cc": "TR"
+    }
   }
 }
