@@ -9124,5 +9124,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-8FC331-ED49CA-C6EC54": {
+    "expires": "2026-03-26T23:14:06.439Z",
+    "hwid": "4799827823-d5b4d2e1-3fbb-42e6-ad42-45eb6695c9a7",
+    "browserHwid": null,
+    "username": "henriquesda1894",
+    "userId": "4799827823",
+    "source": "script",
+    "createdAt": "2026-03-25T23:14:06.617Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.35.193.137",
+      "city": "Franca",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
