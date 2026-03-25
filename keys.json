@@ -6371,8 +6371,15 @@
     "userId": "7104885849",
     "source": "script",
     "createdAt": "2026-03-25T04:49:52.664Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T04:50:01.044Z",
     "geo": {
+      "ip": "185.90.169.159",
+      "city": "Beirut",
+      "region": "Beyrouth",
+      "country": "Lebanon",
+      "cc": "LB"
+    },
+    "lastGeo": {
       "ip": "185.90.169.159",
       "city": "Beirut",
       "region": "Beyrouth",
