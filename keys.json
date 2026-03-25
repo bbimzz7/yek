@@ -8963,5 +8963,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-491EA6-146538-FABC17": {
+    "expires": "2026-03-26T20:39:04.443Z",
+    "hwid": "10159464568-4f5fab3e-a750-4a8a-9c1f-ac2c32dd334c",
+    "browserHwid": null,
+    "username": "kinimovere",
+    "userId": "10159464568",
+    "source": "script",
+    "createdAt": "2026-03-25T20:39:04.928Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.176.77.86",
+      "city": "Sukabumi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
