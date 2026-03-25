@@ -6966,5 +6966,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-B35C76-6C594D-E0C42A": {
+    "expires": "2026-03-26T07:13:04.913Z",
+    "hwid": "9485487536-3a620534-6b66-48a8-a878-1015a266d7e1",
+    "browserHwid": null,
+    "username": "Badvibesgoaway",
+    "userId": "9485487536",
+    "source": "script",
+    "createdAt": "2026-03-25T07:13:05.099Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.26.116.46",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
