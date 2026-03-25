@@ -7777,9 +7777,16 @@
     "userId": "8669905878",
     "source": "script",
     "createdAt": "2026-03-25T11:17:30.783Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T11:17:43.897Z",
     "geo": {
       "ip": "140.213.165.225",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "140.213.139.11",
       "city": "Semarang",
       "region": "Central Java",
       "country": "Indonesia",
