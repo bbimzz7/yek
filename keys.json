@@ -8467,8 +8467,15 @@
     "userId": "10251371013",
     "source": "script",
     "createdAt": "2026-03-25T15:45:54.748Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T15:46:01.730Z",
     "geo": {
+      "ip": "185.179.29.1",
+      "city": "Elez Han",
+      "region": "Ferizaj",
+      "country": "Kosovo",
+      "cc": "XK"
+    },
+    "lastGeo": {
       "ip": "185.179.29.1",
       "city": "Elez Han",
       "region": "Ferizaj",
