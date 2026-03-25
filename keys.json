@@ -5762,5 +5762,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-864E27-FEC672-7041BE": {
+    "expires": "2026-03-26T01:03:29.156Z",
+    "hwid": "7655540065-ce2aad97-919f-4904-8d82-db601fd8283f",
+    "browserHwid": null,
+    "username": "WeNeedHumor7Th",
+    "userId": "7655540065",
+    "source": "script",
+    "createdAt": "2026-03-25T01:03:29.354Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.1.252",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
