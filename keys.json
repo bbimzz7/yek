@@ -7888,5 +7888,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-C015ED-9B4908-DDC6E6": {
+    "expires": "2026-03-26T11:53:05.926Z",
+    "hwid": "8049546927-78A76840-5EBF-41A1-8058-69CE164A77B0",
+    "browserHwid": null,
+    "username": "DevilBricker",
+    "userId": "8049546927",
+    "source": "script",
+    "createdAt": "2026-03-25T11:53:06.416Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.214.211.166",
+      "city": "Tashkent",
+      "region": "Tashkent",
+      "country": "Uzbekistan",
+      "cc": "UZ"
+    }
   }
 }
