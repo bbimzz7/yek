@@ -6314,5 +6314,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-546B91-734FE3-17126D": {
+    "expires": "2026-03-26T04:27:35.840Z",
+    "hwid": "8414958625-1166b7ed-2fad-483a-8b8b-73c787c6a5ad",
+    "browserHwid": null,
+    "username": "chucho87976",
+    "userId": "8414958625",
+    "source": "script",
+    "createdAt": "2026-03-25T04:27:36.242Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.145.139.117",
+      "city": "Ecatepec",
+      "region": "México",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
