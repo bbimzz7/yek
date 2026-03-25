@@ -7143,9 +7143,16 @@
     "userId": "9892657979",
     "source": "script",
     "createdAt": "2026-03-25T07:51:19.177Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T07:59:47.581Z",
     "geo": {
       "ip": "102.212.136.60",
+      "city": "Tripoli",
+      "region": "Tripoli",
+      "country": "Libya",
+      "cc": "LY"
+    },
+    "lastGeo": {
+      "ip": "156.38.49.185",
       "city": "Tripoli",
       "region": "Tripoli",
       "country": "Libya",
