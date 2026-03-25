@@ -5817,5 +5817,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-87F01E-0C2BBF-21B1CB": {
+    "expires": "2026-03-26T01:27:12.543Z",
+    "hwid": "9042774352-c1cf6b3b-4d97-452e-9268-000edc40a58f",
+    "browserHwid": null,
+    "username": "saray_202025",
+    "userId": "9042774352",
+    "source": "script",
+    "createdAt": "2026-03-25T01:27:12.973Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "79.117.252.195",
+      "city": "Alzira",
+      "region": "Valencia",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
