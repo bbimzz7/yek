@@ -8491,8 +8491,15 @@
     "userId": "7193314412",
     "source": "script",
     "createdAt": "2026-03-25T15:47:34.811Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T15:47:41.575Z",
     "geo": {
+      "ip": "103.13.204.48",
+      "city": "Regaloh",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.13.204.48",
       "city": "Regaloh",
       "region": "Central Java",
