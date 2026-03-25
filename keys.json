@@ -7600,5 +7600,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-737A21-87F765-8B45A7": {
+    "expires": "2026-03-26T10:35:33.229Z",
+    "hwid": "5003648782-ff48cae9-3d4d-4207-ae4f-5df3c914be0a",
+    "browserHwid": null,
+    "username": "millidilang0_0",
+    "userId": "5003648782",
+    "source": "script",
+    "createdAt": "2026-03-25T10:35:33.501Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.200.176",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
