@@ -6855,7 +6855,7 @@
     "userId": "10654428156",
     "source": "script",
     "createdAt": "2026-03-25T07:00:53.313Z",
-    "lastUsed": "2026-03-25T07:01:02.243Z",
+    "lastUsed": "2026-03-25T07:03:03.410Z",
     "geo": {
       "ip": "92.184.109.130",
       "city": "Châtillon",
@@ -6864,9 +6864,9 @@
       "cc": "FR"
     },
     "lastGeo": {
-      "ip": "92.184.109.130",
-      "city": "Châtillon",
-      "region": "Île-de-France",
+      "ip": "92.184.109.71",
+      "city": "Saintes",
+      "region": "Nouvelle-Aquitaine",
       "country": "France",
       "cc": "FR"
     }
