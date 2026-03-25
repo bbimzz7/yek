@@ -7864,5 +7864,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-96FBFF-1BDA89-2A3940": {
+    "expires": "2026-03-26T11:48:35.615Z",
+    "hwid": "10722033964-a1348e43-d838-4d2b-ad74-993989fcec44",
+    "browserHwid": null,
+    "username": "Ledzsigma67",
+    "userId": "10722033964",
+    "source": "script",
+    "createdAt": "2026-03-25T11:48:36.046Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "89.92.136.223",
+      "city": "Saint-Etienne",
+      "region": "Rhône-Alpes",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
