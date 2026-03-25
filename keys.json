@@ -9155,5 +9155,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-3F0AB5-1629AF-F63132": {
+    "expires": "2026-03-26T23:34:46.877Z",
+    "hwid": "7261496677-5B5317D2-92B0-4BCB-A3AC-C00F3BFE3FC9",
+    "browserHwid": null,
+    "username": "Vini_jr2k",
+    "userId": "7261496677",
+    "source": "script",
+    "createdAt": "2026-03-25T23:34:47.324Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.180.16.28",
+      "city": "Guzolândia",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
