@@ -8242,5 +8242,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-D2237C-12CD37-7EAD0A": {
+    "expires": "2026-03-26T14:21:08.002Z",
+    "hwid": "1074569226-965FDE0D-63BB-4871-95DA-0BB0E8DA9263",
+    "browserHwid": null,
+    "username": "Maleezgg",
+    "userId": "1074569226",
+    "source": "script",
+    "createdAt": "2026-03-25T14:21:08.497Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "184.22.14.182",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
