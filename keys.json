@@ -8828,8 +8828,15 @@
     "userId": "9339463894",
     "source": "script",
     "createdAt": "2026-03-25T18:51:52.180Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T18:52:02.286Z",
     "geo": {
+      "ip": "95.57.98.41",
+      "city": "Kyzylorda",
+      "region": "Qyzylorda Oblysy",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "95.57.98.41",
       "city": "Kyzylorda",
       "region": "Qyzylorda Oblysy",
