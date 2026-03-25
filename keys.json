@@ -6067,5 +6067,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-0FB1F5-0D8F35-DCDC9F": {
+    "expires": "2026-03-26T02:43:36.443Z",
+    "hwid": "5125457675-56fe65f2-7cd4-4c32-8207-ac688bd000b8",
+    "browserHwid": null,
+    "username": "siapyui6",
+    "userId": "5125457675",
+    "source": "script",
+    "createdAt": "2026-03-25T02:43:36.886Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.1.161",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
