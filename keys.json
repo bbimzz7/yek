@@ -6725,5 +6725,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-922ABA-EB0E2F-6A7991": {
+    "expires": "2026-03-26T06:33:44.530Z",
+    "hwid": "8612535719-16073258-d2b2-43f1-844f-b03c8efdb6d4",
+    "browserHwid": null,
+    "username": "shxyka_1",
+    "userId": "8612535719",
+    "source": "script",
+    "createdAt": "2026-03-25T06:33:44.705Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.172.42.91",
+      "city": "Karawang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
