@@ -7103,5 +7103,22 @@
       "country": "Myanmar",
       "cc": "MM"
     }
+  },
+  "VH-EA067B-44487B-24F48D": {
+    "expires": "2026-03-26T07:39:56.764Z",
+    "hwid": "8605827411-C9D1F1AB-0EAD-4BFF-8AAB-BD630BF47754",
+    "browserHwid": null,
+    "username": "Reiditya7",
+    "userId": "8605827411",
+    "source": "script",
+    "createdAt": "2026-03-25T07:39:57.182Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.25.222.188",
+      "city": "Kurungannyawa",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
