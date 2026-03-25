@@ -6434,5 +6434,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-8DFBFA-13A232-C65EBD": {
+    "expires": "2026-03-26T05:11:47.923Z",
+    "hwid": "1824897799-eea92270-3936-46a4-a4b2-232052bd1802",
+    "browserHwid": null,
+    "username": "iiharis_gamingii",
+    "userId": "1824897799",
+    "source": "script",
+    "createdAt": "2026-03-25T05:11:48.326Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.211.104.135",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
