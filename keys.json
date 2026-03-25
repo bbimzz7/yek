@@ -6887,5 +6887,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-313F78-EF2898-973CFC": {
+    "expires": "2026-03-26T07:02:16.703Z",
+    "hwid": "8726010590-c4ac5d83-628a-4183-83c4-d6f589c4a49c",
+    "browserHwid": null,
+    "username": "loydff61",
+    "userId": "8726010590",
+    "source": "script",
+    "createdAt": "2026-03-25T07:02:17.077Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "122.3.203.122",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
