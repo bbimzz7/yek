@@ -6026,5 +6026,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AC4093-716081-E49813": {
+    "expires": "2026-03-26T02:35:39.788Z",
+    "hwid": "8940933403-c2529356-398a-4c8a-a0a7-e909caef8582",
+    "browserHwid": null,
+    "username": "brux_127",
+    "userId": "8940933403",
+    "source": "script",
+    "createdAt": "2026-03-25T02:35:40.254Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.242.249.167",
+      "city": "Xochimilco",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
