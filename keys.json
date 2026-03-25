@@ -7744,5 +7744,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-DE1FD8-50070D-874368": {
+    "expires": "2026-03-26T11:17:24.896Z",
+    "hwid": "4063760265-dbd11b61-46a3-4017-a8e1-75e498294411",
+    "browserHwid": null,
+    "username": "vzqriiv",
+    "userId": "4063760265",
+    "source": "script",
+    "createdAt": "2026-03-25T11:17:25.309Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.244.102.63",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
