@@ -7873,8 +7873,15 @@
     "userId": "10722033964",
     "source": "script",
     "createdAt": "2026-03-25T11:48:36.046Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T11:50:25.324Z",
     "geo": {
+      "ip": "89.92.136.223",
+      "city": "Saint-Etienne",
+      "region": "Rhône-Alpes",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "89.92.136.223",
       "city": "Saint-Etienne",
       "region": "Rhône-Alpes",
