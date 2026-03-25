@@ -6155,13 +6155,20 @@
     "userId": "8963486071",
     "source": "script",
     "createdAt": "2026-03-25T03:05:38.676Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T03:06:04.300Z",
     "geo": {
       "ip": "114.5.110.101",
       "city": "Surabaya",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "103.71.153.6",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
     }
   }
 }
