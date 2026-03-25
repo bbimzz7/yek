@@ -6602,5 +6602,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-97B180-851619-8FBAEC": {
+    "expires": "2026-03-26T06:21:36.438Z",
+    "hwid": "9189667969-314E7DE7-0E77-43B8-982B-9498650B2073",
+    "browserHwid": null,
+    "username": "Veldora6289",
+    "userId": "9189667969",
+    "source": "script",
+    "createdAt": "2026-03-25T06:21:36.837Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.76.184.220",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
