@@ -7062,5 +7062,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-3AD9DB-A28B83-5E3974": {
+    "expires": "2026-03-26T07:26:14.077Z",
+    "hwid": "5752794769-ba5af442-4419-4473-b571-cbe5b681d2b2",
+    "browserHwid": null,
+    "username": "Liverpoolboy17833",
+    "userId": "5752794769",
+    "source": "script",
+    "createdAt": "2026-03-25T07:26:14.498Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "90.242.29.181",
+      "city": "Basingstoke",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
