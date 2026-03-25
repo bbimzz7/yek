@@ -7007,5 +7007,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-810297-EF2E32-277CE1": {
+    "expires": "2026-03-26T07:15:25.223Z",
+    "hwid": "5106414008-0A043C4C-E5D8-48F4-BE02-966A9685E990",
+    "browserHwid": null,
+    "username": "xdrgcfgad37",
+    "userId": "5106414008",
+    "source": "script",
+    "createdAt": "2026-03-25T07:15:25.416Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.235.87.105",
+      "city": "Thái Bình",
+      "region": "Thái Bình Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
