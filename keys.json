@@ -7134,5 +7134,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0F00F3-DA53E6-D83663": {
+    "expires": "2026-03-26T07:51:18.755Z",
+    "hwid": "9892657979-6ae0e296-0dae-449e-8e7e-93a7ae1971ec",
+    "browserHwid": null,
+    "username": "YASDX70",
+    "userId": "9892657979",
+    "source": "script",
+    "createdAt": "2026-03-25T07:51:19.177Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.212.136.60",
+      "city": "Tripoli",
+      "region": "Tripoli",
+      "country": "Libya",
+      "cc": "LY"
+    }
   }
 }
