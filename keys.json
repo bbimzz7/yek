@@ -7592,8 +7592,15 @@
     "userId": "10118735468",
     "source": "script",
     "createdAt": "2026-03-25T10:30:47.589Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T10:36:22.583Z",
     "geo": {
+      "ip": "31.41.94.106",
+      "city": "Uzhhorod",
+      "region": "Zakarpattia Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "31.41.94.106",
       "city": "Uzhhorod",
       "region": "Zakarpattia Oblast",
