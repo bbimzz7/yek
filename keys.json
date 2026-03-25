@@ -8780,8 +8780,15 @@
     "userId": "5232897477",
     "source": "script",
     "createdAt": "2026-03-25T18:13:24.608Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T18:15:58.357Z",
     "geo": {
+      "ip": "182.8.98.223",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.8.98.223",
       "city": "Surabaya",
       "region": "East Java",
