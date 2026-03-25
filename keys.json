@@ -5954,5 +5954,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7158A9-7AE968-0CEECD": {
+    "expires": "2026-03-26T02:23:31.203Z",
+    "hwid": "863512724-D99F7EFB-1881-45E7-A84D-912BB59B7413",
+    "browserHwid": null,
+    "username": "omg_lol31",
+    "userId": "863512724",
+    "source": "script",
+    "createdAt": "2026-03-25T02:23:32.592Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "65.188.165.145",
+      "city": "Greensboro",
+      "region": "North Carolina",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
