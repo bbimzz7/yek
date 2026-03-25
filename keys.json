@@ -8626,5 +8626,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-5F51BA-36ADC1-EFD502": {
+    "expires": "2026-03-26T16:48:23.577Z",
+    "hwid": "8848548761-53f890f5-2281-4e5d-a8f5-a0c698c9b3a4",
+    "browserHwid": null,
+    "username": "ZANL4ST",
+    "userId": "8848548761",
+    "source": "script",
+    "createdAt": "2026-03-25T16:48:24.160Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.251.183.211",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
