@@ -5906,5 +5906,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6D50E1-B8417D-558EC0": {
+    "expires": "2026-03-26T01:57:32.048Z",
+    "hwid": "5128884238-8420412F-0AF9-4211-98C6-93ECBCE72A16",
+    "browserHwid": null,
+    "username": "Rip_Ligth64",
+    "userId": "5128884238",
+    "source": "script",
+    "createdAt": "2026-03-25T01:57:32.445Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.253.149.16",
+      "city": "San Isidro",
+      "region": "Lima region",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
