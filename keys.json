@@ -7040,8 +7040,15 @@
     "userId": "10492792429",
     "source": "script",
     "createdAt": "2026-03-25T07:15:58.832Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T07:16:08.318Z",
     "geo": {
+      "ip": "74.244.73.234",
+      "city": "Anchorage",
+      "region": "Alaska",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "74.244.73.234",
       "city": "Anchorage",
       "region": "Alaska",
