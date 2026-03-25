@@ -9044,8 +9044,15 @@
     "userId": "8624359002",
     "source": "script",
     "createdAt": "2026-03-25T22:28:12.729Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T22:29:04.419Z",
     "geo": {
+      "ip": "103.144.227.192",
+      "city": "Watansoppeng",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.144.227.192",
       "city": "Watansoppeng",
       "region": "South Sulawesi",
