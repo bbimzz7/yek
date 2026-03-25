@@ -6242,5 +6242,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-5382DC-DFC182-125B5D": {
+    "expires": "2026-03-26T04:05:04.491Z",
+    "hwid": "8211380077-563f7a5e-5cbe-47eb-b1dc-2c11fc765186",
+    "browserHwid": null,
+    "username": "aku_cocohi12",
+    "userId": "8211380077",
+    "source": "script",
+    "createdAt": "2026-03-25T04:05:04.905Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.166.68",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
