@@ -7761,5 +7761,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-5CD28F-F7DAA1-262E2A": {
+    "expires": "2026-03-26T11:17:30.569Z",
+    "hwid": "8669905878-94e068f1-bc81-48ec-b0cf-5357a2295228",
+    "browserHwid": null,
+    "username": "piieuwww",
+    "userId": "8669905878",
+    "source": "script",
+    "createdAt": "2026-03-25T11:17:30.783Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.165.225",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
