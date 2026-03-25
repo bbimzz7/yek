@@ -6194,5 +6194,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-51D5C5-ECD240-FC9F21": {
+    "expires": "2026-03-26T03:28:42.955Z",
+    "hwid": "5505023275-1595b504-9a66-4e02-9062-9d0900f04c37",
+    "browserHwid": null,
+    "username": "AGERAGER_4",
+    "userId": "5505023275",
+    "source": "script",
+    "createdAt": "2026-03-25T03:28:43.310Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.100.175.246",
+      "city": "Banjar Badung",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
