@@ -7031,5 +7031,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-1CAC19-F57E35-A6B670": {
+    "expires": "2026-03-26T07:15:58.629Z",
+    "hwid": "10492792429-cff97c93-f890-4aba-8a15-d0eec1782ac8",
+    "browserHwid": null,
+    "username": "00boy104",
+    "userId": "10492792429",
+    "source": "script",
+    "createdAt": "2026-03-25T07:15:58.832Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "74.244.73.234",
+      "city": "Anchorage",
+      "region": "Alaska",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
