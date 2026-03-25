@@ -5697,5 +5697,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7667BB-EA5178-86C5C2": {
+    "expires": "2026-03-26T00:40:26.608Z",
+    "hwid": "7852143940-37b8c4b9-560a-47ac-ab25-2886761db87d",
+    "browserHwid": null,
+    "username": "Thiagoelmas079",
+    "userId": "7852143940",
+    "source": "script",
+    "createdAt": "2026-03-25T00:40:26.820Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.236.202.215",
+      "city": "Lima",
+      "region": "Lima Province",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
