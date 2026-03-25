@@ -8554,5 +8554,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-86DE4F-038FB8-4541F8": {
+    "expires": "2026-03-26T16:16:33.538Z",
+    "hwid": "10406242958-73765990-8206-48d4-b778-af53bd5d8c43",
+    "browserHwid": null,
+    "username": "Rip_BloxrXD211",
+    "userId": "10406242958",
+    "source": "script",
+    "createdAt": "2026-03-25T16:16:34.159Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.29.214.242",
+      "city": "Lahore",
+      "region": "Punjab",
+      "country": "Pakistan",
+      "cc": "PK"
+    }
   }
 }
