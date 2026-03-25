@@ -7672,5 +7672,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-814451-B0B04C-D933B4": {
+    "expires": "2026-03-26T10:52:06.989Z",
+    "hwid": "7606053907-48e65c16-eab2-4dbe-925b-69e8edfc8a67",
+    "browserHwid": null,
+    "username": "marechal2455",
+    "userId": "7606053907",
+    "source": "script",
+    "createdAt": "2026-03-25T10:52:07.530Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.192.115.103",
+      "city": "Itapuranga",
+      "region": "Goiás",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
