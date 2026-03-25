@@ -8578,5 +8578,22 @@
       "country": "Pakistan",
       "cc": "PK"
     }
+  },
+  "VH-CDF6D1-4D87C1-E7F061": {
+    "expires": "2026-03-26T16:32:20.397Z",
+    "hwid": "7118897245-ad54153d-45af-4fd0-9c1c-aca613c29b5b",
+    "browserHwid": null,
+    "username": "donutggg5",
+    "userId": "7118897245",
+    "source": "script",
+    "createdAt": "2026-03-25T16:32:20.960Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.242.215",
+      "city": "Yong Peng",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
