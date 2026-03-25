@@ -7583,5 +7583,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EB9A33-76744F-28D7C2": {
+    "expires": "2026-03-26T10:30:47.171Z",
+    "hwid": "10118735468-3a64fcf9-d285-47b8-906b-edf0a3c40f53",
+    "browserHwid": null,
+    "username": "c0olkidd_meen",
+    "userId": "10118735468",
+    "source": "script",
+    "createdAt": "2026-03-25T10:30:47.589Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "31.41.94.106",
+      "city": "Uzhhorod",
+      "region": "Zakarpattia Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
