@@ -9059,5 +9059,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-ADF792-06DFC7-995482": {
+    "expires": "2026-03-26T23:01:03.388Z",
+    "hwid": "9741296225-8c83b018-5f3a-4a47-a56d-ae8af67cd7dc",
+    "browserHwid": null,
+    "username": "KAIDO_XIT5",
+    "userId": "9741296225",
+    "source": "script",
+    "createdAt": "2026-03-25T23:01:03.822Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "197.146.131.225",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "country": "Morocco",
+      "cc": "MA"
+    }
   }
 }
