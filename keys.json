@@ -6515,8 +6515,15 @@
     "userId": "5461360455",
     "source": "script",
     "createdAt": "2026-03-25T05:31:17.792Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-25T05:32:09.327Z",
     "geo": {
+      "ip": "186.77.204.190",
+      "city": "Managua",
+      "region": "Managua Department",
+      "country": "Nicaragua",
+      "cc": "NI"
+    },
+    "lastGeo": {
       "ip": "186.77.204.190",
       "city": "Managua",
       "region": "Managua Department",
