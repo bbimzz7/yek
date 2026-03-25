@@ -6626,5 +6626,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F04177-E151EA-82A450": {
+    "expires": "2026-03-26T06:25:01.643Z",
+    "hwid": "7339939528-eb36315b-fb91-4b12-96f2-e3665d971c7e",
+    "browserHwid": null,
+    "username": "afz_leon396",
+    "userId": "7339939528",
+    "source": "script",
+    "createdAt": "2026-03-25T06:25:01.852Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.135.95",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
