@@ -11391,8 +11391,15 @@
     "userId": "7142434097",
     "source": "script",
     "createdAt": "2026-03-26T14:08:42.539Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T14:08:55.851Z",
     "geo": {
+      "ip": "5.107.40.205",
+      "city": "Sharjah",
+      "region": "Emirate of Sharjah",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    },
+    "lastGeo": {
       "ip": "5.107.40.205",
       "city": "Sharjah",
       "region": "Emirate of Sharjah",
