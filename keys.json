@@ -9563,5 +9563,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-B10485-15DB42-B4502A": {
+    "expires": "2026-03-27T01:58:13.638Z",
+    "hwid": "8459821231-F5D8869D-883D-4BB6-823B-730DC62FD0F1",
+    "browserHwid": null,
+    "username": "ZaaqPrime",
+    "userId": "8459821231",
+    "source": "script",
+    "createdAt": "2026-03-26T01:58:13.885Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.183.10.200",
+      "city": "Madiun",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
