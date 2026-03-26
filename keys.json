@@ -3368,8 +3368,15 @@
     "userId": "6045459879",
     "source": "script",
     "createdAt": "2026-03-26T21:49:34.305Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T21:53:01.579Z",
     "geo": {
+      "ip": "189.206.20.22",
+      "city": "Campo de Águila",
+      "region": "Veracruz",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.206.20.22",
       "city": "Campo de Águila",
       "region": "Veracruz",
