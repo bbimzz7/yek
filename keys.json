@@ -9380,8 +9380,15 @@
     "userId": "8312782810",
     "source": "script",
     "createdAt": "2026-03-26T01:25:07.863Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T01:25:20.930Z",
     "geo": {
+      "ip": "103.159.195.159",
+      "city": "Jember",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.159.195.159",
       "city": "Jember",
       "region": "East Java",
