@@ -12137,8 +12137,15 @@
     "userId": "8527461346",
     "source": "script",
     "createdAt": "2026-03-26T20:26:29.709Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T20:26:37.901Z",
     "geo": {
+      "ip": "153.66.225.80",
+      "city": "New Orleans",
+      "region": "Louisiana",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "153.66.225.80",
       "city": "New Orleans",
       "region": "Louisiana",
