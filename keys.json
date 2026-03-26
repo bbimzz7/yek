@@ -12128,5 +12128,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-89E73C-29788C-5F40E1": {
+    "expires": "2026-03-27T20:26:29.234Z",
+    "hwid": "8527461346-4D81F3F1-581A-48AA-81E8-558D7BF64BAD",
+    "browserHwid": null,
+    "username": "lilroblox2015148",
+    "userId": "8527461346",
+    "source": "script",
+    "createdAt": "2026-03-26T20:26:29.709Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "153.66.225.80",
+      "city": "New Orleans",
+      "region": "Louisiana",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
