@@ -12176,5 +12176,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-E23834-181B80-7DCDE3": {
+    "expires": "2026-03-27T20:35:45.097Z",
+    "hwid": "2282274601-656191B5-B818-431E-B939-BEED054E4294",
+    "browserHwid": null,
+    "username": "MaxencePro22",
+    "userId": "2282274601",
+    "source": "script",
+    "createdAt": "2026-03-26T20:35:45.381Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "89.226.189.186",
+      "city": "Le Luc",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
