@@ -12056,5 +12056,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-C7507F-0B7C3E-60DD6A": {
+    "expires": "2026-03-27T18:46:07.000Z",
+    "hwid": "8703779648-3dd9f61b-80e8-4596-8ea5-f0a2f336216a",
+    "browserHwid": null,
+    "username": "nuu_1100",
+    "userId": "8703779648",
+    "source": "script",
+    "createdAt": "2026-03-26T18:46:07.547Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.148.97",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
