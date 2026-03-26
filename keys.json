@@ -10693,8 +10693,15 @@
     "userId": "8851270203",
     "source": "script",
     "createdAt": "2026-03-26T09:02:56.087Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T09:03:36.928Z",
     "geo": {
+      "ip": "157.20.91.154",
+      "city": "Panjang",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.20.91.154",
       "city": "Panjang",
       "region": "Lampung",
