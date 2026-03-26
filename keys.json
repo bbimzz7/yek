@@ -11406,5 +11406,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-F36606-4D4324-17C353": {
+    "expires": "2026-03-27T14:14:53.322Z",
+    "hwid": "10478035131-6f3de810-0dad-45a4-add8-4978b14c2ef0",
+    "browserHwid": null,
+    "username": "laice00O60",
+    "userId": "10478035131",
+    "source": "script",
+    "createdAt": "2026-03-26T14:14:53.827Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "154.18.255.117",
+      "city": "Karawang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
