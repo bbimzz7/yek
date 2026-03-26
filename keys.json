@@ -8041,7 +8041,7 @@
     "userId": "9732432447",
     "source": "script",
     "createdAt": "2026-03-25T12:46:21.280Z",
-    "lastUsed": "2026-03-25T12:47:20.031Z",
+    "lastUsed": "2026-03-26T01:05:18.217Z",
     "geo": {
       "ip": "114.10.143.60",
       "city": "Banjarmasin",
@@ -8050,7 +8050,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.10.143.60",
+      "ip": "114.10.143.19",
       "city": "Banjarmasin",
       "region": "South Kalimantan",
       "country": "Indonesia",
