@@ -10837,8 +10837,15 @@
     "userId": "10037015805",
     "source": "script",
     "createdAt": "2026-03-26T10:28:59.534Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T10:29:37.056Z",
     "geo": {
+      "ip": "172.58.51.186",
+      "city": "Houston",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.58.51.186",
       "city": "Houston",
       "region": "Texas",
