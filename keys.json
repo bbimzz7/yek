@@ -9916,5 +9916,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-FA463D-EE9624-BBB3C9": {
+    "expires": "2026-03-27T04:20:06.099Z",
+    "hwid": "3905176753-dd6d6bf5-76d3-49d0-8b98-3f86235ecef0",
+    "browserHwid": null,
+    "username": "me_youbv68zxokay6pro",
+    "userId": "3905176753",
+    "source": "script",
+    "createdAt": "2026-03-26T04:20:06.546Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.161.1",
+      "city": "Samarinda",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
