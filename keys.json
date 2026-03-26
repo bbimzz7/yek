@@ -10925,5 +10925,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A3E990-4ECBD2-CF84EB": {
+    "expires": "2026-03-27T11:28:18.998Z",
+    "hwid": "9668180316-afc9a17b-8070-4792-a1da-9f9c659c7658",
+    "browserHwid": null,
+    "username": "sehanstore3",
+    "userId": "9668180316",
+    "source": "script",
+    "createdAt": "2026-03-26T11:28:19.440Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.55.214",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
