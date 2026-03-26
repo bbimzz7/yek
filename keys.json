@@ -12209,8 +12209,15 @@
     "userId": "3284192919",
     "source": "script",
     "createdAt": "2026-03-26T20:40:14.945Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T20:40:21.692Z",
     "geo": {
+      "ip": "31.162.27.64",
+      "city": "Perm",
+      "region": "Perm Krai",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "31.162.27.64",
       "city": "Perm",
       "region": "Perm Krai",
