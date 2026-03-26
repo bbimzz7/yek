@@ -12152,5 +12152,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-86B5F5-344382-9ED31C": {
+    "expires": "2026-03-27T20:31:34.795Z",
+    "hwid": "6132931679-4952f35f-2c8c-4679-87f0-86dec33c94a3",
+    "browserHwid": null,
+    "username": "kingamy462",
+    "userId": "6132931679",
+    "source": "script",
+    "createdAt": "2026-03-26T20:31:35.238Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.250.165.147",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
