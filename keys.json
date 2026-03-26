@@ -11839,5 +11839,22 @@
       "country": "Austria",
       "cc": "AT"
     }
+  },
+  "VH-CB24B2-8D319F-8241BB": {
+    "expires": "2026-03-27T16:50:50.719Z",
+    "hwid": "10185763566-7ab8dec5-3161-4bfc-abe5-61c896bd3c83",
+    "browserHwid": null,
+    "username": "MR_M1005alt1",
+    "userId": "10185763566",
+    "source": "script",
+    "createdAt": "2026-03-26T16:50:51.167Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.97.119.171",
+      "city": "Dubai",
+      "region": "Dubai",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
