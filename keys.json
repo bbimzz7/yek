@@ -9661,8 +9661,15 @@
     "userId": "8765811401",
     "source": "script",
     "createdAt": "2026-03-26T02:21:36.634Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T02:21:55.737Z",
     "geo": {
+      "ip": "160.25.119.102",
+      "city": "Purwodadi Grobogan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "160.25.119.102",
       "city": "Purwodadi Grobogan",
       "region": "Central Java",
