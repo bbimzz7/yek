@@ -10228,5 +10228,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-395FDF-5DA1C7-E84DD6": {
+    "expires": "2026-03-27T06:48:39.542Z",
+    "hwid": "7065873957-72AEFBAF-2673-4487-ADD7-EDAD45B39639",
+    "browserHwid": null,
+    "username": "ciaooo_434",
+    "userId": "7065873957",
+    "source": "script",
+    "createdAt": "2026-03-26T06:48:39.950Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.164.94.167",
+      "city": "Driyorejo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
