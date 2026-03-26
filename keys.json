@@ -3392,8 +3392,15 @@
     "userId": "10705351493",
     "source": "script",
     "createdAt": "2026-03-26T22:18:20.373Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T22:19:00.608Z",
     "geo": {
+      "ip": "75.207.94.216",
+      "city": "Summerville",
+      "region": "South Carolina",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "75.207.94.216",
       "city": "Summerville",
       "region": "South Carolina",
