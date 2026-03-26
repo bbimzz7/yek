@@ -11072,14 +11072,22 @@
   },
   "VH-51D02E-4C2175-276260": {
     "expires": "2026-03-27T12:09:47.577Z",
-    "hwid": null,
+    "hwid": "8992523973-63b99a7e-9afd-49d2-b19a-6191f7157da4",
     "browserHwid": "BR-1D256C17-ERJVA",
     "username": "parhattt49",
-    "userId": null,
+    "userId": "8992523973",
     "source": "browser",
     "createdAt": "2026-03-26T12:09:48.082Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T12:11:07.870Z",
     "geo": {
+      "ip": "114.79.39.16",
+      "city": "Laikit Matungkas",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-26T12:11:07.845Z",
+    "lastGeo": {
       "ip": "114.79.39.16",
       "city": "Laikit Matungkas",
       "region": "North Sulawesi",
