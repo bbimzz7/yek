@@ -11343,8 +11343,15 @@
     "userId": "10683739505",
     "source": "script",
     "createdAt": "2026-03-26T13:58:08.389Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T13:58:24.144Z",
     "geo": {
+      "ip": "169.224.120.65",
+      "city": "Al Hillah",
+      "region": "Babil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "169.224.120.65",
       "city": "Al Hillah",
       "region": "Babil Governorate",
