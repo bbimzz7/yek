@@ -9724,5 +9724,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-E24380-5B07B0-AEE736": {
+    "expires": "2026-03-27T02:49:00.941Z",
+    "hwid": "10278314449-8b3b72e3-5ee6-4753-b983-ebcdeec3a414",
+    "browserHwid": null,
+    "username": "K_J11084",
+    "userId": "10278314449",
+    "source": "script",
+    "createdAt": "2026-03-26T02:49:01.353Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "68.117.152.156",
+      "city": "Birmingham",
+      "region": "Alabama",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
