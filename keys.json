@@ -9772,5 +9772,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FA6D1B-6246F7-D91016": {
+    "expires": "2026-03-27T02:54:59.482Z",
+    "hwid": "9650880199-2ecfeb96-bcb4-4ffc-aadb-2ac47be70109",
+    "browserHwid": null,
+    "username": "Ghanaian0",
+    "userId": "9650880199",
+    "source": "script",
+    "createdAt": "2026-03-26T02:54:59.916Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "150.228.224.189",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
