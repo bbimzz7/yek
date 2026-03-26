@@ -10470,8 +10470,15 @@
     "userId": "10143465124",
     "source": "script",
     "createdAt": "2026-03-26T08:27:17.433Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T08:28:44.263Z",
     "geo": {
+      "ip": "103.14.2.110",
+      "city": "Bengkalis",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.14.2.110",
       "city": "Bengkalis",
       "region": "Riau",
