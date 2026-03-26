@@ -10461,5 +10461,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-75FC38-F801A2-A8527A": {
+    "expires": "2026-03-27T08:27:16.844Z",
+    "hwid": "10143465124-9277f32c-1850-41c5-bf0a-8ff6d7eb680a",
+    "browserHwid": null,
+    "username": "xzenn114",
+    "userId": "10143465124",
+    "source": "script",
+    "createdAt": "2026-03-26T08:27:17.433Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.14.2.110",
+      "city": "Bengkalis",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
