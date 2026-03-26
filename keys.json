@@ -9467,5 +9467,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-924C67-9A36CC-931A16": {
+    "expires": "2026-03-27T01:46:37.784Z",
+    "hwid": "10727407182-75f3bdfb-129c-4d36-91cc-00b03f766673",
+    "browserHwid": null,
+    "username": "speedtypist471",
+    "userId": "10727407182",
+    "source": "script",
+    "createdAt": "2026-03-26T01:46:38.221Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.213.107",
+      "city": "Las Vegas",
+      "region": "Nevada",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
