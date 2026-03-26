@@ -9901,11 +9901,18 @@
     "userId": "8746286431",
     "source": "script",
     "createdAt": "2026-03-26T03:43:31.492Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T03:44:59.329Z",
     "geo": {
       "ip": "124.106.125.121",
       "city": "Pasay",
       "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "119.92.71.140",
+      "city": "Carmona",
+      "region": "Calabarzon",
       "country": "Philippines",
       "cc": "PH"
     }
