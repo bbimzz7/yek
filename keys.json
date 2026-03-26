@@ -11238,5 +11238,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-45338E-3B36AD-875D4C": {
+    "expires": "2026-03-27T13:35:01.880Z",
+    "hwid": "8971255442-fdf9881b-4fd6-46ae-8a70-c88b2d425eb6",
+    "browserHwid": null,
+    "username": "Muhammad_alvi96",
+    "userId": "8971255442",
+    "source": "script",
+    "createdAt": "2026-03-26T13:35:02.367Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.121.178",
+      "city": "Kabupaten Kediri",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
