@@ -11118,5 +11118,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-178C54-31AA63-88C5CA": {
+    "expires": "2026-03-27T12:17:19.911Z",
+    "hwid": "10066036711-3456C4F0-1456-46A7-9786-7FE7A7542E48",
+    "browserHwid": null,
+    "username": "StrivenTentFair57",
+    "userId": "10066036711",
+    "source": "script",
+    "createdAt": "2026-03-26T12:17:21.562Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.118.197.17",
+      "city": "Anzhero-Sudzhensk",
+      "region": "Kemerovo Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
