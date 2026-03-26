@@ -10949,5 +10949,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8197DC-2F4E04-C1C686": {
+    "expires": "2026-03-27T11:38:48.715Z",
+    "hwid": "10118735468-3a64fcf9-d285-47b8-906b-edf0a3c40f53",
+    "browserHwid": null,
+    "username": "c0olkidd_meen",
+    "userId": "10118735468",
+    "source": "script",
+    "createdAt": "2026-03-26T11:38:49.278Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.137.186.245",
+      "city": "Lviv",
+      "region": "Lvivska Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
