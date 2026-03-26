@@ -9347,5 +9347,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-89AF1E-816665-6FCEEE": {
+    "expires": "2026-03-27T01:17:01.824Z",
+    "hwid": "4903190157-da53c4ad-ef4b-4a54-a5f1-d645a195fc76",
+    "browserHwid": null,
+    "username": "lil_baby3337",
+    "userId": "4903190157",
+    "source": "script",
+    "createdAt": "2026-03-26T01:17:02.246Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "75.248.118.249",
+      "city": "Ocala",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
