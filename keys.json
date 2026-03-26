@@ -9539,5 +9539,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-E4BE63-F11343-E1000A": {
+    "expires": "2026-03-27T01:54:21.918Z",
+    "hwid": "9940466739-e86a65f6-b9f6-4e7a-ba9a-f655c6f27aa0",
+    "browserHwid": null,
+    "username": "epic_face88871",
+    "userId": "9940466739",
+    "source": "script",
+    "createdAt": "2026-03-26T01:54:22.179Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.211.139.121",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
