@@ -11815,5 +11815,22 @@
       "country": "Azerbaijan",
       "cc": "AZ"
     }
+  },
+  "VH-4405CA-2CA2FF-AD691C": {
+    "expires": "2026-03-27T16:50:06.665Z",
+    "hwid": "10251371013-36e0222d-eab7-4d41-a833-85092e3eba0a",
+    "browserHwid": null,
+    "username": "TheFuzzyBear80",
+    "userId": "10251371013",
+    "source": "script",
+    "createdAt": "2026-03-26T16:50:07.138Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "154.47.19.56",
+      "city": "Vienna",
+      "region": "Vienna",
+      "country": "Austria",
+      "cc": "AT"
+    }
   }
 }
