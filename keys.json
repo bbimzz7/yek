@@ -12200,5 +12200,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-FD06F2-16D272-D6E30B": {
+    "expires": "2026-03-27T20:40:14.652Z",
+    "hwid": "3284192919-5FEE3DEB-402F-4B42-9326-26EF0ABB99FF",
+    "browserHwid": null,
+    "username": "Genasha7777",
+    "userId": "3284192919",
+    "source": "script",
+    "createdAt": "2026-03-26T20:40:14.945Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "31.162.27.64",
+      "city": "Perm",
+      "region": "Perm Krai",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
