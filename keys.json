@@ -10237,8 +10237,15 @@
     "userId": "7065873957",
     "source": "script",
     "createdAt": "2026-03-26T06:48:39.950Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T06:48:44.542Z",
     "geo": {
+      "ip": "125.164.94.167",
+      "city": "Driyorejo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.164.94.167",
       "city": "Driyorejo",
       "region": "East Java",
