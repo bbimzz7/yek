@@ -12281,8 +12281,15 @@
     "userId": "10731022770",
     "source": "script",
     "createdAt": "2026-03-26T20:53:27.070Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T20:53:40.184Z",
     "geo": {
+      "ip": "37.33.213.67",
+      "city": "Raisio",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "cc": "FI"
+    },
+    "lastGeo": {
       "ip": "37.33.213.67",
       "city": "Raisio",
       "region": "Southwest Finland",
