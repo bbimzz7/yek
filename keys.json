@@ -3431,5 +3431,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-574480-27EE5C-D8E811": {
+    "expires": "2026-03-27T23:09:53.795Z",
+    "hwid": "8650503021-30dfb477-d692-4a04-a20d-31a65788be09",
+    "browserHwid": null,
+    "username": "beautyclink",
+    "userId": "8650503021",
+    "source": "script",
+    "createdAt": "2026-03-26T23:09:54.163Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.171.2",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
