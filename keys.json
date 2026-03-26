@@ -10204,5 +10204,22 @@
       "country": "New Zealand",
       "cc": "NZ"
     }
+  },
+  "VH-9EBFE3-351A69-85000C": {
+    "expires": "2026-03-27T06:28:55.992Z",
+    "hwid": "8411393864-eec6f66a-2ec3-4fba-9575-72b8b895cee3",
+    "browserHwid": null,
+    "username": "yanzty5",
+    "userId": "8411393864",
+    "source": "script",
+    "createdAt": "2026-03-26T06:28:56.447Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.170.68",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
