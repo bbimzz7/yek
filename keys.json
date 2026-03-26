@@ -10501,11 +10501,18 @@
     "userId": "10628453799",
     "source": "script",
     "createdAt": "2026-03-26T08:36:37.771Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T08:38:03.571Z",
     "geo": {
       "ip": "119.92.71.140",
       "city": "Carmona",
       "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "124.106.125.121",
+      "city": "Pasay",
+      "region": "Metro Manila",
       "country": "Philippines",
       "cc": "PH"
     }
