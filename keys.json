@@ -10276,5 +10276,22 @@
       "country": "The Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-4B1AFB-F725C2-7A71B2": {
+    "expires": "2026-03-27T06:53:42.229Z",
+    "hwid": "10507150259-ff9ddf5f-f65e-48c2-a527-f36a9ac16e24",
+    "browserHwid": null,
+    "username": "deus_caydenfreeitem2",
+    "userId": "10507150259",
+    "source": "script",
+    "createdAt": "2026-03-26T06:53:42.445Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.202.119.155",
+      "city": "Biñan",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
