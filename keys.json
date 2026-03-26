@@ -11247,11 +11247,18 @@
     "userId": "8971255442",
     "source": "script",
     "createdAt": "2026-03-26T13:35:02.367Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T13:36:11.669Z",
     "geo": {
       "ip": "103.189.121.178",
       "city": "Kabupaten Kediri",
       "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "157.20.252.166",
+      "city": "Tanjung Pinang",
+      "region": "Riau Islands",
       "country": "Indonesia",
       "cc": "ID"
     }
