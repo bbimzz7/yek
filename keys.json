@@ -11887,5 +11887,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-749556-F2D1AB-CB341C": {
+    "expires": "2026-03-27T17:07:21.808Z",
+    "hwid": "7683333841-671b3982-d6a4-40d1-8e25-356f869e2d2f",
+    "browserHwid": null,
+    "username": "JusttFiqqqz",
+    "userId": "7683333841",
+    "source": "script",
+    "createdAt": "2026-03-26T17:07:22.313Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.232.219.117",
+      "city": "Petaling Jaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
