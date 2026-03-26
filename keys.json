@@ -12272,5 +12272,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-E53916-8CD3A5-104CF4": {
+    "expires": "2026-03-27T20:53:26.626Z",
+    "hwid": "10731022770-4fc13167-bc77-4442-94ea-0a39f682ded6",
+    "browserHwid": null,
+    "username": "santa1hohoho7",
+    "userId": "10731022770",
+    "source": "script",
+    "createdAt": "2026-03-26T20:53:27.070Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.33.213.67",
+      "city": "Raisio",
+      "region": "Southwest Finland",
+      "country": "Finland",
+      "cc": "FI"
+    }
   }
 }
