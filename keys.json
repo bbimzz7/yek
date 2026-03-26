@@ -12113,9 +12113,16 @@
     "userId": "1265111862",
     "source": "script",
     "createdAt": "2026-03-26T19:32:37.226Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T19:33:26.595Z",
     "geo": {
       "ip": "158.140.172.69",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "158.140.172.80",
       "city": "Malang",
       "region": "East Java",
       "country": "Indonesia",
