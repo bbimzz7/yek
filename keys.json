@@ -10125,5 +10125,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A86840-603418-9D9999": {
+    "expires": "2026-03-27T05:28:36.476Z",
+    "hwid": "6009607975-3ED920A2-3F8A-4596-B216-080EFF5E3612",
+    "browserHwid": null,
+    "username": "JamuoHigh",
+    "userId": "6009607975",
+    "source": "script",
+    "createdAt": "2026-03-26T05:28:36.706Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.227.186.55",
+      "city": "Banyuwangi",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
