@@ -10413,5 +10413,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-38969E-6A4D7E-B3AF8C": {
+    "expires": "2026-03-27T08:00:52.800Z",
+    "hwid": "2944493246-8ee0c2aa-db42-401e-963d-e2f916257882",
+    "browserHwid": null,
+    "username": "moko_laino",
+    "userId": "2944493246",
+    "source": "script",
+    "createdAt": "2026-03-26T08:00:53.360Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.42.67.132",
+      "city": "Sofia",
+      "region": "Sofia-Capital",
+      "country": "Bulgaria",
+      "cc": "BG"
+    }
   }
 }
