@@ -9652,5 +9652,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4AF847-111E74-B71902": {
+    "expires": "2026-03-27T02:21:36.188Z",
+    "hwid": "8765811401-e7bd6e79-5fc0-45d3-a1ed-9c2c187c4ebb",
+    "browserHwid": null,
+    "username": "Gixxzy_high",
+    "userId": "8765811401",
+    "source": "script",
+    "createdAt": "2026-03-26T02:21:36.634Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.25.119.102",
+      "city": "Purwodadi Grobogan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
