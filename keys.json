@@ -9500,8 +9500,15 @@
     "userId": "8416319928",
     "source": "script",
     "createdAt": "2026-03-26T01:49:02.880Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T01:49:16.354Z",
     "geo": {
+      "ip": "38.41.48.19",
+      "city": "Valencia",
+      "region": "Carabobo",
+      "country": "Venezuela",
+      "cc": "VE"
+    },
+    "lastGeo": {
       "ip": "38.41.48.19",
       "city": "Valencia",
       "region": "Carabobo",
