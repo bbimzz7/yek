@@ -12248,5 +12248,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-C747F0-55A7CF-6B3E6C": {
+    "expires": "2026-03-27T20:48:03.814Z",
+    "hwid": "9692107133-8761f919-12cb-4fd8-a57c-020508719f8a",
+    "browserHwid": null,
+    "username": "Albert303034",
+    "userId": "9692107133",
+    "source": "script",
+    "createdAt": "2026-03-26T20:48:04.273Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "200.125.171.175",
+      "city": "Mejía de Navarrete",
+      "region": "Santiago Province",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
