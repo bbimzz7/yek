@@ -11463,8 +11463,15 @@
     "userId": "8453247665",
     "source": "script",
     "createdAt": "2026-03-26T14:38:32.506Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T14:39:23.526Z",
     "geo": {
+      "ip": "103.189.207.169",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.189.207.169",
       "city": "Bengkulu",
       "region": "Bengkulu",
