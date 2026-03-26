@@ -11863,5 +11863,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-F8FB69-E0D970-B9E405": {
+    "expires": "2026-03-27T17:05:59.020Z",
+    "hwid": "10288366548-eee965d8-538f-43e3-ba27-4a8b4baeed2b",
+    "browserHwid": null,
+    "username": "STARBOYYY6777",
+    "userId": "10288366548",
+    "source": "script",
+    "createdAt": "2026-03-26T17:05:59.477Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "141.0.9.186",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
