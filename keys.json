@@ -6903,7 +6903,7 @@
     "userId": "8726010590",
     "source": "script",
     "createdAt": "2026-03-25T07:02:17.077Z",
-    "lastUsed": "2026-03-26T01:13:05.890Z",
+    "lastUsed": "2026-03-26T01:39:50.439Z",
     "geo": {
       "ip": "122.3.203.122",
       "city": "Manila",
@@ -6912,9 +6912,9 @@
       "cc": "PH"
     },
     "lastGeo": {
-      "ip": "122.3.203.122",
-      "city": "Manila",
-      "region": "Metro Manila",
+      "ip": "180.191.228.144",
+      "city": "Arteche",
+      "region": "Eastern Visayas",
       "country": "Philippines",
       "cc": "PH"
     }
