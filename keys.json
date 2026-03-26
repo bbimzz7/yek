@@ -8474,7 +8474,7 @@
     "userId": "10251371013",
     "source": "script",
     "createdAt": "2026-03-25T15:45:54.748Z",
-    "lastUsed": "2026-03-25T21:06:01.875Z",
+    "lastUsed": "2026-03-26T14:36:02.676Z",
     "geo": {
       "ip": "185.179.29.1",
       "city": "Elez Han",
@@ -8483,11 +8483,11 @@
       "cc": "XK"
     },
     "lastGeo": {
-      "ip": "185.179.29.1",
-      "city": "Elez Han",
-      "region": "Ferizaj",
-      "country": "Kosovo",
-      "cc": "XK"
+      "ip": "154.47.19.56",
+      "city": "Vienna",
+      "region": "Vienna",
+      "country": "Austria",
+      "cc": "AT"
     }
   },
   "VH-A8176E-129C2B-8E07A0": {
