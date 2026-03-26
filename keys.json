@@ -10717,8 +10717,15 @@
     "userId": "9506929020",
     "source": "script",
     "createdAt": "2026-03-26T09:05:13.345Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T09:06:34.987Z",
     "geo": {
+      "ip": "189.217.203.39",
+      "city": "Tlalpan",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.217.203.39",
       "city": "Tlalpan",
       "region": "Mexico City",
