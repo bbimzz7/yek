@@ -3383,5 +3383,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-B9F316-992D36-06FC4D": {
+    "expires": "2026-03-27T22:18:20.014Z",
+    "hwid": "10705351493-d8d3e853-0f69-4216-a765-f6facf885baa",
+    "browserHwid": null,
+    "username": "Zmjdjdb6",
+    "userId": "10705351493",
+    "source": "script",
+    "createdAt": "2026-03-26T22:18:20.373Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "75.207.94.216",
+      "city": "Summerville",
+      "region": "South Carolina",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
