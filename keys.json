@@ -9476,8 +9476,15 @@
     "userId": "10727407182",
     "source": "script",
     "createdAt": "2026-03-26T01:46:38.221Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T01:46:47.170Z",
     "geo": {
+      "ip": "172.56.213.107",
+      "city": "Las Vegas",
+      "region": "Nevada",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.56.213.107",
       "city": "Las Vegas",
       "region": "Nevada",
