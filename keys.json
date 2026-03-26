@@ -10485,5 +10485,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EA57DB-E8EE5D-4CCD14": {
+    "expires": "2026-03-27T08:36:37.238Z",
+    "hwid": "10628453799-c109c89a-cc7f-47eb-ab8e-621677734a28",
+    "browserHwid": null,
+    "username": "angelyt77891",
+    "userId": "10628453799",
+    "source": "script",
+    "createdAt": "2026-03-26T08:36:37.771Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.92.71.140",
+      "city": "Carmona",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
