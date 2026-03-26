@@ -10036,5 +10036,22 @@
       "country": "French Polynesia",
       "cc": "PF"
     }
+  },
+  "VH-1A4F53-4FB350-76F14F": {
+    "expires": "2026-03-27T04:42:42.148Z",
+    "hwid": "7907020878-8c856bc6-1f10-4e74-bd3b-c0190696301d",
+    "browserHwid": null,
+    "username": "xxud4",
+    "userId": "7907020878",
+    "source": "script",
+    "createdAt": "2026-03-26T04:42:42.578Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.19.181.16",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
