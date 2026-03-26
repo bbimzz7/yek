@@ -10828,5 +10828,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CE5E19-6EC494-6FBC83": {
+    "expires": "2026-03-27T10:28:59.061Z",
+    "hwid": "10037015805-18bafdff-1fbb-4e56-a66e-e60d0982111d",
+    "browserHwid": null,
+    "username": "Dghsdydg",
+    "userId": "10037015805",
+    "source": "script",
+    "createdAt": "2026-03-26T10:28:59.534Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.58.51.186",
+      "city": "Houston",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
