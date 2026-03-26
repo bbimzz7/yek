@@ -10341,5 +10341,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-AF821E-3ED37C-3DA1AE": {
+    "expires": "2026-03-27T07:28:00.336Z",
+    "hwid": "8884460798-123C2993-093B-42AB-A9A0-0C9315F1ED7A",
+    "browserHwid": null,
+    "username": "ICE_blastttttt",
+    "userId": "8884460798",
+    "source": "script",
+    "createdAt": "2026-03-26T07:28:00.747Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.165.155.40",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
