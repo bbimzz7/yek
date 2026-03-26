@@ -11767,5 +11767,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-4EA6A9-DC3953-AC22D1": {
+    "expires": "2026-03-27T16:12:44.438Z",
+    "hwid": "9066441604-edd7059e-9a5d-4079-9780-02c3cc32ed77",
+    "browserHwid": null,
+    "username": "dkdkkdkdkdo2",
+    "userId": "9066441604",
+    "source": "script",
+    "createdAt": "2026-03-26T16:12:45.046Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "81.91.181.177",
+      "city": "Ust-Kamenogorsk",
+      "region": "East Kazakhstan",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
