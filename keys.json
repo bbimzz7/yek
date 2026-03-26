@@ -11824,8 +11824,15 @@
     "userId": "10251371013",
     "source": "script",
     "createdAt": "2026-03-26T16:50:07.138Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T16:50:14.003Z",
     "geo": {
+      "ip": "154.47.19.56",
+      "city": "Vienna",
+      "region": "Vienna",
+      "country": "Austria",
+      "cc": "AT"
+    },
+    "lastGeo": {
       "ip": "154.47.19.56",
       "city": "Vienna",
       "region": "Vienna",
