@@ -10012,5 +10012,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D0B50D-439469-341A40": {
+    "expires": "2026-03-27T04:33:25.068Z",
+    "hwid": "7348391742-15484D72-26E9-4BA6-9CD0-F7224514B67A",
+    "browserHwid": null,
+    "username": "CallMeDddyOhh",
+    "userId": "7348391742",
+    "source": "script",
+    "createdAt": "2026-03-26T04:33:25.330Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "123.50.76.74",
+      "city": "Papeete",
+      "region": "Îles du Vent",
+      "country": "French Polynesia",
+      "cc": "PF"
+    }
   }
 }
