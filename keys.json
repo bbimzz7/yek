@@ -12305,8 +12305,15 @@
     "userId": "8861598169",
     "source": "script",
     "createdAt": "2026-03-26T21:22:42.362Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T21:22:57.822Z",
     "geo": {
+      "ip": "24.152.79.71",
+      "city": "Castelo",
+      "region": "Espírito Santo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "24.152.79.71",
       "city": "Castelo",
       "region": "Espírito Santo",
