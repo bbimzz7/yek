@@ -9997,8 +9997,15 @@
     "userId": "2996231848",
     "source": "script",
     "createdAt": "2026-03-26T04:32:09.871Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T04:32:20.812Z",
     "geo": {
+      "ip": "115.187.29.8",
+      "city": "Muhajirin",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "115.187.29.8",
       "city": "Muhajirin",
       "region": "West Nusa Tenggara",
