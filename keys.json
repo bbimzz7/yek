@@ -10973,5 +10973,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-ADF273-CAB4CA-8ABB00": {
+    "expires": "2026-03-27T11:43:26.715Z",
+    "hwid": "10095037678-c93626ca-b818-4347-9ca9-e60d24460fe9",
+    "browserHwid": null,
+    "username": "Diabloodd1",
+    "userId": "10095037678",
+    "source": "script",
+    "createdAt": "2026-03-26T11:43:27.178Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.124.138.137",
+      "city": "Ungaran",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
