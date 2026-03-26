@@ -9596,9 +9596,16 @@
     "userId": "9618037969",
     "source": "script",
     "createdAt": "2026-03-26T02:03:06.713Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T02:06:29.287Z",
     "geo": {
       "ip": "49.151.14.89",
+      "city": "Baguio City",
+      "region": "Cordillera",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "49.151.2.30",
       "city": "Baguio City",
       "region": "Cordillera",
       "country": "Philippines",
