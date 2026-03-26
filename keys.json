@@ -10317,5 +10317,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7A02B8-714C6A-933FB7": {
+    "expires": "2026-03-27T07:12:58.893Z",
+    "hwid": "9191211094-7F70507B-F88B-45FA-B139-B741D0A6DAD7",
+    "browserHwid": null,
+    "username": "deckardjulius",
+    "userId": "9191211094",
+    "source": "script",
+    "createdAt": "2026-03-26T07:12:59.349Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.216.221.95",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
