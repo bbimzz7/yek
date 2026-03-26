@@ -9251,5 +9251,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-82A959-D6929C-D6577E": {
+    "expires": "2026-03-27T00:47:24.249Z",
+    "hwid": "4306629592-292af44b-797d-4e25-bd99-1bb7daca19dd",
+    "browserHwid": null,
+    "username": "dimas100522l",
+    "userId": "4306629592",
+    "source": "script",
+    "createdAt": "2026-03-26T00:47:24.678Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.121.46",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
