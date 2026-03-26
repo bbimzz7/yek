@@ -10213,8 +10213,15 @@
     "userId": "8411393864",
     "source": "script",
     "createdAt": "2026-03-26T06:28:56.447Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T06:29:27.052Z",
     "geo": {
+      "ip": "158.140.170.68",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "158.140.170.68",
       "city": "Yogyakarta",
       "region": "Yogyakarta",
