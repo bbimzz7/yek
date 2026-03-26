@@ -11848,8 +11848,15 @@
     "userId": "10185763566",
     "source": "script",
     "createdAt": "2026-03-26T16:50:51.167Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T16:51:08.896Z",
     "geo": {
+      "ip": "92.97.119.171",
+      "city": "Dubai",
+      "region": "Dubai",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    },
+    "lastGeo": {
       "ip": "92.97.119.171",
       "city": "Dubai",
       "region": "Dubai",
