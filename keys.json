@@ -10180,5 +10180,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-CDB1C3-88247C-70B1E3": {
+    "expires": "2026-03-27T06:19:14.938Z",
+    "hwid": "8785713146-B95E1B2B-D11D-4F03-ACE2-8228369AD33C",
+    "browserHwid": null,
+    "username": "Steadymefz",
+    "userId": "8785713146",
+    "source": "script",
+    "createdAt": "2026-03-26T06:19:15.364Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "150.228.229.113",
+      "city": "Auckland",
+      "region": "Auckland",
+      "country": "New Zealand",
+      "cc": "NZ"
+    }
   }
 }
