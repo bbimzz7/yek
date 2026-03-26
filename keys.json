@@ -12224,5 +12224,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-27009D-F8093D-0885DD": {
+    "expires": "2026-03-27T20:40:27.866Z",
+    "hwid": "4063760265-dbd11b61-46a3-4017-a8e1-75e498294411",
+    "browserHwid": null,
+    "username": "vzqriiv",
+    "userId": "4063760265",
+    "source": "script",
+    "createdAt": "2026-03-26T20:40:28.135Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.244.102.63",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
