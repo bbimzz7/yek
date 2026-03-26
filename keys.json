@@ -11358,5 +11358,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-C9C008-FD3AF2-B07D77": {
+    "expires": "2026-03-27T13:58:59.203Z",
+    "hwid": "6037720502-8c5e8384-ab2d-4434-8a9b-be021e20fee4",
+    "browserHwid": null,
+    "username": "Goldup9",
+    "userId": "6037720502",
+    "source": "script",
+    "createdAt": "2026-03-26T13:58:59.458Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.107.40.205",
+      "city": "Sharjah",
+      "region": "Emirate of Sharjah",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
