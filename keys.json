@@ -10876,5 +10876,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A6AC7F-A38572-39BC56": {
+    "expires": "2026-03-27T10:54:37.673Z",
+    "hwid": null,
+    "browserHwid": "BR-5EFB0E09-G4HZP",
+    "username": "Him1234605",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-26T10:54:38.089Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "174.216.2.254",
+      "city": "Lexington",
+      "region": "North Carolina",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
