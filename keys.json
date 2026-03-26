@@ -9260,8 +9260,15 @@
     "userId": "4306629592",
     "source": "script",
     "createdAt": "2026-03-26T00:47:24.678Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T00:47:54.714Z",
     "geo": {
+      "ip": "180.252.121.46",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.252.121.46",
       "city": "Jakarta",
       "region": "Jakarta",
