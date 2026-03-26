@@ -9796,5 +9796,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DEA174-0A75F3-F83403": {
+    "expires": "2026-03-27T03:12:41.513Z",
+    "hwid": "10649487057-93dc3f7a-dead-4093-ba3d-f959479dd360",
+    "browserHwid": null,
+    "username": "hfjejfnc3",
+    "userId": "10649487057",
+    "source": "script",
+    "createdAt": "2026-03-26T03:12:41.935Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.109.102.19",
+      "city": "Loma Plata",
+      "region": "Boquerón Department",
+      "country": "Paraguay",
+      "cc": "PY"
+    }
   }
 }
