@@ -3359,5 +3359,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-E3E771-4DD13C-0FCBAC": {
+    "expires": "2026-03-27T21:49:33.940Z",
+    "hwid": "6045459879-66d10f00-fca5-45f4-99b0-cb7646356f5e",
+    "browserHwid": null,
+    "username": "cotetsu_10",
+    "userId": "6045459879",
+    "source": "script",
+    "createdAt": "2026-03-26T21:49:34.305Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.206.20.22",
+      "city": "Campo de Águila",
+      "region": "Veracruz",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
