@@ -9805,8 +9805,15 @@
     "userId": "10649487057",
     "source": "script",
     "createdAt": "2026-03-26T03:12:41.935Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T03:14:11.489Z",
     "geo": {
+      "ip": "179.109.102.19",
+      "city": "Loma Plata",
+      "region": "Boquerón Department",
+      "country": "Paraguay",
+      "cc": "PY"
+    },
+    "lastGeo": {
       "ip": "179.109.102.19",
       "city": "Loma Plata",
       "region": "Boquerón Department",
