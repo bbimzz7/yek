@@ -9940,5 +9940,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B2A326-2085C8-1E139D": {
+    "expires": "2026-03-27T04:26:23.420Z",
+    "hwid": "8374752339-bbaae0b3-32e3-4db7-9ec9-bee116d5fd5c",
+    "browserHwid": null,
+    "username": "OrangV99",
+    "userId": "8374752339",
+    "source": "script",
+    "createdAt": "2026-03-26T04:26:23.812Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.163.13.116",
+      "city": "Bojonegoro",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
