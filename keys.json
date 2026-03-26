@@ -11054,9 +11054,16 @@
     "userId": "10635201974",
     "source": "script",
     "createdAt": "2026-03-26T11:56:45.182Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T11:56:58.913Z",
     "geo": {
       "ip": "158.181.41.77",
+      "city": "Yevlakh",
+      "region": "Yevlax City",
+      "country": "Azerbaijan",
+      "cc": "AZ"
+    },
+    "lastGeo": {
+      "ip": "158.181.45.77",
       "city": "Yevlakh",
       "region": "Yevlax City",
       "country": "Azerbaijan",
