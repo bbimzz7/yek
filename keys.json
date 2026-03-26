@@ -11776,8 +11776,15 @@
     "userId": "9066441604",
     "source": "script",
     "createdAt": "2026-03-26T16:12:45.046Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T16:13:00.497Z",
     "geo": {
+      "ip": "81.91.181.177",
+      "city": "Ust-Kamenogorsk",
+      "region": "East Kazakhstan",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "81.91.181.177",
       "city": "Ust-Kamenogorsk",
       "region": "East Kazakhstan",
