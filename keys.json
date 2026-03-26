@@ -8402,7 +8402,7 @@
     "userId": "4295462831",
     "source": "script",
     "createdAt": "2026-03-25T15:25:15.308Z",
-    "lastUsed": "2026-03-25T23:22:15.077Z",
+    "lastUsed": "2026-03-26T11:54:17.626Z",
     "geo": {
       "ip": "190.107.95.21",
       "city": "Rio de Janeiro",
@@ -8411,7 +8411,7 @@
       "cc": "BR"
     },
     "lastGeo": {
-      "ip": "190.107.95.230",
+      "ip": "190.107.95.189",
       "city": "Rio de Janeiro",
       "region": "Rio de Janeiro",
       "country": "Brazil",
