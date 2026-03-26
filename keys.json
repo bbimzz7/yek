@@ -10165,8 +10165,15 @@
     "userId": "8463450543",
     "source": "script",
     "createdAt": "2026-03-26T06:10:05.553Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T06:10:59.597Z",
     "geo": {
+      "ip": "120.29.72.245",
+      "city": "Angeles City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "120.29.72.245",
       "city": "Angeles City",
       "region": "Central Luzon",
