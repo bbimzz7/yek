@@ -10453,7 +10453,7 @@
     "userId": "8667848315",
     "source": "script",
     "createdAt": "2026-03-26T08:22:07.658Z",
-    "lastUsed": "2026-03-26T08:28:36.888Z",
+    "lastUsed": "2026-03-26T15:30:40.130Z",
     "geo": {
       "ip": "103.189.207.223",
       "city": "Muara Dua",
@@ -10462,9 +10462,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.189.207.223",
-      "city": "Muara Dua",
-      "region": "South Sumatra",
+      "ip": "140.213.146.165",
+      "city": "Banjar Badung",
+      "region": "Bali",
       "country": "Indonesia",
       "cc": "ID"
     }
