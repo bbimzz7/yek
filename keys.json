@@ -12296,5 +12296,22 @@
       "country": "Finland",
       "cc": "FI"
     }
+  },
+  "VH-F1F518-617BA7-57DBE2": {
+    "expires": "2026-03-27T21:22:41.928Z",
+    "hwid": "8861598169-0257a88e-c377-4c40-b13f-726a3db6e7fa",
+    "browserHwid": null,
+    "username": "LUAN_DOGRAU129",
+    "userId": "8861598169",
+    "source": "script",
+    "createdAt": "2026-03-26T21:22:42.362Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.152.79.71",
+      "city": "Castelo",
+      "region": "Espírito Santo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
