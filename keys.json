@@ -11454,5 +11454,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AEC670-5488B2-304CAC": {
+    "expires": "2026-03-27T14:38:31.995Z",
+    "hwid": "8453247665-d907daed-6ce0-4c19-be15-83d7fa6f72cb",
+    "browserHwid": null,
+    "username": "acidigoreng16",
+    "userId": "8453247665",
+    "source": "script",
+    "createdAt": "2026-03-26T14:38:32.506Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.207.169",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
