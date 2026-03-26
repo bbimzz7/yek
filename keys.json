@@ -11959,5 +11959,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-8781E0-ECD8B5-6CF358": {
+    "expires": "2026-03-27T18:02:55.106Z",
+    "hwid": null,
+    "browserHwid": "BR-3B65367E-ATYZJ",
+    "username": "xwanncihuy",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-26T18:02:55.651Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.222.213",
+      "city": "Sungguminasa",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
