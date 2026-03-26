@@ -9611,5 +9611,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-2EAA3B-BDA2A8-7D010B": {
+    "expires": "2026-03-27T02:12:36.861Z",
+    "hwid": "10724388958-ed3de0a9-c0d6-4b08-a481-9a30f0bbcdfb",
+    "browserHwid": null,
+    "username": "jellltfff6",
+    "userId": "10724388958",
+    "source": "script",
+    "createdAt": "2026-03-26T02:12:37.330Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.206.100.158",
+      "city": "Taguig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
