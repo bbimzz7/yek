@@ -9203,5 +9203,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-AC7F04-83EE3E-4C5D4A": {
+    "expires": "2026-03-27T00:24:04.997Z",
+    "hwid": "8005561644-d9cb6d91-26c9-46f9-a21e-87784fe30698",
+    "browserHwid": null,
+    "username": "ismael_inba7",
+    "userId": "8005561644",
+    "source": "script",
+    "createdAt": "2026-03-26T00:24:05.502Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.6.3.5",
+      "city": "Lima",
+      "region": "Lima Province",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
