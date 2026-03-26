@@ -10156,5 +10156,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9DAB04-248A26-C117F8": {
+    "expires": "2026-03-27T06:10:05.100Z",
+    "hwid": "8463450543-3e99d057-3b41-422e-8ffc-2f534bcd7d64",
+    "browserHwid": null,
+    "username": "JustArt41",
+    "userId": "8463450543",
+    "source": "script",
+    "createdAt": "2026-03-26T06:10:05.553Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.29.72.245",
+      "city": "Angeles City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
