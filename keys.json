@@ -3407,5 +3407,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-AE13EF-64A803-427AB8": {
+    "expires": "2026-03-27T22:30:06.608Z",
+    "hwid": "10006403302-87a45994-b0e6-4ce3-854b-df98ca530fed",
+    "browserHwid": null,
+    "username": "mrakaa30",
+    "userId": "10006403302",
+    "source": "script",
+    "createdAt": "2026-03-26T22:30:07.042Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.141.21.20",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
