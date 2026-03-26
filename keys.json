@@ -11791,5 +11791,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-BE1C56-F4DE89-5B5B8C": {
+    "expires": "2026-03-27T16:26:17.181Z",
+    "hwid": "9005455252-656c3cf3-7ab3-43ca-8590-7e742f715a7a",
+    "browserHwid": null,
+    "username": "hbtcevybuhyh",
+    "userId": "9005455252",
+    "source": "script",
+    "createdAt": "2026-03-26T16:26:17.725Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "94.20.42.118",
+      "city": "Baku",
+      "region": "Baku City",
+      "country": "Azerbaijan",
+      "cc": "AZ"
+    }
   }
 }
