@@ -9820,5 +9820,22 @@
       "country": "Paraguay",
       "cc": "PY"
     }
+  },
+  "VH-CED35D-D8C5F4-08288B": {
+    "expires": "2026-03-27T03:15:36.446Z",
+    "hwid": "10680590485-fe9d59f6-38bb-4c1c-afb3-845ce31d7a6d",
+    "browserHwid": null,
+    "username": "x_VkNv",
+    "userId": "10680590485",
+    "source": "script",
+    "createdAt": "2026-03-26T03:15:36.956Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.248.37.102",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
