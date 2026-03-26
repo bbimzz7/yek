@@ -11127,8 +11127,15 @@
     "userId": "10066036711",
     "source": "script",
     "createdAt": "2026-03-26T12:17:21.562Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T12:17:28.054Z",
     "geo": {
+      "ip": "176.118.197.17",
+      "city": "Anzhero-Sudzhensk",
+      "region": "Kemerovo Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "176.118.197.17",
       "city": "Anzhero-Sudzhensk",
       "region": "Kemerovo Oblast",
