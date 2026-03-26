@@ -12104,5 +12104,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BF74A3-02D8EA-29DDC7": {
+    "expires": "2026-03-27T19:32:36.779Z",
+    "hwid": "1265111862-97733175-b866-4725-9c32-96cac9f97423",
+    "browserHwid": null,
+    "username": "maxbowchannel",
+    "userId": "1265111862",
+    "source": "script",
+    "createdAt": "2026-03-26T19:32:37.226Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.172.69",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
