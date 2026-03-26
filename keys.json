@@ -10422,8 +10422,15 @@
     "userId": "2944493246",
     "source": "script",
     "createdAt": "2026-03-26T08:00:53.360Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T08:01:01.604Z",
     "geo": {
+      "ip": "95.42.67.132",
+      "city": "Sofia",
+      "region": "Sofia-Capital",
+      "country": "Bulgaria",
+      "cc": "BG"
+    },
+    "lastGeo": {
       "ip": "95.42.67.132",
       "city": "Sofia",
       "region": "Sofia-Capital",
