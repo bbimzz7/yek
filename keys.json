@@ -11021,5 +11021,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-476188-25C423-42C719": {
+    "expires": "2026-03-27T11:51:54.034Z",
+    "hwid": "9674060789-68d11f99-d579-4e29-9022-e68d6c370e27",
+    "browserHwid": null,
+    "username": "YouNoMercy07",
+    "userId": "9674060789",
+    "source": "script",
+    "createdAt": "2026-03-26T11:51:54.291Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.62.16.123",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
