@@ -10684,5 +10684,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-14BB4B-C43C65-5D5435": {
+    "expires": "2026-03-27T09:02:55.844Z",
+    "hwid": "8851270203-b101804d-4fd4-49f5-b977-64aad28e6300",
+    "browserHwid": null,
+    "username": "ambatunerr3",
+    "userId": "8851270203",
+    "source": "script",
+    "createdAt": "2026-03-26T09:02:56.087Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.20.91.154",
+      "city": "Panjang",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
