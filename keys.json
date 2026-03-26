@@ -10021,8 +10021,15 @@
     "userId": "7348391742",
     "source": "script",
     "createdAt": "2026-03-26T04:33:25.330Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T04:33:34.945Z",
     "geo": {
+      "ip": "123.50.76.74",
+      "city": "Papeete",
+      "region": "Îles du Vent",
+      "country": "French Polynesia",
+      "cc": "PF"
+    },
+    "lastGeo": {
       "ip": "123.50.76.74",
       "city": "Papeete",
       "region": "Îles du Vent",
