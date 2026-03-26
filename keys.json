@@ -11502,5 +11502,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-1C9C3C-FEBDF1-71FDB6": {
+    "expires": "2026-03-27T14:46:24.580Z",
+    "hwid": "8968290500-ef4789c7-da87-454f-9de5-00d59a3e8830",
+    "browserHwid": null,
+    "username": "zyllooo3",
+    "userId": "8968290500",
+    "source": "script",
+    "createdAt": "2026-03-26T14:46:26.039Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.6.232",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
