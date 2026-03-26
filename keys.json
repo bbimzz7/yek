@@ -9957,5 +9957,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C367FE-15DAEC-18449B": {
+    "expires": "2026-03-27T04:27:06.381Z",
+    "hwid": "8479725457-86c24e1f-b9fa-4675-8062-8d5b2c665215",
+    "browserHwid": null,
+    "username": "ilove_sprirto05",
+    "userId": "8479725457",
+    "source": "script",
+    "createdAt": "2026-03-26T04:27:06.816Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.200.122.38",
+      "city": "Caloocan",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
