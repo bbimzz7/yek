@@ -10252,5 +10252,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-ACC442-1F6BBF-72E635": {
+    "expires": "2026-03-27T06:52:09.385Z",
+    "hwid": "3687693750-8cb95e70-ce84-4cac-b8f3-d4d97c5930f0",
+    "browserHwid": null,
+    "username": "meowing_my",
+    "userId": "3687693750",
+    "source": "script",
+    "createdAt": "2026-03-26T06:52:09.625Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "151.241.19.5",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "The Netherlands",
+      "cc": "NL"
+    }
   }
 }
