@@ -10446,8 +10446,15 @@
     "userId": "8667848315",
     "source": "script",
     "createdAt": "2026-03-26T08:22:07.658Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T08:22:49.285Z",
     "geo": {
+      "ip": "103.189.207.223",
+      "city": "Muara Dua",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.189.207.223",
       "city": "Muara Dua",
       "region": "South Sumatra",
