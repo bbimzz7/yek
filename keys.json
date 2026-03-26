@@ -12008,5 +12008,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DB4ADD-D4D586-DF64B9": {
+    "expires": "2026-03-27T18:23:59.939Z",
+    "hwid": "10726474933-c8eb3e5a-a1c9-491c-8e89-95c28ffed0d1",
+    "browserHwid": null,
+    "username": "333tltu",
+    "userId": "10726474933",
+    "source": "script",
+    "createdAt": "2026-03-26T18:24:00.403Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "193.23.222.168",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
