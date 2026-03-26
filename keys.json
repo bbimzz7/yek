@@ -11142,5 +11142,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-5A49A6-658C76-FC06D2": {
+    "expires": "2026-03-27T12:33:31.625Z",
+    "hwid": "9892657979-6ae0e296-0dae-449e-8e7e-93a7ae1971ec",
+    "browserHwid": null,
+    "username": "YASDX70",
+    "userId": "9892657979",
+    "source": "script",
+    "createdAt": "2026-03-26T12:33:32.060Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "156.38.51.124",
+      "city": "Tripoli",
+      "region": "Tripoli",
+      "country": "Libya",
+      "cc": "LY"
+    }
   }
 }
