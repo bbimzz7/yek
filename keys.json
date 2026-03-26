@@ -10879,14 +10879,22 @@
   },
   "VH-A6AC7F-A38572-39BC56": {
     "expires": "2026-03-27T10:54:37.673Z",
-    "hwid": null,
+    "hwid": "8410065522-c149fa40-1d40-46ac-bcaa-5f0e37268f43",
     "browserHwid": "BR-5EFB0E09-G4HZP",
     "username": "Him1234605",
-    "userId": null,
+    "userId": "8410065522",
     "source": "browser",
     "createdAt": "2026-03-26T10:54:38.089Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T10:54:45.906Z",
     "geo": {
+      "ip": "174.216.2.254",
+      "city": "Lexington",
+      "region": "North Carolina",
+      "country": "United States",
+      "cc": "US"
+    },
+    "boundAt": "2026-03-26T10:54:45.895Z",
+    "lastGeo": {
       "ip": "174.216.2.254",
       "city": "Lexington",
       "region": "North Carolina",
