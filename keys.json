@@ -11670,5 +11670,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-855E08-366AEF-1332E1": {
+    "expires": "2026-03-27T15:54:43.038Z",
+    "hwid": "5029591641-cf22ca35-4b2c-4873-9b9d-722bae5a81b0",
+    "browserHwid": null,
+    "username": "XoRiiouz",
+    "userId": "5029591641",
+    "source": "script",
+    "createdAt": "2026-03-26T15:54:43.522Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.136.57.134",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
