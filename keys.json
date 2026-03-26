@@ -12257,9 +12257,16 @@
     "userId": "9692107133",
     "source": "script",
     "createdAt": "2026-03-26T20:48:04.273Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T20:49:35.078Z",
     "geo": {
       "ip": "200.125.171.175",
+      "city": "Mejía de Navarrete",
+      "region": "Santiago Province",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    },
+    "lastGeo": {
+      "ip": "200.125.171.174",
       "city": "Mejía de Navarrete",
       "region": "Santiago Province",
       "country": "Dominican Republic",
