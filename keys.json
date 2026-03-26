@@ -9236,8 +9236,15 @@
     "userId": "9175837357",
     "source": "script",
     "createdAt": "2026-03-26T00:27:41.588Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T00:27:51.125Z",
     "geo": {
+      "ip": "187.225.46.191",
+      "city": "Poza Rica",
+      "region": "Veracruz",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.225.46.191",
       "city": "Poza Rica",
       "region": "Veracruz",
