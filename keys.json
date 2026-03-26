@@ -11911,5 +11911,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-160642-C378A2-3CD9BB": {
+    "expires": "2026-03-27T17:37:40.683Z",
+    "hwid": "10039877667-021a576a-7b87-4ae8-8efa-9aab07c32032",
+    "browserHwid": null,
+    "username": "alfimedi",
+    "userId": "10039877667",
+    "source": "script",
+    "createdAt": "2026-03-26T17:37:41.152Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.3.100.111",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
