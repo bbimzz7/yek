@@ -11598,5 +11598,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-1A2CBA-31EE21-E09B1E": {
+    "expires": "2026-03-27T15:14:35.976Z",
+    "hwid": "9732432447-e1451b0b-c9ab-42bc-80d0-ddda3b59e82f",
+    "browserHwid": null,
+    "username": "NataVNS_9",
+    "userId": "9732432447",
+    "source": "script",
+    "createdAt": "2026-03-26T15:14:36.427Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.143.19",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
