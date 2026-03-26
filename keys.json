@@ -9515,5 +9515,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-9FB29E-4E7A28-51B006": {
+    "expires": "2026-03-27T01:50:53.224Z",
+    "hwid": "9036912156-B16F14F8-0A73-4AB5-8A32-539E707F1694",
+    "browserHwid": null,
+    "username": "NIQUITAYAA",
+    "userId": "9036912156",
+    "source": "script",
+    "createdAt": "2026-03-26T01:50:53.465Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.11.223.100",
+      "city": "Diadema",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
