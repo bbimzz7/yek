@@ -10901,5 +10901,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-A6C175-2B283B-F105D6": {
+    "expires": "2026-03-27T11:16:04.962Z",
+    "hwid": "10000190501-c9ce047a-5c46-4401-974c-92fd8e834d39",
+    "browserHwid": null,
+    "username": "dammnxyz",
+    "userId": "10000190501",
+    "source": "script",
+    "createdAt": "2026-03-26T11:16:05.394Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.19.18.117",
+      "city": "Subang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
