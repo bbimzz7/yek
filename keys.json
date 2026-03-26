@@ -9709,8 +9709,15 @@
     "userId": "1712840627",
     "source": "script",
     "createdAt": "2026-03-26T02:42:26.165Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T02:42:53.537Z",
     "geo": {
+      "ip": "68.117.152.156",
+      "city": "Birmingham",
+      "region": "Alabama",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "68.117.152.156",
       "city": "Birmingham",
       "region": "Alabama",
