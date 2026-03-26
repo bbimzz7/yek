@@ -10437,5 +10437,22 @@
       "country": "Bulgaria",
       "cc": "BG"
     }
+  },
+  "VH-68584A-3AEEEB-C6CAB5": {
+    "expires": "2026-03-27T08:22:07.181Z",
+    "hwid": "8667848315-0720ebb6-6dae-43a6-bb90-78cd0bdf1377",
+    "browserHwid": null,
+    "username": "Lynxz_0804",
+    "userId": "8667848315",
+    "source": "script",
+    "createdAt": "2026-03-26T08:22:07.658Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.207.223",
+      "city": "Muara Dua",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
