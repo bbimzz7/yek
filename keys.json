@@ -11069,5 +11069,22 @@
       "country": "Azerbaijan",
       "cc": "AZ"
     }
+  },
+  "VH-51D02E-4C2175-276260": {
+    "expires": "2026-03-27T12:09:47.577Z",
+    "hwid": null,
+    "browserHwid": "BR-1D256C17-ERJVA",
+    "username": "parhattt49",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-26T12:09:48.082Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.39.16",
+      "city": "Laikit Matungkas",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
