@@ -12185,8 +12185,15 @@
     "userId": "2282274601",
     "source": "script",
     "createdAt": "2026-03-26T20:35:45.381Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T20:35:50.066Z",
     "geo": {
+      "ip": "89.226.189.186",
+      "city": "Le Luc",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "89.226.189.186",
       "city": "Le Luc",
       "region": "Provence-Alpes-Côte d'Azur",
