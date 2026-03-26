@@ -9949,8 +9949,15 @@
     "userId": "8374752339",
     "source": "script",
     "createdAt": "2026-03-26T04:26:23.812Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T04:27:41.606Z",
     "geo": {
+      "ip": "103.163.13.116",
+      "city": "Bojonegoro",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.163.13.116",
       "city": "Bojonegoro",
       "region": "East Java",
