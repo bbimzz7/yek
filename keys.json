@@ -9323,5 +9323,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9612D6-5EC938-07EDEB": {
+    "expires": "2026-03-27T01:02:41.345Z",
+    "hwid": "9654433075-e65bebbe-aaba-4340-944a-c72ddf6bc3a1",
+    "browserHwid": null,
+    "username": "puau_uuuppp",
+    "userId": "9654433075",
+    "source": "script",
+    "createdAt": "2026-03-26T01:02:41.553Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "174.5.108.49",
+      "city": "Schreiber",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
