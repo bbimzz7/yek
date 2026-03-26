@@ -12032,5 +12032,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-F899B7-F2189E-08BEA9": {
+    "expires": "2026-03-27T18:44:30.862Z",
+    "hwid": "3436206751-f91fbb75-a9ee-4914-8648-613df8de76b4",
+    "browserHwid": null,
+    "username": "kotik_kotik1110",
+    "userId": "3436206751",
+    "source": "script",
+    "createdAt": "2026-03-26T18:44:31.336Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "163.53.244.186",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
