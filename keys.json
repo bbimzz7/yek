@@ -11962,16 +11962,24 @@
   },
   "VH-8781E0-ECD8B5-6CF358": {
     "expires": "2026-03-27T18:02:55.106Z",
-    "hwid": null,
+    "hwid": "8933790906-1c301963-7e6c-46c3-89ec-d241e3713000",
     "browserHwid": "BR-3B65367E-ATYZJ",
-    "username": "xwanncihuy",
-    "userId": null,
+    "username": "xWanncihuy",
+    "userId": "8933790906",
     "source": "browser",
     "createdAt": "2026-03-26T18:02:55.651Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-26T18:05:12.923Z",
     "geo": {
       "ip": "103.175.222.213",
       "city": "Sungguminasa",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-26T18:05:12.913Z",
+    "lastGeo": {
+      "ip": "103.175.222.192",
+      "city": "Galesong",
       "region": "South Sulawesi",
       "country": "Indonesia",
       "cc": "ID"
