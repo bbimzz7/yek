@@ -10060,5 +10060,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-83CD8E-63F5BC-C1AF56": {
+    "expires": "2026-03-27T04:52:19.709Z",
+    "hwid": "4577688742-b1aec5a4-5473-48f8-aa8e-65db13aa01ce",
+    "browserHwid": null,
+    "username": "zeiiiiinsss",
+    "userId": "4577688742",
+    "source": "script",
+    "createdAt": "2026-03-26T04:52:20.136Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.99.142",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
