@@ -5468,8 +5468,15 @@
     "userId": "7239372811",
     "source": "script",
     "createdAt": "2026-03-27T16:31:19.976Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T16:31:45.435Z",
     "geo": {
+      "ip": "187.150.70.214",
+      "city": "Juárez",
+      "region": "Quintana Roo",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.150.70.214",
       "city": "Juárez",
       "region": "Quintana Roo",
