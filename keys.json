@@ -5243,5 +5243,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A1CBAA-936A69-887ED5": {
+    "expires": "2026-03-28T14:31:19.197Z",
+    "hwid": "1709938142-be9e6783-298c-4f71-afa2-b92164df913e",
+    "browserHwid": null,
+    "username": "balkahn",
+    "userId": "1709938142",
+    "source": "script",
+    "createdAt": "2026-03-27T14:31:19.525Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "89.244.82.176",
+      "city": "Wiesbaden",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
