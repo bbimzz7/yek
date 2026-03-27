@@ -4033,5 +4033,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-AFA573-16F282-AB54EF": {
+    "expires": "2026-03-28T03:29:39.396Z",
+    "hwid": "10729142161-8c854a8d-385c-4672-bba4-b6bbfc97792f",
+    "browserHwid": null,
+    "username": "crazyguy8170",
+    "userId": "10729142161",
+    "source": "script",
+    "createdAt": "2026-03-27T03:29:39.728Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.93.80.92",
+      "city": "Angono",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
