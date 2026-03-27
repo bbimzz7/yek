@@ -4803,8 +4803,15 @@
     "userId": "8393131943",
     "source": "script",
     "createdAt": "2026-03-27T10:50:35.439Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T10:51:47.293Z",
     "geo": {
+      "ip": "110.138.78.225",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "110.138.78.225",
       "city": "Tangerang",
       "region": "Banten",
