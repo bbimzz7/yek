@@ -5010,5 +5010,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0BD99D-60B8D8-D77B02": {
+    "expires": "2026-03-28T12:17:23.715Z",
+    "hwid": "8181066903-A4433632-7CC3-471B-B904-D2185608297F",
+    "browserHwid": null,
+    "username": "clawgicall",
+    "userId": "8181066903",
+    "source": "script",
+    "createdAt": "2026-03-27T12:17:23.960Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "173.41.6.15",
+      "city": "Waxahachie",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
