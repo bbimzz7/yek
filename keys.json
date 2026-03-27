@@ -4369,5 +4369,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-CCDA13-B87D49-3BA772": {
+    "expires": "2026-03-28T07:23:36.365Z",
+    "hwid": "8813110142-418bc893-bce4-4452-979a-85ff00823cd3",
+    "browserHwid": null,
+    "username": "dsyyy1612",
+    "userId": "8813110142",
+    "source": "script",
+    "createdAt": "2026-03-27T07:23:36.732Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.83.40.47",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
