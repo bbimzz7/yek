@@ -3503,5 +3503,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-7A36C8-4FBF0F-48983E": {
+    "expires": "2026-03-28T00:07:45.501Z",
+    "hwid": "4382075242-6c538bf1-705f-4d39-8bc9-9a5f2d6c023e",
+    "browserHwid": null,
+    "username": "akubaikkok13",
+    "userId": "4382075242",
+    "source": "script",
+    "createdAt": "2026-03-27T00:07:45.815Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.136.56.174",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
