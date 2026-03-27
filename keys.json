@@ -3080,7 +3080,7 @@
     "userId": "3436206751",
     "source": "script",
     "createdAt": "2026-03-26T18:44:31.336Z",
-    "lastUsed": "2026-03-27T11:08:55.792Z",
+    "lastUsed": "2026-03-27T13:30:17.812Z",
     "geo": {
       "ip": "163.53.244.186",
       "city": "Frankfurt am Main",
@@ -3089,11 +3089,11 @@
       "cc": "DE"
     },
     "lastGeo": {
-      "ip": "148.153.140.192",
-      "city": "Mumbai",
-      "region": "Maharashtra",
-      "country": "India",
-      "cc": "IN"
+      "ip": "154.204.4.47",
+      "city": "Sterling",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
     }
   },
   "VH-C7507F-0B7C3E-60DD6A": {
