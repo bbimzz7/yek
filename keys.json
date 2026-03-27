@@ -5814,5 +5814,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-060E82-F0EDB5-048F5D": {
+    "expires": "2026-03-28T19:04:29.724Z",
+    "hwid": "8423801821-e6073ad3-8145-4e69-a755-7b2860970b78",
+    "browserHwid": null,
+    "username": "h4mdan22",
+    "userId": "8423801821",
+    "source": "script",
+    "createdAt": "2026-03-27T19:04:29.992Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.213.146",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
