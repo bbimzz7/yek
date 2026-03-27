@@ -3970,8 +3970,15 @@
     "userId": "10627023373",
     "source": "script",
     "createdAt": "2026-03-27T02:54:15.624Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T02:54:24.564Z",
     "geo": {
+      "ip": "47.197.71.82",
+      "city": "Seminole",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "47.197.71.82",
       "city": "Seminole",
       "region": "Florida",
