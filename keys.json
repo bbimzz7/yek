@@ -5628,5 +5628,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-D49F5D-3E18B9-A44D2D": {
+    "expires": "2026-03-28T18:04:46.295Z",
+    "hwid": null,
+    "browserHwid": "BR-3B65367E-ATYZJ",
+    "username": "xwanncihuy",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-27T18:04:46.792Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.222.238",
+      "city": "Galesong",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
