@@ -4722,5 +4722,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-345A1E-55E26E-13EC5A": {
+    "expires": "2026-03-28T10:29:12.994Z",
+    "hwid": "10733393314-d24c2966-8eb2-4492-a2d6-53c4fc15fedc",
+    "browserHwid": null,
+    "username": "c0ttoncandis",
+    "userId": "10733393314",
+    "source": "script",
+    "createdAt": "2026-03-27T10:29:13.429Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.210.116.199",
+      "city": "Wonogiri",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
