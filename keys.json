@@ -4042,8 +4042,15 @@
     "userId": "10729142161",
     "source": "script",
     "createdAt": "2026-03-27T03:29:39.728Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T03:29:45.481Z",
     "geo": {
+      "ip": "110.93.80.92",
+      "city": "Angono",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "110.93.80.92",
       "city": "Angono",
       "region": "Calabarzon",
