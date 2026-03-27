@@ -3602,14 +3602,22 @@
   },
   "VH-4C4C22-A79311-94950D": {
     "expires": "2026-03-28T00:45:30.522Z",
-    "hwid": null,
+    "hwid": "10347309026-9a7daba2-d5a0-4430-88bf-28c0594ad7d1",
     "browserHwid": "BR-7374AE7F-8I51G",
     "username": "hafizh_virusdelta",
-    "userId": null,
+    "userId": "10347309026",
     "source": "browser",
     "createdAt": "2026-03-27T00:45:30.917Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T00:46:15.906Z",
     "geo": {
+      "ip": "182.10.97.156",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-27T00:46:15.899Z",
+    "lastGeo": {
       "ip": "182.10.97.156",
       "city": "Bandung",
       "region": "West Java",
