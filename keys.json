@@ -3527,5 +3527,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1993FA-973DB3-B2FA6D": {
+    "expires": "2026-03-28T00:08:08.477Z",
+    "hwid": "9732352598-852aebc2-282f-49f4-84be-364b5fcea7a8",
+    "browserHwid": null,
+    "username": "Mauuul_14",
+    "userId": "9732352598",
+    "source": "script",
+    "createdAt": "2026-03-27T00:08:08.694Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.141.47.121",
+      "city": "Loakulu",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
