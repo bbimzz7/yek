@@ -5058,5 +5058,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-7060C4-E888BE-D4EE4B": {
+    "expires": "2026-03-28T13:34:10.539Z",
+    "hwid": "4799827823-d5b4d2e1-3fbb-42e6-ad42-45eb6695c9a7",
+    "browserHwid": null,
+    "username": "henriquesda1894",
+    "userId": "4799827823",
+    "source": "script",
+    "createdAt": "2026-03-27T13:34:10.931Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.54.40.82",
+      "city": "Franca",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
