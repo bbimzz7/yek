@@ -3697,5 +3697,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-BC567B-A4E835-D16A05": {
+    "expires": "2026-03-28T01:51:01.689Z",
+    "hwid": "752114112-ed653f1f-0faa-4e1b-8b05-cf6d35f68bc7",
+    "browserHwid": null,
+    "username": "harvanananda12",
+    "userId": "752114112",
+    "source": "script",
+    "createdAt": "2026-03-27T01:51:02.040Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.190.46.255",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
