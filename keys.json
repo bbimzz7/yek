@@ -3922,9 +3922,16 @@
     "userId": "7116321894",
     "source": "script",
     "createdAt": "2026-03-27T02:53:13.111Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T02:53:24.567Z",
     "geo": {
       "ip": "179.51.123.201",
+      "city": "Bogotá",
+      "region": "Bogota D.C.",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
+      "ip": "179.51.123.197",
       "city": "Bogotá",
       "region": "Bogota D.C.",
       "country": "Colombia",
