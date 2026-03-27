@@ -4578,5 +4578,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-344BA7-D7B920-F39413": {
+    "expires": "2026-03-28T09:47:52.625Z",
+    "hwid": "10429973851-ad791eef-2636-459a-94aa-8854e5b90973",
+    "browserHwid": null,
+    "username": "hakimDAR_5y",
+    "userId": "10429973851",
+    "source": "script",
+    "createdAt": "2026-03-27T09:47:53.033Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.195.146.147",
+      "city": "Pagadian",
+      "region": "Zamboanga Peninsula",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
