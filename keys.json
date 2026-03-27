@@ -5363,5 +5363,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-59713C-1D8400-2C728E": {
+    "expires": "2026-03-28T15:04:26.657Z",
+    "hwid": "7122905774-b886cbe8-6f4e-4760-a6c6-6ed9c1de8670",
+    "browserHwid": null,
+    "username": "beqa123017",
+    "userId": "7122905774",
+    "source": "script",
+    "createdAt": "2026-03-27T15:04:27.171Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.104.97.190",
+      "city": "Tbilisi",
+      "region": "Tbilisi",
+      "country": "Georgia",
+      "cc": "GE"
+    }
   }
 }
