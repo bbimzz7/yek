@@ -4434,5 +4434,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9594F0-DA760A-0AA3DF": {
+    "expires": "2026-03-28T07:46:58.917Z",
+    "hwid": "7102618273-c1eaff5d-cc08-4a6b-9cf7-e2114925ba24",
+    "browserHwid": null,
+    "username": "hieunohack0",
+    "userId": "7102618273",
+    "source": "script",
+    "createdAt": "2026-03-27T07:46:59.315Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.247.179.118",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
