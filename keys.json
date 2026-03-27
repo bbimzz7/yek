@@ -3769,5 +3769,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-59FEAA-C4BF14-D3A40F": {
+    "expires": "2026-03-28T02:12:42.222Z",
+    "hwid": "10498626441-b411465f-186d-4a87-b742-13ff6b365dde",
+    "browserHwid": null,
+    "username": "ghoafitis",
+    "userId": "10498626441",
+    "source": "script",
+    "createdAt": "2026-03-27T02:12:42.584Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.100.113.15",
+      "city": "Guayaquil",
+      "region": "Guayas",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
