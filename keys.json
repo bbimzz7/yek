@@ -6061,5 +6061,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-3C1F06-E4AFE7-14633E": {
+    "expires": "2026-03-28T23:13:34.192Z",
+    "hwid": "5063505458-550e4b9e-2970-4650-96fa-9c1ecaea848d",
+    "browserHwid": null,
+    "username": "flakawqq",
+    "userId": "5063505458",
+    "source": "script",
+    "createdAt": "2026-03-27T23:13:34.559Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.125.212.131",
+      "city": "Campinas",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
