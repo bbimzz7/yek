@@ -3865,5 +3865,22 @@
       "country": "Türkiye",
       "cc": "TR"
     }
+  },
+  "VH-E52D1B-1C19E9-AD5949": {
+    "expires": "2026-03-28T02:34:45.782Z",
+    "hwid": "10691993114-5a1b4e49-71c9-4478-a409-76a3a8d569d3",
+    "browserHwid": null,
+    "username": "LOGOTEEW2",
+    "userId": "10691993114",
+    "source": "script",
+    "createdAt": "2026-03-27T02:34:46.177Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "161.118.202.140",
+      "city": "Singapore",
+      "region": "South East",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
