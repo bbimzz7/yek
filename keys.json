@@ -4563,8 +4563,15 @@
     "userId": "8611948066",
     "source": "script",
     "createdAt": "2026-03-27T09:43:55.303Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T09:44:04.614Z",
     "geo": {
+      "ip": "103.76.104.173",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.76.104.173",
       "city": "Makassar",
       "region": "South Sulawesi",
