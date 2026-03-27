@@ -5989,5 +5989,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DD113B-E367F1-49BCB1": {
+    "expires": "2026-03-28T21:30:13.960Z",
+    "hwid": "5386581986-0e308946-6032-44e0-b20f-42a62a044d5f",
+    "browserHwid": null,
+    "username": "erickgamer6563",
+    "userId": "5386581986",
+    "source": "script",
+    "createdAt": "2026-03-27T21:30:14.375Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.161.143.224",
+      "city": "Guadalupe",
+      "region": "Nuevo León",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
