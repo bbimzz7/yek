@@ -4210,8 +4210,15 @@
     "userId": "10601844878",
     "source": "script",
     "createdAt": "2026-03-27T06:03:04.695Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T06:04:19.461Z",
     "geo": {
+      "ip": "187.192.228.207",
+      "city": "Guadalajara",
+      "region": "Jalisco",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.192.228.207",
       "city": "Guadalajara",
       "region": "Jalisco",
