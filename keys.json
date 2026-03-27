@@ -4842,5 +4842,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-778751-677A6D-1C588E": {
+    "expires": "2026-03-28T11:25:15.577Z",
+    "hwid": "10682168058-62db2c30-9f99-4aba-a0e3-61d9dd26beea",
+    "browserHwid": null,
+    "username": "hackerpronovo1732",
+    "userId": "10682168058",
+    "source": "script",
+    "createdAt": "2026-03-27T11:25:15.988Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.233.113.96",
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
