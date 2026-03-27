@@ -3675,14 +3675,22 @@
   },
   "VH-215B28-19B5E8-512321": {
     "expires": "2026-03-28T01:44:46.386Z",
-    "hwid": null,
+    "hwid": "8844803788-e1d2846e-6b12-4fd6-97eb-693a6a9e8234",
     "browserHwid": "BR-46D67884-UW7QI",
     "username": "joaozx_777mt",
-    "userId": null,
+    "userId": "8844803788",
     "source": "browser",
     "createdAt": "2026-03-27T01:44:46.831Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T01:46:41.911Z",
     "geo": {
+      "ip": "200.165.204.180",
+      "city": "Boa Vista",
+      "region": "Roraima",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "boundAt": "2026-03-27T01:46:41.901Z",
+    "lastGeo": {
       "ip": "200.165.204.180",
       "city": "Boa Vista",
       "region": "Roraima",
