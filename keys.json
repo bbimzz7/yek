@@ -3985,5 +3985,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-865BFB-E84A0B-8E3871": {
+    "expires": "2026-03-28T03:06:49.332Z",
+    "hwid": "454836040-7afed548-dc33-4d15-8828-f54c4092bfa8",
+    "browserHwid": null,
+    "username": "rendyno",
+    "userId": "454836040",
+    "source": "script",
+    "createdAt": "2026-03-27T03:06:49.743Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.42.55",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
