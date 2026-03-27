@@ -5917,5 +5917,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-052BDB-C4736D-CC4C2C": {
+    "expires": "2026-03-28T20:38:45.572Z",
+    "hwid": "9506929020-e1af6574-3b55-429f-ba23-ac5999e71e7e",
+    "browserHwid": null,
+    "username": "unagoticamas0",
+    "userId": "9506929020",
+    "source": "script",
+    "createdAt": "2026-03-27T20:38:45.938Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.217.200.139",
+      "city": "Tlalpan",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
