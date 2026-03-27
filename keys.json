@@ -5701,5 +5701,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-338429-0A384A-FD7EDA": {
+    "expires": "2026-03-28T18:28:33.909Z",
+    "hwid": "10719365503-663b6048-c7ba-4e43-8b25-e9329eaee62a",
+    "browserHwid": null,
+    "username": "lazi_12345678",
+    "userId": "10719365503",
+    "source": "script",
+    "createdAt": "2026-03-27T18:28:34.336Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.169.195.147",
+      "city": "Jatiroto",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
