@@ -4225,5 +4225,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-FC65DB-E62D2A-EC82FC": {
+    "expires": "2026-03-28T06:05:55.252Z",
+    "hwid": "9684538336-321baea1-1e11-4fac-af8e-cd6178e180ff",
+    "browserHwid": null,
+    "username": "tyoo_327",
+    "userId": "9684538336",
+    "source": "script",
+    "createdAt": "2026-03-27T06:05:55.632Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "163.47.46.110",
+      "city": "Jejelok",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
