@@ -5339,5 +5339,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C6B516-903C1A-F2D650": {
+    "expires": "2026-03-28T14:55:59.571Z",
+    "hwid": "10716392333-8ec1dfbb-0b79-4ffa-a7ca-33bdd4205cbb",
+    "browserHwid": null,
+    "username": "efeksnaod",
+    "userId": "10716392333",
+    "source": "script",
+    "createdAt": "2026-03-27T14:56:00.044Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.245.68.241",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
