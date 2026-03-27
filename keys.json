@@ -6013,5 +6013,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-2D8B6E-9FE941-E2D64D": {
+    "expires": "2026-03-28T21:46:10.566Z",
+    "hwid": "7823668684-832ef083-4fa8-4ce1-80f6-1c6a86ce4b98",
+    "browserHwid": null,
+    "username": "Cayyshiki",
+    "userId": "7823668684",
+    "source": "script",
+    "createdAt": "2026-03-27T21:46:10.993Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.131.102",
+      "city": "Palangkaraya",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
