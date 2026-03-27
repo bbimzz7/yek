@@ -4081,5 +4081,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-D444B6-2D8047-FB5926": {
+    "expires": "2026-03-28T03:45:26.866Z",
+    "hwid": "10639803124-f5b78f0d-7b0c-4bf0-92ec-8658d884824c",
+    "browserHwid": null,
+    "username": "joshmer70",
+    "userId": "10639803124",
+    "source": "script",
+    "createdAt": "2026-03-27T03:45:27.250Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.191.232.197",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
