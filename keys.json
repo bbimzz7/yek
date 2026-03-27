@@ -5556,5 +5556,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-43DB80-1F4240-6857F8": {
+    "expires": "2026-03-28T17:30:59.610Z",
+    "hwid": "9653980856-0552991d-a5ab-4fbb-a0df-09ead65eb8d7",
+    "browserHwid": null,
+    "username": "roba_brainrot123125",
+    "userId": "9653980856",
+    "source": "script",
+    "createdAt": "2026-03-27T17:31:00.124Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "148.222.194.138",
+      "city": "Buenos Aires",
+      "region": "Buenos Aires F.D.",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
