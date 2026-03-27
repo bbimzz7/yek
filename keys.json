@@ -5631,16 +5631,24 @@
   },
   "VH-D49F5D-3E18B9-A44D2D": {
     "expires": "2026-03-28T18:04:46.295Z",
-    "hwid": null,
+    "hwid": "8933790906-1c301963-7e6c-46c3-89ec-d241e3713000",
     "browserHwid": "BR-3B65367E-ATYZJ",
-    "username": "xwanncihuy",
-    "userId": null,
+    "username": "xWanncihuy",
+    "userId": "8933790906",
     "source": "browser",
     "createdAt": "2026-03-27T18:04:46.792Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T18:05:12.522Z",
     "geo": {
       "ip": "103.175.222.238",
       "city": "Galesong",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-27T18:05:12.506Z",
+    "lastGeo": {
+      "ip": "103.175.222.212",
+      "city": "Sungguminasa",
       "region": "South Sulawesi",
       "country": "Indonesia",
       "cc": "ID"
