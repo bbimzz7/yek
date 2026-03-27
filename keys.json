@@ -971,7 +971,7 @@
     "userId": "3905176753",
     "source": "script",
     "createdAt": "2026-03-26T04:20:06.546Z",
-    "lastUsed": "2026-03-26T13:12:50.581Z",
+    "lastUsed": "2026-03-27T01:57:11.058Z",
     "geo": {
       "ip": "182.8.161.1",
       "city": "Samarinda",
@@ -980,9 +980,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.204.121",
-      "city": "Banjarmasin",
-      "region": "South Kalimantan",
+      "ip": "182.8.179.179",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
       "country": "Indonesia",
       "cc": "ID"
     }
