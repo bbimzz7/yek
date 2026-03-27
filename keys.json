@@ -5348,7 +5348,7 @@
     "userId": "10716392333",
     "source": "script",
     "createdAt": "2026-03-27T14:56:00.044Z",
-    "lastUsed": "2026-03-27T21:00:29.953Z",
+    "lastUsed": "2026-03-27T21:20:49.072Z",
     "geo": {
       "ip": "157.245.68.241",
       "city": "Amsterdam",
@@ -5357,11 +5357,11 @@
       "cc": "NL"
     },
     "lastGeo": {
-      "ip": "157.245.68.241",
-      "city": "Amsterdam",
-      "region": "North Holland",
-      "country": "Netherlands",
-      "cc": "NL"
+      "ip": "193.108.118.117",
+      "city": "Frankfurt",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
     }
   },
   "VH-59713C-1D8400-2C728E": {
