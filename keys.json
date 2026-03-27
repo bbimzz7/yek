@@ -1307,7 +1307,7 @@
     "userId": "3687693750",
     "source": "script",
     "createdAt": "2026-03-26T06:52:09.625Z",
-    "lastUsed": "2026-03-26T07:02:05.401Z",
+    "lastUsed": "2026-03-27T05:45:15.989Z",
     "geo": {
       "ip": "151.241.19.5",
       "city": "Amsterdam",
@@ -1316,11 +1316,11 @@
       "cc": "NL"
     },
     "lastGeo": {
-      "ip": "151.241.19.5",
-      "city": "Amsterdam",
-      "region": "North Holland",
-      "country": "The Netherlands",
-      "cc": "NL"
+      "ip": "23.157.88.111",
+      "city": "Frankfurt",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
     }
   },
   "VH-4B1AFB-F725C2-7A71B2": {
