@@ -6085,5 +6085,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-EA6E3C-7FCF1F-EE41D2": {
+    "expires": "2026-03-28T23:17:01.768Z",
+    "hwid": "9079000035-32b0bb66-e5f0-41be-b292-33be12c161c2",
+    "browserHwid": null,
+    "username": "Lgc_639",
+    "userId": "9079000035",
+    "source": "script",
+    "createdAt": "2026-03-27T23:17:02.006Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.224.153.196",
+      "city": "Muisne",
+      "region": "Esmeraldas",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
