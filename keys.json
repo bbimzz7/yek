@@ -4345,5 +4345,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-E9208D-2B54CA-17C284": {
+    "expires": "2026-03-28T07:14:54.005Z",
+    "hwid": "3687693750-8cb95e70-ce84-4cac-b8f3-d4d97c5930f0",
+    "browserHwid": null,
+    "username": "meowing_my",
+    "userId": "3687693750",
+    "source": "script",
+    "createdAt": "2026-03-27T07:14:54.385Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "23.157.88.111",
+      "city": "Frankfurt",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
