@@ -4330,8 +4330,15 @@
     "userId": "10726248693",
     "source": "script",
     "createdAt": "2026-03-27T07:04:33.541Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T07:05:41.146Z",
     "geo": {
+      "ip": "185.184.192.236",
+      "city": "Naaldwijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "185.184.192.236",
       "city": "Naaldwijk",
       "region": "South Holland",
