@@ -3599,5 +3599,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4C4C22-A79311-94950D": {
+    "expires": "2026-03-28T00:45:30.522Z",
+    "hwid": null,
+    "browserHwid": "BR-7374AE7F-8I51G",
+    "username": "hafizh_virusdelta",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-27T00:45:30.917Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.97.156",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
