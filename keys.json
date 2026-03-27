@@ -5372,8 +5372,15 @@
     "userId": "7122905774",
     "source": "script",
     "createdAt": "2026-03-27T15:04:27.171Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T15:04:38.626Z",
     "geo": {
+      "ip": "95.104.97.190",
+      "city": "Tbilisi",
+      "region": "Tbilisi",
+      "country": "Georgia",
+      "cc": "GE"
+    },
+    "lastGeo": {
       "ip": "95.104.97.190",
       "city": "Tbilisi",
       "region": "Tbilisi",
