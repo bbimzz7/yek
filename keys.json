@@ -5483,5 +5483,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-C5E83B-A8E464-64BBF9": {
+    "expires": "2026-03-28T16:43:00.299Z",
+    "hwid": null,
+    "browserHwid": "BR-22945E01-3DA6U",
+    "username": "Ririn22851",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-27T16:43:00.687Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.142.255.58",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
