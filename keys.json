@@ -4923,8 +4923,15 @@
     "userId": "1074569226",
     "source": "script",
     "createdAt": "2026-03-27T11:52:48.731Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T11:52:54.582Z",
     "geo": {
+      "ip": "184.22.14.182",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "184.22.14.182",
       "city": "Bangkok",
       "region": "Bangkok",
