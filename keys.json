@@ -4587,8 +4587,15 @@
     "userId": "10429973851",
     "source": "script",
     "createdAt": "2026-03-27T09:47:53.033Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T09:48:01.701Z",
     "geo": {
+      "ip": "180.195.146.147",
+      "city": "Pagadian",
+      "region": "Zamboanga Peninsula",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "180.195.146.147",
       "city": "Pagadian",
       "region": "Zamboanga Peninsula",
