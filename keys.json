@@ -3889,5 +3889,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-EA5B9C-0BE1CC-B28EBB": {
+    "expires": "2026-03-28T02:47:52.916Z",
+    "hwid": "10631561267-3ff6bb98-8fd2-48f4-b022-6f1c5ec4c099",
+    "browserHwid": null,
+    "username": "LAULAUALAULAU6",
+    "userId": "10631561267",
+    "source": "script",
+    "createdAt": "2026-03-27T02:47:53.287Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.46.187.2",
+      "city": "Sepatan",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
