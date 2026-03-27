@@ -5604,5 +5604,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-D6A868-D2FAC5-106D8D": {
+    "expires": "2026-03-28T17:37:48.183Z",
+    "hwid": "42252572-54660c70-e9db-4884-a1c6-25f8f60655cd",
+    "browserHwid": null,
+    "username": "awesomegal9822",
+    "userId": "42252572",
+    "source": "script",
+    "createdAt": "2026-03-27T17:37:48.403Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.161.95.123",
+      "city": "Mercer Island",
+      "region": "Washington",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
