@@ -4138,8 +4138,15 @@
     "userId": "6010942777",
     "source": "script",
     "createdAt": "2026-03-27T04:35:03.014Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T04:35:30.569Z",
     "geo": {
+      "ip": "187.189.114.100",
+      "city": "Tlalnepantla",
+      "region": "México",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.189.114.100",
       "city": "Tlalnepantla",
       "region": "México",
