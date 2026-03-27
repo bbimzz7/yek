@@ -4539,8 +4539,15 @@
     "userId": "7112597155",
     "source": "script",
     "createdAt": "2026-03-27T09:16:36.527Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T09:16:51.530Z",
     "geo": {
+      "ip": "180.191.16.208",
+      "city": "Cabanatuan City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "180.191.16.208",
       "city": "Cabanatuan City",
       "region": "Central Luzon",
