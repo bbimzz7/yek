@@ -4066,8 +4066,15 @@
     "userId": "1670143825",
     "source": "script",
     "createdAt": "2026-03-27T03:31:14.016Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T03:31:23.507Z",
     "geo": {
+      "ip": "138.255.49.177",
+      "city": "Olímpia",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "138.255.49.177",
       "city": "Olímpia",
       "region": "São Paulo",
