@@ -4018,8 +4018,15 @@
     "userId": "2751178167",
     "source": "script",
     "createdAt": "2026-03-27T03:13:19.458Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T03:13:25.872Z",
     "geo": {
+      "ip": "60.48.130.76",
+      "city": "Cyberjaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "60.48.130.76",
       "city": "Cyberjaya",
       "region": "Selangor",
