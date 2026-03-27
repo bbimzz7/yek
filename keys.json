@@ -3937,5 +3937,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-47A182-A7BCF1-CD83C4": {
+    "expires": "2026-03-28T02:53:51.055Z",
+    "hwid": "9835205341-051472a2-7477-46e9-98ab-c2577808d060",
+    "browserHwid": null,
+    "username": "ADMINN381",
+    "userId": "9835205341",
+    "source": "script",
+    "createdAt": "2026-03-27T02:53:51.273Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.69.8.57",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
