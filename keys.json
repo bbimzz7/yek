@@ -4410,5 +4410,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-513C9B-EBBCE1-A93A9C": {
+    "expires": "2026-03-28T07:32:54.073Z",
+    "hwid": "4087468978-09e51ca0-0bc7-4804-b1a5-b0d4b8cead80",
+    "browserHwid": null,
+    "username": "Hack_kwC",
+    "userId": "4087468978",
+    "source": "script",
+    "createdAt": "2026-03-27T07:32:54.289Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.47.134.26",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
