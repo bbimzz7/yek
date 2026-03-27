@@ -3560,8 +3560,15 @@
     "userId": "4096091724",
     "source": "script",
     "createdAt": "2026-03-27T00:15:01.334Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T00:15:43.234Z",
     "geo": {
+      "ip": "142.247.90.112",
+      "city": "Medina",
+      "region": "Medina Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    },
+    "lastGeo": {
       "ip": "142.247.90.112",
       "city": "Medina",
       "region": "Medina Region",
