@@ -5139,9 +5139,16 @@
     "userId": "10683739505",
     "source": "script",
     "createdAt": "2026-03-27T14:01:02.726Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T14:01:21.929Z",
     "geo": {
       "ip": "185.54.158.70",
+      "city": "Amarah",
+      "region": "Maysan Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
+      "ip": "185.54.158.74",
       "city": "Amarah",
       "region": "Maysan Governorate",
       "country": "Iraq",
