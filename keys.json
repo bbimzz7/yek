@@ -4201,5 +4201,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-47B496-A451C4-FCA2C8": {
+    "expires": "2026-03-28T06:03:04.334Z",
+    "hwid": "10601844878-601c4e62-36a7-4d84-bff6-d40727cb08c0",
+    "browserHwid": null,
+    "username": "hola_707472",
+    "userId": "10601844878",
+    "source": "script",
+    "createdAt": "2026-03-27T06:03:04.695Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.192.228.207",
+      "city": "Guadalajara",
+      "region": "Jalisco",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
