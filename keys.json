@@ -4177,5 +4177,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-C54A37-9E8242-64A309": {
+    "expires": "2026-03-28T04:58:43.177Z",
+    "hwid": "10376014745-5B8A4D5E-29FB-4E2B-99FE-CAA2E30E8E4A",
+    "browserHwid": null,
+    "username": "Jual_CapTikus",
+    "userId": "10376014745",
+    "source": "script",
+    "createdAt": "2026-03-27T04:58:43.525Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.158.95",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
