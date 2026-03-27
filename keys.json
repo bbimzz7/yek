@@ -5228,11 +5228,18 @@
     "userId": "10036889131",
     "source": "script",
     "createdAt": "2026-03-27T14:28:03.441Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T14:28:39.427Z",
     "geo": {
       "ip": "103.242.105.211",
       "city": "Singaraja",
       "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "165.101.42.50",
+      "city": "Utan",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
