@@ -4707,8 +4707,15 @@
     "userId": "10629458835",
     "source": "script",
     "createdAt": "2026-03-27T10:24:27.810Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T10:24:37.272Z",
     "geo": {
+      "ip": "103.121.16.62",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.121.16.62",
       "city": "Depok",
       "region": "West Java",
