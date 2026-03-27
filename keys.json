@@ -3007,7 +3007,7 @@
     "userId": "8933790906",
     "source": "browser",
     "createdAt": "2026-03-26T18:02:55.651Z",
-    "lastUsed": "2026-03-26T18:05:12.923Z",
+    "lastUsed": "2026-03-27T02:42:52.005Z",
     "geo": {
       "ip": "103.175.222.213",
       "city": "Sungguminasa",
@@ -3017,9 +3017,9 @@
     },
     "boundAt": "2026-03-26T18:05:12.913Z",
     "lastGeo": {
-      "ip": "103.175.222.192",
-      "city": "Galesong",
-      "region": "South Sulawesi",
+      "ip": "114.79.37.15",
+      "city": "Laikit Matungkas",
+      "region": "North Sulawesi",
       "country": "Indonesia",
       "cc": "ID"
     }
