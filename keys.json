@@ -5435,5 +5435,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-DD5D3F-85B631-A40610": {
+    "expires": "2026-03-28T16:22:00.065Z",
+    "hwid": "8285524536-6cfeed1f-3f70-4f85-880e-b38248da37a7",
+    "browserHwid": null,
+    "username": "RAFFYYY001",
+    "userId": "8285524536",
+    "source": "script",
+    "createdAt": "2026-03-27T16:22:00.530Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.156.57",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
