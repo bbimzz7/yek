@@ -4234,8 +4234,15 @@
     "userId": "9684538336",
     "source": "script",
     "createdAt": "2026-03-27T06:05:55.632Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T06:07:14.022Z",
     "geo": {
+      "ip": "163.47.46.110",
+      "city": "Jejelok",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "163.47.46.110",
       "city": "Jejelok",
       "region": "West Nusa Tenggara",
