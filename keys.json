@@ -4321,5 +4321,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-1269F8-D977D1-5E7C62": {
+    "expires": "2026-03-28T07:04:33.143Z",
+    "hwid": "10726248693-50112609-8561-406b-9e64-25b9c46a3d4e",
+    "browserHwid": null,
+    "username": "player_hani82",
+    "userId": "10726248693",
+    "source": "script",
+    "createdAt": "2026-03-27T07:04:33.541Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.184.192.236",
+      "city": "Naaldwijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
