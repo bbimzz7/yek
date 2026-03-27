@@ -5019,8 +5019,15 @@
     "userId": "8181066903",
     "source": "script",
     "createdAt": "2026-03-27T12:17:23.960Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T12:17:40.281Z",
     "geo": {
+      "ip": "173.41.6.15",
+      "city": "Waxahachie",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "173.41.6.15",
       "city": "Waxahachie",
       "region": "Texas",
