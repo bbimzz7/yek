@@ -5459,5 +5459,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F1FBD8-9F8FB5-6C39E6": {
+    "expires": "2026-03-28T16:31:19.620Z",
+    "hwid": "7239372811-58f19f35-7cbd-42c8-a677-158a7a75fe49",
+    "browserHwid": null,
+    "username": "barret_10007",
+    "userId": "7239372811",
+    "source": "script",
+    "createdAt": "2026-03-27T16:31:19.976Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.150.70.214",
+      "city": "Juárez",
+      "region": "Quintana Roo",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
