@@ -5178,5 +5178,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-E91C14-AC1785-3E6CB4": {
+    "expires": "2026-03-28T14:06:39.140Z",
+    "hwid": "9208078797-4d2e077f-c3d2-4565-a816-a4dd03057aa7",
+    "browserHwid": null,
+    "username": "yfufh7570",
+    "userId": "9208078797",
+    "source": "script",
+    "createdAt": "2026-03-27T14:06:39.398Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.181.23",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
