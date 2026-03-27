@@ -3536,8 +3536,15 @@
     "userId": "9732352598",
     "source": "script",
     "createdAt": "2026-03-27T00:08:08.694Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T00:10:35.664Z",
     "geo": {
+      "ip": "103.141.47.121",
+      "city": "Loakulu",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.141.47.121",
       "city": "Loakulu",
       "region": "East Kalimantan",
