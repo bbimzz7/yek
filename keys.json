@@ -5758,8 +5758,15 @@
     "userId": "4202407012",
     "source": "script",
     "createdAt": "2026-03-27T18:32:19.040Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T18:32:27.752Z",
     "geo": {
+      "ip": "206.203.56.136",
+      "city": "San José",
+      "region": "Provincia de San José",
+      "country": "Costa Rica",
+      "cc": "CR"
+    },
+    "lastGeo": {
       "ip": "206.203.56.136",
       "city": "San José",
       "region": "Provincia de San José",
