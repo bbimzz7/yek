@@ -4962,5 +4962,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-01D291-8803B2-E1C6DD": {
+    "expires": "2026-03-28T12:13:49.631Z",
+    "hwid": "10701956868-33b492f6-a83d-465d-b21c-78e20ae1115f",
+    "browserHwid": null,
+    "username": "goodpiggybuilder8",
+    "userId": "10701956868",
+    "source": "script",
+    "createdAt": "2026-03-27T12:13:50.013Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "197.225.205.75",
+      "city": "Port Louis",
+      "region": "Port Louis District",
+      "country": "Mauritius",
+      "cc": "MU"
+    }
   }
 }
