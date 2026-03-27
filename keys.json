@@ -5315,5 +5315,22 @@
       "country": "Nepal",
       "cc": "NP"
     }
+  },
+  "VH-D3AADE-67E8BF-6E589C": {
+    "expires": "2026-03-28T14:50:28.243Z",
+    "hwid": "3488587865-8435fefe-aee6-4552-9d44-9e92fb4c09b8",
+    "browserHwid": null,
+    "username": "ZidanePride",
+    "userId": "3488587865",
+    "source": "script",
+    "createdAt": "2026-03-27T14:50:28.693Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.50.34",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
