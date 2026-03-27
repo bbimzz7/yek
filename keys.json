@@ -4458,5 +4458,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-F082FE-0864D1-D3C789": {
+    "expires": "2026-03-28T08:12:11.804Z",
+    "hwid": "8369527025-b7f8e430-d182-4236-a01a-0196896dcfba",
+    "browserHwid": null,
+    "username": "Prooiii72",
+    "userId": "8369527025",
+    "source": "script",
+    "createdAt": "2026-03-27T08:12:12.266Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.110.182.44",
+      "city": "Yangon",
+      "region": "Yangon",
+      "country": "Myanmar",
+      "cc": "MM"
+    }
   }
 }
