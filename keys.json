@@ -3479,5 +3479,22 @@
       "country": "Morocco",
       "cc": "MA"
     }
+  },
+  "VH-153340-C10E2E-41F393": {
+    "expires": "2026-03-28T00:01:42.095Z",
+    "hwid": "7710508291-d44018c1-aabb-4b3b-aad2-58fe7ebf65b5",
+    "browserHwid": null,
+    "username": "Xxyanna_m1",
+    "userId": "7710508291",
+    "source": "script",
+    "createdAt": "2026-03-27T00:01:42.438Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "152.237.131.250",
+      "city": "Manaus",
+      "region": "Amazonas",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
