@@ -5941,5 +5941,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-1BE4E8-764EE0-0BBE3B": {
+    "expires": "2026-03-28T20:42:16.470Z",
+    "hwid": "10037015805-18bafdff-1fbb-4e56-a66e-e60d0982111d",
+    "browserHwid": null,
+    "username": "Dghsdydg",
+    "userId": "10037015805",
+    "source": "script",
+    "createdAt": "2026-03-27T20:42:16.694Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.24.27",
+      "city": "Houston",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
