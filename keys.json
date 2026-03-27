@@ -5067,8 +5067,15 @@
     "userId": "4799827823",
     "source": "script",
     "createdAt": "2026-03-27T13:34:10.931Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T13:34:27.549Z",
     "geo": {
+      "ip": "191.54.40.82",
+      "city": "Franca",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "191.54.40.82",
       "city": "Franca",
       "region": "São Paulo",
