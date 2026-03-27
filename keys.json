@@ -5823,13 +5823,20 @@
     "userId": "8423801821",
     "source": "script",
     "createdAt": "2026-03-27T19:04:29.992Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T19:04:53.968Z",
     "geo": {
       "ip": "103.175.213.146",
       "city": "Denpasar",
       "region": "Bali",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.39.148.47",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
