@@ -5420,8 +5420,15 @@
     "userId": "9378870269",
     "source": "script",
     "createdAt": "2026-03-27T15:48:45.999Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T15:48:54.083Z",
     "geo": {
+      "ip": "91.123.151.47",
+      "city": "Kyiv",
+      "region": "Kyiv City",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "91.123.151.47",
       "city": "Kyiv",
       "region": "Kyiv City",
