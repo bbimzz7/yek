@@ -5034,5 +5034,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-2F8041-E6BFB3-513EC8": {
+    "expires": "2026-03-28T12:28:56.236Z",
+    "hwid": "2521087962-81ebf70a-510c-4fec-9413-65e129685e73",
+    "browserHwid": null,
+    "username": "GTSPLOR",
+    "userId": "2521087962",
+    "source": "script",
+    "createdAt": "2026-03-27T12:28:56.644Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "122.3.117.180",
+      "city": "Santa Fe",
+      "region": "Eastern Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
