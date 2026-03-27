@@ -5869,5 +5869,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-51B221-A5DF66-F0902C": {
+    "expires": "2026-03-28T19:45:28.054Z",
+    "hwid": "7648933209-146c8feb-f632-4799-9077-539bdf1f974f",
+    "browserHwid": null,
+    "username": "milan0j71",
+    "userId": "7648933209",
+    "source": "script",
+    "createdAt": "2026-03-27T19:45:28.476Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "85.235.68.185",
+      "city": "San Vicent del Raspeig",
+      "region": "Valencia",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
