@@ -5613,8 +5613,15 @@
     "userId": "42252572",
     "source": "script",
     "createdAt": "2026-03-27T17:37:48.403Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T17:38:47.922Z",
     "geo": {
+      "ip": "67.161.95.123",
+      "city": "Mercer Island",
+      "region": "Washington",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "67.161.95.123",
       "city": "Mercer Island",
       "region": "Washington",
