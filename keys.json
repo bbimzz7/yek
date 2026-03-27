@@ -5580,5 +5580,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-5778C9-1BCEEA-884168": {
+    "expires": "2026-03-28T17:36:30.513Z",
+    "hwid": "8242767061-A1109AF8-5127-4082-A5AC-44134B2530C6",
+    "browserHwid": null,
+    "username": "Sea24413",
+    "userId": "8242767061",
+    "source": "script",
+    "createdAt": "2026-03-27T17:36:30.765Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.75.37.117",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
