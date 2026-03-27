@@ -5202,5 +5202,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8F3267-CC2B4F-A7C1D3": {
+    "expires": "2026-03-28T14:26:25.997Z",
+    "hwid": null,
+    "browserHwid": "BR-63EE1480-17Z83",
+    "username": "BOT_BLOXFRUIT",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-27T14:26:26.408Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.242.105.211",
+      "city": "Singaraja",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
