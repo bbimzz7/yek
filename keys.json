@@ -6037,5 +6037,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8518A0-C679F1-AF3C11": {
+    "expires": "2026-03-28T22:37:01.492Z",
+    "hwid": "9918117439-ABBF2544-F7B6-47DC-8F03-C961FA234B8C",
+    "browserHwid": null,
+    "username": "Estrelavip10",
+    "userId": "9918117439",
+    "source": "script",
+    "createdAt": "2026-03-27T22:37:01.990Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.247.26.95",
+      "city": "Feira de Santana",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
