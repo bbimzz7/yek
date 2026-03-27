@@ -4129,5 +4129,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-4322BF-CCD4ED-FB3DD5": {
+    "expires": "2026-03-28T04:35:02.641Z",
+    "hwid": "6010942777-957a476d-fef3-4cff-9dfb-32fc0ceffd07",
+    "browserHwid": null,
+    "username": "planterry12",
+    "userId": "6010942777",
+    "source": "script",
+    "createdAt": "2026-03-27T04:35:03.014Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.189.114.100",
+      "city": "Tlalnepantla",
+      "region": "México",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
