@@ -6046,8 +6046,15 @@
     "userId": "9918117439",
     "source": "script",
     "createdAt": "2026-03-27T22:37:01.990Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T22:37:12.262Z",
     "geo": {
+      "ip": "186.247.26.95",
+      "city": "Feira de Santana",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "186.247.26.95",
       "city": "Feira de Santana",
       "region": "Bahia",
