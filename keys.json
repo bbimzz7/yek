@@ -5043,8 +5043,15 @@
     "userId": "2521087962",
     "source": "script",
     "createdAt": "2026-03-27T12:28:56.644Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T12:29:02.229Z",
     "geo": {
+      "ip": "122.3.117.180",
+      "city": "Santa Fe",
+      "region": "Eastern Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "122.3.117.180",
       "city": "Santa Fe",
       "region": "Eastern Visayas",
