@@ -5267,5 +5267,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-5C690C-26A90A-4C59F7": {
+    "expires": "2026-03-28T14:38:13.997Z",
+    "hwid": "10551662006-a4ad5c06-3389-46fe-b5b0-a34d7fd33270",
+    "browserHwid": null,
+    "username": "rezky_u9",
+    "userId": "10551662006",
+    "source": "script",
+    "createdAt": "2026-03-27T14:38:14.511Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.1.1",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
