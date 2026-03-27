@@ -5893,5 +5893,22 @@
       "country": "Spain",
       "cc": "ES"
     }
+  },
+  "VH-9D1C46-22FF4A-D8BCA3": {
+    "expires": "2026-03-28T20:28:44.106Z",
+    "hwid": "8460332381-8107c40c-f34b-4222-aa64-b7a198bc477a",
+    "browserHwid": null,
+    "username": "hanep1chain",
+    "userId": "8460332381",
+    "source": "script",
+    "createdAt": "2026-03-27T20:28:44.492Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.190.60.29",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
