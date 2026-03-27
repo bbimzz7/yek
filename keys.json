@@ -5653,5 +5653,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F65F14-36EE84-FDF4F1": {
+    "expires": "2026-03-28T18:12:19.798Z",
+    "hwid": "3247941558-5f95365d-c04b-4814-9c0a-a7c762f34134",
+    "browserHwid": null,
+    "username": "f4x0o",
+    "userId": "3247941558",
+    "source": "script",
+    "createdAt": "2026-03-27T18:12:20.217Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.75.225.110",
+      "city": "Sulaymaniyah",
+      "region": "Sulaymaniyah Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
