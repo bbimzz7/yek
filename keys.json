@@ -4506,5 +4506,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8E6BC5-E234F1-D08631": {
+    "expires": "2026-03-28T09:03:37.176Z",
+    "hwid": "10042234176-4f4150b8-31ed-415f-bb1b-77e6ead2e9e7",
+    "browserHwid": null,
+    "username": "mau_delta15",
+    "userId": "10042234176",
+    "source": "script",
+    "createdAt": "2026-03-27T09:03:37.685Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.169.50",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
