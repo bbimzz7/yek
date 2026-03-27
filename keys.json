@@ -5854,8 +5854,15 @@
     "userId": "10301764882",
     "source": "script",
     "createdAt": "2026-03-27T19:43:50.373Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-27T19:45:10.880Z",
     "geo": {
+      "ip": "143.137.54.212",
+      "city": "Três Lagoas",
+      "region": "Mato Grosso do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "143.137.54.212",
       "city": "Três Lagoas",
       "region": "Mato Grosso do Sul",
