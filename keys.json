@@ -5845,5 +5845,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-57D5ED-198442-FF408A": {
+    "expires": "2026-03-28T19:43:49.934Z",
+    "hwid": "10301764882-409d572a-4e3c-4c43-90a6-aaf2d27436b1",
+    "browserHwid": null,
+    "username": "hacklega_3",
+    "userId": "10301764882",
+    "source": "script",
+    "createdAt": "2026-03-27T19:43:50.373Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "143.137.54.212",
+      "city": "Três Lagoas",
+      "region": "Mato Grosso do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
