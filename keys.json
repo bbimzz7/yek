@@ -4674,5 +4674,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8582E5-D6C849-D5F466": {
+    "expires": "2026-03-28T10:15:14.007Z",
+    "hwid": "10154100314-82B1B63E-9A28-4F31-B0E5-01E1D9308989",
+    "browserHwid": null,
+    "username": "MrSniperFrScope",
+    "userId": "10154100314",
+    "source": "script",
+    "createdAt": "2026-03-27T10:15:14.259Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "109.201.55.37",
+      "city": "Kostanay",
+      "region": "Qostanay Oblysy",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
