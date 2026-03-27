@@ -4986,5 +4986,22 @@
       "country": "Mauritius",
       "cc": "MU"
     }
+  },
+  "VH-59B4B5-354C60-B5F3E1": {
+    "expires": "2026-03-28T12:14:34.684Z",
+    "hwid": "6199237676-4fbb1f93-8508-4aab-8fc3-2a4b1e6398bf",
+    "browserHwid": null,
+    "username": "G_reckti",
+    "userId": "6199237676",
+    "source": "script",
+    "createdAt": "2026-03-27T12:14:34.897Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.1.46.253",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
