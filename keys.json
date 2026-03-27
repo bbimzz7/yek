@@ -5797,5 +5797,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-83C5C9-D53D8A-B3E63F": {
+    "expires": "2026-03-28T19:03:55.167Z",
+    "hwid": "355807318-b9e03996-3524-41ec-ba39-115dbfc17af6",
+    "browserHwid": null,
+    "username": "gamersending",
+    "userId": "355807318",
+    "source": "script",
+    "createdAt": "2026-03-27T19:03:55.589Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.1.1.64",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
