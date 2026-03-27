@@ -3793,5 +3793,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-ABD302-1FA77D-736A90": {
+    "expires": "2026-03-28T02:18:00.985Z",
+    "hwid": "1117374526-685544a0-934b-4cbe-9222-f041d48e7ab6",
+    "browserHwid": null,
+    "username": "ggnoval02199",
+    "userId": "1117374526",
+    "source": "script",
+    "createdAt": "2026-03-27T02:18:01.186Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.5.194",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
