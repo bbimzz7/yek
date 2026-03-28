@@ -8162,5 +8162,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-A97FD9-4DBC3B-5808D6": {
+    "expires": "2026-03-29T22:12:49.219Z",
+    "hwid": "4295462831-e38ac11f-2d22-48f2-913b-6742fefaa044",
+    "browserHwid": null,
+    "username": "8eieieuudduudh3b3",
+    "userId": "4295462831",
+    "source": "script",
+    "createdAt": "2026-03-28T22:12:49.665Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.107.95.58",
+      "city": "Rio de Janeiro",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
