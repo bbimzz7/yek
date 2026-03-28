@@ -6433,8 +6433,15 @@
     "userId": "10409684934",
     "source": "script",
     "createdAt": "2026-03-28T02:23:10.052Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T02:26:42.477Z",
     "geo": {
+      "ip": "180.245.253.164",
+      "city": "Subang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.245.253.164",
       "city": "Subang",
       "region": "West Java",
