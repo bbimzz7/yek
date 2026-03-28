@@ -6738,8 +6738,15 @@
     "userId": "1471889708",
     "source": "script",
     "createdAt": "2026-03-28T05:11:13.106Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T05:12:11.420Z",
     "geo": {
+      "ip": "187.190.206.241",
+      "city": "Benito Juarez",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.190.206.241",
       "city": "Benito Juarez",
       "region": "Mexico City",
