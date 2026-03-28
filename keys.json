@@ -7506,7 +7506,7 @@
     "userId": "6182038469",
     "source": "script",
     "createdAt": "2026-03-28T13:54:16.102Z",
-    "lastUsed": "2026-03-28T21:29:46.774Z",
+    "lastUsed": "2026-03-28T23:56:19.803Z",
     "geo": {
       "ip": "125.24.20.198",
       "city": "Phu Ruea",
@@ -7515,9 +7515,9 @@
       "cc": "TH"
     },
     "lastGeo": {
-      "ip": "125.24.20.198",
-      "city": "Phu Ruea",
-      "region": "Loei",
+      "ip": "125.24.21.124",
+      "city": "Mukdahan",
+      "region": "Mukdahan",
       "country": "Thailand",
       "cc": "TH"
     }
