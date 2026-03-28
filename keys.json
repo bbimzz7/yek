@@ -7763,8 +7763,15 @@
     "userId": "3687693750",
     "source": "script",
     "createdAt": "2026-03-28T15:53:54.881Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T15:54:08.458Z",
     "geo": {
+      "ip": "23.157.88.111",
+      "city": "Frankfurt",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "23.157.88.111",
       "city": "Frankfurt",
       "region": "Hesse",
