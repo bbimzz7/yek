@@ -6279,8 +6279,15 @@
     "userId": "8189617178",
     "source": "script",
     "createdAt": "2026-03-28T01:51:12.093Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T01:51:19.957Z",
     "geo": {
+      "ip": "185.194.151.3",
+      "city": "Lonnig",
+      "region": "Rheinland-Pfalz",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "185.194.151.3",
       "city": "Lonnig",
       "region": "Rheinland-Pfalz",
