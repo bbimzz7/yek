@@ -7946,5 +7946,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-2A15DC-E6C44A-670C2B": {
+    "expires": "2026-03-29T18:26:33.236Z",
+    "hwid": "10039877667-025c260e-29ca-4d88-b09f-60a528c35de3",
+    "browserHwid": null,
+    "username": "alfimedi",
+    "userId": "10039877667",
+    "source": "script",
+    "createdAt": "2026-03-28T18:26:33.611Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.111.100.46",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
