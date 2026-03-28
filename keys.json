@@ -7233,5 +7233,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E2E0B0-CC7FA4-EEA86E": {
+    "expires": "2026-03-29T12:04:53.538Z",
+    "hwid": "8027911400-4c3e7b9a-06d2-44e4-9759-a5b29b9c936b",
+    "browserHwid": null,
+    "username": "Rip_Indra68038",
+    "userId": "8027911400",
+    "source": "script",
+    "createdAt": "2026-03-28T12:04:53.932Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "222.127.239.218",
+      "city": "Lahug",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
