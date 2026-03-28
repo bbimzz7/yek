@@ -6729,5 +6729,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DAD43F-1CB3AA-BE2873": {
+    "expires": "2026-03-29T05:11:12.622Z",
+    "hwid": "1471889708-5b28eeca-38b6-41f2-9a93-90f8fb732d2e",
+    "browserHwid": null,
+    "username": "ivanozi2000",
+    "userId": "1471889708",
+    "source": "script",
+    "createdAt": "2026-03-28T05:11:13.106Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.190.206.241",
+      "city": "Benito Juarez",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
