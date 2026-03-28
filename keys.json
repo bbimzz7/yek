@@ -7667,8 +7667,15 @@
     "userId": "8967729071",
     "source": "script",
     "createdAt": "2026-03-28T15:25:14.714Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T15:25:19.414Z",
     "geo": {
+      "ip": "176.104.1.114",
+      "city": "Brovary",
+      "region": "Kyiv Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "176.104.1.114",
       "city": "Brovary",
       "region": "Kyiv Oblast",
