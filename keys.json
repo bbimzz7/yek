@@ -7617,5 +7617,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-8866FE-0324FE-C8BFEB": {
+    "expires": "2026-03-29T15:03:14.237Z",
+    "hwid": "10671018686-168D3C1B-27BA-485E-9E5C-584F5218EA3B",
+    "browserHwid": null,
+    "username": "fasrrag",
+    "userId": "10671018686",
+    "source": "script",
+    "createdAt": "2026-03-28T15:03:14.690Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.233.111.195",
+      "city": "Rolim de Moura",
+      "region": "Rondônia",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
