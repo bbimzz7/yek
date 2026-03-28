@@ -6921,5 +6921,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-91B25A-8F93F8-1A34EB": {
+    "expires": "2026-03-29T08:31:35.577Z",
+    "hwid": "1284029754-10220429-6b55-4da0-916e-a5726b41a897",
+    "browserHwid": null,
+    "username": "jfkrkekdkmdke",
+    "userId": "1284029754",
+    "source": "script",
+    "createdAt": "2026-03-28T08:31:35.944Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.151.165.93",
+      "city": "Clark Freeport Zone",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
