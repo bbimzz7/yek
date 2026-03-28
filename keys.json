@@ -7209,5 +7209,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-C3E53F-889224-5105F9": {
+    "expires": "2026-03-29T11:55:50.177Z",
+    "hwid": "8695203213-d978909e-1e17-43db-86e8-0312e2df8d48",
+    "browserHwid": null,
+    "username": "SKYTZY_V999",
+    "userId": "8695203213",
+    "source": "script",
+    "createdAt": "2026-03-28T11:55:50.574Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.3.6.105",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
