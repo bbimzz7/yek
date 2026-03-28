@@ -7281,5 +7281,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-6D2199-3E6205-6A8BEE": {
+    "expires": "2026-03-29T12:20:42.438Z",
+    "hwid": "8419017428-65ed7ae2-aa5c-4988-b0e0-927fae951844",
+    "browserHwid": null,
+    "username": "rip_gian09827",
+    "userId": "8419017428",
+    "source": "script",
+    "createdAt": "2026-03-28T12:20:42.880Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "139.135.136.6",
+      "city": "Pasig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
