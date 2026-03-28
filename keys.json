@@ -7137,5 +7137,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-92E07D-E49EFA-569B61": {
+    "expires": "2026-03-29T10:40:09.275Z",
+    "hwid": "1055409030-eb9ae6db-0870-460a-8e72-6489ecbb7b32",
+    "browserHwid": null,
+    "username": "RASYANU2430C",
+    "userId": "1055409030",
+    "source": "script",
+    "createdAt": "2026-03-28T10:40:09.760Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.5.243.77",
+      "city": "Sidoarjo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
