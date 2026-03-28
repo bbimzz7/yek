@@ -8114,5 +8114,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-531E2B-9679B6-9E2B55": {
+    "expires": "2026-03-29T21:13:19.191Z",
+    "hwid": "3413441205-CC191004-1BF6-4A7C-8C97-DFBD241D9AD7",
+    "browserHwid": null,
+    "username": "ISThISaMmMoNGUUuS",
+    "userId": "3413441205",
+    "source": "script",
+    "createdAt": "2026-03-28T21:13:19.608Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "62.201.244.58",
+      "city": "Sulaymaniyah",
+      "region": "Sulaymaniyah Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
