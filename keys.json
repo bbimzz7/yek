@@ -7017,5 +7017,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-FA42E2-A01395-6F62CC": {
+    "expires": "2026-03-29T09:57:19.887Z",
+    "hwid": "9174617468-05981526-842b-4dc2-8a39-bec82d89f1d5",
+    "browserHwid": null,
+    "username": "R9KA2",
+    "userId": "9174617468",
+    "source": "script",
+    "createdAt": "2026-03-28T09:57:20.317Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.7.211",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
