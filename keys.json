@@ -6424,5 +6424,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CFD361-7AED05-8795D7": {
+    "expires": "2026-03-29T02:23:09.812Z",
+    "hwid": "10409684934-5a41798e-244f-4d79-b124-65a99d63a70f",
+    "browserHwid": null,
+    "username": "CarolHarmon5770",
+    "userId": "10409684934",
+    "source": "script",
+    "createdAt": "2026-03-28T02:23:10.052Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.245.253.164",
+      "city": "Subang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
