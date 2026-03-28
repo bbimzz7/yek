@@ -6222,5 +6222,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-81EB8F-C9328E-D221A6": {
+    "expires": "2026-03-29T01:41:01.668Z",
+    "hwid": "2360042882-4ca2bf37-3924-41a8-9e6b-bfd4c1bb15b2",
+    "browserHwid": null,
+    "username": "Jdidkeidgi",
+    "userId": "2360042882",
+    "source": "script",
+    "createdAt": "2026-03-28T01:41:02.186Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "68.204.50.43",
+      "city": "Cocoa",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
