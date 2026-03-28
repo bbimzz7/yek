@@ -6342,5 +6342,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0BF362-1A2B74-9D8F4B": {
+    "expires": "2026-03-29T01:56:52.465Z",
+    "hwid": "9189667969-314E7DE7-0E77-43B8-982B-9498650B2073",
+    "browserHwid": null,
+    "username": "Veldora6289",
+    "userId": "9189667969",
+    "source": "script",
+    "createdAt": "2026-03-28T01:56:52.627Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.76.189.122",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
