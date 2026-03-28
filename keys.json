@@ -7458,8 +7458,15 @@
     "userId": "8261347399",
     "source": "script",
     "createdAt": "2026-03-28T13:33:50.500Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T13:34:41.155Z",
     "geo": {
+      "ip": "37.63.78.37",
+      "city": "Varna",
+      "region": "Varna",
+      "country": "Bulgaria",
+      "cc": "BG"
+    },
+    "lastGeo": {
       "ip": "37.63.78.37",
       "city": "Varna",
       "region": "Varna",
