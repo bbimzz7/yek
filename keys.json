@@ -6897,5 +6897,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-93C990-39CABA-302152": {
+    "expires": "2026-03-29T08:16:34.275Z",
+    "hwid": "8153988701-c0a3a1bf-bbef-43a5-b030-e3e836c82d34",
+    "browserHwid": null,
+    "username": "Nyle3ax5",
+    "userId": "8153988701",
+    "source": "script",
+    "createdAt": "2026-03-28T08:16:34.662Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.18.35.30",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
