@@ -7089,5 +7089,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-8D26F6-A2EAE9-E0A3DC": {
+    "expires": "2026-03-29T10:32:24.129Z",
+    "hwid": "7112597155-ee4579d1-697c-47f6-b103-286b4cf9b34b",
+    "browserHwid": null,
+    "username": "K_EN881",
+    "userId": "7112597155",
+    "source": "script",
+    "createdAt": "2026-03-28T10:32:24.328Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.191.16.208",
+      "city": "Cabanatuan City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
