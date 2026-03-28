@@ -6810,8 +6810,15 @@
     "userId": "3510255375",
     "source": "script",
     "createdAt": "2026-03-28T07:12:29.043Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T07:12:36.210Z",
     "geo": {
+      "ip": "160.20.124.156",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "160.20.124.156",
       "city": "Medan",
       "region": "North Sumatra",
