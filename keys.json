@@ -7658,5 +7658,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1962E0-CB5266-D02EC9": {
+    "expires": "2026-03-29T15:25:14.480Z",
+    "hwid": "8967729071-C0469C06-9547-4AF6-ABAE-D295FB98AEE2",
+    "browserHwid": null,
+    "username": "XxSavannah_P0w3rxX",
+    "userId": "8967729071",
+    "source": "script",
+    "createdAt": "2026-03-28T15:25:14.714Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.104.1.114",
+      "city": "Brovary",
+      "region": "Kyiv Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
