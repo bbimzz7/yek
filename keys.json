@@ -8186,5 +8186,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-84C7BA-26FC03-352E08": {
+    "expires": "2026-03-29T22:42:45.437Z",
+    "hwid": "7902637912-961bfbf0-69f1-4024-8408-0795f5c63612",
+    "browserHwid": null,
+    "username": "asolo145",
+    "userId": "7902637912",
+    "source": "script",
+    "createdAt": "2026-03-28T22:42:45.870Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "85.159.25.99",
+      "city": "Astana",
+      "region": "Astana",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
