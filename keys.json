@@ -8018,5 +8018,22 @@
       "country": "Albania",
       "cc": "AL"
     }
+  },
+  "VH-ADA05F-E04EB3-3FE3C3": {
+    "expires": "2026-03-29T19:51:40.105Z",
+    "hwid": "4063760265-dbd11b61-46a3-4017-a8e1-75e498294411",
+    "browserHwid": null,
+    "username": "vzqriiv",
+    "userId": "4063760265",
+    "source": "script",
+    "createdAt": "2026-03-28T19:51:40.503Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.244.102.63",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
