@@ -7626,8 +7626,15 @@
     "userId": "10671018686",
     "source": "script",
     "createdAt": "2026-03-28T15:03:14.690Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T15:03:20.056Z",
     "geo": {
+      "ip": "170.233.111.195",
+      "city": "Rolim de Moura",
+      "region": "Rondônia",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "170.233.111.195",
       "city": "Rolim de Moura",
       "region": "Rondônia",
