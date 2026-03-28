@@ -8090,5 +8090,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-813F7F-EBCE98-FC98D8": {
+    "expires": "2026-03-29T20:57:45.087Z",
+    "hwid": "3668176310-a68fd435-b09f-4239-86d9-fabbad32d0e1",
+    "browserHwid": null,
+    "username": "kr_ryomifan",
+    "userId": "3668176310",
+    "source": "script",
+    "createdAt": "2026-03-28T20:57:45.609Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "106.101.75.237",
+      "city": "Guri-si",
+      "region": "Gyeonggi-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
