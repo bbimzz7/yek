@@ -5806,7 +5806,7 @@
     "userId": "355807318",
     "source": "script",
     "createdAt": "2026-03-27T19:03:55.589Z",
-    "lastUsed": "2026-03-28T12:40:06.360Z",
+    "lastUsed": "2026-03-28T17:14:56.198Z",
     "geo": {
       "ip": "182.1.1.64",
       "city": "Pekanbaru",
@@ -5815,9 +5815,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "182.1.22.149",
-      "city": "Pekanbaru",
-      "region": "Riau",
+      "ip": "103.88.169.150",
+      "city": "Surabaya",
+      "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
     }
