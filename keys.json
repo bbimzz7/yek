@@ -8234,5 +8234,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-00D49B-CE483B-4D5DD6": {
+    "expires": "2026-03-29T23:50:22.211Z",
+    "hwid": "1987176007-1635ed73-83df-495c-ba8d-7d22e783f399",
+    "browserHwid": null,
+    "username": "ghuhgga",
+    "userId": "1987176007",
+    "source": "script",
+    "createdAt": "2026-03-28T23:50:22.673Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "139.135.192.204",
+      "city": "Calamba",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
