@@ -7754,5 +7754,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-ADDD56-09FE91-A4D778": {
+    "expires": "2026-03-29T15:53:54.445Z",
+    "hwid": "3687693750-7402ff0f-6f72-4c9a-8f6f-99fba7ee4abd",
+    "browserHwid": null,
+    "username": "meowing_my",
+    "userId": "3687693750",
+    "source": "script",
+    "createdAt": "2026-03-28T15:53:54.881Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "23.157.88.111",
+      "city": "Frankfurt",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
