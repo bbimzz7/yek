@@ -8195,8 +8195,15 @@
     "userId": "7902637912",
     "source": "script",
     "createdAt": "2026-03-28T22:42:45.870Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T22:42:58.225Z",
     "geo": {
+      "ip": "85.159.25.99",
+      "city": "Astana",
+      "region": "Astana",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "85.159.25.99",
       "city": "Astana",
       "region": "Astana",
