@@ -7065,5 +7065,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-124D00-05B7EA-E34BA6": {
+    "expires": "2026-03-29T10:29:26.000Z",
+    "hwid": "7602881629-2f30575a-0415-429b-b30d-d496ec6dca0b",
+    "browserHwid": null,
+    "username": "CAXAPOK_2012438",
+    "userId": "7602881629",
+    "source": "script",
+    "createdAt": "2026-03-28T10:29:26.414Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "62.16.7.92",
+      "city": "Odesa",
+      "region": "Odesa",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
