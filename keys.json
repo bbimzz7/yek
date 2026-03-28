@@ -7434,8 +7434,15 @@
     "userId": "10720807616",
     "source": "script",
     "createdAt": "2026-03-28T13:26:20.983Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T13:26:56.401Z",
     "geo": {
+      "ip": "103.170.62.115",
+      "city": "Aizawl",
+      "region": "Mizoram",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "103.170.62.115",
       "city": "Aizawl",
       "region": "Mizoram",
