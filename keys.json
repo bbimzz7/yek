@@ -7883,8 +7883,15 @@
     "userId": "3679234507",
     "source": "script",
     "createdAt": "2026-03-28T16:56:54.402Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T16:57:08.573Z",
     "geo": {
+      "ip": "212.237.121.6",
+      "city": "Erbil",
+      "region": "Erbil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "212.237.121.6",
       "city": "Erbil",
       "region": "Erbil Governorate",
