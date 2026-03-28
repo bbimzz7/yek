@@ -7410,8 +7410,15 @@
     "userId": "2860797550",
     "source": "script",
     "createdAt": "2026-03-28T13:26:06.148Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T13:26:15.641Z",
     "geo": {
+      "ip": "144.64.20.52",
+      "city": "Guimarães",
+      "region": "Braga",
+      "country": "Portugal",
+      "cc": "PT"
+    },
+    "lastGeo": {
       "ip": "144.64.20.52",
       "city": "Guimarães",
       "region": "Braga",
