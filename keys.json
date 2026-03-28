@@ -7907,8 +7907,15 @@
     "userId": "10367731759",
     "source": "script",
     "createdAt": "2026-03-28T17:15:24.087Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T17:16:10.246Z",
     "geo": {
+      "ip": "178.230.205.145",
+      "city": "Nijmegen",
+      "region": "Gelderland",
+      "country": "Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "178.230.205.145",
       "city": "Nijmegen",
       "region": "Gelderland",
