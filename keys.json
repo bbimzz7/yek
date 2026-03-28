@@ -7329,5 +7329,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-5EF769-CA7ACC-DA36A7": {
+    "expires": "2026-03-29T12:29:10.797Z",
+    "hwid": "8667848315-0720ebb6-6dae-43a6-bb90-78cd0bdf1377",
+    "browserHwid": null,
+    "username": "Lynxz_0804",
+    "userId": "8667848315",
+    "source": "script",
+    "createdAt": "2026-03-28T12:29:11.215Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.245.144",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
