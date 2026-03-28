@@ -7490,5 +7490,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-7C6393-549431-1B2ECE": {
+    "expires": "2026-03-29T13:54:15.729Z",
+    "hwid": "6182038469-f1af98f1-76c2-4387-b32c-58a0cf8c5b5a",
+    "browserHwid": null,
+    "username": "wzJy2tFFMd",
+    "userId": "6182038469",
+    "source": "script",
+    "createdAt": "2026-03-28T13:54:16.102Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.24.20.198",
+      "city": "Phu Ruea",
+      "region": "Loei",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
