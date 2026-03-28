@@ -6529,9 +6529,16 @@
     "userId": "10584995155",
     "source": "script",
     "createdAt": "2026-03-28T02:52:29.833Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T02:53:31.255Z",
     "geo": {
       "ip": "160.187.221.39",
+      "city": "Kidapawan",
+      "region": "Soccsksargen",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "160.187.221.36",
       "city": "Kidapawan",
       "region": "Soccsksargen",
       "country": "Philippines",
