@@ -7650,8 +7650,15 @@
     "userId": "9973710430",
     "source": "script",
     "createdAt": "2026-03-28T15:24:43.798Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T15:25:23.173Z",
     "geo": {
+      "ip": "157.20.233.45",
+      "city": "Depok",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.20.233.45",
       "city": "Depok",
       "region": "Yogyakarta",
