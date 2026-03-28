@@ -7530,8 +7530,15 @@
     "userId": "1622908888",
     "source": "script",
     "createdAt": "2026-03-28T13:58:53.483Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T13:59:00.141Z",
     "geo": {
+      "ip": "157.15.62.33",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.15.62.33",
       "city": "Malang",
       "region": "East Java",
