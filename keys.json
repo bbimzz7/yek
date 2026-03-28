@@ -7922,5 +7922,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-EB81C9-0D6472-E70374": {
+    "expires": "2026-03-29T17:24:04.588Z",
+    "hwid": "8196590064-8ecf7f6a-57ad-4618-b340-7955d9e67aa7",
+    "browserHwid": null,
+    "username": "Eimailevenths",
+    "userId": "8196590064",
+    "source": "script",
+    "createdAt": "2026-03-28T17:24:05.016Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "77.2.100.236",
+      "city": "Munich",
+      "region": "Bavaria",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
