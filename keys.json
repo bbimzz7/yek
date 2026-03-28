@@ -7338,7 +7338,7 @@
     "userId": "8667848315",
     "source": "script",
     "createdAt": "2026-03-28T12:29:11.215Z",
-    "lastUsed": "2026-03-28T13:53:06.673Z",
+    "lastUsed": "2026-03-28T16:39:42.940Z",
     "geo": {
       "ip": "112.215.245.144",
       "city": "Surabaya",
@@ -7347,9 +7347,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "112.215.175.9",
-      "city": "Jakarta",
-      "region": "Jakarta",
+      "ip": "112.215.201.207",
+      "city": "Batam",
+      "region": "Riau",
       "country": "Indonesia",
       "cc": "ID"
     }
