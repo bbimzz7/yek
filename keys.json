@@ -8123,8 +8123,15 @@
     "userId": "3413441205",
     "source": "script",
     "createdAt": "2026-03-28T21:13:19.608Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T21:13:25.987Z",
     "geo": {
+      "ip": "62.201.244.58",
+      "city": "Sulaymaniyah",
+      "region": "Sulaymaniyah Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "62.201.244.58",
       "city": "Sulaymaniyah",
       "region": "Sulaymaniyah Governorate",
