@@ -6270,5 +6270,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-547FA4-AA5110-C8E2F3": {
+    "expires": "2026-03-29T01:51:11.898Z",
+    "hwid": "8189617178-DCE40EC7-EC00-41BC-9CC7-4CEAE29EBD9E",
+    "browserHwid": null,
+    "username": "StayZ699",
+    "userId": "8189617178",
+    "source": "script",
+    "createdAt": "2026-03-28T01:51:12.093Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.194.151.3",
+      "city": "Lonnig",
+      "region": "Rheinland-Pfalz",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
