@@ -7931,8 +7931,15 @@
     "userId": "8196590064",
     "source": "script",
     "createdAt": "2026-03-28T17:24:05.016Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T17:24:14.266Z",
     "geo": {
+      "ip": "77.2.100.236",
+      "city": "Munich",
+      "region": "Bavaria",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "77.2.100.236",
       "city": "Munich",
       "region": "Bavaria",
