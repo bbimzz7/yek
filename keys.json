@@ -8066,5 +8066,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-76AEA2-5A7E5E-B7D94B": {
+    "expires": "2026-03-29T20:47:59.490Z",
+    "hwid": "8097973186-8c2552ba-a16a-4fb5-9524-daf25514328d",
+    "browserHwid": null,
+    "username": "Xihuani13",
+    "userId": "8097973186",
+    "source": "script",
+    "createdAt": "2026-03-28T20:47:59.916Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.182.114",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
