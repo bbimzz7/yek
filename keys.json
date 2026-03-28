@@ -8003,9 +8003,16 @@
     "userId": "9579410581",
     "source": "script",
     "createdAt": "2026-03-28T19:29:06.862Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T19:29:19.056Z",
     "geo": {
       "ip": "130.0.26.111",
+      "city": "Shkodër",
+      "region": "Shkodër County",
+      "country": "Albania",
+      "cc": "AL"
+    },
+    "lastGeo": {
+      "ip": "130.0.26.108",
       "city": "Shkodër",
       "region": "Shkodër County",
       "country": "Albania",
