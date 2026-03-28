@@ -7521,5 +7521,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-9C3DD9-566524-E837CD": {
+    "expires": "2026-03-29T13:58:52.953Z",
+    "hwid": "1622908888-dc2da943-974e-4c51-a690-173216fafae8",
+    "browserHwid": null,
+    "username": "gabriel_excel",
+    "userId": "1622908888",
+    "source": "script",
+    "createdAt": "2026-03-28T13:58:53.483Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.15.62.33",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
