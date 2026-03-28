@@ -7826,5 +7826,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-1C8DBD-F51D9E-4D372F": {
+    "expires": "2026-03-29T16:09:01.643Z",
+    "hwid": "8284619934-0aede95b-02fa-43c6-bc23-831a3a4fd144",
+    "browserHwid": null,
+    "username": "dlogok_ki",
+    "userId": "8284619934",
+    "source": "script",
+    "createdAt": "2026-03-28T16:09:02.082Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.228.187",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
