@@ -7185,5 +7185,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-651127-D4DF2B-48AE81": {
+    "expires": "2026-03-29T11:50:01.302Z",
+    "hwid": "2405262746-90b2775c-b4e4-4621-ba6f-58a9969f36cc",
+    "browserHwid": null,
+    "username": "djeksembai",
+    "userId": "2405262746",
+    "source": "script",
+    "createdAt": "2026-03-28T11:50:01.699Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.132.138.29",
+      "city": "Zhangaözen",
+      "region": "Mangistauskaya Oblast'",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
