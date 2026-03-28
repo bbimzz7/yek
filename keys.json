@@ -7425,5 +7425,22 @@
       "country": "Portugal",
       "cc": "PT"
     }
+  },
+  "VH-CD5C5E-FCE969-802DCB": {
+    "expires": "2026-03-29T13:26:20.784Z",
+    "hwid": "10720807616-6e21a32b-edb7-49e7-9636-1b028e5ceee7",
+    "browserHwid": null,
+    "username": "ButterflyPinkyPink1",
+    "userId": "10720807616",
+    "source": "script",
+    "createdAt": "2026-03-28T13:26:20.983Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.170.62.115",
+      "city": "Aizawl",
+      "region": "Mizoram",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
