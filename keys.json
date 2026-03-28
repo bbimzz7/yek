@@ -6520,5 +6520,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-32D83B-78B1C0-FD0DBF": {
+    "expires": "2026-03-29T02:52:29.425Z",
+    "hwid": "10584995155-69210ec8-b8a3-4f83-935b-8534fc0d8648",
+    "browserHwid": null,
+    "username": "cbxxjxxhc",
+    "userId": "10584995155",
+    "source": "script",
+    "createdAt": "2026-03-28T02:52:29.833Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.187.221.39",
+      "city": "Kidapawan",
+      "region": "Soccsksargen",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
