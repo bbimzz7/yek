@@ -8099,8 +8099,15 @@
     "userId": "3668176310",
     "source": "script",
     "createdAt": "2026-03-28T20:57:45.609Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T20:57:54.181Z",
     "geo": {
+      "ip": "106.101.75.237",
+      "city": "Guri-si",
+      "region": "Gyeonggi-do",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "lastGeo": {
       "ip": "106.101.75.237",
       "city": "Guri-si",
       "region": "Gyeonggi-do",
