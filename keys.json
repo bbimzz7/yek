@@ -6198,5 +6198,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-119442-D465A5-96C905": {
+    "expires": "2026-03-29T01:34:24.016Z",
+    "hwid": "7710508291-d44018c1-aabb-4b3b-aad2-58fe7ebf65b5",
+    "browserHwid": null,
+    "username": "Xxyanna_m1",
+    "userId": "7710508291",
+    "source": "script",
+    "createdAt": "2026-03-28T01:34:24.391Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "152.237.131.250",
+      "city": "Manaus",
+      "region": "Amazonas",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
