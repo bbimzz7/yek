@@ -6246,5 +6246,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-9E0D02-BAEA55-FB2557": {
+    "expires": "2026-03-29T01:45:31.592Z",
+    "hwid": "10689456443-5cf78c57-097e-4815-af86-78c05ff0d133",
+    "browserHwid": null,
+    "username": "jilios72",
+    "userId": "10689456443",
+    "source": "script",
+    "createdAt": "2026-03-28T01:45:31.812Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.60.13",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
