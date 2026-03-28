@@ -6683,8 +6683,15 @@
     "userId": "6137383423",
     "source": "script",
     "createdAt": "2026-03-28T04:48:53.481Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T04:49:02.491Z",
     "geo": {
+      "ip": "103.156.118.8",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.156.118.8",
       "city": "Jakarta",
       "region": "Jakarta",
