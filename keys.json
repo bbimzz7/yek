@@ -8219,8 +8219,15 @@
     "userId": "8929900375",
     "source": "script",
     "createdAt": "2026-03-28T23:45:02.710Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T23:45:15.057Z",
     "geo": {
+      "ip": "51.68.214.26",
+      "city": "Erith",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "51.68.214.26",
       "city": "Erith",
       "region": "England",
