@@ -6753,5 +6753,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-C8CCA8-DBA890-FC2E25": {
+    "expires": "2026-03-29T05:40:49.583Z",
+    "hwid": "10142673696-9b32d25c-f0d3-493d-ab84-5fbbf1c64bbb",
+    "browserHwid": null,
+    "username": "bayu_wirawan1",
+    "userId": "10142673696",
+    "source": "script",
+    "createdAt": "2026-03-28T05:40:50.003Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.19.228.234",
+      "city": "Banjar Parekan",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
