@@ -7689,5 +7689,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-5E3697-85C98B-D37BCF": {
+    "expires": "2026-03-29T15:29:10.602Z",
+    "hwid": "8208161808-9FA6F4AE-A4E8-4E22-9CD2-72A5E59FE3B8",
+    "browserHwid": null,
+    "username": "KurokoShad0w",
+    "userId": "8208161808",
+    "source": "script",
+    "createdAt": "2026-03-28T15:29:10.836Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.24.123.176",
+      "city": "Moscow",
+      "region": "Moscow",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
