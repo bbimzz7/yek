@@ -7041,5 +7041,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-E31FBE-97F0A0-5A4CF6": {
+    "expires": "2026-03-29T10:15:56.052Z",
+    "hwid": "9067507367-d3bf051f-f6ac-44bd-a2a8-dbee5c4903de",
+    "browserHwid": null,
+    "username": "Murphy_10029",
+    "userId": "9067507367",
+    "source": "script",
+    "createdAt": "2026-03-28T10:15:56.448Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.216.216",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
