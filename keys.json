@@ -6157,5 +6157,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-7B673E-7FB3C9-571A5E": {
+    "expires": "2026-03-29T01:06:28.754Z",
+    "hwid": "5624090231-16ca951b-f7de-4d36-9934-9e7b98a609cc",
+    "browserHwid": null,
+    "username": "creaptiezYT",
+    "userId": "5624090231",
+    "source": "script",
+    "createdAt": "2026-03-28T01:06:29.135Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "197.26.92.79",
+      "city": "Midoun",
+      "region": "Medenine Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    }
   }
 }
