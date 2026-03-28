@@ -7257,5 +7257,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-8DF7CA-4F811F-F85919": {
+    "expires": "2026-03-29T12:17:57.317Z",
+    "hwid": "1074569226-965FDE0D-63BB-4871-95DA-0BB0E8DA9263",
+    "browserHwid": null,
+    "username": "Maleezgg",
+    "userId": "1074569226",
+    "source": "script",
+    "createdAt": "2026-03-28T12:17:57.706Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "184.22.14.182",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
