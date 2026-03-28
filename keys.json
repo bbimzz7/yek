@@ -6618,8 +6618,15 @@
     "userId": "3028455735",
     "source": "script",
     "createdAt": "2026-03-28T04:21:36.507Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-28T04:23:07.707Z",
     "geo": {
+      "ip": "103.155.197.21",
+      "city": "Margahayukencana",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.155.197.21",
       "city": "Margahayukencana",
       "region": "West Java",
