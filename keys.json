@@ -6592,5 +6592,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-885376-143BB4-CEE604": {
+    "expires": "2026-03-29T04:16:28.294Z",
+    "hwid": "9962625827-db485eee-abff-4e34-87b4-0076c7688bc7",
+    "browserHwid": null,
+    "username": "DS_kanapla",
+    "userId": "9962625827",
+    "source": "script",
+    "createdAt": "2026-03-28T04:16:28.716Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "109.126.176.29",
+      "city": "Minsk",
+      "region": "Minsk City",
+      "country": "Belarus",
+      "cc": "BY"
+    }
   }
 }
