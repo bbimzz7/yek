@@ -6568,5 +6568,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-6A556A-45CB9E-BE5473": {
+    "expires": "2026-03-29T03:20:43.612Z",
+    "hwid": "4696897669-7b835202-e522-40cf-90ed-ad8233d74381",
+    "browserHwid": null,
+    "username": "jocuri_23",
+    "userId": "4696897669",
+    "source": "script",
+    "createdAt": "2026-03-28T03:20:43.997Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.14.159.115",
+      "city": "Oradea",
+      "region": "Bihor County",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
