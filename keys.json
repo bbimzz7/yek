@@ -6472,5 +6472,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3698CD-88F2AF-618E14": {
+    "expires": "2026-03-29T02:41:04.196Z",
+    "hwid": "10042234176-6d311696-e8d5-46bc-aac4-090e24f1ceba",
+    "browserHwid": null,
+    "username": "mau_delta15",
+    "userId": "10042234176",
+    "source": "script",
+    "createdAt": "2026-03-28T02:41:04.388Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.169.50",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
