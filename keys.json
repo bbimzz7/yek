@@ -7737,5 +7737,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-534720-CCDE1D-3E0D62": {
+    "expires": "2026-03-29T15:46:04.402Z",
+    "hwid": null,
+    "browserHwid": "BR-15B13807-BQVF1",
+    "username": "MR_M1005",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-28T15:46:04.823Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.49.156.104",
+      "city": "Dubai",
+      "region": "Dubai",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
