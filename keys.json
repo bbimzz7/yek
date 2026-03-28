@@ -6133,5 +6133,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-93D9EC-3F71FD-41DCD1": {
+    "expires": "2026-03-29T00:10:06.066Z",
+    "hwid": "7444001320-7505a1b0-bf32-40e5-8e3c-e69bf8c10266",
+    "browserHwid": null,
+    "username": "Beyyy600",
+    "userId": "7444001320",
+    "source": "script",
+    "createdAt": "2026-03-28T00:10:06.493Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "164.52.4.67",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
+    }
   }
 }
