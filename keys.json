@@ -11179,5 +11179,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-E36DCF-506235-62EE34": {
+    "expires": "2026-03-30T21:45:28.851Z",
+    "hwid": "10726185190-2aa3dd44-6426-4c2e-8061-576ac8e9f2da",
+    "browserHwid": null,
+    "username": "vxcyikofd",
+    "userId": "10726185190",
+    "source": "script",
+    "createdAt": "2026-03-29T21:45:29.292Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.24.140",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
