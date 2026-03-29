@@ -9647,5 +9647,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6E6E85-BC2E04-C9C41A": {
+    "expires": "2026-03-30T09:46:20.784Z",
+    "hwid": "9010052143-71f63c56-8c9a-4375-b3c2-02a50d86f0c0",
+    "browserHwid": null,
+    "username": "apang_GM5",
+    "userId": "9010052143",
+    "source": "script",
+    "createdAt": "2026-03-29T09:46:21.199Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.161.223",
+      "city": "Cirebon",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
