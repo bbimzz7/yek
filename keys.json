@@ -8950,8 +8950,15 @@
     "userId": "9481106221",
     "source": "script",
     "createdAt": "2026-03-29T05:09:51.830Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T05:11:24.450Z",
     "geo": {
+      "ip": "190.83.119.60",
+      "city": "Guatemala City",
+      "region": "Guatemala",
+      "country": "Guatemala",
+      "cc": "GT"
+    },
+    "lastGeo": {
       "ip": "190.83.119.60",
       "city": "Guatemala City",
       "region": "Guatemala",
