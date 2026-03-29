@@ -10689,5 +10689,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-F8CE82-4DEF0B-FE16B3": {
+    "expires": "2026-03-30T16:18:17.372Z",
+    "hwid": "8363898547-cffd12ea-c1b3-44ad-b12a-9987cf97241f",
+    "browserHwid": null,
+    "username": "SNEv2022",
+    "userId": "8363898547",
+    "source": "script",
+    "createdAt": "2026-03-29T16:18:17.625Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.176.66.28",
+      "city": "La Colpa",
+      "region": "La Libertad",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
