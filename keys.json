@@ -10946,5 +10946,22 @@
       "country": "Morocco",
       "cc": "MA"
     }
+  },
+  "VH-8928C3-0B8313-D15A49": {
+    "expires": "2026-03-30T18:27:56.895Z",
+    "hwid": "7239515001-bf23f994-e71b-462e-9e39-3cbea5bec89b",
+    "browserHwid": null,
+    "username": "Zoro95208",
+    "userId": "7239515001",
+    "source": "script",
+    "createdAt": "2026-03-29T18:27:57.351Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.241.30.250",
+      "city": "Tarakan",
+      "region": "North Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
