@@ -10250,5 +10250,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B4A503-BC3431-CCAC25": {
+    "expires": "2026-03-30T13:46:02.604Z",
+    "hwid": "10376374886-a01e6bad-8c8f-46cc-bbdf-d7872209645e",
+    "browserHwid": null,
+    "username": "MANZ07086",
+    "userId": "10376374886",
+    "source": "script",
+    "createdAt": "2026-03-29T13:46:03.063Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "183.171.158.121",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
