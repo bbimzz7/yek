@@ -10000,5 +10000,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-A40505-0CEE3D-F2C4F3": {
+    "expires": "2026-03-30T12:27:18.628Z",
+    "hwid": "8669905878-92edad3e-5b99-42de-981e-50a7eb3b7666",
+    "browserHwid": null,
+    "username": "piieuwww",
+    "userId": "8669905878",
+    "source": "script",
+    "createdAt": "2026-03-29T12:27:19.026Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.133.98",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
