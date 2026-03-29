@@ -10674,8 +10674,15 @@
     "userId": "4605250844",
     "source": "script",
     "createdAt": "2026-03-29T16:13:37.021Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T16:14:28.507Z",
     "geo": {
+      "ip": "98.235.144.3",
+      "city": "Lancaster",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "98.235.144.3",
       "city": "Lancaster",
       "region": "Pennsylvania",
