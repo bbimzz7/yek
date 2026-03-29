@@ -9440,9 +9440,16 @@
     "userId": "8992523973",
     "source": "script",
     "createdAt": "2026-03-29T08:17:01.168Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T08:22:35.936Z",
     "geo": {
       "ip": "114.79.39.94",
+      "city": "Laikit Matungkas",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "114.79.37.66",
       "city": "Laikit Matungkas",
       "region": "North Sulawesi",
       "country": "Indonesia",
