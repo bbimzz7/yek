@@ -9695,5 +9695,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3E6277-D40D58-EF3CFA": {
+    "expires": "2026-03-30T10:38:44.676Z",
+    "hwid": "5825349424-f04ea359-55a2-468b-b4be-da50f505125f",
+    "browserHwid": null,
+    "username": "Laura_672058",
+    "userId": "5825349424",
+    "source": "script",
+    "createdAt": "2026-03-29T10:38:45.100Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "85.253.156.44",
+      "city": "Tallinn",
+      "region": "Harjumaa",
+      "country": "Estonia",
+      "cc": "EE"
+    }
   }
 }
