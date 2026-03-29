@@ -8821,5 +8821,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-FE4AB1-6AFB55-01683A": {
+    "expires": "2026-03-30T04:47:17.021Z",
+    "hwid": "10711210207-16f25b56-eb37-43e9-b562-02c28d34d83a",
+    "browserHwid": null,
+    "username": "StarlethiaBab",
+    "userId": "10711210207",
+    "source": "script",
+    "createdAt": "2026-03-29T04:47:17.444Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.225.251",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
