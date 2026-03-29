@@ -8917,5 +8917,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7874C2-563254-12F8F2": {
+    "expires": "2026-03-30T05:04:45.031Z",
+    "hwid": "3657256222-3489febe-b2a5-44c0-b5ad-9d3125b0e17a",
+    "browserHwid": null,
+    "username": "naoseibloxfruits",
+    "userId": "3657256222",
+    "source": "script",
+    "createdAt": "2026-03-29T05:04:45.457Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.214.114.23",
+      "city": "Valparaíso de Goiás",
+      "region": "Goiás",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
