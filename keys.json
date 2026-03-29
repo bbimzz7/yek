@@ -8461,5 +8461,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BE6913-F7341D-E929A6": {
+    "expires": "2026-03-30T01:46:27.241Z",
+    "hwid": "3724423498-CB36DA69-1313-4400-94AF-4E15479D3B3B",
+    "browserHwid": null,
+    "username": "latethe_16",
+    "userId": "3724423498",
+    "source": "script",
+    "createdAt": "2026-03-29T01:46:27.654Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.57.130.186",
+      "city": "Miami",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
