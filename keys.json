@@ -8542,11 +8542,18 @@
     "userId": "10043706027",
     "source": "script",
     "createdAt": "2026-03-29T02:23:01.429Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T02:23:13.450Z",
     "geo": {
       "ip": "182.2.205.8",
       "city": "Manokwari",
       "region": "West Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "182.2.201.124",
+      "city": "Nabire",
+      "region": "Central Papua",
       "country": "Indonesia",
       "cc": "ID"
     }
