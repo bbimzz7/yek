@@ -10033,10 +10033,17 @@
     "userId": "1880495091",
     "source": "script",
     "createdAt": "2026-03-29T12:28:56.027Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T12:29:02.742Z",
     "geo": {
       "ip": "103.144.90.122",
       "city": "Melikan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "103.144.90.123",
+      "city": "Bibis",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
