@@ -10290,8 +10290,15 @@
     "userId": "1576740187",
     "source": "script",
     "createdAt": "2026-03-29T14:18:50.862Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T14:18:57.198Z",
     "geo": {
+      "ip": "91.225.171.231",
+      "city": "Nerubayske",
+      "region": "Odesa",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "91.225.171.231",
       "city": "Nerubayske",
       "region": "Odesa",
