@@ -9743,5 +9743,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-9D3B05-3CE664-8177BD": {
+    "expires": "2026-03-30T11:01:01.645Z",
+    "hwid": "8182169240-70DD3CD0-18A6-4767-BC13-CD6EE84E0199",
+    "browserHwid": null,
+    "username": "robloxdwyane6",
+    "userId": "8182169240",
+    "source": "script",
+    "createdAt": "2026-03-29T11:01:02.076Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.201.225.11",
+      "city": "Caloocan",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
