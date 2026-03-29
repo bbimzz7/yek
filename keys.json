@@ -9961,8 +9961,15 @@
     "userId": "3189181179",
     "source": "script",
     "createdAt": "2026-03-29T11:46:24.295Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T11:46:32.535Z",
     "geo": {
+      "ip": "69.118.19.56",
+      "city": "Pearl River",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "69.118.19.56",
       "city": "Pearl River",
       "region": "New York",
