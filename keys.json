@@ -8347,5 +8347,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-AD857D-50AEE8-23660F": {
+    "expires": "2026-03-30T00:52:06.302Z",
+    "hwid": "8431680406-605a38df-0b37-4afd-93a9-5cfbaf61e1e7",
+    "browserHwid": null,
+    "username": "sharifibahir1234",
+    "userId": "8431680406",
+    "source": "script",
+    "createdAt": "2026-03-29T00:52:06.753Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "68.38.149.189",
+      "city": "Bloomington",
+      "region": "Indiana",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
