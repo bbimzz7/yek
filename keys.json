@@ -9503,5 +9503,22 @@
       "country": "Türkiye",
       "cc": "TR"
     }
+  },
+  "VH-9DFA03-823C0D-867FAD": {
+    "expires": "2026-03-30T08:44:41.747Z",
+    "hwid": "3355134327-501718cc-5fcc-4011-90bf-6f5a6c5df142",
+    "browserHwid": null,
+    "username": "rovelynv1234",
+    "userId": "3355134327",
+    "source": "script",
+    "createdAt": "2026-03-29T08:44:42.168Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "222.127.63.208",
+      "city": "Lahug",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
