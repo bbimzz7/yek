@@ -8710,8 +8710,15 @@
     "userId": "8736694824",
     "source": "script",
     "createdAt": "2026-03-29T04:09:20.480Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T04:10:02.363Z",
     "geo": {
+      "ip": "114.10.104.135",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.104.135",
       "city": "Jambi City",
       "region": "Jambi",
