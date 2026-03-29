@@ -11003,8 +11003,15 @@
     "userId": "9576425633",
     "source": "script",
     "createdAt": "2026-03-29T19:18:23.339Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T19:20:08.766Z",
     "geo": {
+      "ip": "46.36.131.253",
+      "city": "Karaganda",
+      "region": "Karaganda",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "46.36.131.253",
       "city": "Karaganda",
       "region": "Karaganda",
