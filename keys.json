@@ -10818,8 +10818,15 @@
     "userId": "9888814769",
     "source": "script",
     "createdAt": "2026-03-29T16:47:32.286Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T16:47:40.621Z",
     "geo": {
+      "ip": "27.71.121.98",
+      "city": "Bắc Ninh",
+      "region": "Bắc Ninh Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "27.71.121.98",
       "city": "Bắc Ninh",
       "region": "Bắc Ninh Province",
