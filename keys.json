@@ -9897,5 +9897,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-98A902-6786FF-F72EB3": {
+    "expires": "2026-03-30T11:34:19.239Z",
+    "hwid": "8286804373-536F10DA-B235-4C80-AC75-87B38472F667",
+    "browserHwid": null,
+    "username": "nguyen_duc016",
+    "userId": "8286804373",
+    "source": "script",
+    "createdAt": "2026-03-29T11:34:19.642Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "123.23.174.118",
+      "city": "Xã Đạ K'Nàng",
+      "region": "Lam Dong",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
