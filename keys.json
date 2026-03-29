@@ -10785,5 +10785,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-6D115F-0D7EA7-628699": {
+    "expires": "2026-03-30T16:42:46.760Z",
+    "hwid": "7399191313-ff0da23e-f3a3-4fae-8493-c469941936b0",
+    "browserHwid": null,
+    "username": "cb1_conbatiblue",
+    "userId": "7399191313",
+    "source": "script",
+    "createdAt": "2026-03-29T16:42:46.972Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.187.43.52",
+      "city": "Governador Valadares",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
