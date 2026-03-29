@@ -9263,5 +9263,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F29D05-27311E-D664B1": {
+    "expires": "2026-03-30T07:22:29.399Z",
+    "hwid": "8002103046-B6B59419-4DDB-4508-91A5-8FC3B09319B8",
+    "browserHwid": null,
+    "username": "xxsantixx2887",
+    "userId": "8002103046",
+    "source": "script",
+    "createdAt": "2026-03-29T07:22:29.830Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.158.111.168",
+      "city": "Rosario",
+      "region": "Santa Fe",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
