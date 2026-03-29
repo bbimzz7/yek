@@ -9335,5 +9335,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-826114-2C5707-B819CF": {
+    "expires": "2026-03-30T08:00:48.032Z",
+    "hwid": "10087160041-8970323d-83a3-4629-a899-5d3b0bf1d95b",
+    "browserHwid": null,
+    "username": "BTRxFunx",
+    "userId": "10087160041",
+    "source": "script",
+    "createdAt": "2026-03-29T08:00:48.285Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.128.122",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
