@@ -10024,5 +10024,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-18B01D-2767BE-E0FF7E": {
+    "expires": "2026-03-30T12:28:55.602Z",
+    "hwid": "1880495091-D8166D0E-A6B3-4589-94CA-BA9DC5C013E2",
+    "browserHwid": null,
+    "username": "pramz_22",
+    "userId": "1880495091",
+    "source": "script",
+    "createdAt": "2026-03-29T12:28:56.027Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.144.90.122",
+      "city": "Melikan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
