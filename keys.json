@@ -10794,8 +10794,15 @@
     "userId": "7399191313",
     "source": "script",
     "createdAt": "2026-03-29T16:42:46.972Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T16:43:53.668Z",
     "geo": {
+      "ip": "191.187.43.52",
+      "city": "Governador Valadares",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "191.187.43.52",
       "city": "Governador Valadares",
       "region": "Minas Gerais",
