@@ -11220,5 +11220,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-044C3B-61236C-B4A129": {
+    "expires": "2026-03-30T21:49:05.320Z",
+    "hwid": "6191512187-8342642B-D0BD-4C04-897C-E72852979B54",
+    "browserHwid": null,
+    "username": "sukuna_god056",
+    "userId": "6191512187",
+    "source": "script",
+    "createdAt": "2026-03-29T21:49:05.524Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.53.130.27",
+      "city": "Taboão da Serra",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
