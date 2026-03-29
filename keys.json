@@ -8147,7 +8147,7 @@
     "userId": "7900119454",
     "source": "script",
     "createdAt": "2026-03-28T21:51:04.913Z",
-    "lastUsed": "2026-03-29T14:55:28.279Z",
+    "lastUsed": "2026-03-29T19:58:09.478Z",
     "geo": {
       "ip": "31.10.142.195",
       "city": "Fislisbach",
@@ -8156,9 +8156,9 @@
       "cc": "CH"
     },
     "lastGeo": {
-      "ip": "194.230.161.39",
-      "city": "Basel",
-      "region": "Basel-City",
+      "ip": "31.10.142.195",
+      "city": "Fislisbach",
+      "region": "Aargau",
       "country": "Switzerland",
       "cc": "CH"
     }
