@@ -10096,5 +10096,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-AF7954-C9FE55-2E3631": {
+    "expires": "2026-03-30T12:54:00.620Z",
+    "hwid": "8562359065-3404c065-c12f-4672-8d2b-cdc5e1b19b5b",
+    "browserHwid": null,
+    "username": "WakeupRyn",
+    "userId": "8562359065",
+    "source": "script",
+    "createdAt": "2026-03-29T12:54:01.024Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.133.170",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
