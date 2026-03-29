@@ -10770,8 +10770,15 @@
     "userId": "10477734289",
     "source": "script",
     "createdAt": "2026-03-29T16:40:59.311Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T16:41:04.961Z",
     "geo": {
+      "ip": "5.100.68.238",
+      "city": "Vladivostok",
+      "region": "Primorye",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "5.100.68.238",
       "city": "Vladivostok",
       "region": "Primorye",
