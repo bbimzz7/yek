@@ -10809,5 +10809,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-D4C254-CA806C-F35D9C": {
+    "expires": "2026-03-30T16:47:32.037Z",
+    "hwid": "9888814769-cf0b5007-9455-48b8-abff-ea038ac927ff",
+    "browserHwid": null,
+    "username": "huhi_772",
+    "userId": "9888814769",
+    "source": "script",
+    "createdAt": "2026-03-29T16:47:32.286Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.71.121.98",
+      "city": "Bắc Ninh",
+      "region": "Bắc Ninh Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
