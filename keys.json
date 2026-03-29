@@ -10048,5 +10048,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C66806-C774D0-6D7A21": {
+    "expires": "2026-03-30T12:35:29.123Z",
+    "hwid": "5271662672-26613962-8E8D-4FD1-B284-A8382D3D16B5",
+    "browserHwid": null,
+    "username": "MYHACKV2",
+    "userId": "5271662672",
+    "source": "script",
+    "createdAt": "2026-03-29T12:35:29.559Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.169.2.168",
+      "city": "Vernet",
+      "region": "Occitanie",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
