@@ -11138,5 +11138,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-46C5D3-D7CD10-B56878": {
+    "expires": "2026-03-30T21:03:07.917Z",
+    "hwid": "1168500742-00a25ff1-9cc9-4a35-ac57-f10989ee4965",
+    "browserHwid": null,
+    "username": "Gremyyyy",
+    "userId": "1168500742",
+    "source": "script",
+    "createdAt": "2026-03-29T21:03:08.411Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.253.251.206",
+      "city": "Cileunyi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
