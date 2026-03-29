@@ -9928,5 +9928,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-D250ED-1746F7-9A09FD": {
+    "expires": "2026-03-30T11:44:17.312Z",
+    "hwid": "3321356677-d7e34b96-5b24-464f-a7ba-81f5eb41d385",
+    "browserHwid": null,
+    "username": "nitzakitty123",
+    "userId": "3321356677",
+    "source": "script",
+    "createdAt": "2026-03-29T11:44:17.758Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.68.144.38",
+      "city": "Leytonstone",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
