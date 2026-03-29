@@ -8397,13 +8397,20 @@
     "userId": "8434351665",
     "source": "script",
     "createdAt": "2026-03-29T01:06:52.022Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T01:07:20.086Z",
     "geo": {
       "ip": "114.10.135.199",
       "city": "Makassar",
       "region": "South Sulawesi",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "45.40.53.16",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
     }
   }
 }
