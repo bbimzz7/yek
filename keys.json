@@ -10185,5 +10185,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E368B2-7277F8-E296F2": {
+    "expires": "2026-03-30T13:16:03.593Z",
+    "hwid": "4577688742-b1aec5a4-5473-48f8-aa8e-65db13aa01ce",
+    "browserHwid": null,
+    "username": "zeiiiiinsss",
+    "userId": "4577688742",
+    "source": "script",
+    "createdAt": "2026-03-29T13:16:03.834Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.136.144.86",
+      "city": "Sukabumi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
