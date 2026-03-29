@@ -9584,8 +9584,15 @@
     "userId": "2792324426",
     "source": "script",
     "createdAt": "2026-03-29T09:16:58.155Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T09:17:04.705Z",
     "geo": {
+      "ip": "103.188.169.116",
+      "city": "Rengasdengklok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.188.169.116",
       "city": "Rengasdengklok",
       "region": "West Java",
