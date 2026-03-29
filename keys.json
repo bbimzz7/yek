@@ -8518,8 +8518,15 @@
     "userId": "10120585294",
     "source": "script",
     "createdAt": "2026-03-29T02:04:20.432Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T02:04:27.045Z",
     "geo": {
+      "ip": "182.8.158.27",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.8.158.27",
       "city": "Banjarmasin",
       "region": "South Kalimantan",
