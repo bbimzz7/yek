@@ -10353,5 +10353,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-51E6B1-02B12B-3DF6F1": {
+    "expires": "2026-03-30T14:41:24.530Z",
+    "hwid": "9921580603-76fe18fe-0e69-4542-8490-e3ebd45c65b5",
+    "browserHwid": null,
+    "username": "note1092837465",
+    "userId": "9921580603",
+    "source": "script",
+    "createdAt": "2026-03-29T14:41:24.777Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.225.95",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
