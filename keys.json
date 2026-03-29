@@ -9383,5 +9383,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-C126F2-C3469C-CF40C0": {
+    "expires": "2026-03-30T08:11:20.010Z",
+    "hwid": "6183602456-f61f19f4-5b3b-4768-9f6a-bd8f72119c17",
+    "browserHwid": null,
+    "username": "kakeksugionotua",
+    "userId": "6183602456",
+    "source": "script",
+    "createdAt": "2026-03-29T08:11:20.252Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.1.21",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
