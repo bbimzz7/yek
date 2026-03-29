@@ -10137,5 +10137,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B6BB2E-0DE647-8C9831": {
+    "expires": "2026-03-30T13:13:27.488Z",
+    "hwid": "2925078096-d02660d6-011f-4879-9b7b-3a7b1896548e",
+    "browserHwid": null,
+    "username": "Netty_Wolfie",
+    "userId": "2925078096",
+    "source": "script",
+    "createdAt": "2026-03-29T13:13:27.781Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "60.53.34.133",
+      "city": "Johor Bahru",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
