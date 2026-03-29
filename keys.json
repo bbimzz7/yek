@@ -9248,8 +9248,15 @@
     "userId": "2996231848",
     "source": "script",
     "createdAt": "2026-03-29T07:19:56.572Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T07:20:06.189Z",
     "geo": {
+      "ip": "115.187.29.8",
+      "city": "Muhajirin",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "115.187.29.8",
       "city": "Muhajirin",
       "region": "West Nusa Tenggara",
