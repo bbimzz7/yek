@@ -8533,5 +8533,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-54E562-A3D91F-7DAC4F": {
+    "expires": "2026-03-30T02:23:00.991Z",
+    "hwid": "10043706027-579c1e1e-3bbf-4705-9178-f6be38f1a9da",
+    "browserHwid": null,
+    "username": "Afdal_Roblox99",
+    "userId": "10043706027",
+    "source": "script",
+    "createdAt": "2026-03-29T02:23:01.429Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.2.205.8",
+      "city": "Manokwari",
+      "region": "West Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
