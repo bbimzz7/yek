@@ -8790,5 +8790,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-31A41F-92AAFC-445D91": {
+    "expires": "2026-03-30T04:30:45.619Z",
+    "hwid": "9752810572-F5A308B3-3717-4761-8B19-1392ABCCD8F7",
+    "browserHwid": null,
+    "username": "Jereexd0",
+    "userId": "9752810572",
+    "source": "script",
+    "createdAt": "2026-03-29T04:30:45.819Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.21.32.222",
+      "city": "Caucete",
+      "region": "San Juan",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
