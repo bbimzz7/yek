@@ -10994,5 +10994,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F31DD8-BE14CA-872EE1": {
+    "expires": "2026-03-30T19:18:22.867Z",
+    "hwid": "9576425633-68be560a-6fac-4c17-befe-86d0a9c4caef",
+    "browserHwid": null,
+    "username": "inkgamenopower111111",
+    "userId": "9576425633",
+    "source": "script",
+    "createdAt": "2026-03-29T19:18:23.339Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.36.131.253",
+      "city": "Karaganda",
+      "region": "Karaganda",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
