@@ -9061,5 +9061,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-187DC0-E93BE9-2DCE49": {
+    "expires": "2026-03-30T05:35:12.651Z",
+    "hwid": "10037015805-18bafdff-1fbb-4e56-a66e-e60d0982111d",
+    "browserHwid": null,
+    "username": "Dghsdydg",
+    "userId": "10037015805",
+    "source": "script",
+    "createdAt": "2026-03-29T05:35:12.855Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.58.48.246",
+      "city": "Houston",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
