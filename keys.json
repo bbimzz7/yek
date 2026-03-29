@@ -10305,5 +10305,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-FAE90A-41FD42-72E0F9": {
+    "expires": "2026-03-30T14:28:06.037Z",
+    "hwid": "9005991399-80aa8211-9215-4eb4-92d8-fff266cf4f97",
+    "browserHwid": null,
+    "username": "Melisa27590",
+    "userId": "9005991399",
+    "source": "script",
+    "createdAt": "2026-03-29T14:28:06.552Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "57.128.179.215",
+      "city": "Erith",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
