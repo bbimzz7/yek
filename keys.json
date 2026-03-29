@@ -8470,8 +8470,15 @@
     "userId": "3724423498",
     "source": "script",
     "createdAt": "2026-03-29T01:46:27.654Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T01:46:33.754Z",
     "geo": {
+      "ip": "73.57.130.186",
+      "city": "Miami",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.57.130.186",
       "city": "Miami",
       "region": "Florida",
