@@ -9937,8 +9937,15 @@
     "userId": "3321356677",
     "source": "script",
     "createdAt": "2026-03-29T11:44:17.758Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T11:44:31.786Z",
     "geo": {
+      "ip": "5.68.144.38",
+      "city": "Leytonstone",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "5.68.144.38",
       "city": "Leytonstone",
       "region": "England",
