@@ -9841,8 +9841,15 @@
     "userId": "9319770455",
     "source": "script",
     "createdAt": "2026-03-29T11:22:53.004Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T11:23:02.543Z",
     "geo": {
+      "ip": "190.2.149.84",
+      "city": "Naaldwijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "190.2.149.84",
       "city": "Naaldwijk",
       "region": "South Holland",
