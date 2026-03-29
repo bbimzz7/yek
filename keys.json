@@ -11066,5 +11066,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-E89857-CAA987-27CBFC": {
+    "expires": "2026-03-30T20:20:14.629Z",
+    "hwid": "5585673514-C281A406-FD80-4EBD-9422-085E22F22E1B",
+    "browserHwid": null,
+    "username": "Aceholes23",
+    "userId": "5585673514",
+    "source": "script",
+    "createdAt": "2026-03-29T20:20:15.103Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "118.99.81.161",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
