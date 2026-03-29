@@ -9527,5 +9527,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-4945C4-1BAA12-C68044": {
+    "expires": "2026-03-30T08:57:20.649Z",
+    "hwid": "3018263571-93343862-cffb-4402-91cd-4e56ddb6bd45",
+    "browserHwid": null,
+    "username": "rayyanfayyat8",
+    "userId": "3018263571",
+    "source": "script",
+    "createdAt": "2026-03-29T08:57:21.121Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.74.175.118",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
