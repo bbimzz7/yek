@@ -10425,5 +10425,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-0F3A08-BAA8A3-6C49FB": {
+    "expires": "2026-03-30T15:07:39.900Z",
+    "hwid": "5386581986-0e308946-6032-44e0-b20f-42a62a044d5f",
+    "browserHwid": null,
+    "username": "erickgamer6563",
+    "userId": "5386581986",
+    "source": "script",
+    "createdAt": "2026-03-29T15:07:40.335Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.161.143.224",
+      "city": "Guadalupe",
+      "region": "Nuevo León",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
