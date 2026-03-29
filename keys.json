@@ -9719,5 +9719,22 @@
       "country": "Estonia",
       "cc": "EE"
     }
+  },
+  "VH-2548F1-F82F28-ACB239": {
+    "expires": "2026-03-30T10:45:26.431Z",
+    "hwid": "10616268875-22db2be7-8440-4b44-8134-639bf816d874",
+    "browserHwid": null,
+    "username": "Z3roVex",
+    "userId": "10616268875",
+    "source": "script",
+    "createdAt": "2026-03-29T10:45:26.897Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "89.238.191.42",
+      "city": "City of London",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
