@@ -10281,5 +10281,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-9CCF1F-65E573-D3DB3B": {
+    "expires": "2026-03-30T14:18:50.406Z",
+    "hwid": "1576740187-649E9C05-5459-4C4F-890A-F44649CBFF58",
+    "browserHwid": null,
+    "username": "Indigo_kot",
+    "userId": "1576740187",
+    "source": "script",
+    "createdAt": "2026-03-29T14:18:50.862Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "91.225.171.231",
+      "city": "Nerubayske",
+      "region": "Odesa",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
