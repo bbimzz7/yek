@@ -9608,8 +9608,15 @@
     "userId": "10743261438",
     "source": "script",
     "createdAt": "2026-03-29T09:25:31.667Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T09:25:49.046Z",
     "geo": {
+      "ip": "38.226.44.81",
+      "city": "Boyolali",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "38.226.44.81",
       "city": "Boyolali",
       "region": "Central Java",
