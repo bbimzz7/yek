@@ -9767,5 +9767,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-5CAA0B-656488-39B92A": {
+    "expires": "2026-03-30T11:02:43.850Z",
+    "hwid": null,
+    "browserHwid": "BR-0094792B-O4T2J",
+    "username": "Azrielhs04",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-29T11:02:44.074Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.171.30.34",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
