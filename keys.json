@@ -10072,5 +10072,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-FA3F39-4822D4-C6F463": {
+    "expires": "2026-03-30T12:39:26.561Z",
+    "hwid": "9015838776-03992641-28cb-45f8-a06a-8c906dd13e07",
+    "browserHwid": null,
+    "username": "Cursedxege",
+    "userId": "9015838776",
+    "source": "script",
+    "createdAt": "2026-03-29T12:39:27.022Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "174.138.14.7",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
