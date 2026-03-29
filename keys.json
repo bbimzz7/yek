@@ -9551,5 +9551,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-58FB3A-9D9EE0-B09FE9": {
+    "expires": "2026-03-30T09:07:43.117Z",
+    "hwid": "7844345309-6398DB2A-36CA-4011-87D3-08AEA1F31C0B",
+    "browserHwid": null,
+    "username": "ancaah0",
+    "userId": "7844345309",
+    "source": "script",
+    "createdAt": "2026-03-29T09:07:43.561Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.158.169",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
