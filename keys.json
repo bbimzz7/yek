@@ -11123,8 +11123,15 @@
     "userId": "5236458782",
     "source": "script",
     "createdAt": "2026-03-29T20:50:58.900Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T20:51:04.036Z",
     "geo": {
+      "ip": "125.164.94.95",
+      "city": "Driyorejo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.164.94.95",
       "city": "Driyorejo",
       "region": "East Java",
