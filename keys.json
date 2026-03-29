@@ -8557,5 +8557,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-146F3F-DA665B-FEC4B4": {
+    "expires": "2026-03-30T02:54:40.199Z",
+    "hwid": "2360042882-4ca2bf37-3924-41a8-9e6b-bfd4c1bb15b2",
+    "browserHwid": null,
+    "username": "Jdidkeidgi",
+    "userId": "2360042882",
+    "source": "script",
+    "createdAt": "2026-03-29T02:54:40.602Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "68.204.50.43",
+      "city": "Cocoa",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
