@@ -8412,5 +8412,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-F73BD7-7BE511-2F81C6": {
+    "expires": "2026-03-30T01:11:33.696Z",
+    "hwid": null,
+    "browserHwid": "BR-2F881F12-E9WMK",
+    "username": "lynethwinx",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-29T01:11:34.154Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.226.215",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
