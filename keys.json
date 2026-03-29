@@ -8509,5 +8509,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F900DE-8A0164-BADC9F": {
+    "expires": "2026-03-30T02:04:20.025Z",
+    "hwid": "10120585294-53717f3c-aef6-4ffd-9da5-b8f819237eee",
+    "browserHwid": null,
+    "username": "urcaplts7060",
+    "userId": "10120585294",
+    "source": "script",
+    "createdAt": "2026-03-29T02:04:20.432Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.158.27",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
