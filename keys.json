@@ -8974,11 +8974,18 @@
     "userId": "10548298311",
     "source": "script",
     "createdAt": "2026-03-29T05:21:51.863Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T05:23:19.955Z",
     "geo": {
       "ip": "124.105.191.12",
       "city": "Mandaluyong",
       "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "27.110.197.162",
+      "city": "Dinalupihan",
+      "region": "Central Luzon",
       "country": "Philippines",
       "cc": "PH"
     }
