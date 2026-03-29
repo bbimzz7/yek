@@ -10497,5 +10497,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-1BD82E-49409A-F1A889": {
+    "expires": "2026-03-30T15:46:14.117Z",
+    "hwid": "5240266165-3d038c30-16a9-40b6-812a-3e329b0d022f",
+    "browserHwid": null,
+    "username": "destept_bogdan",
+    "userId": "5240266165",
+    "source": "script",
+    "createdAt": "2026-03-29T15:46:14.607Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "194.114.144.65",
+      "city": "Chisinau",
+      "region": "Chișinău Municipality",
+      "country": "Moldova",
+      "cc": "MD"
+    }
   }
 }
