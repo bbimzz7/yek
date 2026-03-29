@@ -9085,5 +9085,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-4D5000-5904E2-C9ED9D": {
+    "expires": "2026-03-30T05:35:35.567Z",
+    "hwid": "7948925382-b65b71ff-b9c1-4620-9956-d01bd6247815",
+    "browserHwid": null,
+    "username": "Thalia_0935",
+    "userId": "7948925382",
+    "source": "script",
+    "createdAt": "2026-03-29T05:35:35.790Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "58.69.169.75",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
