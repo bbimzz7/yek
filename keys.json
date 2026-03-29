@@ -8701,5 +8701,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4C7CE3-51687A-A87AF5": {
+    "expires": "2026-03-30T04:09:19.950Z",
+    "hwid": "8736694824-c6a0eb09-7a54-4ad2-b071-e1b8afda2c0d",
+    "browserHwid": null,
+    "username": "donesscelooo",
+    "userId": "8736694824",
+    "source": "script",
+    "createdAt": "2026-03-29T04:09:20.480Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.104.135",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
