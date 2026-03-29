@@ -11229,8 +11229,15 @@
     "userId": "6191512187",
     "source": "script",
     "createdAt": "2026-03-29T21:49:05.524Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T21:49:13.699Z",
     "geo": {
+      "ip": "177.53.130.27",
+      "city": "Taboão da Serra",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.53.130.27",
       "city": "Taboão da Serra",
       "region": "São Paulo",
