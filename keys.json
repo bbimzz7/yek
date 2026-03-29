@@ -11114,5 +11114,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-2118E3-C0A684-2DF318": {
+    "expires": "2026-03-30T20:50:58.458Z",
+    "hwid": "5236458782-8cd8ed19-7541-45a5-9b96-fa696be66c2f",
+    "browserHwid": null,
+    "username": "Hyungseok_2",
+    "userId": "5236458782",
+    "source": "script",
+    "createdAt": "2026-03-29T20:50:58.900Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.164.94.95",
+      "city": "Driyorejo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
