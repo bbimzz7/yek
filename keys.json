@@ -8566,8 +8566,15 @@
     "userId": "2360042882",
     "source": "script",
     "createdAt": "2026-03-29T02:54:40.602Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T02:54:54.667Z",
     "geo": {
+      "ip": "68.204.50.43",
+      "city": "Cocoa",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "68.204.50.43",
       "city": "Cocoa",
       "region": "Florida",
