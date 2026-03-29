@@ -10129,8 +10129,15 @@
     "userId": "10680590485",
     "source": "script",
     "createdAt": "2026-03-29T13:12:52.016Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T13:52:48.517Z",
     "geo": {
+      "ip": "165.101.42.153",
+      "city": "Utan",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "165.101.42.153",
       "city": "Utan",
       "region": "Jakarta",
