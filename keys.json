@@ -11203,5 +11203,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-331059-F01928-B9D751": {
+    "expires": "2026-03-30T21:49:00.679Z",
+    "hwid": "5236260648-70faca79-b049-49b7-8c13-905bc3b6c317",
+    "browserHwid": null,
+    "username": "Manu_roblox463",
+    "userId": "5236260648",
+    "source": "script",
+    "createdAt": "2026-03-29T21:49:01.115Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "97.184.39.227",
+      "city": "San Antonio",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
