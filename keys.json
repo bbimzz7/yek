@@ -9037,5 +9037,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E428A9-755BAB-3E8A03": {
+    "expires": "2026-03-30T05:30:37.656Z",
+    "hwid": "8726010590-c4ac5d83-628a-4183-83c4-d6f589c4a49c",
+    "browserHwid": null,
+    "username": "loydff61",
+    "userId": "8726010590",
+    "source": "script",
+    "createdAt": "2026-03-29T05:30:37.919Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.191.228.144",
+      "city": "Arteche",
+      "region": "Eastern Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
