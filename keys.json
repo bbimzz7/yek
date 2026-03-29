@@ -8749,5 +8749,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D1752B-041CCD-81E784": {
+    "expires": "2026-03-30T04:26:07.410Z",
+    "hwid": "9813632631-f0a2621e-2da0-46e9-ac92-81ef3f654a46",
+    "browserHwid": null,
+    "username": "kelinci10995",
+    "userId": "9813632631",
+    "source": "script",
+    "createdAt": "2026-03-29T04:26:07.846Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.55.22.244",
+      "city": "Kisaran",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
