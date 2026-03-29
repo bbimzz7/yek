@@ -9728,8 +9728,15 @@
     "userId": "10616268875",
     "source": "script",
     "createdAt": "2026-03-29T10:45:26.897Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-29T10:45:34.476Z",
     "geo": {
+      "ip": "89.238.191.42",
+      "city": "City of London",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "89.238.191.42",
       "city": "City of London",
       "region": "England",
