@@ -9222,5 +9222,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-19735D-8C6E4B-DF7A31": {
+    "expires": "2026-03-30T06:39:33.920Z",
+    "hwid": "10743424332-b432a99c-0816-4e58-9a8f-2de3a6fd033f",
+    "browserHwid": null,
+    "username": "sigma_338145",
+    "userId": "10743424332",
+    "source": "script",
+    "createdAt": "2026-03-29T06:39:34.349Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.82.72.128",
+      "city": "Astana",
+      "region": "Astana",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
