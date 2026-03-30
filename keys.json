@@ -11412,5 +11412,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-3F09AC-BF1E2F-A5FBFE": {
+    "expires": "2026-03-31T01:12:00.923Z",
+    "hwid": "9732352598-852aebc2-282f-49f4-84be-364b5fcea7a8",
+    "browserHwid": null,
+    "username": "Mauuul_14",
+    "userId": "9732352598",
+    "source": "script",
+    "createdAt": "2026-03-30T01:12:01.375Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.143.1",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
