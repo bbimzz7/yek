@@ -12873,8 +12873,15 @@
     "userId": "2360042882",
     "source": "script",
     "createdAt": "2026-03-30T20:34:15.827Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-30T20:34:28.634Z",
     "geo": {
+      "ip": "68.204.50.43",
+      "city": "Cocoa",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "68.204.50.43",
       "city": "Cocoa",
       "region": "Florida",
