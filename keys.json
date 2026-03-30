@@ -11918,5 +11918,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-2C3E56-DD4C5C-E3C002": {
+    "expires": "2026-03-31T09:25:26.214Z",
+    "hwid": "2670829526-51486c6b-d639-48f4-980a-a963d86b9b9a",
+    "browserHwid": null,
+    "username": "Zafkiel789",
+    "userId": "2670829526",
+    "source": "script",
+    "createdAt": "2026-03-30T09:25:26.699Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.134.0.27",
+      "city": "Peshawar",
+      "region": "Khyber Pakhtunkhwa",
+      "country": "Pakistan",
+      "cc": "PK"
+    }
   }
 }
