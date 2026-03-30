@@ -12230,5 +12230,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-52BD14-7C8317-134433": {
+    "expires": "2026-03-31T13:06:32.929Z",
+    "hwid": null,
+    "browserHwid": "BR-77F0EFEE-R13TM",
+    "username": "gamer",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-30T13:06:33.465Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.20.116.2",
+      "city": "Sunāmganj",
+      "region": "Sylhet Division",
+      "country": "Bangladesh",
+      "cc": "BD"
+    }
   }
 }
