@@ -12984,5 +12984,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-092B95-27AE09-4A333A": {
+    "expires": "2026-03-31T22:21:35.980Z",
+    "hwid": "10469831949-94163cab-ae94-42a8-82ed-4e5850c57b8d",
+    "browserHwid": null,
+    "username": "itsme_dark234",
+    "userId": "10469831949",
+    "source": "script",
+    "createdAt": "2026-03-30T22:21:36.422Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.1.65.178",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
