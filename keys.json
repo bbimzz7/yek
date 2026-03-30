@@ -12552,5 +12552,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-85D1DB-6CAF7F-B3A49A": {
+    "expires": "2026-03-31T15:43:26.747Z",
+    "hwid": "9843901757-9bc05061-fe24-4a3d-a650-c949da03bdd0",
+    "browserHwid": null,
+    "username": "olapapu250",
+    "userId": "9843901757",
+    "source": "script",
+    "createdAt": "2026-03-30T15:43:27.250Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "148.101.40.190",
+      "city": "Santo Domingo",
+      "region": "Nacional",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
