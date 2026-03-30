@@ -12110,5 +12110,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-511CF3-71ADDB-D54617": {
+    "expires": "2026-03-31T11:02:07.351Z",
+    "hwid": "5063505458-550e4b9e-2970-4650-96fa-9c1ecaea848d",
+    "browserHwid": null,
+    "username": "flakawqq",
+    "userId": "5063505458",
+    "source": "script",
+    "createdAt": "2026-03-30T11:02:07.846Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.125.214.94",
+      "city": "Campinas",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
