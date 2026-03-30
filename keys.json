@@ -12143,8 +12143,15 @@
     "userId": "7273285237",
     "source": "script",
     "createdAt": "2026-03-30T11:14:30.226Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-30T11:14:58.664Z",
     "geo": {
+      "ip": "223.207.245.228",
+      "city": "Kamphaeng Phet",
+      "region": "Kamphaeng Phet",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "223.207.245.228",
       "city": "Kamphaeng Phet",
       "region": "Kamphaeng Phet",
