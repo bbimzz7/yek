@@ -11894,5 +11894,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-9C6A18-D89B3C-E7D8B2": {
+    "expires": "2026-03-31T09:07:33.786Z",
+    "hwid": "10733029802-9ad13102-d450-4541-a51e-1ac0114c070d",
+    "browserHwid": null,
+    "username": "ruslilew",
+    "userId": "10733029802",
+    "source": "script",
+    "createdAt": "2026-03-30T09:07:34.325Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "65.181.24.20",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
