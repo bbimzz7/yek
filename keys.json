@@ -12247,5 +12247,22 @@
       "country": "Bangladesh",
       "cc": "BD"
     }
+  },
+  "VH-1CB805-EAF2C4-7CB95B": {
+    "expires": "2026-03-31T13:14:00.023Z",
+    "hwid": "10357029719-412314e0-8bf2-41f9-b70d-6faa6443d275",
+    "browserHwid": null,
+    "username": "gabisaverif_jadihoki",
+    "userId": "10357029719",
+    "source": "script",
+    "createdAt": "2026-03-30T13:14:00.501Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.144.170.62",
+      "city": "Weleri",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
