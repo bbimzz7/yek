@@ -12600,5 +12600,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-983B70-851860-FD9EA1": {
+    "expires": "2026-03-31T16:48:46.228Z",
+    "hwid": "5200865809-04dc2d4d-1f2b-446c-a4d9-39865ec8908c",
+    "browserHwid": null,
+    "username": "Mansur9180",
+    "userId": "5200865809",
+    "source": "script",
+    "createdAt": "2026-03-30T16:48:46.736Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "195.7.13.68",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
