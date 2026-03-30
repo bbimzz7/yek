@@ -12960,5 +12960,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-D62577-3CFAF8-45EA45": {
+    "expires": "2026-03-31T21:14:23.777Z",
+    "hwid": "10601844878-3dd94f79-13f5-453f-b8e2-f98e3e1d39b9",
+    "browserHwid": null,
+    "username": "hola_707472",
+    "userId": "10601844878",
+    "source": "script",
+    "createdAt": "2026-03-30T21:14:24.029Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.204.182.32",
+      "city": "Guadalajara",
+      "region": "Jalisco",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
