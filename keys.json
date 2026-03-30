@@ -12319,5 +12319,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-0827FA-8FDE3D-1C599C": {
+    "expires": "2026-03-31T13:31:22.964Z",
+    "hwid": "10750173318-130fa3bc-2786-4916-afe1-0a6037ebe7f5",
+    "browserHwid": null,
+    "username": "Cyberion5",
+    "userId": "10750173318",
+    "source": "script",
+    "createdAt": "2026-03-30T13:31:23.308Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.191.233.119",
+      "city": "Cikupa",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
