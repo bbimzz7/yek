@@ -12912,5 +12912,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-1E0EF4-47FEF3-CAE70A": {
+    "expires": "2026-03-31T20:56:20.957Z",
+    "hwid": "10716550782-35BA935E-AA47-4717-B651-143BBE3521DC",
+    "browserHwid": null,
+    "username": "anonimowy21143",
+    "userId": "10716550782",
+    "source": "script",
+    "createdAt": "2026-03-30T20:56:21.485Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "84.205.164.195",
+      "city": "Sosnowiec",
+      "region": "Silesia",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
