@@ -11846,5 +11846,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F5D4B9-D9F6DC-410D72": {
+    "expires": "2026-03-31T08:24:43.485Z",
+    "hwid": "9740053215-7166b0c7-a5eb-4d4a-bd57-6c7a77fd8a59",
+    "browserHwid": null,
+    "username": "curi_509",
+    "userId": "9740053215",
+    "source": "script",
+    "createdAt": "2026-03-30T08:24:43.922Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.241.31.101",
+      "city": "Tarakan",
+      "region": "North Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
