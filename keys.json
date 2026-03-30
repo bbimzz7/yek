@@ -12792,5 +12792,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-96370B-77A4CB-3895A4": {
+    "expires": "2026-03-31T19:22:09.917Z",
+    "hwid": "8884060762-A97924D9-224F-4B40-B68F-1FF3CAC5A20B",
+    "browserHwid": null,
+    "username": "awHanin",
+    "userId": "8884060762",
+    "source": "script",
+    "createdAt": "2026-03-30T19:22:10.479Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.98.145",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
