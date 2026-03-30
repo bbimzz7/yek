@@ -12840,5 +12840,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-08F5C1-2BB970-63C966": {
+    "expires": "2026-03-31T19:37:56.965Z",
+    "hwid": "6121773889-663b6048-c7ba-4e43-8b25-e9329eaee62a",
+    "browserHwid": null,
+    "username": "rafi_12111",
+    "userId": "6121773889",
+    "source": "script",
+    "createdAt": "2026-03-30T19:37:57.493Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.169.195.147",
+      "city": "Jatiroto",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
