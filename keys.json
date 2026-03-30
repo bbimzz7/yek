@@ -11942,5 +11942,22 @@
       "country": "Pakistan",
       "cc": "PK"
     }
+  },
+  "VH-2D28A8-08406F-18CD86": {
+    "expires": "2026-03-31T09:36:33.603Z",
+    "hwid": "10645362512-747c2035-baa7-4430-b0ac-2aeff086177e",
+    "browserHwid": null,
+    "username": "salzzz1247",
+    "userId": "10645362512",
+    "source": "script",
+    "createdAt": "2026-03-30T09:36:34.181Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.69.117.186",
+      "city": "Duri",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
