@@ -11388,5 +11388,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-489D06-379182-8E658A": {
+    "expires": "2026-03-31T01:06:34.825Z",
+    "hwid": "1074569226-965FDE0D-63BB-4871-95DA-0BB0E8DA9263",
+    "browserHwid": null,
+    "username": "Maleezgg",
+    "userId": "1074569226",
+    "source": "script",
+    "createdAt": "2026-03-30T01:06:35.284Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "184.22.38.230",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
