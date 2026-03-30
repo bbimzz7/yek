@@ -12696,5 +12696,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-FE1CDD-519657-F829BF": {
+    "expires": "2026-03-31T17:59:07.093Z",
+    "hwid": "10682168058-62db2c30-9f99-4aba-a0e3-61d9dd26beea",
+    "browserHwid": null,
+    "username": "hackerpronovo1732",
+    "userId": "10682168058",
+    "source": "script",
+    "createdAt": "2026-03-30T17:59:07.647Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.6.30.28",
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
