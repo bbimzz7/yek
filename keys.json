@@ -12720,5 +12720,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-80B9EA-F25859-F08BDD": {
+    "expires": "2026-03-31T18:48:43.834Z",
+    "hwid": "8667848315-0720ebb6-6dae-43a6-bb90-78cd0bdf1377",
+    "browserHwid": null,
+    "username": "Lynxz_0804",
+    "userId": "8667848315",
+    "source": "script",
+    "createdAt": "2026-03-30T18:48:44.343Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.158.213",
+      "city": "Banjar Badung",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
