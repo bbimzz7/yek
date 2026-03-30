@@ -11532,5 +11532,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-D89B2B-D9948D-2EB020": {
+    "expires": "2026-03-31T02:54:13.169Z",
+    "hwid": "8182169240-C8945A9B-1F7F-4146-817B-9223B31D2610",
+    "browserHwid": null,
+    "username": "robloxdwyane6",
+    "userId": "8182169240",
+    "source": "script",
+    "createdAt": "2026-03-30T02:54:13.650Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.201.225.11",
+      "city": "Caloocan",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
