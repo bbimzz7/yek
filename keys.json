@@ -12816,5 +12816,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FA0AA7-67875E-4E6728": {
+    "expires": "2026-03-31T19:23:46.953Z",
+    "hwid": "3330874988-4ebb47e8-497e-480b-a791-4b0345a558da",
+    "browserHwid": null,
+    "username": "BananaBoi2255",
+    "userId": "3330874988",
+    "source": "script",
+    "createdAt": "2026-03-30T19:23:47.233Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.167.44.0",
+      "city": "Marseille",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
