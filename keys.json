@@ -12825,7 +12825,7 @@
     "userId": "3330874988",
     "source": "script",
     "createdAt": "2026-03-30T19:23:47.233Z",
-    "lastUsed": "2026-03-30T19:39:23.006Z",
+    "lastUsed": "2026-03-30T19:46:01.813Z",
     "geo": {
       "ip": "37.167.44.0",
       "city": "Marseille",
@@ -12834,9 +12834,9 @@
       "cc": "FR"
     },
     "lastGeo": {
-      "ip": "37.66.231.58",
-      "city": "Montpellier",
-      "region": "Occitanie",
+      "ip": "37.167.40.214",
+      "city": "Marseille",
+      "region": "Provence-Alpes-Côte d'Azur",
       "country": "France",
       "cc": "FR"
     }
