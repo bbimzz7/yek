@@ -11460,5 +11460,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-343E67-3A851B-4CFA9C": {
+    "expires": "2026-03-31T01:51:32.592Z",
+    "hwid": "5213840595-c24d362e-7f0c-4407-9dbe-34448d30b3fb",
+    "browserHwid": null,
+    "username": "MALAKHI_DABEST",
+    "userId": "5213840595",
+    "source": "script",
+    "createdAt": "2026-03-30T01:51:33.059Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.194.106.210",
+      "city": "Carteret",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
