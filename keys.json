@@ -12158,5 +12158,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-75F27E-120379-A195B4": {
+    "expires": "2026-03-31T11:18:24.562Z",
+    "hwid": "10562767738-A39403F8-AEF0-44C6-BAE8-6E9A50592110",
+    "browserHwid": null,
+    "username": "xnesync",
+    "userId": "10562767738",
+    "source": "script",
+    "createdAt": "2026-03-30T11:18:25.081Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.67.76",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
