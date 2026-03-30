@@ -13008,5 +13008,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-EF3E09-1BDB3F-04323B": {
+    "expires": "2026-03-31T22:56:26.780Z",
+    "hwid": "8905217847-8F672EA8-3B62-4D23-863B-F120507E22A4",
+    "browserHwid": null,
+    "username": "bananaraa2",
+    "userId": "8905217847",
+    "source": "script",
+    "createdAt": "2026-03-30T22:56:27.254Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.241.200.186",
+      "city": "Batam",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
