@@ -12086,5 +12086,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A59114-57DBF3-257815": {
+    "expires": "2026-03-31T10:54:09.260Z",
+    "hwid": "5116937057-747c2035-baa7-4430-b0ac-2aeff086177e",
+    "browserHwid": null,
+    "username": "MyBEAR20573",
+    "userId": "5116937057",
+    "source": "script",
+    "createdAt": "2026-03-30T10:54:09.517Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.69.117.186",
+      "city": "Duri",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
