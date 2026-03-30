@@ -12271,5 +12271,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A0F731-F4F7A1-E25FCA": {
+    "expires": "2026-03-31T13:24:46.967Z",
+    "hwid": "8925764081-be57bee1-aeb4-4b60-b67a-87ef42f180fc",
+    "browserHwid": null,
+    "username": "Alepinolos_11",
+    "userId": "8925764081",
+    "source": "script",
+    "createdAt": "2026-03-30T13:24:47.500Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "94.66.119.67",
+      "city": "Pátrai",
+      "region": "West Greece",
+      "country": "Greece",
+      "cc": "GR"
+    }
   }
 }
