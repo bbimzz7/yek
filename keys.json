@@ -11340,5 +11340,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-AE0D62-67F17E-0DEEAB": {
+    "expires": "2026-03-31T00:13:00.647Z",
+    "hwid": "5595520443-c91244e5-058a-4b54-afd2-4fb87ac33c09",
+    "browserHwid": null,
+    "username": "basam22a1",
+    "userId": "5595520443",
+    "source": "script",
+    "createdAt": "2026-03-30T00:13:01.207Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.206.82.73",
+      "city": "Erbil",
+      "region": "Erbil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
