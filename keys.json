@@ -12408,5 +12408,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-2190BB-C4A6FD-F2C7C0": {
+    "expires": "2026-03-31T14:18:28.058Z",
+    "hwid": "10716687686-695b0b5a-b04f-4ee6-93fd-1d9a55a85474",
+    "browserHwid": null,
+    "username": "si_kvk",
+    "userId": "10716687686",
+    "source": "script",
+    "createdAt": "2026-03-30T14:18:28.588Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.10.61.17",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
