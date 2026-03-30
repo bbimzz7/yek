@@ -12480,5 +12480,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FAD79E-15F60F-CB2822": {
+    "expires": "2026-03-31T14:53:26.681Z",
+    "hwid": "10085617600-6a323d70-b664-4377-9a2b-ad1b75ac3bde",
+    "browserHwid": null,
+    "username": "ertunamu3",
+    "userId": "10085617600",
+    "source": "script",
+    "createdAt": "2026-03-30T14:53:27.179Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.132.5.20",
+      "city": "Cyberjaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
