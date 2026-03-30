@@ -12504,5 +12504,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-2E039D-65A0A0-0B8930": {
+    "expires": "2026-03-31T15:06:09.155Z",
+    "hwid": "8746224765-4FCCC489-A8FE-4215-9EDB-90312A70B3E5",
+    "browserHwid": null,
+    "username": "V1rteks_hei",
+    "userId": "8746224765",
+    "source": "script",
+    "createdAt": "2026-03-30T15:06:09.706Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "91.95.1.23",
+      "city": "Tallinn",
+      "region": "Harjumaa",
+      "country": "Estonia",
+      "cc": "EE"
+    }
   }
 }
