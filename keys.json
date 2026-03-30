@@ -12864,5 +12864,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B4D676-774256-5A3B82": {
+    "expires": "2026-03-31T20:34:14.957Z",
+    "hwid": "2360042882-4ca2bf37-3924-41a8-9e6b-bfd4c1bb15b2",
+    "browserHwid": null,
+    "username": "Jdidkeidgi",
+    "userId": "2360042882",
+    "source": "script",
+    "createdAt": "2026-03-30T20:34:15.827Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "68.204.50.43",
+      "city": "Cocoa",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
