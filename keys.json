@@ -12014,5 +12014,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6958E8-98B1C9-4E83C7": {
+    "expires": "2026-03-31T10:42:01.702Z",
+    "hwid": "9769773066-5eea4b81-6c54-430c-a051-96035dd500a2",
+    "browserHwid": null,
+    "username": "maximusgame00",
+    "userId": "9769773066",
+    "source": "script",
+    "createdAt": "2026-03-30T10:42:02.246Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.16.58",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
