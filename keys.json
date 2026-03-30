@@ -12633,8 +12633,15 @@
     "userId": "8680167364",
     "source": "script",
     "createdAt": "2026-03-30T17:03:09.016Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-30T17:03:16.723Z",
     "geo": {
+      "ip": "169.40.50.56",
+      "city": "Mid Levels",
+      "region": "Central and Western District",
+      "country": "Hong Kong",
+      "cc": "HK"
+    },
+    "lastGeo": {
       "ip": "169.40.50.56",
       "city": "Mid Levels",
       "region": "Central and Western District",
