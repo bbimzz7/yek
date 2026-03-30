@@ -12888,5 +12888,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-2BFB3E-FD69A7-4995D5": {
+    "expires": "2026-03-31T20:45:29.946Z",
+    "hwid": "7384163502-eac147d1-db26-4e72-91e3-97f7e4a03f29",
+    "browserHwid": null,
+    "username": "euelve9h962",
+    "userId": "7384163502",
+    "source": "script",
+    "createdAt": "2026-03-30T20:45:30.497Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "89.110.82.223",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
