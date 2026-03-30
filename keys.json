@@ -12768,5 +12768,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-46282D-77A5FB-4AECE5": {
+    "expires": "2026-03-31T19:09:21.935Z",
+    "hwid": "3687693750-7402ff0f-6f72-4c9a-8f6f-99fba7ee4abd",
+    "browserHwid": null,
+    "username": "meowing_my",
+    "userId": "3687693750",
+    "source": "script",
+    "createdAt": "2026-03-30T19:09:22.419Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "193.108.119.35",
+      "city": "Frankfurt",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
