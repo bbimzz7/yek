@@ -11469,8 +11469,15 @@
     "userId": "5213840595",
     "source": "script",
     "createdAt": "2026-03-30T01:51:33.059Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-30T01:51:49.677Z",
     "geo": {
+      "ip": "73.194.106.210",
+      "city": "Carteret",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.194.106.210",
       "city": "Carteret",
       "region": "New Jersey",
