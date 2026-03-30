@@ -12753,8 +12753,15 @@
     "userId": "7900119454",
     "source": "script",
     "createdAt": "2026-03-30T18:53:17.302Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-30T18:53:28.791Z",
     "geo": {
+      "ip": "31.10.142.195",
+      "city": "Fislisbach",
+      "region": "Aargau",
+      "country": "Switzerland",
+      "cc": "CH"
+    },
+    "lastGeo": {
       "ip": "31.10.142.195",
       "city": "Fislisbach",
       "region": "Aargau",
