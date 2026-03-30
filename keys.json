@@ -11604,5 +11604,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F82677-00C192-D5CB03": {
+    "expires": "2026-03-31T04:48:22.902Z",
+    "hwid": "8589168230-e1af6574-3b55-429f-ba23-ac5999e71e7e",
+    "browserHwid": null,
+    "username": "tamaldegato80",
+    "userId": "8589168230",
+    "source": "script",
+    "createdAt": "2026-03-30T04:48:23.319Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.217.200.139",
+      "city": "Tlalpan",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
