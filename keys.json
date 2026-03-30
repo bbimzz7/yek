@@ -12936,5 +12936,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-1F8C78-C222D8-9B0252": {
+    "expires": "2026-03-31T21:10:42.615Z",
+    "hwid": "9438706855-7fc968e9-4896-40d6-b64f-94f214a8be44",
+    "browserHwid": null,
+    "username": "Matteo_10185",
+    "userId": "9438706855",
+    "source": "script",
+    "createdAt": "2026-03-30T21:10:43.154Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "217.244.129.32",
+      "city": "Fürth",
+      "region": "Bavaria",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
