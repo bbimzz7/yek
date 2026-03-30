@@ -12343,5 +12343,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3DABF0-0EE087-342003": {
+    "expires": "2026-03-31T13:34:43.880Z",
+    "hwid": "7699465605-7236ACF5-9C53-4CFA-A4B8-D7979D2FB984",
+    "browserHwid": null,
+    "username": "aurzell",
+    "userId": "7699465605",
+    "source": "script",
+    "createdAt": "2026-03-30T13:34:44.461Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "83.143.154.209",
+      "city": "Irkutsk",
+      "region": "Irkutsk Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
