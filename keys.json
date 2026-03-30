@@ -12528,5 +12528,22 @@
       "country": "Estonia",
       "cc": "EE"
     }
+  },
+  "VH-79CB8E-3463C1-0CA0BD": {
+    "expires": "2026-03-31T15:34:07.774Z",
+    "hwid": "8839377304-24ae5ceb-8e23-425e-8649-61a4fd32a094",
+    "browserHwid": null,
+    "username": "abyan12345769",
+    "userId": "8839377304",
+    "source": "script",
+    "createdAt": "2026-03-30T15:34:08.627Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.172.83",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
