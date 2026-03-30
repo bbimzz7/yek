@@ -12367,5 +12367,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-CD27B8-D0E544-DA181C": {
+    "expires": "2026-03-31T13:50:22.248Z",
+    "hwid": "3247941558-5f95365d-c04b-4814-9c0a-a7c762f34134",
+    "browserHwid": null,
+    "username": "f4x0o",
+    "userId": "3247941558",
+    "source": "script",
+    "createdAt": "2026-03-30T13:50:22.775Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.222.62.100",
+      "city": "Sulaymaniyah",
+      "region": "Sulaymaniyah Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
