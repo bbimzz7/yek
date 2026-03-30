@@ -12576,5 +12576,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-558535-9DABC2-BD2457": {
+    "expires": "2026-03-31T16:30:22.400Z",
+    "hwid": "4485721703-2d48c312-f351-4749-afa6-f8faac0230d1",
+    "browserHwid": null,
+    "username": "KeiKidsz",
+    "userId": "4485721703",
+    "source": "script",
+    "createdAt": "2026-03-30T16:30:22.915Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.66.128.172",
+      "city": "Kraksaan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
