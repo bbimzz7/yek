@@ -12648,5 +12648,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-0E82F4-D5F2CA-3B0BE2": {
+    "expires": "2026-03-31T17:21:50.106Z",
+    "hwid": "8156631202-5f18ded9-6619-47a9-bb58-e51cc425c4bc",
+    "browserHwid": null,
+    "username": "kentang_manisbngt0",
+    "userId": "8156631202",
+    "source": "script",
+    "createdAt": "2026-03-30T17:21:50.568Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.119.66.5",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
