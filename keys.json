@@ -12095,8 +12095,15 @@
     "userId": "5116937057",
     "source": "script",
     "createdAt": "2026-03-30T10:54:09.517Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-30T10:54:17.098Z",
     "geo": {
+      "ip": "36.69.117.186",
+      "city": "Duri",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.69.117.186",
       "city": "Duri",
       "region": "Riau",
