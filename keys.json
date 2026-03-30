@@ -12456,5 +12456,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F1099B-B85F68-3470B9": {
+    "expires": "2026-03-31T14:31:23.273Z",
+    "hwid": "8287862625-e1a2fe2e-dd7d-4eee-b82c-19420b5ee17a",
+    "browserHwid": null,
+    "username": "DINOST58",
+    "userId": "8287862625",
+    "source": "script",
+    "createdAt": "2026-03-30T14:31:23.752Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.133.63.165",
+      "city": "Metro",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
