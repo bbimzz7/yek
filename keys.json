@@ -12672,5 +12672,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-833D1B-DD5327-75AFFD": {
+    "expires": "2026-03-31T17:57:06.077Z",
+    "hwid": "7444476324-8DD107EF-DF9A-438F-A18A-B4F40490F3EA",
+    "browserHwid": null,
+    "username": "Nathanio354",
+    "userId": "7444476324",
+    "source": "script",
+    "createdAt": "2026-03-30T17:57:06.592Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "77.236.2.189",
+      "city": "Warsaw",
+      "region": "Mazovia",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
