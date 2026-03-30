@@ -10129,7 +10129,7 @@
     "userId": "10680590485",
     "source": "script",
     "createdAt": "2026-03-29T13:12:52.016Z",
-    "lastUsed": "2026-03-29T14:04:54.366Z",
+    "lastUsed": "2026-03-30T02:48:34.911Z",
     "geo": {
       "ip": "165.101.42.153",
       "city": "Utan",
@@ -10138,9 +10138,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "165.101.42.153",
-      "city": "Utan",
-      "region": "Jakarta",
+      "ip": "180.248.37.0",
+      "city": "Malang",
+      "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
     }
