@@ -13032,5 +13032,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-00D735-EB3806-71A396": {
+    "expires": "2026-03-31T23:06:09.262Z",
+    "hwid": "6182038469-f1af98f1-76c2-4387-b32c-58a0cf8c5b5a",
+    "browserHwid": null,
+    "username": "wzJy2tFFMd",
+    "userId": "6182038469",
+    "source": "script",
+    "createdAt": "2026-03-30T23:06:09.754Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.24.21.124",
+      "city": "Mukdahan",
+      "region": "Mukdahan",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
