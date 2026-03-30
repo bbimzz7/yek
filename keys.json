@@ -11436,5 +11436,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AD1A40-3127CA-EF751C": {
+    "expires": "2026-03-31T01:45:26.569Z",
+    "hwid": "8363898547-d27fcac3-8c23-4e46-9c5a-71bafea3da04",
+    "browserHwid": null,
+    "username": "SNEv2022",
+    "userId": "8363898547",
+    "source": "script",
+    "createdAt": "2026-03-30T01:45:27.021Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.176.66.28",
+      "city": "La Colpa",
+      "region": "La Libertad",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
