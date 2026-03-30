@@ -12744,5 +12744,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-443565-315358-A887DC": {
+    "expires": "2026-03-31T18:53:16.681Z",
+    "hwid": "7900119454-136341b2-df91-4a47-94ea-a0a8e6558751",
+    "browserHwid": null,
+    "username": "Negu_187",
+    "userId": "7900119454",
+    "source": "script",
+    "createdAt": "2026-03-30T18:53:17.302Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "31.10.142.195",
+      "city": "Fislisbach",
+      "region": "Aargau",
+      "country": "Switzerland",
+      "cc": "CH"
+    }
   }
 }
