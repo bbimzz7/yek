@@ -12384,5 +12384,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-52CE0D-EF6051-C6112F": {
+    "expires": "2026-03-31T14:17:10.475Z",
+    "hwid": "8244967029-25A45D1D-D228-4E44-936B-6D65AD3BF592",
+    "browserHwid": null,
+    "username": "123_lesmir1",
+    "userId": "8244967029",
+    "source": "script",
+    "createdAt": "2026-03-30T14:17:11.058Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "210.1.100.37",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
