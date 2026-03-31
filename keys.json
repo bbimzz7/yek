@@ -13392,5 +13392,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-770B18-C9AC90-BA78DE": {
+    "expires": "2026-04-01T05:06:44.950Z",
+    "hwid": "8482471494-3725dcb0-2132-4931-b9d1-dbea88dacca0",
+    "browserHwid": null,
+    "username": "Isaiahdagoatkr3",
+    "userId": "8482471494",
+    "source": "script",
+    "createdAt": "2026-03-31T05:06:45.395Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.111.36.219",
+      "city": "Atlanta",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
