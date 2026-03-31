@@ -12736,7 +12736,7 @@
     "userId": "8667848315",
     "source": "script",
     "createdAt": "2026-03-30T18:48:44.343Z",
-    "lastUsed": "2026-03-31T09:58:28.463Z",
+    "lastUsed": "2026-03-31T12:46:00.965Z",
     "geo": {
       "ip": "140.213.158.213",
       "city": "Banjar Badung",
@@ -12745,7 +12745,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.146.108",
+      "ip": "140.213.146.74",
       "city": "Banjar Badung",
       "region": "Bali",
       "country": "Indonesia",
