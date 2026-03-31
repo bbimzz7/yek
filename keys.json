@@ -14846,5 +14846,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-5D117A-38F278-A515ED": {
+    "expires": "2026-04-01T22:57:17.721Z",
+    "hwid": "9007775005-a6a5145d-ebd8-42ce-bff8-1195f6274919",
+    "browserHwid": null,
+    "username": "asepliar8",
+    "userId": "9007775005",
+    "source": "script",
+    "createdAt": "2026-03-31T22:57:18.037Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.221.203",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
