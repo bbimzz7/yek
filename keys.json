@@ -13440,5 +13440,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-FDD577-270FF3-016C75": {
+    "expires": "2026-04-01T06:02:16.075Z",
+    "hwid": "1408236657-3402aba7-5f02-48e2-a84a-7f0489f7d333",
+    "browserHwid": null,
+    "username": "dhalura",
+    "userId": "1408236657",
+    "source": "script",
+    "createdAt": "2026-03-31T06:02:16.561Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.94.32.14",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
