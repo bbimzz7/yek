@@ -13668,5 +13668,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-3E7B4C-E51E71-A91621": {
+    "expires": "2026-04-01T08:38:15.232Z",
+    "hwid": "454836040-7afed548-dc33-4d15-8828-f54c4092bfa8",
+    "browserHwid": null,
+    "username": "rendyno",
+    "userId": "454836040",
+    "source": "script",
+    "createdAt": "2026-03-31T08:38:15.751Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.42.55",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
