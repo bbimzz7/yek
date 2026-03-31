@@ -14468,5 +14468,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-63E6FF-6735DC-3F3C3C": {
+    "expires": "2026-04-01T16:32:31.525Z",
+    "hwid": "10755399136-e48a3266-5074-44b9-840a-f63486f70442",
+    "browserHwid": null,
+    "username": "rajavd77",
+    "userId": "10755399136",
+    "source": "script",
+    "createdAt": "2026-03-31T16:32:40.524Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.157.48.14",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
