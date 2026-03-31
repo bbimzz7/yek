@@ -13964,5 +13964,22 @@
       "country": "Australia",
       "cc": "AU"
     }
+  },
+  "VH-081821-8B2908-C67ED2": {
+    "expires": "2026-04-01T11:52:04.785Z",
+    "hwid": "2239986426-b61fde74-15da-451e-aded-6d0b0f9191f7",
+    "browserHwid": null,
+    "username": "tanqrfan1382",
+    "userId": "2239986426",
+    "source": "script",
+    "createdAt": "2026-03-31T11:52:06.625Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.34.254",
+      "city": "Pamulang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
