@@ -14615,8 +14615,15 @@
     "userId": "9779600676",
     "source": "script",
     "createdAt": "2026-03-31T19:13:06.601Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-31T19:13:19.441Z",
     "geo": {
+      "ip": "89.38.226.186",
+      "city": "Villajoyosa",
+      "region": "Valencia",
+      "country": "Spain",
+      "cc": "ES"
+    },
+    "lastGeo": {
       "ip": "89.38.226.186",
       "city": "Villajoyosa",
       "region": "Valencia",
