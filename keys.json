@@ -12376,13 +12376,20 @@
     "userId": "3247941558",
     "source": "script",
     "createdAt": "2026-03-30T13:50:22.775Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-31T11:08:56.850Z",
     "geo": {
       "ip": "176.222.62.100",
       "city": "Sulaymaniyah",
       "region": "Sulaymaniyah Governorate",
       "country": "Iraq",
       "cc": "IQ"
+    },
+    "lastGeo": {
+      "ip": "185.177.229.252",
+      "city": "Frankfurt",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
     }
   },
   "VH-52CE0D-EF6051-C6112F": {
