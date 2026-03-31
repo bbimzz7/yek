@@ -14134,8 +14134,15 @@
     "userId": "8504927623",
     "source": "script",
     "createdAt": "2026-03-31T13:05:56.503Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-31T13:07:44.940Z",
     "geo": {
+      "ip": "176.7.232.22",
+      "city": "Cologne",
+      "region": "North Rhine-Westphalia",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "176.7.232.22",
       "city": "Cologne",
       "region": "North Rhine-Westphalia",
