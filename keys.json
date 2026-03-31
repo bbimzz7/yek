@@ -14317,5 +14317,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-162C45-6832D5-51D76B": {
+    "expires": "2026-04-01T14:18:37.564Z",
+    "hwid": "5158646176-8459b412-f98d-4ab1-893f-2214073b8642",
+    "browserHwid": null,
+    "username": "yondi110",
+    "userId": "5158646176",
+    "source": "script",
+    "createdAt": "2026-03-31T14:18:38.140Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.38.95.58",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
