@@ -14855,11 +14855,18 @@
     "userId": "9007775005",
     "source": "script",
     "createdAt": "2026-03-31T22:57:18.037Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-31T22:57:37.128Z",
     "geo": {
       "ip": "112.215.221.203",
       "city": "Bandung",
       "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "112.215.64.189",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
