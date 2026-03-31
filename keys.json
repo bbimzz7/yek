@@ -13515,8 +13515,15 @@
     "userId": "10601844878",
     "source": "script",
     "createdAt": "2026-03-31T06:25:19.163Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-31T06:26:52.839Z",
     "geo": {
+      "ip": "187.204.182.32",
+      "city": "Guadalajara",
+      "region": "Jalisco",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.204.182.32",
       "city": "Guadalajara",
       "region": "Jalisco",
