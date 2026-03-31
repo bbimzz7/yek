@@ -14420,5 +14420,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-4273CA-7192A0-ECD49F": {
+    "expires": "2026-04-01T16:06:13.265Z",
+    "hwid": "10227966670-effa70df-c450-4051-bb92-77d20ffdc974",
+    "browserHwid": null,
+    "username": "PRABOW000000",
+    "userId": "10227966670",
+    "source": "script",
+    "createdAt": "2026-03-31T16:06:17.613Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.98.238",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
