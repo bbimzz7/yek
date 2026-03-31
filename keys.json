@@ -14173,5 +14173,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-1DD451-B5145A-41448B": {
+    "expires": "2026-04-01T13:19:29.682Z",
+    "hwid": "4976869886-9d540008-b788-46ef-b393-a4286b2a8f2d",
+    "browserHwid": null,
+    "username": "ROIOX26573m",
+    "userId": "4976869886",
+    "source": "script",
+    "createdAt": "2026-03-31T13:19:34.772Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.167.112.202",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
