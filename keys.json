@@ -14894,5 +14894,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-E7C8E6-524D68-C51DD6": {
+    "expires": "2026-04-01T23:15:55.525Z",
+    "hwid": "10376374886-9438ff57-f075-4834-9bd0-719e16e5b3cc",
+    "browserHwid": null,
+    "username": "MANZ07086",
+    "userId": "10376374886",
+    "source": "script",
+    "createdAt": "2026-03-31T23:15:55.823Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "183.171.158.121",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
