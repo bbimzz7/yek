@@ -14582,5 +14582,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-0EF8CC-A18828-86BD40": {
+    "expires": "2026-04-01T18:54:05.975Z",
+    "hwid": "10752372555-0433a2b4-d8c4-4654-a344-c234bf3a56eb",
+    "browserHwid": null,
+    "username": "svzivs",
+    "userId": "10752372555",
+    "source": "script",
+    "createdAt": "2026-03-31T18:54:06.465Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "105.188.28.183",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "country": "Morocco",
+      "cc": "MA"
+    }
   }
 }
