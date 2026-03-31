@@ -14012,5 +14012,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-984242-FF0F83-56C725": {
+    "expires": "2026-04-01T12:14:35.878Z",
+    "hwid": "4031654522-6ea882a5-1c55-4faa-a9ad-e660154fe2a0",
+    "browserHwid": null,
+    "username": "zjhggngs",
+    "userId": "4031654522",
+    "source": "script",
+    "createdAt": "2026-03-31T12:14:36.496Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.63.204.189",
+      "city": "Tashkent",
+      "region": "Tashkent",
+      "country": "Uzbekistan",
+      "cc": "UZ"
+    }
   }
 }
