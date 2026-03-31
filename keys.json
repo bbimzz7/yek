@@ -14543,8 +14543,15 @@
     "userId": "10701485898",
     "source": "script",
     "createdAt": "2026-03-31T17:17:11.641Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-31T17:20:52.715Z",
     "geo": {
+      "ip": "91.103.105.46",
+      "city": "Kyzylorda",
+      "region": "Qyzylorda Oblysy",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "91.103.105.46",
       "city": "Kyzylorda",
       "region": "Qyzylorda Oblysy",
