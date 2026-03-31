@@ -14021,8 +14021,15 @@
     "userId": "4031654522",
     "source": "script",
     "createdAt": "2026-03-31T12:14:36.496Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-31T12:16:13.384Z",
     "geo": {
+      "ip": "92.63.204.189",
+      "city": "Tashkent",
+      "region": "Tashkent",
+      "country": "Uzbekistan",
+      "cc": "UZ"
+    },
+    "lastGeo": {
       "ip": "92.63.204.189",
       "city": "Tashkent",
       "region": "Tashkent",
