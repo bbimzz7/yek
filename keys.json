@@ -13836,5 +13836,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-04ECBD-E76EA7-368044": {
+    "expires": "2026-04-01T11:00:19.837Z",
+    "hwid": "5496949710-F9F34A7B-2119-4DAD-9D72-5B2E014AB76D",
+    "browserHwid": null,
+    "username": "rayygntngg",
+    "userId": "5496949710",
+    "source": "script",
+    "createdAt": "2026-03-31T11:00:20.386Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.85.198.10",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
