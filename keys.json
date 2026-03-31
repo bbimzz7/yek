@@ -13867,5 +13867,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D9AA5C-01CD11-23B31E": {
+    "expires": "2026-04-01T11:12:38.586Z",
+    "hwid": "5565575769-39bca6e0-7f80-44b8-a84a-6cb8729225cc",
+    "browserHwid": null,
+    "username": "Lanzgardoqueofficial",
+    "userId": "5565575769",
+    "source": "script",
+    "createdAt": "2026-03-31T11:12:39.123Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.148.102.92",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
