@@ -14726,5 +14726,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-6E1E58-6604C5-510D69": {
+    "expires": "2026-04-01T20:10:36.099Z",
+    "hwid": "10109726056-285460e1-6e7c-4d09-863f-316e9fdf391f",
+    "browserHwid": null,
+    "username": "AruLLx19",
+    "userId": "10109726056",
+    "source": "script",
+    "createdAt": "2026-03-31T20:10:36.709Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.0.135.215",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
