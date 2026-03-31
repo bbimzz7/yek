@@ -13530,5 +13530,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-270D15-0E1AA6-8BD3BB": {
+    "expires": "2026-04-01T06:29:29.597Z",
+    "hwid": "10262692209-7ee4e639-ab6a-479d-80ab-0b01c2636f19",
+    "browserHwid": null,
+    "username": "dgthyjk5",
+    "userId": "10262692209",
+    "source": "script",
+    "createdAt": "2026-03-31T06:29:30.085Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.165.159.100",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
