@@ -13185,7 +13185,7 @@
     "userId": "10036889131",
     "source": "script",
     "createdAt": "2026-03-31T01:46:39.794Z",
-    "lastUsed": "2026-03-31T01:48:25.445Z",
+    "lastUsed": "2026-03-31T09:11:49.518Z",
     "geo": {
       "ip": "165.101.42.50",
       "city": "Utan",
@@ -13194,9 +13194,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "165.101.42.50",
-      "city": "Utan",
-      "region": "Jakarta",
+      "ip": "103.242.105.211",
+      "city": "Singaraja",
+      "region": "Bali",
       "country": "Indonesia",
       "cc": "ID"
     }
