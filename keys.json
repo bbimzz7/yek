@@ -14245,5 +14245,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-07BEC8-2B02C6-A97514": {
+    "expires": "2026-04-01T13:33:52.396Z",
+    "hwid": "8929900375-6f51a39b-e6a3-4cff-ac5c-e7993515dcfd",
+    "browserHwid": null,
+    "username": "real_babapro5",
+    "userId": "8929900375",
+    "source": "script",
+    "createdAt": "2026-03-31T13:33:52.898Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "57.128.181.105",
+      "city": "Erith",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
