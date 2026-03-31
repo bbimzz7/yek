@@ -14702,5 +14702,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-AECD58-1445B9-85D746": {
+    "expires": "2026-04-01T20:08:38.967Z",
+    "hwid": "10751691638-d2af416d-e376-45f4-ba34-0829793a65ff",
+    "browserHwid": null,
+    "username": "toprakqw3231",
+    "userId": "10751691638",
+    "source": "script",
+    "createdAt": "2026-03-31T20:08:39.275Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "93.88.156.4",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
+    }
   }
 }
