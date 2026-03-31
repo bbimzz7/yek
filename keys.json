@@ -13918,14 +13918,22 @@
   },
   "VH-46872A-72258C-A9776D": {
     "expires": "2026-04-01T11:42:05.462Z",
-    "hwid": null,
+    "hwid": "10754552266-8548c7c9-a124-46ee-ad4c-d4eeb1b2c8bb",
     "browserHwid": "BR-0FB89184-RH2A8",
     "username": "Fatzz_kecee01",
-    "userId": null,
+    "userId": "10754552266",
     "source": "browser",
     "createdAt": "2026-03-31T11:42:05.994Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-31T11:42:49.253Z",
     "geo": {
+      "ip": "160.25.197.123",
+      "city": "Blora",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-03-31T11:42:49.238Z",
+    "lastGeo": {
       "ip": "160.25.197.123",
       "city": "Blora",
       "region": "Central Java",
