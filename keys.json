@@ -13949,8 +13949,15 @@
     "userId": "5540446143",
     "source": "script",
     "createdAt": "2026-03-31T11:44:10.109Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-31T11:44:26.056Z",
     "geo": {
+      "ip": "114.72.143.109",
+      "city": "Canberra",
+      "region": "Australian Capital Territory",
+      "country": "Australia",
+      "cc": "AU"
+    },
+    "lastGeo": {
       "ip": "114.72.143.109",
       "city": "Canberra",
       "region": "Australian Capital Territory",
