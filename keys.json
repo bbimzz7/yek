@@ -14350,8 +14350,15 @@
     "userId": "4019731966",
     "source": "script",
     "createdAt": "2026-03-31T14:23:05.148Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-31T14:23:10.568Z",
     "geo": {
+      "ip": "182.9.193.198",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.9.193.198",
       "city": "Padang",
       "region": "West Sumatra",
