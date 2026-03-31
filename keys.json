@@ -14822,5 +14822,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-D33B6D-B5C6A6-1F78D0": {
+    "expires": "2026-04-01T22:53:02.767Z",
+    "hwid": "4410799552-79ED2BCE-12E0-4A28-A589-B74CE45923CB",
+    "browserHwid": null,
+    "username": "Certicurty11",
+    "userId": "4410799552",
+    "source": "script",
+    "createdAt": "2026-03-31T22:53:03.267Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.40.191.170",
+      "city": "Northampton",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
