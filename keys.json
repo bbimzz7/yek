@@ -13248,5 +13248,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-CEA69D-5C15DB-E1747D": {
+    "expires": "2026-04-01T02:06:25.403Z",
+    "hwid": "10680590485-49b1c769-15e2-4bc7-90f8-7cc8b11333a2",
+    "browserHwid": null,
+    "username": "x_VkNv",
+    "userId": "10680590485",
+    "source": "script",
+    "createdAt": "2026-03-31T02:06:25.782Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.248.37.0",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
