@@ -14606,5 +14606,22 @@
       "country": "Morocco",
       "cc": "MA"
     }
+  },
+  "VH-9D812E-2A40A2-EA9F06": {
+    "expires": "2026-04-01T19:13:06.074Z",
+    "hwid": "9779600676-d99f7b8f-dad6-46b5-9fb7-1ac156fbabcf",
+    "browserHwid": null,
+    "username": "Mert_pp1",
+    "userId": "9779600676",
+    "source": "script",
+    "createdAt": "2026-03-31T19:13:06.601Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "89.38.226.186",
+      "city": "Villajoyosa",
+      "region": "Valencia",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
