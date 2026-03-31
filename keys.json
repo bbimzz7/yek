@@ -12712,7 +12712,7 @@
     "userId": "10682168058",
     "source": "script",
     "createdAt": "2026-03-30T17:59:07.647Z",
-    "lastUsed": "2026-03-30T17:59:48.062Z",
+    "lastUsed": "2026-03-31T12:32:07.098Z",
     "geo": {
       "ip": "45.6.30.28",
       "city": "São Paulo",
@@ -12721,7 +12721,7 @@
       "cc": "BR"
     },
     "lastGeo": {
-      "ip": "45.6.30.28",
+      "ip": "45.233.113.96",
       "city": "São Paulo",
       "region": "São Paulo",
       "country": "Brazil",
