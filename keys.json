@@ -14831,8 +14831,15 @@
     "userId": "4410799552",
     "source": "script",
     "createdAt": "2026-03-31T22:53:03.267Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-31T22:53:11.801Z",
     "geo": {
+      "ip": "92.40.191.170",
+      "city": "Northampton",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "92.40.191.170",
       "city": "Northampton",
       "region": "England",
