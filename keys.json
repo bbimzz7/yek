@@ -13940,5 +13940,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-91E2E4-128252-2A622B": {
+    "expires": "2026-04-01T11:44:09.817Z",
+    "hwid": "5540446143-2120deda-301a-4dec-a2fe-242d0e5ebffc",
+    "browserHwid": null,
+    "username": "Alishguye14",
+    "userId": "5540446143",
+    "source": "script",
+    "createdAt": "2026-03-31T11:44:10.109Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.72.143.109",
+      "city": "Canberra",
+      "region": "Australian Capital Territory",
+      "country": "Australia",
+      "cc": "AU"
+    }
   }
 }
