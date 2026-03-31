@@ -14774,5 +14774,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-88C6A3-9BB38C-7B0B5D": {
+    "expires": "2026-04-01T22:22:45.524Z",
+    "hwid": "3522231487-9A9B4178-F4DE-45FC-8405-83ADA9390FD3",
+    "browserHwid": null,
+    "username": "flibor4567",
+    "userId": "3522231487",
+    "source": "script",
+    "createdAt": "2026-03-31T22:22:46.026Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.42.246.191",
+      "city": "Santiago",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
