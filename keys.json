@@ -14221,5 +14221,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B1C5CC-38BC0C-70F92C": {
+    "expires": "2026-04-01T13:26:53.990Z",
+    "hwid": "741687879-6c8b1fa7-c299-4dee-ad89-36f9cd49fc21",
+    "browserHwid": null,
+    "username": "bellagamers12345",
+    "userId": "741687879",
+    "source": "script",
+    "createdAt": "2026-03-31T13:26:54.540Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.73.95",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
