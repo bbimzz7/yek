@@ -14783,8 +14783,15 @@
     "userId": "3522231487",
     "source": "script",
     "createdAt": "2026-03-31T22:22:46.026Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-31T22:23:04.592Z",
     "geo": {
+      "ip": "181.42.246.191",
+      "city": "Santiago",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    },
+    "lastGeo": {
       "ip": "181.42.246.191",
       "city": "Santiago",
       "region": "Santiago Metropolitan",
