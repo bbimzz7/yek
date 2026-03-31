@@ -14678,5 +14678,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-C87CB4-F2286F-ADC990": {
+    "expires": "2026-04-01T20:07:57.570Z",
+    "hwid": "8658888403-e43e4b42-0a50-4093-aca0-8cf1e5bb003b",
+    "browserHwid": null,
+    "username": "litchloml",
+    "userId": "8658888403",
+    "source": "script",
+    "createdAt": "2026-03-31T20:08:00.333Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.6.129.247",
+      "city": "Taguig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
