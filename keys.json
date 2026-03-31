@@ -14558,5 +14558,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-B9C3C1-1654CD-52BE30": {
+    "expires": "2026-04-01T18:00:49.555Z",
+    "hwid": "5386581986-0e308946-6032-44e0-b20f-42a62a044d5f",
+    "browserHwid": null,
+    "username": "erickgamer6563",
+    "userId": "5386581986",
+    "source": "script",
+    "createdAt": "2026-03-31T18:00:50.090Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.161.133.233",
+      "city": "Guadalupe",
+      "region": "Nuevo León",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
