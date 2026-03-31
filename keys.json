@@ -14341,5 +14341,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-2FF9CF-FA2A2F-3A7883": {
+    "expires": "2026-04-01T14:23:04.773Z",
+    "hwid": "4019731966-45163CFC-FDC8-410E-8E37-A8A524B71BC1",
+    "browserHwid": null,
+    "username": "PolaPolayar",
+    "userId": "4019731966",
+    "source": "script",
+    "createdAt": "2026-03-31T14:23:05.148Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.193.198",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
