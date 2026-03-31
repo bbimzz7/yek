@@ -14494,8 +14494,15 @@
     "userId": "2588798524",
     "source": "script",
     "createdAt": "2026-03-31T16:38:28.749Z",
-    "lastUsed": null,
+    "lastUsed": "2026-03-31T16:40:40.632Z",
     "geo": {
+      "ip": "46.174.31.209",
+      "city": "Sanok",
+      "region": "Subcarpathia",
+      "country": "Poland",
+      "cc": "PL"
+    },
+    "lastGeo": {
       "ip": "46.174.31.209",
       "city": "Sanok",
       "region": "Subcarpathia",
