@@ -14036,5 +14036,22 @@
       "country": "Uzbekistan",
       "cc": "UZ"
     }
+  },
+  "VH-04FFAE-A68153-23F052": {
+    "expires": "2026-04-01T12:18:03.693Z",
+    "hwid": "9002602154-74f4769e-b4e7-47ff-b4cf-0027f571384f",
+    "browserHwid": null,
+    "username": "rex_rawwr1",
+    "userId": "9002602154",
+    "source": "script",
+    "createdAt": "2026-03-31T12:18:04.263Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.156.165.93",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
