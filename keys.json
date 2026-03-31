@@ -14444,5 +14444,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8FB018-A4FBE6-479602": {
+    "expires": "2026-04-01T16:20:39.979Z",
+    "hwid": "3321356677-d7e34b96-5b24-464f-a7ba-81f5eb41d385",
+    "browserHwid": null,
+    "username": "nitzakitty123",
+    "userId": "3321356677",
+    "source": "script",
+    "createdAt": "2026-03-31T16:20:40.510Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.68.144.38",
+      "city": "Leytonstone",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
