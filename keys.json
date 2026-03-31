@@ -14485,5 +14485,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CA85F7-CA6C8A-8F16CD": {
+    "expires": "2026-04-01T16:38:19.114Z",
+    "hwid": "2588798524-94FBB1E2-A781-4092-9A7B-A9DD763255C7",
+    "browserHwid": null,
+    "username": "Ma_rcelll",
+    "userId": "2588798524",
+    "source": "script",
+    "createdAt": "2026-03-31T16:38:28.749Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.174.31.209",
+      "city": "Sanok",
+      "region": "Subcarpathia",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
