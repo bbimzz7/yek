@@ -13200,5 +13200,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-69AD32-9B6410-D8C713": {
+    "expires": "2026-04-01T01:57:41.790Z",
+    "hwid": "8813110142-42c28c50-5377-4bc6-bb0c-e8ddd4ee6590",
+    "browserHwid": null,
+    "username": "dsyyy1612",
+    "userId": "8813110142",
+    "source": "script",
+    "createdAt": "2026-03-31T01:57:42.295Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.160.182.7",
+      "city": "Sumbersari Wetan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
