@@ -13915,5 +13915,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-46872A-72258C-A9776D": {
+    "expires": "2026-04-01T11:42:05.462Z",
+    "hwid": null,
+    "browserHwid": "BR-0FB89184-RH2A8",
+    "username": "Fatzz_kecee01",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-03-31T11:42:05.994Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.25.197.123",
+      "city": "Blora",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
