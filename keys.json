@@ -15439,5 +15439,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-888774-666C93-DD6957": {
+    "expires": "2026-04-02T09:38:52.940Z",
+    "hwid": "10673238993-7C836DBF-9946-4925-AFF7-26E37F0C3FB8",
+    "browserHwid": null,
+    "username": "GALAXYz_556",
+    "userId": "10673238993",
+    "source": "script",
+    "createdAt": "2026-04-01T09:38:53.443Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.254.106.60",
+      "city": "Labuhanmaringgai",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
