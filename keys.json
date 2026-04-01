@@ -15295,5 +15295,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E89AF3-D5E1F2-08A02E": {
+    "expires": "2026-04-02T08:25:22.618Z",
+    "hwid": "10396397307-847d9858-6bea-4be2-bda3-abd6762f51a9",
+    "browserHwid": null,
+    "username": "Jessica_im19",
+    "userId": "10396397307",
+    "source": "script",
+    "createdAt": "2026-04-01T08:25:23.213Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "122.2.75.255",
+      "city": "Pasig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
