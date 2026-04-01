@@ -16499,8 +16499,15 @@
     "userId": "8813110142",
     "source": "script",
     "createdAt": "2026-04-01T21:20:18.258Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T21:20:41.954Z",
     "geo": {
+      "ip": "103.160.182.7",
+      "city": "Sumbersari Wetan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.160.182.7",
       "city": "Sumbersari Wetan",
       "region": "East Java",
