@@ -15568,8 +15568,15 @@
     "userId": "10702272630",
     "source": "script",
     "createdAt": "2026-04-01T10:52:59.748Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T10:53:11.696Z",
     "geo": {
+      "ip": "36.68.54.195",
+      "city": "Pekalongan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.68.54.195",
       "city": "Pekalongan",
       "region": "Central Java",
