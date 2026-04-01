@@ -16043,8 +16043,15 @@
     "userId": "3018263571",
     "source": "script",
     "createdAt": "2026-04-01T15:05:18.551Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T15:07:25.901Z",
     "geo": {
+      "ip": "115.133.215.97",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "115.133.215.97",
       "city": "Kota Kinabalu",
       "region": "Sabah",
