@@ -13360,7 +13360,7 @@
     "userId": "3063291793",
     "source": "script",
     "createdAt": "2026-03-31T04:41:35.102Z",
-    "lastUsed": "2026-03-31T04:43:14.201Z",
+    "lastUsed": "2026-04-01T02:51:26.674Z",
     "geo": {
       "ip": "157.100.107.42",
       "city": "Guayaquil",
@@ -13369,7 +13369,7 @@
       "cc": "EC"
     },
     "lastGeo": {
-      "ip": "157.100.107.42",
+      "ip": "157.100.113.42",
       "city": "Guayaquil",
       "region": "Guayas",
       "country": "Ecuador",
