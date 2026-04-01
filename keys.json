@@ -15993,5 +15993,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-5DC142-423172-54DA7A": {
+    "expires": "2026-04-02T14:41:54.193Z",
+    "hwid": "7700262490-180d55da-e2ef-48cb-8a7e-09dd9154e07b",
+    "browserHwid": null,
+    "username": "sheine_46",
+    "userId": "7700262490",
+    "source": "script",
+    "createdAt": "2026-04-01T14:41:54.760Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.207.181.66",
+      "city": "Paranaque City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
