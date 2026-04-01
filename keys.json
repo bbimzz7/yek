@@ -16523,8 +16523,15 @@
     "userId": "7452273426",
     "source": "script",
     "createdAt": "2026-04-01T21:55:52.964Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T21:56:00.729Z",
     "geo": {
+      "ip": "190.34.47.32",
+      "city": "Panama City",
+      "region": "Provincia de Panamá",
+      "country": "Panama",
+      "cc": "PA"
+    },
+    "lastGeo": {
       "ip": "190.34.47.32",
       "city": "Panama City",
       "region": "Provincia de Panamá",
