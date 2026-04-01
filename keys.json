@@ -15631,5 +15631,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-43E198-8DDB60-44C3A0": {
+    "expires": "2026-04-02T11:27:29.209Z",
+    "hwid": "8667848315-0720ebb6-6dae-43a6-bb90-78cd0bdf1377",
+    "browserHwid": null,
+    "username": "Lynxz_0804",
+    "userId": "8667848315",
+    "source": "script",
+    "createdAt": "2026-04-01T11:27:31.602Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.200.97",
+      "city": "Batam",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
