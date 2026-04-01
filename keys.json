@@ -15808,8 +15808,15 @@
     "userId": "9854417040",
     "source": "script",
     "createdAt": "2026-04-01T12:45:20.267Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T12:50:11.946Z",
     "geo": {
+      "ip": "163.227.16.0",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "163.227.16.0",
       "city": "Depok",
       "region": "West Java",
