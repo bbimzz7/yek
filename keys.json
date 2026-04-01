@@ -15640,8 +15640,15 @@
     "userId": "8667848315",
     "source": "script",
     "createdAt": "2026-04-01T11:27:31.602Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T11:29:08.674Z",
     "geo": {
+      "ip": "112.215.200.97",
+      "city": "Batam",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "112.215.200.97",
       "city": "Batam",
       "region": "Riau",
