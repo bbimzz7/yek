@@ -16211,8 +16211,15 @@
     "userId": "3302547773",
     "source": "script",
     "createdAt": "2026-04-01T17:10:22.748Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T17:11:47.167Z",
     "geo": {
+      "ip": "38.252.153.36",
+      "city": "Huancayo",
+      "region": "Junin",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
       "ip": "38.252.153.36",
       "city": "Huancayo",
       "region": "Junin",
