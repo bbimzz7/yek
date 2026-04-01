@@ -16634,5 +16634,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1F81F8-FB5B43-E255BE": {
+    "expires": "2026-04-02T23:51:17.666Z",
+    "hwid": "8139170231-0edafb16-a9b1-4cf3-9a3b-451538542f86",
+    "browserHwid": null,
+    "username": "laba_sepat61",
+    "userId": "8139170231",
+    "source": "script",
+    "createdAt": "2026-04-01T23:51:18.223Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.3.123",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
