@@ -15607,5 +15607,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-670BEB-0AFEE4-17BB81": {
+    "expires": "2026-04-02T11:03:58.835Z",
+    "hwid": "3687693750-7402ff0f-6f72-4c9a-8f6f-99fba7ee4abd",
+    "browserHwid": null,
+    "username": "meowing_my",
+    "userId": "3687693750",
+    "source": "script",
+    "createdAt": "2026-04-01T11:03:59.349Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "23.166.88.26",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
+    }
   }
 }
