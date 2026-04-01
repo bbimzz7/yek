@@ -15352,8 +15352,15 @@
     "userId": "8096742720",
     "source": "script",
     "createdAt": "2026-04-01T08:51:01.285Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T08:51:13.139Z",
     "geo": {
+      "ip": "112.109.18.102",
+      "city": "Sidakaya",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "112.109.18.102",
       "city": "Sidakaya",
       "region": "Central Java",
