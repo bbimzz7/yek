@@ -15511,5 +15511,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-48C6C2-BBC8E5-146B80": {
+    "expires": "2026-04-02T10:18:31.101Z",
+    "hwid": "8680167364-783b0e2f-53d2-4b26-8172-e613674925f5",
+    "browserHwid": null,
+    "username": "Bbl_nopM4",
+    "userId": "8680167364",
+    "source": "script",
+    "createdAt": "2026-04-01T10:18:31.642Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.237.58.175",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
