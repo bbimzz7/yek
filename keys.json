@@ -16322,5 +16322,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-75A704-7EC906-0ECCC1": {
+    "expires": "2026-04-02T19:51:32.938Z",
+    "hwid": "10440342410-48eeb1ae-2176-40f3-9ab3-3b2e1d6e2671",
+    "browserHwid": null,
+    "username": "Crx7_777",
+    "userId": "10440342410",
+    "source": "script",
+    "createdAt": "2026-04-01T19:51:33.445Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.147.114.128",
+      "city": "Alicante",
+      "region": "Valencia",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
