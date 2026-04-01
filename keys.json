@@ -15223,5 +15223,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-485F8E-5C5D69-B96F89": {
+    "expires": "2026-04-02T06:55:53.137Z",
+    "hwid": "9005008405-65cd1fa8-00cf-40e5-8e25-bae2b4d4c41d",
+    "browserHwid": null,
+    "username": "cOOlkiDDakk2",
+    "userId": "9005008405",
+    "source": "script",
+    "createdAt": "2026-04-01T06:55:53.638Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.132.162.211",
+      "city": "Aktau",
+      "region": "Mangistauskaya Oblast'",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
