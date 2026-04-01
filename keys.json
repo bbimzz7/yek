@@ -15175,5 +15175,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-3AA777-5E7536-085D48": {
+    "expires": "2026-04-02T06:36:28.734Z",
+    "hwid": "7945207482-7803f959-ccbf-4a97-9743-01f1eddb6705",
+    "browserHwid": null,
+    "username": "khai_3031",
+    "userId": "7945207482",
+    "source": "script",
+    "createdAt": "2026-04-01T06:36:29.557Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.251.27",
+      "city": "Kota Samarahan",
+      "region": "Sarawak",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
