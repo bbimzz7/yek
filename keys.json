@@ -15319,5 +15319,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-839B43-61743C-5F2A34": {
+    "expires": "2026-04-02T08:38:15.842Z",
+    "hwid": "2788333783-ee01aa3b-bcab-438f-8c32-058386850851",
+    "browserHwid": null,
+    "username": "honeylemon89067",
+    "userId": "2788333783",
+    "source": "script",
+    "createdAt": "2026-04-01T08:38:16.358Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.94.18.1",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
