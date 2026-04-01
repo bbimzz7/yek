@@ -16250,5 +16250,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-8E9D7E-631198-91D5A8": {
+    "expires": "2026-04-02T18:19:21.487Z",
+    "hwid": "4919878172-fd6885e6-990e-40c1-afaa-9966eba83ecc",
+    "browserHwid": null,
+    "username": "raja41255",
+    "userId": "4919878172",
+    "source": "script",
+    "createdAt": "2026-04-01T18:19:22.056Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.255.212.180",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
