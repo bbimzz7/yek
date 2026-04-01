@@ -16202,5 +16202,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B4D045-E01BB7-D7D290": {
+    "expires": "2026-04-02T17:10:22.212Z",
+    "hwid": "3302547773-399895ff-3334-4333-b9b1-6982ed229fcd",
+    "browserHwid": null,
+    "username": "rsjdfrsedhbifsreuyi",
+    "userId": "3302547773",
+    "source": "script",
+    "createdAt": "2026-04-01T17:10:22.748Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.252.153.36",
+      "city": "Huancayo",
+      "region": "Junin",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
