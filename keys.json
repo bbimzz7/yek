@@ -15343,5 +15343,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D212EB-88D1B2-9C2D9E": {
+    "expires": "2026-04-02T08:51:00.763Z",
+    "hwid": "8096742720-352D5503-C303-4652-8863-1324684F22F7",
+    "browserHwid": null,
+    "username": "ventra_gantenk",
+    "userId": "8096742720",
+    "source": "script",
+    "createdAt": "2026-04-01T08:51:01.285Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.109.18.102",
+      "city": "Sidakaya",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
