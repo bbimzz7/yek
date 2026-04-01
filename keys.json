@@ -16034,5 +16034,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-DF2AF3-2C5AC4-49B9F4": {
+    "expires": "2026-04-02T15:05:18.047Z",
+    "hwid": "3018263571-93343862-cffb-4402-91cd-4e56ddb6bd45",
+    "browserHwid": null,
+    "username": "rayyanfayyat8",
+    "userId": "3018263571",
+    "source": "script",
+    "createdAt": "2026-04-01T15:05:18.551Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.133.215.97",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
