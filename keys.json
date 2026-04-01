@@ -15424,8 +15424,15 @@
     "userId": "6182038469",
     "source": "script",
     "createdAt": "2026-04-01T09:25:31.473Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T09:26:16.427Z",
     "geo": {
+      "ip": "1.0.239.185",
+      "city": "Ban Nong Waeng",
+      "region": "Udon Thani",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "1.0.239.185",
       "city": "Ban Nong Waeng",
       "region": "Udon Thani",
