@@ -16394,5 +16394,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-801B60-252D05-774C20": {
+    "expires": "2026-04-02T20:12:24.806Z",
+    "hwid": "8196184426-2a3afd56-dae8-483b-a114-c3f24575746e",
+    "browserHwid": null,
+    "username": "Gamerz_live3",
+    "userId": "8196184426",
+    "source": "script",
+    "createdAt": "2026-04-01T20:12:25.142Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.82.121.221",
+      "city": "Mirpur Khas",
+      "region": "Sindh",
+      "country": "Pakistan",
+      "cc": "PK"
+    }
   }
 }
