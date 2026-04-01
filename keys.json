@@ -14918,5 +14918,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-EDAD68-6CD627-3869B6": {
+    "expires": "2026-04-02T00:04:52.288Z",
+    "hwid": "4063760265-dbd11b61-46a3-4017-a8e1-75e498294411",
+    "browserHwid": null,
+    "username": "vzqriiv",
+    "userId": "4063760265",
+    "source": "script",
+    "createdAt": "2026-04-01T00:04:54.122Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.244.102.63",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
