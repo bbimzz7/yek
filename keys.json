@@ -16586,5 +16586,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-BEC22A-7140FF-5923D6": {
+    "expires": "2026-04-02T22:42:24.225Z",
+    "hwid": "1010919902-5414fa59-f58f-464e-aee0-26988b9d9ecb",
+    "browserHwid": null,
+    "username": "Josiahsm1219",
+    "userId": "1010919902",
+    "source": "script",
+    "createdAt": "2026-04-01T22:42:24.733Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.135.120.41",
+      "city": "Salisbury",
+      "region": "Maryland",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
