@@ -15905,8 +15905,15 @@
     "userId": "9361411846",
     "source": "script",
     "createdAt": "2026-04-01T13:38:50.756Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T13:38:56.284Z",
     "geo": {
+      "ip": "219.68.128.20",
+      "city": "Tainan",
+      "region": "Tainan",
+      "country": "Taiwan",
+      "cc": "TW"
+    },
+    "lastGeo": {
       "ip": "219.68.128.20",
       "city": "Tainan",
       "region": "Tainan",
