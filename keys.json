@@ -16298,5 +16298,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-BF4E9A-95E5E0-022351": {
+    "expires": "2026-04-02T19:25:20.264Z",
+    "hwid": "10301587548-f9614b9c-2620-49ac-8cdd-d4e4daecc43c",
+    "browserHwid": null,
+    "username": "inongg06",
+    "userId": "10301587548",
+    "source": "script",
+    "createdAt": "2026-04-01T19:25:20.805Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.108.32.78",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
