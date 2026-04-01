@@ -15376,8 +15376,15 @@
     "userId": "10370090949",
     "source": "script",
     "createdAt": "2026-04-01T08:57:43.718Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T08:58:39.178Z",
     "geo": {
+      "ip": "202.226.236.230",
+      "city": "Fukuoka",
+      "region": "Fukuoka",
+      "country": "Japan",
+      "cc": "JP"
+    },
+    "lastGeo": {
       "ip": "202.226.236.230",
       "city": "Fukuoka",
       "region": "Fukuoka",
