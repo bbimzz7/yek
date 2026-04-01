@@ -16139,8 +16139,15 @@
     "userId": "8363898547",
     "source": "script",
     "createdAt": "2026-04-01T16:17:07.293Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T16:17:15.149Z",
     "geo": {
+      "ip": "181.176.66.28",
+      "city": "La Colpa",
+      "region": "La Libertad",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
       "ip": "181.176.66.28",
       "city": "La Colpa",
       "region": "La Libertad",
