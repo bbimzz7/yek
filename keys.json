@@ -15871,5 +15871,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-6A57AB-F207FC-656D35": {
+    "expires": "2026-04-02T13:31:16.561Z",
+    "hwid": null,
+    "browserHwid": "BR-22945E01-3DA6U",
+    "username": "Ririn22851",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-01T13:31:16.887Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.142.255.58",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
