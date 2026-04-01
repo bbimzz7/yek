@@ -16331,8 +16331,15 @@
     "userId": "10440342410",
     "source": "script",
     "createdAt": "2026-04-01T19:51:33.445Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T19:53:03.995Z",
     "geo": {
+      "ip": "45.147.114.128",
+      "city": "Alicante",
+      "region": "Valencia",
+      "country": "Spain",
+      "cc": "ES"
+    },
+    "lastGeo": {
       "ip": "45.147.114.128",
       "city": "Alicante",
       "region": "Valencia",
