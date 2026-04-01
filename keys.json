@@ -16154,5 +16154,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-7A548A-1223B0-B590BC": {
+    "expires": "2026-04-02T16:25:46.357Z",
+    "hwid": "10759184402-59d1cbad-376a-4fd1-963c-d919fae841e0",
+    "browserHwid": null,
+    "username": "fcrfftrjrkr",
+    "userId": "10759184402",
+    "source": "script",
+    "createdAt": "2026-04-01T16:25:46.905Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.134.104.189",
+      "city": "Johor Bahru",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
