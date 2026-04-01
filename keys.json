@@ -15679,5 +15679,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-4276DC-0F7C9F-080AB0": {
+    "expires": "2026-04-02T12:15:08.909Z",
+    "hwid": "9660321554-30cc1a5a-5633-4c49-88e1-33dba237ea80",
+    "browserHwid": null,
+    "username": "Ashrul001",
+    "userId": "9660321554",
+    "source": "script",
+    "createdAt": "2026-04-01T12:15:09.449Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.166.9.11",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
