@@ -15847,5 +15847,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CEDA42-EB7BA0-A48556": {
+    "expires": "2026-04-02T13:27:50.919Z",
+    "hwid": "4885435577-7db453d2-21f6-4b4b-8611-a22d799215d3",
+    "browserHwid": null,
+    "username": "ryle_chiyo17",
+    "userId": "4885435577",
+    "source": "script",
+    "createdAt": "2026-04-01T13:27:51.500Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.94.67.45",
+      "city": "San Mateo",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
