@@ -16178,5 +16178,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-6A7D25-C82059-9BBCFF": {
+    "expires": "2026-04-02T16:56:20.152Z",
+    "hwid": "753522780-a01696eb-52c7-4178-9c50-c5a71eee2a86",
+    "browserHwid": null,
+    "username": "imam_6",
+    "userId": "753522780",
+    "source": "script",
+    "createdAt": "2026-04-01T16:56:20.692Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.168.225",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
