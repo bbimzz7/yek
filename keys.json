@@ -14999,8 +14999,15 @@
     "userId": "4463900686",
     "source": "script",
     "createdAt": "2026-04-01T00:36:38.607Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T00:36:57.386Z",
     "geo": {
+      "ip": "172.56.197.122",
+      "city": "Boston",
+      "region": "Massachusetts",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.56.197.122",
       "city": "Boston",
       "region": "Massachusetts",
