@@ -16475,8 +16475,15 @@
     "userId": "7386995892",
     "source": "script",
     "createdAt": "2026-04-01T20:59:20.232Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T21:00:18.781Z",
     "geo": {
+      "ip": "103.93.93.129",
+      "city": "Kertosono",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.93.93.129",
       "city": "Kertosono",
       "region": "East Java",
