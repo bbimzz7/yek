@@ -15920,5 +15920,22 @@
       "country": "Taiwan",
       "cc": "TW"
     }
+  },
+  "VH-24D0C3-C27E99-2B11C2": {
+    "expires": "2026-04-02T14:03:53.786Z",
+    "hwid": "195098417-1ee5c62e-2bff-436f-b39f-69b41938b308",
+    "browserHwid": null,
+    "username": "BuyBloxs",
+    "userId": "195098417",
+    "source": "script",
+    "createdAt": "2026-04-01T14:03:54.317Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.225.245",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
