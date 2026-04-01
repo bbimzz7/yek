@@ -14942,5 +14942,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-7F1F5A-F10761-E79E6D": {
+    "expires": "2026-04-02T00:09:59.932Z",
+    "hwid": "5095946561-fe754624-9591-4bd5-9025-87e190f9798b",
+    "browserHwid": null,
+    "username": "Snowmae_5",
+    "userId": "5095946561",
+    "source": "script",
+    "createdAt": "2026-04-01T00:10:00.430Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.20.150.12",
+      "city": "Phra Nakhon Si Ayutthaya",
+      "region": "Phra Nakhon Si Ayutthaya",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
