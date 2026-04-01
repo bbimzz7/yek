@@ -16346,5 +16346,22 @@
       "country": "Spain",
       "cc": "ES"
     }
+  },
+  "VH-CC2256-62869F-CB95DB": {
+    "expires": "2026-04-02T20:02:13.915Z",
+    "hwid": "8719360683-ED87A3FB-7079-4C74-83E6-FB6619D3A9A4",
+    "browserHwid": null,
+    "username": "PLUMPKINGSUGAR",
+    "userId": "8719360683",
+    "source": "script",
+    "createdAt": "2026-04-01T20:02:14.553Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.1.47",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
