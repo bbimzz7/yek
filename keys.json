@@ -15448,8 +15448,15 @@
     "userId": "10673238993",
     "source": "script",
     "createdAt": "2026-04-01T09:38:53.443Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T09:39:06.289Z",
     "geo": {
+      "ip": "103.254.106.60",
+      "city": "Labuhanmaringgai",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.254.106.60",
       "city": "Labuhanmaringgai",
       "region": "Lampung",
