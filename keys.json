@@ -16130,5 +16130,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-498BEC-EAE8B8-4E8C5E": {
+    "expires": "2026-04-02T16:17:06.823Z",
+    "hwid": "8363898547-5114c8d0-f195-4bd2-9629-7f0da4b63893",
+    "browserHwid": null,
+    "username": "SNEv2022",
+    "userId": "8363898547",
+    "source": "script",
+    "createdAt": "2026-04-01T16:17:07.293Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.176.66.28",
+      "city": "La Colpa",
+      "region": "La Libertad",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
