@@ -15160,13 +15160,20 @@
     "userId": "9245102179",
     "source": "script",
     "createdAt": "2026-04-01T04:00:32.604Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T04:00:42.278Z",
     "geo": {
       "ip": "125.167.59.164",
       "city": "Palembang",
       "region": "South Sumatra",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "69.17.5.233",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
     }
   }
 }
