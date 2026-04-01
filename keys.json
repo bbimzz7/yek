@@ -15023,13 +15023,20 @@
     "userId": "2319807660",
     "source": "script",
     "createdAt": "2026-04-01T00:39:13.259Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T00:39:23.793Z",
     "geo": {
       "ip": "203.83.40.58",
       "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.22.193.70",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
