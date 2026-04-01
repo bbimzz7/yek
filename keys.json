@@ -15367,5 +15367,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3263C8-409315-270D93": {
+    "expires": "2026-04-02T08:57:43.235Z",
+    "hwid": "10370090949-67cfe304-97a3-4f9a-8790-594d7baae320",
+    "browserHwid": null,
+    "username": "okakoto0",
+    "userId": "10370090949",
+    "source": "script",
+    "createdAt": "2026-04-01T08:57:43.718Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.226.236.230",
+      "city": "Fukuoka",
+      "region": "Fukuoka",
+      "country": "Japan",
+      "cc": "JP"
+    }
   }
 }
