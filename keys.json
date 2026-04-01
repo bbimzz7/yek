@@ -16058,5 +16058,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-171214-66D695-FA3A29": {
+    "expires": "2026-04-02T15:18:10.048Z",
+    "hwid": "10011647191-6b9f389a-bc22-4247-9f1d-2f90c609bfe9",
+    "browserHwid": null,
+    "username": "lift2392",
+    "userId": "10011647191",
+    "source": "script",
+    "createdAt": "2026-04-01T15:18:10.743Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "163.227.16.0",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
