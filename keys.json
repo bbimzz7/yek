@@ -15559,5 +15559,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1C5CD1-D75A60-E3F536": {
+    "expires": "2026-04-02T10:52:59.211Z",
+    "hwid": "10702272630-02785ce0-1e1c-4080-9afa-524daef200e5",
+    "browserHwid": null,
+    "username": "WellDipanggilNengok7",
+    "userId": "10702272630",
+    "source": "script",
+    "createdAt": "2026-04-01T10:52:59.748Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.68.54.195",
+      "city": "Pekalongan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
