@@ -16115,8 +16115,15 @@
     "userId": "6066687822",
     "source": "script",
     "createdAt": "2026-04-01T16:07:58.746Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T16:08:12.280Z",
     "geo": {
+      "ip": "138.0.44.21",
+      "city": "Saquarema",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "138.0.44.21",
       "city": "Saquarema",
       "region": "Rio de Janeiro",
