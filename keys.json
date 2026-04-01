@@ -15775,5 +15775,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-0A18D9-73C416-CA4DEA": {
+    "expires": "2026-04-02T12:38:29.861Z",
+    "hwid": "10746609106-d60a06b4-5865-4621-b219-cea9f80506c9",
+    "browserHwid": null,
+    "username": "Anedo58",
+    "userId": "10746609106",
+    "source": "script",
+    "createdAt": "2026-04-01T12:38:30.149Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "148.153.140.142",
+      "city": "Mumbai",
+      "region": "Maharashtra",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
