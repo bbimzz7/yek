@@ -16490,5 +16490,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4ED5D4-4F2957-E488E4": {
+    "expires": "2026-04-02T21:20:17.754Z",
+    "hwid": "8813110142-9ea4d168-41f6-4b1f-a282-c3432b088c8b",
+    "browserHwid": null,
+    "username": "dsyyy1612",
+    "userId": "8813110142",
+    "source": "script",
+    "createdAt": "2026-04-01T21:20:18.258Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.160.182.7",
+      "city": "Sumbersari Wetan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
