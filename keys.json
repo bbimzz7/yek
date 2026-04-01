@@ -15184,8 +15184,15 @@
     "userId": "7945207482",
     "source": "script",
     "createdAt": "2026-04-01T06:36:29.557Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T06:36:37.032Z",
     "geo": {
+      "ip": "27.125.251.27",
+      "city": "Kota Samarahan",
+      "region": "Sarawak",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "27.125.251.27",
       "city": "Kota Samarahan",
       "region": "Sarawak",
