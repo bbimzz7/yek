@@ -14975,8 +14975,15 @@
     "userId": "4897609177",
     "source": "script",
     "createdAt": "2026-04-01T00:10:15.837Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T00:10:23.906Z",
     "geo": {
+      "ip": "190.244.195.33",
+      "city": "Zárate",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "190.244.195.33",
       "city": "Zárate",
       "region": "Buenos Aires",
