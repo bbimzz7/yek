@@ -14990,5 +14990,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-6AC0EC-416515-959E9B": {
+    "expires": "2026-04-02T00:36:38.146Z",
+    "hwid": "4463900686-dca0f307-824d-48af-bee7-95deeec5c486",
+    "browserHwid": null,
+    "username": "Flashman_207",
+    "userId": "4463900686",
+    "source": "script",
+    "createdAt": "2026-04-01T00:36:38.607Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.197.122",
+      "city": "Boston",
+      "region": "Massachusetts",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
