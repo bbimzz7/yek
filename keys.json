@@ -14663,7 +14663,7 @@
     "userId": "10682168058",
     "source": "script",
     "createdAt": "2026-03-31T19:58:46.172Z",
-    "lastUsed": "2026-03-31T20:03:44.816Z",
+    "lastUsed": "2026-04-01T13:15:18.144Z",
     "geo": {
       "ip": "187.182.236.160",
       "city": "Guarulhos",
@@ -14672,8 +14672,8 @@
       "cc": "BR"
     },
     "lastGeo": {
-      "ip": "187.182.236.160",
-      "city": "Guarulhos",
+      "ip": "45.233.113.96",
+      "city": "São Paulo",
       "region": "São Paulo",
       "country": "Brazil",
       "cc": "BR"
