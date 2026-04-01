@@ -16514,5 +16514,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0E7FE1-C77657-19026C": {
+    "expires": "2026-04-02T21:55:52.459Z",
+    "hwid": "7452273426-E242D3BF-3EF4-40A0-BD8B-5AC1CE558005",
+    "browserHwid": null,
+    "username": "Fuzzsve",
+    "userId": "7452273426",
+    "source": "script",
+    "createdAt": "2026-04-01T21:55:52.964Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.34.47.32",
+      "city": "Panama City",
+      "region": "Provincia de Panamá",
+      "country": "Panama",
+      "cc": "PA"
+    }
   }
 }
