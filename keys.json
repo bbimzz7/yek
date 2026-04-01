@@ -16538,5 +16538,22 @@
       "country": "Panama",
       "cc": "PA"
     }
+  },
+  "VH-DDDC0F-B2FBE0-0EC2C7": {
+    "expires": "2026-04-02T21:56:07.084Z",
+    "hwid": "10669450668-80a3cc64-88d5-4331-9370-01eb4850fcaa",
+    "browserHwid": null,
+    "username": "Freddy90934",
+    "userId": "10669450668",
+    "source": "script",
+    "createdAt": "2026-04-01T21:56:07.414Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.89.204",
+      "city": "Phoenix",
+      "region": "Arizona",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
