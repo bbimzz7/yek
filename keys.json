@@ -15415,5 +15415,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2257A3-4C2B8E-D21E36": {
+    "expires": "2026-04-02T09:25:30.908Z",
+    "hwid": "6182038469-f1af98f1-76c2-4387-b32c-58a0cf8c5b5a",
+    "browserHwid": null,
+    "username": "wzJy2tFFMd",
+    "userId": "6182038469",
+    "source": "script",
+    "createdAt": "2026-04-01T09:25:31.473Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.0.239.185",
+      "city": "Ban Nong Waeng",
+      "region": "Udon Thani",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
