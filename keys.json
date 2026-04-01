@@ -16106,5 +16106,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9A9A51-CBE28C-4B413B": {
+    "expires": "2026-04-02T16:07:56.438Z",
+    "hwid": "6066687822-3D48DB10-5528-4AC0-BF59-AD6EF80DF6B7",
+    "browserHwid": null,
+    "username": "pedrofgld2011",
+    "userId": "6066687822",
+    "source": "script",
+    "createdAt": "2026-04-01T16:07:58.746Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.0.44.21",
+      "city": "Saquarema",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
