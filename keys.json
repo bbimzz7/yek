@@ -16010,5 +16010,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-C1ACC2-1C1B3D-17E271": {
+    "expires": "2026-04-02T15:04:15.118Z",
+    "hwid": "3330874988-F4F42473-26B7-49FE-BD97-0D65DCC66DE2",
+    "browserHwid": null,
+    "username": "BananaBoi2255",
+    "userId": "3330874988",
+    "source": "script",
+    "createdAt": "2026-04-01T15:04:15.694Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.66.231.58",
+      "city": "Montpellier",
+      "region": "Occitanie",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
