@@ -15856,8 +15856,15 @@
     "userId": "4885435577",
     "source": "script",
     "createdAt": "2026-04-01T13:27:51.500Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T13:28:00.466Z",
     "geo": {
+      "ip": "119.94.67.45",
+      "city": "San Mateo",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "119.94.67.45",
       "city": "San Mateo",
       "region": "Calabarzon",
