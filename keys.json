@@ -15391,5 +15391,22 @@
       "country": "Japan",
       "cc": "JP"
     }
+  },
+  "VH-EDB54C-34DCE7-54A26C": {
+    "expires": "2026-04-02T09:03:22.678Z",
+    "hwid": "9110947908-8EF0128D-8F9C-4EFC-B1FA-A002C3889DDF",
+    "browserHwid": null,
+    "username": "NibosT19",
+    "userId": "9110947908",
+    "source": "script",
+    "createdAt": "2026-04-01T09:03:23.173Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.152.203.49",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
