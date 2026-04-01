@@ -15896,5 +15896,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7BFF7D-870C54-2ABD1F": {
+    "expires": "2026-04-02T13:38:50.233Z",
+    "hwid": "9361411846-CD58CC83-0E0A-418E-9178-5BA3A83EE1A2",
+    "browserHwid": null,
+    "username": "xdcg3O8",
+    "userId": "9361411846",
+    "source": "script",
+    "createdAt": "2026-04-01T13:38:50.756Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "219.68.128.20",
+      "city": "Tainan",
+      "region": "Tainan",
+      "country": "Taiwan",
+      "cc": "TW"
+    }
   }
 }
