@@ -16403,8 +16403,15 @@
     "userId": "8196184426",
     "source": "script",
     "createdAt": "2026-04-01T20:12:25.142Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-01T20:12:32.316Z",
     "geo": {
+      "ip": "103.82.121.221",
+      "city": "Mirpur Khas",
+      "region": "Sindh",
+      "country": "Pakistan",
+      "cc": "PK"
+    },
+    "lastGeo": {
       "ip": "103.82.121.221",
       "city": "Mirpur Khas",
       "region": "Sindh",
