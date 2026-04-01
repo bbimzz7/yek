@@ -16466,5 +16466,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DC1534-CB5B71-6DD206": {
+    "expires": "2026-04-02T20:59:19.717Z",
+    "hwid": "7386995892-769fec5d-1470-4024-86bc-3b910b9cceb6",
+    "browserHwid": null,
+    "username": "Leonzzy6",
+    "userId": "7386995892",
+    "source": "script",
+    "createdAt": "2026-04-01T20:59:20.232Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.93.93.129",
+      "city": "Kertosono",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
