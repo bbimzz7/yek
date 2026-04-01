@@ -15969,5 +15969,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-647949-B248E0-B3AC65": {
+    "expires": "2026-04-02T14:40:33.581Z",
+    "hwid": "10185763566-7ab8dec5-3161-4bfc-abe5-61c896bd3c83",
+    "browserHwid": null,
+    "username": "MR_M1005alt1",
+    "userId": "10185763566",
+    "source": "script",
+    "createdAt": "2026-04-01T14:40:34.101Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.98.109.202",
+      "city": "Dubai",
+      "region": "Dubai",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
