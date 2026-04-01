@@ -14966,5 +14966,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-8DA485-38FF4D-6576E6": {
+    "expires": "2026-04-02T00:10:15.510Z",
+    "hwid": "4897609177-f0470168-a9e1-4b62-9fe9-68a12d1e50d1",
+    "browserHwid": null,
+    "username": "peter_parker64r",
+    "userId": "4897609177",
+    "source": "script",
+    "createdAt": "2026-04-01T00:10:15.837Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.244.195.33",
+      "city": "Zárate",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
