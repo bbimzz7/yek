@@ -15199,5 +15199,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-9BDB36-4DEFDE-2D33BA": {
+    "expires": "2026-04-02T06:38:41.958Z",
+    "hwid": "3592625199-7133715F-922B-4D27-99ED-7668BAE93D86",
+    "browserHwid": null,
+    "username": "Paringhot",
+    "userId": "3592625199",
+    "source": "script",
+    "createdAt": "2026-04-01T06:38:42.285Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.113.46",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
