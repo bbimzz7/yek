@@ -15014,5 +15014,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-A1FFA8-59BEDD-04C558": {
+    "expires": "2026-04-02T00:39:12.916Z",
+    "hwid": "2319807660-4c384ec8-6dd1-47da-acf7-64f728333766",
+    "browserHwid": null,
+    "username": "AGENT_47INDO",
+    "userId": "2319807660",
+    "source": "script",
+    "createdAt": "2026-04-01T00:39:13.259Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.83.40.58",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
