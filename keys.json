@@ -17035,5 +17035,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-926F25-E0F5B3-3AC7A1": {
+    "expires": "2026-04-03T07:08:55.470Z",
+    "hwid": "8984726288-9E54DD1A-46D1-472B-8CEF-DCAC4D777ED7",
+    "browserHwid": null,
+    "username": "Kakarot75271",
+    "userId": "8984726288",
+    "source": "script",
+    "createdAt": "2026-04-02T07:08:55.989Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.33.228",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
