@@ -2824,5 +2824,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-3A7517-6AF561-76B1EF": {
+    "expires": "2026-04-03T19:35:30.327Z",
+    "hwid": "741687879-6c8b1fa7-c299-4dee-ad89-36f9cd49fc21",
+    "browserHwid": null,
+    "username": "bellagamers12345",
+    "userId": "741687879",
+    "source": "script",
+    "createdAt": "2026-04-02T19:35:30.804Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.75.176",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
