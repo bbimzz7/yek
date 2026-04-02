@@ -2223,5 +2223,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-4A2A62-1B9A0A-7E0FEC": {
+    "expires": "2026-04-03T14:22:10.714Z",
+    "hwid": "10116549972-792475FA-29B3-4A33-8F2E-A4F8C97B460C",
+    "browserHwid": null,
+    "username": "penjoll_04",
+    "userId": "10116549972",
+    "source": "script",
+    "createdAt": "2026-04-02T14:22:11.191Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.246.177.169",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
