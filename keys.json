@@ -17158,14 +17158,22 @@
   },
   "VH-A4D563-D93D75-72A63E": {
     "expires": "2026-04-03T08:56:27.928Z",
-    "hwid": null,
+    "hwid": "4675051555-64e772d8-4589-4ad4-a5bd-a2d71a22a064",
     "browserHwid": "BR-37DDBFEF-V584L",
     "username": "skw1o1",
-    "userId": null,
+    "userId": "4675051555",
     "source": "browser",
     "createdAt": "2026-04-02T08:56:28.453Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T09:39:17.790Z",
     "geo": {
+      "ip": "188.50.38.99",
+      "city": "Riyadh",
+      "region": "Riyadh Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    },
+    "boundAt": "2026-04-02T09:39:17.782Z",
+    "lastGeo": {
       "ip": "188.50.38.99",
       "city": "Riyadh",
       "region": "Riyadh Region",
