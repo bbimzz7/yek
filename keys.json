@@ -17437,5 +17437,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-46CE4E-301793-975F87": {
+    "expires": "2026-04-03T11:48:13.048Z",
+    "hwid": "7945207482-2c9985d7-d4ad-4a6b-8487-df9bb8f9bd76",
+    "browserHwid": null,
+    "username": "khai_3031",
+    "userId": "7945207482",
+    "source": "script",
+    "createdAt": "2026-04-02T11:48:13.528Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.246.178",
+      "city": "Bakri",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
