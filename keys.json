@@ -2559,5 +2559,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-B7ECDA-BA5141-1B526D": {
+    "expires": "2026-04-03T17:22:37.811Z",
+    "hwid": "2820407874-C720EE82-F247-4473-AFC6-9282104ABBA3",
+    "browserHwid": null,
+    "username": "bratantop32",
+    "userId": "2820407874",
+    "source": "script",
+    "createdAt": "2026-04-02T17:22:38.177Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.105.165.11",
+      "city": "Shramkovka",
+      "region": "Cherkasy Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
