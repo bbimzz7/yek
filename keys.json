@@ -1872,13 +1872,20 @@
     "userId": "10759280672",
     "source": "script",
     "createdAt": "2026-04-02T11:57:11.457Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T11:58:53.330Z",
     "geo": {
       "ip": "77.111.245.14",
       "city": "Singapore",
       "region": "Central Singapore",
       "country": "Singapore",
       "cc": "SG"
+    },
+    "lastGeo": {
+      "ip": "176.172.97.35",
+      "city": "Lyon",
+      "region": "Rhône-Alpes",
+      "country": "France",
+      "cc": "FR"
     }
   }
 }
