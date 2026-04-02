@@ -2319,5 +2319,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A60EA4-DA6516-9BBC79": {
+    "expires": "2026-04-03T14:47:24.901Z",
+    "hwid": "8303163087-e191b063-7d06-48b0-827c-a041bb1602ee",
+    "browserHwid": null,
+    "username": "Paulo151342",
+    "userId": "8303163087",
+    "source": "script",
+    "createdAt": "2026-04-02T14:47:25.290Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "86.125.52.116",
+      "city": "Reghin",
+      "region": "Mureș County",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
