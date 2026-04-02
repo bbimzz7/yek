@@ -2992,5 +2992,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-ADCADF-8B48A0-F80115": {
+    "expires": "2026-04-03T22:36:25.407Z",
+    "hwid": "4254447715-177e4683-5cb0-47d7-8cb5-f2707fed37cd",
+    "browserHwid": null,
+    "username": "KELVINANAKANDREW2009",
+    "userId": "4254447715",
+    "source": "script",
+    "createdAt": "2026-04-02T22:36:25.766Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.223.205",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
