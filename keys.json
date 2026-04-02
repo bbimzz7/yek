@@ -2634,14 +2634,22 @@
   },
   "VH-01F6E9-C855EF-6459AB": {
     "expires": "2026-04-03T18:08:03.052Z",
-    "hwid": null,
+    "hwid": "9481106221-4697f29b-57b7-4296-a444-a3ac028b0012",
     "browserHwid": "BR-1BD9364F-4E1TJ",
     "username": "jejique4",
-    "userId": null,
+    "userId": "9481106221",
     "source": "browser",
     "createdAt": "2026-04-02T18:08:03.385Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T18:08:52.751Z",
     "geo": {
+      "ip": "190.83.119.36",
+      "city": "Guatemala City",
+      "region": "Guatemala",
+      "country": "Guatemala",
+      "cc": "GT"
+    },
+    "boundAt": "2026-04-02T18:08:52.728Z",
+    "lastGeo": {
       "ip": "190.83.119.36",
       "city": "Guatemala City",
       "region": "Guatemala",
