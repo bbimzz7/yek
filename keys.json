@@ -17372,5 +17372,22 @@
       "country": "Nepal",
       "cc": "NP"
     }
+  },
+  "VH-ED4BF5-6A92C1-CCD0A5": {
+    "expires": "2026-04-03T11:05:08.610Z",
+    "hwid": "6182038469-f1af98f1-76c2-4387-b32c-58a0cf8c5b5a",
+    "browserHwid": null,
+    "username": "wzJy2tFFMd",
+    "userId": "6182038469",
+    "source": "script",
+    "createdAt": "2026-04-02T11:05:09.123Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.24.21.124",
+      "city": "Mukdahan",
+      "region": "Mukdahan",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
