@@ -17333,8 +17333,15 @@
     "userId": "7700262490",
     "source": "script",
     "createdAt": "2026-04-02T10:30:07.130Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T10:31:19.886Z",
     "geo": {
+      "ip": "112.207.181.66",
+      "city": "Paranaque City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.207.181.66",
       "city": "Paranaque City",
       "region": "Metro Manila",
