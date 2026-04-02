@@ -2737,8 +2737,15 @@
     "userId": "1288391200",
     "source": "script",
     "createdAt": "2026-04-02T18:45:43.027Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T18:45:51.855Z",
     "geo": {
+      "ip": "94.242.58.134",
+      "city": "Stockholm",
+      "region": "Stockholm",
+      "country": "Sweden",
+      "cc": "SE"
+    },
+    "lastGeo": {
       "ip": "94.242.58.134",
       "city": "Stockholm",
       "region": "Stockholm",
