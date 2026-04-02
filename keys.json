@@ -17276,5 +17276,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-2130B6-35F92A-72D101": {
+    "expires": "2026-04-03T10:24:38.542Z",
+    "hwid": "8095258982-f570f279-a553-44bb-87cf-ac8e9b23874d",
+    "browserHwid": null,
+    "username": "hoohoo12309",
+    "userId": "8095258982",
+    "source": "script",
+    "createdAt": "2026-04-02T10:24:38.891Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.157.48.30",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
