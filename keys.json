@@ -17131,5 +17131,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C396BC-B0749F-C6677A": {
+    "expires": "2026-04-03T08:41:36.429Z",
+    "hwid": "9112785762-525D16B3-E524-4B9A-BD79-C970149FCDA9",
+    "browserHwid": null,
+    "username": "SecondDiablosa",
+    "userId": "9112785762",
+    "source": "script",
+    "createdAt": "2026-04-02T08:41:36.949Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.1.58",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
