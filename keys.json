@@ -2007,5 +2007,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-86BF16-B5D65D-B64801": {
+    "expires": "2026-04-03T12:23:45.184Z",
+    "hwid": "8617422571-3ab6760e-c456-4ba3-ba57-92a7e58fd970",
+    "browserHwid": null,
+    "username": "m0rphh14",
+    "userId": "8617422571",
+    "source": "script",
+    "createdAt": "2026-04-02T12:23:45.402Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.201.9",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
