@@ -17446,8 +17446,15 @@
     "userId": "7945207482",
     "source": "script",
     "createdAt": "2026-04-02T11:48:13.528Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T11:48:26.656Z",
     "geo": {
+      "ip": "27.125.246.178",
+      "city": "Bakri",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "27.125.246.178",
       "city": "Bakri",
       "region": "Johor",
