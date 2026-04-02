@@ -16939,5 +16939,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-A2B133-041CD0-7E91A9": {
+    "expires": "2026-04-03T04:48:42.874Z",
+    "hwid": "10529612404-9242edcf-99fd-49f4-950d-50abe1178344",
+    "browserHwid": null,
+    "username": "huuii_62",
+    "userId": "10529612404",
+    "source": "script",
+    "createdAt": "2026-04-02T04:48:43.401Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.150.32.158",
+      "city": "Nganggrek",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
