@@ -2064,8 +2064,15 @@
     "userId": "9235138840",
     "source": "script",
     "createdAt": "2026-04-02T12:53:52.217Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T12:54:01.113Z",
     "geo": {
+      "ip": "182.253.244.34",
+      "city": "Pacitan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.253.244.34",
       "city": "Pacitan",
       "region": "East Java",
