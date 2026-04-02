@@ -2785,8 +2785,15 @@
     "userId": "9981688612",
     "source": "script",
     "createdAt": "2026-04-02T19:23:01.736Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T19:23:13.204Z",
     "geo": {
+      "ip": "202.6.193.8",
+      "city": "Karanganyar",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "202.6.193.8",
       "city": "Karanganyar",
       "region": "Central Java",
