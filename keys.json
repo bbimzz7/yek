@@ -2544,8 +2544,15 @@
     "userId": "10683082512",
     "source": "script",
     "createdAt": "2026-04-02T17:05:29.362Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T17:06:55.844Z",
     "geo": {
+      "ip": "132.184.55.147",
+      "city": "Trujillo",
+      "region": "La Libertad",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
       "ip": "132.184.55.147",
       "city": "Trujillo",
       "region": "La Libertad",
