@@ -2920,5 +2920,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-301DF3-EB67EB-FBAFA0": {
+    "expires": "2026-04-03T21:28:13.753Z",
+    "hwid": "4056781763-fb1c3dca-5b61-4fc1-ba3f-96edbf46ef54",
+    "browserHwid": null,
+    "username": "capitao_ussop7",
+    "userId": "4056781763",
+    "source": "script",
+    "createdAt": "2026-04-02T21:28:14.141Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.181.97.89",
+      "city": "Bragança Paulista",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
