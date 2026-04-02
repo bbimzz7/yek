@@ -16891,5 +16891,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-1F0B43-5AFB6B-E32EE1": {
+    "expires": "2026-04-03T03:55:46.098Z",
+    "hwid": "9112785762-1422D183-63D9-4891-9CEE-DDF1574F4A6B",
+    "browserHwid": null,
+    "username": "SecondDiablosa",
+    "userId": "9112785762",
+    "source": "script",
+    "createdAt": "2026-04-02T03:55:46.607Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.217.122",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
