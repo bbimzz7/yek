@@ -17011,5 +17011,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-9E4D24-555A98-293D88": {
+    "expires": "2026-04-03T07:01:08.874Z",
+    "hwid": "7872135739-87fdc7d1-51e2-458b-8612-6b351d02550b",
+    "browserHwid": null,
+    "username": "soyel_soportador3000",
+    "userId": "7872135739",
+    "source": "script",
+    "createdAt": "2026-04-02T07:01:09.528Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "200.92.188.90",
+      "city": "Acapulco de Juárez",
+      "region": "Guerrero",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
