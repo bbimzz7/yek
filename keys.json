@@ -2968,5 +2968,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-90DD06-EEF359-815980": {
+    "expires": "2026-04-03T22:24:02.451Z",
+    "hwid": "8221525443-08b81181-a93e-4db7-a8df-bfc95d48ab8f",
+    "browserHwid": null,
+    "username": "VAPO_VAPO124",
+    "userId": "8221525443",
+    "source": "script",
+    "createdAt": "2026-04-02T22:24:02.824Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.136.37.227",
+      "city": "Salvador",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
