@@ -2800,5 +2800,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4D44B9-FB78CA-50C9E5": {
+    "expires": "2026-04-03T19:26:46.621Z",
+    "hwid": "8940933403-9bf647a7-ec9c-4b24-9566-31b3da8780f5",
+    "browserHwid": null,
+    "username": "brux_127",
+    "userId": "8940933403",
+    "source": "script",
+    "createdAt": "2026-04-02T19:26:46.820Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.242.243.43",
+      "city": "Xochimilco",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
