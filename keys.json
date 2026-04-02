@@ -2088,8 +2088,15 @@
     "userId": "4098048831",
     "source": "script",
     "createdAt": "2026-04-02T12:54:36.516Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T12:57:42.392Z",
     "geo": {
+      "ip": "120.29.69.34",
+      "city": "Clark",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "120.29.69.34",
       "city": "Clark",
       "region": "Central Luzon",
