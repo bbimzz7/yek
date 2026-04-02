@@ -1959,5 +1959,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B52524-FF800B-1DDE74": {
+    "expires": "2026-04-03T12:18:47.203Z",
+    "hwid": "3687693750-7402ff0f-6f72-4c9a-8f6f-99fba7ee4abd",
+    "browserHwid": null,
+    "username": "meowing_my",
+    "userId": "3687693750",
+    "source": "script",
+    "createdAt": "2026-04-02T12:18:47.395Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "23.166.88.26",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
+    }
   }
 }
