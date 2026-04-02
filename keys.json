@@ -16675,5 +16675,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D870ED-03EB59-568B79": {
+    "expires": "2026-04-03T01:01:21.167Z",
+    "hwid": "3189181179-199c13e9-1ad8-4063-b3b5-319cb4b7724f",
+    "browserHwid": null,
+    "username": "fympoisonedfent",
+    "userId": "3189181179",
+    "source": "script",
+    "createdAt": "2026-04-02T01:01:21.629Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "69.118.19.56",
+      "city": "Pearl River",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
