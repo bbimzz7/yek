@@ -16747,5 +16747,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-6FA833-A9A7BD-C1AE8A": {
+    "expires": "2026-04-03T02:38:23.487Z",
+    "hwid": "9054847281-5A527638-AB3B-42EA-B9C7-191C1CC25E6F",
+    "browserHwid": null,
+    "username": "RyzePlitBeyfe",
+    "userId": "9054847281",
+    "source": "script",
+    "createdAt": "2026-04-02T02:38:23.995Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.159.28",
+      "city": "Bruckneudorf",
+      "region": "Burgenland",
+      "country": "Austria",
+      "cc": "AT"
+    }
   }
 }
