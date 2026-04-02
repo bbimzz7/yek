@@ -2247,5 +2247,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B695EE-AE7846-3C9378": {
+    "expires": "2026-04-03T14:26:03.931Z",
+    "hwid": "231925783-9A2A6AE1-AFE2-4710-BEDD-BFBC01EC10B6",
+    "browserHwid": null,
+    "username": "SuperGladiator354",
+    "userId": "231925783",
+    "source": "script",
+    "createdAt": "2026-04-02T14:26:04.318Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.103.150",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
