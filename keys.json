@@ -17381,8 +17381,15 @@
     "userId": "6182038469",
     "source": "script",
     "createdAt": "2026-04-02T11:05:09.123Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T11:05:19.440Z",
     "geo": {
+      "ip": "125.24.21.124",
+      "city": "Mukdahan",
+      "region": "Mukdahan",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "125.24.21.124",
       "city": "Mukdahan",
       "region": "Mukdahan",
