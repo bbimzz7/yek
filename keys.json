@@ -17196,5 +17196,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-F9345A-317406-F0B121": {
+    "expires": "2026-04-03T09:13:52.546Z",
+    "hwid": "10575859914-5a1cb89e-f199-416b-901f-11938b20290b",
+    "browserHwid": null,
+    "username": "gatitonoob_9",
+    "userId": "10575859914",
+    "source": "script",
+    "createdAt": "2026-04-02T09:13:53.017Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.173.67.213",
+      "city": "Apodaca",
+      "region": "Nuevo León",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
