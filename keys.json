@@ -1887,5 +1887,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-DC061A-0C67E2-CB1095": {
+    "expires": "2026-04-03T12:10:50.176Z",
+    "hwid": "10199173544-5f71c5a4-3b3a-49ba-a16a-b54615772071",
+    "browserHwid": null,
+    "username": "Shawarmakioskmaster",
+    "userId": "10199173544",
+    "source": "script",
+    "createdAt": "2026-04-02T12:10:50.575Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.28.10",
+      "city": "Paranaque City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
