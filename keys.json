@@ -2583,5 +2583,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-258BD3-B5429E-5A273D": {
+    "expires": "2026-04-03T17:41:37.201Z",
+    "hwid": "10682168058-62db2c30-9f99-4aba-a0e3-61d9dd26beea",
+    "browserHwid": null,
+    "username": "hackerpronovo1732",
+    "userId": "10682168058",
+    "source": "script",
+    "createdAt": "2026-04-02T17:41:37.564Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.182.236.160",
+      "city": "Guarulhos",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
