@@ -16699,5 +16699,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-9235FF-5B8BE1-FCE2D0": {
+    "expires": "2026-04-03T01:36:48.647Z",
+    "hwid": "7273770173-c9fa8c70-caec-4f11-8f9a-b2437f36c9ae",
+    "browserHwid": null,
+    "username": "locff_55",
+    "userId": "7273770173",
+    "source": "script",
+    "createdAt": "2026-04-02T01:36:49.095Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.54.206.225",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
