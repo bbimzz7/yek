@@ -2384,5 +2384,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-224034-400BB9-14FCD5": {
+    "expires": "2026-04-03T14:55:14.124Z",
+    "hwid": "8369284202-d5352ee4-ca5d-4d54-83b9-57f9cfc5d524",
+    "browserHwid": null,
+    "username": "BLADp170",
+    "userId": "8369284202",
+    "source": "script",
+    "createdAt": "2026-04-02T14:55:14.414Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "148.153.140.197",
+      "city": "Mumbai",
+      "region": "Maharashtra",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
