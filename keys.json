@@ -2079,5 +2079,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F49505-678FFC-D55D15": {
+    "expires": "2026-04-03T12:54:36.299Z",
+    "hwid": "4098048831-4419a7ad-2724-42cf-b9fe-9bd9394605f8",
+    "browserHwid": null,
+    "username": "ZaneJireh",
+    "userId": "4098048831",
+    "source": "script",
+    "createdAt": "2026-04-02T12:54:36.516Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.29.69.34",
+      "city": "Clark",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
