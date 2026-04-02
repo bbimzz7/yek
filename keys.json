@@ -2607,5 +2607,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-6C7309-9BC4DB-444222": {
+    "expires": "2026-04-03T17:50:32.859Z",
+    "hwid": "4295462831-e38ac11f-2d22-48f2-913b-6742fefaa044",
+    "browserHwid": null,
+    "username": "8eieieuudduudh3b3",
+    "userId": "4295462831",
+    "source": "script",
+    "createdAt": "2026-04-02T17:50:33.342Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.107.95.172",
+      "city": "Rio de Janeiro",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
