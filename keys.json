@@ -2680,5 +2680,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-D95410-88C0B1-41E9B2": {
+    "expires": "2026-04-03T18:18:14.567Z",
+    "hwid": "9175837357-a8591309-e7d6-4159-af0b-d492722a2cc5",
+    "browserHwid": null,
+    "username": "misho124971",
+    "userId": "9175837357",
+    "source": "script",
+    "createdAt": "2026-04-02T18:18:15.000Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.108.9.164",
+      "city": "Xalapa",
+      "region": "Veracruz",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
