@@ -2761,8 +2761,15 @@
     "userId": "7125802272",
     "source": "script",
     "createdAt": "2026-04-02T19:19:51.627Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T19:19:57.532Z",
     "geo": {
+      "ip": "95.5.42.75",
+      "city": "Nevşehir",
+      "region": "Nevşehir Province",
+      "country": "Türkiye",
+      "cc": "TR"
+    },
+    "lastGeo": {
       "ip": "95.5.42.75",
       "city": "Nevşehir",
       "region": "Nevşehir Province",
