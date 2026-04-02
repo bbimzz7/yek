@@ -2977,8 +2977,15 @@
     "userId": "8221525443",
     "source": "script",
     "createdAt": "2026-04-02T22:24:02.824Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T22:26:37.157Z",
     "geo": {
+      "ip": "177.136.37.227",
+      "city": "Salvador",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.136.37.227",
       "city": "Salvador",
       "region": "Bahia",
