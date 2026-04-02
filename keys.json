@@ -2415,5 +2415,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-5D47E8-73DC1C-224BDE": {
+    "expires": "2026-04-03T15:03:34.092Z",
+    "hwid": "9854417040-a3fa809a-2bfc-4ccb-82ed-97ff2691b5c5",
+    "browserHwid": null,
+    "username": "Yogiri_Same001",
+    "userId": "9854417040",
+    "source": "script",
+    "createdAt": "2026-04-02T15:03:34.482Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "163.227.16.0",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
