@@ -17092,8 +17092,15 @@
     "userId": "4577688742",
     "source": "script",
     "createdAt": "2026-04-02T08:20:34.289Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T08:20:49.992Z",
     "geo": {
+      "ip": "110.136.144.133",
+      "city": "Sukabumi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "110.136.144.133",
       "city": "Sukabumi",
       "region": "West Java",
