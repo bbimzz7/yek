@@ -2776,5 +2776,22 @@
       "country": "Türkiye",
       "cc": "TR"
     }
+  },
+  "VH-53D478-E324EC-31F32B": {
+    "expires": "2026-04-03T19:23:01.346Z",
+    "hwid": "9981688612-d9504f45-052c-4b5b-afb4-bffa858bca4f",
+    "browserHwid": null,
+    "username": "JUNGGO_47",
+    "userId": "9981688612",
+    "source": "script",
+    "createdAt": "2026-04-02T19:23:01.736Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.6.193.8",
+      "city": "Karanganyar",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
