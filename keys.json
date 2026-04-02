@@ -2343,5 +2343,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-C77003-A712C4-48B136": {
+    "expires": "2026-04-03T14:53:37.359Z",
+    "hwid": "9312986086-af732710-064a-4015-ab9b-c314d27e6243",
+    "browserHwid": null,
+    "username": "Ririn22851",
+    "userId": "9312986086",
+    "source": "script",
+    "createdAt": "2026-04-02T14:53:37.706Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.142.255.58",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
