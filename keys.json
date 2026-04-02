@@ -2944,5 +2944,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-4D4217-4FD927-890574": {
+    "expires": "2026-04-03T21:50:04.165Z",
+    "hwid": "9004766786-1F106EDA-75CA-475D-9479-0FA1064367C5",
+    "browserHwid": null,
+    "username": "sadawd1213s",
+    "userId": "9004766786",
+    "source": "script",
+    "createdAt": "2026-04-02T21:50:04.503Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.58.129.228",
+      "city": "Miami",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
