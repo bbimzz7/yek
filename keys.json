@@ -2728,5 +2728,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-D751E9-115CC9-8A9947": {
+    "expires": "2026-04-03T18:45:42.659Z",
+    "hwid": "1288391200-9b6fbcac-9e7d-47ce-a935-51b7e5545baf",
+    "browserHwid": null,
+    "username": "CorvusHalk",
+    "userId": "1288391200",
+    "source": "script",
+    "createdAt": "2026-04-02T18:45:43.027Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "94.242.58.134",
+      "city": "Stockholm",
+      "region": "Stockholm",
+      "country": "Sweden",
+      "cc": "SE"
+    }
   }
 }
