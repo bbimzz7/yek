@@ -2328,8 +2328,15 @@
     "userId": "8303163087",
     "source": "script",
     "createdAt": "2026-04-02T14:47:25.290Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T14:48:22.253Z",
     "geo": {
+      "ip": "86.125.52.116",
+      "city": "Reghin",
+      "region": "Mureș County",
+      "country": "Romania",
+      "cc": "RO"
+    },
+    "lastGeo": {
       "ip": "86.125.52.116",
       "city": "Reghin",
       "region": "Mureș County",
