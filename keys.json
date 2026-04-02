@@ -2881,8 +2881,15 @@
     "userId": "5639825073",
     "source": "script",
     "createdAt": "2026-04-02T20:13:12.973Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T20:13:18.283Z",
     "geo": {
+      "ip": "202.51.207.187",
+      "city": "Cileungsir",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "202.51.207.187",
       "city": "Cileungsir",
       "region": "West Java",
