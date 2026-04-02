@@ -2271,5 +2271,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AB8482-525A49-A61F50": {
+    "expires": "2026-04-03T14:30:12.757Z",
+    "hwid": "10039877667-025c260e-29ca-4d88-b09f-60a528c35de3",
+    "browserHwid": null,
+    "username": "alfimedi",
+    "userId": "10039877667",
+    "source": "script",
+    "createdAt": "2026-04-02T14:30:13.039Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.111.100.46",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
