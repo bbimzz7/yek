@@ -2704,5 +2704,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-6DD478-AAAD2A-24588F": {
+    "expires": "2026-04-03T18:18:30.869Z",
+    "hwid": "10572363364-f622f299-7222-466d-8f15-4baca51fd0c9",
+    "browserHwid": null,
+    "username": "Mahigaming872",
+    "userId": "10572363364",
+    "source": "script",
+    "createdAt": "2026-04-02T18:18:31.138Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.37.37.21",
+      "city": "Kolkata",
+      "region": "West Bengal",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
