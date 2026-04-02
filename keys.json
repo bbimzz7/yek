@@ -2568,8 +2568,15 @@
     "userId": "2820407874",
     "source": "script",
     "createdAt": "2026-04-02T17:22:38.177Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T17:22:44.416Z",
     "geo": {
+      "ip": "176.105.165.11",
+      "city": "Shramkovka",
+      "region": "Cherkasy Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "176.105.165.11",
       "city": "Shramkovka",
       "region": "Cherkasy Oblast",
