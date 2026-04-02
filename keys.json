@@ -2953,8 +2953,15 @@
     "userId": "9004766786",
     "source": "script",
     "createdAt": "2026-04-02T21:50:04.503Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T21:50:10.612Z",
     "geo": {
+      "ip": "172.58.129.228",
+      "city": "Miami",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.58.129.228",
       "city": "Miami",
       "region": "Florida",
