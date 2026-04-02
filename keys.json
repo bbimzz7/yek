@@ -16660,8 +16660,15 @@
     "userId": "8736694824",
     "source": "script",
     "createdAt": "2026-04-02T00:56:51.853Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T00:58:04.058Z",
     "geo": {
+      "ip": "114.10.104.226",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.104.226",
       "city": "Jambi City",
       "region": "Jambi",
