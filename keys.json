@@ -2535,5 +2535,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-AF7D4A-1CA3AB-725A28": {
+    "expires": "2026-04-03T17:05:28.971Z",
+    "hwid": "10683082512-dfef1dbc-de3a-41aa-af2c-665e152d53f9",
+    "browserHwid": null,
+    "username": "727374774737373747",
+    "userId": "10683082512",
+    "source": "script",
+    "createdAt": "2026-04-02T17:05:29.362Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "132.184.55.147",
+      "city": "Trujillo",
+      "region": "La Libertad",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
