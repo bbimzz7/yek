@@ -2192,5 +2192,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-20CCFD-68975B-8CE0AC": {
+    "expires": "2026-04-03T14:04:45.962Z",
+    "hwid": "8680167364-783b0e2f-53d2-4b26-8172-e613674925f5",
+    "browserHwid": null,
+    "username": "Bbl_nopM4",
+    "userId": "8680167364",
+    "source": "script",
+    "createdAt": "2026-04-02T14:04:46.323Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.237.58.175",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
