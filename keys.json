@@ -17357,8 +17357,15 @@
     "userId": "8744942930",
     "source": "script",
     "createdAt": "2026-04-02T10:48:06.212Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T10:48:13.510Z",
     "geo": {
+      "ip": "103.166.100.161",
+      "city": "Ilām",
+      "region": "Koshi",
+      "country": "Nepal",
+      "cc": "NP"
+    },
+    "lastGeo": {
       "ip": "103.166.100.161",
       "city": "Ilām",
       "region": "Koshi",
