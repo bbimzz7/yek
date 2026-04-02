@@ -16996,8 +16996,15 @@
     "userId": "7909072039",
     "source": "script",
     "createdAt": "2026-04-02T06:49:04.123Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T06:49:12.530Z",
     "geo": {
+      "ip": "84.232.151.87",
+      "city": "Botoșani",
+      "region": "Botoșani County",
+      "country": "Romania",
+      "cc": "RO"
+    },
+    "lastGeo": {
       "ip": "84.232.151.87",
       "city": "Botoșani",
       "region": "Botoșani County",
