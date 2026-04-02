@@ -16780,8 +16780,15 @@
     "userId": "8169616070",
     "source": "script",
     "createdAt": "2026-04-02T03:06:11.563Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T03:06:26.965Z",
     "geo": {
+      "ip": "103.164.250.142",
+      "city": "Cikarang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.164.250.142",
       "city": "Cikarang",
       "region": "West Java",
