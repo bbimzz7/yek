@@ -2055,5 +2055,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-823A31-56C878-4D806F": {
+    "expires": "2026-04-03T12:53:51.836Z",
+    "hwid": "9235138840-872DC579-B576-4FCD-8226-DA577982F1A2",
+    "browserHwid": null,
+    "username": "SkyTamsss",
+    "userId": "9235138840",
+    "source": "script",
+    "createdAt": "2026-04-02T12:53:52.217Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.244.34",
+      "city": "Pacitan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
