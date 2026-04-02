@@ -1021,7 +1021,7 @@
     "userId": "9007775005",
     "source": "script",
     "createdAt": "2026-04-01T23:04:06.739Z",
-    "lastUsed": "2026-04-02T16:47:36.106Z",
+    "lastUsed": "2026-04-02T19:33:18.223Z",
     "geo": {
       "ip": "112.215.63.136",
       "city": "Banjar Badung",
@@ -1030,8 +1030,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.160.164.61",
-      "city": "Banjar Pekenjelodan",
+      "ip": "112.215.63.246",
+      "city": "Banjar Badung",
       "region": "Bali",
       "country": "Indonesia",
       "cc": "ID"
