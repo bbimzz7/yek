@@ -17228,5 +17228,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-0FC444-9CB598-BADC22": {
+    "expires": "2026-04-03T10:14:57.949Z",
+    "hwid": "10762948898-b1c4f6fc-9bea-4130-964a-d2c8af006796",
+    "browserHwid": null,
+    "username": "NavyWiwokdedok",
+    "userId": "10762948898",
+    "source": "script",
+    "createdAt": "2026-04-02T10:14:58.466Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.11.154.59",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
