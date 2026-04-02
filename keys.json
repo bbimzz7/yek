@@ -2833,8 +2833,15 @@
     "userId": "741687879",
     "source": "script",
     "createdAt": "2026-04-02T19:35:30.804Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T19:38:04.980Z",
     "geo": {
+      "ip": "110.137.75.176",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "110.137.75.176",
       "city": "Bengkulu",
       "region": "Bengkulu",
