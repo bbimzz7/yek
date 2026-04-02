@@ -16915,5 +16915,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5EF7FD-C52DE5-E78A85": {
+    "expires": "2026-04-03T04:11:32.159Z",
+    "hwid": "10736550018-087EF0B1-1B7C-4437-92D0-014BB739EA7A",
+    "browserHwid": null,
+    "username": "dada_9679112",
+    "userId": "10736550018",
+    "source": "script",
+    "createdAt": "2026-04-02T04:11:32.807Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "152.233.7.37",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
