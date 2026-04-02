@@ -17348,5 +17348,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-48F7A6-21FD15-13668A": {
+    "expires": "2026-04-03T10:48:05.668Z",
+    "hwid": "8744942930-801480b9-4eaf-42c3-9787-864736921690",
+    "browserHwid": null,
+    "username": "Hunger_157",
+    "userId": "8744942930",
+    "source": "script",
+    "createdAt": "2026-04-02T10:48:06.212Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.166.100.161",
+      "city": "Ilām",
+      "region": "Koshi",
+      "country": "Nepal",
+      "cc": "NP"
+    }
   }
 }
