@@ -17302,8 +17302,15 @@
     "userId": "8703966769",
     "source": "script",
     "createdAt": "2026-04-02T10:24:55.273Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T10:25:07.650Z",
     "geo": {
+      "ip": "103.212.118.45",
+      "city": "Ulan Bator",
+      "region": "Ulaanbaatar",
+      "country": "Mongolia",
+      "cc": "MN"
+    },
+    "lastGeo": {
       "ip": "103.212.118.45",
       "city": "Ulan Bator",
       "region": "Ulaanbaatar",
