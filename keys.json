@@ -16771,5 +16771,22 @@
       "country": "Austria",
       "cc": "AT"
     }
+  },
+  "VH-55F0B6-31FCA5-118FC1": {
+    "expires": "2026-04-03T03:06:11.095Z",
+    "hwid": "8169616070-7422dd72-6d0e-4fcf-8f3b-4a3fee651072",
+    "browserHwid": null,
+    "username": "reyyy0120",
+    "userId": "8169616070",
+    "source": "script",
+    "createdAt": "2026-04-02T03:06:11.563Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.164.250.142",
+      "city": "Cikarang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
