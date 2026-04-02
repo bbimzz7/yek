@@ -17205,8 +17205,15 @@
     "userId": "10575859914",
     "source": "script",
     "createdAt": "2026-04-02T09:13:53.017Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T09:17:19.172Z",
     "geo": {
+      "ip": "201.173.67.213",
+      "city": "Apodaca",
+      "region": "Nuevo León",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "201.173.67.213",
       "city": "Apodaca",
       "region": "Nuevo León",
