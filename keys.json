@@ -2752,5 +2752,22 @@
       "country": "Sweden",
       "cc": "SE"
     }
+  },
+  "VH-79C86B-417C17-2AFAD7": {
+    "expires": "2026-04-03T19:19:51.260Z",
+    "hwid": "7125802272-13754CCB-2862-44C8-BAC4-07D5D4C18CD2",
+    "browserHwid": null,
+    "username": "Coco_Plays196",
+    "userId": "7125802272",
+    "source": "script",
+    "createdAt": "2026-04-02T19:19:51.627Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.5.42.75",
+      "city": "Nevşehir",
+      "region": "Nevşehir Province",
+      "country": "Türkiye",
+      "cc": "TR"
+    }
   }
 }
