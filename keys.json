@@ -2929,8 +2929,15 @@
     "userId": "4056781763",
     "source": "script",
     "createdAt": "2026-04-02T21:28:14.141Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T21:28:19.676Z",
     "geo": {
+      "ip": "45.181.97.89",
+      "city": "Bragança Paulista",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.181.97.89",
       "city": "Bragança Paulista",
       "region": "São Paulo",
