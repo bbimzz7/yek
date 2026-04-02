@@ -16756,8 +16756,15 @@
     "userId": "9054847281",
     "source": "script",
     "createdAt": "2026-04-02T02:38:23.995Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T02:38:28.238Z",
     "geo": {
+      "ip": "104.28.159.28",
+      "city": "Bruckneudorf",
+      "region": "Burgenland",
+      "country": "Austria",
+      "cc": "AT"
+    },
+    "lastGeo": {
       "ip": "104.28.159.28",
       "city": "Bruckneudorf",
       "region": "Burgenland",
