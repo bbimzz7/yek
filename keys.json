@@ -16987,5 +16987,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-1AC770-04DED7-A15F6C": {
+    "expires": "2026-04-03T06:49:03.595Z",
+    "hwid": "7909072039-D69BEDDA-AAA1-4DEC-AFFE-0CC64AF097C0",
+    "browserHwid": null,
+    "username": "NONAME00611",
+    "userId": "7909072039",
+    "source": "script",
+    "createdAt": "2026-04-02T06:49:04.123Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "84.232.151.87",
+      "city": "Botoșani",
+      "region": "Botoșani County",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
