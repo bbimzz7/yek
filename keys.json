@@ -17020,8 +17020,15 @@
     "userId": "7872135739",
     "source": "script",
     "createdAt": "2026-04-02T07:01:09.528Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-02T07:01:18.639Z",
     "geo": {
+      "ip": "200.92.188.90",
+      "city": "Acapulco de Juárez",
+      "region": "Guerrero",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "200.92.188.90",
       "city": "Acapulco de Juárez",
       "region": "Guerrero",
