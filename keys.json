@@ -4485,5 +4485,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-46F8B0-20C4F6-9B07B4": {
+    "expires": "2026-04-04T16:23:09.763Z",
+    "hwid": "4981952372-4b7f7457-a3dc-4a4c-a50a-2b9c13333232",
+    "browserHwid": null,
+    "username": "Naranja_860",
+    "userId": "4981952372",
+    "source": "script",
+    "createdAt": "2026-04-03T16:23:10.230Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "200.8.210.56",
+      "city": "Barcelona",
+      "region": "Anzoátegui",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
