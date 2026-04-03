@@ -4951,5 +4951,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-F3608B-5BB1CA-CF59EE": {
+    "expires": "2026-04-04T22:36:31.371Z",
+    "hwid": "8980758304-4ad82ded-c982-4ce5-ae12-de3bd295619a",
+    "browserHwid": null,
+    "username": "AINZJURA2",
+    "userId": "8980758304",
+    "source": "script",
+    "createdAt": "2026-04-03T22:36:31.743Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.51.181",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
