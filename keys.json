@@ -4574,5 +4574,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-A597EB-A7B45B-93F15E": {
+    "expires": "2026-04-04T17:20:14.705Z",
+    "hwid": "9007775005-a6a5145d-ebd8-42ce-bff8-1195f6274919",
+    "browserHwid": null,
+    "username": "asepliar8",
+    "userId": "9007775005",
+    "source": "script",
+    "createdAt": "2026-04-03T17:20:15.129Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.160.164.61",
+      "city": "Banjar Pekenjelodan",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
