@@ -5047,5 +5047,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-E5AF03-CB7172-AA6BCE": {
+    "expires": "2026-04-04T23:40:31.538Z",
+    "hwid": "4063760265-dbd11b61-46a3-4017-a8e1-75e498294411",
+    "browserHwid": null,
+    "username": "vzqriiv",
+    "userId": "4063760265",
+    "source": "script",
+    "createdAt": "2026-04-03T23:40:31.949Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.244.102.63",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
