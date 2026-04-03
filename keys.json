@@ -3313,8 +3313,15 @@
     "userId": "10721283296",
     "source": "script",
     "createdAt": "2026-04-03T05:05:13.959Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T05:05:21.111Z",
     "geo": {
+      "ip": "171.97.182.235",
+      "city": "Uttaradit",
+      "region": "Uttaradit",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "171.97.182.235",
       "city": "Uttaradit",
       "region": "Uttaradit",
