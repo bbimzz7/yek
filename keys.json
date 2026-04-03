@@ -4975,5 +4975,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-0A9F4F-01C54F-594D41": {
+    "expires": "2026-04-04T22:52:28.736Z",
+    "hwid": "5122848905-B2B642D3-DC91-4C42-9C33-23267CD4123B",
+    "browserHwid": null,
+    "username": "Vbnmjhgb",
+    "userId": "5122848905",
+    "source": "script",
+    "createdAt": "2026-04-03T22:52:29.152Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.136.207.119",
+      "city": "Houston",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
