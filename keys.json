@@ -4759,5 +4759,22 @@
       "country": "Palestinian Territory",
       "cc": "PS"
     }
+  },
+  "VH-BC9E88-DC1CD2-FF5FF9": {
+    "expires": "2026-04-04T19:16:02.104Z",
+    "hwid": "8597662360-ccdeb098-dc30-4f73-9ae7-b77691fe8221",
+    "browserHwid": null,
+    "username": "bobrik_20132",
+    "userId": "8597662360",
+    "source": "script",
+    "createdAt": "2026-04-03T19:16:02.538Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.149.184.30",
+      "city": "Kalush",
+      "region": "Ivano-Frankivsk Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
