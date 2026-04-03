@@ -4020,8 +4020,15 @@
     "userId": "7429479456",
     "source": "script",
     "createdAt": "2026-04-03T12:30:14.882Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T12:31:48.854Z",
     "geo": {
+      "ip": "102.212.199.153",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "country": "South Africa",
+      "cc": "ZA"
+    },
+    "lastGeo": {
       "ip": "102.212.199.153",
       "city": "Cape Town",
       "region": "Western Cape",
