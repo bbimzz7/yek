@@ -4172,5 +4172,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-7416C3-C006F5-9A23C5": {
+    "expires": "2026-04-04T13:35:26.957Z",
+    "hwid": "6082992656-92219fe1-dd74-4e7f-816a-a0361789f190",
+    "browserHwid": null,
+    "username": "Jezzryn09",
+    "userId": "6082992656",
+    "source": "script",
+    "createdAt": "2026-04-03T13:35:27.185Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.151.2.96",
+      "city": "Pantabangan",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
