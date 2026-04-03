@@ -3064,5 +3064,22 @@
       "country": "Brunei",
       "cc": "BN"
     }
+  },
+  "VH-3D043D-195DD9-E1856F": {
+    "expires": "2026-04-04T00:26:52.795Z",
+    "hwid": "10695199317-87310be3-a962-48a1-a59b-60803e65b15c",
+    "browserHwid": null,
+    "username": "cgcgovh",
+    "userId": "10695199317",
+    "source": "script",
+    "createdAt": "2026-04-03T00:26:53.128Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "169.224.57.203",
+      "city": "Basra",
+      "region": "Basra Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
