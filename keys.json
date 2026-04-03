@@ -3289,8 +3289,15 @@
     "userId": "5213840595",
     "source": "script",
     "createdAt": "2026-04-03T04:37:13.399Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T04:37:30.207Z",
     "geo": {
+      "ip": "73.194.106.210",
+      "city": "Hillsborough",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.194.106.210",
       "city": "Hillsborough",
       "region": "New Jersey",
