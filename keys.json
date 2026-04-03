@@ -3642,8 +3642,15 @@
     "userId": "8684444323",
     "source": "script",
     "createdAt": "2026-04-03T08:11:37.724Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T08:11:45.919Z",
     "geo": {
+      "ip": "49.43.136.226",
+      "city": "Hisar",
+      "region": "Haryana",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "49.43.136.226",
       "city": "Hisar",
       "region": "Haryana",
