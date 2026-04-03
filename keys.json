@@ -4984,8 +4984,15 @@
     "userId": "5122848905",
     "source": "script",
     "createdAt": "2026-04-03T22:52:29.152Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T22:52:37.013Z",
     "geo": {
+      "ip": "73.136.207.119",
+      "city": "Houston",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.136.207.119",
       "city": "Houston",
       "region": "Texas",
