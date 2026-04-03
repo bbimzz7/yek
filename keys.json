@@ -4831,5 +4831,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-4EFA4B-590BBE-BCE0FB": {
+    "expires": "2026-04-04T20:32:35.680Z",
+    "hwid": "42252572-54660c70-e9db-4884-a1c6-25f8f60655cd",
+    "browserHwid": null,
+    "username": "awesomegal9822",
+    "userId": "42252572",
+    "source": "script",
+    "createdAt": "2026-04-03T20:32:36.061Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.161.95.123",
+      "city": "Mercer Island",
+      "region": "Washington",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
