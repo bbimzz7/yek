@@ -4083,5 +4083,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-A0396D-75A2A7-E7347C": {
+    "expires": "2026-04-04T12:53:27.814Z",
+    "hwid": "753522780-a01696eb-52c7-4178-9c50-c5a71eee2a86",
+    "browserHwid": null,
+    "username": "imam_6",
+    "userId": "753522780",
+    "source": "script",
+    "createdAt": "2026-04-03T12:53:28.202Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.168.225",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
