@@ -3577,8 +3577,15 @@
     "userId": "10767340663",
     "source": "script",
     "createdAt": "2026-04-03T07:38:56.514Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T07:45:37.671Z",
     "geo": {
+      "ip": "2.71.158.197",
+      "city": "Tibro",
+      "region": "Västra Götaland County",
+      "country": "Sweden",
+      "cc": "SE"
+    },
+    "lastGeo": {
       "ip": "2.71.158.197",
       "city": "Tibro",
       "region": "Västra Götaland County",
