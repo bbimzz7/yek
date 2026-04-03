@@ -4389,5 +4389,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-308356-FD62B3-34A63C": {
+    "expires": "2026-04-04T15:31:36.255Z",
+    "hwid": "10185763566-7ab8dec5-3161-4bfc-abe5-61c896bd3c83",
+    "browserHwid": null,
+    "username": "MR_M1005alt1",
+    "userId": "10185763566",
+    "source": "script",
+    "createdAt": "2026-04-03T15:31:36.619Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.49.156.104",
+      "city": "Dubai",
+      "region": "Dubai",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
