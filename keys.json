@@ -4028,5 +4028,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-212883-BDB972-0BB743": {
+    "expires": "2026-04-04T12:30:51.743Z",
+    "hwid": "10764988091-45d6e5b6-358b-4c5c-87a9-ea46f4b3a12d",
+    "browserHwid": null,
+    "username": "P012711",
+    "userId": "10764988091",
+    "source": "script",
+    "createdAt": "2026-04-03T12:30:51.962Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "106.222.224.90",
+      "city": "Guwahati",
+      "region": "Assam",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
