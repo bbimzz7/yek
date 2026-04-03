@@ -3169,8 +3169,15 @@
     "userId": "10417438834",
     "source": "script",
     "createdAt": "2026-04-03T01:47:33.383Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T01:48:09.405Z",
     "geo": {
+      "ip": "177.23.61.233",
+      "city": "Londrina",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.23.61.233",
       "city": "Londrina",
       "region": "Paraná",
