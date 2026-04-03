@@ -3996,9 +3996,16 @@
     "userId": "9903991145",
     "source": "script",
     "createdAt": "2026-04-03T11:48:43.624Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T11:48:54.452Z",
     "geo": {
       "ip": "79.129.173.195",
+      "city": "Rhodes",
+      "region": "South Aegean",
+      "country": "Greece",
+      "cc": "GR"
+    },
+    "lastGeo": {
+      "ip": "94.66.98.210",
       "city": "Rhodes",
       "region": "South Aegean",
       "country": "Greece",
