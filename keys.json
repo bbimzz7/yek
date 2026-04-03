@@ -3433,8 +3433,15 @@
     "userId": "4295966671",
     "source": "script",
     "createdAt": "2026-04-03T06:39:45.983Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T06:40:14.202Z",
     "geo": {
+      "ip": "1.32.11.93",
+      "city": "Cyberjaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "1.32.11.93",
       "city": "Cyberjaya",
       "region": "Selangor",
