@@ -2857,7 +2857,7 @@
     "userId": "8653919718",
     "source": "script",
     "createdAt": "2026-04-02T20:07:57.773Z",
-    "lastUsed": "2026-04-03T04:11:59.222Z",
+    "lastUsed": "2026-04-03T04:36:25.493Z",
     "geo": {
       "ip": "103.175.227.147",
       "city": "Bogor",
@@ -2866,9 +2866,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.175.227.147",
-      "city": "Jakarta",
-      "region": "Jakarta",
+      "ip": "36.50.115.216",
+      "city": "Tegaljati",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
