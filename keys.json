@@ -3376,5 +3376,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-323241-7F180C-4AF3D5": {
+    "expires": "2026-04-04T05:34:07.015Z",
+    "hwid": "10529612404-9242edcf-99fd-49f4-950d-50abe1178344",
+    "browserHwid": null,
+    "username": "huuii_62",
+    "userId": "10529612404",
+    "source": "script",
+    "createdAt": "2026-04-03T05:34:07.346Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.150.32.158",
+      "city": "Nganggrek",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
