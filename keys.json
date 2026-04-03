@@ -3891,5 +3891,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BD1DCE-9D1295-71625D": {
+    "expires": "2026-04-04T11:28:00.650Z",
+    "hwid": "1010919902-5414fa59-f58f-464e-aee0-26988b9d9ecb",
+    "browserHwid": null,
+    "username": "Josiahsm1219",
+    "userId": "1010919902",
+    "source": "script",
+    "createdAt": "2026-04-03T11:28:01.038Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.135.120.41",
+      "city": "Salisbury",
+      "region": "Maryland",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
