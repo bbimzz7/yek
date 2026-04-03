@@ -4583,8 +4583,15 @@
     "userId": "9007775005",
     "source": "script",
     "createdAt": "2026-04-03T17:20:15.129Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T17:21:38.229Z",
     "geo": {
+      "ip": "103.160.164.61",
+      "city": "Banjar Pekenjelodan",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.160.164.61",
       "city": "Banjar Pekenjelodan",
       "region": "Bali",
