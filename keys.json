@@ -4783,5 +4783,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-AD6F17-5E19B9-93A7ED": {
+    "expires": "2026-04-04T20:13:48.976Z",
+    "hwid": "8650940506-c3cc9a50-8d19-493f-9664-940f5bee8bf0",
+    "browserHwid": null,
+    "username": "DUMPY1343",
+    "userId": "8650940506",
+    "source": "script",
+    "createdAt": "2026-04-03T20:13:49.427Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "204.157.127.6",
+      "city": "Restauración",
+      "region": "Dajabón",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
