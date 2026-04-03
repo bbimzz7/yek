@@ -2112,7 +2112,7 @@
     "userId": "9313256815",
     "source": "script",
     "createdAt": "2026-04-02T13:05:06.734Z",
-    "lastUsed": "2026-04-02T13:30:22.040Z",
+    "lastUsed": "2026-04-03T03:36:19.372Z",
     "geo": {
       "ip": "182.8.225.58",
       "city": "Yogyakarta",
@@ -2121,8 +2121,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "182.8.225.58",
-      "city": "Yogyakarta",
+      "ip": "182.8.225.160",
+      "city": "Sleman",
       "region": "Yogyakarta",
       "country": "Indonesia",
       "cc": "ID"
