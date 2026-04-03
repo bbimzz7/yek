@@ -4888,8 +4888,15 @@
     "userId": "9623280595",
     "source": "script",
     "createdAt": "2026-04-03T21:18:49.599Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T21:19:20.733Z",
     "geo": {
+      "ip": "172.59.215.55",
+      "city": "Newark",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.59.215.55",
       "city": "Newark",
       "region": "New Jersey",
