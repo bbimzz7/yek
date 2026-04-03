@@ -3400,5 +3400,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-53CEE1-378434-0B0A88": {
+    "expires": "2026-04-04T06:08:47.460Z",
+    "hwid": "7273770173-c9fa8c70-caec-4f11-8f9a-b2437f36c9ae",
+    "browserHwid": null,
+    "username": "locff_55",
+    "userId": "7273770173",
+    "source": "script",
+    "createdAt": "2026-04-03T06:08:47.810Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.54.206.225",
+      "city": "Quận Ba",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
