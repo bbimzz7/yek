@@ -3633,5 +3633,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1646A0-6BB2EC-2E500B": {
+    "expires": "2026-04-04T08:11:37.351Z",
+    "hwid": "8684444323-0C21C6C4-EFB1-4FC8-9647-D6C4D4C01984",
+    "browserHwid": null,
+    "username": "aizen_rxd",
+    "userId": "8684444323",
+    "source": "script",
+    "createdAt": "2026-04-03T08:11:37.724Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.43.136.226",
+      "city": "Hisar",
+      "region": "Haryana",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
