@@ -4140,13 +4140,20 @@
     "userId": "9903969892",
     "source": "script",
     "createdAt": "2026-04-03T13:32:50.216Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T13:35:21.076Z",
     "geo": {
       "ip": "78.165.129.18",
       "city": "Ankara",
       "region": "Ankara",
       "country": "Türkiye",
       "cc": "TR"
+    },
+    "lastGeo": {
+      "ip": "51.195.137.83",
+      "city": "Erith",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
     }
   },
   "VH-3D8965-BF93A7-C75E65": {
