@@ -4367,14 +4367,22 @@
   },
   "VH-E231E1-27AFD6-CBA30B": {
     "expires": "2026-04-04T15:14:06.655Z",
-    "hwid": null,
+    "hwid": "1860440653-691293DA-E4B4-4792-A08F-DBCD984BF677",
     "browserHwid": "BR-1CE87809-IBQWJ",
     "username": "MrKarTo4Ka10YT",
-    "userId": null,
+    "userId": "1860440653",
     "source": "browser",
     "createdAt": "2026-04-03T15:14:07.119Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T15:14:12.401Z",
     "geo": {
+      "ip": "95.32.36.53",
+      "city": "Voronezh",
+      "region": "Voronezh Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "boundAt": "2026-04-03T15:14:12.383Z",
+    "lastGeo": {
       "ip": "95.32.36.53",
       "city": "Voronezh",
       "region": "Voronezh Oblast",
