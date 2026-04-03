@@ -3747,5 +3747,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-27BF89-E829F2-FCC635": {
+    "expires": "2026-04-04T09:29:27.662Z",
+    "hwid": "7835363411-5D8230B1-0AA8-49C4-A1D1-2A5687C0E4C2",
+    "browserHwid": null,
+    "username": "Gabrielllal8",
+    "userId": "7835363411",
+    "source": "script",
+    "createdAt": "2026-04-03T09:29:28.052Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.173.135",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
