@@ -4413,5 +4413,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-0C46E3-2B5B77-F0A8C4": {
+    "expires": "2026-04-04T15:43:42.496Z",
+    "hwid": "1395284510-37AD22D9-CA93-4A01-A478-6CCD5926C814",
+    "browserHwid": null,
+    "username": "ACsuperhero06",
+    "userId": "1395284510",
+    "source": "script",
+    "createdAt": "2026-04-03T15:43:42.898Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.139.10.146",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
