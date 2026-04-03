@@ -3208,5 +3208,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-4E8799-514A9A-52F36B": {
+    "expires": "2026-04-04T02:34:13.888Z",
+    "hwid": "3188298003-85438870-73cc-4f51-a7b5-073e60c1d573",
+    "browserHwid": null,
+    "username": "aldodilvero",
+    "userId": "3188298003",
+    "source": "script",
+    "createdAt": "2026-04-03T02:34:14.251Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "164.52.14.221",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
+    }
   }
 }
