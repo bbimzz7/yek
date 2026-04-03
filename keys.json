@@ -4107,5 +4107,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4B5B4A-099C2F-E85C1C": {
+    "expires": "2026-04-04T13:25:39.005Z",
+    "hwid": "10217415204-daa7389c-e2d2-4b12-bf07-8904d6b72b69",
+    "browserHwid": null,
+    "username": "surmrai",
+    "userId": "10217415204",
+    "source": "script",
+    "createdAt": "2026-04-03T13:25:39.592Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.110.206.64",
+      "city": "Da Nang",
+      "region": "Da Nang",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
