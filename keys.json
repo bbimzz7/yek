@@ -4533,5 +4533,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DF4726-7BE89D-CB7F32": {
+    "expires": "2026-04-04T17:01:54.811Z",
+    "hwid": "3055350942-DE2A0DF9-FD6B-4E8E-93F2-6BF0C4E1D2F9",
+    "browserHwid": null,
+    "username": "patrykc00l",
+    "userId": "3055350942",
+    "source": "script",
+    "createdAt": "2026-04-03T17:01:55.251Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "91.239.251.140",
+      "city": "Skarżysko-Kamienna",
+      "region": "Świętokrzyskie",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
