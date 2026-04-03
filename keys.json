@@ -4855,5 +4855,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-ABF68F-5A0573-883874": {
+    "expires": "2026-04-04T20:44:26.779Z",
+    "hwid": "8940933403-9bf647a7-ec9c-4b24-9566-31b3da8780f5",
+    "browserHwid": null,
+    "username": "brux_127",
+    "userId": "8940933403",
+    "source": "script",
+    "createdAt": "2026-04-03T20:44:27.187Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.242.243.43",
+      "city": "Xochimilco",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
