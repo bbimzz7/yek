@@ -4999,5 +4999,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-4041BB-90F58E-396673": {
+    "expires": "2026-04-04T23:11:00.906Z",
+    "hwid": "10747226956-a8830b42-7949-4ee0-95c5-04b04d522bca",
+    "browserHwid": null,
+    "username": "thegigsss",
+    "userId": "10747226956",
+    "source": "script",
+    "createdAt": "2026-04-03T23:11:01.374Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.165.243.157",
+      "city": "Sleman",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
