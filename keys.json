@@ -3049,8 +3049,15 @@
     "userId": "7444745756",
     "source": "script",
     "createdAt": "2026-04-03T00:23:03.741Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T00:23:23.425Z",
     "geo": {
+      "ip": "61.6.236.161",
+      "city": "Bandar Seri Begawan",
+      "region": "Brunei-Muara District",
+      "country": "Brunei",
+      "cc": "BN"
+    },
+    "lastGeo": {
       "ip": "61.6.236.161",
       "city": "Bandar Seri Begawan",
       "region": "Brunei-Muara District",
