@@ -3217,8 +3217,15 @@
     "userId": "3188298003",
     "source": "script",
     "createdAt": "2026-04-03T02:34:14.251Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T02:35:47.308Z",
     "geo": {
+      "ip": "164.52.14.221",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
+    },
+    "lastGeo": {
       "ip": "164.52.14.221",
       "city": "Hong Kong",
       "region": "Kowloon",
