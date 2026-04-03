@@ -3136,5 +3136,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-35174A-B020FD-3B894C": {
+    "expires": "2026-04-04T01:13:59.778Z",
+    "hwid": "10765529016-da690460-d3db-4c53-8736-703c455fc335",
+    "browserHwid": null,
+    "username": "mjoaom54",
+    "userId": "10765529016",
+    "source": "script",
+    "createdAt": "2026-04-03T01:14:00.137Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.227.118.119",
+      "city": "Trindade",
+      "region": "Goiás",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
