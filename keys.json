@@ -3795,5 +3795,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EEBCD8-C47B1E-EED47A": {
+    "expires": "2026-04-04T09:49:17.860Z",
+    "hwid": "8882073652-a0c5a192-e4b3-4eb9-87ba-aaad6622ceb9",
+    "browserHwid": null,
+    "username": "jensbin1",
+    "userId": "8882073652",
+    "source": "script",
+    "createdAt": "2026-04-03T09:49:18.221Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.225.220",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
