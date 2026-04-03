@@ -4509,5 +4509,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-B8C6B4-0815AE-03C182": {
+    "expires": "2026-04-04T16:23:57.936Z",
+    "hwid": "10745764367-83746e09-d7a0-458a-a46f-8c5c7f0c30c6",
+    "browserHwid": null,
+    "username": "Dzikrix1",
+    "userId": "10745764367",
+    "source": "script",
+    "createdAt": "2026-04-03T16:23:58.341Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.20.38.118",
+      "city": "Indramayu",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
