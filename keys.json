@@ -4816,13 +4816,20 @@
     "userId": "9245102179",
     "source": "script",
     "createdAt": "2026-04-03T20:15:47.275Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T20:15:54.977Z",
     "geo": {
       "ip": "110.137.170.216",
       "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "69.17.5.233",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
     }
   }
 }
