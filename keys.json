@@ -3681,5 +3681,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DCC265-B70344-3C6FD2": {
+    "expires": "2026-04-04T08:46:11.616Z",
+    "hwid": "10695227364-92876951-72dc-40c2-98e5-f45573fcfc8e",
+    "browserHwid": null,
+    "username": "K7QR1V4L",
+    "userId": "10695227364",
+    "source": "script",
+    "createdAt": "2026-04-03T08:46:12.126Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.139.159",
+      "city": "Penajam",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
