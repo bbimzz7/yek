@@ -4807,5 +4807,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-D32ED5-D1F081-2AA8E4": {
+    "expires": "2026-04-04T20:15:46.879Z",
+    "hwid": "9245102179-161cb5f7-76f4-4463-848f-112927b77098",
+    "browserHwid": null,
+    "username": "WesternMusk",
+    "userId": "9245102179",
+    "source": "script",
+    "createdAt": "2026-04-03T20:15:47.275Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.170.216",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
