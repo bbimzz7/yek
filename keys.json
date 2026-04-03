@@ -3145,8 +3145,15 @@
     "userId": "10765529016",
     "source": "script",
     "createdAt": "2026-04-03T01:14:00.137Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T01:15:07.633Z",
     "geo": {
+      "ip": "168.227.118.119",
+      "city": "Trindade",
+      "region": "Goiás",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "168.227.118.119",
       "city": "Trindade",
       "region": "Goiás",
