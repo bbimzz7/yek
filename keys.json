@@ -4960,13 +4960,20 @@
     "userId": "8980758304",
     "source": "script",
     "createdAt": "2026-04-03T22:36:31.743Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T22:36:41.887Z",
     "geo": {
       "ip": "182.253.51.181",
       "city": "Surabaya",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.39.148.32",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
