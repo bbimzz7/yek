@@ -1944,7 +1944,7 @@
     "userId": "9110947908",
     "source": "script",
     "createdAt": "2026-04-02T12:18:05.413Z",
-    "lastUsed": "2026-04-02T23:35:36.418Z",
+    "lastUsed": "2026-04-03T03:15:17.857Z",
     "geo": {
       "ip": "202.152.203.49",
       "city": "South Tangerang",
@@ -1954,8 +1954,8 @@
     },
     "lastGeo": {
       "ip": "202.152.203.49",
-      "city": "South Tangerang",
-      "region": "Banten",
+      "city": "Wedi",
+      "region": "Central Java",
       "country": "Indonesia",
       "cc": "ID"
     }
