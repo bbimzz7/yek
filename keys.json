@@ -4670,5 +4670,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-43F7F7-B3C830-839750": {
+    "expires": "2026-04-04T18:13:22.448Z",
+    "hwid": "9573255332-b11a87ca-8efa-48f5-bfa8-3dec76feaf11",
+    "browserHwid": null,
+    "username": "kawaa0001",
+    "userId": "9573255332",
+    "source": "script",
+    "createdAt": "2026-04-03T18:13:22.829Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.148.44.113",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
