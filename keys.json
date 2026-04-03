@@ -4936,8 +4936,15 @@
     "userId": "10523871957",
     "source": "script",
     "createdAt": "2026-04-03T22:01:17.930Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T22:04:44.365Z",
     "geo": {
+      "ip": "212.95.154.161",
+      "city": "Baghdad",
+      "region": "Baghdad",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "212.95.154.161",
       "city": "Baghdad",
       "region": "Baghdad",
