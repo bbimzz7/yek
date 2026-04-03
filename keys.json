@@ -4903,5 +4903,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-D2190D-08CAB7-D491B4": {
+    "expires": "2026-04-04T21:46:22.640Z",
+    "hwid": "7979634301-69c34497-297a-49a4-bd6f-6a19417550ab",
+    "browserHwid": null,
+    "username": "mensitoyt9",
+    "userId": "7979634301",
+    "source": "script",
+    "createdAt": "2026-04-03T21:46:23.038Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.210.186.147",
+      "city": "Soledad",
+      "region": "Atlántico",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
