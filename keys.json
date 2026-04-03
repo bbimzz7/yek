@@ -3939,5 +3939,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-3A29C5-AE34EB-6F5384": {
+    "expires": "2026-04-04T11:43:32.875Z",
+    "hwid": "4751981238-b396802a-4554-4793-9215-3ef661d630cf",
+    "browserHwid": null,
+    "username": "ClaaRiuus",
+    "userId": "4751981238",
+    "source": "script",
+    "createdAt": "2026-04-03T11:43:33.270Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.251.141",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
