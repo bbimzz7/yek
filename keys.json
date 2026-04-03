@@ -4879,5 +4879,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-2DAA98-249C07-738CF9": {
+    "expires": "2026-04-04T21:18:49.231Z",
+    "hwid": "9623280595-0b1b0715-50b2-4312-aa1d-9ab8bd1174f3",
+    "browserHwid": null,
+    "username": "jaybandsxx11",
+    "userId": "9623280595",
+    "source": "script",
+    "createdAt": "2026-04-03T21:18:49.599Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.59.215.55",
+      "city": "Newark",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
