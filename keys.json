@@ -3804,8 +3804,15 @@
     "userId": "8882073652",
     "source": "script",
     "createdAt": "2026-04-03T09:49:18.221Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T09:50:33.747Z",
     "geo": {
+      "ip": "182.10.225.220",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.10.225.220",
       "city": "Banda Aceh",
       "region": "Aceh",
