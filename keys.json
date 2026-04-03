@@ -3160,5 +3160,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-A37841-6D0D87-4ED3FF": {
+    "expires": "2026-04-04T01:47:33.032Z",
+    "hwid": "10417438834-94604121-0ee0-4879-833c-7e544e674723",
+    "browserHwid": null,
+    "username": "YUMII007n7",
+    "userId": "10417438834",
+    "source": "script",
+    "createdAt": "2026-04-03T01:47:33.383Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.23.61.233",
+      "city": "Londrina",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
