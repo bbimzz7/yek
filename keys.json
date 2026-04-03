@@ -4244,5 +4244,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-954DDB-44BF3F-852F64": {
+    "expires": "2026-04-04T13:56:54.850Z",
+    "hwid": "8813110142-a929e646-21d0-452f-a691-757f4c9ade1c",
+    "browserHwid": null,
+    "username": "dsyyy1612",
+    "userId": "8813110142",
+    "source": "script",
+    "createdAt": "2026-04-03T13:56:55.254Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.184.54.7",
+      "city": "Curahnongko",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
