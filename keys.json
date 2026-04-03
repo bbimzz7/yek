@@ -3568,5 +3568,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-ECEAA6-86FDC3-FCE3FD": {
+    "expires": "2026-04-04T07:38:56.122Z",
+    "hwid": "10767340663-d19400b3-d634-4b92-8fc5-1febbe074da9",
+    "browserHwid": null,
+    "username": "btools6783",
+    "userId": "10767340663",
+    "source": "script",
+    "createdAt": "2026-04-03T07:38:56.514Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.71.158.197",
+      "city": "Tibro",
+      "region": "Västra Götaland County",
+      "country": "Sweden",
+      "cc": "SE"
+    }
   }
 }
