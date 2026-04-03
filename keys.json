@@ -4037,8 +4037,15 @@
     "userId": "10764988091",
     "source": "script",
     "createdAt": "2026-04-03T12:30:51.962Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T12:31:00.072Z",
     "geo": {
+      "ip": "106.222.224.90",
+      "city": "Guwahati",
+      "region": "Assam",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "106.222.224.90",
       "city": "Guwahati",
       "region": "Assam",
