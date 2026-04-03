@@ -4292,5 +4292,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-59DD43-8E4B9C-172B38": {
+    "expires": "2026-04-04T14:53:41.141Z",
+    "hwid": "9633035795-f86fc1a1-1d23-414a-a1e5-1f026116be02",
+    "browserHwid": null,
+    "username": "ApudJebet",
+    "userId": "9633035795",
+    "source": "script",
+    "createdAt": "2026-04-03T14:53:41.526Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.110.48",
+      "city": "Banjaran",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
