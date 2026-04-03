@@ -3698,5 +3698,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8A4409-6C5E84-1DD6C0": {
+    "expires": "2026-04-04T08:46:16.380Z",
+    "hwid": null,
+    "browserHwid": "BR-2365293B-16R76",
+    "username": "itsnewnevan",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-03T08:46:16.639Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "210.87.86.200",
+      "city": "Tasikmalaya",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
