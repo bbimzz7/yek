@@ -4325,8 +4325,15 @@
     "userId": "9110947908",
     "source": "script",
     "createdAt": "2026-04-03T14:56:23.419Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T14:56:29.891Z",
     "geo": {
+      "ip": "202.152.203.49",
+      "city": "Wedi",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "202.152.203.49",
       "city": "Wedi",
       "region": "Central Java",
