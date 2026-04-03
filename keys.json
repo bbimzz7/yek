@@ -4059,5 +4059,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-ECC495-34AA8C-FA7471": {
+    "expires": "2026-04-04T12:33:27.577Z",
+    "hwid": "5442360729-20629f05-fdb5-447c-a5f9-543b740ae481",
+    "browserHwid": null,
+    "username": "Zpoxzzz",
+    "userId": "5442360729",
+    "source": "script",
+    "createdAt": "2026-04-03T12:33:28.059Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "79.110.55.4",
+      "city": "Toseong",
+      "region": "Gangwon-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
