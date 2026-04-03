@@ -3496,5 +3496,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-8A978E-6E8B3D-1FB1A9": {
+    "expires": "2026-04-04T07:10:54.002Z",
+    "hwid": "8272032675-245f3b3a-909b-4707-978e-b71a0b0d08b3",
+    "browserHwid": null,
+    "username": "tinzzJR4",
+    "userId": "8272032675",
+    "source": "script",
+    "createdAt": "2026-04-03T07:10:54.373Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.78.137",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
