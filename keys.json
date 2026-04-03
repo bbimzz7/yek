@@ -4694,5 +4694,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B9A227-75F206-4B1728": {
+    "expires": "2026-04-04T18:41:29.493Z",
+    "hwid": "5368290614-178662c9-320f-4957-aecb-b15b21ccea6c",
+    "browserHwid": null,
+    "username": "NFLStudioBot",
+    "userId": "5368290614",
+    "source": "script",
+    "createdAt": "2026-04-03T18:41:29.903Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.255.45.24",
+      "city": "Humble",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
