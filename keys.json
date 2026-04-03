@@ -4253,8 +4253,15 @@
     "userId": "8813110142",
     "source": "script",
     "createdAt": "2026-04-03T13:56:55.254Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T13:57:11.683Z",
     "geo": {
+      "ip": "103.184.54.7",
+      "city": "Curahnongko",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.184.54.7",
       "city": "Curahnongko",
       "region": "East Java",
