@@ -4316,5 +4316,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BF01BE-32B6BF-C69295": {
+    "expires": "2026-04-04T14:56:23.212Z",
+    "hwid": "9110947908-8EF0128D-8F9C-4EFC-B1FA-A002C3889DDF",
+    "browserHwid": null,
+    "username": "NibosT19",
+    "userId": "9110947908",
+    "source": "script",
+    "createdAt": "2026-04-03T14:56:23.419Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.152.203.49",
+      "city": "Wedi",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
