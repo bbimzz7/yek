@@ -4557,5 +4557,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-EA63FB-BAA513-EA4C9B": {
+    "expires": "2026-04-04T17:03:48.914Z",
+    "hwid": "10339770375-e4f60d6c-f671-4910-8960-7fce02118ab6",
+    "browserHwid": null,
+    "username": "CGWUERKOCT2",
+    "userId": "10339770375",
+    "source": "script",
+    "createdAt": "2026-04-03T17:03:49.338Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.179.128.172",
+      "city": "Nuevo Laredo",
+      "region": "Tamaulipas",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
