@@ -3592,5 +3592,22 @@
       "country": "Sweden",
       "cc": "SE"
     }
+  },
+  "VH-5C6063-522053-317C1F": {
+    "expires": "2026-04-04T07:48:03.578Z",
+    "hwid": "10036889131-9bcbb2c5-8163-45b8-a938-ca81e9d38ae8",
+    "browserHwid": null,
+    "username": "BOT_BLOXFRUIT71",
+    "userId": "10036889131",
+    "source": "script",
+    "createdAt": "2026-04-03T07:48:04.175Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.101.42.50",
+      "city": "Utan",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
