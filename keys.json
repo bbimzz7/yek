@@ -4655,8 +4655,15 @@
     "userId": "7731567614",
     "source": "script",
     "createdAt": "2026-04-03T18:12:58.195Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T18:13:06.162Z",
     "geo": {
+      "ip": "37.248.223.235",
+      "city": "Poznan",
+      "region": "Greater Poland",
+      "country": "Poland",
+      "cc": "PL"
+    },
+    "lastGeo": {
       "ip": "37.248.223.235",
       "city": "Poznan",
       "region": "Greater Poland",
