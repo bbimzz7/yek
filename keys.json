@@ -3616,5 +3616,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-93C197-92BD85-B412F0": {
+    "expires": "2026-04-04T07:57:27.196Z",
+    "hwid": "8381826426-129a0d89-afbe-46a8-96f9-aa4a33207cb3",
+    "browserHwid": null,
+    "username": "moeh931",
+    "userId": "8381826426",
+    "source": "script",
+    "createdAt": "2026-04-03T07:57:27.579Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.66.192.89",
+      "city": "Randudongkal",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
