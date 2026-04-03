@@ -3328,5 +3328,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-14345F-72EACE-34B57B": {
+    "expires": "2026-04-04T05:12:07.024Z",
+    "hwid": "10680590485-7f765685-d854-4f45-a5a2-da9ea5f1bf25",
+    "browserHwid": null,
+    "username": "x_VkNv",
+    "userId": "10680590485",
+    "source": "script",
+    "createdAt": "2026-04-03T05:12:07.394Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.62.208",
+      "city": "Batu",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
