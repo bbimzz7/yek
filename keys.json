@@ -4703,8 +4703,15 @@
     "userId": "5368290614",
     "source": "script",
     "createdAt": "2026-04-03T18:41:29.903Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T18:41:40.485Z",
     "geo": {
+      "ip": "73.255.45.24",
+      "city": "Humble",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.255.45.24",
       "city": "Humble",
       "region": "Texas",
