@@ -3385,8 +3385,15 @@
     "userId": "10529612404",
     "source": "script",
     "createdAt": "2026-04-03T05:34:07.346Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T05:34:16.915Z",
     "geo": {
+      "ip": "103.150.32.158",
+      "city": "Nganggrek",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.150.32.158",
       "city": "Nganggrek",
       "region": "East Java",
