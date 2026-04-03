@@ -3232,5 +3232,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-633FDF-A4B247-3E9F39": {
+    "expires": "2026-04-04T03:45:36.463Z",
+    "hwid": "9439740680-83746e09-d7a0-458a-a46f-8c5c7f0c30c6",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-04-03T03:45:36.814Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.72.20.251",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
