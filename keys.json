@@ -3337,8 +3337,15 @@
     "userId": "10680590485",
     "source": "script",
     "createdAt": "2026-04-03T05:12:07.394Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T05:15:04.779Z",
     "geo": {
+      "ip": "36.85.62.208",
+      "city": "Batu",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.85.62.208",
       "city": "Batu",
       "region": "East Java",
