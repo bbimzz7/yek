@@ -4622,5 +4622,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-87FE12-4F5F89-F623F6": {
+    "expires": "2026-04-04T18:01:19.804Z",
+    "hwid": "10770830838-9b7256f8-e733-497b-96ae-247800f4ad2e",
+    "browserHwid": null,
+    "username": "Idk_1882828",
+    "userId": "10770830838",
+    "source": "script",
+    "createdAt": "2026-04-03T18:01:20.341Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.61.84.54",
+      "city": "Ústí nad Labem",
+      "region": "Ústecký kraj",
+      "country": "Czechia",
+      "cc": "CZ"
+    }
   }
 }
