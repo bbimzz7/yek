@@ -2208,7 +2208,7 @@
     "userId": "8680167364",
     "source": "script",
     "createdAt": "2026-04-02T14:04:46.323Z",
-    "lastUsed": "2026-04-02T14:04:54.234Z",
+    "lastUsed": "2026-04-03T12:59:27.120Z",
     "geo": {
       "ip": "178.237.58.175",
       "city": "Amsterdam",
@@ -2217,11 +2217,11 @@
       "cc": "NL"
     },
     "lastGeo": {
-      "ip": "178.237.58.175",
-      "city": "Amsterdam",
-      "region": "North Holland",
-      "country": "Netherlands",
-      "cc": "NL"
+      "ip": "144.31.90.81",
+      "city": "Helsinki",
+      "region": "Uusimaa",
+      "country": "Finland",
+      "cc": "FI"
     }
   },
   "VH-4A2A62-1B9A0A-7E0FEC": {
