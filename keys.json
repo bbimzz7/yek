@@ -3088,5 +3088,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-E2B48D-B5D143-0B7465": {
+    "expires": "2026-04-04T00:46:44.842Z",
+    "hwid": "7883336384-48820FCE-0F66-4AF2-82A1-40D3EA43D5C3",
+    "browserHwid": null,
+    "username": "Rip_vipprovv",
+    "userId": "7883336384",
+    "source": "script",
+    "createdAt": "2026-04-03T00:46:45.185Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "154.19.39.190",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
