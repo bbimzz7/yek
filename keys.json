@@ -4912,8 +4912,15 @@
     "userId": "7979634301",
     "source": "script",
     "createdAt": "2026-04-03T21:46:23.038Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T21:47:23.850Z",
     "geo": {
+      "ip": "38.210.186.147",
+      "city": "Soledad",
+      "region": "Atlántico",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
       "ip": "38.210.186.147",
       "city": "Soledad",
       "region": "Atlántico",
