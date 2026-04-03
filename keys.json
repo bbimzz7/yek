@@ -3513,5 +3513,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AD5EDD-90F0B9-35B625": {
+    "expires": "2026-04-04T07:13:18.984Z",
+    "hwid": "7104018978-673d063d-42cb-4d5c-9f7a-dc69dc2d652b",
+    "browserHwid": null,
+    "username": "baco_boy24",
+    "userId": "7104018978",
+    "source": "script",
+    "createdAt": "2026-04-03T07:13:19.388Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.207.214.35",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
