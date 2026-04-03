@@ -4768,8 +4768,15 @@
     "userId": "8597662360",
     "source": "script",
     "createdAt": "2026-04-03T19:16:02.538Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T19:17:19.767Z",
     "geo": {
+      "ip": "46.149.184.30",
+      "city": "Kalush",
+      "region": "Ivano-Frankivsk Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "46.149.184.30",
       "city": "Kalush",
       "region": "Ivano-Frankivsk Oblast",
