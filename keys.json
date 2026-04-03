@@ -4470,8 +4470,15 @@
     "userId": "3687693750",
     "source": "script",
     "createdAt": "2026-04-03T16:11:02.803Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T16:11:11.668Z",
     "geo": {
+      "ip": "23.166.88.26",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
+    },
+    "lastGeo": {
       "ip": "23.166.88.26",
       "city": "Zurich",
       "region": "Zurich",
