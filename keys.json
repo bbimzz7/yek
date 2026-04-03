@@ -4301,8 +4301,15 @@
     "userId": "9633035795",
     "source": "script",
     "createdAt": "2026-04-03T14:53:41.526Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T14:53:49.706Z",
     "geo": {
+      "ip": "103.189.110.48",
+      "city": "Banjaran",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.189.110.48",
       "city": "Banjaran",
       "region": "West Java",
