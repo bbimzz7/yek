@@ -3900,8 +3900,15 @@
     "userId": "1010919902",
     "source": "script",
     "createdAt": "2026-04-03T11:28:01.038Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T11:28:13.345Z",
     "geo": {
+      "ip": "73.135.120.41",
+      "city": "Salisbury",
+      "region": "Maryland",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.135.120.41",
       "city": "Salisbury",
       "region": "Maryland",
