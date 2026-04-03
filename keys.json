@@ -5008,8 +5008,15 @@
     "userId": "10747226956",
     "source": "script",
     "createdAt": "2026-04-03T23:11:01.374Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T23:31:58.796Z",
     "geo": {
+      "ip": "125.165.243.157",
+      "city": "Sleman",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.165.243.157",
       "city": "Sleman",
       "region": "Yogyakarta",
