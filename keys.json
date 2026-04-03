@@ -3073,8 +3073,15 @@
     "userId": "10695199317",
     "source": "script",
     "createdAt": "2026-04-03T00:26:53.128Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T00:27:03.940Z",
     "geo": {
+      "ip": "169.224.57.203",
+      "city": "Basra",
+      "region": "Basra Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "169.224.57.203",
       "city": "Basra",
       "region": "Basra Governorate",
