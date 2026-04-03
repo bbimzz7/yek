@@ -3843,5 +3843,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-85D79A-918B7C-39AE6F": {
+    "expires": "2026-04-04T10:43:48.372Z",
+    "hwid": "8718832181-70DD3CD0-18A6-4767-BC13-CD6EE84E0199",
+    "browserHwid": null,
+    "username": "USA5598",
+    "userId": "8718832181",
+    "source": "script",
+    "createdAt": "2026-04-03T10:43:48.859Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.201.225.11",
+      "city": "Caloocan",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
