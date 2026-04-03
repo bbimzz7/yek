@@ -4518,8 +4518,15 @@
     "userId": "10745764367",
     "source": "script",
     "createdAt": "2026-04-03T16:23:58.341Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-03T16:24:17.237Z",
     "geo": {
+      "ip": "160.20.38.118",
+      "city": "Indramayu",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "160.20.38.118",
       "city": "Indramayu",
       "region": "West Java",
