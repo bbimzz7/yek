@@ -4927,5 +4927,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-0FB200-450F30-34F4FC": {
+    "expires": "2026-04-04T22:01:17.551Z",
+    "hwid": "10523871957-265ce6e7-71ad-4c07-b333-35fd0f6e21f0",
+    "browserHwid": null,
+    "username": "ZXNEMBXSK",
+    "userId": "10523871957",
+    "source": "script",
+    "createdAt": "2026-04-03T22:01:17.930Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.95.154.161",
+      "city": "Baghdad",
+      "region": "Baghdad",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
