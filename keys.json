@@ -3657,5 +3657,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-5FD92C-3CD970-378F96": {
+    "expires": "2026-04-04T08:26:23.385Z",
+    "hwid": "10087470753-a961a3ca-d37b-4530-8430-334da9bd7cd5",
+    "browserHwid": null,
+    "username": "Dipsy0772",
+    "userId": "10087470753",
+    "source": "script",
+    "createdAt": "2026-04-03T08:26:23.775Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.58.74.22",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
