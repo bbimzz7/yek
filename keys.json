@@ -3730,5 +3730,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-59D959-4E4A0A-86B94D": {
+    "expires": "2026-04-04T08:48:30.046Z",
+    "hwid": "10181027854-C6ABC48A-ADD6-4F3E-A638-1CB472BC96B8",
+    "browserHwid": null,
+    "username": "ITZZ_BARTECZEK67",
+    "userId": "10181027854",
+    "source": "script",
+    "createdAt": "2026-04-03T08:48:30.424Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.113.194.103",
+      "city": "Pajęczno",
+      "region": "Łódź Voivodeship",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
