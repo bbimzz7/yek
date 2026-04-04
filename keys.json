@@ -6160,8 +6160,15 @@
     "userId": "8866826299",
     "source": "script",
     "createdAt": "2026-04-04T15:26:08.859Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T15:26:24.608Z",
     "geo": {
+      "ip": "36.81.169.2",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.81.169.2",
       "city": "Surabaya",
       "region": "East Java",
