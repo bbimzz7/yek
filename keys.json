@@ -6280,9 +6280,16 @@
     "userId": "9903991145",
     "source": "script",
     "createdAt": "2026-04-04T16:52:10.802Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T16:52:23.917Z",
     "geo": {
       "ip": "79.129.173.195",
+      "city": "Rhodes",
+      "region": "South Aegean",
+      "country": "Greece",
+      "cc": "GR"
+    },
+    "lastGeo": {
+      "ip": "94.66.98.210",
       "city": "Rhodes",
       "region": "South Aegean",
       "country": "Greece",
