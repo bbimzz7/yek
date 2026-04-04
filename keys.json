@@ -6103,5 +6103,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C293F5-7814A0-2BF6DF": {
+    "expires": "2026-04-05T14:50:54.217Z",
+    "hwid": "8881653288-015cd82f-4cf6-40f4-b904-f8a4bde1afa5",
+    "browserHwid": null,
+    "username": "Elvarasecond",
+    "userId": "8881653288",
+    "source": "script",
+    "createdAt": "2026-04-04T14:50:54.614Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.140.74.210",
+      "city": "Ketapang",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
