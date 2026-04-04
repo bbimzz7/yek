@@ -5263,5 +5263,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-577D52-5819C2-0476F0": {
+    "expires": "2026-04-05T02:43:17.034Z",
+    "hwid": "8979969648-0d21657e-2684-4dd8-978c-b978812223ad",
+    "browserHwid": null,
+    "username": "chickblockofan123",
+    "userId": "8979969648",
+    "source": "script",
+    "createdAt": "2026-04-04T02:43:17.401Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.24.13",
+      "city": "Paranaque City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
