@@ -6088,8 +6088,15 @@
     "userId": "6179488854",
     "source": "script",
     "createdAt": "2026-04-04T14:37:16.259Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T14:37:37.438Z",
     "geo": {
+      "ip": "114.10.47.181",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.47.181",
       "city": "Surabaya",
       "region": "East Java",
