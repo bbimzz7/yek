@@ -6400,8 +6400,15 @@
     "userId": "3633698667",
     "source": "script",
     "createdAt": "2026-04-04T17:38:54.355Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T17:47:46.679Z",
     "geo": {
+      "ip": "170.244.179.20",
+      "city": "Uraí",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "170.244.179.20",
       "city": "Uraí",
       "region": "Paraná",
