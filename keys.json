@@ -6520,8 +6520,15 @@
     "userId": "8929900375",
     "source": "script",
     "createdAt": "2026-04-04T19:14:52.965Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T19:15:02.083Z",
     "geo": {
+      "ip": "198.244.232.162",
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "198.244.232.162",
       "city": "London",
       "region": "England",
