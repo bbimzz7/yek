@@ -6223,5 +6223,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-D5541D-FCC69C-233EDC": {
+    "expires": "2026-04-05T15:45:26.184Z",
+    "hwid": "1556017844-57985e40-7354-40f6-8d77-e50c1024015e",
+    "browserHwid": null,
+    "username": "YongkiDwi",
+    "userId": "1556017844",
+    "source": "script",
+    "createdAt": "2026-04-04T15:45:26.571Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.195.82",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
