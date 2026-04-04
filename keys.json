@@ -6295,5 +6295,22 @@
       "country": "Greece",
       "cc": "GR"
     }
+  },
+  "VH-29796B-AB705A-024ACD": {
+    "expires": "2026-04-05T16:58:46.609Z",
+    "hwid": "10775734333-9bf647a7-ec9c-4b24-9566-31b3da8780f5",
+    "browserHwid": null,
+    "username": "chaa_leche1010",
+    "userId": "10775734333",
+    "source": "script",
+    "createdAt": "2026-04-04T16:58:46.997Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.242.243.43",
+      "city": "Xochimilco",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
