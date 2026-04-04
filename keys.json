@@ -5287,5 +5287,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-49093A-20F5AD-34629C": {
+    "expires": "2026-04-05T02:46:53.195Z",
+    "hwid": "8984726288-88EF9465-7FD5-4E56-8148-44468E57EAAC",
+    "browserHwid": null,
+    "username": "Kakarot75271",
+    "userId": "8984726288",
+    "source": "script",
+    "createdAt": "2026-04-04T02:46:53.585Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.33.228",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
