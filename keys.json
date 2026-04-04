@@ -6055,5 +6055,22 @@
       "country": "The Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-837942-455866-05BEE9": {
+    "expires": "2026-04-05T14:15:07.643Z",
+    "hwid": "8736024084-6c6309a1-db1e-410e-824e-52dfcf2b1042",
+    "browserHwid": null,
+    "username": "TAHUATAU_TEMPE",
+    "userId": "8736024084",
+    "source": "script",
+    "createdAt": "2026-04-04T14:15:08.054Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.33.69",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
