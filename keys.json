@@ -5359,5 +5359,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-8BC842-4669F4-2904AD": {
+    "expires": "2026-04-05T04:26:54.473Z",
+    "hwid": "7216705049-7ff313a2-daca-4929-9c35-f7a029534864",
+    "browserHwid": null,
+    "username": "hol9773",
+    "userId": "7216705049",
+    "source": "script",
+    "createdAt": "2026-04-04T04:26:54.848Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.182.22.186",
+      "city": "San Pedro Sula",
+      "region": "Cortés Department",
+      "country": "Honduras",
+      "cc": "HN"
+    }
   }
 }
