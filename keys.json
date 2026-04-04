@@ -6151,5 +6151,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-165602-C5C158-426543": {
+    "expires": "2026-04-05T15:26:08.413Z",
+    "hwid": "8866826299-fc1784b9-08a2-41b4-b6dc-6f8d20b8d1ff",
+    "browserHwid": null,
+    "username": "Thynixyn",
+    "userId": "8866826299",
+    "source": "script",
+    "createdAt": "2026-04-04T15:26:08.859Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.81.169.2",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
