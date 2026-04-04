@@ -5503,5 +5503,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-749AB0-590A70-86694B": {
+    "expires": "2026-04-05T06:13:45.219Z",
+    "hwid": "5314392797-D760CB0F-3414-48F8-94C0-FAF7B6AB34D6",
+    "browserHwid": null,
+    "username": "michi_anjay1",
+    "userId": "5314392797",
+    "source": "script",
+    "createdAt": "2026-04-04T06:13:45.610Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.75.29",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
