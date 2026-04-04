@@ -5407,5 +5407,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-E142F3-2C9789-49AAD1": {
+    "expires": "2026-04-05T04:42:04.104Z",
+    "hwid": "3561944429-946E7674-4AB9-421D-8EA5-CBF0766D1B22",
+    "browserHwid": null,
+    "username": "YXFakez",
+    "userId": "3561944429",
+    "source": "script",
+    "createdAt": "2026-04-04T04:42:04.480Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.62.146.229",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
