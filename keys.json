@@ -5608,7 +5608,7 @@
     "userId": "8617422571",
     "source": "script",
     "createdAt": "2026-04-04T07:36:26.839Z",
-    "lastUsed": "2026-04-04T09:18:06.263Z",
+    "lastUsed": "2026-04-04T11:57:28.064Z",
     "geo": {
       "ip": "114.122.201.159",
       "city": "Pontianak",
@@ -5617,9 +5617,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.122.201.202",
-      "city": "Pontianak",
-      "region": "West Kalimantan",
+      "ip": "114.122.199.202",
+      "city": "Batibati",
+      "region": "South Kalimantan",
       "country": "Indonesia",
       "cc": "ID"
     }
