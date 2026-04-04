@@ -5080,8 +5080,15 @@
     "userId": "5633323991",
     "source": "script",
     "createdAt": "2026-04-04T00:11:02.269Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T00:11:18.781Z",
     "geo": {
+      "ip": "155.117.189.35",
+      "city": "Secaucus",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "155.117.189.35",
       "city": "Secaucus",
       "region": "New Jersey",
