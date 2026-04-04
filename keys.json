@@ -6247,5 +6247,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5139AD-12AF28-429064": {
+    "expires": "2026-04-05T16:38:31.630Z",
+    "hwid": "10676594418-f6f3c429-938a-424b-b59c-4e611400eb5f",
+    "browserHwid": null,
+    "username": "Milkychocholity",
+    "userId": "10676594418",
+    "source": "script",
+    "createdAt": "2026-04-04T16:38:32.044Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.9.219.9",
+      "city": "Aurora",
+      "region": "Colorado",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
