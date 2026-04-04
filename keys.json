@@ -5440,8 +5440,15 @@
     "userId": "8999355068",
     "source": "script",
     "createdAt": "2026-04-04T04:46:51.429Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T04:46:57.181Z",
     "geo": {
+      "ip": "69.117.83.206",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "69.117.83.206",
       "city": "Brooklyn",
       "region": "New York",
