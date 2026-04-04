@@ -5752,8 +5752,15 @@
     "userId": "8201709850",
     "source": "script",
     "createdAt": "2026-04-04T10:13:23.515Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T10:13:46.420Z",
     "geo": {
+      "ip": "136.239.224.83",
+      "city": "Santa Cruz",
+      "region": "Ilocos",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.239.224.83",
       "city": "Santa Cruz",
       "region": "Ilocos",
