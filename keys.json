@@ -5383,5 +5383,22 @@
       "country": "Honduras",
       "cc": "HN"
     }
+  },
+  "VH-12BD84-941329-A0E2C4": {
+    "expires": "2026-04-05T04:30:32.574Z",
+    "hwid": "9328751677-0e46ca28-1a2f-466f-b33e-9b58badd2a05",
+    "browserHwid": null,
+    "username": "Th33qu33nn",
+    "userId": "9328751677",
+    "source": "script",
+    "createdAt": "2026-04-04T04:30:32.791Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "69.117.83.206",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
