@@ -5968,8 +5968,15 @@
     "userId": "3879811832",
     "source": "script",
     "createdAt": "2026-04-04T12:18:36.016Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T12:19:39.863Z",
     "geo": {
+      "ip": "49.228.112.26",
+      "city": "Chon Buri",
+      "region": "Chon Buri",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "49.228.112.26",
       "city": "Chon Buri",
       "region": "Chon Buri",
