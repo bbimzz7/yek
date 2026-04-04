@@ -6112,8 +6112,15 @@
     "userId": "8881653288",
     "source": "script",
     "createdAt": "2026-04-04T14:50:54.614Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T14:51:00.948Z",
     "geo": {
+      "ip": "103.140.74.210",
+      "city": "Ketapang",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.140.74.210",
       "city": "Ketapang",
       "region": "West Kalimantan",
