@@ -6031,5 +6031,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FAA015-0F98AA-2DB4A8": {
+    "expires": "2026-04-05T13:01:38.138Z",
+    "hwid": "2493025849-09cdae94-a173-48d5-a3f6-70ed6ac9b32b",
+    "browserHwid": null,
+    "username": "ivx1029",
+    "userId": "2493025849",
+    "source": "script",
+    "createdAt": "2026-04-04T13:01:38.337Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "109.38.134.8",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "The Netherlands",
+      "cc": "NL"
+    }
   }
 }
