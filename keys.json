@@ -5176,8 +5176,15 @@
     "userId": "9480321971",
     "source": "script",
     "createdAt": "2026-04-04T01:07:50.340Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T01:15:20.501Z",
     "geo": {
+      "ip": "122.54.110.29",
+      "city": "Taytay",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "122.54.110.29",
       "city": "Taytay",
       "region": "Calabarzon",
