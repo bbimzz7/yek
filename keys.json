@@ -6631,5 +6631,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-657B44-2D35FF-15AF15": {
+    "expires": "2026-04-05T22:17:46.191Z",
+    "hwid": "5332979175-f6475c77-950e-487b-b16a-38bc25108c14",
+    "browserHwid": null,
+    "username": "God_Void82",
+    "userId": "5332979175",
+    "source": "script",
+    "createdAt": "2026-04-04T22:17:46.645Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "200.71.73.94",
+      "city": "Campanha",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
