@@ -5320,8 +5320,15 @@
     "userId": "8202903150",
     "source": "script",
     "createdAt": "2026-04-04T03:45:58.004Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T03:46:07.316Z",
     "geo": {
+      "ip": "103.159.196.58",
+      "city": "Cibeunying",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.159.196.58",
       "city": "Cibeunying",
       "region": "Central Java",
