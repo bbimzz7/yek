@@ -5488,7 +5488,7 @@
     "userId": "9732432447",
     "source": "script",
     "createdAt": "2026-04-04T06:03:45.139Z",
-    "lastUsed": "2026-04-04T07:51:15.185Z",
+    "lastUsed": "2026-04-04T11:53:38.692Z",
     "geo": {
       "ip": "103.141.47.194",
       "city": "Loakulu",
@@ -5497,9 +5497,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.141.47.194",
-      "city": "Loakulu",
-      "region": "East Kalimantan",
+      "ip": "114.10.143.29",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
       "country": "Indonesia",
       "cc": "ID"
     }
