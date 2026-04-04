@@ -5311,5 +5311,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3F8F91-CC025E-9F67FD": {
+    "expires": "2026-04-05T03:45:57.631Z",
+    "hwid": "8202903150-8b16e495-21e2-4c35-942c-12d505f24af9",
+    "browserHwid": null,
+    "username": "Hehehehhe1234567854",
+    "userId": "8202903150",
+    "source": "script",
+    "createdAt": "2026-04-04T03:45:58.004Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.159.196.58",
+      "city": "Cibeunying",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
