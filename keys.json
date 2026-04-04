@@ -5071,5 +5071,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-B11F8A-81366C-96DB0E": {
+    "expires": "2026-04-05T00:11:01.894Z",
+    "hwid": "5633323991-967fcd9a-f302-43fd-aaa2-8c35a25de3a4",
+    "browserHwid": null,
+    "username": "gluch1233",
+    "userId": "5633323991",
+    "source": "script",
+    "createdAt": "2026-04-04T00:11:02.269Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "155.117.189.35",
+      "city": "Secaucus",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
