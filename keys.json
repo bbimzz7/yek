@@ -6583,5 +6583,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-C216B7-D58E06-6D61B7": {
+    "expires": "2026-04-05T20:49:11.890Z",
+    "hwid": "8656842228-c6e06886-a0ca-4330-b713-98c2b07ac5e9",
+    "browserHwid": null,
+    "username": "solunzio",
+    "userId": "8656842228",
+    "source": "script",
+    "createdAt": "2026-04-04T20:49:12.142Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.18.34.165",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
