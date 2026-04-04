@@ -6343,5 +6343,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-B44692-6C26D4-C45889": {
+    "expires": "2026-04-05T17:18:07.051Z",
+    "hwid": "4009997788-e5cbf652-de56-4a91-8760-bf6110c0d14e",
+    "browserHwid": null,
+    "username": "offset807",
+    "userId": "4009997788",
+    "source": "script",
+    "createdAt": "2026-04-04T17:18:07.474Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.247.38.170",
+      "city": "San Salvador",
+      "region": "San Salvador Department",
+      "country": "El Salvador",
+      "cc": "SV"
+    }
   }
 }
