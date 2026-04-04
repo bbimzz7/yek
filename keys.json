@@ -5767,5 +5767,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E7E156-8ED604-4C898A": {
+    "expires": "2026-04-05T10:37:38.177Z",
+    "hwid": "8865585525-5F00BA25-53E6-4814-B409-6E72A09BC9AB",
+    "browserHwid": null,
+    "username": "DEVxdevan",
+    "userId": "8865585525",
+    "source": "script",
+    "createdAt": "2026-04-04T10:37:38.600Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.67.51",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
