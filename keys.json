@@ -5455,5 +5455,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-E252CD-910E3B-F6F0B0": {
+    "expires": "2026-04-05T05:21:06.514Z",
+    "hwid": "8805697047-378d519f-3bb6-4f2a-97c0-52855889f4cc",
+    "browserHwid": null,
+    "username": "SonyaWells263",
+    "userId": "8805697047",
+    "source": "script",
+    "createdAt": "2026-04-04T05:21:06.941Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.99.225.81",
+      "city": "Jember",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
