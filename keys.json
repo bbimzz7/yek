@@ -6199,5 +6199,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D83F5F-28E741-47B354": {
+    "expires": "2026-04-05T15:36:53.262Z",
+    "hwid": "9779600676-d99f7b8f-dad6-46b5-9fb7-1ac156fbabcf",
+    "browserHwid": null,
+    "username": "Mert_pp1",
+    "userId": "9779600676",
+    "source": "script",
+    "createdAt": "2026-04-04T15:36:53.671Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "198.244.252.30",
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
