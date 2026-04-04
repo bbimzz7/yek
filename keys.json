@@ -5599,5 +5599,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-DA3649-5B2D0C-F231CC": {
+    "expires": "2026-04-05T07:36:26.643Z",
+    "hwid": "8617422571-3ab6760e-c456-4ba3-ba57-92a7e58fd970",
+    "browserHwid": null,
+    "username": "m0rphh14",
+    "userId": "8617422571",
+    "source": "script",
+    "createdAt": "2026-04-04T07:36:26.839Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.201.159",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
