@@ -5143,5 +5143,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5C454F-834055-C0BECC": {
+    "expires": "2026-04-05T00:32:42.760Z",
+    "hwid": "9907090090-dc58f908-47d6-4a85-b00a-ac92843a65da",
+    "browserHwid": null,
+    "username": "mesayli2",
+    "userId": "9907090090",
+    "source": "script",
+    "createdAt": "2026-04-04T00:32:43.141Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.254.19.23",
+      "city": "Salvaleón de Higüey",
+      "region": "La Altagracia Province",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
