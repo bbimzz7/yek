@@ -5335,5 +5335,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AFA821-E889BF-A16476": {
+    "expires": "2026-04-05T03:54:02.305Z",
+    "hwid": "5497833043-10153806-70bd-4805-a6f1-272d46800349",
+    "browserHwid": null,
+    "username": "totis_deques0",
+    "userId": "5497833043",
+    "source": "script",
+    "createdAt": "2026-04-04T03:54:02.698Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.246.31.33",
+      "city": "Toluca",
+      "region": "México",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
