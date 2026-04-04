@@ -5983,5 +5983,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-0F6FAC-9B818A-BDA252": {
+    "expires": "2026-04-05T12:59:48.186Z",
+    "hwid": "8651474595-40E223A5-78C8-4A3B-8B7B-DC0A8DFD4BBE",
+    "browserHwid": null,
+    "username": "rohmnn7",
+    "userId": "8651474595",
+    "source": "script",
+    "createdAt": "2026-04-04T12:59:48.611Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.47.132.51",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
