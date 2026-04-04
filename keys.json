@@ -5671,5 +5671,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-DDAC1D-E84978-F44701": {
+    "expires": "2026-04-05T08:55:46.402Z",
+    "hwid": "10629282738-1f0abb22-d75d-4a75-94fa-f44960490951",
+    "browserHwid": null,
+    "username": "omghhi2",
+    "userId": "10629282738",
+    "source": "script",
+    "createdAt": "2026-04-04T08:55:46.795Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.182.190.196",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
