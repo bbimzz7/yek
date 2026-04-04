@@ -5911,5 +5911,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9781E0-E3FD00-C3CBF5": {
+    "expires": "2026-04-05T11:39:33.639Z",
+    "hwid": "9876972796-42ffe301-5eac-43e5-b544-d5c6ca81cb91",
+    "browserHwid": null,
+    "username": "rizi123Y",
+    "userId": "9876972796",
+    "source": "script",
+    "createdAt": "2026-04-04T11:39:34.064Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.200.139",
+      "city": "Batam",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
