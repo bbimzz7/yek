@@ -5719,5 +5719,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FB7BEB-B14E17-345CD4": {
+    "expires": "2026-04-05T09:25:02.446Z",
+    "hwid": "10721561638-5398DDE7-F677-4297-8259-E7BFDCAB9021",
+    "browserHwid": null,
+    "username": "sleepyheadzzz222",
+    "userId": "10721561638",
+    "source": "script",
+    "createdAt": "2026-04-04T09:25:02.818Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "213.7.7.214",
+      "city": "Limassol",
+      "region": "Limassol District",
+      "country": "Cyprus",
+      "cc": "CY"
+    }
   }
 }
