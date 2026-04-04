@@ -6655,5 +6655,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-80FAB6-E13C98-8E447C": {
+    "expires": "2026-04-05T22:26:34.320Z",
+    "hwid": "8652036924-2240ab46-d976-444d-85f1-731b93aa415c",
+    "browserHwid": null,
+    "username": "DedoyL0",
+    "userId": "8652036924",
+    "source": "script",
+    "createdAt": "2026-04-04T22:26:34.705Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.195.0",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
