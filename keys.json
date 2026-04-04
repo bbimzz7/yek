@@ -5272,8 +5272,15 @@
     "userId": "8979969648",
     "source": "script",
     "createdAt": "2026-04-04T02:43:17.401Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T02:43:26.487Z",
     "geo": {
+      "ip": "136.158.24.13",
+      "city": "Paranaque City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.24.13",
       "city": "Paranaque City",
       "region": "Metro Manila",
