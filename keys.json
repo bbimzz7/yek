@@ -6448,13 +6448,20 @@
     "userId": "9139290632",
     "source": "script",
     "createdAt": "2026-04-04T18:08:31.769Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T18:09:21.032Z",
     "geo": {
       "ip": "202.65.238.186",
       "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "128.14.21.139",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
     }
   }
 }
