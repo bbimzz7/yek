@@ -6535,5 +6535,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-DF126B-8A50C8-CEA679": {
+    "expires": "2026-04-05T20:02:25.372Z",
+    "hwid": "7360035778-a57ff51b-b39b-4a97-9bd7-8c99d0bb5bbe",
+    "browserHwid": null,
+    "username": "7363738373737jejd",
+    "userId": "7360035778",
+    "source": "script",
+    "createdAt": "2026-04-04T20:02:25.764Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.130.144.67",
+      "city": "Quito",
+      "region": "Pichincha",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
