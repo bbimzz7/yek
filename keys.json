@@ -6640,8 +6640,15 @@
     "userId": "5332979175",
     "source": "script",
     "createdAt": "2026-04-04T22:17:46.645Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T22:18:38.420Z",
     "geo": {
+      "ip": "200.71.73.94",
+      "city": "Campanha",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "200.71.73.94",
       "city": "Campanha",
       "region": "Minas Gerais",
