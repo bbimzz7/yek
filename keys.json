@@ -5728,8 +5728,15 @@
     "userId": "10721561638",
     "source": "script",
     "createdAt": "2026-04-04T09:25:02.818Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T09:25:11.787Z",
     "geo": {
+      "ip": "213.7.7.214",
+      "city": "Limassol",
+      "region": "Limassol District",
+      "country": "Cyprus",
+      "cc": "CY"
+    },
+    "lastGeo": {
       "ip": "213.7.7.214",
       "city": "Limassol",
       "region": "Limassol District",
