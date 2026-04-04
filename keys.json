@@ -5887,5 +5887,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-1D54DF-CB30AF-7E9E7F": {
+    "expires": "2026-04-05T11:27:17.461Z",
+    "hwid": "10680590485-7f765685-d854-4f45-a5a2-da9ea5f1bf25",
+    "browserHwid": null,
+    "username": "x_VkNv",
+    "userId": "10680590485",
+    "source": "script",
+    "createdAt": "2026-04-04T11:27:17.827Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.248.33.169",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
