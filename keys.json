@@ -5920,7 +5920,7 @@
     "userId": "9876972796",
     "source": "script",
     "createdAt": "2026-04-04T11:39:34.064Z",
-    "lastUsed": "2026-04-04T11:45:36.988Z",
+    "lastUsed": "2026-04-04T14:35:05.266Z",
     "geo": {
       "ip": "112.215.200.139",
       "city": "Batam",
@@ -5929,7 +5929,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "112.215.200.139",
+      "ip": "140.213.148.102",
       "city": "Batam",
       "region": "Riau",
       "country": "Indonesia",
