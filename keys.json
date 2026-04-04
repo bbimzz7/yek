@@ -6040,8 +6040,15 @@
     "userId": "2493025849",
     "source": "script",
     "createdAt": "2026-04-04T13:01:38.337Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T13:02:19.131Z",
     "geo": {
+      "ip": "109.38.134.8",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "The Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "109.38.134.8",
       "city": "Amsterdam",
       "region": "North Holland",
