@@ -5863,5 +5863,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FCC1E5-49F393-623AD1": {
+    "expires": "2026-04-05T11:18:19.938Z",
+    "hwid": "8680167364-783b0e2f-53d2-4b26-8172-e613674925f5",
+    "browserHwid": null,
+    "username": "Bbl_nopM4",
+    "userId": "8680167364",
+    "source": "script",
+    "createdAt": "2026-04-04T11:18:20.335Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "94.41.140.79",
+      "city": "Orenburg",
+      "region": "Orenburg Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
