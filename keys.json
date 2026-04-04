@@ -5431,5 +5431,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-CE55E7-B610BC-576BD8": {
+    "expires": "2026-04-05T04:46:51.066Z",
+    "hwid": "8999355068-0e46ca28-1a2f-466f-b33e-9b58badd2a05",
+    "browserHwid": null,
+    "username": "Classyyb1h",
+    "userId": "8999355068",
+    "source": "script",
+    "createdAt": "2026-04-04T04:46:51.429Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "69.117.83.206",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
