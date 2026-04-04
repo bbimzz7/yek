@@ -6391,5 +6391,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-BE99B2-AFDAB9-2073BB": {
+    "expires": "2026-04-05T17:38:53.955Z",
+    "hwid": "3633698667-38edcd80-44a8-42ae-915e-bb4de0e6a2d7",
+    "browserHwid": null,
+    "username": "200mora",
+    "userId": "3633698667",
+    "source": "script",
+    "createdAt": "2026-04-04T17:38:54.355Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.244.179.20",
+      "city": "Uraí",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
