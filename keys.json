@@ -4349,7 +4349,7 @@
     "userId": "8839377304",
     "source": "script",
     "createdAt": "2026-04-03T15:11:56.576Z",
-    "lastUsed": "2026-04-03T15:46:07.495Z",
+    "lastUsed": "2026-04-04T06:01:21.410Z",
     "geo": {
       "ip": "158.140.172.93",
       "city": "Malang",
@@ -4358,9 +4358,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "158.140.172.106",
-      "city": "Malang",
-      "region": "East Java",
+      "ip": "114.10.42.124",
+      "city": "Ancol",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
