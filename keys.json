@@ -5896,7 +5896,7 @@
     "userId": "10680590485",
     "source": "script",
     "createdAt": "2026-04-04T11:27:17.827Z",
-    "lastUsed": "2026-04-04T15:04:11.441Z",
+    "lastUsed": "2026-04-04T15:17:13.610Z",
     "geo": {
       "ip": "180.248.33.169",
       "city": "Malang",
@@ -5905,8 +5905,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "180.248.33.169",
-      "city": "Malang",
+      "ip": "36.85.62.134",
+      "city": "Batu",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
