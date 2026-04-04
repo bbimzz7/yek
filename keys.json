@@ -5680,8 +5680,15 @@
     "userId": "10629282738",
     "source": "script",
     "createdAt": "2026-04-04T08:55:46.795Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T08:55:58.857Z",
     "geo": {
+      "ip": "102.182.190.196",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "country": "South Africa",
+      "cc": "ZA"
+    },
+    "lastGeo": {
       "ip": "102.182.190.196",
       "city": "Cape Town",
       "region": "Western Cape",
