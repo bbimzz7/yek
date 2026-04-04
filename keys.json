@@ -5167,5 +5167,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-922596-BFC6C9-B6F6D1": {
+    "expires": "2026-04-05T01:07:49.927Z",
+    "hwid": "9480321971-8092cc9b-8780-49bf-8b71-8f8832428271",
+    "browserHwid": null,
+    "username": "MXSC15",
+    "userId": "9480321971",
+    "source": "script",
+    "createdAt": "2026-04-04T01:07:50.340Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "122.54.110.29",
+      "city": "Taytay",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
