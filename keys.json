@@ -5248,8 +5248,15 @@
     "userId": "5553524408",
     "source": "script",
     "createdAt": "2026-04-04T02:34:40.865Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T02:35:45.673Z",
     "geo": {
+      "ip": "97.165.86.63",
+      "city": "Allentown",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "97.165.86.63",
       "city": "Allentown",
       "region": "Pennsylvania",
