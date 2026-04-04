@@ -5095,5 +5095,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-EA8F26-EA86EA-8F9B5A": {
+    "expires": "2026-04-05T00:20:37.254Z",
+    "hwid": "10677494248-178662c9-320f-4957-aecb-b15b21ccea6c",
+    "browserHwid": null,
+    "username": "WeLoveVorxie",
+    "userId": "10677494248",
+    "source": "script",
+    "createdAt": "2026-04-04T00:20:37.611Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.255.45.24",
+      "city": "Humble",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
