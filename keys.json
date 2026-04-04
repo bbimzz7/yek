@@ -6304,8 +6304,15 @@
     "userId": "10775734333",
     "source": "script",
     "createdAt": "2026-04-04T16:58:46.997Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T16:59:35.084Z",
     "geo": {
+      "ip": "189.242.243.43",
+      "city": "Xochimilco",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.242.243.43",
       "city": "Xochimilco",
       "region": "Mexico City",
