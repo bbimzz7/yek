@@ -6367,5 +6367,22 @@
       "country": "El Salvador",
       "cc": "SV"
     }
+  },
+  "VH-011A80-084787-BA5E4F": {
+    "expires": "2026-04-05T17:36:05.444Z",
+    "hwid": "7720301124-3B4CAA73-684A-4CC6-B5C9-9B024722B1D5",
+    "browserHwid": null,
+    "username": "6OBlON7s773",
+    "userId": "7720301124",
+    "source": "script",
+    "createdAt": "2026-04-04T17:36:05.855Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "82.124.86.200",
+      "city": "Verneuil-sur-Seine",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
