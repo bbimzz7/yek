@@ -6271,5 +6271,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-3B5D11-60DB15-EF4280": {
+    "expires": "2026-04-05T16:52:10.360Z",
+    "hwid": "9903991145-ab8f5854-94e4-4242-8363-a8f6c3137080",
+    "browserHwid": null,
+    "username": "Tubers93OfficialAcc9",
+    "userId": "9903991145",
+    "source": "script",
+    "createdAt": "2026-04-04T16:52:10.802Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "79.129.173.195",
+      "city": "Rhodes",
+      "region": "South Aegean",
+      "country": "Greece",
+      "cc": "GR"
+    }
   }
 }
