@@ -6208,8 +6208,15 @@
     "userId": "9779600676",
     "source": "script",
     "createdAt": "2026-04-04T15:36:53.671Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T15:37:22.957Z",
     "geo": {
+      "ip": "198.244.252.30",
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "198.244.252.30",
       "city": "London",
       "region": "England",
