@@ -6568,8 +6568,15 @@
     "userId": "10158503650",
     "source": "script",
     "createdAt": "2026-04-04T20:47:10.661Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T20:47:22.517Z",
     "geo": {
+      "ip": "103.216.221.88",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    },
+    "lastGeo": {
       "ip": "103.216.221.88",
       "city": "Singapore",
       "region": "North West",
