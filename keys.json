@@ -6376,8 +6376,15 @@
     "userId": "7720301124",
     "source": "script",
     "createdAt": "2026-04-04T17:36:05.855Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T17:36:11.437Z",
     "geo": {
+      "ip": "82.124.86.200",
+      "city": "Verneuil-sur-Seine",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "82.124.86.200",
       "city": "Verneuil-sur-Seine",
       "region": "Île-de-France",
