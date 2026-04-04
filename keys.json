@@ -5872,13 +5872,20 @@
     "userId": "8680167364",
     "source": "script",
     "createdAt": "2026-04-04T11:18:20.335Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T11:20:08.419Z",
     "geo": {
       "ip": "94.41.140.79",
       "city": "Orenburg",
       "region": "Orenburg Oblast",
       "country": "Russia",
       "cc": "RU"
+    },
+    "lastGeo": {
+      "ip": "62.60.232.7",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
     }
   }
 }
