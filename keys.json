@@ -5848,8 +5848,15 @@
     "userId": "1408236657",
     "source": "script",
     "createdAt": "2026-04-04T11:04:59.822Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T11:05:15.448Z",
     "geo": {
+      "ip": "139.228.32.185",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "139.228.32.185",
       "city": "Surabaya",
       "region": "East Java",
