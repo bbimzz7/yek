@@ -5479,5 +5479,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-92156A-A68E81-2C3544": {
+    "expires": "2026-04-05T06:03:44.745Z",
+    "hwid": "9732432447-e1451b0b-c9ab-42bc-80d0-ddda3b59e82f",
+    "browserHwid": null,
+    "username": "NataVNS_9",
+    "userId": "9732432447",
+    "source": "script",
+    "createdAt": "2026-04-04T06:03:45.139Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.141.47.194",
+      "city": "Loakulu",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
