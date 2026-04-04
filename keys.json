@@ -6688,8 +6688,15 @@
     "userId": "9104959751",
     "source": "script",
     "createdAt": "2026-04-04T23:03:14.087Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-04T23:03:20.829Z",
     "geo": {
+      "ip": "180.252.80.132",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.252.80.132",
       "city": "Depok",
       "region": "West Java",
