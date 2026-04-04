@@ -5743,5 +5743,22 @@
       "country": "Cyprus",
       "cc": "CY"
     }
+  },
+  "VH-9BFC5A-EADADB-37C44A": {
+    "expires": "2026-04-05T10:13:23.116Z",
+    "hwid": "8201709850-37d356a4-6e12-41b6-8f52-92eb4faab1a2",
+    "browserHwid": null,
+    "username": "ROBLOX_BOY9722",
+    "userId": "8201709850",
+    "source": "script",
+    "createdAt": "2026-04-04T10:13:23.515Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.239.224.83",
+      "city": "Santa Cruz",
+      "region": "Ilocos",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
