@@ -7207,5 +7207,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-34DFCA-F02547-D55E91": {
+    "expires": "2026-04-06T06:45:35.287Z",
+    "hwid": null,
+    "browserHwid": "BR-3B6535C4-ZB00O",
+    "username": "heni_rahayu9",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-05T06:45:35.695Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.42.48",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
