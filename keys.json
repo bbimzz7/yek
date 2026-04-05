@@ -7000,8 +7000,15 @@
     "userId": "3494546299",
     "source": "script",
     "createdAt": "2026-04-05T03:53:36.313Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-05T03:53:47.292Z",
     "geo": {
+      "ip": "182.8.226.57",
+      "city": "Sleman",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.8.226.57",
       "city": "Sleman",
       "region": "Yogyakarta",
