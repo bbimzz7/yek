@@ -7560,5 +7560,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-0E08F1-6CE13E-CB1AF2": {
+    "expires": "2026-04-06T14:04:00.350Z",
+    "hwid": "10716392333-8ec1dfbb-0b79-4ffa-a7ca-33bdd4205cbb",
+    "browserHwid": null,
+    "username": "efeksnaod",
+    "userId": "10716392333",
+    "source": "script",
+    "createdAt": "2026-04-05T14:04:00.799Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.227.166.213",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
