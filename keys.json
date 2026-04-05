@@ -7930,8 +7930,15 @@
     "userId": "1854028152",
     "source": "script",
     "createdAt": "2026-04-05T18:36:28.992Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-05T18:36:37.707Z",
     "geo": {
+      "ip": "212.45.80.196",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "212.45.80.196",
       "city": "Almaty",
       "region": "Almaty",
