@@ -7096,8 +7096,15 @@
     "userId": "9110947908",
     "source": "script",
     "createdAt": "2026-04-05T05:50:10.194Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-05T05:50:19.192Z",
     "geo": {
+      "ip": "202.152.203.49",
+      "city": "Wedi",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "202.152.203.49",
       "city": "Wedi",
       "region": "Central Java",
