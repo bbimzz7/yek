@@ -6760,13 +6760,20 @@
     "userId": "9630981670",
     "source": "script",
     "createdAt": "2026-04-05T01:16:31.047Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-05T01:16:47.724Z",
     "geo": {
       "ip": "111.94.204.242",
       "city": "South Tangerang",
       "region": "Banten",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.40.59.69",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
