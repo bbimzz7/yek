@@ -8026,13 +8026,20 @@
     "userId": "9139290632",
     "source": "script",
     "createdAt": "2026-04-05T19:33:03.330Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-05T19:33:32.993Z",
     "geo": {
       "ip": "202.125.100.124",
       "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "128.14.21.139",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
     }
   }
 }
