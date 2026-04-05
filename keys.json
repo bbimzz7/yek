@@ -7704,5 +7704,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-160B17-889F0D-5A18DC": {
+    "expires": "2026-04-06T15:49:36.991Z",
+    "hwid": null,
+    "browserHwid": "BR-38A8D337-J87TR",
+    "username": "aldi_redline7",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-05T15:49:37.417Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.33.0",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
