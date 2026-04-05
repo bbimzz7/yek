@@ -7015,5 +7015,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3D28FE-9CBD03-438A33": {
+    "expires": "2026-04-06T04:06:30.308Z",
+    "hwid": "9313256815-14B85204-59F4-4264-A647-EFE16D4B90C0",
+    "browserHwid": null,
+    "username": "NPCJAGO4",
+    "userId": "9313256815",
+    "source": "script",
+    "createdAt": "2026-04-05T04:06:30.686Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.225.176",
+      "city": "Sleman",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
