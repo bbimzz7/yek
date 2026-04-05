@@ -7897,5 +7897,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9F76E0-33CDD4-B870DD": {
+    "expires": "2026-04-06T18:01:56.576Z",
+    "hwid": "8650940506-c3cc9a50-8d19-493f-9664-940f5bee8bf0",
+    "browserHwid": null,
+    "username": "DUMPY1343",
+    "userId": "8650940506",
+    "source": "script",
+    "createdAt": "2026-04-05T18:01:56.992Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "204.157.127.6",
+      "city": "Restauración",
+      "region": "Dajabón",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
