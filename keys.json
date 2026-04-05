@@ -7993,5 +7993,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-535ABD-D39D6D-27C536": {
+    "expires": "2026-04-06T19:25:17.377Z",
+    "hwid": "3063291793-2ad556d1-29c5-4d40-9890-b15eead12c79",
+    "browserHwid": null,
+    "username": "YUBER20YT",
+    "userId": "3063291793",
+    "source": "script",
+    "createdAt": "2026-04-05T19:25:17.814Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.100.107.47",
+      "city": "Guayaquil",
+      "region": "Guayas",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
