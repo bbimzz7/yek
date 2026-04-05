@@ -8017,5 +8017,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-68841B-DED6A8-500A82": {
+    "expires": "2026-04-06T19:33:02.906Z",
+    "hwid": "9139290632-f1d9f8fc-a90d-4abc-812e-0f6bf093b261",
+    "browserHwid": null,
+    "username": "Tyaa170906",
+    "userId": "9139290632",
+    "source": "script",
+    "createdAt": "2026-04-05T19:33:03.330Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.125.100.124",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
