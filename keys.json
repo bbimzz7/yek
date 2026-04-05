@@ -6751,5 +6751,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-285B42-F784B0-3A7E97": {
+    "expires": "2026-04-06T01:16:30.646Z",
+    "hwid": "9630981670-1849dc8f-02a6-4b21-9e74-480ead5c9b12",
+    "browserHwid": null,
+    "username": "pecelleleabah04",
+    "userId": "9630981670",
+    "source": "script",
+    "createdAt": "2026-04-05T01:16:31.047Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.94.204.242",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
