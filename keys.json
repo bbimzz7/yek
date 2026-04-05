@@ -7440,5 +7440,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-91C8C9-3F3E42-FF7E43": {
+    "expires": "2026-04-06T10:48:18.495Z",
+    "hwid": "9312986086-d2d1eb74-863a-497b-b20b-e7b2a90b1d97",
+    "browserHwid": null,
+    "username": "Ririn22851",
+    "userId": "9312986086",
+    "source": "script",
+    "createdAt": "2026-04-05T10:48:18.882Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.142.255.58",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
