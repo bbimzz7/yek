@@ -7849,5 +7849,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-5FFE4C-CF5F85-BE871D": {
+    "expires": "2026-04-06T17:23:52.364Z",
+    "hwid": "8140154267-592bd05a-946c-4405-a43f-99832dbf464d",
+    "browserHwid": null,
+    "username": "Uby_purple",
+    "userId": "8140154267",
+    "source": "script",
+    "createdAt": "2026-04-05T17:23:52.779Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.0.26.37",
+      "city": "Driyorejo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
