@@ -7906,8 +7906,15 @@
     "userId": "8650940506",
     "source": "script",
     "createdAt": "2026-04-05T18:01:56.992Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-05T18:02:43.493Z",
     "geo": {
+      "ip": "204.157.127.6",
+      "city": "Restauración",
+      "region": "Dajabón",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    },
+    "lastGeo": {
       "ip": "204.157.127.6",
       "city": "Restauración",
       "region": "Dajabón",
