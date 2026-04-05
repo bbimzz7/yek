@@ -7665,8 +7665,15 @@
     "userId": "7798169342",
     "source": "script",
     "createdAt": "2026-04-05T15:09:27.930Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-05T15:12:36.069Z",
     "geo": {
+      "ip": "38.226.140.23",
+      "city": "Itiúba",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "38.226.140.23",
       "city": "Itiúba",
       "region": "Bahia",
