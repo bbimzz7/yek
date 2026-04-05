@@ -7512,5 +7512,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-5D17B1-DAF17A-45AC32": {
+    "expires": "2026-04-06T13:25:37.565Z",
+    "hwid": "10680590485-7f765685-d854-4f45-a5a2-da9ea5f1bf25",
+    "browserHwid": null,
+    "username": "x_VkNv",
+    "userId": "10680590485",
+    "source": "script",
+    "createdAt": "2026-04-05T13:25:38.138Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.62.134",
+      "city": "Batu",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
