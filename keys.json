@@ -8074,8 +8074,15 @@
     "userId": "597763252",
     "source": "script",
     "createdAt": "2026-04-05T20:06:23.347Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-05T20:06:31.463Z",
     "geo": {
+      "ip": "73.45.113.228",
+      "city": "Plainfield",
+      "region": "Illinois",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.45.113.228",
       "city": "Plainfield",
       "region": "Illinois",
