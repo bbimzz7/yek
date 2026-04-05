@@ -7632,5 +7632,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-63A08B-4609B4-8966D6": {
+    "expires": "2026-04-06T15:05:22.889Z",
+    "hwid": "5213840595-c24d362e-7f0c-4407-9dbe-34448d30b3fb",
+    "browserHwid": null,
+    "username": "MALAKHI_DABEST",
+    "userId": "5213840595",
+    "source": "script",
+    "createdAt": "2026-04-05T15:05:23.310Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.194.106.210",
+      "city": "Hillsborough",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
