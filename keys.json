@@ -6808,8 +6808,15 @@
     "userId": "10217415204",
     "source": "script",
     "createdAt": "2026-04-05T01:35:40.263Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-05T01:35:57.186Z",
     "geo": {
+      "ip": "116.110.206.64",
+      "city": "Da Nang",
+      "region": "Da Nang",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "116.110.206.64",
       "city": "Da Nang",
       "region": "Da Nang",
