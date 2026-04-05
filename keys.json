@@ -7192,8 +7192,15 @@
     "userId": "8690148224",
     "source": "script",
     "createdAt": "2026-04-05T06:31:37.887Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-05T06:31:50.230Z",
     "geo": {
+      "ip": "175.100.79.6",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    },
+    "lastGeo": {
       "ip": "175.100.79.6",
       "city": "Phnom Penh",
       "region": "Phnom Penh",
