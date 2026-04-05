@@ -6823,5 +6823,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-00199D-CA8A99-1894E2": {
+    "expires": "2026-04-06T01:38:03.061Z",
+    "hwid": "3167664206-afaaf94e-17ab-4fe3-861f-f6c5fdd0e2a4",
+    "browserHwid": null,
+    "username": "uli_megapro",
+    "userId": "3167664206",
+    "source": "script",
+    "createdAt": "2026-04-05T01:38:03.517Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.203.133.77",
+      "city": "Gustavo Adolfo Madero",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
