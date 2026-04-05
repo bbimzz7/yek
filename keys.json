@@ -7545,8 +7545,15 @@
     "userId": "7100272793",
     "source": "script",
     "createdAt": "2026-04-05T14:01:39.243Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-05T14:03:30.507Z",
     "geo": {
+      "ip": "190.6.1.186",
+      "city": "Caracas",
+      "region": "Distrito Federal",
+      "country": "Venezuela",
+      "cc": "VE"
+    },
+    "lastGeo": {
       "ip": "190.6.1.186",
       "city": "Caracas",
       "region": "Distrito Federal",
