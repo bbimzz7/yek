@@ -8089,5 +8089,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-895EB4-388E70-582627": {
+    "expires": "2026-04-06T22:23:51.953Z",
+    "hwid": "3117466453-C2579366-14AB-4913-A608-D49919EB2223",
+    "browserHwid": null,
+    "username": "APM1216",
+    "userId": "3117466453",
+    "source": "script",
+    "createdAt": "2026-04-05T22:23:52.374Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "75.97.190.218",
+      "city": "East Stroudsburg",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
