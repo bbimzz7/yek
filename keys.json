@@ -5944,7 +5944,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-04-04T12:13:55.632Z",
-    "lastUsed": "2026-04-05T03:32:17.646Z",
+    "lastUsed": "2026-04-05T11:04:28.525Z",
     "geo": {
       "ip": "180.253.227.239",
       "city": "Bekasi",
@@ -5953,9 +5953,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "180.253.240.191",
-      "city": "Bekasi",
-      "region": "West Java",
+      "ip": "140.213.5.156",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
