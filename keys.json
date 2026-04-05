@@ -7320,5 +7320,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F873A0-F3EBF4-4000A4": {
+    "expires": "2026-04-06T08:40:52.935Z",
+    "hwid": "10779690713-259da217-1d4d-4ebf-b383-394da064118f",
+    "browserHwid": null,
+    "username": "Letsridechar9",
+    "userId": "10779690713",
+    "source": "script",
+    "createdAt": "2026-04-05T08:40:53.148Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.207.105.230",
+      "city": "Paranaque City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
