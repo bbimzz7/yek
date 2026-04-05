@@ -7183,5 +7183,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-819444-72DABA-C4EA57": {
+    "expires": "2026-04-06T06:31:37.661Z",
+    "hwid": "8690148224-25909383-05bc-4143-aefb-7981938f15e1",
+    "browserHwid": null,
+    "username": "parrrui",
+    "userId": "8690148224",
+    "source": "script",
+    "createdAt": "2026-04-05T06:31:37.887Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.100.79.6",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    }
   }
 }
