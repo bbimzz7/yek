@@ -7810,8 +7810,15 @@
     "userId": "9493327749",
     "source": "script",
     "createdAt": "2026-04-05T16:31:29.160Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-05T16:31:38.016Z",
     "geo": {
+      "ip": "203.83.37.37",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "203.83.37.37",
       "city": "Jakarta",
       "region": "Jakarta",
