@@ -7608,5 +7608,22 @@
       "country": "Tunisia",
       "cc": "TN"
     }
+  },
+  "VH-D87E92-92CDB9-80D0F6": {
+    "expires": "2026-04-06T14:56:17.010Z",
+    "hwid": "9439740680-83746e09-d7a0-458a-a46f-8c5c7f0c30c6",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-04-05T14:56:17.436Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.238.201",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
