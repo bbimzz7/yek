@@ -8065,5 +8065,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EC4B25-EE8AE8-6D06A1": {
+    "expires": "2026-04-06T20:06:22.943Z",
+    "hwid": "597763252-7950d653-465c-4d8a-b704-98a67e6195ed",
+    "browserHwid": null,
+    "username": "AntonioMC212",
+    "userId": "597763252",
+    "source": "script",
+    "createdAt": "2026-04-05T20:06:23.347Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.45.113.228",
+      "city": "Plainfield",
+      "region": "Illinois",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
