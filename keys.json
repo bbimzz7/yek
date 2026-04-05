@@ -8041,5 +8041,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-FFCC80-C44552-382296": {
+    "expires": "2026-04-06T19:44:03.787Z",
+    "hwid": "9469675042-c9bab715-cd4a-4115-9f7c-695a6b74c611",
+    "browserHwid": null,
+    "username": "DiaAtauAkuXD",
+    "userId": "9469675042",
+    "source": "script",
+    "createdAt": "2026-04-05T19:44:04.139Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.251.4.44",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
