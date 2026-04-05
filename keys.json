@@ -7593,8 +7593,15 @@
     "userId": "9446995367",
     "source": "script",
     "createdAt": "2026-04-05T14:21:42.904Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-05T14:22:58.652Z",
     "geo": {
+      "ip": "197.26.148.64",
+      "city": "Tunis",
+      "region": "Tunis Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    },
+    "lastGeo": {
       "ip": "197.26.148.64",
       "city": "Tunis",
       "region": "Tunis Governorate",
