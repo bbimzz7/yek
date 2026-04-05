@@ -6871,5 +6871,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C5129F-71F3B1-C2F3D5": {
+    "expires": "2026-04-06T02:19:14.816Z",
+    "hwid": "8219168100-8433c605-1372-478f-8ca4-4b1efd9dd28e",
+    "browserHwid": null,
+    "username": "aku_sedi79",
+    "userId": "8219168100",
+    "source": "script",
+    "createdAt": "2026-04-05T02:19:15.314Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.4.52",
+      "city": "Pantaihambawang",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
