@@ -7777,5 +7777,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D2044B-ECCDE1-B1FEEF": {
+    "expires": "2026-04-06T16:26:53.222Z",
+    "hwid": "9126623426-6ebfb0e7-4eda-4dc4-8bba-6b6c6b9c8ea6",
+    "browserHwid": null,
+    "username": "Sousuke_Aizen062",
+    "userId": "9126623426",
+    "source": "script",
+    "createdAt": "2026-04-05T16:26:53.643Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.83.37.37",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
