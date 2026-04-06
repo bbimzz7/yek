@@ -8146,8 +8146,15 @@
     "userId": "5410811586",
     "source": "script",
     "createdAt": "2026-04-06T00:02:05.108Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T00:02:09.619Z",
     "geo": {
+      "ip": "177.227.45.74",
+      "city": "Ciudad Obregón",
+      "region": "Sonora",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "177.227.45.74",
       "city": "Ciudad Obregón",
       "region": "Sonora",
