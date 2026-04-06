@@ -8881,5 +8881,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-7EB1FA-6323C6-7A5158": {
+    "expires": "2026-04-07T12:14:57.708Z",
+    "hwid": "10715354591-90ce6069-bf77-415b-a76c-ec348ee6544a",
+    "browserHwid": null,
+    "username": "starkwka",
+    "userId": "10715354591",
+    "source": "script",
+    "createdAt": "2026-04-06T12:14:58.099Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.74.181.103",
+      "city": "Probolinggo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
