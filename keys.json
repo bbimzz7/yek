@@ -9428,8 +9428,15 @@
     "userId": "10775993586",
     "source": "script",
     "createdAt": "2026-04-06T20:16:35.905Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T20:16:48.325Z",
     "geo": {
+      "ip": "71.65.193.247",
+      "city": "Knightdale",
+      "region": "North Carolina",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "71.65.193.247",
       "city": "Knightdale",
       "region": "North Carolina",
