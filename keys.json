@@ -8434,13 +8434,20 @@
     "userId": "9156993019",
     "source": "script",
     "createdAt": "2026-04-06T05:05:52.660Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T05:06:12.889Z",
     "geo": {
       "ip": "182.253.50.27",
       "city": "Surabaya",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.39.148.8",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
