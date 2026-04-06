@@ -9516,5 +9516,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-73FFD5-FB1532-914B2C": {
+    "expires": "2026-04-07T22:52:27.614Z",
+    "hwid": "597763252-7950d653-465c-4d8a-b704-98a67e6195ed",
+    "browserHwid": null,
+    "username": "AntonioMC212",
+    "userId": "597763252",
+    "source": "script",
+    "createdAt": "2026-04-06T22:52:28.075Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.1.21.194",
+      "city": "Morris",
+      "region": "Illinois",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
