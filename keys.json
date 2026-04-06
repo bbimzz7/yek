@@ -8401,5 +8401,22 @@
       "country": "Uruguay",
       "cc": "UY"
     }
+  },
+  "VH-509EF5-10E8FF-304A27": {
+    "expires": "2026-04-07T04:47:35.628Z",
+    "hwid": "9362777707-f3dc549e-db8a-49b2-9223-09aede705887",
+    "browserHwid": null,
+    "username": "viedacorvi5",
+    "userId": "9362777707",
+    "source": "script",
+    "createdAt": "2026-04-06T04:47:36.074Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "152.200.184.174",
+      "city": "Medellín",
+      "region": "Antioquia",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
