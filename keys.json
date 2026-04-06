@@ -8290,8 +8290,15 @@
     "userId": "10634248512",
     "source": "script",
     "createdAt": "2026-04-06T01:58:07.679Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T01:58:17.875Z",
     "geo": {
+      "ip": "103.186.35.98",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.186.35.98",
       "city": "Bandung",
       "region": "West Java",
