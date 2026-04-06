@@ -8425,5 +8425,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-412F5B-7347CC-E05FE0": {
+    "expires": "2026-04-07T05:05:52.238Z",
+    "hwid": "9156993019-0d456dec-7203-4503-be7e-18ab20fde3b2",
+    "browserHwid": null,
+    "username": "TURJPG",
+    "userId": "9156993019",
+    "source": "script",
+    "createdAt": "2026-04-06T05:05:52.660Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.50.27",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
