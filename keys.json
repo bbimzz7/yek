@@ -8185,5 +8185,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-A56D11-473399-8F7F9B": {
+    "expires": "2026-04-07T00:56:59.163Z",
+    "hwid": "9036912156-B16F14F8-0A73-4AB5-8A32-539E707F1694",
+    "browserHwid": null,
+    "username": "NIQUITAYAA",
+    "userId": "9036912156",
+    "source": "script",
+    "createdAt": "2026-04-06T00:56:59.540Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.11.223.14",
+      "city": "Diadema",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
