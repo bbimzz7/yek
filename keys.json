@@ -8233,5 +8233,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-C79160-1BBF60-BDE55E": {
+    "expires": "2026-04-07T01:46:40.897Z",
+    "hwid": "1136776818-A15D18EF-E3E5-4F62-95F9-0895FB285103",
+    "browserHwid": null,
+    "username": "andi1235p",
+    "userId": "1136776818",
+    "source": "script",
+    "createdAt": "2026-04-06T01:46:41.347Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.64.210.90",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
