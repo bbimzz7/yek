@@ -9227,5 +9227,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-E1B06E-33F2B0-D3C19B": {
+    "expires": "2026-04-07T15:54:24.509Z",
+    "hwid": "8805697047-378d519f-3bb6-4f2a-97c0-52855889f4cc",
+    "browserHwid": null,
+    "username": "SonyaWells263",
+    "userId": "8805697047",
+    "source": "script",
+    "createdAt": "2026-04-06T15:54:24.933Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.99.225.81",
+      "city": "Jember",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
