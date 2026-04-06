@@ -9419,5 +9419,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-81A690-34AD0C-74EDE2": {
+    "expires": "2026-04-07T20:16:35.458Z",
+    "hwid": "10775993586-ea0d02a7-a7e5-4e24-86b5-de12df92c994",
+    "browserHwid": null,
+    "username": "Sergiosy68",
+    "userId": "10775993586",
+    "source": "script",
+    "createdAt": "2026-04-06T20:16:35.905Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "71.65.193.247",
+      "city": "Knightdale",
+      "region": "North Carolina",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
