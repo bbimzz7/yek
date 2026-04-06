@@ -9443,5 +9443,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-D176D2-FE479F-F73433": {
+    "expires": "2026-04-07T21:22:59.406Z",
+    "hwid": null,
+    "browserHwid": "BR-22945E01-3DA6U",
+    "username": "Ririn22851",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-06T21:22:59.929Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.142.255.58",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
