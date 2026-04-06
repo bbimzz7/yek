@@ -8554,8 +8554,15 @@
     "userId": "3098669307",
     "source": "script",
     "createdAt": "2026-04-06T08:28:17.763Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T08:29:02.197Z",
     "geo": {
+      "ip": "180.243.33.163",
+      "city": "Ternate",
+      "region": "North Maluku",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.243.33.163",
       "city": "Ternate",
       "region": "North Maluku",
