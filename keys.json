@@ -9179,5 +9179,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FD2EDA-95BBFC-964DEC": {
+    "expires": "2026-04-07T14:58:53.822Z",
+    "hwid": "9481106221-4697f29b-57b7-4296-a444-a3ac028b0012",
+    "browserHwid": null,
+    "username": "jejique4",
+    "userId": "9481106221",
+    "source": "script",
+    "createdAt": "2026-04-06T14:58:54.240Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.83.119.39",
+      "city": "Guatemala City",
+      "region": "Guatemala",
+      "country": "Guatemala",
+      "cc": "GT"
+    }
   }
 }
