@@ -8545,5 +8545,22 @@
       "country": "Honduras",
       "cc": "HN"
     }
+  },
+  "VH-D9042B-B34E68-39F9F0": {
+    "expires": "2026-04-07T08:28:17.308Z",
+    "hwid": "3098669307-568104fd-d407-45c2-94d8-cb648e4eff6c",
+    "browserHwid": null,
+    "username": "N0bodyloveeme",
+    "userId": "3098669307",
+    "source": "script",
+    "createdAt": "2026-04-06T08:28:17.763Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.243.33.163",
+      "city": "Ternate",
+      "region": "North Maluku",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
