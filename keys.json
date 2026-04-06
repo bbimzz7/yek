@@ -8569,5 +8569,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-23086F-EDACAD-ECEA95": {
+    "expires": "2026-04-07T08:44:32.401Z",
+    "hwid": "2591181671-1f622879-a8b0-4f3c-bb60-a0985bc21fe8",
+    "browserHwid": null,
+    "username": "Andrexnano",
+    "userId": "2591181671",
+    "source": "script",
+    "createdAt": "2026-04-06T08:44:32.798Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.8.230.136",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
