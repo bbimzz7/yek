@@ -8665,5 +8665,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-03D2D6-A992D5-013E29": {
+    "expires": "2026-04-07T09:31:08.082Z",
+    "hwid": "9028910639-b44289f3-fae9-4891-89f8-e0a706a0b3ca",
+    "browserHwid": null,
+    "username": "ELILA_XD1",
+    "userId": "9028910639",
+    "source": "script",
+    "createdAt": "2026-04-06T09:31:08.553Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.56.25.111",
+      "city": "Papar",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
