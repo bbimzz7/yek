@@ -7906,7 +7906,7 @@
     "userId": "8650940506",
     "source": "script",
     "createdAt": "2026-04-05T18:01:56.992Z",
-    "lastUsed": "2026-04-06T01:02:40.110Z",
+    "lastUsed": "2026-04-06T01:06:47.359Z",
     "geo": {
       "ip": "204.157.127.6",
       "city": "Restauración",
@@ -7915,8 +7915,8 @@
       "cc": "DO"
     },
     "lastGeo": {
-      "ip": "204.157.126.11",
-      "city": "Partido",
+      "ip": "204.157.127.6",
+      "city": "Restauración",
       "region": "Dajabón",
       "country": "Dominican Republic",
       "cc": "DO"
