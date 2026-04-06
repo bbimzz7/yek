@@ -9049,5 +9049,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5BC179-D1C662-1EA093": {
+    "expires": "2026-04-07T13:22:40.218Z",
+    "hwid": null,
+    "browserHwid": "BR-78593EAB-OUCE7",
+    "username": "ender_2122727BR-78593EAB-OUCE7",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-06T13:22:40.657Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "143.44.165.216",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
