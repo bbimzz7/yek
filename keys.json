@@ -9525,8 +9525,15 @@
     "userId": "597763252",
     "source": "script",
     "createdAt": "2026-04-06T22:52:28.075Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T22:52:36.381Z",
     "geo": {
+      "ip": "24.1.21.194",
+      "city": "Morris",
+      "region": "Illinois",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "24.1.21.194",
       "city": "Morris",
       "region": "Illinois",
