@@ -8338,8 +8338,15 @@
     "userId": "10730844597",
     "source": "script",
     "createdAt": "2026-04-06T03:10:01.198Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T03:10:13.986Z",
     "geo": {
+      "ip": "180.253.240.191",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.253.240.191",
       "city": "Bekasi",
       "region": "West Java",
