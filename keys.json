@@ -9564,5 +9564,22 @@
       "country": "Hungary",
       "cc": "HU"
     }
+  },
+  "VH-D78B62-ED6C0B-76A6CF": {
+    "expires": "2026-04-07T23:00:08.743Z",
+    "hwid": "10359436999-944e424b-48b2-41af-b1e0-ff4b2908206f",
+    "browserHwid": null,
+    "username": "selrahc_97",
+    "userId": "10359436999",
+    "source": "script",
+    "createdAt": "2026-04-06T23:00:09.110Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.118.112",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
