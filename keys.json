@@ -9371,5 +9371,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-088510-7DEF6E-2A60C0": {
+    "expires": "2026-04-07T19:09:27.188Z",
+    "hwid": "4915938448-BEBDDC72-D527-4FAE-9D09-E0AC968B8865",
+    "browserHwid": null,
+    "username": "farkaska1421",
+    "userId": "4915938448",
+    "source": "script",
+    "createdAt": "2026-04-06T19:09:27.780Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.36.159.212",
+      "city": "Nyírbogát",
+      "region": "Szabolcs-Szatmár-Bereg",
+      "country": "Hungary",
+      "cc": "HU"
+    }
   }
 }
