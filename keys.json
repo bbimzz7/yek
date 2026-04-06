@@ -9203,5 +9203,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-660DE5-FD6343-1253A1": {
+    "expires": "2026-04-07T15:03:54.548Z",
+    "hwid": "9005991399-ce4507ac-fdc7-43bc-8e11-dd2ac1d5f9e4",
+    "browserHwid": null,
+    "username": "Melisa27590",
+    "userId": "9005991399",
+    "source": "script",
+    "createdAt": "2026-04-06T15:03:54.816Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "57.128.241.203",
+      "city": "Warsaw",
+      "region": "Mazovia",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
