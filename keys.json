@@ -9092,8 +9092,15 @@
     "userId": "5691569881",
     "source": "script",
     "createdAt": "2026-04-06T13:33:17.012Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T13:34:07.730Z",
     "geo": {
+      "ip": "112.206.73.132",
+      "city": "Las Piñas",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.206.73.132",
       "city": "Las Piñas",
       "region": "Metro Manila",
