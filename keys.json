@@ -8787,8 +8787,15 @@
     "userId": "7187332305",
     "source": "script",
     "createdAt": "2026-04-06T11:12:56.968Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T11:13:33.993Z",
     "geo": {
+      "ip": "45.161.147.112",
+      "city": "Salvador",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.161.147.112",
       "city": "Salvador",
       "region": "Bahia",
