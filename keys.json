@@ -8449,5 +8449,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-AE6B7C-B57B04-DE0BA9": {
+    "expires": "2026-04-07T05:30:29.069Z",
+    "hwid": "7971006544-99933060-17aa-4bae-80bc-d49defd9530b",
+    "browserHwid": null,
+    "username": "DanielDizzy2",
+    "userId": "7971006544",
+    "source": "script",
+    "createdAt": "2026-04-06T05:30:29.491Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.160.68.139",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
