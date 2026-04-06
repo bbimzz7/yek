@@ -8386,8 +8386,15 @@
     "userId": "10461192810",
     "source": "script",
     "createdAt": "2026-04-06T04:21:26.474Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T04:21:37.322Z",
     "geo": {
+      "ip": "186.54.136.93",
+      "city": "Montevideo",
+      "region": "Montevideo Department",
+      "country": "Uruguay",
+      "cc": "UY"
+    },
+    "lastGeo": {
       "ip": "186.54.136.93",
       "city": "Montevideo",
       "region": "Montevideo Department",
