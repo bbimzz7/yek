@@ -8795,5 +8795,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-967A74-F661EE-89443F": {
+    "expires": "2026-04-07T11:13:30.092Z",
+    "hwid": "9110947908-8EF0128D-8F9C-4EFC-B1FA-A002C3889DDF",
+    "browserHwid": null,
+    "username": "NibosT19",
+    "userId": "9110947908",
+    "source": "script",
+    "createdAt": "2026-04-06T11:13:30.284Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.152.203.49",
+      "city": "Wedi",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
