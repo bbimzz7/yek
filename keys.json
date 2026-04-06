@@ -8761,5 +8761,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E94066-B801E8-7885A2": {
+    "expires": "2026-04-07T11:07:48.654Z",
+    "hwid": "2766698485-04A242E8-56C2-432E-B22B-61106C711CFB",
+    "browserHwid": null,
+    "username": "ASAERNHET",
+    "userId": "2766698485",
+    "source": "script",
+    "createdAt": "2026-04-06T11:07:48.907Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "194.190.81.95",
+      "city": "Belovo",
+      "region": "Kemerovo Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
