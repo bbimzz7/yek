@@ -9492,5 +9492,22 @@
       "country": "Taiwan",
       "cc": "TW"
     }
+  },
+  "VH-2F5E4D-25A71C-D9B190": {
+    "expires": "2026-04-07T22:01:59.631Z",
+    "hwid": "8839377304-aa7c7270-5718-49b4-a522-e7ff10bb221a",
+    "browserHwid": null,
+    "username": "abyan12345769",
+    "userId": "8839377304",
+    "source": "script",
+    "createdAt": "2026-04-06T22:02:00.089Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.173.83",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
