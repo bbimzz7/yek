@@ -8578,8 +8578,15 @@
     "userId": "2591181671",
     "source": "script",
     "createdAt": "2026-04-06T08:44:32.798Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T08:44:44.764Z",
     "geo": {
+      "ip": "114.8.230.136",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.8.230.136",
       "city": "Surabaya",
       "region": "East Java",
