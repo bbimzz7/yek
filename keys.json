@@ -8938,8 +8938,15 @@
     "userId": "10329706424",
     "source": "script",
     "createdAt": "2026-04-06T12:47:56.477Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T12:49:07.011Z",
     "geo": {
+      "ip": "180.191.14.121",
+      "city": "Cabanatuan City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "180.191.14.121",
       "city": "Cabanatuan City",
       "region": "Central Luzon",
