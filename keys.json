@@ -9188,8 +9188,15 @@
     "userId": "9481106221",
     "source": "script",
     "createdAt": "2026-04-06T14:58:54.240Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T15:00:31.458Z",
     "geo": {
+      "ip": "190.83.119.39",
+      "city": "Guatemala City",
+      "region": "Guatemala",
+      "country": "Guatemala",
+      "cc": "GT"
+    },
+    "lastGeo": {
       "ip": "190.83.119.39",
       "city": "Guatemala City",
       "region": "Guatemala",
