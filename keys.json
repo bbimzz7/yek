@@ -8713,5 +8713,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-CB6667-8433F9-AB55D2": {
+    "expires": "2026-04-07T10:42:57.556Z",
+    "hwid": "8617422571-3ab6760e-c456-4ba3-ba57-92a7e58fd970",
+    "browserHwid": null,
+    "username": "m0rphh14",
+    "userId": "8617422571",
+    "source": "script",
+    "createdAt": "2026-04-06T10:42:58.074Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.196.191",
+      "city": "Banjarbaru",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
