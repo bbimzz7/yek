@@ -8137,5 +8137,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-3718F1-08FA0E-D1235A": {
+    "expires": "2026-04-07T00:02:04.659Z",
+    "hwid": "5410811586-F519CB82-9D05-4370-9D26-18D80A21AEEA",
+    "browserHwid": null,
+    "username": "holasoyfernandox26",
+    "userId": "5410811586",
+    "source": "script",
+    "createdAt": "2026-04-06T00:02:05.108Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.227.45.74",
+      "city": "Ciudad Obregón",
+      "region": "Sonora",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
