@@ -8593,5 +8593,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FE001E-927F0A-B3239B": {
+    "expires": "2026-04-07T08:45:27.878Z",
+    "hwid": "10632827474-d49d1aad-f5c0-4c4a-ac61-d1e7b6be136f",
+    "browserHwid": null,
+    "username": "gurom_76",
+    "userId": "10632827474",
+    "source": "script",
+    "createdAt": "2026-04-06T08:45:28.126Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.200.161.62",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
