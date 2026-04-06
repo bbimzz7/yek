@@ -8905,5 +8905,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4CE233-7AC6F9-94964F": {
+    "expires": "2026-04-07T12:38:43.551Z",
+    "hwid": "8324516927-ecb1aaa6-cb83-436f-a6de-30685c47d1ca",
+    "browserHwid": null,
+    "username": "Miruna_456763",
+    "userId": "8324516927",
+    "source": "script",
+    "createdAt": "2026-04-06T12:38:44.083Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "86.124.47.125",
+      "city": "Baia Mare",
+      "region": "Maramureş",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
