@@ -9066,5 +9066,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-3B0A9F-7C6F2A-B37A4C": {
+    "expires": "2026-04-07T13:22:55.046Z",
+    "hwid": "10688412126-ee8d91d5-c66b-4dfd-8f17-2e057ba9d4ab",
+    "browserHwid": null,
+    "username": "ENDER_2122727",
+    "userId": "10688412126",
+    "source": "script",
+    "createdAt": "2026-04-06T13:22:55.282Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "143.44.165.216",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
