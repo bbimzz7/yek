@@ -8194,8 +8194,15 @@
     "userId": "9036912156",
     "source": "script",
     "createdAt": "2026-04-06T00:56:59.540Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T00:57:12.950Z",
     "geo": {
+      "ip": "190.11.223.14",
+      "city": "Diadema",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "190.11.223.14",
       "city": "Diadema",
       "region": "São Paulo",
