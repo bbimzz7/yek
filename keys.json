@@ -7521,7 +7521,7 @@
     "userId": "10680590485",
     "source": "script",
     "createdAt": "2026-04-05T13:25:38.138Z",
-    "lastUsed": "2026-04-05T14:35:28.529Z",
+    "lastUsed": "2026-04-06T11:04:16.246Z",
     "geo": {
       "ip": "36.85.62.134",
       "city": "Batu",
@@ -7530,8 +7530,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "36.85.62.134",
-      "city": "Batu",
+      "ip": "180.248.33.169",
+      "city": "Malang",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
