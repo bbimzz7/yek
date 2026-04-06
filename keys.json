@@ -8257,5 +8257,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-530183-525BC0-B846F1": {
+    "expires": "2026-04-07T01:50:36.334Z",
+    "hwid": "5093301945-3898A56F-1630-4E91-9C7C-BECF54A95A99",
+    "browserHwid": null,
+    "username": "coassas0h",
+    "userId": "5093301945",
+    "source": "script",
+    "createdAt": "2026-04-06T01:50:36.726Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.245.129.206",
+      "city": "Baturaden",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
