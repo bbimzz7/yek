@@ -8722,8 +8722,15 @@
     "userId": "8617422571",
     "source": "script",
     "createdAt": "2026-04-06T10:42:58.074Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T10:43:04.979Z",
     "geo": {
+      "ip": "114.122.196.191",
+      "city": "Banjarbaru",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.122.196.191",
       "city": "Banjarbaru",
       "region": "South Kalimantan",
