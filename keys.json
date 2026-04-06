@@ -8209,5 +8209,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-3CDB0A-E92E1B-F01754": {
+    "expires": "2026-04-07T01:15:46.381Z",
+    "hwid": "4063760265-dbd11b61-46a3-4017-a8e1-75e498294411",
+    "browserHwid": null,
+    "username": "vzqriiv",
+    "userId": "4063760265",
+    "source": "script",
+    "createdAt": "2026-04-06T01:15:46.814Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.244.102.63",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
