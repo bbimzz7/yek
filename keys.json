@@ -9469,8 +9469,15 @@
     "userId": "3629357326",
     "source": "script",
     "createdAt": "2026-04-06T21:26:59.498Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T21:27:07.109Z",
     "geo": {
+      "ip": "110.30.105.5",
+      "city": "Taichung",
+      "region": "Taichung City",
+      "country": "Taiwan",
+      "cc": "TW"
+    },
+    "lastGeo": {
       "ip": "110.30.105.5",
       "city": "Taichung",
       "region": "Taichung City",
