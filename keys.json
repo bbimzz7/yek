@@ -8170,8 +8170,15 @@
     "userId": "10276553798",
     "source": "script",
     "createdAt": "2026-04-06T00:49:41.484Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T00:49:56.731Z",
     "geo": {
+      "ip": "45.7.3.56",
+      "city": "Candeias",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.7.3.56",
       "city": "Candeias",
       "region": "Bahia",
