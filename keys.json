@@ -8410,8 +8410,15 @@
     "userId": "9362777707",
     "source": "script",
     "createdAt": "2026-04-06T04:47:36.074Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-06T04:49:09.917Z",
     "geo": {
+      "ip": "152.200.184.174",
+      "city": "Medellín",
+      "region": "Antioquia",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
       "ip": "152.200.184.174",
       "city": "Medellín",
       "region": "Antioquia",
