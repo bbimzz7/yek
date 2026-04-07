@@ -10978,5 +10978,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-6BDA6D-F1C84E-14FF28": {
+    "expires": "2026-04-08T14:52:01.436Z",
+    "hwid": "377963374-4f0a51cf-5efb-489a-963f-6b3d3acedef8",
+    "browserHwid": null,
+    "username": "fato40",
+    "userId": "377963374",
+    "source": "script",
+    "createdAt": "2026-04-07T14:52:02.006Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.213.44.79",
+      "city": "Picton",
+      "region": "Marlborough",
+      "country": "New Zealand",
+      "cc": "NZ"
+    }
   }
 }
