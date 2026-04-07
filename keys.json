@@ -11412,8 +11412,15 @@
     "userId": "10633047275",
     "source": "script",
     "createdAt": "2026-04-07T20:37:22.002Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T20:37:28.929Z",
     "geo": {
+      "ip": "114.10.42.67",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.42.67",
       "city": "Ancol",
       "region": "Jakarta",
