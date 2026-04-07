@@ -10391,5 +10391,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-67F000-E179FE-98F27C": {
+    "expires": "2026-04-08T10:03:22.259Z",
+    "hwid": "10488976796-798e49ab-34bd-4dc0-a286-42ee6cddd2a3",
+    "browserHwid": null,
+    "username": "whenya_22",
+    "userId": "10488976796",
+    "source": "script",
+    "createdAt": "2026-04-07T10:03:22.820Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.104.128",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
