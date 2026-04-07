@@ -11002,5 +11002,22 @@
       "country": "New Zealand",
       "cc": "NZ"
     }
+  },
+  "VH-648F08-DB313A-7CC6FF": {
+    "expires": "2026-04-08T14:56:15.648Z",
+    "hwid": "9066249445-57b3011f-3418-47fe-a3bc-a979978d3f36",
+    "browserHwid": null,
+    "username": "DizBLance",
+    "userId": "9066249445",
+    "source": "script",
+    "createdAt": "2026-04-07T14:56:16.038Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.33.147",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
