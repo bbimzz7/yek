@@ -10690,5 +10690,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-DD294F-73CE79-0DB505": {
+    "expires": "2026-04-08T12:48:37.536Z",
+    "hwid": "8703966769-d4da12c6-1b6b-4828-99a7-0823adaf438c",
+    "browserHwid": null,
+    "username": "TergelTekuYT",
+    "userId": "8703966769",
+    "source": "script",
+    "createdAt": "2026-04-07T12:48:38.005Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.229.123.73",
+      "city": "Ulan Bator",
+      "region": "Ulaanbaatar",
+      "country": "Mongolia",
+      "cc": "MN"
+    }
   }
 }
