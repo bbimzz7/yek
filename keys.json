@@ -9821,5 +9821,22 @@
       "country": "Belize",
       "cc": "BZ"
     }
+  },
+  "VH-0ACC6C-DD8404-910FF1": {
+    "expires": "2026-04-08T03:40:30.008Z",
+    "hwid": "9220777730-b4162db1-1f5b-44a8-8ff4-5b3346e1a1f8",
+    "browserHwid": null,
+    "username": "HlH_777777",
+    "userId": "9220777730",
+    "source": "script",
+    "createdAt": "2026-04-07T03:40:30.425Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.223.75.145",
+      "city": "Hanau",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
