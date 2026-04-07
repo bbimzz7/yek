@@ -11259,5 +11259,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-9A4451-261DB5-3910C4": {
+    "expires": "2026-04-08T17:25:34.305Z",
+    "hwid": "1455040215-E4464F3D-E283-457C-A71D-10151C30AA9F",
+    "browserHwid": null,
+    "username": "galakxyzak12",
+    "userId": "1455040215",
+    "source": "script",
+    "createdAt": "2026-04-07T17:25:34.769Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "139.193.97.231",
+      "city": "Sidoarjo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
