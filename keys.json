@@ -11612,5 +11612,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-19FA6C-F62246-F985D0": {
+    "expires": "2026-04-08T22:49:57.727Z",
+    "hwid": "7777232613-9f446931-8fea-46ce-b481-897ddfc0b962",
+    "browserHwid": null,
+    "username": "fatihml8",
+    "userId": "7777232613",
+    "source": "script",
+    "createdAt": "2026-04-07T22:49:57.983Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.15.1.176",
+      "city": "Ngawi",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
