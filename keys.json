@@ -9749,5 +9749,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0CF8F8-373F56-3A2E9A": {
+    "expires": "2026-04-08T01:58:49.210Z",
+    "hwid": "7494856118-8954fe24-c05a-43d9-8831-cd6b2351a802",
+    "browserHwid": null,
+    "username": "Xxsad_0boyxX",
+    "userId": "7494856118",
+    "source": "script",
+    "createdAt": "2026-04-07T01:58:49.475Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.251.211.114",
+      "city": "Bishkek",
+      "region": "Gorod Bishkek",
+      "country": "Kyrgyzstan",
+      "cc": "KG"
+    }
   }
 }
