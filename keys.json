@@ -11595,5 +11595,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-836F35-DDC7D0-14EE08": {
+    "expires": "2026-04-08T22:47:03.409Z",
+    "hwid": "6215261330-7b37130b-5866-44a1-88da-54cb353a7815",
+    "browserHwid": null,
+    "username": "sasukeuchija_90",
+    "userId": "6215261330",
+    "source": "script",
+    "createdAt": "2026-04-07T22:47:03.853Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "200.119.181.149",
+      "city": "Guatemala City",
+      "region": "Guatemala",
+      "country": "Guatemala",
+      "cc": "GT"
+    }
   }
 }
