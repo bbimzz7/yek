@@ -10078,5 +10078,22 @@
       "country": "Belize",
       "cc": "BZ"
     }
+  },
+  "VH-1648B9-E8075E-1F3029": {
+    "expires": "2026-04-08T07:50:20.055Z",
+    "hwid": null,
+    "browserHwid": "BR-38A8D337-J87TR",
+    "username": "plutofit18",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-07T07:50:20.514Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.33.6",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
