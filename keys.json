@@ -9943,8 +9943,15 @@
     "userId": "10593337636",
     "source": "script",
     "createdAt": "2026-04-07T05:47:03.068Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T05:48:04.237Z",
     "geo": {
+      "ip": "36.73.33.247",
+      "city": "Banyumas",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.73.33.247",
       "city": "Banyumas",
       "region": "Central Java",
