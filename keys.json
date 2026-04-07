@@ -10295,5 +10295,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C760C9-E559F1-D43127": {
+    "expires": "2026-04-08T09:24:27.331Z",
+    "hwid": "8800635386-9d8c3cbe-6d18-487e-835c-d18c9d65632c",
+    "browserHwid": null,
+    "username": "tungtungtung5595",
+    "userId": "8800635386",
+    "source": "script",
+    "createdAt": "2026-04-07T09:24:27.727Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.57.204.11",
+      "city": "Yangon",
+      "region": "Yangon",
+      "country": "Myanmar",
+      "cc": "MM"
+    }
   }
 }
