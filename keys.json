@@ -10714,5 +10714,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-99232F-A0136A-E89C51": {
+    "expires": "2026-04-08T12:49:01.125Z",
+    "hwid": "8829280970-a3a9d081-f058-4652-8fd5-f8e59069c1f8",
+    "browserHwid": null,
+    "username": "c00lkibb1ng",
+    "userId": "8829280970",
+    "source": "script",
+    "createdAt": "2026-04-07T12:49:01.440Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.193.156",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
