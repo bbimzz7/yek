@@ -11098,5 +11098,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-2AE9DB-B75FA3-FC9F30": {
+    "expires": "2026-04-08T15:54:12.194Z",
+    "hwid": "9462085907-1556EF37-49FD-4F21-855E-3BA6541E1679",
+    "browserHwid": null,
+    "username": "haduao3",
+    "userId": "9462085907",
+    "source": "script",
+    "createdAt": "2026-04-07T15:54:12.736Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.131.53",
+      "city": "Karet Kuningan",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
