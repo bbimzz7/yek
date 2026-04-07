@@ -10006,5 +10006,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-075697-82CF10-EF1ABF": {
+    "expires": "2026-04-08T06:09:26.982Z",
+    "hwid": "10753578661-fd99f26c-871f-4057-be7c-40572b2f90a2",
+    "browserHwid": null,
+    "username": "MEGANRESIMULO",
+    "userId": "10753578661",
+    "source": "script",
+    "createdAt": "2026-04-07T06:09:27.455Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.28.219.173",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
