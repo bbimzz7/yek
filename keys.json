@@ -11139,5 +11139,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-99B814-47A4C3-61A3F5": {
+    "expires": "2026-04-08T16:07:02.867Z",
+    "hwid": "10788638931-967ef51a-13c9-45b2-90db-cc2f108da134",
+    "browserHwid": null,
+    "username": "Hysrix_lol",
+    "userId": "10788638931",
+    "source": "script",
+    "createdAt": "2026-04-07T16:07:03.219Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.97.191",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
