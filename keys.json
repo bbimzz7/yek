@@ -9758,8 +9758,15 @@
     "userId": "7494856118",
     "source": "script",
     "createdAt": "2026-04-07T01:58:49.475Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T02:03:44.620Z",
     "geo": {
+      "ip": "46.251.211.114",
+      "city": "Bishkek",
+      "region": "Gorod Bishkek",
+      "country": "Kyrgyzstan",
+      "cc": "KG"
+    },
+    "lastGeo": {
       "ip": "46.251.211.114",
       "city": "Bishkek",
       "region": "Gorod Bishkek",
