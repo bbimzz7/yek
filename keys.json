@@ -9710,8 +9710,15 @@
     "userId": "7652739758",
     "source": "script",
     "createdAt": "2026-04-07T01:51:03.785Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T01:51:09.223Z",
     "geo": {
+      "ip": "180.249.202.181",
+      "city": "Jayapura",
+      "region": "Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.249.202.181",
       "city": "Jayapura",
       "region": "Papua",
