@@ -9734,8 +9734,15 @@
     "userId": "8418122332",
     "source": "script",
     "createdAt": "2026-04-07T01:57:34.890Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T01:57:46.835Z",
     "geo": {
+      "ip": "180.249.202.181",
+      "city": "Jayapura",
+      "region": "Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.249.202.181",
       "city": "Jayapura",
       "region": "Papua",
