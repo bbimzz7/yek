@@ -10328,8 +10328,15 @@
     "userId": "9446995367",
     "source": "script",
     "createdAt": "2026-04-07T09:30:13.787Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T09:30:25.118Z",
     "geo": {
+      "ip": "197.0.216.183",
+      "city": "Aryanah",
+      "region": "Ariana Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    },
+    "lastGeo": {
       "ip": "197.0.216.183",
       "city": "Aryanah",
       "region": "Ariana Governorate",
