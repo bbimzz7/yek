@@ -10666,5 +10666,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-49D7D5-16710C-10DF43": {
+    "expires": "2026-04-08T12:30:49.228Z",
+    "hwid": "10624419194-D5A7310D-0A7D-4099-A184-1AF0679EB958",
+    "browserHwid": null,
+    "username": "eby_notika",
+    "userId": "10624419194",
+    "source": "script",
+    "createdAt": "2026-04-07T12:30:49.775Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "79.126.120.240",
+      "city": "Orenburg",
+      "region": "Orenburg Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
