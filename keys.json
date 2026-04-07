@@ -9638,11 +9638,18 @@
     "userId": "8939647741",
     "source": "script",
     "createdAt": "2026-04-07T00:44:17.326Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T00:47:57.792Z",
     "geo": {
       "ip": "202.152.203.63",
       "city": "Gambut",
       "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "103.174.123.2",
+      "city": "Sumedang",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
