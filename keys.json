@@ -11571,5 +11571,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-4B543E-475E64-595236": {
+    "expires": "2026-04-08T22:45:24.829Z",
+    "hwid": "8522336092-3F02465C-CCC7-4076-A826-5DF3EB7C1CA5",
+    "browserHwid": null,
+    "username": "jad5626308",
+    "userId": "8522336092",
+    "source": "script",
+    "createdAt": "2026-04-07T22:45:25.318Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "77.184.222.207",
+      "city": "Mannheim",
+      "region": "Baden-Wurttemberg",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
