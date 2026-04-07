@@ -11122,5 +11122,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5BB067-51FBBC-630863": {
+    "expires": "2026-04-08T16:04:08.726Z",
+    "hwid": null,
+    "browserHwid": "BR-0FD3331C-FO0M4",
+    "username": "dicky27",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-07T16:04:09.235Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.46.151",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
