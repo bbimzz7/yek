@@ -10199,5 +10199,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8FB9D4-C571E8-DA302F": {
+    "expires": "2026-04-08T08:14:29.766Z",
+    "hwid": "10679607576-148a5429-fcd0-4182-a01d-586ae8562cd4",
+    "browserHwid": null,
+    "username": "jujulau_bunny",
+    "userId": "10679607576",
+    "source": "script",
+    "createdAt": "2026-04-07T08:14:30.269Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.83.45.55",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
