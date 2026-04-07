@@ -11211,5 +11211,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C58CAE-5F38B4-0B5D69": {
+    "expires": "2026-04-08T17:02:48.100Z",
+    "hwid": "3320850805-2370F939-F3ED-4A17-BE41-C130852705FE",
+    "browserHwid": null,
+    "username": "AmurTigro46",
+    "userId": "3320850805",
+    "source": "script",
+    "createdAt": "2026-04-07T17:02:48.607Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.11.183.210",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
