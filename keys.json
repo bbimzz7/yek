@@ -10208,8 +10208,15 @@
     "userId": "10679607576",
     "source": "script",
     "createdAt": "2026-04-07T08:14:30.269Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T08:15:40.286Z",
     "geo": {
+      "ip": "203.83.45.55",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "203.83.45.55",
       "city": "Jakarta",
       "region": "Jakarta",
