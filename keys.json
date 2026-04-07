@@ -11523,5 +11523,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-A1D620-475943-2368D4": {
+    "expires": "2026-04-08T21:31:20.689Z",
+    "hwid": "8175948784-5a121fa9-6846-4f47-8e16-4b237dc5d000",
+    "browserHwid": null,
+    "username": "strahumandeltareal",
+    "userId": "8175948784",
+    "source": "script",
+    "createdAt": "2026-04-07T21:31:21.179Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.234.213.179",
+      "city": "Quito",
+      "region": "Pichincha",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
