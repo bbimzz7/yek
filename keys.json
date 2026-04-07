@@ -10569,5 +10569,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-41DB82-FCCAC3-CE703A": {
+    "expires": "2026-04-08T11:53:10.271Z",
+    "hwid": "10219070674-78e13494-97c5-4cbe-b4f3-0907bbc0d49a",
+    "browserHwid": null,
+    "username": "BLOXGAMESS_NEW",
+    "userId": "10219070674",
+    "source": "script",
+    "createdAt": "2026-04-07T11:53:10.776Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.144.145.42",
+      "city": "Muhajirin",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
