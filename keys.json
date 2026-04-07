@@ -10882,5 +10882,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-2ADF04-C7F6B6-E830C2": {
+    "expires": "2026-04-08T14:08:06.450Z",
+    "hwid": "5381295340-4413d0ed-69ce-4e09-9817-20699d63b3bb",
+    "browserHwid": null,
+    "username": "Raffa19058",
+    "userId": "5381295340",
+    "source": "script",
+    "createdAt": "2026-04-07T14:08:06.946Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.175.100",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
