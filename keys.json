@@ -10617,5 +10617,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-790D7B-28C0CE-AF3858": {
+    "expires": "2026-04-08T12:08:00.527Z",
+    "hwid": "4417536688-520916e0-ae60-457d-b611-280351deac4f",
+    "browserHwid": null,
+    "username": "putr_neisila",
+    "userId": "4417536688",
+    "source": "script",
+    "createdAt": "2026-04-07T12:08:01.018Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.75.222.35",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
