@@ -11403,5 +11403,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F086AB-F976FC-E44E52": {
+    "expires": "2026-04-08T20:37:21.465Z",
+    "hwid": "10633047275-5f17d8c1-1a05-477e-8ac6-9cbbd3e13968",
+    "browserHwid": null,
+    "username": "MessaOktafian",
+    "userId": "10633047275",
+    "source": "script",
+    "createdAt": "2026-04-07T20:37:22.002Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.42.67",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
