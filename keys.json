@@ -10496,8 +10496,15 @@
     "userId": "10708810469",
     "source": "script",
     "createdAt": "2026-04-07T10:43:25.979Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T10:43:32.974Z",
     "geo": {
+      "ip": "202.87.173.22",
+      "city": "Perth",
+      "region": "Western Australia",
+      "country": "Australia",
+      "cc": "AU"
+    },
+    "lastGeo": {
       "ip": "202.87.173.22",
       "city": "Perth",
       "region": "Western Australia",
