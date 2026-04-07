@@ -10987,8 +10987,15 @@
     "userId": "377963374",
     "source": "script",
     "createdAt": "2026-04-07T14:52:02.006Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T14:52:14.384Z",
     "geo": {
+      "ip": "112.213.44.79",
+      "city": "Picton",
+      "region": "Marlborough",
+      "country": "New Zealand",
+      "cc": "NZ"
+    },
+    "lastGeo": {
       "ip": "112.213.44.79",
       "city": "Picton",
       "region": "Marlborough",
