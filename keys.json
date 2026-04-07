@@ -9838,5 +9838,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-4EC684-5550D4-CB0B76": {
+    "expires": "2026-04-08T04:23:13.794Z",
+    "hwid": "10766296225-a1c506d6-8584-406b-b316-a10edf05990e",
+    "browserHwid": null,
+    "username": "yfruthyj",
+    "userId": "10766296225",
+    "source": "script",
+    "createdAt": "2026-04-07T04:23:14.286Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.117.61.80",
+      "city": "Cajamar",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
