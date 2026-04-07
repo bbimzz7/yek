@@ -10644,14 +10644,22 @@
   },
   "VH-A35355-BDE4A7-A4616D": {
     "expires": "2026-04-08T12:15:02.900Z",
-    "hwid": null,
+    "hwid": "9300903515-4582a69b-fc3d-4250-9b1d-33d06427a12d",
     "browserHwid": "BR-3A5DABD6-3CAVU",
     "username": "aldi_redline7",
-    "userId": null,
+    "userId": "9300903515",
     "source": "browser",
     "createdAt": "2026-04-07T12:15:03.278Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T12:15:25.861Z",
     "geo": {
+      "ip": "182.9.33.6",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-04-07T12:15:25.853Z",
+    "lastGeo": {
       "ip": "182.9.33.6",
       "city": "Medan",
       "region": "North Sumatra",
