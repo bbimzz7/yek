@@ -11532,8 +11532,15 @@
     "userId": "8175948784",
     "source": "script",
     "createdAt": "2026-04-07T21:31:21.179Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T21:36:32.334Z",
     "geo": {
+      "ip": "177.234.213.179",
+      "city": "Quito",
+      "region": "Pichincha",
+      "country": "Ecuador",
+      "cc": "EC"
+    },
+    "lastGeo": {
       "ip": "177.234.213.179",
       "city": "Quito",
       "region": "Pichincha",
