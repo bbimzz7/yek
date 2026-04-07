@@ -10081,14 +10081,22 @@
   },
   "VH-1648B9-E8075E-1F3029": {
     "expires": "2026-04-08T07:50:20.055Z",
-    "hwid": null,
+    "hwid": "9570721988-4582a69b-fc3d-4250-9b1d-33d06427a12d",
     "browserHwid": "BR-38A8D337-J87TR",
     "username": "plutofit18",
-    "userId": null,
+    "userId": "9570721988",
     "source": "browser",
     "createdAt": "2026-04-07T07:50:20.514Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T07:50:39.051Z",
     "geo": {
+      "ip": "182.9.33.6",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-04-07T07:50:39.030Z",
+    "lastGeo": {
       "ip": "182.9.33.6",
       "city": "Medan",
       "region": "North Sumatra",
