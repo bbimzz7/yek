@@ -10480,5 +10480,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5EE483-CA9E26-77F00A": {
+    "expires": "2026-04-08T10:43:25.709Z",
+    "hwid": "10708810469-149051e6-e992-4a47-b4b3-930fae66a2de",
+    "browserHwid": null,
+    "username": "xWukongAura",
+    "userId": "10708810469",
+    "source": "script",
+    "createdAt": "2026-04-07T10:43:25.979Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.87.173.22",
+      "city": "Perth",
+      "region": "Western Australia",
+      "country": "Australia",
+      "cc": "AU"
+    }
   }
 }
