@@ -9782,8 +9782,15 @@
     "userId": "9633866278",
     "source": "script",
     "createdAt": "2026-04-07T02:12:17.316Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T02:12:25.631Z",
     "geo": {
+      "ip": "182.4.71.163",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.4.71.163",
       "city": "Padang",
       "region": "West Sumatra",
