@@ -11228,5 +11228,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-43A4E3-30F139-CC7262": {
+    "expires": "2026-04-08T17:02:53.660Z",
+    "hwid": "8929900375-6f51a39b-e6a3-4cff-ac5c-e7993515dcfd",
+    "browserHwid": null,
+    "username": "real_babapro5",
+    "userId": "8929900375",
+    "source": "script",
+    "createdAt": "2026-04-07T17:02:54.086Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "135.125.175.195",
+      "city": "Hamburg",
+      "region": "Hamburg",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
