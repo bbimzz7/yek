@@ -9701,5 +9701,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9C60EC-5656C0-E1CD28": {
+    "expires": "2026-04-08T01:51:03.360Z",
+    "hwid": "7652739758-76b4df96-8c15-44d0-903b-a6f5cf8a5368",
+    "browserHwid": null,
+    "username": "xerodoxs4",
+    "userId": "7652739758",
+    "source": "script",
+    "createdAt": "2026-04-07T01:51:03.785Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.249.202.181",
+      "city": "Jayapura",
+      "region": "Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
