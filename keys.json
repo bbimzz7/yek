@@ -11107,8 +11107,15 @@
     "userId": "9462085907",
     "source": "script",
     "createdAt": "2026-04-07T15:54:12.736Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T15:54:20.064Z",
     "geo": {
+      "ip": "182.253.131.53",
+      "city": "Karet Kuningan",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.253.131.53",
       "city": "Karet Kuningan",
       "region": "Jakarta",
