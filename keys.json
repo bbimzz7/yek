@@ -11638,8 +11638,15 @@
     "userId": "8201262186",
     "source": "script",
     "createdAt": "2026-04-07T23:17:00.465Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T23:17:53.936Z",
     "geo": {
+      "ip": "121.101.130.163",
+      "city": "Kebon Gunung",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "121.101.130.163",
       "city": "Kebon Gunung",
       "region": "Central Java",
