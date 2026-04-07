@@ -9797,5 +9797,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B6B824-D5422E-19B47F": {
+    "expires": "2026-04-08T03:15:59.865Z",
+    "hwid": "1313211023-b15528ae-4940-469d-8892-4b8ea0c8c450",
+    "browserHwid": null,
+    "username": "mastergames3608",
+    "userId": "1313211023",
+    "source": "script",
+    "createdAt": "2026-04-07T03:16:00.296Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.197.42.153",
+      "city": "Belmopan",
+      "region": "Cayo District",
+      "country": "Belize",
+      "cc": "BZ"
+    }
   }
 }
