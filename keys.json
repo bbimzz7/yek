@@ -10463,5 +10463,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DB4D0A-BA7A28-C953E7": {
+    "expires": "2026-04-08T10:42:51.338Z",
+    "hwid": "8515965828-91b6cece-d149-4251-a5db-a2c4ac79f55e",
+    "browserHwid": null,
+    "username": "Andrew133254",
+    "userId": "8515965828",
+    "source": "script",
+    "createdAt": "2026-04-07T10:42:51.820Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "118.99.64.226",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
