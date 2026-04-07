@@ -10626,11 +10626,18 @@
     "userId": "4417536688",
     "source": "script",
     "createdAt": "2026-04-07T12:08:01.018Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T12:08:28.921Z",
     "geo": {
       "ip": "36.75.222.35",
       "city": "Denpasar",
       "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "36.85.221.223",
+      "city": "Manado",
+      "region": "North Sulawesi",
       "country": "Indonesia",
       "cc": "ID"
     }
