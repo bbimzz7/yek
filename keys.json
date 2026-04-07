@@ -11460,11 +11460,18 @@
     "userId": "8839377304",
     "source": "script",
     "createdAt": "2026-04-07T20:50:49.556Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T20:50:59.304Z",
     "geo": {
       "ip": "158.140.165.80",
       "city": "Palembang",
       "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "158.140.173.116",
+      "city": "Malang",
+      "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
     }
