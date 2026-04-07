@@ -10343,5 +10343,22 @@
       "country": "Tunisia",
       "cc": "TN"
     }
+  },
+  "VH-C3BB08-AC1AFB-C4F032": {
+    "expires": "2026-04-08T09:49:14.681Z",
+    "hwid": "10690104377-e2a89e78-e121-4fb3-88b0-55c8e123375a",
+    "browserHwid": null,
+    "username": "ahhhsakitsyg",
+    "userId": "10690104377",
+    "source": "script",
+    "createdAt": "2026-04-07T09:49:15.142Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.3.139.184",
+      "city": "Samarinda",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
