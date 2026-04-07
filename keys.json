@@ -10223,5 +10223,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-13BF65-17D908-BE8054": {
+    "expires": "2026-04-08T08:37:12.946Z",
+    "hwid": "4695132898-bb518e55-f5da-4b55-a9fe-eb6a9bcc7871",
+    "browserHwid": null,
+    "username": "Jjnxfkfgfk",
+    "userId": "4695132898",
+    "source": "script",
+    "createdAt": "2026-04-07T08:37:13.504Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.59.114.170",
+      "city": "Hampton",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
