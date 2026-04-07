@@ -10376,10 +10376,17 @@
     "userId": "10754009971",
     "source": "script",
     "createdAt": "2026-04-07T10:02:24.586Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T10:02:30.338Z",
     "geo": {
       "ip": "103.158.253.105",
       "city": "Bulupayung",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "103.158.253.104",
+      "city": "Brebes",
       "region": "Central Java",
       "country": "Indonesia",
       "cc": "ID"
