@@ -9614,8 +9614,15 @@
     "userId": "5418031228",
     "source": "script",
     "createdAt": "2026-04-07T00:38:07.328Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T00:38:14.718Z",
     "geo": {
+      "ip": "64.67.153.52",
+      "city": "Slatington",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "64.67.153.52",
       "city": "Slatington",
       "region": "Pennsylvania",
