@@ -9629,5 +9629,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-8CFA43-7FE9A1-1C72CD": {
+    "expires": "2026-04-08T00:44:16.848Z",
+    "hwid": "8939647741-bc7af047-db4c-49ca-a1e3-0a25333629e1",
+    "browserHwid": null,
+    "username": "YatzZ_OG",
+    "userId": "8939647741",
+    "source": "script",
+    "createdAt": "2026-04-07T00:44:17.326Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.152.203.63",
+      "city": "Gambut",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
