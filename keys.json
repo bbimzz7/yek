@@ -9773,5 +9773,22 @@
       "country": "Kyrgyzstan",
       "cc": "KG"
     }
+  },
+  "VH-B1BE04-458351-EB8CD4": {
+    "expires": "2026-04-08T02:12:16.851Z",
+    "hwid": "9633866278-3e4afb6e-d804-49c3-97c2-5aa9074ff295",
+    "browserHwid": null,
+    "username": "quiksevils7",
+    "userId": "9633866278",
+    "source": "script",
+    "createdAt": "2026-04-07T02:12:17.316Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.71.163",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
