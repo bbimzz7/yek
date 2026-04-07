@@ -10511,5 +10511,22 @@
       "country": "Australia",
       "cc": "AU"
     }
+  },
+  "VH-4C9D2F-298232-84510E": {
+    "expires": "2026-04-08T10:58:44.812Z",
+    "hwid": "10051913751-118b9d9c-914c-4820-92fb-2ee150154248",
+    "browserHwid": null,
+    "username": "dark_man5790",
+    "userId": "10051913751",
+    "source": "script",
+    "createdAt": "2026-04-07T10:58:45.307Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.65.238.203",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
