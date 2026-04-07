@@ -10304,8 +10304,15 @@
     "userId": "8800635386",
     "source": "script",
     "createdAt": "2026-04-07T09:24:27.727Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T09:26:19.445Z",
     "geo": {
+      "ip": "103.57.204.11",
+      "city": "Yangon",
+      "region": "Yangon",
+      "country": "Myanmar",
+      "cc": "MM"
+    },
+    "lastGeo": {
       "ip": "103.57.204.11",
       "city": "Yangon",
       "region": "Yangon",
