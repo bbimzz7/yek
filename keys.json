@@ -9934,5 +9934,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-2D6966-77017D-0D61D3": {
+    "expires": "2026-04-08T05:47:02.794Z",
+    "hwid": "10593337636-bd471e0d-4a08-4eaa-a15c-9681fbe72963",
+    "browserHwid": null,
+    "username": "yenn2k26",
+    "userId": "10593337636",
+    "source": "script",
+    "createdAt": "2026-04-07T05:47:03.068Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.33.247",
+      "city": "Banyumas",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
