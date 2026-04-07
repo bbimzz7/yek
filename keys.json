@@ -11580,8 +11580,15 @@
     "userId": "8522336092",
     "source": "script",
     "createdAt": "2026-04-07T22:45:25.318Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T22:45:36.240Z",
     "geo": {
+      "ip": "77.184.222.207",
+      "city": "Mannheim",
+      "region": "Baden-Wurttemberg",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "77.184.222.207",
       "city": "Mannheim",
       "region": "Baden-Wurttemberg",
