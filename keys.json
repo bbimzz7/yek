@@ -9605,5 +9605,22 @@
       "country": "Belize",
       "cc": "BZ"
     }
+  },
+  "VH-65A776-A4AA36-FD2ABE": {
+    "expires": "2026-04-08T00:38:06.891Z",
+    "hwid": "5418031228-4979d8ef-2b37-478c-8720-66a1d0feaae3",
+    "browserHwid": null,
+    "username": "2coold33",
+    "userId": "5418031228",
+    "source": "script",
+    "createdAt": "2026-04-07T00:38:07.328Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "64.67.153.52",
+      "city": "Slatington",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
