@@ -11508,8 +11508,15 @@
     "userId": "8650940506",
     "source": "script",
     "createdAt": "2026-04-07T21:14:48.780Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T21:16:08.354Z",
     "geo": {
+      "ip": "204.157.127.6",
+      "city": "Restauración",
+      "region": "Dajabón",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    },
+    "lastGeo": {
       "ip": "204.157.127.6",
       "city": "Restauración",
       "region": "Dajabón",
