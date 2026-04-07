@@ -10160,8 +10160,15 @@
     "userId": "9207889265",
     "source": "script",
     "createdAt": "2026-04-07T08:00:28.050Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T08:00:51.321Z",
     "geo": {
+      "ip": "103.149.18.25",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.149.18.25",
       "city": "Pekanbaru",
       "region": "Riau",
