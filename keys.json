@@ -11244,8 +11244,15 @@
     "userId": "8929900375",
     "source": "script",
     "createdAt": "2026-04-07T17:02:54.086Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T17:03:11.901Z",
     "geo": {
+      "ip": "135.125.175.195",
+      "city": "Hamburg",
+      "region": "Hamburg",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "135.125.175.195",
       "city": "Hamburg",
       "region": "Hamburg",
