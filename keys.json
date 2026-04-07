@@ -10963,8 +10963,15 @@
     "userId": "8017218125",
     "source": "script",
     "createdAt": "2026-04-07T14:48:08.335Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T14:48:13.772Z",
     "geo": {
+      "ip": "49.48.218.228",
+      "city": "Phra Nakhon Si Ayutthaya",
+      "region": "Phra Nakhon Si Ayutthaya",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "49.48.218.228",
       "city": "Phra Nakhon Si Ayutthaya",
       "region": "Phra Nakhon Si Ayutthaya",
