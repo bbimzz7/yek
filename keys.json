@@ -10400,8 +10400,15 @@
     "userId": "10488976796",
     "source": "script",
     "createdAt": "2026-04-07T10:03:22.820Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T10:03:47.549Z",
     "geo": {
+      "ip": "114.10.104.128",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.104.128",
       "city": "Jambi City",
       "region": "Jambi",
