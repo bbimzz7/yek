@@ -11172,11 +11172,18 @@
     "userId": "8003098055",
     "source": "script",
     "createdAt": "2026-04-07T16:12:35.876Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T16:12:44.843Z",
     "geo": {
       "ip": "140.213.46.204",
       "city": "Bandung",
       "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "140.213.38.74",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
