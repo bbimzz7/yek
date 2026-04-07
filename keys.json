@@ -9847,8 +9847,15 @@
     "userId": "10766296225",
     "source": "script",
     "createdAt": "2026-04-07T04:23:14.286Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T04:26:03.347Z",
     "geo": {
+      "ip": "138.117.61.80",
+      "city": "Cajamar",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "138.117.61.80",
       "city": "Cajamar",
       "region": "São Paulo",
