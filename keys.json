@@ -11083,8 +11083,15 @@
     "userId": "2377679003",
     "source": "script",
     "createdAt": "2026-04-07T15:43:46.966Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T15:43:54.335Z",
     "geo": {
+      "ip": "176.44.71.22",
+      "city": "Riyadh",
+      "region": "Riyadh Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    },
+    "lastGeo": {
       "ip": "176.44.71.22",
       "city": "Riyadh",
       "region": "Riyadh Region",
