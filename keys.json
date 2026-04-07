@@ -10578,8 +10578,15 @@
     "userId": "10219070674",
     "source": "script",
     "createdAt": "2026-04-07T11:53:10.776Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T11:54:20.388Z",
     "geo": {
+      "ip": "103.144.145.42",
+      "city": "Muhajirin",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.144.145.42",
       "city": "Muhajirin",
       "region": "West Nusa Tenggara",
