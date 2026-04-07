@@ -11540,5 +11540,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-761424-45A8D3-03C892": {
+    "expires": "2026-04-08T21:32:42.652Z",
+    "hwid": "967485276-EDDC8354-F256-4C23-87D2-1913715E7B83",
+    "browserHwid": null,
+    "username": "DemonHunter100x",
+    "userId": "967485276",
+    "source": "script",
+    "createdAt": "2026-04-07T21:32:42.943Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.149.109.155",
+      "city": "Zamboanga City",
+      "region": "Zamboanga Peninsula",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
