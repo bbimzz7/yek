@@ -10867,8 +10867,15 @@
     "userId": "10789675966",
     "source": "script",
     "createdAt": "2026-04-07T13:50:39.632Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-07T13:50:54.402Z",
     "geo": {
+      "ip": "86.103.13.128",
+      "city": "Kiel",
+      "region": "Schleswig-Holstein",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "86.103.13.128",
       "city": "Kiel",
       "region": "Schleswig-Holstein",
