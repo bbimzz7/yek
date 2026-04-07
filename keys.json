@@ -11050,5 +11050,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F95875-50F0F6-2BCC52": {
+    "expires": "2026-04-08T15:25:13.265Z",
+    "hwid": "9105002111-bc2eda99-b3cd-4a1d-bbb4-b34c48b3510f",
+    "browserHwid": null,
+    "username": "Vann_0060",
+    "userId": "9105002111",
+    "source": "script",
+    "createdAt": "2026-04-07T15:25:13.574Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.16.7",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
