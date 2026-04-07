@@ -10151,5 +10151,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-50CCEA-C5EC8A-D38C0D": {
+    "expires": "2026-04-08T08:00:27.742Z",
+    "hwid": "9207889265-0660dc29-7220-4513-bb3d-dfc1f74a2a6f",
+    "browserHwid": null,
+    "username": "tewww_245",
+    "userId": "9207889265",
+    "source": "script",
+    "createdAt": "2026-04-07T08:00:28.050Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.149.18.25",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
