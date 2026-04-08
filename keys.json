@@ -3382,5 +3382,22 @@
       "country": "Belize",
       "cc": "BZ"
     }
+  },
+  "VH-31F913-6ABF4E-F197B8": {
+    "expires": "2026-04-09T16:06:32.686Z",
+    "hwid": "8961398627-19E07177-FA93-49A7-8623-17E01853DD5A",
+    "browserHwid": null,
+    "username": "bangseth882",
+    "userId": "8961398627",
+    "source": "script",
+    "createdAt": "2026-04-08T16:06:33.089Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.1.218",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
