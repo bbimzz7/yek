@@ -3094,5 +3094,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-A493DD-56A25C-BA0BD8": {
+    "expires": "2026-04-09T14:19:55.100Z",
+    "hwid": "3751944419-63FD640F-0464-4F42-8BE5-824D78192068",
+    "browserHwid": null,
+    "username": "sixzerxsx",
+    "userId": "3751944419",
+    "source": "script",
+    "createdAt": "2026-04-08T14:19:55.533Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "91.122.172.95",
+      "city": "St Petersburg",
+      "region": "St.-Petersburg",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
