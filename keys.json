@@ -2297,5 +2297,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-46ED03-0FC623-501086": {
+    "expires": "2026-04-09T04:11:46.237Z",
+    "hwid": "9439740680-83746e09-d7a0-458a-a46f-8c5c7f0c30c6",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-04-08T04:11:46.538Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.71.226.67",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
