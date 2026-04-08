@@ -2620,8 +2620,15 @@
     "userId": "9974003028",
     "source": "script",
     "createdAt": "2026-04-08T09:14:20.200Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T09:17:33.729Z",
     "geo": {
+      "ip": "182.1.212.41",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.1.212.41",
       "city": "Makassar",
       "region": "South Sulawesi",
