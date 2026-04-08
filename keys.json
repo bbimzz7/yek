@@ -3766,5 +3766,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-3B0EC1-A58B2D-23B1A4": {
+    "expires": "2026-04-09T22:46:37.077Z",
+    "hwid": "10780138276-ec76465e-9d7a-4890-a899-5e364146be83",
+    "browserHwid": null,
+    "username": "yakin_kah0",
+    "userId": "10780138276",
+    "source": "script",
+    "createdAt": "2026-04-08T22:46:37.466Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.165.95.4",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
