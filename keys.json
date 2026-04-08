@@ -2249,5 +2249,22 @@
       "country": "Honduras",
       "cc": "HN"
     }
+  },
+  "VH-8B33DF-487B6F-EE6505": {
+    "expires": "2026-04-09T03:32:04.678Z",
+    "hwid": "10213140981-0002ee73-4c22-4098-8e7b-24f8c22c7569",
+    "browserHwid": null,
+    "username": "Peloloco_47",
+    "userId": "10213140981",
+    "source": "script",
+    "createdAt": "2026-04-08T03:32:05.011Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.136.68.228",
+      "city": "Mosquera",
+      "region": "Cundinamarca",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
