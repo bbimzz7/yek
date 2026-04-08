@@ -3319,8 +3319,15 @@
     "userId": "8653919718",
     "source": "script",
     "createdAt": "2026-04-08T15:28:43.608Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T15:28:59.435Z",
     "geo": {
+      "ip": "36.50.115.216",
+      "city": "Tegaljati",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.50.115.216",
       "city": "Tegaljati",
       "region": "West Java",
