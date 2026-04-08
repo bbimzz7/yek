@@ -3029,5 +3029,22 @@
       "country": "Morocco",
       "cc": "MA"
     }
+  },
+  "VH-497145-0FCB58-D4E285": {
+    "expires": "2026-04-09T13:29:59.372Z",
+    "hwid": "8728614199-e05eb71a-3882-4e2d-baf4-2f981d09d1f0",
+    "browserHwid": null,
+    "username": "Berkaydoruk8154",
+    "userId": "8728614199",
+    "source": "script",
+    "createdAt": "2026-04-08T13:29:59.748Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "135.136.0.139",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
