@@ -3151,8 +3151,15 @@
     "userId": "8308707589",
     "source": "script",
     "createdAt": "2026-04-08T14:27:11.005Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T14:27:19.260Z",
     "geo": {
+      "ip": "110.54.198.212",
+      "city": "Talavera",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "110.54.198.212",
       "city": "Talavera",
       "region": "Central Luzon",
