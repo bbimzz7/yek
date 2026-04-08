@@ -3550,5 +3550,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-936A8C-E97038-D9FDFA": {
+    "expires": "2026-04-09T19:05:02.364Z",
+    "hwid": "9659808623-788c5f12-b89e-48f8-ac32-425574df77af",
+    "browserHwid": null,
+    "username": "MauriceStone51834",
+    "userId": "9659808623",
+    "source": "script",
+    "createdAt": "2026-04-08T19:05:02.774Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.115.175.152",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    }
   }
 }
