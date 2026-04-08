@@ -2177,5 +2177,22 @@
       "country": "Paraguay",
       "cc": "PY"
     }
+  },
+  "VH-F24D2E-523304-30339F": {
+    "expires": "2026-04-09T01:01:57.355Z",
+    "hwid": "9633866278-511eff28-6fce-43cb-b221-db7bb5d0c404",
+    "browserHwid": null,
+    "username": "quiksevils7",
+    "userId": "9633866278",
+    "source": "script",
+    "createdAt": "2026-04-08T01:01:57.672Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.70.200",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
