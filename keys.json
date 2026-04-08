@@ -3646,5 +3646,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-E5FEBF-58F5FB-83B9E7": {
+    "expires": "2026-04-09T20:01:34.732Z",
+    "hwid": "10694793688-e94658ae-6f6f-47e3-b62d-b5b54f36d67d",
+    "browserHwid": null,
+    "username": "Joker_Somali2",
+    "userId": "10694793688",
+    "source": "script",
+    "createdAt": "2026-04-08T20:01:35.164Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "192.145.175.105",
+      "city": "Mogadishu",
+      "region": "Banaadir",
+      "country": "Somalia",
+      "cc": "SO"
+    }
   }
 }
