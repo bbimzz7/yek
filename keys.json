@@ -2201,5 +2201,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FA1EAA-B66D03-F74B46": {
+    "expires": "2026-04-09T01:36:49.560Z",
+    "hwid": "6023081388-ED54A484-D786-41B5-AB08-E85A7962A4B7",
+    "browserHwid": null,
+    "username": "stealltamp",
+    "userId": "6023081388",
+    "source": "script",
+    "createdAt": "2026-04-08T01:36:49.878Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.62.87.175",
+      "city": "Atibaia",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
