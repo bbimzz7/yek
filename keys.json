@@ -2131,8 +2131,15 @@
     "userId": "7159668841",
     "source": "script",
     "createdAt": "2026-04-08T00:22:14.757Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T00:22:23.482Z",
     "geo": {
+      "ip": "187.190.178.67",
+      "city": "Monterrey",
+      "region": "Nuevo León",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.190.178.67",
       "city": "Monterrey",
       "region": "Nuevo León",
