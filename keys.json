@@ -2418,5 +2418,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-8EF706-EF95C6-DCC0BC": {
+    "expires": "2026-04-09T05:18:58.552Z",
+    "hwid": "8555321123-06e76ca0-1955-4d4c-82fc-847e1f622c2d",
+    "browserHwid": null,
+    "username": "ggsaym",
+    "userId": "8555321123",
+    "source": "script",
+    "createdAt": "2026-04-08T05:18:58.950Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.115.20.241",
+      "city": "Subang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
