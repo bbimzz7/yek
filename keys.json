@@ -3070,5 +3070,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FD6606-2EC5CB-55D7A4": {
+    "expires": "2026-04-09T13:50:27.210Z",
+    "hwid": "4514296948-a534b7d3-1d82-42e4-bf49-5595579d6a40",
+    "browserHwid": null,
+    "username": "6sfs34",
+    "userId": "4514296948",
+    "source": "script",
+    "createdAt": "2026-04-08T13:50:27.637Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.169.71.93",
+      "city": "Quận Ba",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
