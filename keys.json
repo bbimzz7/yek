@@ -2516,8 +2516,15 @@
     "userId": "8420175822",
     "source": "script",
     "createdAt": "2026-04-08T07:18:43.352Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T07:20:25.251Z",
     "geo": {
+      "ip": "103.164.192.90",
+      "city": "Ampeldentokrajan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.164.192.90",
       "city": "Ampeldentokrajan",
       "region": "East Java",
