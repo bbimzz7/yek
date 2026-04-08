@@ -3847,8 +3847,15 @@
     "userId": "1313211023",
     "source": "script",
     "createdAt": "2026-04-08T23:22:41.356Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T23:23:46.098Z",
     "geo": {
+      "ip": "190.197.42.153",
+      "city": "Belmopan",
+      "region": "Cayo District",
+      "country": "Belize",
+      "cc": "BZ"
+    },
+    "lastGeo": {
       "ip": "190.197.42.153",
       "city": "Belmopan",
       "region": "Cayo District",
