@@ -3655,8 +3655,15 @@
     "userId": "10694793688",
     "source": "script",
     "createdAt": "2026-04-08T20:01:35.164Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T20:02:38.761Z",
     "geo": {
+      "ip": "192.145.175.105",
+      "city": "Mogadishu",
+      "region": "Banaadir",
+      "country": "Somalia",
+      "cc": "SO"
+    },
+    "lastGeo": {
       "ip": "192.145.175.105",
       "city": "Mogadishu",
       "region": "Banaadir",
