@@ -3790,5 +3790,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5A47DA-4023AE-2D9CED": {
+    "expires": "2026-04-09T22:48:11.815Z",
+    "hwid": "5116914899-72EC3710-D233-4704-94B3-F08A71C95094",
+    "browserHwid": null,
+    "username": "4387mikedergaile",
+    "userId": "5116914899",
+    "source": "script",
+    "createdAt": "2026-04-08T22:48:12.053Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "84.188.34.205",
+      "city": "Waldbröl",
+      "region": "North Rhine-Westphalia",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
