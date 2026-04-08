@@ -3190,5 +3190,22 @@
       "country": "Hungary",
       "cc": "HU"
     }
+  },
+  "VH-78918A-9FB940-2E9816": {
+    "expires": "2026-04-09T14:40:36.480Z",
+    "hwid": "8507274458-7937c587-866a-4bd6-8762-0f09ef0d53b9",
+    "browserHwid": null,
+    "username": "kopanda46205",
+    "userId": "8507274458",
+    "source": "script",
+    "createdAt": "2026-04-08T14:40:36.906Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.235.203.236",
+      "city": "Toronto",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
