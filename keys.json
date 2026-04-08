@@ -3310,5 +3310,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1B0B81-372163-906841": {
+    "expires": "2026-04-09T15:28:43.246Z",
+    "hwid": "8653919718-671aa35c-e000-4cbf-9a6e-7e15de47ca0d",
+    "browserHwid": null,
+    "username": "keleleppp",
+    "userId": "8653919718",
+    "source": "script",
+    "createdAt": "2026-04-08T15:28:43.608Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.50.115.216",
+      "city": "Tegaljati",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
