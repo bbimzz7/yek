@@ -2983,8 +2983,15 @@
     "userId": "9740558894",
     "source": "script",
     "createdAt": "2026-04-08T12:38:01.820Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T12:38:13.496Z",
     "geo": {
+      "ip": "103.179.182.55",
+      "city": "Genteng",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.179.182.55",
       "city": "Genteng",
       "region": "East Java",
