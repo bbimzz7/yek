@@ -3574,5 +3574,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-254C89-665AF2-B58F12": {
+    "expires": "2026-04-09T19:12:09.932Z",
+    "hwid": "8973045661-9f88599b-2cf3-4d09-b637-227622aa08c4",
+    "browserHwid": null,
+    "username": "hobbz66",
+    "userId": "8973045661",
+    "source": "script",
+    "createdAt": "2026-04-08T19:12:10.351Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.107.4",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
