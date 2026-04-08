@@ -2500,7 +2500,7 @@
     "userId": "3450448470",
     "source": "script",
     "createdAt": "2026-04-08T06:44:40.374Z",
-    "lastUsed": "2026-04-08T11:21:55.090Z",
+    "lastUsed": "2026-04-08T12:05:40.187Z",
     "geo": {
       "ip": "111.94.68.35",
       "city": "Jakarta",
@@ -2509,9 +2509,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "111.94.68.35",
-      "city": "Jakarta",
-      "region": "Jakarta",
+      "ip": "111.94.112.229",
+      "city": "Tangerang",
+      "region": "Banten",
       "country": "Indonesia",
       "cc": "ID"
     }
