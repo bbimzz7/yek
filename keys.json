@@ -3053,5 +3053,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-EB10B5-13C7C7-D1A261": {
+    "expires": "2026-04-09T13:43:08.953Z",
+    "hwid": null,
+    "browserHwid": "BR-0FB89184-6EBUC",
+    "username": "Finzyy_kece",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-08T13:43:09.329Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.25.197.123",
+      "city": "Blora",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
