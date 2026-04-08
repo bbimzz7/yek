@@ -2234,9 +2234,16 @@
     "userId": "10791627458",
     "source": "script",
     "createdAt": "2026-04-08T03:08:51.016Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T03:09:14.431Z",
     "geo": {
       "ip": "45.182.22.185",
+      "city": "San Pedro Sula",
+      "region": "Cortés Department",
+      "country": "Honduras",
+      "cc": "HN"
+    },
+    "lastGeo": {
+      "ip": "45.182.22.189",
       "city": "San Pedro Sula",
       "region": "Cortés Department",
       "country": "Honduras",
