@@ -3223,8 +3223,15 @@
     "userId": "10529612404",
     "source": "script",
     "createdAt": "2026-04-08T14:41:53.265Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T14:43:00.411Z",
     "geo": {
+      "ip": "103.150.32.158",
+      "city": "Nganggrek",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.150.32.158",
       "city": "Nganggrek",
       "region": "East Java",
