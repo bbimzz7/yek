@@ -3823,8 +3823,15 @@
     "userId": "8510852310",
     "source": "script",
     "createdAt": "2026-04-08T22:50:19.431Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T22:50:26.440Z",
     "geo": {
+      "ip": "146.103.97.121",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "The Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "146.103.97.121",
       "city": "Amsterdam",
       "region": "North Holland",
