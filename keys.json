@@ -2122,5 +2122,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-1B0773-A18D08-2F7C04": {
+    "expires": "2026-04-09T00:22:14.549Z",
+    "hwid": "7159668841-8abe3fc1-f127-4877-906e-4204ea1a1b0b",
+    "browserHwid": null,
+    "username": "snatiago056",
+    "userId": "7159668841",
+    "source": "script",
+    "createdAt": "2026-04-08T00:22:14.757Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.190.178.67",
+      "city": "Monterrey",
+      "region": "Nuevo León",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
