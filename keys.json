@@ -3718,5 +3718,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-3F8196-905BA8-D87494": {
+    "expires": "2026-04-09T21:17:31.185Z",
+    "hwid": "7450574691-68d0679d-fa75-48e8-a6b6-1f08fbdb0417",
+    "browserHwid": null,
+    "username": "Snowpy098",
+    "userId": "7450574691",
+    "source": "script",
+    "createdAt": "2026-04-08T21:17:31.555Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "118.99.73.66",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
