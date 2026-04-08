@@ -3622,5 +3622,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-D0F7D8-577665-91C925": {
+    "expires": "2026-04-09T19:27:29.949Z",
+    "hwid": "6071658630-f016a763-7e93-41b7-8fa5-e325bd2c6292",
+    "browserHwid": null,
+    "username": "nunyab63",
+    "userId": "6071658630",
+    "source": "script",
+    "createdAt": "2026-04-08T19:27:30.468Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.161.95.123",
+      "city": "Mercer Island",
+      "region": "Washington",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
