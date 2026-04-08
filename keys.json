@@ -2162,8 +2162,15 @@
     "userId": "10533813775",
     "source": "script",
     "createdAt": "2026-04-08T00:24:22.055Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T00:26:51.350Z",
     "geo": {
+      "ip": "45.228.138.182",
+      "city": "Ciudad del Este",
+      "region": "Alto Paraná Department",
+      "country": "Paraguay",
+      "cc": "PY"
+    },
+    "lastGeo": {
       "ip": "45.228.138.182",
       "city": "Ciudad del Este",
       "region": "Alto Paraná Department",
