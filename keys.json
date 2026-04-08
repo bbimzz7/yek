@@ -3559,8 +3559,15 @@
     "userId": "9659808623",
     "source": "script",
     "createdAt": "2026-04-08T19:05:02.774Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T19:07:14.932Z",
     "geo": {
+      "ip": "103.115.175.152",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    },
+    "lastGeo": {
       "ip": "103.115.175.152",
       "city": "Phnom Penh",
       "region": "Phnom Penh",
