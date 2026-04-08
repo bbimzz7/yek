@@ -2740,8 +2740,15 @@
     "userId": "2698395158",
     "source": "script",
     "createdAt": "2026-04-08T10:23:47.917Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T10:23:52.751Z",
     "geo": {
+      "ip": "116.68.162.112",
+      "city": "Kediri",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "116.68.162.112",
       "city": "Kediri",
       "region": "East Java",
