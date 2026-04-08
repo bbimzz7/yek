@@ -3886,5 +3886,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F6969B-CAB894-CC69D7": {
+    "expires": "2026-04-09T23:57:50.725Z",
+    "hwid": "3851438686-4E204077-5203-4CFD-9EA6-32231738BF9B",
+    "browserHwid": null,
+    "username": "adrxsSGooD",
+    "userId": "3851438686",
+    "source": "script",
+    "createdAt": "2026-04-08T23:57:51.121Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.159.77.123",
+      "city": "Montería",
+      "region": "Departamento de Córdoba",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
