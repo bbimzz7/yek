@@ -3175,8 +3175,15 @@
     "userId": "4313849565",
     "source": "script",
     "createdAt": "2026-04-08T14:35:05.638Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T14:35:18.956Z",
     "geo": {
+      "ip": "80.98.189.217",
+      "city": "Budapest",
+      "region": "Budapest",
+      "country": "Hungary",
+      "cc": "HU"
+    },
+    "lastGeo": {
       "ip": "80.98.189.217",
       "city": "Budapest",
       "region": "Budapest",
