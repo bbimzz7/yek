@@ -3118,5 +3118,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-F448BC-46D47B-8D3316": {
+    "expires": "2026-04-09T14:23:46.682Z",
+    "hwid": "8464749355-ef996f0e-be34-4895-8d3e-a2ee49c2f5ed",
+    "browserHwid": null,
+    "username": "UnknownPikezz",
+    "userId": "8464749355",
+    "source": "script",
+    "createdAt": "2026-04-08T14:23:47.066Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.62.62.154",
+      "city": "Shah Alam",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
