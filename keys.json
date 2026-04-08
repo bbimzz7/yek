@@ -2668,8 +2668,15 @@
     "userId": "5059516525",
     "source": "script",
     "createdAt": "2026-04-08T09:39:02.737Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T09:40:07.567Z",
     "geo": {
+      "ip": "175.176.11.60",
+      "city": "Angeles City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "175.176.11.60",
       "city": "Angeles City",
       "region": "Central Luzon",
