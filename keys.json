@@ -3334,5 +3334,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EEF6FA-4FF83E-21E2E8": {
+    "expires": "2026-04-09T15:29:10.923Z",
+    "hwid": "8478301644-997c0dd5-340e-4c71-9b5b-acd2dbcd1c2d",
+    "browserHwid": null,
+    "username": "Dontbanme_53",
+    "userId": "8478301644",
+    "source": "script",
+    "createdAt": "2026-04-08T15:29:11.220Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.63.34.69",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
