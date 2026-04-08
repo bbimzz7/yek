@@ -3703,8 +3703,15 @@
     "userId": "8171681587",
     "source": "script",
     "createdAt": "2026-04-08T20:42:19.085Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T20:42:24.822Z",
     "geo": {
+      "ip": "182.63.45.200",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "182.63.45.200",
       "city": "Kota Kinabalu",
       "region": "Sabah",
