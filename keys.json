@@ -3526,5 +3526,22 @@
       "country": "Hungary",
       "cc": "HU"
     }
+  },
+  "VH-D1C799-6C38D7-136094": {
+    "expires": "2026-04-09T19:01:49.079Z",
+    "hwid": "2497622978-ada139a9-6b57-4f27-848e-5f3b0baf6b58",
+    "browserHwid": null,
+    "username": "sanzar_1010",
+    "userId": "2497622978",
+    "source": "script",
+    "createdAt": "2026-04-08T19:01:49.490Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.156.114.29",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
