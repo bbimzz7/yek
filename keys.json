@@ -3430,5 +3430,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7D9116-768170-F6E66F": {
+    "expires": "2026-04-09T17:12:48.963Z",
+    "hwid": "8215847289-5c12e279-b4a0-4817-9b12-2e6df2ab42ed",
+    "browserHwid": null,
+    "username": "Skatakis2345",
+    "userId": "8215847289",
+    "source": "script",
+    "createdAt": "2026-04-08T17:12:49.305Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "193.92.213.66",
+      "city": "Athens",
+      "region": "Attica",
+      "country": "Greece",
+      "cc": "GR"
+    }
   }
 }
