@@ -2644,13 +2644,20 @@
     "userId": "9356623358",
     "source": "script",
     "createdAt": "2026-04-08T09:32:39.510Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T09:33:02.055Z",
     "geo": {
       "ip": "103.130.131.147",
       "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.40.59.59",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
