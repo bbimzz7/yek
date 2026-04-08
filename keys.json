@@ -3862,5 +3862,22 @@
       "country": "Belize",
       "cc": "BZ"
     }
+  },
+  "VH-2DB172-1302DA-3609B8": {
+    "expires": "2026-04-09T23:33:14.867Z",
+    "hwid": "9493755903-FC4272D1-15F1-4573-A151-F48DDC11E508",
+    "browserHwid": null,
+    "username": "YOWWKD",
+    "userId": "9493755903",
+    "source": "script",
+    "createdAt": "2026-04-08T23:33:15.297Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.235.223.137",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
