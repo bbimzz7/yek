@@ -3814,5 +3814,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-3320B3-4B1DCF-D97289": {
+    "expires": "2026-04-09T22:50:19.204Z",
+    "hwid": "8510852310-687678eb-1847-4f61-92bd-31a22bef87c8",
+    "browserHwid": null,
+    "username": "mrbeastguy322",
+    "userId": "8510852310",
+    "source": "script",
+    "createdAt": "2026-04-08T22:50:19.431Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.103.97.121",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "The Netherlands",
+      "cc": "NL"
+    }
   }
 }
