@@ -2707,5 +2707,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CEE59D-0B95A1-DA56FE": {
+    "expires": "2026-04-09T10:03:28.029Z",
+    "hwid": "9522736883-b4bf5032-6ac8-4c89-867e-feee4186c60e",
+    "browserHwid": null,
+    "username": "ONLY_LIH2",
+    "userId": "9522736883",
+    "source": "script",
+    "createdAt": "2026-04-08T10:03:28.411Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.77.40.204",
+      "city": "Kediri",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
