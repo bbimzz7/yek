@@ -2105,5 +2105,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-71691B-EA486C-32EDFB": {
+    "expires": "2026-04-09T00:21:42.314Z",
+    "hwid": "10375374745-f8f3a23f-cac3-4329-9f0a-8416ab4a1605",
+    "browserHwid": null,
+    "username": "VallunaMontfleur",
+    "userId": "10375374745",
+    "source": "script",
+    "createdAt": "2026-04-08T00:21:42.632Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.197.245.187",
+      "city": "Belford Roxo",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
