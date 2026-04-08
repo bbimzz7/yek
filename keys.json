@@ -3895,8 +3895,15 @@
     "userId": "3851438686",
     "source": "script",
     "createdAt": "2026-04-08T23:57:51.121Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T23:57:57.360Z",
     "geo": {
+      "ip": "186.159.77.123",
+      "city": "Montería",
+      "region": "Departamento de Córdoba",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
       "ip": "186.159.77.123",
       "city": "Montería",
       "region": "Departamento de Córdoba",
