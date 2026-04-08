@@ -2153,5 +2153,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-A333F9-39F14E-61D56C": {
+    "expires": "2026-04-09T00:24:21.719Z",
+    "hwid": "10533813775-ee12b84e-a0eb-418b-be80-0ae35ffc8bb9",
+    "browserHwid": null,
+    "username": "holawe67655",
+    "userId": "10533813775",
+    "source": "script",
+    "createdAt": "2026-04-08T00:24:22.055Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.228.138.182",
+      "city": "Ciudad del Este",
+      "region": "Alto Paraná Department",
+      "country": "Paraguay",
+      "cc": "PY"
+    }
   }
 }
