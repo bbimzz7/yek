@@ -2974,5 +2974,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-602CEB-A74945-8DC4FB": {
+    "expires": "2026-04-09T12:38:01.588Z",
+    "hwid": "9740558894-a86001eb-fd25-405a-a84d-9d193030ed15",
+    "browserHwid": null,
+    "username": "smyleh039",
+    "userId": "9740558894",
+    "source": "script",
+    "createdAt": "2026-04-08T12:38:01.820Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.179.182.55",
+      "city": "Genteng",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
