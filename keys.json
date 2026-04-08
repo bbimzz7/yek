@@ -3005,5 +3005,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8C28D8-3CE1D0-9AA1CE": {
+    "expires": "2026-04-09T13:19:26.305Z",
+    "hwid": "9520974699-27d344d0-7fec-42d8-b8a1-8a3806406a2d",
+    "browserHwid": null,
+    "username": "just_lawliet7",
+    "userId": "9520974699",
+    "source": "script",
+    "createdAt": "2026-04-08T13:19:26.769Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "196.115.173.129",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "country": "Morocco",
+      "cc": "MA"
+    }
   }
 }
