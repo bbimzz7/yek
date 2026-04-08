@@ -3454,5 +3454,22 @@
       "country": "Greece",
       "cc": "GR"
     }
+  },
+  "VH-2EEB23-2F60E5-DE5E19": {
+    "expires": "2026-04-09T17:56:44.039Z",
+    "hwid": "314348508-28D4B789-B99B-475C-AECE-F882D082ABF3",
+    "browserHwid": null,
+    "username": "fcys",
+    "userId": "314348508",
+    "source": "script",
+    "createdAt": "2026-04-08T17:56:44.473Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "118.99.107.123",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
