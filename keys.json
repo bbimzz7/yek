@@ -2540,10 +2540,17 @@
     "userId": "8350789097",
     "source": "script",
     "createdAt": "2026-04-08T07:21:51.125Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T07:21:58.325Z",
     "geo": {
       "ip": "160.19.18.247",
       "city": "Ciputat",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "101.255.105.190",
+      "city": "Bekasi",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
