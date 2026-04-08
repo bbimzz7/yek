@@ -3799,8 +3799,15 @@
     "userId": "5116914899",
     "source": "script",
     "createdAt": "2026-04-08T22:48:12.053Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T22:48:19.944Z",
     "geo": {
+      "ip": "84.188.34.205",
+      "city": "Waldbröl",
+      "region": "North Rhine-Westphalia",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "84.188.34.205",
       "city": "Waldbröl",
       "region": "North Rhine-Westphalia",
