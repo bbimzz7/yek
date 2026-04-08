@@ -2803,5 +2803,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-FA68F0-1CB996-7CB06E": {
+    "expires": "2026-04-09T10:43:03.431Z",
+    "hwid": "2835092156-098eacd0-dbd0-4c41-992b-de99e55025bf",
+    "browserHwid": null,
+    "username": "giwrgosxatzh",
+    "userId": "2835092156",
+    "source": "script",
+    "createdAt": "2026-04-08T10:43:03.787Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "193.92.213.66",
+      "city": "Athens",
+      "region": "Attica",
+      "country": "Greece",
+      "cc": "GR"
+    }
   }
 }
