@@ -2827,5 +2827,22 @@
       "country": "Greece",
       "cc": "GR"
     }
+  },
+  "VH-9DCC6F-4747C4-1184C7": {
+    "expires": "2026-04-09T10:58:07.957Z",
+    "hwid": "8053378542-d6d45ad1-0554-420d-8810-d861ce62594a",
+    "browserHwid": null,
+    "username": "Nyzam53",
+    "userId": "8053378542",
+    "source": "script",
+    "createdAt": "2026-04-08T10:58:08.358Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.134.215",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
