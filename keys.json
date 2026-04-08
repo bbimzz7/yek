@@ -3166,5 +3166,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-10AB26-972FF9-5972FD": {
+    "expires": "2026-04-09T14:35:05.204Z",
+    "hwid": "4313849565-82193ab6-726c-4e6f-b9f3-432ef3431d1d",
+    "browserHwid": null,
+    "username": "Ronaldoertien",
+    "userId": "4313849565",
+    "source": "script",
+    "createdAt": "2026-04-08T14:35:05.638Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "80.98.189.217",
+      "city": "Budapest",
+      "region": "Budapest",
+      "country": "Hungary",
+      "cc": "HU"
+    }
   }
 }
