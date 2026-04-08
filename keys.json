@@ -2868,5 +2868,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CF7A53-7D7D7C-2C3AB3": {
+    "expires": "2026-04-09T11:53:39.772Z",
+    "hwid": "9696241902-e8475224-5b3b-4751-a25c-7a0c7b91a788",
+    "browserHwid": null,
+    "username": "Medi_Aja3",
+    "userId": "9696241902",
+    "source": "script",
+    "createdAt": "2026-04-08T11:53:40.183Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.151.191",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
