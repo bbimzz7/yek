@@ -2901,8 +2901,15 @@
     "userId": "8172890203",
     "source": "script",
     "createdAt": "2026-04-08T11:57:47.168Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T11:57:56.095Z",
     "geo": {
+      "ip": "160.25.59.15",
+      "city": "Sidoarjo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "160.25.59.15",
       "city": "Sidoarjo",
       "region": "East Java",
