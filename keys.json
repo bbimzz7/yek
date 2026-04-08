@@ -3670,5 +3670,22 @@
       "country": "Somalia",
       "cc": "SO"
     }
+  },
+  "VH-F691C6-600A98-1875BC": {
+    "expires": "2026-04-09T20:41:39.990Z",
+    "hwid": "8971645021-f468a604-82be-46b2-a6a8-8f15e1f84887",
+    "browserHwid": null,
+    "username": "acuusz",
+    "userId": "8971645021",
+    "source": "script",
+    "createdAt": "2026-04-08T20:41:40.421Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.69.144",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
