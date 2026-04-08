@@ -2321,5 +2321,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-ED8215-0ACE02-A647B0": {
+    "expires": "2026-04-09T04:39:52.837Z",
+    "hwid": "8813110142-a162a175-c4ba-419a-9242-9be5ef136b55",
+    "browserHwid": null,
+    "username": "dsyyy1612",
+    "userId": "8813110142",
+    "source": "script",
+    "createdAt": "2026-04-08T04:39:53.149Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.184.54.7",
+      "city": "Curahnongko",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
