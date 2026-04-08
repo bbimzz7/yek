@@ -3742,5 +3742,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-17A390-AAA68F-1E8166": {
+    "expires": "2026-04-09T21:56:10.213Z",
+    "hwid": "9763467130-fac59abd-9c40-4856-96a6-2013f2706921",
+    "browserHwid": null,
+    "username": "holaholaxd706",
+    "userId": "9763467130",
+    "source": "script",
+    "createdAt": "2026-04-08T21:56:10.620Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.52.100.231",
+      "city": "Caracas",
+      "region": "Distrito Federal",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
