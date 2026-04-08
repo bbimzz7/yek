@@ -2210,8 +2210,15 @@
     "userId": "6023081388",
     "source": "script",
     "createdAt": "2026-04-08T01:36:49.878Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-08T01:36:54.822Z",
     "geo": {
+      "ip": "187.62.87.175",
+      "city": "Atibaia",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "187.62.87.175",
       "city": "Atibaia",
       "region": "São Paulo",
