@@ -2273,5 +2273,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-13676B-A72313-A8BA9F": {
+    "expires": "2026-04-09T03:55:20.184Z",
+    "hwid": "1854028152-e996638a-935b-4b5f-a9a5-7ecd907e1a35",
+    "browserHwid": null,
+    "username": "Agaimoil",
+    "userId": "1854028152",
+    "source": "script",
+    "createdAt": "2026-04-08T03:55:20.524Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.45.80.196",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
