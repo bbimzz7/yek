@@ -2659,5 +2659,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-C39921-AB25C1-4EF157": {
+    "expires": "2026-04-09T09:39:02.353Z",
+    "hwid": "5059516525-2de1a7d5-4e6c-4bc4-83e5-bb82b95b49c7",
+    "browserHwid": null,
+    "username": "DouNuts_2244",
+    "userId": "5059516525",
+    "source": "script",
+    "createdAt": "2026-04-08T09:39:02.737Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.176.11.60",
+      "city": "Angeles City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
