@@ -3358,5 +3358,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-2C44B2-236D8E-5C3FB0": {
+    "expires": "2026-04-09T16:03:26.447Z",
+    "hwid": "10778777122-f7e5c880-c8b5-47b4-8d74-a0858fc9a6d8",
+    "browserHwid": null,
+    "username": "zioontesting_alt",
+    "userId": "10778777122",
+    "source": "script",
+    "createdAt": "2026-04-08T16:03:26.791Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.197.42.153",
+      "city": "Belmopan",
+      "region": "Cayo District",
+      "country": "Belize",
+      "cc": "BZ"
+    }
   }
 }
