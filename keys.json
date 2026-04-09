@@ -3345,8 +3345,15 @@
     "userId": "85723826",
     "source": "script",
     "createdAt": "2026-04-09T21:54:40.480Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T21:55:30.211Z",
     "geo": {
+      "ip": "186.130.25.7",
+      "city": "Villa Ballester",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "186.130.25.7",
       "city": "Villa Ballester",
       "region": "Buenos Aires",
