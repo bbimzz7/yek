@@ -2696,8 +2696,15 @@
     "userId": "7735777991",
     "source": "script",
     "createdAt": "2026-04-09T12:04:24.221Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T12:04:35.235Z",
     "geo": {
+      "ip": "139.135.73.181",
+      "city": "Daet",
+      "region": "Bicol Region",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "139.135.73.181",
       "city": "Daet",
       "region": "Bicol Region",
