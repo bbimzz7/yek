@@ -3982,5 +3982,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-F7DB5A-FA3523-F69DCE": {
+    "expires": "2026-04-10T01:05:44.594Z",
+    "hwid": "9740048513-5B20D9BC-B20A-4E1E-AD0B-E30EE17665AC",
+    "browserHwid": null,
+    "username": "idihbasi",
+    "userId": "9740048513",
+    "source": "script",
+    "createdAt": "2026-04-09T01:05:44.945Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "204.51.34.60",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
