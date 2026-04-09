@@ -2408,8 +2408,15 @@
     "userId": "9550249193",
     "source": "script",
     "createdAt": "2026-04-09T06:36:16.741Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T06:37:09.817Z",
     "geo": {
+      "ip": "186.77.196.139",
+      "city": "Managua",
+      "region": "Managua Department",
+      "country": "Nicaragua",
+      "cc": "NI"
+    },
+    "lastGeo": {
       "ip": "186.77.196.139",
       "city": "Managua",
       "region": "Managua Department",
