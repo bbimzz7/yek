@@ -3143,5 +3143,22 @@
       "country": "Greece",
       "cc": "GR"
     }
+  },
+  "VH-6E7E61-67A880-F81DD2": {
+    "expires": "2026-04-10T17:49:59.602Z",
+    "hwid": null,
+    "browserHwid": "BR-443F8180-PJW6W",
+    "username": "HFarhanH",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-09T17:49:59.996Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.165.188.165",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
