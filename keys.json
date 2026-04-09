@@ -3047,5 +3047,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-080989-DF0AB2-A73A1F": {
+    "expires": "2026-04-10T15:50:26.092Z",
+    "hwid": "10709804312-0a716c7e-188c-4885-8422-bb55be65f23d",
+    "browserHwid": null,
+    "username": "RootDemetraa",
+    "userId": "10709804312",
+    "source": "script",
+    "createdAt": "2026-04-09T15:50:26.304Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.197.141",
+      "city": "Serang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
