@@ -3264,5 +3264,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E5C7DF-142203-9A55C1": {
+    "expires": "2026-04-10T20:49:11.425Z",
+    "hwid": "8724603670-1439f9bd-bb7b-4934-a439-00e0bd99250b",
+    "browserHwid": null,
+    "username": "jajah_fofinha",
+    "userId": "8724603670",
+    "source": "script",
+    "createdAt": "2026-04-09T20:49:11.825Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.36.171.96",
+      "city": "Sorocaba",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
