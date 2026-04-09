@@ -2831,5 +2831,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DB8ABF-C1EFEA-41E855": {
+    "expires": "2026-04-10T13:50:31.743Z",
+    "hwid": "10179925465-9fa1fe16-4408-4c32-ab3d-5a8728f3d335",
+    "browserHwid": null,
+    "username": "RV_wc7",
+    "userId": "10179925465",
+    "source": "script",
+    "createdAt": "2026-04-09T13:50:32.291Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.106.174.128",
+      "city": "Itabuna",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
