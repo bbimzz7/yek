@@ -2191,5 +2191,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-35085F-DCAC9E-3E47A7": {
+    "expires": "2026-04-10T04:38:58.959Z",
+    "hwid": "10770491135-6397b05c-e1cd-4f9e-87cd-60839152fff4",
+    "browserHwid": null,
+    "username": "AKUNKE1_hilang1",
+    "userId": "10770491135",
+    "source": "script",
+    "createdAt": "2026-04-09T04:38:59.323Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.15.187.14",
+      "city": "Banyuwangi",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
