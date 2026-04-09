@@ -3934,5 +3934,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4FB069-F28AC5-9E3464": {
+    "expires": "2026-04-10T00:28:55.742Z",
+    "hwid": "10794502788-b96d6d97-8811-4528-804d-d57c0f649e48",
+    "browserHwid": null,
+    "username": "bawokbecek3",
+    "userId": "10794502788",
+    "source": "script",
+    "createdAt": "2026-04-09T00:28:56.127Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.170.94",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
