@@ -2312,7 +2312,7 @@
     "userId": "9073185025",
     "source": "script",
     "createdAt": "2026-04-09T06:01:51.325Z",
-    "lastUsed": "2026-04-09T06:02:16.806Z",
+    "lastUsed": "2026-04-09T07:12:18.271Z",
     "geo": {
       "ip": "103.227.186.53",
       "city": "Banyuwangi",
@@ -2321,7 +2321,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "104.28.163.97",
+      "ip": "104.28.163.34",
       "city": "Singapore",
       "region": "North West",
       "country": "Singapore",
