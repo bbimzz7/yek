@@ -3177,8 +3177,15 @@
     "userId": "7936900864",
     "source": "script",
     "createdAt": "2026-04-09T18:17:35.423Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T18:17:42.149Z",
     "geo": {
+      "ip": "176.121.193.188",
+      "city": "Snezhnoye",
+      "region": "Primorye",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "176.121.193.188",
       "city": "Snezhnoye",
       "region": "Primorye",
