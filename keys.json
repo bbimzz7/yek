@@ -2783,5 +2783,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-10A4F5-D141AD-F0B51E": {
+    "expires": "2026-04-10T13:00:37.084Z",
+    "hwid": "10784075002-9ccb1a3e-a080-4659-ab02-1d6a62fa7d16",
+    "browserHwid": null,
+    "username": "Fanzz_Mvj",
+    "userId": "10784075002",
+    "source": "script",
+    "createdAt": "2026-04-09T13:00:37.517Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.86.116.74",
+      "city": "Lenteng",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
