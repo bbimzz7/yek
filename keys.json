@@ -2944,5 +2944,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F95A1E-4F3EEB-F185F3": {
+    "expires": "2026-04-10T14:18:44.855Z",
+    "hwid": "10671997927-4d13fae8-8e59-4e5e-91eb-bb3e9c04ec9b",
+    "browserHwid": null,
+    "username": "bot_788026",
+    "userId": "10671997927",
+    "source": "script",
+    "createdAt": "2026-04-09T14:18:45.229Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "149.100.71.10",
+      "city": "Batam",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
