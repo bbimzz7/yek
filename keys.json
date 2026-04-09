@@ -1910,5 +1910,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-49F0EB-6E3C96-5659E7": {
+    "expires": "2026-04-10T02:00:34.637Z",
+    "hwid": "3450448470-65237e45-6fbf-4bc6-b976-5ae491828f47",
+    "browserHwid": null,
+    "username": "rnzsadwa",
+    "userId": "3450448470",
+    "source": "script",
+    "createdAt": "2026-04-09T02:00:34.964Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.94.112.229",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
