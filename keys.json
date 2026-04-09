@@ -3201,7 +3201,7 @@
     "userId": "8951652960",
     "source": "script",
     "createdAt": "2026-04-09T19:01:18.064Z",
-    "lastUsed": "2026-04-09T19:01:36.762Z",
+    "lastUsed": "2026-04-09T19:05:01.375Z",
     "geo": {
       "ip": "203.78.125.240",
       "city": "Jakarta",
@@ -3210,9 +3210,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "112.215.147.202",
-      "city": "Pekanbaru",
-      "region": "Riau",
+      "ip": "203.78.126.99",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
