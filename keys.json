@@ -1982,5 +1982,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BB5880-50A21A-9AEF25": {
+    "expires": "2026-04-10T02:36:49.382Z",
+    "hwid": "9630981670-1849dc8f-02a6-4b21-9e74-480ead5c9b12",
+    "browserHwid": null,
+    "username": "pecelleleabah04",
+    "userId": "9630981670",
+    "source": "script",
+    "createdAt": "2026-04-09T02:36:49.711Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.19.227.205",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
