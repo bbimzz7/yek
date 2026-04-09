@@ -3032,8 +3032,15 @@
     "userId": "5071503254",
     "source": "script",
     "createdAt": "2026-04-09T15:42:20.418Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T15:45:25.793Z",
     "geo": {
+      "ip": "114.79.37.54",
+      "city": "Laikit Matungkas",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.79.37.54",
       "city": "Laikit Matungkas",
       "region": "North Sulawesi",
