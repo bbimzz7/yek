@@ -2735,5 +2735,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EE0FBE-AEBB45-4C018F": {
+    "expires": "2026-04-10T12:22:03.399Z",
+    "hwid": "7098631895-2999DC2E-7A33-4D85-8348-3D4FF78215B5",
+    "browserHwid": null,
+    "username": "cimpanzeu21",
+    "userId": "7098631895",
+    "source": "script",
+    "createdAt": "2026-04-09T12:22:03.920Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "109.166.131.249",
+      "city": "Bucharest",
+      "region": "București",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
