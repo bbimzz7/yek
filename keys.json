@@ -2711,5 +2711,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-373942-15F1E1-D62CB4": {
+    "expires": "2026-04-10T12:11:49.659Z",
+    "hwid": "7824789001-1b2c2727-eec1-4bf4-a699-c659462ee496",
+    "browserHwid": null,
+    "username": "abcdefirman29",
+    "userId": "7824789001",
+    "source": "script",
+    "createdAt": "2026-04-09T12:11:50.016Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.70.177",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
