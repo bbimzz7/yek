@@ -2054,5 +2054,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-841E9F-35252B-2C6475": {
+    "expires": "2026-04-10T03:28:31.009Z",
+    "hwid": "852837418-0BC0BAB5-B915-47D4-8E64-C1837B51BDED",
+    "browserHwid": null,
+    "username": "namhtmpro",
+    "userId": "852837418",
+    "source": "script",
+    "createdAt": "2026-04-09T03:28:31.358Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.72.123.69",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
