@@ -2471,5 +2471,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-0B0DAC-A6BF77-A6A436": {
+    "expires": "2026-04-10T08:09:40.829Z",
+    "hwid": "7784601463-2815e0d2-e635-44e6-94b1-ac1d09959047",
+    "browserHwid": null,
+    "username": "memeklatos99",
+    "userId": "7784601463",
+    "source": "script",
+    "createdAt": "2026-04-09T08:09:41.204Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.90.73",
+      "city": "Sungguminasa",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
