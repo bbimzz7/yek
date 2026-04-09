@@ -3384,5 +3384,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-2A4B3F-D2414C-A75073": {
+    "expires": "2026-04-10T23:37:56.464Z",
+    "hwid": "10052482697-03756ca5-1876-4a8a-8bcf-d10ae62c5c6c",
+    "browserHwid": null,
+    "username": "burangir31",
+    "userId": "10052482697",
+    "source": "script",
+    "createdAt": "2026-04-09T23:37:56.834Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.34.17",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
