@@ -2591,5 +2591,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6DBCA8-06877F-B204DE": {
+    "expires": "2026-04-10T09:31:09.436Z",
+    "hwid": "3440661521-34765466-2365-472B-83CD-4B2B0168EF67",
+    "browserHwid": null,
+    "username": "youlooklost232323",
+    "userId": "3440661521",
+    "source": "script",
+    "createdAt": "2026-04-09T09:31:09.844Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.165.150.88",
+      "city": "Bengkalis",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
