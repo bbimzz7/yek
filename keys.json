@@ -3240,5 +3240,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-253FC7-CF75BD-2F8F60": {
+    "expires": "2026-04-10T20:23:45.703Z",
+    "hwid": "355807318-225ac120-74dd-4737-8412-ebaec14a991d",
+    "browserHwid": null,
+    "username": "gamersending",
+    "userId": "355807318",
+    "source": "script",
+    "createdAt": "2026-04-09T20:23:46.059Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.129.150.103",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
