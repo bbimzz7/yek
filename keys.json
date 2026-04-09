@@ -2447,5 +2447,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-B7A41F-6CFCD6-86F303": {
+    "expires": "2026-04-10T07:04:51.610Z",
+    "hwid": "8675311553-72f06aed-2bd1-49df-9804-08bf07e8833c",
+    "browserHwid": null,
+    "username": "faanss_gans",
+    "userId": "8675311553",
+    "source": "script",
+    "createdAt": "2026-04-09T07:04:52.000Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "89.21.87.137",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
