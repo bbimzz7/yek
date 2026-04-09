@@ -2687,5 +2687,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-14192D-C9162C-BD6C3A": {
+    "expires": "2026-04-10T12:04:23.819Z",
+    "hwid": "7735777991-dd541106-0b30-44b9-8b77-38c673475e8b",
+    "browserHwid": null,
+    "username": "Heart200393",
+    "userId": "7735777991",
+    "source": "script",
+    "createdAt": "2026-04-09T12:04:24.221Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "139.135.73.181",
+      "city": "Daet",
+      "region": "Bicol Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
