@@ -2807,5 +2807,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-48079B-9C92E9-1A1240": {
+    "expires": "2026-04-10T13:42:31.827Z",
+    "hwid": "3322380309-6d1c4920-8a50-421a-a75a-3ba4f97c251c",
+    "browserHwid": null,
+    "username": "vasyganteng",
+    "userId": "3322380309",
+    "source": "script",
+    "createdAt": "2026-04-09T13:42:32.262Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.46.186.19",
+      "city": "Utan",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
