@@ -3080,8 +3080,15 @@
     "userId": "3677763783",
     "source": "script",
     "createdAt": "2026-04-09T16:22:10.537Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T16:22:30.672Z",
     "geo": {
+      "ip": "89.21.87.137",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "89.21.87.137",
       "city": "Kuala Lumpur",
       "region": "Kuala Lumpur",
