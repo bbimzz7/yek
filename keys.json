@@ -1886,5 +1886,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C67C63-45C025-462B0B": {
+    "expires": "2026-04-10T01:41:32.455Z",
+    "hwid": "9984564753-adae364f-e526-4027-b94d-a4c7b7903c5c",
+    "browserHwid": null,
+    "username": "Syvfbcfgdf",
+    "userId": "9984564753",
+    "source": "script",
+    "createdAt": "2026-04-09T01:41:32.784Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.58.242.111",
+      "city": "Hyattsville",
+      "region": "Maryland",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
