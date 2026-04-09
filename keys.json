@@ -2663,5 +2663,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F5821D-CABC80-208C23": {
+    "expires": "2026-04-10T11:21:22.721Z",
+    "hwid": "10773070900-dfb2059f-02da-43a3-9cb5-5fb278ce85ee",
+    "browserHwid": null,
+    "username": "miner_fnaf",
+    "userId": "10773070900",
+    "source": "script",
+    "createdAt": "2026-04-09T11:21:23.113Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.167.56.187",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
