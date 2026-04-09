@@ -3273,8 +3273,15 @@
     "userId": "8724603670",
     "source": "script",
     "createdAt": "2026-04-09T20:49:11.825Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T20:50:41.655Z",
     "geo": {
+      "ip": "177.36.171.96",
+      "city": "Sorocaba",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.36.171.96",
       "city": "Sorocaba",
       "region": "São Paulo",
