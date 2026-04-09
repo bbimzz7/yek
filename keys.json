@@ -3910,5 +3910,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-AE7376-50A84C-A01D86": {
+    "expires": "2026-04-10T00:00:41.013Z",
+    "hwid": "9956332560-843dbd87-e70e-41a2-ae13-1d24989ff019",
+    "browserHwid": null,
+    "username": "rayy_123456789107",
+    "userId": "9956332560",
+    "source": "script",
+    "createdAt": "2026-04-09T00:00:41.391Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.207.129",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
