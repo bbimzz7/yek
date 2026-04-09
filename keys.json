@@ -1895,8 +1895,15 @@
     "userId": "9984564753",
     "source": "script",
     "createdAt": "2026-04-09T01:41:32.784Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T01:41:46.179Z",
     "geo": {
+      "ip": "172.58.242.111",
+      "city": "Hyattsville",
+      "region": "Maryland",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.58.242.111",
       "city": "Hyattsville",
       "region": "Maryland",
