@@ -3360,5 +3360,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-5A424F-25E0C3-BB4D56": {
+    "expires": "2026-04-10T22:23:06.289Z",
+    "hwid": "7426542996-ae74a973-8e1c-4cfd-be68-da35ffba623f",
+    "browserHwid": null,
+    "username": "NICO_ERICK25",
+    "userId": "7426542996",
+    "source": "script",
+    "createdAt": "2026-04-09T22:23:06.669Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "200.112.218.248",
+      "city": "Machala",
+      "region": "El Oro",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
