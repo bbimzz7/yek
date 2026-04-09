@@ -3095,5 +3095,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-161398-172116-04EC75": {
+    "expires": "2026-04-10T16:33:32.297Z",
+    "hwid": "5512596876-1ad7e45f-20dd-4cbf-aa41-d3a9fbb219a6",
+    "browserHwid": null,
+    "username": "DeemHams1",
+    "userId": "5512596876",
+    "source": "script",
+    "createdAt": "2026-04-09T16:33:32.779Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.53.167.112",
+      "city": "Riyadh",
+      "region": "Riyadh Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
