@@ -2305,13 +2305,20 @@
     "userId": "9073185025",
     "source": "script",
     "createdAt": "2026-04-09T06:01:51.325Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T06:02:16.806Z",
     "geo": {
       "ip": "103.227.186.53",
       "city": "Banyuwangi",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "104.28.163.97",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
     }
   }
 }
