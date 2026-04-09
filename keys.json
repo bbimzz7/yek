@@ -1943,8 +1943,15 @@
     "userId": "8634463708",
     "source": "script",
     "createdAt": "2026-04-09T02:04:30.534Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T02:04:40.988Z",
     "geo": {
+      "ip": "157.66.170.4",
+      "city": "Cileungsir",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.66.170.4",
       "city": "Cileungsir",
       "region": "West Java",
