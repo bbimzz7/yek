@@ -3192,5 +3192,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-2D9119-AD6260-7A3540": {
+    "expires": "2026-04-10T19:01:17.811Z",
+    "hwid": "8951652960-59fc7409-02d0-4c78-af90-72e77e4fefe1",
+    "browserHwid": null,
+    "username": "sayangyuuni",
+    "userId": "8951652960",
+    "source": "script",
+    "createdAt": "2026-04-09T19:01:18.064Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.78.125.240",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
