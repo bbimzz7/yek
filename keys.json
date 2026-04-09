@@ -2648,8 +2648,15 @@
     "userId": "10112764352",
     "source": "script",
     "createdAt": "2026-04-09T09:57:54.821Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T09:58:04.206Z",
     "geo": {
+      "ip": "103.115.238.77",
+      "city": "Sekupang",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.115.238.77",
       "city": "Sekupang",
       "region": "Riau Islands",
