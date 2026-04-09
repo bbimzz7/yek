@@ -2336,8 +2336,15 @@
     "userId": "7944754181",
     "source": "script",
     "createdAt": "2026-04-09T06:15:58.434Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T06:18:09.774Z",
     "geo": {
+      "ip": "103.108.30.90",
+      "city": "Kotawaringin",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.108.30.90",
       "city": "Kotawaringin",
       "region": "Central Kalimantan",
