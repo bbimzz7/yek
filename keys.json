@@ -3119,5 +3119,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-C3DAA0-0DB8D4-09A615": {
+    "expires": "2026-04-10T17:25:12.865Z",
+    "hwid": "8215847289-9abec1a3-799c-4338-82a4-0c9a3cfbbb9e",
+    "browserHwid": null,
+    "username": "Skatakis2345",
+    "userId": "8215847289",
+    "source": "script",
+    "createdAt": "2026-04-09T17:25:13.290Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "193.92.213.66",
+      "city": "Athens",
+      "region": "Attica",
+      "country": "Greece",
+      "cc": "GR"
+    }
   }
 }
