@@ -2759,5 +2759,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-05574C-8EEAF9-0CFCF3": {
+    "expires": "2026-04-10T12:39:17.781Z",
+    "hwid": "8027718805-eb20975a-ed19-4880-a19d-31636458a499",
+    "browserHwid": null,
+    "username": "Whenyhhh",
+    "userId": "8027718805",
+    "source": "script",
+    "createdAt": "2026-04-09T12:39:18.227Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.251.28",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
