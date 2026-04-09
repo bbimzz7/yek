@@ -2030,5 +2030,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3F9EA8-962289-4BCB16": {
+    "expires": "2026-04-10T03:20:23.332Z",
+    "hwid": "7777232613-e57da077-05f0-4571-9f34-398bd6d0c326",
+    "browserHwid": null,
+    "username": "fatihml8",
+    "userId": "7777232613",
+    "source": "script",
+    "createdAt": "2026-04-09T03:20:23.746Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.15.1.176",
+      "city": "Ngawi",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
