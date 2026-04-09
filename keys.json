@@ -3146,14 +3146,22 @@
   },
   "VH-6E7E61-67A880-F81DD2": {
     "expires": "2026-04-10T17:49:59.602Z",
-    "hwid": null,
+    "hwid": "10610645939-A2FED0FF-643A-43F2-8719-8A0B01FA9B31",
     "browserHwid": "BR-443F8180-PJW6W",
     "username": "HFarhanH",
-    "userId": null,
+    "userId": "10610645939",
     "source": "browser",
     "createdAt": "2026-04-09T17:49:59.996Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T17:52:12.735Z",
     "geo": {
+      "ip": "125.165.188.165",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-04-09T17:52:12.729Z",
+    "lastGeo": {
       "ip": "125.165.188.165",
       "city": "Jakarta",
       "region": "Jakarta",
