@@ -3336,5 +3336,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-EE880B-D11AA7-736A25": {
+    "expires": "2026-04-10T21:54:40.069Z",
+    "hwid": "85723826-e61917ec-f228-4574-9e28-dd05ec15af84",
+    "browserHwid": null,
+    "username": "NarcoHD",
+    "userId": "85723826",
+    "source": "script",
+    "createdAt": "2026-04-09T21:54:40.480Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.130.25.7",
+      "city": "Villa Ballester",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
