@@ -3288,5 +3288,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-68DF29-DD8D75-DC5C8A": {
+    "expires": "2026-04-10T20:51:54.999Z",
+    "hwid": "10220513756-bcbfbceb-9c16-4089-babd-2f8910c34781",
+    "browserHwid": null,
+    "username": "zizibmwcool",
+    "userId": "10220513756",
+    "source": "script",
+    "createdAt": "2026-04-09T20:51:55.375Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.83.40.2",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
