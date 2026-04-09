@@ -2840,8 +2840,15 @@
     "userId": "10179925465",
     "source": "script",
     "createdAt": "2026-04-09T13:50:32.291Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T13:51:48.503Z",
     "geo": {
+      "ip": "179.106.174.128",
+      "city": "Itabuna",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "179.106.174.128",
       "city": "Itabuna",
       "region": "Bahia",
