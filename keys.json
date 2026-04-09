@@ -2039,8 +2039,15 @@
     "userId": "7777232613",
     "source": "script",
     "createdAt": "2026-04-09T03:20:23.746Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T03:22:22.955Z",
     "geo": {
+      "ip": "157.15.1.176",
+      "city": "Ngawi",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.15.1.176",
       "city": "Ngawi",
       "region": "East Java",
