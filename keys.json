@@ -2600,8 +2600,15 @@
     "userId": "3440661521",
     "source": "script",
     "createdAt": "2026-04-09T09:31:09.844Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T09:31:19.760Z",
     "geo": {
+      "ip": "103.165.150.88",
+      "city": "Bengkalis",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.165.150.88",
       "city": "Bengkalis",
       "region": "Riau",
