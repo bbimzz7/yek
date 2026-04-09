@@ -3168,5 +3168,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AFAC1B-381B7B-48B44C": {
+    "expires": "2026-04-10T18:17:35.055Z",
+    "hwid": "7936900864-A7480DB9-8339-4FFA-AC0B-98133B1F24C8",
+    "browserHwid": null,
+    "username": "dosef00",
+    "userId": "7936900864",
+    "source": "script",
+    "createdAt": "2026-04-09T18:17:35.423Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.121.193.188",
+      "city": "Snezhnoye",
+      "region": "Primorye",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
