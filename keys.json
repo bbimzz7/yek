@@ -1991,13 +1991,20 @@
     "userId": "9630981670",
     "source": "script",
     "createdAt": "2026-04-09T02:36:49.711Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T02:37:06.922Z",
     "geo": {
       "ip": "160.19.227.205",
       "city": "Bandung",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.39.148.97",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
