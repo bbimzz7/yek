@@ -2102,5 +2102,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-642496-8C2E4C-E6F4EA": {
+    "expires": "2026-04-10T03:59:57.897Z",
+    "hwid": "8617422571-3ab6760e-c456-4ba3-ba57-92a7e58fd970",
+    "browserHwid": null,
+    "username": "m0rphh14",
+    "userId": "8617422571",
+    "source": "script",
+    "createdAt": "2026-04-09T03:59:58.060Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "121.101.188.4",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
