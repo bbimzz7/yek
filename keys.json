@@ -1967,8 +1967,15 @@
     "userId": "9282594103",
     "source": "script",
     "createdAt": "2026-04-09T02:12:04.406Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T02:12:10.537Z",
     "geo": {
+      "ip": "216.243.116.216",
+      "city": "Cirebon",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "216.243.116.216",
       "city": "Cirebon",
       "region": "West Java",
