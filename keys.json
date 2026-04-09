@@ -3321,8 +3321,15 @@
     "userId": "3034183062",
     "source": "script",
     "createdAt": "2026-04-09T20:59:40.859Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T21:00:23.086Z",
     "geo": {
+      "ip": "79.206.152.105",
+      "city": "Bremen",
+      "region": "City state Bremen",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "79.206.152.105",
       "city": "Bremen",
       "region": "City state Bremen",
