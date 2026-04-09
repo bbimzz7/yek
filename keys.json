@@ -1958,5 +1958,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-074D50-1155AD-3AE037": {
+    "expires": "2026-04-10T02:12:04.010Z",
+    "hwid": "9282594103-0D3FD17A-FA20-43F9-A704-F58CA3CBAA75",
+    "browserHwid": null,
+    "username": "geyoube",
+    "userId": "9282594103",
+    "source": "script",
+    "createdAt": "2026-04-09T02:12:04.406Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "216.243.116.216",
+      "city": "Cirebon",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
