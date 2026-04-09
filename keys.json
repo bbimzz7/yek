@@ -2399,5 +2399,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-A1BB56-F09E53-2D83F8": {
+    "expires": "2026-04-10T06:36:16.341Z",
+    "hwid": "9550249193-1cbe8b97-2ee4-441e-af25-bbd4600a73c7",
+    "browserHwid": null,
+    "username": "ixzem000",
+    "userId": "9550249193",
+    "source": "script",
+    "createdAt": "2026-04-09T06:36:16.741Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.77.196.139",
+      "city": "Managua",
+      "region": "Managua Department",
+      "country": "Nicaragua",
+      "cc": "NI"
+    }
   }
 }
