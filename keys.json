@@ -2015,8 +2015,15 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-04-09T03:05:18.606Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T03:05:29.093Z",
     "geo": {
+      "ip": "36.72.163.100",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.72.163.100",
       "city": "Bekasi",
       "region": "West Java",
