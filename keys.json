@@ -2351,5 +2351,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9AA310-5FBB45-CC0BA9": {
+    "expires": "2026-04-10T06:24:20.792Z",
+    "hwid": "8813110142-0e2fd187-40a3-412d-b842-540d606b639d",
+    "browserHwid": null,
+    "username": "dsyyy1612",
+    "userId": "8813110142",
+    "source": "script",
+    "createdAt": "2026-04-09T06:24:21.114Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.160.182.109",
+      "city": "Karangpeton",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
