@@ -2639,5 +2639,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1A39D9-83F414-CDCB8B": {
+    "expires": "2026-04-10T09:57:54.377Z",
+    "hwid": "10112764352-B353E2B5-F5D9-4D63-896B-0AA3C8F1F366",
+    "browserHwid": null,
+    "username": "yunan040111",
+    "userId": "10112764352",
+    "source": "script",
+    "createdAt": "2026-04-09T09:57:54.821Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.115.238.77",
+      "city": "Sekupang",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
