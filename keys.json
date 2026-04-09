@@ -2999,5 +2999,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-D83F71-F4F11F-F5E54C": {
+    "expires": "2026-04-10T15:40:08.770Z",
+    "hwid": "9811291436-af77a8df-4b01-4baf-956a-b1b2463ec825",
+    "browserHwid": null,
+    "username": "YTxHan2",
+    "userId": "9811291436",
+    "source": "script",
+    "createdAt": "2026-04-09T15:40:09.202Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.247.118",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
