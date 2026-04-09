@@ -2432,8 +2432,15 @@
     "userId": "9258078053",
     "source": "script",
     "createdAt": "2026-04-09T06:56:17.417Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T06:56:23.710Z",
     "geo": {
+      "ip": "183.179.234.153",
+      "city": "Kwai Chung",
+      "region": "Kwai Tsing District",
+      "country": "Hong Kong",
+      "cc": "HK"
+    },
+    "lastGeo": {
       "ip": "183.179.234.153",
       "city": "Kwai Chung",
       "region": "Kwai Tsing District",
