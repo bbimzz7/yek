@@ -2888,11 +2888,18 @@
     "userId": "5113695725",
     "source": "script",
     "createdAt": "2026-04-09T14:14:04.310Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T14:54:36.351Z",
     "geo": {
       "ip": "114.10.87.42",
       "city": "Medan",
       "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "103.193.145.175",
+      "city": "Batam",
+      "region": "Riau Islands",
       "country": "Indonesia",
       "cc": "ID"
     }
