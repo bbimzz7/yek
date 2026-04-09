@@ -2528,8 +2528,15 @@
     "userId": "10784847014",
     "source": "script",
     "createdAt": "2026-04-09T08:46:37.506Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T08:46:46.771Z",
     "geo": {
+      "ip": "160.25.197.123",
+      "city": "Blora",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "160.25.197.123",
       "city": "Blora",
       "region": "Central Java",
