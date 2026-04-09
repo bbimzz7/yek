@@ -3225,13 +3225,20 @@
     "userId": "9139290632",
     "source": "script",
     "createdAt": "2026-04-09T19:45:23.703Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-09T19:45:55.954Z",
     "geo": {
       "ip": "114.10.85.139",
       "city": "Medan",
       "region": "North Sumatra",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "128.14.21.139",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
     }
   }
 }
