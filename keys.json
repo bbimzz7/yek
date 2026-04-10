@@ -4626,5 +4626,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-313EB4-302EB4-B389DD": {
+    "expires": "2026-04-11T22:59:39.771Z",
+    "hwid": "9916744504-e2db6e56-ad5f-4da2-aa12-5d6254549ad8",
+    "browserHwid": null,
+    "username": "muichiro_bf7",
+    "userId": "9916744504",
+    "source": "script",
+    "createdAt": "2026-04-10T22:59:40.166Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.16.6.26",
+      "city": "Medina",
+      "region": "Medina Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
