@@ -4266,5 +4266,22 @@
       "country": "Hungary",
       "cc": "HU"
     }
+  },
+  "VH-87B97C-D5B041-3F60D5": {
+    "expires": "2026-04-11T15:02:39.285Z",
+    "hwid": "753522780-33a8c3f6-6064-4f62-a131-45ae1ffe3cf6",
+    "browserHwid": null,
+    "username": "imam_6",
+    "userId": "753522780",
+    "source": "script",
+    "createdAt": "2026-04-10T15:02:39.700Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.168.224",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
