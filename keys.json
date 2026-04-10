@@ -4194,5 +4194,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0D5D07-2D6CCB-55BF1A": {
+    "expires": "2026-04-11T13:28:01.609Z",
+    "hwid": "8504129860-daa895c4-5970-42df-bb46-4174b818c125",
+    "browserHwid": null,
+    "username": "Frexundo_ori",
+    "userId": "8504129860",
+    "source": "script",
+    "createdAt": "2026-04-10T13:28:02.052Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.22.99.170",
+      "city": "Magetan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
