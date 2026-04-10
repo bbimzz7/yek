@@ -4434,5 +4434,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-745680-5CEDFD-3CF645": {
+    "expires": "2026-04-11T16:57:44.976Z",
+    "hwid": "10250087164-189f5bcd-7980-40c3-bd0a-08e468de4015",
+    "browserHwid": null,
+    "username": "kyle_drup0124",
+    "userId": "10250087164",
+    "source": "script",
+    "createdAt": "2026-04-10T16:57:45.173Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.194.155.24",
+      "city": "Montclair",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
