@@ -4530,5 +4530,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-636C11-DFC388-B07D70": {
+    "expires": "2026-04-11T20:17:45.112Z",
+    "hwid": "9088219329-bf078eb9-8f9c-4ee1-928a-6b479275f584",
+    "browserHwid": null,
+    "username": "mimol1986",
+    "userId": "9088219329",
+    "source": "script",
+    "createdAt": "2026-04-10T20:17:45.483Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "163.227.183.16",
+      "city": "Blitar",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
