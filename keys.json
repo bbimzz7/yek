@@ -3689,5 +3689,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DA36F0-605E1E-29AF9C": {
+    "expires": "2026-04-11T07:20:42.000Z",
+    "hwid": "10657032416-476d0414-39e2-45f3-b8cc-79b76a371825",
+    "browserHwid": null,
+    "username": "aboutyouwhen",
+    "userId": "10657032416",
+    "source": "script",
+    "createdAt": "2026-04-10T07:20:42.352Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.81.91.185",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
