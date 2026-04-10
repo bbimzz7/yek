@@ -3978,5 +3978,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A73DBD-601EE7-082323": {
+    "expires": "2026-04-11T10:57:09.863Z",
+    "hwid": "7813662853-c76a25c2-2148-4d2d-8ff3-be98f2cd63cc",
+    "browserHwid": null,
+    "username": "Also_78324",
+    "userId": "7813662853",
+    "source": "script",
+    "createdAt": "2026-04-10T10:57:10.240Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.153.171.96",
+      "city": "Chittagong",
+      "region": "Chittagong",
+      "country": "Bangladesh",
+      "cc": "BD"
+    }
   }
 }
