@@ -4683,8 +4683,15 @@
     "userId": "4792298661",
     "source": "script",
     "createdAt": "2026-04-10T23:22:45.738Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-10T23:23:57.294Z",
     "geo": {
+      "ip": "216.103.152.31",
+      "city": "North Chicopee",
+      "region": "Massachusetts",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "216.103.152.31",
       "city": "North Chicopee",
       "region": "Massachusetts",
