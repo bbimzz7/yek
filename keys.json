@@ -4674,5 +4674,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-AC7899-DF2509-E2AAA9": {
+    "expires": "2026-04-11T23:22:45.351Z",
+    "hwid": "4792298661-d604dba3-e1e4-4c28-b3a5-16a8ac65c3b8",
+    "browserHwid": null,
+    "username": "Storm87997",
+    "userId": "4792298661",
+    "source": "script",
+    "createdAt": "2026-04-10T23:22:45.738Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "216.103.152.31",
+      "city": "North Chicopee",
+      "region": "Massachusetts",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
