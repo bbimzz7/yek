@@ -3489,8 +3489,15 @@
     "userId": "9341127032",
     "source": "script",
     "createdAt": "2026-04-10T02:46:48.677Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-10T02:46:57.670Z",
     "geo": {
+      "ip": "103.75.85.252",
+      "city": "Kedungwuni",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.75.85.252",
       "city": "Kedungwuni",
       "region": "Central Java",
