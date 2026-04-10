@@ -3674,8 +3674,15 @@
     "userId": "9171121198",
     "source": "script",
     "createdAt": "2026-04-10T07:05:24.049Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-10T07:06:37.666Z",
     "geo": {
+      "ip": "180.241.30.33",
+      "city": "Tarakan",
+      "region": "North Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.241.30.33",
       "city": "Tarakan",
       "region": "North Kalimantan",
