@@ -4338,5 +4338,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A06513-43960C-311E07": {
+    "expires": "2026-04-11T15:32:49.545Z",
+    "hwid": "10486314853-d65da7ee-a3be-42ee-aff1-28daf00c7d0c",
+    "browserHwid": null,
+    "username": "selfi_6431226",
+    "userId": "10486314853",
+    "source": "script",
+    "createdAt": "2026-04-10T15:32:49.995Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.171.183.89",
+      "city": "Ngamprah",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
