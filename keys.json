@@ -3954,5 +3954,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-6F4D9A-8B37B0-55F2E6": {
+    "expires": "2026-04-11T10:36:43.911Z",
+    "hwid": "10288892703-770d42a5-3365-4143-a903-7db73a4e3b50",
+    "browserHwid": null,
+    "username": "doraemen119",
+    "userId": "10288892703",
+    "source": "script",
+    "createdAt": "2026-04-10T10:36:44.295Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.160.68.177",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
