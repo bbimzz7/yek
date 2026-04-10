@@ -4026,5 +4026,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-95E169-719EC3-113B52": {
+    "expires": "2026-04-11T11:41:31.167Z",
+    "hwid": "10360541666-7e5ef6e2-c3aa-43a4-9ce6-b24c87e625b2",
+    "browserHwid": null,
+    "username": "bedboys1653",
+    "userId": "10360541666",
+    "source": "script",
+    "createdAt": "2026-04-10T11:41:31.558Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.66.138.29",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
