@@ -4227,11 +4227,18 @@
     "userId": "9232137190",
     "source": "script",
     "createdAt": "2026-04-10T14:31:25.261Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-10T14:31:33.564Z",
     "geo": {
       "ip": "146.75.132.26",
       "city": "Jakarta",
       "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "182.11.152.109",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
       "country": "Indonesia",
       "cc": "ID"
     }
