@@ -4035,8 +4035,15 @@
     "userId": "10360541666",
     "source": "script",
     "createdAt": "2026-04-10T11:41:31.558Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-10T11:43:32.498Z",
     "geo": {
+      "ip": "157.66.138.29",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.66.138.29",
       "city": "Bogor",
       "region": "West Java",
