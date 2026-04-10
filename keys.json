@@ -2360,7 +2360,7 @@
     "userId": "8813110142",
     "source": "script",
     "createdAt": "2026-04-09T06:24:21.114Z",
-    "lastUsed": "2026-04-09T06:24:41.495Z",
+    "lastUsed": "2026-04-10T00:35:57.968Z",
     "geo": {
       "ip": "103.160.182.109",
       "city": "Karangpeton",
@@ -2369,8 +2369,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.160.182.109",
-      "city": "Karangpeton",
+      "ip": "103.184.54.7",
+      "city": "Curahnongko",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
