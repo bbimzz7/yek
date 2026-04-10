@@ -4578,5 +4578,22 @@
       "country": "Greece",
       "cc": "GR"
     }
+  },
+  "VH-ADB89E-D04047-931A34": {
+    "expires": "2026-04-11T22:36:10.566Z",
+    "hwid": "10796927183-4d9bc1d6-60b2-44a5-8d31-e1e924e981b1",
+    "browserHwid": null,
+    "username": "adxx_567",
+    "userId": "10796927183",
+    "source": "script",
+    "createdAt": "2026-04-10T22:36:10.929Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.249.18.45",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
