@@ -4170,5 +4170,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-CB623D-8EFA63-65A87A": {
+    "expires": "2026-04-11T13:13:20.605Z",
+    "hwid": "8109595341-4345bd79-9bfd-4b69-8dcf-d35c9ef33e49",
+    "browserHwid": null,
+    "username": "zoyaaaaa404",
+    "userId": "8109595341",
+    "source": "script",
+    "createdAt": "2026-04-10T13:13:21.062Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.4.77.19",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
