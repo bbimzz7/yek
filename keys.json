@@ -4002,5 +4002,22 @@
       "country": "Bangladesh",
       "cc": "BD"
     }
+  },
+  "VH-BF26E9-0AB891-3795D0": {
+    "expires": "2026-04-11T11:14:09.944Z",
+    "hwid": "3680337062-90410ea0-5307-40cf-a044-ebabff7d8cbd",
+    "browserHwid": null,
+    "username": "Tokyorizky2009_KING",
+    "userId": "3680337062",
+    "source": "script",
+    "createdAt": "2026-04-10T11:14:10.328Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.136.58.243",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
