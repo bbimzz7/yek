@@ -3480,5 +3480,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-C51500-C0150C-139887": {
+    "expires": "2026-04-11T02:46:48.319Z",
+    "hwid": "9341127032-e1166fd7-d164-43b7-a33b-1a17c14b9bfb",
+    "browserHwid": null,
+    "username": "Eljja4a",
+    "userId": "9341127032",
+    "source": "script",
+    "createdAt": "2026-04-10T02:46:48.677Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.75.85.252",
+      "city": "Kedungwuni",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
