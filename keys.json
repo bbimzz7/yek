@@ -3963,8 +3963,15 @@
     "userId": "10288892703",
     "source": "script",
     "createdAt": "2026-04-10T10:36:44.295Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-10T10:37:57.881Z",
     "geo": {
+      "ip": "103.160.68.177",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.160.68.177",
       "city": "Surabaya",
       "region": "East Java",
