@@ -2576,7 +2576,7 @@
     "userId": "8749561660",
     "source": "script",
     "createdAt": "2026-04-09T09:19:35.303Z",
-    "lastUsed": "2026-04-09T09:22:32.115Z",
+    "lastUsed": "2026-04-10T01:41:30.418Z",
     "geo": {
       "ip": "182.1.236.157",
       "city": "Palembang",
@@ -2585,9 +2585,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "182.1.236.157",
-      "city": "Palembang",
-      "region": "South Sumatra",
+      "ip": "114.125.249.143",
+      "city": "Pangkalpinang",
+      "region": "Bangka–Belitung Islands",
       "country": "Indonesia",
       "cc": "ID"
     }
