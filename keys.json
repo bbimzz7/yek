@@ -4050,5 +4050,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0B9A51-91301D-DCB5D8": {
+    "expires": "2026-04-11T11:48:08.773Z",
+    "hwid": "10032986499-26dd0077-3630-4616-8642-d4f99a3d8aa3",
+    "browserHwid": null,
+    "username": "camkohaaaa2",
+    "userId": "10032986499",
+    "source": "script",
+    "createdAt": "2026-04-10T11:48:09.171Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.47.134.118",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
