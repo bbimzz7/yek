@@ -3456,5 +3456,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DE1396-B31D34-A9E614": {
+    "expires": "2026-04-11T02:28:12.227Z",
+    "hwid": "8327985283-d2a8f6cb-7bb2-4f48-8f27-043a4a24616c",
+    "browserHwid": null,
+    "username": "shinny7444",
+    "userId": "8327985283",
+    "source": "script",
+    "createdAt": "2026-04-10T02:28:12.674Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.206.62.255",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
