@@ -4403,5 +4403,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-ACABA5-DAD95D-94E3A8": {
+    "expires": "2026-04-11T16:50:20.741Z",
+    "hwid": "3677763783-373b1109-3315-445e-85c4-c8aa4e0c314b",
+    "browserHwid": null,
+    "username": "ak630mciws",
+    "userId": "3677763783",
+    "source": "script",
+    "createdAt": "2026-04-10T16:50:22.403Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "89.21.87.137",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
