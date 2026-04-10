@@ -4242,5 +4242,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-576F68-621F7E-2145E4": {
+    "expires": "2026-04-11T14:44:56.664Z",
+    "hwid": "8970303962-D930CAB3-AA0B-4A42-909E-F06102DB7B11",
+    "browserHwid": null,
+    "username": "lopine2231",
+    "userId": "8970303962",
+    "source": "script",
+    "createdAt": "2026-04-10T14:44:57.055Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "89.135.116.103",
+      "city": "Herend",
+      "region": "Veszprém megye",
+      "country": "Hungary",
+      "cc": "HU"
+    }
   }
 }
