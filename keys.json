@@ -3576,5 +3576,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-24C1D7-6ACE89-5D19A6": {
+    "expires": "2026-04-11T06:14:01.034Z",
+    "hwid": "10798940792-7e846751-ad54-476e-a3d0-5cde25f5cb97",
+    "browserHwid": null,
+    "username": "Matadios10092",
+    "userId": "10798940792",
+    "source": "script",
+    "createdAt": "2026-04-10T06:14:01.416Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.140.77.126",
+      "city": "Reynosa",
+      "region": "Tamaulipas",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
