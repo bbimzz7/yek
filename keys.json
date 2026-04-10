@@ -4218,5 +4218,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D14E24-440977-81FA81": {
+    "expires": "2026-04-11T14:31:24.871Z",
+    "hwid": "9232137190-1c93055a-adcc-4128-b0b2-55c32b502997",
+    "browserHwid": null,
+    "username": "Valian_Digma",
+    "userId": "9232137190",
+    "source": "script",
+    "createdAt": "2026-04-10T14:31:25.261Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.75.132.26",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
