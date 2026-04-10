@@ -4323,8 +4323,15 @@
     "userId": "4567341594",
     "source": "script",
     "createdAt": "2026-04-10T15:25:03.328Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-10T15:25:10.223Z",
     "geo": {
+      "ip": "103.166.65.195",
+      "city": "Padang Krajan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.166.65.195",
       "city": "Padang Krajan",
       "region": "East Java",
