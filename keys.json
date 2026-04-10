@@ -3746,8 +3746,15 @@
     "userId": "8147666403",
     "source": "script",
     "createdAt": "2026-04-10T07:38:24.899Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-10T07:38:32.202Z",
     "geo": {
+      "ip": "125.164.97.55",
+      "city": "Palangkaraya",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.164.97.55",
       "city": "Palangkaraya",
       "region": "Central Kalimantan",
