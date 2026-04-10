@@ -4539,8 +4539,15 @@
     "userId": "9088219329",
     "source": "script",
     "createdAt": "2026-04-10T20:17:45.483Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-10T20:18:38.214Z",
     "geo": {
+      "ip": "163.227.183.16",
+      "city": "Blitar",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "163.227.183.16",
       "city": "Blitar",
       "region": "East Java",
