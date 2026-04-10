@@ -4482,5 +4482,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-D943F6-893711-08D22A": {
+    "expires": "2026-04-11T17:35:36.244Z",
+    "hwid": "10773799227-ab11ecaf-313d-437f-8466-efb0e75cfa62",
+    "browserHwid": null,
+    "username": "janda0101001",
+    "userId": "10773799227",
+    "source": "script",
+    "createdAt": "2026-04-10T17:35:36.484Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.17.81.115",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
