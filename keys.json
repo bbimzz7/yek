@@ -4314,5 +4314,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7D8394-C5BF3E-15E416": {
+    "expires": "2026-04-11T15:25:02.893Z",
+    "hwid": "4567341594-0f45981a-80d7-4b42-92bc-ce58184c361b",
+    "browserHwid": null,
+    "username": "Akamane_Ringoku",
+    "userId": "4567341594",
+    "source": "script",
+    "createdAt": "2026-04-10T15:25:03.328Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.166.65.195",
+      "city": "Padang Krajan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
