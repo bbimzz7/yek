@@ -3432,5 +3432,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3AFD01-A6FA34-A072AD": {
+    "expires": "2026-04-11T00:48:46.896Z",
+    "hwid": "9116492631-c8bb2687-ca76-4838-9880-4dc440a9c2d2",
+    "browserHwid": null,
+    "username": "heatwaveeesss",
+    "userId": "9116492631",
+    "source": "script",
+    "createdAt": "2026-04-10T00:48:47.263Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.168.133",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
