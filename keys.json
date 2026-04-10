@@ -4347,8 +4347,15 @@
     "userId": "10486314853",
     "source": "script",
     "createdAt": "2026-04-10T15:32:49.995Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-10T15:33:16.757Z",
     "geo": {
+      "ip": "103.171.183.89",
+      "city": "Ngamprah",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.171.183.89",
       "city": "Ngamprah",
       "region": "West Java",
