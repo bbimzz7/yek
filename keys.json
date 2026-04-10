@@ -3785,5 +3785,22 @@
       "country": "Belize",
       "cc": "BZ"
     }
+  },
+  "VH-5481B5-5F4231-8B227C": {
+    "expires": "2026-04-11T08:40:16.272Z",
+    "hwid": "10800108732-ecb8ceb0-9aa0-4cb5-92e1-355300c3373d",
+    "browserHwid": null,
+    "username": "prabowo_6345",
+    "userId": "10800108732",
+    "source": "script",
+    "createdAt": "2026-04-10T08:40:16.685Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.22.99.175",
+      "city": "Magetan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
