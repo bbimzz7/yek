@@ -4698,5 +4698,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-745D09-53F66D-C1DF51": {
+    "expires": "2026-04-11T23:30:46.447Z",
+    "hwid": "9863132804-d3bcc805-1704-41a4-b2bb-de2b4a4fda49",
+    "browserHwid": null,
+    "username": "Stahn888",
+    "userId": "9863132804",
+    "source": "script",
+    "createdAt": "2026-04-10T23:30:46.828Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.67.44.15",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
