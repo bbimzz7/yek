@@ -4467,9 +4467,16 @@
     "userId": "3204389088",
     "source": "script",
     "createdAt": "2026-04-10T17:30:28.609Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-10T17:32:54.623Z",
     "geo": {
       "ip": "181.85.159.14",
+      "city": "Villa Ramallo",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
+      "ip": "181.85.159.15",
       "city": "Villa Ramallo",
       "region": "Buenos Aires",
       "country": "Argentina",
