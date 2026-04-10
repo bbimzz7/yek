@@ -4506,5 +4506,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AB7F0C-ADDAB3-6E69A7": {
+    "expires": "2026-04-11T18:46:44.894Z",
+    "hwid": "3017712497-4334c389-97d7-434a-aa7b-27354938b937",
+    "browserHwid": null,
+    "username": "Aurelia_Deva",
+    "userId": "3017712497",
+    "source": "script",
+    "createdAt": "2026-04-10T18:46:45.404Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.138.90.150",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
