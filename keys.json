@@ -4386,5 +4386,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C95BCC-86A4E3-DD87C7": {
+    "expires": "2026-04-11T16:50:20.680Z",
+    "hwid": "8604227489-b3512deb-9a94-487b-acf5-6400773d42dc",
+    "browserHwid": null,
+    "username": "HAZIQ_WALLHOP",
+    "userId": "8604227489",
+    "source": "script",
+    "createdAt": "2026-04-10T16:50:21.081Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.211.116.97",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
