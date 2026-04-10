@@ -4458,5 +4458,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-FE89C2-72CAA2-8DCEA2": {
+    "expires": "2026-04-11T17:30:28.193Z",
+    "hwid": "3204389088-8d7c607c-a981-4cfc-af7a-ee28acfb1329",
+    "browserHwid": null,
+    "username": "mateyopquw",
+    "userId": "3204389088",
+    "source": "script",
+    "createdAt": "2026-04-10T17:30:28.609Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.85.159.14",
+      "city": "Villa Ramallo",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
