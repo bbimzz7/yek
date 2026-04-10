@@ -3561,8 +3561,15 @@
     "userId": "6071658630",
     "source": "script",
     "createdAt": "2026-04-10T06:07:10.580Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-10T06:07:17.518Z",
     "geo": {
+      "ip": "67.161.95.123",
+      "city": "Mercer Island",
+      "region": "Washington",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "67.161.95.123",
       "city": "Mercer Island",
       "region": "Washington",
