@@ -3665,5 +3665,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-7BFFA5-638226-9CF56C": {
+    "expires": "2026-04-11T07:05:23.616Z",
+    "hwid": "9171121198-d290dae9-b495-4d0a-bb6b-6b5291d265c0",
+    "browserHwid": null,
+    "username": "Fathirrr_07768",
+    "userId": "9171121198",
+    "source": "script",
+    "createdAt": "2026-04-10T07:05:24.049Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.241.30.33",
+      "city": "Tarakan",
+      "region": "North Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
