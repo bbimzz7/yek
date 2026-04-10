@@ -3128,7 +3128,7 @@
     "userId": "8215847289",
     "source": "script",
     "createdAt": "2026-04-09T17:25:13.290Z",
-    "lastUsed": "2026-04-10T09:11:09.787Z",
+    "lastUsed": "2026-04-10T11:11:55.137Z",
     "geo": {
       "ip": "193.92.213.66",
       "city": "Athens",
@@ -3137,8 +3137,8 @@
       "cc": "GR"
     },
     "lastGeo": {
-      "ip": "46.246.158.254",
-      "city": "Athens",
+      "ip": "104.28.157.184",
+      "city": "Porto Rafti",
       "region": "Attica",
       "country": "Greece",
       "cc": "GR"
