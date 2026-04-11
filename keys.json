@@ -6090,5 +6090,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-867441-DC306E-6C6295": {
+    "expires": "2026-04-12T20:47:46.911Z",
+    "hwid": "2886220707-0f6dcb8e-310f-4b2c-a173-9f846e1d0d4c",
+    "browserHwid": null,
+    "username": "crar301283",
+    "userId": "2886220707",
+    "source": "script",
+    "createdAt": "2026-04-11T20:47:47.328Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.200.130.218",
+      "city": "Chilpancingo",
+      "region": "Guerrero",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
