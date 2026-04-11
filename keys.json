@@ -4957,8 +4957,15 @@
     "userId": "9766193194",
     "source": "script",
     "createdAt": "2026-04-11T04:37:54.504Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T04:38:03.395Z",
     "geo": {
+      "ip": "103.232.219.38",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "103.232.219.38",
       "city": "Kuala Lumpur",
       "region": "Kuala Lumpur",
