@@ -5070,8 +5070,15 @@
     "userId": "10787163614",
     "source": "script",
     "createdAt": "2026-04-11T06:47:59.141Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T06:48:17.310Z",
     "geo": {
+      "ip": "114.79.20.244",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.79.20.244",
       "city": "Surabaya",
       "region": "East Java",
