@@ -4948,5 +4948,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-0D72A8-F22975-52490E": {
+    "expires": "2026-04-12T04:37:54.146Z",
+    "hwid": "9766193194-63ea2661-3493-4482-bc34-441d9d0a01e1",
+    "browserHwid": null,
+    "username": "mochi_ayyy0",
+    "userId": "9766193194",
+    "source": "script",
+    "createdAt": "2026-04-11T04:37:54.504Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.232.219.38",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
