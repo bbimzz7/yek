@@ -5818,8 +5818,15 @@
     "userId": "3330874988",
     "source": "script",
     "createdAt": "2026-04-11T16:27:01.937Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T16:27:11.239Z",
     "geo": {
+      "ip": "37.66.231.58",
+      "city": "Montpellier",
+      "region": "Occitanie",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "37.66.231.58",
       "city": "Montpellier",
       "region": "Occitanie",
