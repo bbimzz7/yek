@@ -4820,8 +4820,15 @@
     "userId": "10797690193",
     "source": "script",
     "createdAt": "2026-04-11T02:23:36.075Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T02:23:41.827Z",
     "geo": {
+      "ip": "103.236.141.13",
+      "city": "Dukuh Dua",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.236.141.13",
       "city": "Dukuh Dua",
       "region": "East Java",
