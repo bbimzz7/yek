@@ -5037,5 +5037,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-79146F-5D7EC0-B2CC6E": {
+    "expires": "2026-04-12T05:51:07.414Z",
+    "hwid": "8951652960-59fc7409-02d0-4c78-af90-72e77e4fefe1",
+    "browserHwid": null,
+    "username": "sayangyuuni",
+    "userId": "8951652960",
+    "source": "script",
+    "createdAt": "2026-04-11T05:51:07.813Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.148.205",
+      "city": "Batam",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
