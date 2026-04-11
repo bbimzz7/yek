@@ -5881,5 +5881,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-5EECF5-040B1C-0C05BB": {
+    "expires": "2026-04-12T17:26:02.112Z",
+    "hwid": "8071302149-d792e78e-d025-4c25-abf8-e04fcc671ee2",
+    "browserHwid": null,
+    "username": "FamzzzTzyyyX",
+    "userId": "8071302149",
+    "source": "script",
+    "createdAt": "2026-04-11T17:26:02.517Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.35.131",
+      "city": "Banyumas",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
