@@ -5746,8 +5746,15 @@
     "userId": "5024418559",
     "source": "script",
     "createdAt": "2026-04-11T14:30:31.623Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T14:30:40.062Z",
     "geo": {
+      "ip": "125.167.209.154",
+      "city": "Tanjung Selor",
+      "region": "North Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.167.209.154",
       "city": "Tanjung Selor",
       "region": "North Kalimantan",
