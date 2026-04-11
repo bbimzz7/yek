@@ -5406,8 +5406,15 @@
     "userId": "10647492721",
     "source": "script",
     "createdAt": "2026-04-11T11:35:15.047Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T11:35:26.779Z",
     "geo": {
+      "ip": "180.253.186.131",
+      "city": "Ambon City",
+      "region": "Maluku",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.253.186.131",
       "city": "Ambon City",
       "region": "Maluku",
