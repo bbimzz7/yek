@@ -4811,5 +4811,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-731655-529B6E-B6F2ED": {
+    "expires": "2026-04-12T02:23:35.711Z",
+    "hwid": "10797690193-c7e5245b-a719-4d03-85d4-799eabde95a8",
+    "browserHwid": null,
+    "username": "ini_nyaw1twowo",
+    "userId": "10797690193",
+    "source": "script",
+    "createdAt": "2026-04-11T02:23:36.075Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.236.141.13",
+      "city": "Dukuh Dua",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
