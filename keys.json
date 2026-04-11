@@ -5785,5 +5785,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-892338-EC74D2-9AD098": {
+    "expires": "2026-04-12T15:01:40.527Z",
+    "hwid": "3687693750-cd765877-3fe3-47a2-8c1c-70643a886dd1",
+    "browserHwid": null,
+    "username": "meowing_my",
+    "userId": "3687693750",
+    "source": "script",
+    "createdAt": "2026-04-11T15:01:40.923Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.36.153.15",
+      "city": "Oral",
+      "region": "West Kazakhstan",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
