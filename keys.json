@@ -5833,5 +5833,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-41AAF2-519D2D-324822": {
+    "expires": "2026-04-12T16:57:26.170Z",
+    "hwid": "10587867621-8feb6731-74d8-4f3f-99f5-7826d204761c",
+    "browserHwid": null,
+    "username": "AG_07835",
+    "userId": "10587867621",
+    "source": "script",
+    "createdAt": "2026-04-11T16:57:26.568Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.225.51",
+      "city": "Sleman",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
