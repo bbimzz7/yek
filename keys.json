@@ -5713,5 +5713,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5F7E20-AF8813-D7F217": {
+    "expires": "2026-04-12T14:23:32.821Z",
+    "hwid": "9201183601-9a277a7a-637e-4a64-b9ed-0b9ac71499a6",
+    "browserHwid": null,
+    "username": "KANJI20070",
+    "userId": "9201183601",
+    "source": "script",
+    "createdAt": "2026-04-11T14:23:33.058Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.187.134.43",
+      "city": "Singapore",
+      "region": "Central Singapore",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
