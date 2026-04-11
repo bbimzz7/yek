@@ -5617,5 +5617,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EA89A7-D047C5-7F5F63": {
+    "expires": "2026-04-12T14:00:54.390Z",
+    "hwid": "9633729188-6cc92c8b-51d3-4914-a184-2886e83fea24",
+    "browserHwid": null,
+    "username": "AfZ_one99",
+    "userId": "9633729188",
+    "source": "script",
+    "createdAt": "2026-04-11T14:00:54.637Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.1.214",
+      "city": "Pagatan",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
