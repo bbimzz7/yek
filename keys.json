@@ -4779,13 +4779,20 @@
     "userId": "9073185025",
     "source": "script",
     "createdAt": "2026-04-11T01:45:49.782Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T01:46:14.715Z",
     "geo": {
       "ip": "103.227.186.53",
       "city": "Banyuwangi",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "104.28.159.63",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
     }
   }
 }
