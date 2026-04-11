@@ -5657,8 +5657,15 @@
     "userId": "5793855058",
     "source": "script",
     "createdAt": "2026-04-11T14:04:05.035Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T14:04:27.916Z",
     "geo": {
+      "ip": "190.107.123.219",
+      "city": "Villa Mercedes",
+      "region": "San Luis",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "190.107.123.219",
       "city": "Villa Mercedes",
       "region": "San Luis",
