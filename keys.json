@@ -5046,11 +5046,18 @@
     "userId": "8951652960",
     "source": "script",
     "createdAt": "2026-04-11T05:51:07.813Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T05:51:28.980Z",
     "geo": {
       "ip": "112.215.148.205",
       "city": "Batam",
       "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "203.78.125.35",
+      "city": "Tanjung Pinang",
+      "region": "Riau Islands",
       "country": "Indonesia",
       "cc": "ID"
     }
