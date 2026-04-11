@@ -5737,5 +5737,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-30988F-B0BAB6-71975A": {
+    "expires": "2026-04-12T14:30:31.392Z",
+    "hwid": "5024418559-5b6caa3b-81b2-4b62-abbd-db6a7fafc62f",
+    "browserHwid": null,
+    "username": "telimpuh4g",
+    "userId": "5024418559",
+    "source": "script",
+    "createdAt": "2026-04-11T14:30:31.623Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.167.209.154",
+      "city": "Tanjung Selor",
+      "region": "North Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
