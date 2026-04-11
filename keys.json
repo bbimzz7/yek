@@ -6042,5 +6042,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-528D8C-28179D-A19323": {
+    "expires": "2026-04-12T18:45:36.719Z",
+    "hwid": "10056787727-ecbde1af-0dc7-4862-a2c8-2ac89a8f9778",
+    "browserHwid": null,
+    "username": "JocelynContreras700",
+    "userId": "10056787727",
+    "source": "script",
+    "createdAt": "2026-04-11T18:45:36.945Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.95.109.1",
+      "city": "Curitiba",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
