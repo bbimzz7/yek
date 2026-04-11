@@ -4770,5 +4770,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-9AF7AE-4F0B75-1366C3": {
+    "expires": "2026-04-12T01:45:49.488Z",
+    "hwid": "9073185025-c82157ff-aad0-4cf4-84b6-2f9ea0c0237d",
+    "browserHwid": null,
+    "username": "Yantoooooo516",
+    "userId": "9073185025",
+    "source": "script",
+    "createdAt": "2026-04-11T01:45:49.782Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.227.186.53",
+      "city": "Banyuwangi",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
