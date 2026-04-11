@@ -5842,8 +5842,15 @@
     "userId": "10587867621",
     "source": "script",
     "createdAt": "2026-04-11T16:57:26.568Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T16:58:49.252Z",
     "geo": {
+      "ip": "182.8.225.51",
+      "city": "Sleman",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.8.225.51",
       "city": "Sleman",
       "region": "Yogyakarta",
