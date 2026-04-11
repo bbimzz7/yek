@@ -5046,7 +5046,7 @@
     "userId": "8951652960",
     "source": "script",
     "createdAt": "2026-04-11T05:51:07.813Z",
-    "lastUsed": "2026-04-11T06:05:22.078Z",
+    "lastUsed": "2026-04-11T07:20:28.695Z",
     "geo": {
       "ip": "112.215.148.205",
       "city": "Batam",
@@ -5055,9 +5055,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "203.78.125.83",
-      "city": "Jakarta",
-      "region": "Jakarta",
+      "ip": "112.215.147.103",
+      "city": "Pekanbaru",
+      "region": "Riau",
       "country": "Indonesia",
       "cc": "ID"
     }
