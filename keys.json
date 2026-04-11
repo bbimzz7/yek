@@ -5424,14 +5424,22 @@
   },
   "VH-7F93A8-3B0C04-EA08AF": {
     "expires": "2026-04-12T11:43:59.387Z",
-    "hwid": null,
+    "hwid": "9643209025-a3f895de-ff9f-405a-b34a-cf5469b105b3",
     "browserHwid": "BR-4781E859-ALHOY",
-    "username": "Pano_9980",
-    "userId": null,
+    "username": "pano_9980",
+    "userId": "9643209025",
     "source": "browser",
     "createdAt": "2026-04-11T11:43:59.777Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T11:45:20.514Z",
     "geo": {
+      "ip": "103.130.81.37",
+      "city": "Tulungagung",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-04-11T11:45:20.505Z",
+    "lastGeo": {
       "ip": "103.130.81.37",
       "city": "Tulungagung",
       "region": "East Java",
