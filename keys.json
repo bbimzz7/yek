@@ -5648,5 +5648,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-80D500-F6315D-BADFE8": {
+    "expires": "2026-04-12T14:04:04.810Z",
+    "hwid": "5793855058-6cbf21c8-459e-4bab-8311-8f058b946417",
+    "browserHwid": null,
+    "username": "gokuuGatoproo",
+    "userId": "5793855058",
+    "source": "script",
+    "createdAt": "2026-04-11T14:04:05.035Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.107.123.219",
+      "city": "Villa Mercedes",
+      "region": "San Luis",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
