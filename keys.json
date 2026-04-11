@@ -6001,5 +6001,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9883D8-985722-1E390D": {
+    "expires": "2026-04-12T18:24:57.655Z",
+    "hwid": "9654433075-be22884d-ab44-42c8-88ef-24f1d9185e2c",
+    "browserHwid": null,
+    "username": "puau_uuuppp",
+    "userId": "9654433075",
+    "source": "script",
+    "createdAt": "2026-04-11T18:24:58.032Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "174.5.108.49",
+      "city": "Schreiber",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
