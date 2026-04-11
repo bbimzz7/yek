@@ -5013,5 +5013,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DACC6A-EB3C41-C5FE48": {
+    "expires": "2026-04-12T05:03:15.152Z",
+    "hwid": "10792477586-f5089397-6b45-471e-be4b-1a8ec9f71f34",
+    "browserHwid": null,
+    "username": "yourfriendteam666666",
+    "userId": "10792477586",
+    "source": "script",
+    "createdAt": "2026-04-11T05:03:15.554Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.76.7.13",
+      "city": "Flin Flon",
+      "region": "Manitoba",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
