@@ -5698,8 +5698,15 @@
     "userId": "8798263163",
     "source": "script",
     "createdAt": "2026-04-11T14:18:06.524Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T14:18:18.583Z",
     "geo": {
+      "ip": "103.141.108.177",
+      "city": "Ngoro",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.141.108.177",
       "city": "Ngoro",
       "region": "East Java",
