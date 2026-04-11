@@ -5238,8 +5238,15 @@
     "userId": "8929900375",
     "source": "script",
     "createdAt": "2026-04-11T09:27:16.241Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T09:27:23.306Z",
     "geo": {
+      "ip": "51.195.218.164",
+      "city": "Erith",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "51.195.218.164",
       "city": "Erith",
       "region": "England",
