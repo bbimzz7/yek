@@ -5809,5 +5809,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-FAFE31-4ACADC-BACD2D": {
+    "expires": "2026-04-12T16:27:01.556Z",
+    "hwid": "3330874988-F4F42473-26B7-49FE-BD97-0D65DCC66DE2",
+    "browserHwid": null,
+    "username": "BananaBoi2255",
+    "userId": "3330874988",
+    "source": "script",
+    "createdAt": "2026-04-11T16:27:01.937Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.66.231.58",
+      "city": "Montpellier",
+      "region": "Occitanie",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
