@@ -4852,5 +4852,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5130E7-070A4C-587E1F": {
+    "expires": "2026-04-12T02:58:13.839Z",
+    "hwid": "8478301644-997c0dd5-340e-4c71-9b5b-acd2dbcd1c2d",
+    "browserHwid": null,
+    "username": "Dontbanme_53",
+    "userId": "8478301644",
+    "source": "script",
+    "createdAt": "2026-04-11T02:58:14.259Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.63.34.69",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
