@@ -5446,5 +5446,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3913DD-8DF318-42CE7C": {
+    "expires": "2026-04-12T12:19:10.752Z",
+    "hwid": "10754009971-85682df9-e644-4d11-b932-693a3a335eec",
+    "browserHwid": null,
+    "username": "Liamanderson53",
+    "userId": "10754009971",
+    "source": "script",
+    "createdAt": "2026-04-11T12:19:11.182Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.158.253.105",
+      "city": "Bulupayung",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
