@@ -5583,5 +5583,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5BC5A8-AC105F-C8453F": {
+    "expires": "2026-04-12T13:47:38.022Z",
+    "hwid": "9341127032-3625a4bb-1883-4afa-8a04-2bb25c6e9668",
+    "browserHwid": null,
+    "username": "Eljja4a",
+    "userId": "9341127032",
+    "source": "script",
+    "createdAt": "2026-04-11T13:47:38.388Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.75.85.252",
+      "city": "Kedungwuni",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
