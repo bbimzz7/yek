@@ -5109,5 +5109,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-910313-ED7E01-A9B262": {
+    "expires": "2026-04-12T07:19:29.377Z",
+    "hwid": "10373564883-14fcd909-6cc3-4e49-a423-ba5ce564597b",
+    "browserHwid": null,
+    "username": "wowandrej120",
+    "userId": "10373564883",
+    "source": "script",
+    "createdAt": "2026-04-11T07:19:29.563Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.255.75.254",
+      "city": "Veljusa",
+      "region": "Strumica",
+      "country": "North Macedonia",
+      "cc": "MK"
+    }
   }
 }
