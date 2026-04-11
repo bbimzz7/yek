@@ -5181,5 +5181,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F02C03-FDA32F-7E1718": {
+    "expires": "2026-04-12T08:14:53.183Z",
+    "hwid": "10772467246-d0916d85-b789-4cdf-8b5e-d026dcebfd3f",
+    "browserHwid": null,
+    "username": "gsovdhduskah",
+    "userId": "10772467246",
+    "source": "script",
+    "createdAt": "2026-04-11T08:14:53.556Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.145.131.119",
+      "city": "Ecatepec",
+      "region": "México",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
