@@ -6025,5 +6025,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-F014A5-5967ED-ECA828": {
+    "expires": "2026-04-12T18:42:15.487Z",
+    "hwid": "9227865357-d0916d85-b789-4cdf-8b5e-d026dcebfd3f",
+    "browserHwid": null,
+    "username": "serillo42",
+    "userId": "9227865357",
+    "source": "script",
+    "createdAt": "2026-04-11T18:42:15.895Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.145.131.119",
+      "city": "Ecatepec",
+      "region": "México",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
