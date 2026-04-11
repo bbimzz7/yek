@@ -5397,5 +5397,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E1BA09-1F156D-E34AF6": {
+    "expires": "2026-04-12T11:35:14.644Z",
+    "hwid": "10647492721-3bd3d8d9-ce9e-4565-8b3f-aaf10a3eed37",
+    "browserHwid": null,
+    "username": "Rabbit_aj4",
+    "userId": "10647492721",
+    "source": "script",
+    "createdAt": "2026-04-11T11:35:15.047Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.253.186.131",
+      "city": "Ambon City",
+      "region": "Maluku",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
