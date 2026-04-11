@@ -6010,8 +6010,15 @@
     "userId": "9654433075",
     "source": "script",
     "createdAt": "2026-04-11T18:24:58.032Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T18:25:08.053Z",
     "geo": {
+      "ip": "174.5.108.49",
+      "city": "Schreiber",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    },
+    "lastGeo": {
       "ip": "174.5.108.49",
       "city": "Schreiber",
       "region": "Ontario",
