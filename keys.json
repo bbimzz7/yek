@@ -6210,5 +6210,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-D09320-9A4712-393A51": {
+    "expires": "2026-04-12T23:59:18.576Z",
+    "hwid": "9633866278-dc83b58a-dab4-4ae0-8696-3d2903a3faed",
+    "browserHwid": null,
+    "username": "quiksevils7",
+    "userId": "9633866278",
+    "source": "script",
+    "createdAt": "2026-04-11T23:59:18.969Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.200.51",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
