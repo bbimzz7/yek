@@ -6099,8 +6099,15 @@
     "userId": "2886220707",
     "source": "script",
     "createdAt": "2026-04-11T20:47:47.328Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T20:48:08.785Z",
     "geo": {
+      "ip": "187.200.130.218",
+      "city": "Chilpancingo",
+      "region": "Guerrero",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.200.130.218",
       "city": "Chilpancingo",
       "region": "Guerrero",
