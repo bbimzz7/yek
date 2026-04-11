@@ -6138,5 +6138,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-317BE2-F83411-3E7648": {
+    "expires": "2026-04-12T21:36:59.818Z",
+    "hwid": "9209489386-8910db44-75d0-4bea-8477-1001977cbc83",
+    "browserHwid": null,
+    "username": "RimuruTetsuya",
+    "userId": "9209489386",
+    "source": "script",
+    "createdAt": "2026-04-11T21:37:00.213Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.126.86.120",
+      "city": "Kutoarjo",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
