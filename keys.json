@@ -5455,13 +5455,20 @@
     "userId": "10754009971",
     "source": "script",
     "createdAt": "2026-04-11T12:19:11.182Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T12:19:38.405Z",
     "geo": {
       "ip": "103.158.253.105",
       "city": "Bulupayung",
       "region": "Central Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.22.193.52",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
