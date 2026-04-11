@@ -5672,5 +5672,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-2F0BE3-0D9691-EC4228": {
+    "expires": "2026-04-12T14:17:00.082Z",
+    "hwid": "10807118987-cf72743a-4103-4966-aea4-1c949c757b7a",
+    "browserHwid": null,
+    "username": "Mahmoud2019915",
+    "userId": "10807118987",
+    "source": "script",
+    "createdAt": "2026-04-11T14:17:00.494Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.96.109.76",
+      "city": "Odense",
+      "region": "South Denmark",
+      "country": "Denmark",
+      "cc": "DK"
+    }
   }
 }
