@@ -5633,8 +5633,15 @@
     "userId": "9633729188",
     "source": "script",
     "createdAt": "2026-04-11T14:00:54.637Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T14:03:48.174Z",
     "geo": {
+      "ip": "39.194.1.214",
+      "city": "Pagatan",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "39.194.1.214",
       "city": "Pagatan",
       "region": "South Kalimantan",
