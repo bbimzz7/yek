@@ -5301,5 +5301,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-8174D5-67FF2F-2E2C23": {
+    "expires": "2026-04-12T10:09:15.119Z",
+    "hwid": "7601465902-fb30ef1c-b20f-4ea2-a53a-5cade1bbb03b",
+    "browserHwid": null,
+    "username": "RonaldoSui123879",
+    "userId": "7601465902",
+    "source": "script",
+    "createdAt": "2026-04-11T10:09:15.518Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.160.56.119",
+      "city": "Sekayu",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
