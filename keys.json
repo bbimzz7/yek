@@ -6147,8 +6147,15 @@
     "userId": "9209489386",
     "source": "script",
     "createdAt": "2026-04-11T21:37:00.213Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T21:37:20.464Z",
     "geo": {
+      "ip": "103.126.86.120",
+      "city": "Kutoarjo",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.126.86.120",
       "city": "Kutoarjo",
       "region": "Central Java",
