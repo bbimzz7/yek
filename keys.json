@@ -5118,8 +5118,15 @@
     "userId": "10373564883",
     "source": "script",
     "createdAt": "2026-04-11T07:19:29.563Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T07:19:39.516Z",
     "geo": {
+      "ip": "146.255.75.254",
+      "city": "Veljusa",
+      "region": "Strumica",
+      "country": "North Macedonia",
+      "cc": "MK"
+    },
+    "lastGeo": {
       "ip": "146.255.75.254",
       "city": "Veljusa",
       "region": "Strumica",
