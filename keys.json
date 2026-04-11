@@ -5133,5 +5133,22 @@
       "country": "North Macedonia",
       "cc": "MK"
     }
+  },
+  "VH-F50746-0D2A45-4BBF28": {
+    "expires": "2026-04-12T07:46:08.748Z",
+    "hwid": "9772445697-9109111d-a714-4873-b0d6-dbab289dd2cb",
+    "browserHwid": null,
+    "username": "roblox_user197293918",
+    "userId": "9772445697",
+    "source": "script",
+    "createdAt": "2026-04-11T07:46:09.145Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.142.201",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
