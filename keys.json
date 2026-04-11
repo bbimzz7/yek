@@ -6066,5 +6066,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-40E1E6-DB2CBC-FEDCA1": {
+    "expires": "2026-04-12T20:18:13.508Z",
+    "hwid": "3627124860-469bb309-fe52-48d0-a035-4cad45fc9eca",
+    "browserHwid": null,
+    "username": "Avanza1nr",
+    "userId": "3627124860",
+    "source": "script",
+    "createdAt": "2026-04-11T20:18:13.940Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.206.33.38",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
