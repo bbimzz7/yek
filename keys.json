@@ -5421,5 +5421,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7F93A8-3B0C04-EA08AF": {
+    "expires": "2026-04-12T11:43:59.387Z",
+    "hwid": null,
+    "browserHwid": "BR-4781E859-ALHOY",
+    "username": "Pano_9980",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-11T11:43:59.777Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.130.81.37",
+      "city": "Tulungagung",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
