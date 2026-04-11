@@ -6123,8 +6123,15 @@
     "userId": "10554809436",
     "source": "script",
     "createdAt": "2026-04-11T21:24:25.361Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-11T21:25:28.667Z",
     "geo": {
+      "ip": "119.235.214.201",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "119.235.214.201",
       "city": "Jakarta",
       "region": "Jakarta",
