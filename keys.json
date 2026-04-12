@@ -6796,5 +6796,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-84C04C-3AF4FB-3DA3C5": {
+    "expires": "2026-04-13T05:50:23.127Z",
+    "hwid": "9375546753-a0b845ac-16e7-46a5-9ebd-743571a9daa6",
+    "browserHwid": null,
+    "username": "AnaaPratama",
+    "userId": "9375546753",
+    "source": "script",
+    "createdAt": "2026-04-12T05:50:23.366Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.178.171.58",
+      "city": "Pacitan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
