@@ -7638,8 +7638,15 @@
     "userId": "3687693750",
     "source": "script",
     "createdAt": "2026-04-12T18:00:30.557Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T18:00:37.419Z",
     "geo": {
+      "ip": "46.36.153.15",
+      "city": "Oral",
+      "region": "West Kazakhstan",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "46.36.153.15",
       "city": "Oral",
       "region": "West Kazakhstan",
