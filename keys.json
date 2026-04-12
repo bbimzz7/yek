@@ -7725,5 +7725,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7BAB1A-BA23D9-E76E9E": {
+    "expires": "2026-04-13T21:57:11.886Z",
+    "hwid": "2783613725-16A11C78-EF3D-49A5-99E3-1B73B5FE3BF6",
+    "browserHwid": null,
+    "username": "25k_J3vier",
+    "userId": "2783613725",
+    "source": "script",
+    "createdAt": "2026-04-12T21:57:12.307Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.223.120.172",
+      "city": "Quintero",
+      "region": "Región de Valparaíso",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
