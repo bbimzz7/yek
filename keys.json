@@ -7077,5 +7077,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A7DEB9-3A3474-ADF878": {
+    "expires": "2026-04-13T08:18:54.213Z",
+    "hwid": "9323770646-8910db44-75d0-4bea-8477-1001977cbc83",
+    "browserHwid": null,
+    "username": "YanzTetsuya",
+    "userId": "9323770646",
+    "source": "script",
+    "createdAt": "2026-04-12T08:18:55.561Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.126.86.120",
+      "city": "Kutoarjo",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
