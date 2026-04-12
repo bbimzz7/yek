@@ -7036,5 +7036,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-68696D-63DB2A-AD6A01": {
+    "expires": "2026-04-13T08:07:16.715Z",
+    "hwid": "3737043676-67727B4F-47DD-40D3-AAD0-E05172D75794",
+    "browserHwid": null,
+    "username": "mr_keso0990",
+    "userId": "3737043676",
+    "source": "script",
+    "createdAt": "2026-04-12T08:07:17.140Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.67.49",
+      "city": "San Pablo",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
