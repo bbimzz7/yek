@@ -7276,5 +7276,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-149807-BC1FD3-EEC048": {
+    "expires": "2026-04-13T11:13:05.727Z",
+    "hwid": "7925125024-2085147e-4deb-446b-8167-1b33449c5110",
+    "browserHwid": null,
+    "username": "Adonis22007",
+    "userId": "7925125024",
+    "source": "script",
+    "createdAt": "2026-04-12T11:13:06.179Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "78.96.87.115",
+      "city": "Bucharest",
+      "region": "București",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
