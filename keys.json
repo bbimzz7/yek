@@ -6306,5 +6306,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-9150DC-16DCA1-000D2E": {
+    "expires": "2026-04-13T01:28:21.924Z",
+    "hwid": "7558950761-d340eb51-5cc4-444f-a7e9-d12eb241d377",
+    "browserHwid": null,
+    "username": "bacontroll608",
+    "userId": "7558950761",
+    "source": "script",
+    "createdAt": "2026-04-12T01:28:22.365Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.33.64",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
