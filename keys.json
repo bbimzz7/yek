@@ -6426,5 +6426,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-AF09BC-243B1A-E3FABB": {
+    "expires": "2026-04-13T02:18:19.331Z",
+    "hwid": "5828879913-eb659254-9760-479d-a162-4738d7081f42",
+    "browserHwid": null,
+    "username": "RIP_KURIKU",
+    "userId": "5828879913",
+    "source": "script",
+    "createdAt": "2026-04-12T02:18:19.574Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.5.245.190",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
