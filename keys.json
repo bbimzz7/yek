@@ -7797,5 +7797,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-38BF01-7C314E-34D6DB": {
+    "expires": "2026-04-13T23:27:43.410Z",
+    "hwid": "5436443671-b064e764-cbf4-49a6-b503-046358aa601d",
+    "browserHwid": null,
+    "username": "ettore_95",
+    "userId": "5436443671",
+    "source": "script",
+    "createdAt": "2026-04-12T23:27:43.627Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.241.142.181",
+      "city": "Vitória",
+      "region": "Espírito Santo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
