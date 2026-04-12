@@ -7285,8 +7285,15 @@
     "userId": "7925125024",
     "source": "script",
     "createdAt": "2026-04-12T11:13:06.179Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T11:14:01.788Z",
     "geo": {
+      "ip": "78.96.87.115",
+      "city": "Bucharest",
+      "region": "București",
+      "country": "Romania",
+      "cc": "RO"
+    },
+    "lastGeo": {
       "ip": "78.96.87.115",
       "city": "Bucharest",
       "region": "București",
