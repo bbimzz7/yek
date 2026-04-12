@@ -7372,5 +7372,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-FF0872-1823A7-BAFBE2": {
+    "expires": "2026-04-13T11:51:31.503Z",
+    "hwid": "3641274583-2f4d108a-5753-4337-a0c0-7f7254488f97",
+    "browserHwid": null,
+    "username": "rakha_comjaj",
+    "userId": "3641274583",
+    "source": "script",
+    "createdAt": "2026-04-12T11:51:31.909Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.75.84.95",
+      "city": "Candi Prambanan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
