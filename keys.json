@@ -7252,5 +7252,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B777A8-1C36B4-985528": {
+    "expires": "2026-04-13T10:52:32.722Z",
+    "hwid": "3044195570-54C48818-0211-4996-A346-08ADBCF9ADA5",
+    "browserHwid": null,
+    "username": "SKILLDAFFA",
+    "userId": "3044195570",
+    "source": "script",
+    "createdAt": "2026-04-12T10:52:33.112Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.154.150.181",
+      "city": "Ciracas",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
