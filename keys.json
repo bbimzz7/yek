@@ -6997,7 +6997,7 @@
     "userId": "10657032416",
     "source": "script",
     "createdAt": "2026-04-12T07:42:12.357Z",
-    "lastUsed": "2026-04-12T07:53:05.958Z",
+    "lastUsed": "2026-04-12T08:00:55.829Z",
     "geo": {
       "ip": "160.20.38.118",
       "city": "Indramayu",
@@ -7006,9 +7006,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "160.20.38.62",
-      "city": "Indramayu",
-      "region": "West Java",
+      "ip": "140.213.13.140",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
