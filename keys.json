@@ -6724,5 +6724,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-3E43B7-C13B47-F56A0D": {
+    "expires": "2026-04-13T04:55:39.066Z",
+    "hwid": "8355781300-ad2c1c28-3cd4-4e43-9c7f-9a8800579618",
+    "browserHwid": null,
+    "username": "Rip_Zetay20",
+    "userId": "8355781300",
+    "source": "script",
+    "createdAt": "2026-04-12T04:55:39.272Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.3.141.150",
+      "city": "Samarinda",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
