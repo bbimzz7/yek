@@ -6594,5 +6594,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-23A4AA-FE0C2C-4FF901": {
+    "expires": "2026-04-13T03:34:19.161Z",
+    "hwid": "10089827998-4a87cf82-385a-4261-aab3-628f381de26a",
+    "browserHwid": null,
+    "username": "wjgjjdjfjdjtjdj",
+    "userId": "10089827998",
+    "source": "script",
+    "createdAt": "2026-04-12T03:34:19.545Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.42.228",
+      "city": "Sitimerto",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
