@@ -6459,8 +6459,15 @@
     "userId": "10783762118",
     "source": "script",
     "createdAt": "2026-04-12T02:22:25.930Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T02:22:39.826Z",
     "geo": {
+      "ip": "43.229.149.218",
+      "city": "Pathum Wan",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "43.229.149.218",
       "city": "Pathum Wan",
       "region": "Bangkok",
