@@ -7180,5 +7180,22 @@
       "country": "The Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-B6D28C-AA2604-50C39C": {
+    "expires": "2026-04-13T09:40:26.796Z",
+    "hwid": "5026509607-CDE65F93-54A1-4C38-BBBC-3C90CA12FECC",
+    "browserHwid": null,
+    "username": "HoainuongRSg5D",
+    "userId": "5026509607",
+    "source": "script",
+    "createdAt": "2026-04-12T09:40:27.187Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "42.119.180.232",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
