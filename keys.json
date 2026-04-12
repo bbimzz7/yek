@@ -7710,13 +7710,20 @@
     "userId": "2519818788",
     "source": "script",
     "createdAt": "2026-04-12T20:20:16.342Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T20:21:05.289Z",
     "geo": {
       "ip": "168.235.203.225",
       "city": "Toronto",
       "region": "Ontario",
       "country": "Canada",
       "cc": "CA"
+    },
+    "lastGeo": {
+      "ip": "158.140.165.81",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
     }
   }
 }
