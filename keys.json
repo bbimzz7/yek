@@ -6925,8 +6925,15 @@
     "userId": "10811448692",
     "source": "script",
     "createdAt": "2026-04-12T07:38:38.538Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T07:40:29.052Z",
     "geo": {
+      "ip": "103.19.228.206",
+      "city": "Banjar Kertajiwa",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.19.228.206",
       "city": "Banjar Kertajiwa",
       "region": "Bali",
