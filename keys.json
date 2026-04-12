@@ -7549,8 +7549,15 @@
     "userId": "10488976796",
     "source": "script",
     "createdAt": "2026-04-12T15:17:20.118Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T15:17:32.537Z",
     "geo": {
+      "ip": "114.10.104.194",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.104.194",
       "city": "Jambi City",
       "region": "Jambi",
