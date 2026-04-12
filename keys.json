@@ -7228,5 +7228,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-9BA2E0-C1E056-6295E8": {
+    "expires": "2026-04-13T10:48:39.370Z",
+    "hwid": "3106502490-74bdceca-fbd9-4e9f-9426-4d682c1066d6",
+    "browserHwid": null,
+    "username": "savronz3",
+    "userId": "3106502490",
+    "source": "script",
+    "createdAt": "2026-04-12T10:48:39.758Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.154.150.181",
+      "city": "Ciracas",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
