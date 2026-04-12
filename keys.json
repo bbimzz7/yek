@@ -7125,5 +7125,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6E3622-CFC4CA-D900FD": {
+    "expires": "2026-04-13T08:50:34.444Z",
+    "hwid": "3571890353-b8892591-cf00-4bde-a03d-b367fe36d7f9",
+    "browserHwid": null,
+    "username": "Bintang1234567891234",
+    "userId": "3571890353",
+    "source": "script",
+    "createdAt": "2026-04-12T08:50:34.631Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.64.202",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
