@@ -6243,8 +6243,15 @@
     "userId": "10513784534",
     "source": "script",
     "createdAt": "2026-04-12T01:06:15.730Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T01:07:01.715Z",
     "geo": {
+      "ip": "125.161.85.242",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.161.85.242",
       "city": "Jakarta",
       "region": "Jakarta",
