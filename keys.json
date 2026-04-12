@@ -6844,5 +6844,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-422D89-9E0AA6-F27DA8": {
+    "expires": "2026-04-13T06:09:32.836Z",
+    "hwid": "10784524682-15d6e571-7757-4a10-b5dc-140a03f8f65f",
+    "browserHwid": null,
+    "username": "Hannbaik74",
+    "userId": "10784524682",
+    "source": "script",
+    "createdAt": "2026-04-12T06:09:33.295Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.160.205.154",
+      "city": "Pendaleman",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
