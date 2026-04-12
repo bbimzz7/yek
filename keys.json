@@ -6603,8 +6603,15 @@
     "userId": "10089827998",
     "source": "script",
     "createdAt": "2026-04-12T03:34:19.545Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T03:35:28.000Z",
     "geo": {
+      "ip": "140.213.42.228",
+      "city": "Sitimerto",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "140.213.42.228",
       "city": "Sitimerto",
       "region": "East Java",
