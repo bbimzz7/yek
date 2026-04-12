@@ -7734,8 +7734,15 @@
     "userId": "2783613725",
     "source": "script",
     "createdAt": "2026-04-12T21:57:12.307Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T21:57:23.683Z",
     "geo": {
+      "ip": "201.223.120.172",
+      "city": "Quintero",
+      "region": "Región de Valparaíso",
+      "country": "Chile",
+      "cc": "CL"
+    },
+    "lastGeo": {
       "ip": "201.223.120.172",
       "city": "Quintero",
       "region": "Región de Valparaíso",
