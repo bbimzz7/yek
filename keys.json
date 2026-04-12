@@ -7300,5 +7300,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-F4A58A-2498B0-4DF4EB": {
+    "expires": "2026-04-13T11:18:42.714Z",
+    "hwid": "8158614505-48593c19-1552-4df8-9f81-6344d3a371dc",
+    "browserHwid": null,
+    "username": "sigma_affan4",
+    "userId": "8158614505",
+    "source": "script",
+    "createdAt": "2026-04-12T11:18:43.211Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.228.145",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
