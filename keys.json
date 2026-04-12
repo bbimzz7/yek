@@ -7357,8 +7357,15 @@
     "userId": "4241722802",
     "source": "script",
     "createdAt": "2026-04-12T11:27:38.541Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T11:27:46.005Z",
     "geo": {
+      "ip": "116.99.254.169",
+      "city": "Ninh Bình",
+      "region": "Ninh Bình Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "116.99.254.169",
       "city": "Ninh Bình",
       "region": "Ninh Bình Province",
