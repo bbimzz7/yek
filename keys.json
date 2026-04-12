@@ -6668,8 +6668,15 @@
     "userId": "7504791507",
     "source": "script",
     "createdAt": "2026-04-12T04:27:17.674Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T04:29:36.090Z",
     "geo": {
+      "ip": "103.93.93.142",
+      "city": "Kertosono",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.93.93.142",
       "city": "Kertosono",
       "region": "East Java",
