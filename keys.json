@@ -7012,5 +7012,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C0B2F3-ABA571-DFFA30": {
+    "expires": "2026-04-13T07:53:13.662Z",
+    "hwid": "5634144566-c0937258-2420-41fa-834f-aafb744d4ebf",
+    "browserHwid": null,
+    "username": "Makoi462",
+    "userId": "5634144566",
+    "source": "script",
+    "createdAt": "2026-04-12T07:53:14.090Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.19.228.206",
+      "city": "Banjar Kertajiwa",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
