@@ -6627,8 +6627,15 @@
     "userId": "10693756500",
     "source": "script",
     "createdAt": "2026-04-12T03:47:59.086Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T03:49:16.494Z",
     "geo": {
+      "ip": "125.163.68.54",
+      "city": "Bagikkedok Lauk",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.163.68.54",
       "city": "Bagikkedok Lauk",
       "region": "West Nusa Tenggara",
