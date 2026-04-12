@@ -7093,8 +7093,15 @@
     "userId": "9323770646",
     "source": "script",
     "createdAt": "2026-04-12T08:18:55.561Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T08:19:08.461Z",
     "geo": {
+      "ip": "103.126.86.120",
+      "city": "Kutoarjo",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.126.86.120",
       "city": "Kutoarjo",
       "region": "Central Java",
