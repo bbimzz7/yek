@@ -6378,5 +6378,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-D963B3-6EB706-014F6B": {
+    "expires": "2026-04-13T02:13:49.314Z",
+    "hwid": "1760853752-eb05e792-865b-41ae-9d3b-748f8c13f41f",
+    "browserHwid": null,
+    "username": "cuteypanda390",
+    "userId": "1760853752",
+    "source": "script",
+    "createdAt": "2026-04-12T02:13:49.727Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.157.81",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
