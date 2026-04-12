@@ -7021,7 +7021,7 @@
     "userId": "5634144566",
     "source": "script",
     "createdAt": "2026-04-12T07:53:14.090Z",
-    "lastUsed": "2026-04-12T08:41:54.510Z",
+    "lastUsed": "2026-04-12T11:12:20.673Z",
     "geo": {
       "ip": "103.19.228.206",
       "city": "Banjar Kertajiwa",
@@ -7030,9 +7030,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.19.228.206",
-      "city": "Banjar Kertajiwa",
-      "region": "Bali",
+      "ip": "182.253.51.151",
+      "city": "Surabaya",
+      "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
     }
