@@ -7405,8 +7405,15 @@
     "userId": "8765076629",
     "source": "script",
     "createdAt": "2026-04-12T12:28:56.635Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T12:29:04.222Z",
     "geo": {
+      "ip": "103.174.123.132",
+      "city": "Sumedang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.174.123.132",
       "city": "Sumedang",
       "region": "West Java",
