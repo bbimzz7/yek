@@ -6546,5 +6546,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-F815B0-4D5ED9-6932AA": {
+    "expires": "2026-04-13T03:13:42.539Z",
+    "hwid": "8597041681-da6c950a-7088-45b4-930b-708aba07cf81",
+    "browserHwid": null,
+    "username": "GAGAGVSBN",
+    "userId": "8597041681",
+    "source": "script",
+    "createdAt": "2026-04-12T03:13:43.044Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.75.220.116",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
