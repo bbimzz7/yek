@@ -6354,5 +6354,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BD79C7-84B1F3-D83FC5": {
+    "expires": "2026-04-13T01:48:20.430Z",
+    "hwid": "1338968944-DA95034A-74B3-47BF-8176-F3087F1CA500",
+    "browserHwid": null,
+    "username": "facundolucuras",
+    "userId": "1338968944",
+    "source": "script",
+    "createdAt": "2026-04-12T01:48:20.855Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "129.224.215.147",
+      "city": "Buenos Aires",
+      "region": "Buenos Aires F.D.",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
