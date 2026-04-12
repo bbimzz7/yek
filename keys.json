@@ -6892,5 +6892,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0DE3CB-A06796-3C1E7F": {
+    "expires": "2026-04-13T07:32:00.398Z",
+    "hwid": "8887306434-ba6883cc-67f4-4f22-9e73-0db62f6753a9",
+    "browserHwid": null,
+    "username": "yujin17821",
+    "userId": "8887306434",
+    "source": "script",
+    "createdAt": "2026-04-12T07:32:00.800Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.73.250",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
