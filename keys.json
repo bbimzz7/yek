@@ -7653,5 +7653,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-6C8945-F2DAD3-83F979": {
+    "expires": "2026-04-13T18:23:33.197Z",
+    "hwid": "8950132242-0e85a49f-c062-456c-a914-f3bf3eb46ddf",
+    "browserHwid": null,
+    "username": "Nelzaa13",
+    "userId": "8950132242",
+    "source": "script",
+    "createdAt": "2026-04-12T18:23:33.614Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.11.154.28",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
