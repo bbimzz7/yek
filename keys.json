@@ -6916,5 +6916,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7B85BB-C8BC1D-731380": {
+    "expires": "2026-04-13T07:38:38.135Z",
+    "hwid": "10811448692-c0937258-2420-41fa-834f-aafb744d4ebf",
+    "browserHwid": null,
+    "username": "Kakek2mainroblox90",
+    "userId": "10811448692",
+    "source": "script",
+    "createdAt": "2026-04-12T07:38:38.538Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.19.228.206",
+      "city": "Banjar Kertajiwa",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
