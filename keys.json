@@ -7381,8 +7381,15 @@
     "userId": "3641274583",
     "source": "script",
     "createdAt": "2026-04-12T11:51:31.909Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T11:51:38.519Z",
     "geo": {
+      "ip": "103.75.84.95",
+      "city": "Candi Prambanan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.75.84.95",
       "city": "Candi Prambanan",
       "region": "Central Java",
