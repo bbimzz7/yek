@@ -7773,5 +7773,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-4BA6FB-2326CE-D4A55B": {
+    "expires": "2026-04-13T23:22:00.930Z",
+    "hwid": "10375374745-f8f3a23f-cac3-4329-9f0a-8416ab4a1605",
+    "browserHwid": null,
+    "username": "VallunaMontfleur",
+    "userId": "10375374745",
+    "source": "script",
+    "createdAt": "2026-04-12T23:22:01.371Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.197.245.188",
+      "city": "Belford Roxo",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
