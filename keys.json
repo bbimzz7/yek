@@ -7348,5 +7348,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-5F12F5-99B0D4-B8A951": {
+    "expires": "2026-04-13T11:27:38.125Z",
+    "hwid": "4241722802-07ddd2b3-236c-47b5-912f-731b58bc7140",
+    "browserHwid": null,
+    "username": "Long1322011",
+    "userId": "4241722802",
+    "source": "script",
+    "createdAt": "2026-04-12T11:27:38.541Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.99.254.169",
+      "city": "Ninh Bình",
+      "region": "Ninh Bình Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
