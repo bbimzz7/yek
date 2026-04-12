@@ -7701,5 +7701,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DE0FF5-2BEA6D-1B6B29": {
+    "expires": "2026-04-13T20:20:15.866Z",
+    "hwid": "2519818788-bec9848a-276a-4654-a377-d7fccf02c1d4",
+    "browserHwid": null,
+    "username": "lyn123Drg",
+    "userId": "2519818788",
+    "source": "script",
+    "createdAt": "2026-04-12T20:20:16.342Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.235.203.225",
+      "city": "Toronto",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
