@@ -6618,5 +6618,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E85848-931F56-5F473E": {
+    "expires": "2026-04-13T03:47:58.707Z",
+    "hwid": "10693756500-5d771778-26e1-4929-b2ff-0e7e6da889d9",
+    "browserHwid": null,
+    "username": "rian1111826",
+    "userId": "10693756500",
+    "source": "script",
+    "createdAt": "2026-04-12T03:47:59.086Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.163.68.54",
+      "city": "Bagikkedok Lauk",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
