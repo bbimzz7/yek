@@ -7156,5 +7156,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2F670F-CF219B-2D664D": {
+    "expires": "2026-04-13T09:02:24.627Z",
+    "hwid": "5205991069-e0952fb5-3583-4417-9042-b3354ec38100",
+    "browserHwid": null,
+    "username": "Ronaldosiuuuuuuu3360",
+    "userId": "5205991069",
+    "source": "script",
+    "createdAt": "2026-04-12T09:02:24.993Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.224.73.122",
+      "city": "Rotterdam",
+      "region": "South Holland",
+      "country": "The Netherlands",
+      "cc": "NL"
+    }
   }
 }
