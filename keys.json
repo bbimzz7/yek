@@ -6853,8 +6853,15 @@
     "userId": "10784524682",
     "source": "script",
     "createdAt": "2026-04-12T06:09:33.295Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T06:09:46.343Z",
     "geo": {
+      "ip": "103.160.205.154",
+      "city": "Pendaleman",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.160.205.154",
       "city": "Pendaleman",
       "region": "West Nusa Tenggara",
