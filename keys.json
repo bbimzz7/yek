@@ -6234,5 +6234,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B9F0B5-A35A20-E107A9": {
+    "expires": "2026-04-13T01:06:15.278Z",
+    "hwid": "10513784534-f2609805-3055-42dc-891e-4dd3a24c68a0",
+    "browserHwid": null,
+    "username": "pejuang_bloxfruit52",
+    "userId": "10513784534",
+    "source": "script",
+    "createdAt": "2026-04-12T01:06:15.730Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.161.85.242",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
