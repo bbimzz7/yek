@@ -6339,8 +6339,15 @@
     "userId": "9770064204",
     "source": "script",
     "createdAt": "2026-04-12T01:29:23.813Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T01:30:40.555Z",
     "geo": {
+      "ip": "103.242.106.181",
+      "city": "Ciampea",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.242.106.181",
       "city": "Ciampea",
       "region": "West Java",
