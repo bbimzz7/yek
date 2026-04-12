@@ -6709,8 +6709,15 @@
     "userId": "5570096310",
     "source": "script",
     "createdAt": "2026-04-12T04:55:27.594Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T04:55:37.382Z",
     "geo": {
+      "ip": "112.200.36.131",
+      "city": "Caloocan",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.200.36.131",
       "city": "Caloocan",
       "region": "Metro Manila",
