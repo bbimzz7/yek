@@ -6805,8 +6805,15 @@
     "userId": "9375546753",
     "source": "script",
     "createdAt": "2026-04-12T05:50:23.366Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T05:50:35.006Z",
     "geo": {
+      "ip": "103.178.171.58",
+      "city": "Pacitan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.178.171.58",
       "city": "Pacitan",
       "region": "East Java",
