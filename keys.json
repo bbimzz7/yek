@@ -7806,8 +7806,15 @@
     "userId": "5436443671",
     "source": "script",
     "createdAt": "2026-04-12T23:27:43.627Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-12T23:27:58.771Z",
     "geo": {
+      "ip": "186.241.142.181",
+      "city": "Vitória",
+      "region": "Espírito Santo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "186.241.142.181",
       "city": "Vitória",
       "region": "Espírito Santo",
