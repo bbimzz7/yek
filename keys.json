@@ -7204,5 +7204,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-FD9CC2-D30E24-55FF48": {
+    "expires": "2026-04-13T10:24:36.314Z",
+    "hwid": "9836183837-A84DC159-AC2A-4F26-8324-0E471063714A",
+    "browserHwid": null,
+    "username": "SimplyTired07",
+    "userId": "9836183837",
+    "source": "script",
+    "createdAt": "2026-04-12T10:24:36.722Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.252.201.79",
+      "city": "Singapore",
+      "region": "South West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
