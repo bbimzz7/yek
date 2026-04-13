@@ -8046,8 +8046,15 @@
     "userId": "7611665851",
     "source": "script",
     "createdAt": "2026-04-13T05:02:49.366Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T05:04:01.471Z",
     "geo": {
+      "ip": "177.225.176.20",
+      "city": "Durango",
+      "region": "Durango",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "177.225.176.20",
       "city": "Durango",
       "region": "Durango",
