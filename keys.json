@@ -8678,5 +8678,22 @@
       "country": "Turkey",
       "cc": "TR"
     }
+  },
+  "VH-75A17F-91FFD5-180EAF": {
+    "expires": "2026-04-14T20:00:24.096Z",
+    "hwid": "2428695115-f10c4d74-db29-4138-a0ab-8cac28e56b39",
+    "browserHwid": null,
+    "username": "Alkendi55355",
+    "userId": "2428695115",
+    "source": "script",
+    "createdAt": "2026-04-13T20:00:24.565Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "31.215.148.208",
+      "city": "Fujairah",
+      "region": "Emirate of Fujairah",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
