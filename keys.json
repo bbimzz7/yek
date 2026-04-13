@@ -8238,7 +8238,7 @@
     "userId": "9323770646",
     "source": "script",
     "createdAt": "2026-04-13T09:12:32.457Z",
-    "lastUsed": "2026-04-13T09:12:38.749Z",
+    "lastUsed": "2026-04-13T11:47:44.070Z",
     "geo": {
       "ip": "114.10.153.171",
       "city": "Salatiga",
@@ -8247,8 +8247,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.10.153.171",
-      "city": "Salatiga",
+      "ip": "103.126.86.120",
+      "city": "Kutoarjo",
       "region": "Central Java",
       "country": "Indonesia",
       "cc": "ID"
