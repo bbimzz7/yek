@@ -8022,8 +8022,15 @@
     "userId": "10812562970",
     "source": "script",
     "createdAt": "2026-04-13T04:59:42.626Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T05:01:45.659Z",
     "geo": {
+      "ip": "103.156.118.62",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.156.118.62",
       "city": "Jakarta",
       "region": "Jakarta",
