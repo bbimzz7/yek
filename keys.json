@@ -8423,8 +8423,15 @@
     "userId": "10351780472",
     "source": "script",
     "createdAt": "2026-04-13T11:34:34.742Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T11:37:58.745Z",
     "geo": {
+      "ip": "112.203.60.44",
+      "city": "Caloocan",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.203.60.44",
       "city": "Caloocan",
       "region": "Metro Manila",
