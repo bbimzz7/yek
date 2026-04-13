@@ -8334,13 +8334,20 @@
     "userId": "9773316108",
     "source": "script",
     "createdAt": "2026-04-13T10:33:18.372Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T10:33:33.240Z",
     "geo": {
       "ip": "182.253.63.0",
       "city": "Bandar Lampung",
       "region": "Lampung",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.40.59.42",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
