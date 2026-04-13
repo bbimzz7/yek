@@ -8277,5 +8277,22 @@
       "country": "Greece",
       "cc": "GR"
     }
+  },
+  "VH-16A031-F3FB97-99531A": {
+    "expires": "2026-04-14T10:00:11.459Z",
+    "hwid": "10680590485-4fd79fa0-3ccc-42c9-8d1b-1eaca396f23f",
+    "browserHwid": null,
+    "username": "x_VkNv",
+    "userId": "10680590485",
+    "source": "script",
+    "createdAt": "2026-04-13T10:00:11.967Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.248.42.127",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
