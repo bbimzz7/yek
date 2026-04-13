@@ -8510,5 +8510,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CCFF6D-59A0BE-F1A8DE": {
+    "expires": "2026-04-14T13:12:20.495Z",
+    "hwid": "10815234898-45276f3d-8206-4b8e-83c0-b25fea070866",
+    "browserHwid": null,
+    "username": "Pedrinho84158",
+    "userId": "10815234898",
+    "source": "script",
+    "createdAt": "2026-04-13T13:12:21.011Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.51.167.152",
+      "city": "São João Evangelista",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
