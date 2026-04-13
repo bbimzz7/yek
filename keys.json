@@ -8118,8 +8118,15 @@
     "userId": "10177050809",
     "source": "script",
     "createdAt": "2026-04-13T07:55:40.540Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T07:55:50.707Z",
     "geo": {
+      "ip": "66.181.178.118",
+      "city": "Ulan Bator",
+      "region": "Ulaanbaatar",
+      "country": "Mongolia",
+      "cc": "MN"
+    },
+    "lastGeo": {
       "ip": "66.181.178.118",
       "city": "Ulan Bator",
       "region": "Ulaanbaatar",
