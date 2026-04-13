@@ -8639,8 +8639,15 @@
     "userId": "8970303962",
     "source": "script",
     "createdAt": "2026-04-13T19:18:25.227Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T19:18:36.916Z",
     "geo": {
+      "ip": "89.135.116.103",
+      "city": "Herend",
+      "region": "Veszprém megye",
+      "country": "Hungary",
+      "cc": "HU"
+    },
+    "lastGeo": {
       "ip": "89.135.116.103",
       "city": "Herend",
       "region": "Veszprém megye",
