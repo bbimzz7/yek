@@ -8735,8 +8735,15 @@
     "userId": "10644674086",
     "source": "script",
     "createdAt": "2026-04-13T21:29:41.399Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T21:29:55.660Z",
     "geo": {
+      "ip": "179.216.244.63",
+      "city": "Araçatuba",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "179.216.244.63",
       "city": "Araçatuba",
       "region": "São Paulo",
