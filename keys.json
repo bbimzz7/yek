@@ -8726,5 +8726,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-77A8F6-AFEB4E-BB188B": {
+    "expires": "2026-04-14T21:29:40.943Z",
+    "hwid": "10644674086-b86d3b1b-7978-49c8-898d-55e76114dcb7",
+    "browserHwid": null,
+    "username": "X1CTEDG0_vip",
+    "userId": "10644674086",
+    "source": "script",
+    "createdAt": "2026-04-13T21:29:41.399Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.216.244.63",
+      "city": "Araçatuba",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
