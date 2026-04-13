@@ -8349,5 +8349,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-1FC77A-45996D-DBF294": {
+    "expires": "2026-04-14T10:57:19.329Z",
+    "hwid": "8147666403-b0cb548a-2d9b-4ea6-886e-2213b8616ff1",
+    "browserHwid": null,
+    "username": "Firman_pagatan",
+    "userId": "8147666403",
+    "source": "script",
+    "createdAt": "2026-04-13T10:57:19.766Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.164.97.159",
+      "city": "Palangkaraya",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
