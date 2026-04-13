@@ -8774,5 +8774,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-839322-3646AE-AD8B81": {
+    "expires": "2026-04-14T22:25:12.028Z",
+    "hwid": "5116914899-72EC3710-D233-4704-94B3-F08A71C95094",
+    "browserHwid": null,
+    "username": "4387mikedergaile",
+    "userId": "5116914899",
+    "source": "script",
+    "createdAt": "2026-04-13T22:25:12.480Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "84.188.39.251",
+      "city": "Waldbröl",
+      "region": "North Rhine-Westphalia",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
