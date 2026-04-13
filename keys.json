@@ -8085,5 +8085,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CF1E4D-A33268-33636A": {
+    "expires": "2026-04-14T06:23:04.199Z",
+    "hwid": "10280972245-51e0c412-9174-4c10-8792-d6f90ed0db14",
+    "browserHwid": null,
+    "username": "kikibising12",
+    "userId": "10280972245",
+    "source": "script",
+    "createdAt": "2026-04-13T06:23:04.633Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.153.149.248",
+      "city": "Tunggangri",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
