@@ -7926,8 +7926,15 @@
     "userId": "3901633010",
     "source": "script",
     "createdAt": "2026-04-13T03:13:00.193Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T03:13:32.728Z",
     "geo": {
+      "ip": "182.8.161.19",
+      "city": "Sebulu",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.8.161.19",
       "city": "Sebulu",
       "region": "East Kalimantan",
