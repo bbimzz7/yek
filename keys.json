@@ -8807,8 +8807,15 @@
     "userId": "9175837357",
     "source": "script",
     "createdAt": "2026-04-13T22:39:38.104Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T22:39:51.937Z",
     "geo": {
+      "ip": "187.225.45.160",
+      "city": "Xalapa",
+      "region": "Veracruz",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.225.45.160",
       "city": "Xalapa",
       "region": "Veracruz",
