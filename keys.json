@@ -7830,8 +7830,15 @@
     "userId": "10815701864",
     "source": "script",
     "createdAt": "2026-04-13T00:55:34.273Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T00:57:19.370Z",
     "geo": {
+      "ip": "177.8.76.82",
+      "city": "Medellín",
+      "region": "Antioquia",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
       "ip": "177.8.76.82",
       "city": "Medellín",
       "region": "Antioquia",
