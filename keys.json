@@ -7782,7 +7782,7 @@
     "userId": "10375374745",
     "source": "script",
     "createdAt": "2026-04-12T23:22:01.371Z",
-    "lastUsed": "2026-04-12T23:22:55.040Z",
+    "lastUsed": "2026-04-13T11:43:11.594Z",
     "geo": {
       "ip": "168.197.245.188",
       "city": "Belford Roxo",
@@ -7791,8 +7791,8 @@
       "cc": "BR"
     },
     "lastGeo": {
-      "ip": "168.197.245.188",
-      "city": "Belford Roxo",
+      "ip": "189.92.23.36",
+      "city": "Rio de Janeiro",
       "region": "Rio de Janeiro",
       "country": "Brazil",
       "cc": "BR"
