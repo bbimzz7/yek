@@ -8094,8 +8094,15 @@
     "userId": "10280972245",
     "source": "script",
     "createdAt": "2026-04-13T06:23:04.633Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T06:27:13.760Z",
     "geo": {
+      "ip": "103.153.149.248",
+      "city": "Tunggangri",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.153.149.248",
       "city": "Tunggangri",
       "region": "East Java",
