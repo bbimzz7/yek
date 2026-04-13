@@ -8037,5 +8037,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-52649B-F35D6B-784FDC": {
+    "expires": "2026-04-14T05:02:49.122Z",
+    "hwid": "7611665851-fcf2e3ed-6af7-4484-8d06-c14738ef6900",
+    "browserHwid": null,
+    "username": "cheros_55",
+    "userId": "7611665851",
+    "source": "script",
+    "createdAt": "2026-04-13T05:02:49.366Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.225.176.20",
+      "city": "Durango",
+      "region": "Durango",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
