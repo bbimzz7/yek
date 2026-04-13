@@ -8567,8 +8567,15 @@
     "userId": "2943424383",
     "source": "script",
     "createdAt": "2026-04-13T14:06:20.084Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T14:06:29.256Z",
     "geo": {
+      "ip": "112.78.133.167",
+      "city": "Madiun",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "112.78.133.167",
       "city": "Madiun",
       "region": "East Java",
