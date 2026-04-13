@@ -7989,5 +7989,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-E33A93-CABA78-5ED684": {
+    "expires": "2026-04-14T04:37:51.312Z",
+    "hwid": "10489608123-ffd52c09-f036-4594-8c0d-508db89fbbe1",
+    "browserHwid": null,
+    "username": "MonitorKetuaaa_9",
+    "userId": "10489608123",
+    "source": "script",
+    "createdAt": "2026-04-13T04:37:51.731Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.58.74.37",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
