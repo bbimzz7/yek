@@ -8061,5 +8061,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-39EFC8-8828E6-6CCBD4": {
+    "expires": "2026-04-14T05:39:19.724Z",
+    "hwid": "9439740680-476d0414-39e2-45f3-b8cc-79b76a371825",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-04-13T05:39:20.144Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.115.109",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
