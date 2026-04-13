@@ -8831,8 +8831,15 @@
     "userId": "10285784095",
     "source": "script",
     "createdAt": "2026-04-13T23:16:32.107Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T23:17:32.360Z",
     "geo": {
+      "ip": "177.221.210.157",
+      "city": "Alta Floresta",
+      "region": "Mato Grosso",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.221.210.157",
       "city": "Alta Floresta",
       "region": "Mato Grosso",
