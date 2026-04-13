@@ -8229,5 +8229,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-293B4C-567426-BFA49E": {
+    "expires": "2026-04-14T09:12:32.009Z",
+    "hwid": "9323770646-8910db44-75d0-4bea-8477-1001977cbc83",
+    "browserHwid": null,
+    "username": "YanzTetsuya",
+    "userId": "9323770646",
+    "source": "script",
+    "createdAt": "2026-04-13T09:12:32.457Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.153.171",
+      "city": "Salatiga",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
