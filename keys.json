@@ -8157,5 +8157,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-96710E-16D1F4-57B4F1": {
+    "expires": "2026-04-14T08:53:52.087Z",
+    "hwid": "9522263684-38b80aa8-ebe5-443a-bd4e-35a6fb20b2ad",
+    "browserHwid": null,
+    "username": "Sitthibutra",
+    "userId": "9522263684",
+    "source": "script",
+    "createdAt": "2026-04-13T08:53:52.309Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.4.221.75",
+      "city": "Chiang Mai",
+      "region": "Chiang Mai",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
