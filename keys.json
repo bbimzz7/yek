@@ -8702,5 +8702,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-DDDE93-FA65EB-BEB1BE": {
+    "expires": "2026-04-14T21:19:39.770Z",
+    "hwid": "467289301-5a2de1b7-080d-4f90-b17c-fdbc52223331",
+    "browserHwid": null,
+    "username": "musa09lo",
+    "userId": "467289301",
+    "source": "script",
+    "createdAt": "2026-04-13T21:19:40.236Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.17.86",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
