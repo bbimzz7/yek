@@ -8519,8 +8519,15 @@
     "userId": "10815234898",
     "source": "script",
     "createdAt": "2026-04-13T13:12:21.011Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T13:12:36.134Z",
     "geo": {
+      "ip": "179.51.167.152",
+      "city": "São João Evangelista",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "179.51.167.152",
       "city": "São João Evangelista",
       "region": "Minas Gerais",
