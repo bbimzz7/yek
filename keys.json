@@ -7845,5 +7845,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-6EBC7C-859EF2-46929C": {
+    "expires": "2026-04-14T01:34:25.519Z",
+    "hwid": "10779523999-48264542-d9e3-4719-909d-126b0eec40a2",
+    "browserHwid": null,
+    "username": "Fshsvy",
+    "userId": "10779523999",
+    "source": "script",
+    "createdAt": "2026-04-13T01:34:25.955Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.70.25.186",
+      "city": "New York",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
