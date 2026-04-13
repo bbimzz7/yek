@@ -8142,11 +8142,18 @@
     "userId": "10166264819",
     "source": "script",
     "createdAt": "2026-04-13T08:46:05.620Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T08:48:34.555Z",
     "geo": {
       "ip": "202.59.195.72",
       "city": "Jakarta",
       "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "103.77.50.153",
+      "city": "Sumedang",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
