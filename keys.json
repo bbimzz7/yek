@@ -8687,8 +8687,15 @@
     "userId": "2428695115",
     "source": "script",
     "createdAt": "2026-04-13T20:00:24.565Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T20:00:41.017Z",
     "geo": {
+      "ip": "31.215.148.208",
+      "city": "Fujairah",
+      "region": "Emirate of Fujairah",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    },
+    "lastGeo": {
       "ip": "31.215.148.208",
       "city": "Fujairah",
       "region": "Emirate of Fujairah",
