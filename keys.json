@@ -8462,5 +8462,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-21D6DF-91A1E8-5BAEE9": {
+    "expires": "2026-04-14T11:53:11.164Z",
+    "hwid": "5512233025-c0603021-db70-4d1b-8c6c-f9cc0cbbae3a",
+    "browserHwid": null,
+    "username": "FROSTDIAMON575",
+    "userId": "5512233025",
+    "source": "script",
+    "createdAt": "2026-04-13T11:53:11.629Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.22.62.32",
+      "city": "Tabanan",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
