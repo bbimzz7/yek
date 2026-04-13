@@ -8358,8 +8358,15 @@
     "userId": "8147666403",
     "source": "script",
     "createdAt": "2026-04-13T10:57:19.766Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T10:57:30.036Z",
     "geo": {
+      "ip": "125.164.97.159",
+      "city": "Palangkaraya",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.164.97.159",
       "city": "Palangkaraya",
       "region": "Central Kalimantan",
