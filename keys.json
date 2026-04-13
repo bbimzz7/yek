@@ -7821,5 +7821,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-7C2143-B80114-A7F629": {
+    "expires": "2026-04-14T00:55:33.853Z",
+    "hwid": "10815701864-464bd68f-e4c3-48f1-934f-af12f0f218cc",
+    "browserHwid": null,
+    "username": "deltafor670",
+    "userId": "10815701864",
+    "source": "script",
+    "createdAt": "2026-04-13T00:55:34.273Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.8.76.82",
+      "city": "Medellín",
+      "region": "Antioquia",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
