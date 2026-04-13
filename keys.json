@@ -8750,5 +8750,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-2517DC-4C831E-BB3058": {
+    "expires": "2026-04-14T22:17:29.017Z",
+    "hwid": "9786987427-7d31b55f-7d6e-4bb6-87e6-eb624e4de0fe",
+    "browserHwid": null,
+    "username": "BiMa1288000",
+    "userId": "9786987427",
+    "source": "script",
+    "createdAt": "2026-04-13T22:17:29.472Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.65.239.9",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
