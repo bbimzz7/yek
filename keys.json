@@ -8447,8 +8447,15 @@
     "userId": "8255405498",
     "source": "script",
     "createdAt": "2026-04-13T11:42:59.280Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T11:44:34.765Z",
     "geo": {
+      "ip": "175.176.15.145",
+      "city": "Angeles City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "175.176.15.145",
       "city": "Angeles City",
       "region": "Central Luzon",
