@@ -8438,5 +8438,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-C5C387-9D4735-E9C8BC": {
+    "expires": "2026-04-14T11:42:59.031Z",
+    "hwid": "8255405498-b9434510-18b5-4e05-a722-29e6c50c9954",
+    "browserHwid": null,
+    "username": "dubee289",
+    "userId": "8255405498",
+    "source": "script",
+    "createdAt": "2026-04-13T11:42:59.280Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.176.15.145",
+      "city": "Angeles City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
