@@ -8133,5 +8133,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-60B4F0-5DBA6D-FEEDC1": {
+    "expires": "2026-04-14T08:46:05.137Z",
+    "hwid": "10166264819-6eec32eb-49ec-4412-8637-f07b72b4d24d",
+    "browserHwid": null,
+    "username": "ikyyy_4904",
+    "userId": "10166264819",
+    "source": "script",
+    "createdAt": "2026-04-13T08:46:05.620Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.59.195.72",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
