@@ -8846,5 +8846,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-3F2400-F1CCAC-D1E4BC": {
+    "expires": "2026-04-14T23:24:44.538Z",
+    "hwid": "4895077798-879db289-5636-4e19-9e29-fb6aff0f097b",
+    "browserHwid": null,
+    "username": "vhflsnm",
+    "userId": "4895077798",
+    "source": "script",
+    "createdAt": "2026-04-13T23:24:44.979Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "169.224.13.182",
+      "city": "Baghdad",
+      "region": "Baghdad",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
