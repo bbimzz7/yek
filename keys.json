@@ -8262,8 +8262,15 @@
     "userId": "8215847289",
     "source": "script",
     "createdAt": "2026-04-13T09:30:14.856Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T09:35:27.472Z",
     "geo": {
+      "ip": "77.49.50.150",
+      "city": "Athens",
+      "region": "Attica",
+      "country": "Greece",
+      "cc": "GR"
+    },
+    "lastGeo": {
       "ip": "77.49.50.150",
       "city": "Athens",
       "region": "Attica",
