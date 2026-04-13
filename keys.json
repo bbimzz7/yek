@@ -8558,5 +8558,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E8493B-65F2D1-34633B": {
+    "expires": "2026-04-14T14:06:19.564Z",
+    "hwid": "2943424383-B5D7963F-182F-4B94-9EB2-3B9A76D7E0C9",
+    "browserHwid": null,
+    "username": "finopro345",
+    "userId": "2943424383",
+    "source": "script",
+    "createdAt": "2026-04-13T14:06:20.084Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.78.133.167",
+      "city": "Madiun",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
