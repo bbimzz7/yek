@@ -7902,8 +7902,15 @@
     "userId": "3063291793",
     "source": "script",
     "createdAt": "2026-04-13T02:15:04.136Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T02:20:26.971Z",
     "geo": {
+      "ip": "157.100.113.43",
+      "city": "Guayaquil",
+      "region": "Guayas",
+      "country": "Ecuador",
+      "cc": "EC"
+    },
+    "lastGeo": {
       "ip": "157.100.113.43",
       "city": "Guayaquil",
       "region": "Guayas",
