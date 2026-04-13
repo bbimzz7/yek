@@ -7854,7 +7854,7 @@
     "userId": "10779523999",
     "source": "script",
     "createdAt": "2026-04-13T01:34:25.955Z",
-    "lastUsed": "2026-04-13T01:34:48.381Z",
+    "lastUsed": "2026-04-13T01:59:54.871Z",
     "geo": {
       "ip": "146.70.25.186",
       "city": "New York",
@@ -7863,11 +7863,11 @@
       "cc": "US"
     },
     "lastGeo": {
-      "ip": "146.70.25.186",
-      "city": "New York",
-      "region": "New York",
-      "country": "United States",
-      "cc": "US"
+      "ip": "142.154.43.241",
+      "city": "Jeddah",
+      "region": "Mecca Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
     }
   }
 }
