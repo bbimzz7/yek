@@ -7917,5 +7917,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-539B37-E32381-2ADC1A": {
+    "expires": "2026-04-14T03:12:59.734Z",
+    "hwid": "3901633010-788a5a2e-5845-4b9e-821b-55f888444b40",
+    "browserHwid": null,
+    "username": "lovepy2891",
+    "userId": "3901633010",
+    "source": "script",
+    "createdAt": "2026-04-13T03:13:00.193Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.161.19",
+      "city": "Sebulu",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
