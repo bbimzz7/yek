@@ -8190,8 +8190,15 @@
     "userId": "4590024969",
     "source": "script",
     "createdAt": "2026-04-13T08:59:59.797Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T09:00:07.649Z",
     "geo": {
+      "ip": "180.249.153.101",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.249.153.101",
       "city": "Jakarta",
       "region": "Jakarta",
