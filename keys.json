@@ -8486,5 +8486,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C2E824-DB931A-581656": {
+    "expires": "2026-04-14T12:21:15.778Z",
+    "hwid": "8077769473-b9065650-62b1-4bcd-b586-272f4dcfcb93",
+    "browserHwid": null,
+    "username": "ImYours071",
+    "userId": "8077769473",
+    "source": "script",
+    "createdAt": "2026-04-13T12:21:16.303Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.147.246.14",
+      "city": "Pasarkemis",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
