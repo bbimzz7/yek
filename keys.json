@@ -8822,5 +8822,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-3FFE2A-C675B4-BA42E6": {
+    "expires": "2026-04-14T23:16:31.698Z",
+    "hwid": "10285784095-91783353-5682-4ce0-9ab6-56d04c442f8a",
+    "browserHwid": null,
+    "username": "FrostKittyStar202498",
+    "userId": "10285784095",
+    "source": "script",
+    "createdAt": "2026-04-13T23:16:32.107Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.221.210.157",
+      "city": "Alta Floresta",
+      "region": "Mato Grosso",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
