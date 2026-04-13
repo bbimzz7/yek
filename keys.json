@@ -8325,5 +8325,22 @@
       "country": "Belize",
       "cc": "BZ"
     }
+  },
+  "VH-155737-B3E40D-B07E68": {
+    "expires": "2026-04-14T10:33:17.917Z",
+    "hwid": "9773316108-8cd36b42-891e-4d53-9246-cd0ab0be4157",
+    "browserHwid": null,
+    "username": "amithaxn",
+    "userId": "9773316108",
+    "source": "script",
+    "createdAt": "2026-04-13T10:33:18.372Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.63.0",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
