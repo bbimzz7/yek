@@ -8238,8 +8238,15 @@
     "userId": "9323770646",
     "source": "script",
     "createdAt": "2026-04-13T09:12:32.457Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-13T09:12:38.749Z",
     "geo": {
+      "ip": "114.10.153.171",
+      "city": "Salatiga",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.153.171",
       "city": "Salatiga",
       "region": "Central Java",
