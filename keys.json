@@ -9626,8 +9626,15 @@
     "userId": "8156755728",
     "source": "script",
     "createdAt": "2026-04-14T19:00:36.859Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-14T19:00:45.971Z",
     "geo": {
+      "ip": "46.33.232.230",
+      "city": "Mykolayiv",
+      "region": "Mykolaiv",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "46.33.232.230",
       "city": "Mykolayiv",
       "region": "Mykolaiv",
