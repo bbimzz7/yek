@@ -8894,5 +8894,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9636FA-D87F89-E9BA37": {
+    "expires": "2026-04-15T00:58:50.141Z",
+    "hwid": "10778777122-6f5d451f-6965-4903-b777-e54fc504409c",
+    "browserHwid": null,
+    "username": "zioontesting_alt",
+    "userId": "10778777122",
+    "source": "script",
+    "createdAt": "2026-04-14T00:58:50.554Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.197.42.153",
+      "city": "Belmopan",
+      "region": "Cayo District",
+      "country": "Belize",
+      "cc": "BZ"
+    }
   }
 }
