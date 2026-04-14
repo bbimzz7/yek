@@ -9290,8 +9290,15 @@
     "userId": "3077760207",
     "source": "script",
     "createdAt": "2026-04-14T10:43:38.809Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-14T10:44:35.307Z",
     "geo": {
+      "ip": "104.28.162.136",
+      "city": "Istres",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "104.28.162.136",
       "city": "Istres",
       "region": "Provence-Alpes-Côte d'Azur",
