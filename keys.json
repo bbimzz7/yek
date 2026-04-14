@@ -9738,5 +9738,22 @@
       "country": "Chile",
       "cc": "CL"
     }
+  },
+  "VH-80EABA-36CCCF-398236": {
+    "expires": "2026-04-15T23:21:21.888Z",
+    "hwid": "7537505502-57079dee-8378-4410-8b9a-2595735d63cf",
+    "browserHwid": null,
+    "username": "hilaldj4",
+    "userId": "7537505502",
+    "source": "script",
+    "createdAt": "2026-04-14T23:21:22.325Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.247.23.107",
+      "city": "Banjarnegara",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
