@@ -9016,8 +9016,15 @@
     "userId": "4262948240",
     "source": "script",
     "createdAt": "2026-04-14T04:45:40.005Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-14T04:45:46.667Z",
     "geo": {
+      "ip": "187.103.218.158",
+      "city": "Jundiaí",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "187.103.218.158",
       "city": "Jundiaí",
       "region": "São Paulo",
