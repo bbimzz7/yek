@@ -9281,5 +9281,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E22F28-9A4E60-D35995": {
+    "expires": "2026-04-15T10:43:38.305Z",
+    "hwid": "3077760207-d18bc3c0-f9a2-4d97-bf4c-ad2851bb6342",
+    "browserHwid": null,
+    "username": "RAMADYT",
+    "userId": "3077760207",
+    "source": "script",
+    "createdAt": "2026-04-14T10:43:38.809Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.162.136",
+      "city": "Istres",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
