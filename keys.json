@@ -9055,5 +9055,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C2CD61-1A2A86-A44C68": {
+    "expires": "2026-04-15T06:32:39.154Z",
+    "hwid": "10411686876-15fc31ba-babf-4ef6-8c9d-d35e7652a778",
+    "browserHwid": null,
+    "username": "CoolManVictory123",
+    "userId": "10411686876",
+    "source": "script",
+    "createdAt": "2026-04-14T06:32:39.675Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.242.59.144",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
