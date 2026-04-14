@@ -9007,5 +9007,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C51F9F-2A652A-A8ECCD": {
+    "expires": "2026-04-15T04:45:39.557Z",
+    "hwid": "4262948240-2290B50B-30B5-4B2D-8EC6-89E3F0FCBBCA",
+    "browserHwid": null,
+    "username": "vaebeeee",
+    "userId": "4262948240",
+    "source": "script",
+    "createdAt": "2026-04-14T04:45:40.005Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.103.218.158",
+      "city": "Jundiaí",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
