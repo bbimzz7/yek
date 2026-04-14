@@ -9401,5 +9401,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-AC24DA-08061F-5A556C": {
+    "expires": "2026-04-15T14:15:54.223Z",
+    "hwid": "9012782278-0d093aef-e987-4fdf-9e20-5397fea7c910",
+    "browserHwid": null,
+    "username": "giiiiiissss9",
+    "userId": "9012782278",
+    "source": "script",
+    "createdAt": "2026-04-14T14:15:54.766Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.65.234.127",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
