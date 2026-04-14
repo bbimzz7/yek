@@ -9458,8 +9458,15 @@
     "userId": "10743487914",
     "source": "script",
     "createdAt": "2026-04-14T14:54:45.088Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-14T14:54:53.708Z",
     "geo": {
+      "ip": "103.78.115.183",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.78.115.183",
       "city": "Bekasi",
       "region": "West Java",
