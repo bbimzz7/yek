@@ -9072,5 +9072,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-024C71-49E0BE-46E206": {
+    "expires": "2026-04-15T06:32:46.931Z",
+    "hwid": "8058228703-8fd216fc-4356-4ca2-97a5-e7bb3b0c2c19",
+    "browserHwid": null,
+    "username": "SEMPAKLAMPUHIJAU",
+    "userId": "8058228703",
+    "source": "script",
+    "createdAt": "2026-04-14T06:32:47.184Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.179.248.64",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
