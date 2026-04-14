@@ -9723,8 +9723,15 @@
     "userId": "1471276528",
     "source": "script",
     "createdAt": "2026-04-14T22:37:48.737Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-14T22:39:22.673Z",
     "geo": {
+      "ip": "179.60.69.51",
+      "city": "Santiago",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    },
+    "lastGeo": {
       "ip": "179.60.69.51",
       "city": "Santiago",
       "region": "Santiago Metropolitan",
