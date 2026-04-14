@@ -9650,8 +9650,15 @@
     "userId": "9446995367",
     "source": "script",
     "createdAt": "2026-04-14T22:09:42.332Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-14T22:09:53.498Z",
     "geo": {
+      "ip": "102.156.96.113",
+      "city": "Tunis",
+      "region": "Tunis Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    },
+    "lastGeo": {
       "ip": "102.156.96.113",
       "city": "Tunis",
       "region": "Tunis Governorate",
