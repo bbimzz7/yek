@@ -9578,8 +9578,15 @@
     "userId": "8417669899",
     "source": "script",
     "createdAt": "2026-04-14T17:58:17.171Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-14T17:58:28.722Z",
     "geo": {
+      "ip": "103.190.47.121",
+      "city": "Narmada",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.190.47.121",
       "city": "Narmada",
       "region": "West Nusa Tenggara",
