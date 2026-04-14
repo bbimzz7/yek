@@ -9081,8 +9081,15 @@
     "userId": "8058228703",
     "source": "script",
     "createdAt": "2026-04-14T06:32:47.184Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-14T06:32:56.421Z",
     "geo": {
+      "ip": "103.179.248.64",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.179.248.64",
       "city": "Banda Aceh",
       "region": "Aceh",
