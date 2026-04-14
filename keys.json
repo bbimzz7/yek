@@ -9353,5 +9353,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AB1A95-104B61-09559C": {
+    "expires": "2026-04-15T12:38:56.224Z",
+    "hwid": "10489608123-5cbfd34d-502f-4e9f-af53-8034c836e672",
+    "browserHwid": null,
+    "username": "MonitorKetuaaa_9",
+    "userId": "10489608123",
+    "source": "script",
+    "createdAt": "2026-04-14T12:38:56.693Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.58.74.37",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
