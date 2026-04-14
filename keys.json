@@ -9410,8 +9410,15 @@
     "userId": "9012782278",
     "source": "script",
     "createdAt": "2026-04-14T14:15:54.766Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-14T14:17:32.460Z",
     "geo": {
+      "ip": "202.65.234.127",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "202.65.234.127",
       "city": "Surabaya",
       "region": "East Java",
