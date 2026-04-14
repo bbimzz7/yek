@@ -9425,5 +9425,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FBC787-A49AEE-5B7C5B": {
+    "expires": "2026-04-15T14:29:01.235Z",
+    "hwid": "8786464484-5a81c54e-c136-4df6-a896-4d66b75a631b",
+    "browserHwid": null,
+    "username": "NamiKaramoy",
+    "userId": "8786464484",
+    "source": "script",
+    "createdAt": "2026-04-14T14:29:01.786Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.149.18.126",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
