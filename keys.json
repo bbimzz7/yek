@@ -8942,5 +8942,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E7EB12-52187E-E79135": {
+    "expires": "2026-04-15T02:05:29.659Z",
+    "hwid": null,
+    "browserHwid": "BR-4826236F-KYXX5",
+    "username": "BR-4826236F-KYXX5",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-14T02:05:30.102Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.82.87.76",
+      "city": "Shymkent",
+      "region": "Shymkent",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
