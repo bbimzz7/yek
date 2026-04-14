@@ -9482,9 +9482,16 @@
     "userId": "753522780",
     "source": "script",
     "createdAt": "2026-04-14T14:59:50.026Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-14T15:00:01.549Z",
     "geo": {
       "ip": "103.186.168.224",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "103.186.168.227",
       "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
