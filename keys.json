@@ -9305,5 +9305,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-81D2B2-845F2F-D6034B": {
+    "expires": "2026-04-15T11:59:35.372Z",
+    "hwid": "5088673279-581eb4bd-f0b2-4984-ab44-cd48978f223b",
+    "browserHwid": null,
+    "username": "indukengkrawai0",
+    "userId": "5088673279",
+    "source": "script",
+    "createdAt": "2026-04-14T11:59:35.824Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.250.232",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
