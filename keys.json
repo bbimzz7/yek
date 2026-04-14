@@ -9714,5 +9714,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4E1298-2383A9-90F515": {
+    "expires": "2026-04-15T22:37:48.459Z",
+    "hwid": "1471276528-db034d1a-bfe1-40b8-b6df-1b886d627061",
+    "browserHwid": null,
+    "username": "jsjzbdjxbdjd",
+    "userId": "1471276528",
+    "source": "script",
+    "createdAt": "2026-04-14T22:37:48.737Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.60.69.51",
+      "city": "Santiago",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
