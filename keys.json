@@ -9153,8 +9153,15 @@
     "userId": "10656450494",
     "source": "script",
     "createdAt": "2026-04-14T06:44:16.728Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-14T06:44:28.325Z",
     "geo": {
+      "ip": "114.10.145.239",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.145.239",
       "city": "Bandung",
       "region": "West Java",
