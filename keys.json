@@ -9569,5 +9569,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D03B6B-60CDC7-F47303": {
+    "expires": "2026-04-15T17:58:16.627Z",
+    "hwid": "8417669899-d6205419-70a4-43b7-b0df-134d943282ae",
+    "browserHwid": null,
+    "username": "Ric1only",
+    "userId": "8417669899",
+    "source": "script",
+    "createdAt": "2026-04-14T17:58:17.171Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.190.47.121",
+      "city": "Narmada",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
