@@ -8879,8 +8879,15 @@
     "userId": "10028745114",
     "source": "script",
     "createdAt": "2026-04-14T00:52:48.146Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-14T00:54:31.583Z",
     "geo": {
+      "ip": "125.163.65.231",
+      "city": "Mambalan",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.163.65.231",
       "city": "Mambalan",
       "region": "West Nusa Tenggara",
