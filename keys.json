@@ -8870,5 +8870,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-B81847-EB7241-CB4734": {
+    "expires": "2026-04-15T00:52:47.752Z",
+    "hwid": "10028745114-944e424b-48b2-41af-b1e0-ff4b2908206f",
+    "browserHwid": null,
+    "username": "waquizam",
+    "userId": "10028745114",
+    "source": "script",
+    "createdAt": "2026-04-14T00:52:48.146Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.163.65.231",
+      "city": "Mambalan",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
