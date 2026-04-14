@@ -9040,8 +9040,15 @@
     "userId": "10730844597",
     "source": "script",
     "createdAt": "2026-04-14T04:46:30.441Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-14T04:46:42.760Z",
     "geo": {
+      "ip": "180.252.127.8",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.252.127.8",
       "city": "Jakarta",
       "region": "Jakarta",
