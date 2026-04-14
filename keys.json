@@ -9144,5 +9144,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-86DF9C-419835-E74D32": {
+    "expires": "2026-04-15T06:44:16.238Z",
+    "hwid": "10656450494-b710abdc-7d66-46dd-9392-b566797f699c",
+    "browserHwid": null,
+    "username": "ltsypp",
+    "userId": "10656450494",
+    "source": "script",
+    "createdAt": "2026-04-14T06:44:16.728Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.145.239",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
