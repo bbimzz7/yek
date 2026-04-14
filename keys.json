@@ -9031,5 +9031,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-70D643-6CCD01-CD51B9": {
+    "expires": "2026-04-15T04:46:30.213Z",
+    "hwid": "10730844597-476d0414-39e2-45f3-b8cc-79b76a371825",
+    "browserHwid": null,
+    "username": "DzikriAF0",
+    "userId": "10730844597",
+    "source": "script",
+    "createdAt": "2026-04-14T04:46:30.441Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.127.8",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
