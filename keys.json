@@ -9175,5 +9175,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7D1EB6-EBA551-BDF6B4": {
+    "expires": "2026-04-15T06:46:30.412Z",
+    "hwid": "8953310864-8f0db50c-b318-4da0-a0f6-7e679177470e",
+    "browserHwid": null,
+    "username": "margra757",
+    "userId": "8953310864",
+    "source": "script",
+    "createdAt": "2026-04-14T06:46:30.669Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.165.154.245",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
