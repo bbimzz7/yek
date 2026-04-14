@@ -9690,5 +9690,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-3DDFC7-DCD5C8-4E7844": {
+    "expires": "2026-04-15T22:36:10.428Z",
+    "hwid": "10496788621-bf6aa124-cd01-488c-bc31-0faadb21ee8d",
+    "browserHwid": null,
+    "username": "akun2_azek",
+    "userId": "10496788621",
+    "source": "script",
+    "createdAt": "2026-04-14T22:36:10.937Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.253.34.18",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
