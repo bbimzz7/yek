@@ -9264,5 +9264,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EB7A04-C9AD56-79218B": {
+    "expires": "2026-04-15T09:50:08.182Z",
+    "hwid": null,
+    "browserHwid": "BR-64B54F54-O6VSP",
+    "username": "Ffff",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-14T09:50:08.642Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.100.174",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
