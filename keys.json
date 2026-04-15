@@ -10146,5 +10146,22 @@
       "country": "Turkey",
       "cc": "TR"
     }
+  },
+  "VH-0BFA72-44157A-20E3F2": {
+    "expires": "2026-04-16T09:26:54.951Z",
+    "hwid": "10119279796-82684c94-6197-4d76-99c8-d3e79d083693",
+    "browserHwid": null,
+    "username": "MaxRemon_23",
+    "userId": "10119279796",
+    "source": "script",
+    "createdAt": "2026-04-15T09:26:55.443Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.66.152",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
