@@ -10299,8 +10299,15 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-04-15T12:15:57.662Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-15T12:16:12.491Z",
     "geo": {
+      "ip": "180.252.114.103",
+      "city": "North Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.252.114.103",
       "city": "North Jakarta",
       "region": "Jakarta",
