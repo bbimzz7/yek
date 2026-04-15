@@ -10203,8 +10203,15 @@
     "userId": "425048380",
     "source": "script",
     "createdAt": "2026-04-15T10:46:21.357Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-15T10:46:26.803Z",
     "geo": {
+      "ip": "123.17.162.10",
+      "city": "Bắc Sơn",
+      "region": "Lạng Sơn Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "123.17.162.10",
       "city": "Bắc Sơn",
       "region": "Lạng Sơn Province",
