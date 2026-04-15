@@ -10338,5 +10338,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3E0FEC-3A61D9-BD7E7C": {
+    "expires": "2026-04-16T12:36:53.853Z",
+    "hwid": "10657032416-476d0414-39e2-45f3-b8cc-79b76a371825",
+    "browserHwid": null,
+    "username": "aboutyouwhen",
+    "userId": "10657032416",
+    "source": "script",
+    "createdAt": "2026-04-15T12:36:54.288Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.114.103",
+      "city": "North Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
