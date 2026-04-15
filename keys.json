@@ -9810,5 +9810,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-766D6B-5203CF-947495": {
+    "expires": "2026-04-16T00:52:13.404Z",
+    "hwid": "9980052318-DA95034A-74B3-47BF-8176-F3087F1CA500",
+    "browserHwid": null,
+    "username": "facutacos",
+    "userId": "9980052318",
+    "source": "script",
+    "createdAt": "2026-04-15T00:52:13.872Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "148.227.121.144",
+      "city": "Buenos Aires",
+      "region": "Buenos Aires F.D.",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
