@@ -9987,8 +9987,15 @@
     "userId": "10218799780",
     "source": "script",
     "createdAt": "2026-04-15T06:49:51.537Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-15T06:49:57.920Z",
     "geo": {
+      "ip": "182.2.101.18",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.2.101.18",
       "city": "Pontianak",
       "region": "West Kalimantan",
