@@ -10362,5 +10362,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C88EEC-9044CD-112980": {
+    "expires": "2026-04-16T13:27:53.974Z",
+    "hwid": "53174906-92F9854B-5406-467E-B3A5-43D50081E578",
+    "browserHwid": null,
+    "username": "KingFelix1645",
+    "userId": "53174906",
+    "source": "script",
+    "createdAt": "2026-04-15T13:27:54.224Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.70.246.122",
+      "city": "Bucharest",
+      "region": "București",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
