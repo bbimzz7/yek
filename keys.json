@@ -10035,8 +10035,15 @@
     "userId": "8610271066",
     "source": "script",
     "createdAt": "2026-04-15T07:43:03.397Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-15T07:43:14.182Z",
     "geo": {
+      "ip": "180.253.106.61",
+      "city": "Rappang",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.253.106.61",
       "city": "Rappang",
       "region": "South Sulawesi",
