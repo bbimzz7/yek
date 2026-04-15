@@ -9819,8 +9819,15 @@
     "userId": "9980052318",
     "source": "script",
     "createdAt": "2026-04-15T00:52:13.872Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-15T00:52:22.223Z",
     "geo": {
+      "ip": "148.227.121.144",
+      "city": "Buenos Aires",
+      "region": "Buenos Aires F.D.",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "148.227.121.144",
       "city": "Buenos Aires",
       "region": "Buenos Aires F.D.",
