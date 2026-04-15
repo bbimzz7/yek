@@ -10427,5 +10427,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FBC78F-E1CB6E-39547A": {
+    "expires": "2026-04-16T14:34:15.876Z",
+    "hwid": "9651397492-6998732c-6171-46f7-8f55-d8c3752e0c94",
+    "browserHwid": null,
+    "username": "Renzyca20",
+    "userId": "9651397492",
+    "source": "script",
+    "createdAt": "2026-04-15T14:34:16.464Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.188.169.160",
+      "city": "Gunungkalong",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
