@@ -10636,5 +10636,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-04AEF4-7266D7-B9CED6": {
+    "expires": "2026-04-16T21:18:05.106Z",
+    "hwid": "4063760265-232f34ba-8ec9-412b-9073-fcb2fe102369",
+    "browserHwid": null,
+    "username": "shyaffctn",
+    "userId": "4063760265",
+    "source": "script",
+    "createdAt": "2026-04-15T21:18:05.694Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.244.102.63",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
