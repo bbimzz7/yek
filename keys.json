@@ -10026,5 +10026,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C89758-4FC74A-0F3FFA": {
+    "expires": "2026-04-16T07:43:02.919Z",
+    "hwid": "8610271066-7e8a853d-0044-465c-b0ab-d2bf8ce95014",
+    "browserHwid": null,
+    "username": "Satoru_joy13",
+    "userId": "8610271066",
+    "source": "script",
+    "createdAt": "2026-04-15T07:43:03.397Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.253.106.61",
+      "city": "Rappang",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
