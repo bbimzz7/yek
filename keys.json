@@ -9858,5 +9858,22 @@
       "country": "Trinidad and Tobago",
       "cc": "TT"
     }
+  },
+  "VH-190F2B-0F48E3-B8589A": {
+    "expires": "2026-04-16T04:43:54.042Z",
+    "hwid": "7548734552-16C7D007-E5E9-4D12-A9E2-18EB7BA873AB",
+    "browserHwid": null,
+    "username": "gaaraqt2",
+    "userId": "7548734552",
+    "source": "script",
+    "createdAt": "2026-04-15T04:43:54.480Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.46.68.226",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
