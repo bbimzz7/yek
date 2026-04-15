@@ -9834,5 +9834,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-409C09-A628CB-B37203": {
+    "expires": "2026-04-16T02:24:07.266Z",
+    "hwid": "7219380319-1e723dcb-e214-4ff3-8c50-f996479a2a6d",
+    "browserHwid": null,
+    "username": "Wasxesqa",
+    "userId": "7219380319",
+    "source": "script",
+    "createdAt": "2026-04-15T02:24:07.715Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.59.24.16",
+      "city": "Arima",
+      "region": "Borough of Arima",
+      "country": "Trinidad and Tobago",
+      "cc": "TT"
+    }
   }
 }
