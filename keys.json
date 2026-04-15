@@ -10475,5 +10475,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D93E0D-60933C-AFD304": {
+    "expires": "2026-04-16T15:09:30.126Z",
+    "hwid": "9745792853-a352f0ad-25cf-45da-be51-b359c6dfbeb4",
+    "browserHwid": null,
+    "username": "ThomasSavage621",
+    "userId": "9745792853",
+    "source": "script",
+    "createdAt": "2026-04-15T15:09:30.679Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "155.117.52.235",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
