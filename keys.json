@@ -9915,8 +9915,15 @@
     "userId": "8418170930",
     "source": "script",
     "createdAt": "2026-04-15T06:27:42.378Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-15T06:28:55.528Z",
     "geo": {
+      "ip": "114.10.82.141",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.82.141",
       "city": "Medan",
       "region": "North Sumatra",
