@@ -10242,5 +10242,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-89F73D-AEB202-9B7F58": {
+    "expires": "2026-04-16T10:53:42.441Z",
+    "hwid": "4276791487-C4B96EBF-FB35-4EAC-A9DE-5A1E5690338B",
+    "browserHwid": null,
+    "username": "Argus01200",
+    "userId": "4276791487",
+    "source": "script",
+    "createdAt": "2026-04-15T10:53:42.721Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.191.36.106",
+      "city": "Cabanatuan City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
