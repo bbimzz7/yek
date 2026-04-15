@@ -10564,5 +10564,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-8D1AA8-07A77D-C65A4F": {
+    "expires": "2026-04-16T18:27:36.924Z",
+    "hwid": "7105393670-a0318dbb-e1c0-4b80-9137-6c8b1d7ee0ba",
+    "browserHwid": null,
+    "username": "ZombloCool",
+    "userId": "7105393670",
+    "source": "script",
+    "createdAt": "2026-04-15T18:27:37.413Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.10.107.46",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
