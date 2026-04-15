@@ -10371,8 +10371,15 @@
     "userId": "53174906",
     "source": "script",
     "createdAt": "2026-04-15T13:27:54.224Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-15T13:28:00.009Z",
     "geo": {
+      "ip": "146.70.246.122",
+      "city": "Bucharest",
+      "region": "București",
+      "country": "Romania",
+      "cc": "RO"
+    },
+    "lastGeo": {
       "ip": "146.70.246.122",
       "city": "Bucharest",
       "region": "București",
