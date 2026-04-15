@@ -10275,8 +10275,15 @@
     "userId": "10722450635",
     "source": "script",
     "createdAt": "2026-04-15T11:47:12.669Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-15T11:47:24.456Z",
     "geo": {
+      "ip": "193.108.119.7",
+      "city": "Frankfurt",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "193.108.119.7",
       "city": "Frankfurt",
       "region": "Hesse",
