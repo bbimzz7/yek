@@ -10597,8 +10597,15 @@
     "userId": "741687879",
     "source": "script",
     "createdAt": "2026-04-15T18:48:25.456Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-15T18:48:39.958Z",
     "geo": {
+      "ip": "110.137.75.157",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "110.137.75.157",
       "city": "Bengkulu",
       "region": "Bengkulu",
