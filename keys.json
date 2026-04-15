@@ -10194,5 +10194,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1C6C2B-8F717D-D2A2DF": {
+    "expires": "2026-04-16T10:46:20.869Z",
+    "hwid": "425048380-5A57F53E-1BC7-46FE-87BC-3DE33789EDE4",
+    "browserHwid": null,
+    "username": "hung365777",
+    "userId": "425048380",
+    "source": "script",
+    "createdAt": "2026-04-15T10:46:21.357Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "123.17.162.10",
+      "city": "Bắc Sơn",
+      "region": "Lạng Sơn Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
