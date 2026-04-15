@@ -10508,8 +10508,15 @@
     "userId": "4120131084",
     "source": "script",
     "createdAt": "2026-04-15T15:18:02.537Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-15T15:18:56.723Z",
     "geo": {
+      "ip": "182.9.34.14",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.9.34.14",
       "city": "Medan",
       "region": "North Sumatra",
