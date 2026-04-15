@@ -9786,5 +9786,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-BB0E2F-F10B01-0DD0F3": {
+    "expires": "2026-04-16T00:45:04.546Z",
+    "hwid": "5359759183-1F0F6BDD-7BEE-454C-88D1-0FA2ED5E2542",
+    "browserHwid": null,
+    "username": "Chgghgghgghhh",
+    "userId": "5359759183",
+    "source": "script",
+    "createdAt": "2026-04-15T00:45:05.034Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "71.239.112.72",
+      "city": "Chicago",
+      "region": "Illinois",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
