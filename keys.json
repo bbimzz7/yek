@@ -10612,5 +10612,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-04B5A8-09C561-62A134": {
+    "expires": "2026-04-16T18:58:15.031Z",
+    "hwid": "7757195596-69e38176-3f64-40b1-94c3-fbda021afb1c",
+    "browserHwid": null,
+    "username": "jejdjfhbdlsj",
+    "userId": "7757195596",
+    "source": "script",
+    "createdAt": "2026-04-15T18:58:15.545Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.217.73.88",
+      "city": "Gustavo Adolfo Madero",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
