@@ -10499,5 +10499,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-E70D89-8336F9-72115F": {
+    "expires": "2026-04-16T15:18:02.041Z",
+    "hwid": "4120131084-8addedc3-aa66-4a31-835c-e8ff931f1f21",
+    "browserHwid": null,
+    "username": "Sannn_thekid",
+    "userId": "4120131084",
+    "source": "script",
+    "createdAt": "2026-04-15T15:18:02.537Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.34.14",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
