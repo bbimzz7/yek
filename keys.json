@@ -9882,5 +9882,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-713721-F4BE4F-CFBBC1": {
+    "expires": "2026-04-16T06:23:59.116Z",
+    "hwid": "10107497973-f209cb72-174e-412a-bf2b-888a14510322",
+    "browserHwid": null,
+    "username": "Kim_shin321",
+    "userId": "10107497973",
+    "source": "script",
+    "createdAt": "2026-04-15T06:23:59.607Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.173.138.239",
+      "city": "Pulaupanggung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
