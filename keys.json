@@ -10436,8 +10436,15 @@
     "userId": "9651397492",
     "source": "script",
     "createdAt": "2026-04-15T14:34:16.464Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-15T14:34:29.875Z",
     "geo": {
+      "ip": "103.188.169.160",
+      "city": "Gunungkalong",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.188.169.160",
       "city": "Gunungkalong",
       "region": "West Java",
