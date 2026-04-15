@@ -10403,5 +10403,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-1106C4-64D276-0CC8B6": {
+    "expires": "2026-04-16T13:49:39.133Z",
+    "hwid": "9612584397-2a40d6f2-0b6f-44fc-9ace-5a40ae474a8a",
+    "browserHwid": null,
+    "username": "sayang1adek",
+    "userId": "9612584397",
+    "source": "script",
+    "createdAt": "2026-04-15T13:49:39.654Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.83.178",
+      "city": "Bukittinggi",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
