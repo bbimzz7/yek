@@ -9530,7 +9530,7 @@
     "userId": "10680590485",
     "source": "script",
     "createdAt": "2026-04-14T15:33:21.330Z",
-    "lastUsed": "2026-04-14T15:52:14.082Z",
+    "lastUsed": "2026-04-15T09:54:53.569Z",
     "geo": {
       "ip": "180.248.37.223",
       "city": "Malang",
@@ -9539,9 +9539,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "180.248.37.223",
-      "city": "Malang",
-      "region": "East Java",
+      "ip": "165.101.42.153",
+      "city": "Utan",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
