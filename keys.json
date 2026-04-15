@@ -9602,7 +9602,7 @@
     "userId": "3687693750",
     "source": "script",
     "createdAt": "2026-04-14T18:43:48.446Z",
-    "lastUsed": "2026-04-15T10:03:45.553Z",
+    "lastUsed": "2026-04-15T11:03:42.034Z",
     "geo": {
       "ip": "46.36.153.15",
       "city": "Oral",
@@ -9611,11 +9611,11 @@
       "cc": "KZ"
     },
     "lastGeo": {
-      "ip": "57.129.130.24",
-      "city": "Bexley",
-      "region": "England",
-      "country": "United Kingdom",
-      "cc": "GB"
+      "ip": "46.36.153.15",
+      "city": "Oral",
+      "region": "West Kazakhstan",
+      "country": "Kazakhstan",
+      "cc": "KZ"
     }
   },
   "VH-E470A4-ED3DA3-60FE55": {
