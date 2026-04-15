@@ -10266,5 +10266,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-0C6969-1B8342-1CE755": {
+    "expires": "2026-04-16T11:47:12.156Z",
+    "hwid": "10722450635-0a2e43db-ce51-4ead-b982-d0a8307b1630",
+    "browserHwid": null,
+    "username": "sahtekar0123",
+    "userId": "10722450635",
+    "source": "script",
+    "createdAt": "2026-04-15T11:47:12.669Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "193.108.119.7",
+      "city": "Frankfurt",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
