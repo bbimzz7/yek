@@ -10684,5 +10684,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F70E07-456350-92BA0C": {
+    "expires": "2026-04-16T22:09:43.914Z",
+    "hwid": "9117307782-425117ef-43b3-43e6-bc96-793191b80619",
+    "browserHwid": null,
+    "username": "YukimaX99",
+    "userId": "9117307782",
+    "source": "script",
+    "createdAt": "2026-04-15T22:09:44.352Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.26.188.3",
+      "city": "Cibinong",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
