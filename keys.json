@@ -10386,5 +10386,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-28445F-092253-8A21F1": {
+    "expires": "2026-04-16T13:29:28.277Z",
+    "hwid": null,
+    "browserHwid": "BR-626AEE83-NZ0VE",
+    "username": "kinfelix1645",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-15T13:29:28.751Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.70.246.122",
+      "city": "Bucharest",
+      "region": "București",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
