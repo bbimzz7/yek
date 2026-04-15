@@ -10290,5 +10290,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-A35AB1-D9A570-47FD07": {
+    "expires": "2026-04-16T12:15:57.225Z",
+    "hwid": "9439740680-476d0414-39e2-45f3-b8cc-79b76a371825",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-04-15T12:15:57.662Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.114.103",
+      "city": "North Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
