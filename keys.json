@@ -10460,8 +10460,15 @@
     "userId": "10816039431",
     "source": "script",
     "createdAt": "2026-04-15T14:40:41.312Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-15T14:40:52.719Z",
     "geo": {
+      "ip": "112.211.208.13",
+      "city": "Alaminos",
+      "region": "Ilocos",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.211.208.13",
       "city": "Alaminos",
       "region": "Ilocos",
