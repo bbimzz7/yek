@@ -9978,5 +9978,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-678CFD-26DF45-001708": {
+    "expires": "2026-04-16T06:49:51.279Z",
+    "hwid": "10218799780-c00d0ece-581d-4f3f-853a-f613381d9c69",
+    "browserHwid": null,
+    "username": "pakupa28",
+    "userId": "10218799780",
+    "source": "script",
+    "createdAt": "2026-04-15T06:49:51.537Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.2.101.18",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
