@@ -10412,8 +10412,15 @@
     "userId": "9612584397",
     "source": "script",
     "createdAt": "2026-04-15T13:49:39.654Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-15T13:51:15.389Z",
     "geo": {
+      "ip": "110.137.83.178",
+      "city": "Bukittinggi",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "110.137.83.178",
       "city": "Bukittinggi",
       "region": "West Sumatra",
