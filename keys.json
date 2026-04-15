@@ -10660,5 +10660,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-78452C-9C2DFB-08A761": {
+    "expires": "2026-04-16T21:30:28.005Z",
+    "hwid": "8478578094-1a00a952-4ef0-4674-a967-b0d6f4430c23",
+    "browserHwid": null,
+    "username": "freeman1h",
+    "userId": "8478578094",
+    "source": "script",
+    "createdAt": "2026-04-15T21:30:28.537Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "118.96.38.67",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
