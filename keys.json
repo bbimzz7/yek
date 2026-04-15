@@ -9930,5 +9930,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2BAB3B-A5EABB-EE9136": {
+    "expires": "2026-04-16T06:40:10.758Z",
+    "hwid": "10733029802-6fb93b28-1245-4033-83f8-ec4bb2daf2a6",
+    "browserHwid": null,
+    "username": "ruslilew",
+    "userId": "10733029802",
+    "source": "script",
+    "createdAt": "2026-04-15T06:40:11.261Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "150.228.145.76",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
