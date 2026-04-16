@@ -11143,8 +11143,15 @@
     "userId": "432803364",
     "source": "script",
     "createdAt": "2026-04-16T10:03:35.031Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T10:03:45.172Z",
     "geo": {
+      "ip": "177.54.193.27",
+      "city": "Ribeirão Preto",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.54.193.27",
       "city": "Ribeirão Preto",
       "region": "São Paulo",
