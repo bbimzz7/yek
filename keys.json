@@ -11021,5 +11021,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-046EB5-D01BD4-FD235E": {
+    "expires": "2026-04-17T07:53:56.166Z",
+    "hwid": "9104250420-bc8ae632-339e-41ca-8b94-b97c925fcab9",
+    "browserHwid": null,
+    "username": "Alisherasasad",
+    "userId": "9104250420",
+    "source": "script",
+    "createdAt": "2026-04-16T07:53:56.661Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.58.251.135",
+      "city": "Astana",
+      "region": "Astana",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
