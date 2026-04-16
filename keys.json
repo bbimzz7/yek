@@ -11490,8 +11490,15 @@
     "userId": "9600053002",
     "source": "script",
     "createdAt": "2026-04-16T18:18:03.660Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T18:18:09.187Z",
     "geo": {
+      "ip": "63.229.212.92",
+      "city": "Maple Grove",
+      "region": "Minnesota",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "63.229.212.92",
       "city": "Maple Grove",
       "region": "Minnesota",
