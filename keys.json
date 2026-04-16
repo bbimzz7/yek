@@ -11353,8 +11353,15 @@
     "userId": "10338599026",
     "source": "script",
     "createdAt": "2026-04-16T14:46:31.975Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T14:46:38.897Z",
     "geo": {
+      "ip": "99.245.78.158",
+      "city": "Mississauga",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    },
+    "lastGeo": {
       "ip": "99.245.78.158",
       "city": "Mississauga",
       "region": "Ontario",
