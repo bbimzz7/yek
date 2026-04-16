@@ -10982,8 +10982,15 @@
     "userId": "8590006687",
     "source": "script",
     "createdAt": "2026-04-16T06:02:49.578Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T06:24:24.782Z",
     "geo": {
+      "ip": "187.187.226.196",
+      "city": "Tlaxcala City",
+      "region": "Tlaxcala",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.187.226.196",
       "city": "Tlaxcala City",
       "region": "Tlaxcala",
