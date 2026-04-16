@@ -11377,8 +11377,15 @@
     "userId": "10021690477",
     "source": "script",
     "createdAt": "2026-04-16T15:06:36.709Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T15:06:44.352Z",
     "geo": {
+      "ip": "51.36.171.41",
+      "city": "Dammam",
+      "region": "Eastern Province",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    },
+    "lastGeo": {
       "ip": "51.36.171.41",
       "city": "Dammam",
       "region": "Eastern Province",
