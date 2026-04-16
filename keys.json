@@ -11418,8 +11418,15 @@
     "userId": "10826719838",
     "source": "script",
     "createdAt": "2026-04-16T16:05:26.105Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T16:05:37.689Z",
     "geo": {
+      "ip": "209.29.97.97",
+      "city": "Toronto",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    },
+    "lastGeo": {
       "ip": "209.29.97.97",
       "city": "Toronto",
       "region": "Ontario",
