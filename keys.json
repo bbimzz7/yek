@@ -10733,5 +10733,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-0EDD69-72BC5C-9B0AC1": {
+    "expires": "2026-04-17T00:02:58.494Z",
+    "hwid": "8766415362-9a1b6a59-a4a6-44ec-8447-f41e923c9129",
+    "browserHwid": null,
+    "username": "rector23582",
+    "userId": "8766415362",
+    "source": "script",
+    "createdAt": "2026-04-16T00:02:58.987Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.190.127.100",
+      "city": "Lahug",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
