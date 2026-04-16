@@ -11368,5 +11368,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-992169-0108BE-319086": {
+    "expires": "2026-04-17T15:06:36.193Z",
+    "hwid": "10021690477-50288675-a068-4200-a392-8334c67ddaf4",
+    "browserHwid": null,
+    "username": "FaisalKm500",
+    "userId": "10021690477",
+    "source": "script",
+    "createdAt": "2026-04-16T15:06:36.709Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "51.36.171.41",
+      "city": "Dammam",
+      "region": "Eastern Province",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
