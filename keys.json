@@ -11538,8 +11538,15 @@
     "userId": "10822975920",
     "source": "script",
     "createdAt": "2026-04-16T19:35:05.922Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T19:37:07.509Z",
     "geo": {
+      "ip": "73.215.235.250",
+      "city": "Flemington",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.215.235.250",
       "city": "Flemington",
       "region": "New Jersey",
