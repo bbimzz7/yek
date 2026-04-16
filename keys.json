@@ -11442,8 +11442,15 @@
     "userId": "10724460259",
     "source": "script",
     "createdAt": "2026-04-16T16:27:14.391Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T16:27:25.291Z",
     "geo": {
+      "ip": "103.189.207.189",
+      "city": "Curup",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.189.207.189",
       "city": "Curup",
       "region": "Bengkulu",
