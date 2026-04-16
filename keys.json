@@ -11625,5 +11625,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8CF533-ED4FC8-DCD277": {
+    "expires": "2026-04-17T21:58:44.371Z",
+    "hwid": "10327498937-704821d6-fba3-4984-a4df-ec4fe0c57b43",
+    "browserHwid": null,
+    "username": "legolaspm996",
+    "userId": "10327498937",
+    "source": "script",
+    "createdAt": "2026-04-16T21:58:44.881Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "141.94.17.116",
+      "city": "Gravelines",
+      "region": "Hauts-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
