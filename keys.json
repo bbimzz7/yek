@@ -10997,5 +10997,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-9E6B57-5F2381-53BA7B": {
+    "expires": "2026-04-17T07:41:57.601Z",
+    "hwid": "10488976796-aeb29b0a-bdf5-420f-b213-2aa982abb104",
+    "browserHwid": null,
+    "username": "whenya_22",
+    "userId": "10488976796",
+    "source": "script",
+    "createdAt": "2026-04-16T07:41:58.069Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.104.192",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
