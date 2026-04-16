@@ -11093,5 +11093,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-B4CBDA-FCEBC6-1E8262": {
+    "expires": "2026-04-17T09:23:25.594Z",
+    "hwid": null,
+    "browserHwid": "BR-3C41A3DE-9UN7H",
+    "username": "ARKAANGANTENG3",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-16T09:23:26.086Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.184.63.14",
+      "city": "Parung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
