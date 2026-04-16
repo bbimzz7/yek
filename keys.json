@@ -10838,8 +10838,15 @@
     "userId": "10684308647",
     "source": "script",
     "createdAt": "2026-04-16T02:02:45.278Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T02:02:55.448Z",
     "geo": {
+      "ip": "73.3.23.209",
+      "city": "Independence",
+      "region": "Missouri",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.3.23.209",
       "city": "Independence",
       "region": "Missouri",
