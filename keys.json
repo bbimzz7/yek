@@ -10299,7 +10299,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-04-15T12:15:57.662Z",
-    "lastUsed": "2026-04-16T10:16:04.509Z",
+    "lastUsed": "2026-04-16T10:35:33.765Z",
     "geo": {
       "ip": "180.252.114.103",
       "city": "North Jakarta",
@@ -10308,8 +10308,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "112.215.65.246",
-      "city": "West Jakarta",
+      "ip": "140.213.0.97",
+      "city": "Central Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
