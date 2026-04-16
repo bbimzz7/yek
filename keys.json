@@ -11529,5 +11529,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-601D7A-208F1A-6469A3": {
+    "expires": "2026-04-17T19:35:05.406Z",
+    "hwid": "10822975920-309f172d-d2b8-470a-b820-72662d49427b",
+    "browserHwid": null,
+    "username": "tgsyshysysyys",
+    "userId": "10822975920",
+    "source": "script",
+    "createdAt": "2026-04-16T19:35:05.922Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.215.235.250",
+      "city": "Flemington",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
