@@ -11158,5 +11158,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-7AA807-2C97FC-D8159F": {
+    "expires": "2026-04-17T10:16:36.149Z",
+    "hwid": null,
+    "browserHwid": "BR-28761442-Y8QO6",
+    "username": "skibidisigma_9182020",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-16T10:16:36.640Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.42.141",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
