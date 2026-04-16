@@ -10805,5 +10805,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-824FEE-8F5181-248F2C": {
+    "expires": "2026-04-17T01:54:07.332Z",
+    "hwid": "3572987019-092c15a8-9b58-41e8-99ba-81c1230d1c18",
+    "browserHwid": null,
+    "username": "Dabest20221",
+    "userId": "3572987019",
+    "source": "script",
+    "createdAt": "2026-04-16T01:54:07.808Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "99.123.159.50",
+      "city": "Cumming",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
