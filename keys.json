@@ -11562,8 +11562,15 @@
     "userId": "10825369552",
     "source": "script",
     "createdAt": "2026-04-16T20:21:03.636Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T20:21:20.500Z",
     "geo": {
+      "ip": "175.158.55.119",
+      "city": "Gamping Lor",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "175.158.55.119",
       "city": "Gamping Lor",
       "region": "Yogyakarta",
