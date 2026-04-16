@@ -11233,8 +11233,15 @@
     "userId": "5391028232",
     "source": "script",
     "createdAt": "2026-04-16T12:25:31.691Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T12:25:50.197Z",
     "geo": {
+      "ip": "95.32.17.66",
+      "city": "Voronezh",
+      "region": "Voronezh Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "95.32.17.66",
       "city": "Voronezh",
       "region": "Voronezh Oblast",
