@@ -10862,8 +10862,15 @@
     "userId": "798433412",
     "source": "script",
     "createdAt": "2026-04-16T02:44:10.580Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T02:44:24.067Z",
     "geo": {
+      "ip": "101.53.219.39",
+      "city": "Auckland",
+      "region": "Auckland",
+      "country": "New Zealand",
+      "cc": "NZ"
+    },
+    "lastGeo": {
       "ip": "101.53.219.39",
       "city": "Auckland",
       "region": "Auckland",
