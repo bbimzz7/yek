@@ -10757,5 +10757,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DF5696-B0EE1D-E8AB05": {
+    "expires": "2026-04-17T00:26:27.431Z",
+    "hwid": "7938663192-ecbd9bd3-8988-4365-8cef-a5d1daa99514",
+    "browserHwid": null,
+    "username": "Tata_afz5",
+    "userId": "7938663192",
+    "source": "script",
+    "createdAt": "2026-04-16T00:26:27.877Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.1.228.145",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
