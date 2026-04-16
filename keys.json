@@ -11134,5 +11134,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-61B406-DFE01C-5CF0D4": {
+    "expires": "2026-04-17T10:03:34.517Z",
+    "hwid": "432803364-32A1D18A-BAF9-459F-A916-8984F20B1201",
+    "browserHwid": null,
+    "username": "claraminegirl70",
+    "userId": "432803364",
+    "source": "script",
+    "createdAt": "2026-04-16T10:03:35.031Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.54.193.27",
+      "city": "Ribeirão Preto",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
