@@ -11183,5 +11183,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4DACAB-40B76E-775B47": {
+    "expires": "2026-04-17T10:21:17.100Z",
+    "hwid": "10680590485-4fd79fa0-3ccc-42c9-8d1b-1eaca396f23f",
+    "browserHwid": null,
+    "username": "x_VkNv",
+    "userId": "10680590485",
+    "source": "script",
+    "createdAt": "2026-04-16T10:21:17.548Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.101.42.153",
+      "city": "Utan",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
