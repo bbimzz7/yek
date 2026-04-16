@@ -11344,5 +11344,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7A9CAD-609EFE-320138": {
+    "expires": "2026-04-17T14:46:31.571Z",
+    "hwid": "10338599026-e85ecc36-fac2-4b6b-89f9-1245b7d43dbd",
+    "browserHwid": null,
+    "username": "marvinamon82",
+    "userId": "10338599026",
+    "source": "script",
+    "createdAt": "2026-04-16T14:46:31.975Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "99.245.78.158",
+      "city": "Mississauga",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
