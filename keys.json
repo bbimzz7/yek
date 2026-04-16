@@ -11481,5 +11481,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9A0258-5482E4-C5331C": {
+    "expires": "2026-04-17T18:18:03.095Z",
+    "hwid": "9600053002-7DCCF58A-0113-449D-8B76-78CADAE8F8F7",
+    "browserHwid": null,
+    "username": "ehfyncgefwnygrgvenhw",
+    "userId": "9600053002",
+    "source": "script",
+    "createdAt": "2026-04-16T18:18:03.660Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "63.229.212.92",
+      "city": "Maple Grove",
+      "region": "Minnesota",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
