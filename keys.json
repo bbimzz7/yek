@@ -11248,5 +11248,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-9248AB-9A2738-22B6C0": {
+    "expires": "2026-04-17T13:28:47.329Z",
+    "hwid": "7406983961-c3217f9a-7e55-4aa6-a73a-15b05a71cc99",
+    "browserHwid": null,
+    "username": "EVOSRASYA330",
+    "userId": "7406983961",
+    "source": "script",
+    "createdAt": "2026-04-16T13:28:47.845Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.3.220.223",
+      "city": "Ciputat",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
