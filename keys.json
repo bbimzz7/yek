@@ -11505,5 +11505,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-F0AB8F-C8686B-429A70": {
+    "expires": "2026-04-17T18:35:33.043Z",
+    "hwid": "6166860318-4AB6C2D3-EFFC-43F3-A8A2-26071E11CB46",
+    "browserHwid": null,
+    "username": "bbggame21",
+    "userId": "6166860318",
+    "source": "script",
+    "createdAt": "2026-04-16T18:35:33.497Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.172.21",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
