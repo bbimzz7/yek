@@ -11577,5 +11577,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4936B8-C15154-43E30A": {
+    "expires": "2026-04-17T20:48:51.348Z",
+    "hwid": "2928285628-85e820d5-a2b9-44de-8c90-7e1790fb1228",
+    "browserHwid": null,
+    "username": "namagwikan",
+    "userId": "2928285628",
+    "source": "script",
+    "createdAt": "2026-04-16T20:48:51.835Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.174.115",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
