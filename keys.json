@@ -11433,5 +11433,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-3BB50E-12A04F-C16FDF": {
+    "expires": "2026-04-17T16:27:13.876Z",
+    "hwid": "10724460259-81b9fbb9-1ccf-4c40-ad64-8af690ababb6",
+    "browserHwid": null,
+    "username": "sapu_6517",
+    "userId": "10724460259",
+    "source": "script",
+    "createdAt": "2026-04-16T16:27:14.391Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.207.189",
+      "city": "Curup",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
