@@ -11030,8 +11030,15 @@
     "userId": "9104250420",
     "source": "script",
     "createdAt": "2026-04-16T07:53:56.661Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T07:54:49.463Z",
     "geo": {
+      "ip": "95.58.251.135",
+      "city": "Astana",
+      "region": "Astana",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "95.58.251.135",
       "city": "Astana",
       "region": "Astana",
