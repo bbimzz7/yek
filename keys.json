@@ -10973,5 +10973,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-325C45-EAB68D-36C0AF": {
+    "expires": "2026-04-17T06:02:49.127Z",
+    "hwid": "8590006687-344cf972-7550-4634-b48a-0fb26f016a40",
+    "browserHwid": null,
+    "username": "Javier45463",
+    "userId": "8590006687",
+    "source": "script",
+    "createdAt": "2026-04-16T06:02:49.578Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.187.226.196",
+      "city": "Tlaxcala City",
+      "region": "Tlaxcala",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
