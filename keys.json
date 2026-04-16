@@ -11161,16 +11161,24 @@
   },
   "VH-7AA807-2C97FC-D8159F": {
     "expires": "2026-04-17T10:16:36.149Z",
-    "hwid": null,
+    "hwid": "10254071409-f474950a-8b2a-4eb2-994e-b6a7ffe78d8d",
     "browserHwid": "BR-28761442-Y8QO6",
     "username": "skibidisigma_9182020",
-    "userId": null,
+    "userId": "10254071409",
     "source": "browser",
     "createdAt": "2026-04-16T10:16:36.640Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T10:17:58.217Z",
     "geo": {
       "ip": "114.10.42.141",
       "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-04-16T10:17:58.203Z",
+    "lastGeo": {
+      "ip": "162.128.165.140",
+      "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
