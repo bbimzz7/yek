@@ -10829,5 +10829,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-19617F-EDFDF2-042AD3": {
+    "expires": "2026-04-17T02:02:44.766Z",
+    "hwid": "10684308647-fd933b1b-f5e4-459a-84b8-9530dcb4385b",
+    "browserHwid": null,
+    "username": "Yisraylcod",
+    "userId": "10684308647",
+    "source": "script",
+    "createdAt": "2026-04-16T02:02:45.278Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.3.23.209",
+      "city": "Independence",
+      "region": "Missouri",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
