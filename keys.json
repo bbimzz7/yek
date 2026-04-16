@@ -10877,5 +10877,22 @@
       "country": "New Zealand",
       "cc": "NZ"
     }
+  },
+  "VH-1C6721-7C03F9-BE43B5": {
+    "expires": "2026-04-17T02:54:13.213Z",
+    "hwid": "10552942442-a55edd7d-8abb-4f56-b158-30921e458a12",
+    "browserHwid": null,
+    "username": "Darwing21030",
+    "userId": "10552942442",
+    "source": "script",
+    "createdAt": "2026-04-16T02:54:13.693Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.189.213.246",
+      "city": "Benito Juarez",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
