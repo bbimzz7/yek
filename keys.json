@@ -10910,8 +10910,15 @@
     "userId": "10151729914",
     "source": "script",
     "createdAt": "2026-04-16T03:50:29.150Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T03:50:35.856Z",
     "geo": {
+      "ip": "186.235.56.241",
+      "city": "Joinville",
+      "region": "Santa Catarina",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "186.235.56.241",
       "city": "Joinville",
       "region": "Santa Catarina",
