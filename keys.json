@@ -11110,5 +11110,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E94BFA-31DEDF-9607C0": {
+    "expires": "2026-04-17T09:51:23.287Z",
+    "hwid": "10589619737-385f8170-437b-43fd-82de-a27c691324be",
+    "browserHwid": null,
+    "username": "taupikkece77",
+    "userId": "10589619737",
+    "source": "script",
+    "createdAt": "2026-04-16T09:51:23.735Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.178.202",
+      "city": "Banyuwangi",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
