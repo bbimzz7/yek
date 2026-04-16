@@ -11224,5 +11224,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-45F0A8-10BDD1-CE623B": {
+    "expires": "2026-04-17T12:25:31.180Z",
+    "hwid": "5391028232-916DC0F9-10C8-43F5-AAA6-0D4DDF54F16A",
+    "browserHwid": null,
+    "username": "anakitkat84",
+    "userId": "5391028232",
+    "source": "script",
+    "createdAt": "2026-04-16T12:25:31.691Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.32.17.66",
+      "city": "Voronezh",
+      "region": "Voronezh Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
