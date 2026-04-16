@@ -10901,5 +10901,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-454873-40F292-1B634B": {
+    "expires": "2026-04-17T03:50:28.658Z",
+    "hwid": "10151729914-A12D7D80-785A-4CAB-8326-8E5A2F2C9C1D",
+    "browserHwid": null,
+    "username": "Nyx123204",
+    "userId": "10151729914",
+    "source": "script",
+    "createdAt": "2026-04-16T03:50:29.150Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.235.56.241",
+      "city": "Joinville",
+      "region": "Santa Catarina",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
