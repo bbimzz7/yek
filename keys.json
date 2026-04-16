@@ -10853,5 +10853,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-D322D3-368AA7-0DA139": {
+    "expires": "2026-04-17T02:44:10.096Z",
+    "hwid": "798433412-16745A87-38AF-4825-A102-94C20210885D",
+    "browserHwid": null,
+    "username": "Aedydogg1122",
+    "userId": "798433412",
+    "source": "script",
+    "createdAt": "2026-04-16T02:44:10.580Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.53.219.39",
+      "city": "Auckland",
+      "region": "Auckland",
+      "country": "New Zealand",
+      "cc": "NZ"
+    }
   }
 }
