@@ -11553,5 +11553,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-F9A688-36505D-BED5CF": {
+    "expires": "2026-04-17T20:21:03.158Z",
+    "hwid": "10825369552-65f3f72a-121d-45d0-87e1-5895198b73ef",
+    "browserHwid": null,
+    "username": "Traviz_182",
+    "userId": "10825369552",
+    "source": "script",
+    "createdAt": "2026-04-16T20:21:03.636Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.158.55.119",
+      "city": "Gamping Lor",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
