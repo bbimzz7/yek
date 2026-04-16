@@ -11392,5 +11392,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-9B81C2-CE3786-56FE3F": {
+    "expires": "2026-04-17T15:15:59.066Z",
+    "hwid": null,
+    "browserHwid": "BR-075B2272-RJE9Z",
+    "username": "Tubers93",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-16T15:15:59.572Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "130.193.216.70",
+      "city": "Erbil",
+      "region": "Erbil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
