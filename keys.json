@@ -10925,5 +10925,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-462070-908552-9FA65E": {
+    "expires": "2026-04-17T04:57:25.012Z",
+    "hwid": "9077667686-87C24600-D71D-434C-A251-CBE10F043155",
+    "browserHwid": null,
+    "username": "arpieehh3",
+    "userId": "9077667686",
+    "source": "script",
+    "createdAt": "2026-04-16T04:57:25.462Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.97.198",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
