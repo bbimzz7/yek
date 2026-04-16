@@ -10766,8 +10766,15 @@
     "userId": "7938663192",
     "source": "script",
     "createdAt": "2026-04-16T00:26:27.877Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T00:26:36.559Z",
     "geo": {
+      "ip": "182.1.228.145",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.1.228.145",
       "city": "Palembang",
       "region": "South Sumatra",
