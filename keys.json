@@ -10742,8 +10742,15 @@
     "userId": "8766415362",
     "source": "script",
     "createdAt": "2026-04-16T00:02:58.987Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-16T00:04:10.482Z",
     "geo": {
+      "ip": "180.190.127.100",
+      "city": "Lahug",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "180.190.127.100",
       "city": "Lahug",
       "region": "Central Visayas",
