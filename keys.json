@@ -11200,5 +11200,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2F370E-F4382E-EAEF2C": {
+    "expires": "2026-04-17T10:45:41.105Z",
+    "hwid": "9980234515-6f12d41e-b305-4b9b-b385-6677ae204e74",
+    "browserHwid": null,
+    "username": "howtoberobloxegors",
+    "userId": "9980234515",
+    "source": "script",
+    "createdAt": "2026-04-16T10:45:41.633Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.164.249",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
