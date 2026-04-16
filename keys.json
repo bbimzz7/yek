@@ -11409,5 +11409,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-E1BCB2-AA0E18-805D35": {
+    "expires": "2026-04-17T16:05:25.553Z",
+    "hwid": "10826719838-ca43ea88-1d72-4d20-9bdb-9cc74f0ef229",
+    "browserHwid": null,
+    "username": "Iejrhyhththtw",
+    "userId": "10826719838",
+    "source": "script",
+    "createdAt": "2026-04-16T16:05:26.105Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "209.29.97.97",
+      "city": "Toronto",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
