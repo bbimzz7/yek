@@ -12370,5 +12370,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E3D08D-D383B9-EBDE9E": {
+    "expires": "2026-04-18T17:27:02.331Z",
+    "hwid": "9581021283-603860ff-207e-4252-9c63-9cf3e4862834",
+    "browserHwid": null,
+    "username": "cccknjt",
+    "userId": "9581021283",
+    "source": "script",
+    "createdAt": "2026-04-17T17:27:02.786Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.248.9.115",
+      "city": "Garut",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
