@@ -11930,8 +11930,15 @@
     "userId": "4426264413",
     "source": "script",
     "createdAt": "2026-04-17T09:38:25.162Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-17T09:42:59.568Z",
     "geo": {
+      "ip": "103.185.43.183",
+      "city": "Pandaan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.185.43.183",
       "city": "Pandaan",
       "region": "East Java",
