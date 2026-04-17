@@ -12403,8 +12403,15 @@
     "userId": "9811151436",
     "source": "script",
     "createdAt": "2026-04-17T17:32:51.737Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-17T17:32:57.481Z",
     "geo": {
+      "ip": "36.85.216.129",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.85.216.129",
       "city": "Manado",
       "region": "North Sulawesi",
