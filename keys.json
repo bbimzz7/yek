@@ -11658,8 +11658,15 @@
     "userId": "10754889535",
     "source": "script",
     "createdAt": "2026-04-17T00:04:10.012Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-17T00:06:20.317Z",
     "geo": {
+      "ip": "49.148.49.67",
+      "city": "Mandaluyong",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "49.148.49.67",
       "city": "Mandaluyong",
       "region": "Metro Manila",
