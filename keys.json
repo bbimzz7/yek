@@ -12507,5 +12507,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-B8F9F3-718D1B-322654": {
+    "expires": "2026-04-18T20:29:17.736Z",
+    "hwid": "9991718035-ad768d9a-dc79-43fe-8e77-e653f9a22913",
+    "browserHwid": null,
+    "username": "GlowyGale",
+    "userId": "9991718035",
+    "source": "script",
+    "createdAt": "2026-04-17T20:29:18.276Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "97.245.184.218",
+      "city": "Denver",
+      "region": "Colorado",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
