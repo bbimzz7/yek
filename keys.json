@@ -11945,5 +11945,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0FAE90-386EA3-12FDF4": {
+    "expires": "2026-04-18T10:38:35.722Z",
+    "hwid": "7305493790-c783fc0a-25ed-4d60-9e97-d0b181589352",
+    "browserHwid": null,
+    "username": "oyen_kai1",
+    "userId": "7305493790",
+    "source": "script",
+    "createdAt": "2026-04-17T10:38:36.208Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "60.50.100.201",
+      "city": "Cyberjaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
