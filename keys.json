@@ -12331,8 +12331,15 @@
     "userId": "9812791234",
     "source": "script",
     "createdAt": "2026-04-17T15:45:25.512Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-17T15:45:35.591Z",
     "geo": {
+      "ip": "152.59.161.253",
+      "city": "Gangtok",
+      "region": "Sikkim",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "152.59.161.253",
       "city": "Gangtok",
       "region": "Sikkim",
