@@ -12346,5 +12346,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-36E56A-265CA2-5B5851": {
+    "expires": "2026-04-18T17:10:59.806Z",
+    "hwid": "8499688882-0f76fcf4-2e0a-476f-a430-db70b6bd0da2",
+    "browserHwid": null,
+    "username": "dadap0936",
+    "userId": "8499688882",
+    "source": "script",
+    "createdAt": "2026-04-17T17:11:00.258Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.153.247.218",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
