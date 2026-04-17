@@ -12170,8 +12170,15 @@
     "userId": "5088673279",
     "source": "script",
     "createdAt": "2026-04-17T13:37:46.281Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-17T13:37:56.662Z",
     "geo": {
+      "ip": "27.125.243.128",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "27.125.243.128",
       "city": "Kota Kinabalu",
       "region": "Sabah",
