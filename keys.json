@@ -12459,5 +12459,22 @@
       "country": "Azerbaijan",
       "cc": "AZ"
     }
+  },
+  "VH-DCA55A-7C95B7-08A64B": {
+    "expires": "2026-04-18T17:49:13.492Z",
+    "hwid": "4641730727-8886fc4e-deb3-4f46-a6fe-8a296f87afc7",
+    "browserHwid": null,
+    "username": "riccogamer14yt",
+    "userId": "4641730727",
+    "source": "script",
+    "createdAt": "2026-04-17T17:49:13.802Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "78.211.158.182",
+      "city": "Milano",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
