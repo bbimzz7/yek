@@ -12026,8 +12026,15 @@
     "userId": "10767275903",
     "source": "script",
     "createdAt": "2026-04-17T12:18:52.157Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-17T12:19:01.021Z",
     "geo": {
+      "ip": "125.164.233.220",
+      "city": "Kediri",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.164.233.220",
       "city": "Kediri",
       "region": "East Java",
