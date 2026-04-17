@@ -12233,5 +12233,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-8653DD-D3E6B1-8E8B04": {
+    "expires": "2026-04-18T14:23:53.418Z",
+    "hwid": "10831886119-a2a24f45-02b7-4031-88c1-afe66783fafb",
+    "browserHwid": null,
+    "username": "xpru21",
+    "userId": "10831886119",
+    "source": "script",
+    "createdAt": "2026-04-17T14:23:53.947Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "210.87.83.159",
+      "city": "Tasikmalaya",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
