@@ -12017,5 +12017,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EB1F3C-BA2A2C-B2FF03": {
+    "expires": "2026-04-18T12:18:51.708Z",
+    "hwid": "10767275903-294387c3-3e3d-4771-8851-3a5c52fa992c",
+    "browserHwid": null,
+    "username": "aswilan89",
+    "userId": "10767275903",
+    "source": "script",
+    "createdAt": "2026-04-17T12:18:52.157Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.164.233.220",
+      "city": "Kediri",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
