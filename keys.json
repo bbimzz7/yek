@@ -11704,5 +11704,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-809D5C-B2CA17-2C5DEA": {
+    "expires": "2026-04-18T02:05:22.901Z",
+    "hwid": "1338968944-DA95034A-74B3-47BF-8176-F3087F1CA500",
+    "browserHwid": null,
+    "username": "facundolucuras",
+    "userId": "1338968944",
+    "source": "script",
+    "createdAt": "2026-04-17T02:05:23.385Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "148.227.121.144",
+      "city": "Buenos Aires",
+      "region": "Buenos Aires F.D.",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
