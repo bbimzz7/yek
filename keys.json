@@ -12555,5 +12555,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-CF7B07-D64314-235F9A": {
+    "expires": "2026-04-18T23:32:32.325Z",
+    "hwid": "10816877214-ad768d9a-dc79-43fe-8e77-e653f9a22913",
+    "browserHwid": null,
+    "username": "GZLito1",
+    "userId": "10816877214",
+    "source": "script",
+    "createdAt": "2026-04-17T23:32:32.767Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "97.245.184.218",
+      "city": "Denver",
+      "region": "Colorado",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
