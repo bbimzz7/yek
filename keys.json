@@ -12065,5 +12065,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0A5FE7-46CC90-284DF5": {
+    "expires": "2026-04-18T12:41:07.677Z",
+    "hwid": "4204009092-017009EF-F706-44AD-9D3A-C4C7E4218058",
+    "browserHwid": null,
+    "username": "kosongduasatuduak1",
+    "userId": "4204009092",
+    "source": "script",
+    "createdAt": "2026-04-17T12:41:08.200Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.33.185",
+      "city": "Sokaraja",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
