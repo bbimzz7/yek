@@ -12603,5 +12603,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-1018F6-85783F-B7E180": {
+    "expires": "2026-04-18T23:38:51.827Z",
+    "hwid": "8025519889-e6b63da0-cad3-4c37-8576-67e46bbc98ef",
+    "browserHwid": null,
+    "username": "azurekitten8",
+    "userId": "8025519889",
+    "source": "script",
+    "createdAt": "2026-04-17T23:38:52.079Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.91.209.238",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
