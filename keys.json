@@ -12444,9 +12444,16 @@
     "userId": "8036986744",
     "source": "script",
     "createdAt": "2026-04-17T17:44:02.354Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-17T17:44:09.095Z",
     "geo": {
       "ip": "212.47.135.183",
+      "city": "Baku",
+      "region": "Baku City",
+      "country": "Azerbaijan",
+      "cc": "AZ"
+    },
+    "lastGeo": {
+      "ip": "212.47.131.115",
       "city": "Baku",
       "region": "Baku City",
       "country": "Azerbaijan",
