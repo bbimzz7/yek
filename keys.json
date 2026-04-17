@@ -11825,5 +11825,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-7672C6-C055A7-C5535D": {
+    "expires": "2026-04-18T07:37:46.769Z",
+    "hwid": "8612437368-e84d638a-ae95-4d10-b0bd-ab8c1995cc13",
+    "browserHwid": null,
+    "username": "mowmhak_mark",
+    "userId": "8612437368",
+    "source": "script",
+    "createdAt": "2026-04-17T07:37:47.230Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.210.117.53",
+      "city": "Krajan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
