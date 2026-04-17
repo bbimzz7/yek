@@ -11728,5 +11728,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-563F12-6A3D84-DC7B27": {
+    "expires": "2026-04-18T03:48:32.410Z",
+    "hwid": "10729644989-bf68ba10-a3e3-411d-8f49-0e6b4faa7146",
+    "browserHwid": null,
+    "username": "naoya123911",
+    "userId": "10729644989",
+    "source": "script",
+    "createdAt": "2026-04-17T03:48:32.848Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.162.214.112",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
