@@ -11882,8 +11882,15 @@
     "userId": "7595178374",
     "source": "script",
     "createdAt": "2026-04-17T08:38:35.570Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-17T08:38:42.808Z",
     "geo": {
+      "ip": "114.10.15.52",
+      "city": "Weru",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.15.52",
       "city": "Weru",
       "region": "West Java",
