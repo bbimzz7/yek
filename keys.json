@@ -12531,5 +12531,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-65ADF2-1BAAA1-34CB80": {
+    "expires": "2026-04-18T22:55:04.825Z",
+    "hwid": "8391753932-4bd48d09-7508-4bf9-9ddd-f095749e4fa2",
+    "browserHwid": null,
+    "username": "D3NAR13",
+    "userId": "8391753932",
+    "source": "script",
+    "createdAt": "2026-04-17T22:55:05.328Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.174.175.11",
+      "city": "Paraiso",
+      "region": "Tabasco",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
