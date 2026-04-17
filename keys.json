@@ -12074,8 +12074,15 @@
     "userId": "4204009092",
     "source": "script",
     "createdAt": "2026-04-17T12:41:08.200Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-17T12:41:16.104Z",
     "geo": {
+      "ip": "36.73.33.185",
+      "city": "Sokaraja",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.73.33.185",
       "city": "Sokaraja",
       "region": "Central Java",
