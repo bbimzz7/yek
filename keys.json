@@ -11649,5 +11649,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-61C9A9-79F1B0-96139B": {
+    "expires": "2026-04-18T00:04:09.539Z",
+    "hwid": "10754889535-fd37b4bd-76be-4672-b676-2bc7e6e5ba26",
+    "browserHwid": null,
+    "username": "Zachdaimond",
+    "userId": "10754889535",
+    "source": "script",
+    "createdAt": "2026-04-17T00:04:10.012Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.148.49.67",
+      "city": "Mandaluyong",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
