@@ -12257,5 +12257,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F47589-FF3F9D-110E18": {
+    "expires": "2026-04-18T14:53:28.416Z",
+    "hwid": "9717829056-a8f7de85-1f1f-4fbd-9993-7a06dce6335f",
+    "browserHwid": null,
+    "username": "ganteng202129",
+    "userId": "9717829056",
+    "source": "script",
+    "createdAt": "2026-04-17T14:53:28.943Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.125.174.238",
+      "city": "Kota Tengah",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
