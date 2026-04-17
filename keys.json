@@ -11921,5 +11921,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A84568-DE3B43-1D0FA4": {
+    "expires": "2026-04-18T09:38:24.655Z",
+    "hwid": "4426264413-81e4115d-b959-49f7-bc3a-5d5d76984db2",
+    "browserHwid": null,
+    "username": "Artifita",
+    "userId": "4426264413",
+    "source": "script",
+    "createdAt": "2026-04-17T09:38:25.162Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.185.43.183",
+      "city": "Pandaan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
