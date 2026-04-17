@@ -12161,5 +12161,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-12BE38-E6CC34-46B394": {
+    "expires": "2026-04-18T13:37:45.743Z",
+    "hwid": "5088673279-581eb4bd-f0b2-4984-ab44-cd48978f223b",
+    "browserHwid": null,
+    "username": "indukengkrawai0",
+    "userId": "5088673279",
+    "source": "script",
+    "createdAt": "2026-04-17T13:37:46.281Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.243.128",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
