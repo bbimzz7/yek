@@ -11858,8 +11858,15 @@
     "userId": "10615953436",
     "source": "script",
     "createdAt": "2026-04-17T07:59:25.038Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-17T08:00:39.804Z",
     "geo": {
+      "ip": "180.74.66.228",
+      "city": "Petaling Jaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "180.74.66.228",
       "city": "Petaling Jaya",
       "region": "Selangor",
