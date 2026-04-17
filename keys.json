@@ -12579,5 +12579,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-D0963F-33C2CC-512E51": {
+    "expires": "2026-04-18T23:36:57.063Z",
+    "hwid": "10830524506-513d6715-53a5-44fd-bda6-5f4db2eeeff2",
+    "browserHwid": null,
+    "username": "Penelopenelop",
+    "userId": "10830524506",
+    "source": "script",
+    "createdAt": "2026-04-17T23:36:57.320Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.46.137.1",
+      "city": "Quilmes",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
