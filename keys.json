@@ -11849,5 +11849,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7C5CD8-7F2AAE-358F88": {
+    "expires": "2026-04-18T07:59:24.508Z",
+    "hwid": "10615953436-6e82fdaa-bee6-4767-99fa-a9cba6157958",
+    "browserHwid": null,
+    "username": "Hello_Kitty986383",
+    "userId": "10615953436",
+    "source": "script",
+    "createdAt": "2026-04-17T07:59:25.038Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.74.66.228",
+      "city": "Petaling Jaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
