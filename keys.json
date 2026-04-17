@@ -12540,8 +12540,15 @@
     "userId": "8391753932",
     "source": "script",
     "createdAt": "2026-04-17T22:55:05.328Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-17T22:57:45.084Z",
     "geo": {
+      "ip": "45.174.175.11",
+      "city": "Paraiso",
+      "region": "Tabasco",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "45.174.175.11",
       "city": "Paraiso",
       "region": "Tabasco",
