@@ -12185,5 +12185,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-576120-6F5E97-FD34A9": {
+    "expires": "2026-04-18T13:58:21.602Z",
+    "hwid": "10832491370-7e831249-c00c-40cb-a084-148d1c307f85",
+    "browserHwid": null,
+    "username": "jakey44409",
+    "userId": "10832491370",
+    "source": "script",
+    "createdAt": "2026-04-17T13:58:22.125Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "86.125.27.73",
+      "city": "Bucharest",
+      "region": "București",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
