@@ -11801,5 +11801,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-9BA219-3C91DC-95E4A3": {
+    "expires": "2026-04-18T06:49:11.939Z",
+    "hwid": "8137192772-b42178e9-2071-47cc-bea3-3c8b4961337b",
+    "browserHwid": null,
+    "username": "anthony697800q",
+    "userId": "8137192772",
+    "source": "script",
+    "createdAt": "2026-04-17T06:49:12.424Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.59.107.114",
+      "city": "Milwaukee",
+      "region": "Wisconsin",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
