@@ -12516,8 +12516,15 @@
     "userId": "9991718035",
     "source": "script",
     "createdAt": "2026-04-17T20:29:18.276Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-17T20:29:28.643Z",
     "geo": {
+      "ip": "97.245.184.218",
+      "city": "Denver",
+      "region": "Colorado",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "97.245.184.218",
       "city": "Denver",
       "region": "Colorado",
