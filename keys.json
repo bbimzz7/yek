@@ -11713,8 +11713,15 @@
     "userId": "1338968944",
     "source": "script",
     "createdAt": "2026-04-17T02:05:23.385Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-17T02:05:31.548Z",
     "geo": {
+      "ip": "148.227.121.144",
+      "city": "Buenos Aires",
+      "region": "Buenos Aires F.D.",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "148.227.121.144",
       "city": "Buenos Aires",
       "region": "Buenos Aires F.D.",
