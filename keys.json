@@ -12137,5 +12137,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CC7721-4FA791-443BEF": {
+    "expires": "2026-04-18T13:30:28.168Z",
+    "hwid": "7358946515-9f4c74cb-6a6a-4821-bb11-42fa23e1f864",
+    "browserHwid": null,
+    "username": "2973roblox49",
+    "userId": "7358946515",
+    "source": "script",
+    "createdAt": "2026-04-17T13:30:28.732Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.161.183.246",
+      "city": "Jember",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
