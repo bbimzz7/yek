@@ -12435,5 +12435,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-302728-349EAF-25C086": {
+    "expires": "2026-04-18T17:44:02.063Z",
+    "hwid": "8036986744-0c1c7228-dc33-43e0-b811-7a46df55013c",
+    "browserHwid": null,
+    "username": "Ziya_49977",
+    "userId": "8036986744",
+    "source": "script",
+    "createdAt": "2026-04-17T17:44:02.354Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.47.135.183",
+      "city": "Baku",
+      "region": "Baku City",
+      "country": "Azerbaijan",
+      "cc": "AZ"
+    }
   }
 }
