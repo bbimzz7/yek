@@ -12113,5 +12113,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-296C08-FD15EC-728A1C": {
+    "expires": "2026-04-18T13:16:38.692Z",
+    "hwid": "10774724394-F2442AFE-632D-4A95-99F7-3FC49E5B89A9",
+    "browserHwid": null,
+    "username": "domiluvv",
+    "userId": "10774724394",
+    "source": "script",
+    "createdAt": "2026-04-17T13:16:39.376Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.97.165",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
