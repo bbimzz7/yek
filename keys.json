@@ -11810,8 +11810,15 @@
     "userId": "8137192772",
     "source": "script",
     "createdAt": "2026-04-17T06:49:12.424Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-17T06:51:15.919Z",
     "geo": {
+      "ip": "172.59.107.114",
+      "city": "Milwaukee",
+      "region": "Wisconsin",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.59.107.114",
       "city": "Milwaukee",
       "region": "Wisconsin",
