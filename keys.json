@@ -11777,5 +11777,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-250155-A0F801-4ED48E": {
+    "expires": "2026-04-18T06:10:21.082Z",
+    "hwid": "5442360729-36db9f80-5b44-4b82-8203-8de0924905b5",
+    "browserHwid": null,
+    "username": "Zpoxzzz",
+    "userId": "5442360729",
+    "source": "script",
+    "createdAt": "2026-04-17T06:10:21.564Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "159.26.106.30",
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
