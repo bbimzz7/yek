@@ -12322,5 +12322,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4304F1-D0A77A-DE495B": {
+    "expires": "2026-04-18T15:45:25.022Z",
+    "hwid": "9812791234-ae1900bf-0168-43c1-8538-a44a4fcc5bf0",
+    "browserHwid": null,
+    "username": "Noob204861M00",
+    "userId": "9812791234",
+    "source": "script",
+    "createdAt": "2026-04-17T15:45:25.512Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "152.59.161.253",
+      "city": "Gangtok",
+      "region": "Sikkim",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
