@@ -11873,5 +11873,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-0AECA0-2C0620-46EE37": {
+    "expires": "2026-04-18T08:38:35.090Z",
+    "hwid": "7595178374-C4B9D061-B38C-481C-B7D5-B680127CD65E",
+    "browserHwid": null,
+    "username": "LemonSyry",
+    "userId": "7595178374",
+    "source": "script",
+    "createdAt": "2026-04-17T08:38:35.570Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.15.52",
+      "city": "Weru",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
