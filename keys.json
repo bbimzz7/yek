@@ -12483,5 +12483,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-02578F-D1F8F9-9116EA": {
+    "expires": "2026-04-18T18:22:14.017Z",
+    "hwid": "9312201421-d0c35454-96d5-428e-a7a2-c87e4a15fc75",
+    "browserHwid": null,
+    "username": "RIP_ddb6",
+    "userId": "9312201421",
+    "source": "script",
+    "createdAt": "2026-04-17T18:22:14.525Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.217.86.92",
+      "city": "Baguio City",
+      "region": "Cordillera",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
