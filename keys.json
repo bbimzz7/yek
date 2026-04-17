@@ -11969,5 +11969,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-3A1E48-46105C-DF062D": {
+    "expires": "2026-04-18T10:40:47.479Z",
+    "hwid": "3175516109-a0ce2697-0754-4418-acf1-015c6d0d2a52",
+    "browserHwid": null,
+    "username": "Kardeecarzy",
+    "userId": "3175516109",
+    "source": "script",
+    "createdAt": "2026-04-17T10:40:47.985Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.85.198.24",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
