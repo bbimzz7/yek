@@ -13679,5 +13679,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-100F19-F5380F-0D12E6": {
+    "expires": "2026-04-19T14:21:29.621Z",
+    "hwid": "8536487117-53895063-e7ae-4a16-a3b3-f0cd9a920b15",
+    "browserHwid": null,
+    "username": "Afz_Reinasya",
+    "userId": "8536487117",
+    "source": "script",
+    "createdAt": "2026-04-18T14:21:30.112Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.20.76",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
