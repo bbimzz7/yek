@@ -13296,19 +13296,27 @@
   },
   "VH-D75DEC-1FFA4D-3845AB": {
     "expires": "2026-04-19T08:41:50.605Z",
-    "hwid": null,
+    "hwid": "9312986086-a10b84ff-5c9c-4405-aaa2-08b5285bca35",
     "browserHwid": "BR-22945E01-3DA6U",
     "username": "Ririn22851",
-    "userId": null,
+    "userId": "9312986086",
     "source": "browser",
     "createdAt": "2026-04-18T08:41:51.086Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T08:43:26.707Z",
     "geo": {
       "ip": "103.142.255.58",
       "city": "Jombang",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "boundAt": "2026-04-18T08:43:26.691Z",
+    "lastGeo": {
+      "ip": "89.21.87.98",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
