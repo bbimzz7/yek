@@ -13221,5 +13221,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A0FFD9-3BAD4C-43A4BC": {
+    "expires": "2026-04-19T07:32:09.235Z",
+    "hwid": "10685522408-a774d791-3e21-4cda-83e6-c1d25f320ee0",
+    "browserHwid": null,
+    "username": "alzainon9",
+    "userId": "10685522408",
+    "source": "script",
+    "createdAt": "2026-04-18T07:32:09.762Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.236.59.47",
+      "city": "Kuwait City",
+      "region": "Al Asimah",
+      "country": "Kuwait",
+      "cc": "KW"
+    }
   }
 }
