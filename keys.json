@@ -12915,5 +12915,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-9C460D-4E2301-2AD5F4": {
+    "expires": "2026-04-19T04:11:22.285Z",
+    "hwid": "5541058818-AFC49036-DE89-450D-AFEC-824A90DCCBC2",
+    "browserHwid": null,
+    "username": "Butterflyxo_123",
+    "userId": "5541058818",
+    "source": "script",
+    "createdAt": "2026-04-18T04:11:22.787Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.159.159.161",
+      "city": "Perth",
+      "region": "Western Australia",
+      "country": "Australia",
+      "cc": "AU"
+    }
   }
 }
