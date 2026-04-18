@@ -13028,5 +13028,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-6F79E3-0C9BDD-D2D441": {
+    "expires": "2026-04-19T05:08:29.524Z",
+    "hwid": "10483641468-e53f70be-9a28-4950-907c-6655575e2ea8",
+    "browserHwid": null,
+    "username": "BLOX_FRUITONLYM1",
+    "userId": "10483641468",
+    "source": "script",
+    "createdAt": "2026-04-18T05:08:30.002Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.68.55.200",
+      "city": "Pekalongan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
