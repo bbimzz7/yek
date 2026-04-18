@@ -13327,8 +13327,15 @@
     "userId": "10835929406",
     "source": "script",
     "createdAt": "2026-04-18T09:11:54.897Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T09:12:04.124Z",
     "geo": {
+      "ip": "163.223.78.187",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "163.223.78.187",
       "city": "Jombang",
       "region": "East Java",
