@@ -12732,7 +12732,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-04-18T02:15:32.333Z",
-    "lastUsed": "2026-04-18T19:59:30.694Z",
+    "lastUsed": "2026-04-18T21:35:49.762Z",
     "geo": {
       "ip": "180.247.57.75",
       "city": "Bekasi",
@@ -12741,7 +12741,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.13.137",
+      "ip": "140.213.7.179",
       "city": "Central Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
