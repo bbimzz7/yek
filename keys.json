@@ -13486,5 +13486,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-437E48-8DB068-0EBB4D": {
+    "expires": "2026-04-19T11:48:11.008Z",
+    "hwid": "10821721856-ef9da6e6-6229-4c34-b5de-978a33f13913",
+    "browserHwid": null,
+    "username": "yujiopl12_90",
+    "userId": "10821721856",
+    "source": "script",
+    "createdAt": "2026-04-18T11:48:11.508Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.247.13.76",
+      "city": "Mertoyudan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
