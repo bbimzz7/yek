@@ -12660,8 +12660,15 @@
     "userId": "9887805638",
     "source": "script",
     "createdAt": "2026-04-18T00:28:29.500Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T00:28:44.792Z",
     "geo": {
+      "ip": "149.30.138.245",
+      "city": "Calamba",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "149.30.138.245",
       "city": "Calamba",
       "region": "Calabarzon",
