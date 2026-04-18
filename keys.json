@@ -13776,5 +13776,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-7CEB93-F4D57D-9E3143": {
+    "expires": "2026-04-19T15:50:03.719Z",
+    "hwid": "8142818149-c81dae67-683e-47fd-a58f-aa819d5c032a",
+    "browserHwid": null,
+    "username": "AMORE_ROIK",
+    "userId": "8142818149",
+    "source": "script",
+    "createdAt": "2026-04-18T15:50:04.223Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.136.56.202",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
