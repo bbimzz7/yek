@@ -13703,5 +13703,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-21DAD9-F26011-E74AA7": {
+    "expires": "2026-04-19T14:44:24.551Z",
+    "hwid": "8054824357-F7DDEECF-C44B-41E7-BBEB-8EE5031B4719",
+    "browserHwid": null,
+    "username": "danilkspopa",
+    "userId": "8054824357",
+    "source": "script",
+    "createdAt": "2026-04-18T14:44:25.054Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.222.192.2",
+      "city": "St Petersburg",
+      "region": "St.-Petersburg",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
