@@ -13800,5 +13800,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FB458B-05DA5E-4ED8BA": {
+    "expires": "2026-04-19T15:53:42.547Z",
+    "hwid": "5466162351-DA95034A-74B3-47BF-8176-F3087F1CA500",
+    "browserHwid": null,
+    "username": "facuxzc1234",
+    "userId": "5466162351",
+    "source": "script",
+    "createdAt": "2026-04-18T15:53:43.034Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "153.67.15.217",
+      "city": "Buenos Aires",
+      "region": "Buenos Aires F.D.",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
