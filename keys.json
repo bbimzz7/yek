@@ -13100,5 +13100,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F34FE1-12D9A1-4F2ED5": {
+    "expires": "2026-04-19T05:37:58.174Z",
+    "hwid": null,
+    "browserHwid": "BR-0FB89184-6EBUC",
+    "username": "Finzyy_kecee",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-18T05:37:58.630Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.25.197.122",
+      "city": "Blora",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
