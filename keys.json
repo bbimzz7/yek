@@ -13245,5 +13245,22 @@
       "country": "Kuwait",
       "cc": "KW"
     }
+  },
+  "VH-9658AC-BB70F5-52B28C": {
+    "expires": "2026-04-19T07:54:53.873Z",
+    "hwid": "8805697047-96fbb0af-5c39-428c-9f55-4393dd52f820",
+    "browserHwid": null,
+    "username": "SonyaWells263",
+    "userId": "8805697047",
+    "source": "script",
+    "createdAt": "2026-04-18T07:54:54.324Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.99.225.81",
+      "city": "Jember",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
