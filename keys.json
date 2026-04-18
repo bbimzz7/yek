@@ -12675,5 +12675,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-1179DC-EF9374-21AB2F": {
+    "expires": "2026-04-19T01:47:31.091Z",
+    "hwid": "9150541347-c9a3c0a9-d5e1-4761-b683-1a2d115b82ca",
+    "browserHwid": null,
+    "username": "222_tes",
+    "userId": "9150541347",
+    "source": "script",
+    "createdAt": "2026-04-18T01:47:31.580Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.83.128.97",
+      "city": "Kuningan Barat",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
