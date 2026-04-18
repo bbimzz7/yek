@@ -12795,5 +12795,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-94EFCB-C7563D-32ABD4": {
+    "expires": "2026-04-19T02:52:21.138Z",
+    "hwid": "4136930710-5BD83335-7C30-4A7E-9900-E9BEB5477FF2",
+    "browserHwid": null,
+    "username": "ana49kill",
+    "userId": "4136930710",
+    "source": "script",
+    "createdAt": "2026-04-18T02:52:21.589Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.238.40.217",
+      "city": "Embu das Artes",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
