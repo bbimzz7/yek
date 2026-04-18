@@ -13534,5 +13534,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-4BE726-0EE17E-050DAC": {
+    "expires": "2026-04-19T12:35:00.087Z",
+    "hwid": null,
+    "browserHwid": "BR-24BD276A-GUVK0",
+    "username": "abdul09250",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-18T12:35:00.567Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.74.173",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
