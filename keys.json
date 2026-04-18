@@ -13607,5 +13607,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7DA780-7AECED-377DF6": {
+    "expires": "2026-04-19T13:12:48.118Z",
+    "hwid": "9151745004-07a5aab8-68e3-4e6f-bf7a-fac462c1e028",
+    "browserHwid": null,
+    "username": "RelllEchizen",
+    "userId": "9151745004",
+    "source": "script",
+    "createdAt": "2026-04-18T13:12:48.603Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.52.234",
+      "city": "Probolinggo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
