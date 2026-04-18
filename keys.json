@@ -13583,5 +13583,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-020E0F-20D1E3-F9C037": {
+    "expires": "2026-04-19T13:09:12.852Z",
+    "hwid": "3051454417-4a12e441-f4cc-40b1-a7db-1ba7789d7e7a",
+    "browserHwid": null,
+    "username": "BearJamBruh",
+    "userId": "3051454417",
+    "source": "script",
+    "createdAt": "2026-04-18T13:09:13.333Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.37.30",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
