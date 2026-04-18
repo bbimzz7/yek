@@ -13848,5 +13848,22 @@
       "country": "Nepal",
       "cc": "NP"
     }
+  },
+  "VH-532C12-ABE78C-2C8448": {
+    "expires": "2026-04-19T16:52:17.663Z",
+    "hwid": "8711284710-21AF8609-F398-4DC0-AB40-3EE6AAEE4CAB",
+    "browserHwid": null,
+    "username": "teenagerbedroom",
+    "userId": "8711284710",
+    "source": "script",
+    "createdAt": "2026-04-18T16:52:18.143Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.251.182.167",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
