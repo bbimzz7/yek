@@ -13103,15 +13103,23 @@
   },
   "VH-F34FE1-12D9A1-4F2ED5": {
     "expires": "2026-04-19T05:37:58.174Z",
-    "hwid": null,
+    "hwid": "10784847014-3daaf744-9ae8-40b6-b1b9-30635dba8452",
     "browserHwid": "BR-0FB89184-6EBUC",
     "username": "Finzyy_kecee",
-    "userId": null,
+    "userId": "10784847014",
     "source": "browser",
     "createdAt": "2026-04-18T05:37:58.630Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T05:38:13.269Z",
     "geo": {
       "ip": "160.25.197.122",
+      "city": "Blora",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-04-18T05:38:13.250Z",
+    "lastGeo": {
+      "ip": "160.25.197.123",
       "city": "Blora",
       "region": "Central Java",
       "country": "Indonesia",
