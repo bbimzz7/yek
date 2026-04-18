@@ -14040,5 +14040,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-BB1104-DD32B6-7AFBFD": {
+    "expires": "2026-04-19T21:21:03.904Z",
+    "hwid": "10209597584-3d12c6e0-a9e3-4c1b-b6cb-91f697c57ea3",
+    "browserHwid": null,
+    "username": "Vampooxd",
+    "userId": "10209597584",
+    "source": "script",
+    "createdAt": "2026-04-18T21:21:04.398Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.59.106.72",
+      "city": "Milwaukee",
+      "region": "Wisconsin",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
