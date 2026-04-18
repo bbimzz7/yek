@@ -12771,5 +12771,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6FFAA3-98533C-3646A7": {
+    "expires": "2026-04-19T02:46:50.322Z",
+    "hwid": "10834644379-6045929f-cc42-45c6-85a7-db49a273eb71",
+    "browserHwid": null,
+    "username": "yakinmenangdek",
+    "userId": "10834644379",
+    "source": "script",
+    "createdAt": "2026-04-18T02:46:50.808Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.99.21.22",
+      "city": "Bojonegoro",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
