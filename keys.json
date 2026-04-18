@@ -13992,5 +13992,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-892209-A41DC2-1A2342": {
+    "expires": "2026-04-19T20:53:34.550Z",
+    "hwid": "9011193013-9107ba8d-a6b4-4053-9cc6-7a71971136d8",
+    "browserHwid": null,
+    "username": "dioanndap",
+    "userId": "9011193013",
+    "source": "script",
+    "createdAt": "2026-04-18T20:53:35.028Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.56.144",
+      "city": "Pacitan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
