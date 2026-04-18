@@ -13929,8 +13929,15 @@
     "userId": "8580640479",
     "source": "script",
     "createdAt": "2026-04-18T16:59:34.282Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T17:01:39.804Z",
     "geo": {
+      "ip": "122.2.78.146",
+      "city": "Marikina City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "122.2.78.146",
       "city": "Marikina City",
       "region": "Metro Manila",
