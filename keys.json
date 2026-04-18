@@ -13616,10 +13616,17 @@
     "userId": "9151745004",
     "source": "script",
     "createdAt": "2026-04-18T13:12:48.603Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T13:12:58.717Z",
     "geo": {
       "ip": "140.213.52.234",
       "city": "Probolinggo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "140.213.191.103",
+      "city": "Caruban",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
