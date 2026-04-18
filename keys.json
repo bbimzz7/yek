@@ -13004,5 +13004,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F37156-02123D-D5233B": {
+    "expires": "2026-04-19T04:59:25.876Z",
+    "hwid": "10793490285-26074d9b-5e46-44f9-b9a5-2d25a804de84",
+    "browserHwid": null,
+    "username": "IMDAGOATED8",
+    "userId": "10793490285",
+    "source": "script",
+    "createdAt": "2026-04-18T04:59:26.378Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "166.199.148.75",
+      "city": "Atlanta",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
