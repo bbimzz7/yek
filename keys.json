@@ -13736,8 +13736,15 @@
     "userId": "10410156510",
     "source": "script",
     "createdAt": "2026-04-18T14:58:50.274Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T14:59:20.793Z",
     "geo": {
+      "ip": "74.128.134.206",
+      "city": "Barberton",
+      "region": "Ohio",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "74.128.134.206",
       "city": "Barberton",
       "region": "Ohio",
