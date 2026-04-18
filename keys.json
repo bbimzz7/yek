@@ -13076,5 +13076,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-1D6FDF-56FE1F-13FEA5": {
+    "expires": "2026-04-19T05:26:46.396Z",
+    "hwid": "8138844915-16537ca1-b8c6-4352-b363-98f446811e02",
+    "browserHwid": null,
+    "username": "Better_cookies1",
+    "userId": "8138844915",
+    "source": "script",
+    "createdAt": "2026-04-18T05:26:46.814Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.158.184.178",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
