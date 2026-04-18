@@ -13495,8 +13495,15 @@
     "userId": "10821721856",
     "source": "script",
     "createdAt": "2026-04-18T11:48:11.508Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T11:49:03.108Z",
     "geo": {
+      "ip": "103.247.13.76",
+      "city": "Mertoyudan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.247.13.76",
       "city": "Mertoyudan",
       "region": "Central Java",
