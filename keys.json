@@ -13824,5 +13824,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-9161DC-171617-B1A1CF": {
+    "expires": "2026-04-19T16:02:58.191Z",
+    "hwid": "3938937906-5b2af92f-d674-4f0f-9de9-7253835ffa26",
+    "browserHwid": null,
+    "username": "tikaDahal1234",
+    "userId": "3938937906",
+    "source": "script",
+    "createdAt": "2026-04-18T16:02:58.679Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.50.66.138",
+      "city": "Bhadrapur",
+      "region": "Koshi",
+      "country": "Nepal",
+      "cc": "NP"
+    }
   }
 }
