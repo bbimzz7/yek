@@ -12963,5 +12963,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B343AC-194313-CC771E": {
+    "expires": "2026-04-19T04:25:43.935Z",
+    "hwid": null,
+    "browserHwid": "BR-24D9367F-CRUEF",
+    "username": "Guacamol_25",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-18T04:25:44.391Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.203.205.100",
+      "city": "Cumbres III",
+      "region": "Aguascalientes",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
