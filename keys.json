@@ -13366,5 +13366,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9E61A0-2D01FF-8BE813": {
+    "expires": "2026-04-19T10:45:41.913Z",
+    "hwid": "10812160492-766e7b4c-d303-45ec-a12a-b036436b4ad9",
+    "browserHwid": null,
+    "username": "JujutsuKaisen0891",
+    "userId": "10812160492",
+    "source": "script",
+    "createdAt": "2026-04-18T10:45:42.415Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.211.57",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
