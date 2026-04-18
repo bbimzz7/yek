@@ -12684,8 +12684,15 @@
     "userId": "9150541347",
     "source": "script",
     "createdAt": "2026-04-18T01:47:31.580Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T01:48:47.582Z",
     "geo": {
+      "ip": "36.83.128.97",
+      "city": "Kuningan Barat",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.83.128.97",
       "city": "Kuningan Barat",
       "region": "Jakarta",
