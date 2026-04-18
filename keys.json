@@ -13712,8 +13712,15 @@
     "userId": "8054824357",
     "source": "script",
     "createdAt": "2026-04-18T14:44:25.054Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T14:44:35.482Z",
     "geo": {
+      "ip": "176.222.192.2",
+      "city": "St Petersburg",
+      "region": "St.-Petersburg",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "176.222.192.2",
       "city": "St Petersburg",
       "region": "St.-Petersburg",
