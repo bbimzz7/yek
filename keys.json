@@ -12218,7 +12218,7 @@
     "userId": "3687693750",
     "source": "script",
     "createdAt": "2026-04-17T14:12:35.046Z",
-    "lastUsed": "2026-04-18T11:28:18.633Z",
+    "lastUsed": "2026-04-18T13:47:28.334Z",
     "geo": {
       "ip": "46.36.153.15",
       "city": "Oral",
@@ -12227,11 +12227,11 @@
       "cc": "KZ"
     },
     "lastGeo": {
-      "ip": "46.36.153.15",
-      "city": "Oral",
-      "region": "West Kazakhstan",
-      "country": "Kazakhstan",
-      "cc": "KZ"
+      "ip": "159.65.200.159",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
     }
   },
   "VH-8653DD-D3E6B1-8E8B04": {
