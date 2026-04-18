@@ -12651,5 +12651,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-EE55A1-F1E32D-1747C3": {
+    "expires": "2026-04-19T00:28:29.230Z",
+    "hwid": "9887805638-3b1caba0-c117-4444-aa4e-3a1c8e70b76f",
+    "browserHwid": null,
+    "username": "dioysa_Diana",
+    "userId": "9887805638",
+    "source": "script",
+    "createdAt": "2026-04-18T00:28:29.500Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "149.30.138.245",
+      "city": "Calamba",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
