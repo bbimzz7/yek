@@ -13173,5 +13173,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-556BD1-BF178B-4CB355": {
+    "expires": "2026-04-19T06:56:46.748Z",
+    "hwid": "10660419650-eb219dd3-26f8-46ff-bf1b-23bdb2c4f208",
+    "browserHwid": null,
+    "username": "vorzieen",
+    "userId": "10660419650",
+    "source": "script",
+    "createdAt": "2026-04-18T06:56:47.183Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.156.114.120",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
