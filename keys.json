@@ -13462,5 +13462,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-53B307-488D8B-522609": {
+    "expires": "2026-04-19T11:25:35.098Z",
+    "hwid": "10465878951-b55ba27f-8536-4640-909b-20f051e1ff26",
+    "browserHwid": null,
+    "username": "cekerbabat464",
+    "userId": "10465878951",
+    "source": "script",
+    "createdAt": "2026-04-18T11:25:35.412Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.66.37.24",
+      "city": "Sidorejo",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
