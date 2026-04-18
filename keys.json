@@ -13318,5 +13318,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-A5EA8C-A5E66F-0DF3A3": {
+    "expires": "2026-04-19T09:11:54.435Z",
+    "hwid": "10835929406-8fdfac69-7439-47b9-a528-d8ff2cd599a5",
+    "browserHwid": null,
+    "username": "Feross990",
+    "userId": "10835929406",
+    "source": "script",
+    "createdAt": "2026-04-18T09:11:54.897Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "163.223.78.187",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
