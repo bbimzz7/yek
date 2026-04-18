@@ -14160,5 +14160,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AFB4E3-23B976-A92AC2": {
+    "expires": "2026-04-19T23:00:12.483Z",
+    "hwid": "6179488854-fe7a363c-67b3-4908-9487-83f82fab5329",
+    "browserHwid": null,
+    "username": "ichikawa249",
+    "userId": "6179488854",
+    "source": "script",
+    "createdAt": "2026-04-18T23:00:12.839Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.47.62",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
