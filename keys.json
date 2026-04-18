@@ -12627,5 +12627,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-F2721A-786103-1A2EEA": {
+    "expires": "2026-04-19T00:22:44.902Z",
+    "hwid": "8186962237-b714aa83-03bf-4553-9838-33f6545c5467",
+    "browserHwid": null,
+    "username": "Xxsaul72",
+    "userId": "8186962237",
+    "source": "script",
+    "createdAt": "2026-04-18T00:22:45.418Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.236.143.16",
+      "city": "Guayaquil",
+      "region": "Guayas",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
