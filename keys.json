@@ -12708,8 +12708,15 @@
     "userId": "10533959984",
     "source": "script",
     "createdAt": "2026-04-18T01:58:27.962Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T01:58:35.217Z",
     "geo": {
+      "ip": "112.198.160.249",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.198.160.249",
       "city": "Cagayan de Oro",
       "region": "Northern Mindanao",
