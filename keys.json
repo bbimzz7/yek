@@ -14016,5 +14016,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F35165-816CDB-004EFF": {
+    "expires": "2026-04-19T21:12:30.435Z",
+    "hwid": "7219249468-c94ccd7c-cc52-4efd-8565-f8cca1d5009e",
+    "browserHwid": null,
+    "username": "Isabelly_18906",
+    "userId": "7219249468",
+    "source": "script",
+    "createdAt": "2026-04-18T21:12:30.962Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.214.114.150",
+      "city": "Valparaíso de Goiás",
+      "region": "Goiás",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
