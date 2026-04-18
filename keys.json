@@ -13953,8 +13953,15 @@
     "userId": "10745764367",
     "source": "script",
     "createdAt": "2026-04-18T19:15:16.186Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T19:15:29.418Z",
     "geo": {
+      "ip": "160.20.38.118",
+      "city": "Indramayu",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "160.20.38.118",
       "city": "Indramayu",
       "region": "West Java",
