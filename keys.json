@@ -13293,5 +13293,22 @@
       "country": "Australia",
       "cc": "AU"
     }
+  },
+  "VH-D75DEC-1FFA4D-3845AB": {
+    "expires": "2026-04-19T08:41:50.605Z",
+    "hwid": null,
+    "browserHwid": "BR-22945E01-3DA6U",
+    "username": "Ririn22851",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-18T08:41:51.086Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.142.255.58",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
