@@ -13968,5 +13968,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-341202-BEC09E-1734DC": {
+    "expires": "2026-04-19T19:52:45.758Z",
+    "hwid": "1842402137-cae4be5c-f924-40ac-a3b8-9bad382d3f9b",
+    "browserHwid": null,
+    "username": "wjwjwjekk",
+    "userId": "1842402137",
+    "source": "script",
+    "createdAt": "2026-04-18T19:52:46.196Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.56.139.78",
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
