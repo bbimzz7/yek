@@ -12900,8 +12900,15 @@
     "userId": "1338968944",
     "source": "script",
     "createdAt": "2026-04-18T03:56:27.292Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T03:56:36.776Z",
     "geo": {
+      "ip": "153.67.15.217",
+      "city": "Buenos Aires",
+      "region": "Buenos Aires F.D.",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "153.67.15.217",
       "city": "Buenos Aires",
       "region": "Buenos Aires F.D.",
