@@ -13510,5 +13510,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8A7C11-F6973E-4AF1E6": {
+    "expires": "2026-04-19T12:09:59.851Z",
+    "hwid": "3662223125-4a196f98-d4c9-461a-94ed-c45ac80d9c0e",
+    "browserHwid": null,
+    "username": "Jordynjdog560",
+    "userId": "3662223125",
+    "source": "script",
+    "createdAt": "2026-04-18T12:10:00.339Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.58.180.72",
+      "city": "Dallas",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
