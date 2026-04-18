@@ -12980,5 +12980,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-62F6DE-D49021-E2E1E5": {
+    "expires": "2026-04-19T04:57:55.273Z",
+    "hwid": "8507095545-9d892494-249f-4469-9154-8c5d2d972980",
+    "browserHwid": null,
+    "username": "bocil_coco35",
+    "userId": "8507095545",
+    "source": "script",
+    "createdAt": "2026-04-18T04:57:55.739Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.114.102",
+      "city": "Tigaraksa",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
