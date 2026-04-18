@@ -14049,8 +14049,15 @@
     "userId": "10209597584",
     "source": "script",
     "createdAt": "2026-04-18T21:21:04.398Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T21:21:19.781Z",
     "geo": {
+      "ip": "172.59.106.72",
+      "city": "Milwaukee",
+      "region": "Wisconsin",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.59.106.72",
       "city": "Milwaukee",
       "region": "Wisconsin",
