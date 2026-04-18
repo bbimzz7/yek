@@ -12819,5 +12819,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-08B308-DD2FFF-0F87CB": {
+    "expires": "2026-04-19T02:54:48.228Z",
+    "hwid": "8317296421-6bcb8d2d-aff8-4cdc-898b-0a59e2c83b9a",
+    "browserHwid": null,
+    "username": "Draxnex65",
+    "userId": "8317296421",
+    "source": "script",
+    "createdAt": "2026-04-18T02:54:48.466Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.108.142",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
