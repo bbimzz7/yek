@@ -13616,7 +13616,7 @@
     "userId": "9151745004",
     "source": "script",
     "createdAt": "2026-04-18T13:12:48.603Z",
-    "lastUsed": "2026-04-18T13:17:49.177Z",
+    "lastUsed": "2026-04-18T13:20:05.955Z",
     "geo": {
       "ip": "140.213.52.234",
       "city": "Probolinggo",
@@ -13625,8 +13625,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.52.5",
-      "city": "Probolinggo",
+      "ip": "203.78.112.107",
+      "city": "Gedangan",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
