@@ -13833,8 +13833,15 @@
     "userId": "3938937906",
     "source": "script",
     "createdAt": "2026-04-18T16:02:58.679Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T16:03:47.615Z",
     "geo": {
+      "ip": "182.50.66.138",
+      "city": "Bhadrapur",
+      "region": "Koshi",
+      "country": "Nepal",
+      "cc": "NP"
+    },
+    "lastGeo": {
       "ip": "182.50.66.138",
       "city": "Bhadrapur",
       "region": "Koshi",
