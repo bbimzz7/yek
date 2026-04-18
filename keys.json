@@ -13688,11 +13688,18 @@
     "userId": "8536487117",
     "source": "script",
     "createdAt": "2026-04-18T14:21:30.112Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T14:22:59.970Z",
     "geo": {
       "ip": "140.213.20.76",
       "city": "South Tangerang",
       "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "140.213.26.170",
+      "city": "Depok",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
