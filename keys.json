@@ -12989,8 +12989,15 @@
     "userId": "8507095545",
     "source": "script",
     "createdAt": "2026-04-18T04:57:55.739Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T04:58:37.298Z",
     "geo": {
+      "ip": "114.10.114.102",
+      "city": "Tigaraksa",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.114.102",
       "city": "Tigaraksa",
       "region": "Banten",
