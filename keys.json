@@ -12939,5 +12939,22 @@
       "country": "Australia",
       "cc": "AU"
     }
+  },
+  "VH-6A8EE5-D1B786-F066F1": {
+    "expires": "2026-04-19T04:17:37.012Z",
+    "hwid": "7982532784-6a28f789-89f9-4675-8d65-ccaefed04fae",
+    "browserHwid": null,
+    "username": "fics_legnda",
+    "userId": "7982532784",
+    "source": "script",
+    "createdAt": "2026-04-18T04:17:37.435Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.251.180.71",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
