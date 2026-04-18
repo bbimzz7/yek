@@ -14088,5 +14088,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-55D0F1-9B9A5B-E9E5D4": {
+    "expires": "2026-04-19T22:25:16.331Z",
+    "hwid": "3063291793-9742b11b-de8e-4e11-847c-42a1ca93bf53",
+    "browserHwid": null,
+    "username": "YUBER20YT",
+    "userId": "3063291793",
+    "source": "script",
+    "createdAt": "2026-04-18T22:25:16.802Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.199.61.149",
+      "city": "Guayaquil",
+      "region": "Guayas",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
