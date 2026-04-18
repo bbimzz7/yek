@@ -13158,8 +13158,15 @@
     "userId": "9522263684",
     "source": "script",
     "createdAt": "2026-04-18T06:17:43.542Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T06:17:52.042Z",
     "geo": {
+      "ip": "171.4.221.75",
+      "city": "Chiang Mai",
+      "region": "Chiang Mai",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "171.4.221.75",
       "city": "Chiang Mai",
       "region": "Chiang Mai",
