@@ -13013,8 +13013,15 @@
     "userId": "10793490285",
     "source": "script",
     "createdAt": "2026-04-18T04:59:26.378Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T04:59:38.623Z",
     "geo": {
+      "ip": "166.199.148.75",
+      "city": "Atlanta",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "166.199.148.75",
       "city": "Atlanta",
       "region": "Georgia",
