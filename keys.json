@@ -13537,14 +13537,22 @@
   },
   "VH-4BE726-0EE17E-050DAC": {
     "expires": "2026-04-19T12:35:00.087Z",
-    "hwid": null,
+    "hwid": "9633168967-352eb2ed-eb8a-4306-ab9b-fe72da1faf6c",
     "browserHwid": "BR-24BD276A-GUVK0",
     "username": "abdul09250",
-    "userId": null,
+    "userId": "9633168967",
     "source": "browser",
     "createdAt": "2026-04-18T12:35:00.567Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T12:36:12.353Z",
     "geo": {
+      "ip": "180.254.74.173",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-04-18T12:36:12.346Z",
+    "lastGeo": {
       "ip": "180.254.74.173",
       "city": "Tangerang",
       "region": "Banten",
