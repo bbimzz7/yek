@@ -12804,8 +12804,15 @@
     "userId": "4136930710",
     "source": "script",
     "createdAt": "2026-04-18T02:52:21.589Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-18T02:52:27.021Z",
     "geo": {
+      "ip": "45.238.40.217",
+      "city": "Embu das Artes",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.238.40.217",
       "city": "Embu das Artes",
       "region": "São Paulo",
