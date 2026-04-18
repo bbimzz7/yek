@@ -13423,7 +13423,7 @@
     "userId": "10680590485",
     "source": "script",
     "createdAt": "2026-04-18T11:17:57.942Z",
-    "lastUsed": "2026-04-18T14:21:05.300Z",
+    "lastUsed": "2026-04-18T15:10:11.918Z",
     "geo": {
       "ip": "165.101.42.153",
       "city": "Utan",
@@ -13432,9 +13432,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.180.123.71",
-      "city": "Bekasi",
-      "region": "West Java",
+      "ip": "165.101.42.153",
+      "city": "Utan",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
