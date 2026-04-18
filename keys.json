@@ -14064,5 +14064,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-F46658-BB0BFC-8CD75E": {
+    "expires": "2026-04-19T21:34:53.561Z",
+    "hwid": "8934656931-BCEFE90B-59F9-45D2-9E90-3E1541E40CA0",
+    "browserHwid": null,
+    "username": "panjiii2727",
+    "userId": "8934656931",
+    "source": "script",
+    "createdAt": "2026-04-18T21:34:54.077Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.61.5.106",
+      "city": "Meral",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
