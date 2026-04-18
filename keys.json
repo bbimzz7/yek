@@ -13920,5 +13920,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-FA51A2-AC31C0-33FED5": {
+    "expires": "2026-04-19T16:59:33.993Z",
+    "hwid": "8580640479-da45d403-9cae-47b7-bedd-ac88480274cd",
+    "browserHwid": null,
+    "username": "francis_ro11",
+    "userId": "8580640479",
+    "source": "script",
+    "createdAt": "2026-04-18T16:59:34.282Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "122.2.78.146",
+      "city": "Marikina City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
