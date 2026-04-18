@@ -14112,5 +14112,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-57E6A8-9B6E58-D77BC4": {
+    "expires": "2026-04-19T22:31:33.585Z",
+    "hwid": "10839294911-85ba4976-7c68-4f70-975a-a31c0970a1e9",
+    "browserHwid": null,
+    "username": "sambungkata777",
+    "userId": "10839294911",
+    "source": "script",
+    "createdAt": "2026-04-18T22:31:34.085Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.166.13.67",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
