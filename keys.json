@@ -15234,5 +15234,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-D2A50B-2E3167-129A6C": {
+    "expires": "2026-04-20T19:22:59.857Z",
+    "hwid": "10247357112-ad8f17ad-bc53-4c64-8161-df27633641ee",
+    "browserHwid": null,
+    "username": "justahuman559",
+    "userId": "10247357112",
+    "source": "script",
+    "createdAt": "2026-04-19T19:23:00.370Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.178.239.97",
+      "city": "Pugeran Maguwoharjo",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
