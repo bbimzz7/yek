@@ -14826,5 +14826,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-98DAD7-BDAE39-736780": {
+    "expires": "2026-04-20T11:45:43.147Z",
+    "hwid": "8602399048-85113ec7-e4da-42f6-bc6f-52ee16d8eea8",
+    "browserHwid": null,
+    "username": "IDKTO209",
+    "userId": "8602399048",
+    "source": "script",
+    "createdAt": "2026-04-19T11:45:43.626Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.204.225.227",
+      "city": "Mandaluyong",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
