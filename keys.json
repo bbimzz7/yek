@@ -14802,5 +14802,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-CCFF35-C39B86-26D29E": {
+    "expires": "2026-04-20T11:37:50.641Z",
+    "hwid": "5442360729-36db9f80-5b44-4b82-8203-8de0924905b5",
+    "browserHwid": null,
+    "username": "Zpoxzzz",
+    "userId": "5442360729",
+    "source": "script",
+    "createdAt": "2026-04-19T11:37:51.101Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "159.26.106.34",
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
