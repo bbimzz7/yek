@@ -15090,5 +15090,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-CC5475-43099E-55AD3D": {
+    "expires": "2026-04-20T14:52:21.751Z",
+    "hwid": "5274761699-a47aa83c-dff9-4b19-92b3-f9b8529e0db9",
+    "browserHwid": null,
+    "username": "lymschjc",
+    "userId": "5274761699",
+    "source": "script",
+    "createdAt": "2026-04-19T14:52:22.296Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.99.203.86",
+      "city": "Ploso",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
