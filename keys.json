@@ -14280,5 +14280,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-8C294C-E05FEA-B9DDFF": {
+    "expires": "2026-04-20T02:41:36.155Z",
+    "hwid": "9358668578-b33f5e5e-ec79-4847-bb66-4852f5c2d2d1",
+    "browserHwid": null,
+    "username": "detsoul_809059",
+    "userId": "9358668578",
+    "source": "script",
+    "createdAt": "2026-04-19T02:41:36.658Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.147.14.207",
+      "city": "Pasay",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
