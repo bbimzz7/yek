@@ -15066,5 +15066,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-CBAC0B-0271AD-16AD87": {
+    "expires": "2026-04-20T14:50:26.606Z",
+    "hwid": "9816842767-bcfed539-f777-41b1-8d10-9f22ad0693e8",
+    "browserHwid": null,
+    "username": "Bezesalt",
+    "userId": "9816842767",
+    "source": "script",
+    "createdAt": "2026-04-19T14:50:27.078Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.64.99.246",
+      "city": "Columbus",
+      "region": "Nebraska",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
