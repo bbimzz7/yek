@@ -14946,5 +14946,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-1EC645-92BD03-4AB5FD": {
+    "expires": "2026-04-20T13:00:03.442Z",
+    "hwid": "1810705559-c6633a63-54b7-4ca0-a4fb-19fc60fc4833",
+    "browserHwid": null,
+    "username": "EzaProFF",
+    "userId": "1810705559",
+    "source": "script",
+    "createdAt": "2026-04-19T13:00:03.975Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.162.253.36",
+      "city": "Pangkajene",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
