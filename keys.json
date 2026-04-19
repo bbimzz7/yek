@@ -15282,5 +15282,22 @@
       "country": "Morocco",
       "cc": "MA"
     }
+  },
+  "VH-09C4D8-BA119B-3248C8": {
+    "expires": "2026-04-20T23:16:33.303Z",
+    "hwid": "5133812567-ebf9c505-c5c0-4e39-9c6f-b4c1b8887078",
+    "browserHwid": null,
+    "username": "Bocil_roblox3335",
+    "userId": "5133812567",
+    "source": "script",
+    "createdAt": "2026-04-19T23:16:33.782Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.162.247.121",
+      "city": "Merauke",
+      "region": "South Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
