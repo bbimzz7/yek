@@ -14763,8 +14763,15 @@
     "userId": "8440735052",
     "source": "script",
     "createdAt": "2026-04-19T10:41:20.926Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-19T10:41:41.348Z",
     "geo": {
+      "ip": "84.54.73.80",
+      "city": "Tashkent",
+      "region": "Tashkent",
+      "country": "Uzbekistan",
+      "cc": "UZ"
+    },
+    "lastGeo": {
       "ip": "84.54.73.80",
       "city": "Tashkent",
       "region": "Tashkent",
