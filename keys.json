@@ -14208,5 +14208,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4B7B1A-67CC33-9A9FF3": {
+    "expires": "2026-04-20T00:15:21.516Z",
+    "hwid": "7646294910-4e46e844-989d-4604-9aa4-5f6f63bc563c",
+    "browserHwid": null,
+    "username": "she_118899",
+    "userId": "7646294910",
+    "source": "script",
+    "createdAt": "2026-04-19T00:15:21.972Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.83.199",
+      "city": "Tanza",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
