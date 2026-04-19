@@ -14232,5 +14232,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-22D811-527013-2625CC": {
+    "expires": "2026-04-20T01:02:03.717Z",
+    "hwid": "9205377641-55bad6a6-8353-4109-a215-d354d675943e",
+    "browserHwid": null,
+    "username": "BreezeKiyota",
+    "userId": "9205377641",
+    "source": "script",
+    "createdAt": "2026-04-19T01:02:04.209Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.86.190",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
