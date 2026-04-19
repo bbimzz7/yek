@@ -14778,5 +14778,22 @@
       "country": "Uzbekistan",
       "cc": "UZ"
     }
+  },
+  "VH-15285D-5F0F8E-703009": {
+    "expires": "2026-04-20T11:20:41.249Z",
+    "hwid": "10836840749-2be2b386-b0b7-4405-b1dd-b97679f49114",
+    "browserHwid": null,
+    "username": "renan_blox051",
+    "userId": "10836840749",
+    "source": "script",
+    "createdAt": "2026-04-19T11:20:41.739Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.51.167.152",
+      "city": "São João Evangelista",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
