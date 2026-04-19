@@ -14850,5 +14850,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-C09DD3-673105-227D99": {
+    "expires": "2026-04-20T11:49:25.113Z",
+    "hwid": "10836771581-211e536d-39fc-4426-a170-ba09df117386",
+    "browserHwid": null,
+    "username": "Rip_mikasa9209",
+    "userId": "10836771581",
+    "source": "script",
+    "createdAt": "2026-04-19T11:49:25.600Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.5.153",
+      "city": "Kota Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
