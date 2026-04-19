@@ -14883,7 +14883,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-04-19T11:54:33.902Z",
-    "lastUsed": "2026-04-19T13:50:57.472Z",
+    "lastUsed": "2026-04-19T13:57:22.810Z",
     "geo": {
       "ip": "160.20.38.62",
       "city": "Indramayu",
@@ -14892,9 +14892,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.9.207",
-      "city": "Central Jakarta",
-      "region": "Jakarta",
+      "ip": "160.20.38.62",
+      "city": "Indramayu",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
