@@ -14835,8 +14835,15 @@
     "userId": "8602399048",
     "source": "script",
     "createdAt": "2026-04-19T11:45:43.626Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-19T11:45:52.629Z",
     "geo": {
+      "ip": "112.204.225.227",
+      "city": "Mandaluyong",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.204.225.227",
       "city": "Mandaluyong",
       "region": "Metro Manila",
