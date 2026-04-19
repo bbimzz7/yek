@@ -14441,5 +14441,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-1A27FC-B1DF40-96EC50": {
+    "expires": "2026-04-20T04:42:43.705Z",
+    "hwid": "4808166475-2d28222e-9643-44d2-b654-0856d837ca58",
+    "browserHwid": null,
+    "username": "michi112499",
+    "userId": "4808166475",
+    "source": "script",
+    "createdAt": "2026-04-19T04:42:44.219Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.168.181.215",
+      "city": "Gómez Palacio",
+      "region": "Durango",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
