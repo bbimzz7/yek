@@ -14681,5 +14681,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C07793-52D54B-E69EAD": {
+    "expires": "2026-04-20T08:48:13.197Z",
+    "hwid": "8422213062-041f24c7-d9d4-4ae2-aa91-7c36446bf5ca",
+    "browserHwid": null,
+    "username": "Skypiercer_Leviathan",
+    "userId": "8422213062",
+    "source": "script",
+    "createdAt": "2026-04-19T08:48:13.717Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.0.138.118",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
