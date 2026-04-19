@@ -14217,8 +14217,15 @@
     "userId": "7646294910",
     "source": "script",
     "createdAt": "2026-04-19T00:15:21.972Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-19T00:23:18.665Z",
     "geo": {
+      "ip": "136.158.83.199",
+      "city": "Tanza",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.83.199",
       "city": "Tanza",
       "region": "Metro Manila",
