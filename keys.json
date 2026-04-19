@@ -14811,7 +14811,7 @@
     "userId": "5442360729",
     "source": "script",
     "createdAt": "2026-04-19T11:37:51.101Z",
-    "lastUsed": "2026-04-19T11:38:01.899Z",
+    "lastUsed": "2026-04-19T12:08:11.548Z",
     "geo": {
       "ip": "159.26.106.34",
       "city": "London",
@@ -14820,11 +14820,11 @@
       "cc": "GB"
     },
     "lastGeo": {
-      "ip": "159.26.106.34",
-      "city": "London",
-      "region": "England",
-      "country": "United Kingdom",
-      "cc": "GB"
+      "ip": "79.110.55.14",
+      "city": "Toseong",
+      "region": "Gangwon-do",
+      "country": "South Korea",
+      "cc": "KR"
     }
   },
   "VH-98DAD7-BDAE39-736780": {
