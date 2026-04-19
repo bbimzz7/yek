@@ -14345,5 +14345,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-770307-56B9ED-B38A27": {
+    "expires": "2026-04-20T02:45:32.166Z",
+    "hwid": "9054316140-8a6a3ce3-0bc8-443a-85bf-ded786c67d26",
+    "browserHwid": null,
+    "username": "aidanisocool_2",
+    "userId": "9054316140",
+    "source": "script",
+    "createdAt": "2026-04-19T02:45:32.421Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.177.217.251",
+      "city": "Georgetown",
+      "region": "Demerara-Mahaica",
+      "country": "Guyana",
+      "cc": "GY"
+    }
   }
 }
