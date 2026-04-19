@@ -14417,5 +14417,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7FCA94-5D11E6-BF6549": {
+    "expires": "2026-04-20T03:51:07.023Z",
+    "hwid": "4158324509-6B393E79-67BE-45EA-8323-6E30BA1378F2",
+    "browserHwid": null,
+    "username": "Krvxian_18967",
+    "userId": "4158324509",
+    "source": "script",
+    "createdAt": "2026-04-19T03:51:07.519Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.10.204.127",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
