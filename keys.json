@@ -15123,8 +15123,15 @@
     "userId": "3205779335",
     "source": "script",
     "createdAt": "2026-04-19T14:54:18.425Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-19T14:54:27.211Z",
     "geo": {
+      "ip": "139.0.37.21",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "139.0.37.21",
       "city": "West Jakarta",
       "region": "Jakarta",
