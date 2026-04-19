@@ -14265,8 +14265,15 @@
     "userId": "10028875270",
     "source": "script",
     "createdAt": "2026-04-19T02:06:35.978Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-19T02:14:43.276Z",
     "geo": {
+      "ip": "186.171.33.159",
+      "city": "Medellín",
+      "region": "Antioquia",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
       "ip": "186.171.33.159",
       "city": "Medellín",
       "region": "Antioquia",
