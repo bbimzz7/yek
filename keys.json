@@ -14313,8 +14313,15 @@
     "userId": "4174348467",
     "source": "script",
     "createdAt": "2026-04-19T02:43:55.655Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-19T02:44:24.148Z",
     "geo": {
+      "ip": "202.65.239.232",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "202.65.239.232",
       "city": "Jakarta",
       "region": "Jakarta",
