@@ -14955,8 +14955,15 @@
     "userId": "1810705559",
     "source": "script",
     "createdAt": "2026-04-19T13:00:03.975Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-19T13:01:46.931Z",
     "geo": {
+      "ip": "125.162.253.36",
+      "city": "Pangkajene",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.162.253.36",
       "city": "Pangkajene",
       "region": "South Sulawesi",
