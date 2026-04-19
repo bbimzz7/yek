@@ -14369,5 +14369,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-DF29DE-D04593-10C93A": {
+    "expires": "2026-04-20T03:06:36.059Z",
+    "hwid": "10253341524-a5aa03e1-75f3-4a32-add4-d32df8bed7cd",
+    "browserHwid": null,
+    "username": "rizzstore28",
+    "userId": "10253341524",
+    "source": "script",
+    "createdAt": "2026-04-19T03:06:36.550Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.79.22",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
