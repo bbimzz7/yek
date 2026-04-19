@@ -15075,8 +15075,15 @@
     "userId": "9816842767",
     "source": "script",
     "createdAt": "2026-04-19T14:50:27.078Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-19T14:50:42.782Z",
     "geo": {
+      "ip": "170.64.99.246",
+      "city": "Columbus",
+      "region": "Nebraska",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "170.64.99.246",
       "city": "Columbus",
       "region": "Nebraska",
