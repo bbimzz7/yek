@@ -15210,5 +15210,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-75362B-713A3A-B054B6": {
+    "expires": "2026-04-20T19:05:46.029Z",
+    "hwid": "7651487657-23d05f53-cfb4-45e7-9f03-80cccbac4785",
+    "browserHwid": null,
+    "username": "Dxff1x",
+    "userId": "7651487657",
+    "source": "script",
+    "createdAt": "2026-04-19T19:05:46.524Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.121.20.156",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
