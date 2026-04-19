@@ -14304,5 +14304,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-474490-B8735D-386D28": {
+    "expires": "2026-04-20T02:43:55.382Z",
+    "hwid": "4174348467-49d4923a-3edf-4cd0-a98f-97413afbdccc",
+    "browserHwid": null,
+    "username": "zifanvickauman",
+    "userId": "4174348467",
+    "source": "script",
+    "createdAt": "2026-04-19T02:43:55.655Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.65.239.232",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
