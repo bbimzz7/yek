@@ -15003,8 +15003,15 @@
     "userId": "10804970962",
     "source": "script",
     "createdAt": "2026-04-19T13:40:11.845Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-19T13:42:12.109Z",
     "geo": {
+      "ip": "78.240.146.236",
+      "city": "Aucamville",
+      "region": "Occitanie",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "78.240.146.236",
       "city": "Aucamville",
       "region": "Occitanie",
