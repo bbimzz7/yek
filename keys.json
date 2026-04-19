@@ -13664,7 +13664,7 @@
     "userId": "3687693750",
     "source": "script",
     "createdAt": "2026-04-18T14:15:40.047Z",
-    "lastUsed": "2026-04-19T09:29:29.927Z",
+    "lastUsed": "2026-04-19T09:46:59.510Z",
     "geo": {
       "ip": "46.36.153.15",
       "city": "Oral",
@@ -13673,11 +13673,11 @@
       "cc": "KZ"
     },
     "lastGeo": {
-      "ip": "206.189.108.50",
-      "city": "Amsterdam",
-      "region": "North Holland",
-      "country": "Netherlands",
-      "cc": "NL"
+      "ip": "46.36.153.15",
+      "city": "Oral",
+      "region": "West Kazakhstan",
+      "country": "Kazakhstan",
+      "cc": "KZ"
     }
   },
   "VH-100F19-F5380F-0D12E6": {
