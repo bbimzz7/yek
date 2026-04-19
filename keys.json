@@ -15099,8 +15099,15 @@
     "userId": "5274761699",
     "source": "script",
     "createdAt": "2026-04-19T14:52:22.296Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-19T14:52:30.712Z",
     "geo": {
+      "ip": "165.99.203.86",
+      "city": "Ploso",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "165.99.203.86",
       "city": "Ploso",
       "region": "East Java",
