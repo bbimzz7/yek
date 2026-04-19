@@ -14256,5 +14256,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-95FD09-7FB419-E74229": {
+    "expires": "2026-04-20T02:06:35.455Z",
+    "hwid": "10028875270-fe2b3448-939a-411e-a162-df3cb3ebfefc",
+    "browserHwid": null,
+    "username": "SEBAS104242",
+    "userId": "10028875270",
+    "source": "script",
+    "createdAt": "2026-04-19T02:06:35.978Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.171.33.159",
+      "city": "Medellín",
+      "region": "Antioquia",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
