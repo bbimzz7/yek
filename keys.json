@@ -14970,5 +14970,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5AFCCA-F69F3C-322628": {
+    "expires": "2026-04-20T13:21:18.613Z",
+    "hwid": "5473295297-ba6f6338-e68c-4f2c-895e-b14bfa9f64c1",
+    "browserHwid": null,
+    "username": "vlufz1045",
+    "userId": "5473295297",
+    "source": "script",
+    "createdAt": "2026-04-19T13:21:19.099Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.146.189.139",
+      "city": "Banjar Badung",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
