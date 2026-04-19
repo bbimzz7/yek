@@ -15018,5 +15018,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-0F0859-B682A3-A6A03A": {
+    "expires": "2026-04-20T14:17:32.031Z",
+    "hwid": "753522780-33a8c3f6-6064-4f62-a131-45ae1ffe3cf6",
+    "browserHwid": null,
+    "username": "imam_6",
+    "userId": "753522780",
+    "source": "script",
+    "createdAt": "2026-04-19T14:17:32.532Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.168.226",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
