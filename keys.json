@@ -14450,8 +14450,15 @@
     "userId": "4808166475",
     "source": "script",
     "createdAt": "2026-04-19T04:42:44.219Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-19T04:43:11.650Z",
     "geo": {
+      "ip": "189.168.181.215",
+      "city": "Gómez Palacio",
+      "region": "Durango",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.168.181.215",
       "city": "Gómez Palacio",
       "region": "Durango",
