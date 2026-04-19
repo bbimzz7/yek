@@ -14994,5 +14994,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C13BA5-509468-3F5118": {
+    "expires": "2026-04-20T13:40:11.361Z",
+    "hwid": "10804970962-667d3131-27d1-48ba-95c8-c658d74aeb5d",
+    "browserHwid": null,
+    "username": "Ptdrtracetaroute",
+    "userId": "10804970962",
+    "source": "script",
+    "createdAt": "2026-04-19T13:40:11.845Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "78.240.146.236",
+      "city": "Aucamville",
+      "region": "Occitanie",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
