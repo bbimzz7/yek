@@ -14730,5 +14730,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-D6AD7A-86C891-7A8DCF": {
+    "expires": "2026-04-20T09:36:13.668Z",
+    "hwid": "9412218251-037925c5-3e50-41f2-b332-5556d795aa4d",
+    "browserHwid": null,
+    "username": "cocofantdjdjd",
+    "userId": "9412218251",
+    "source": "script",
+    "createdAt": "2026-04-19T09:36:13.956Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.65.151",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
