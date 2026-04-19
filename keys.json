@@ -15243,8 +15243,15 @@
     "userId": "10247357112",
     "source": "script",
     "createdAt": "2026-04-19T19:23:00.370Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-19T19:23:12.198Z",
     "geo": {
+      "ip": "115.178.239.97",
+      "city": "Pugeran Maguwoharjo",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "115.178.239.97",
       "city": "Pugeran Maguwoharjo",
       "region": "Yogyakarta",
