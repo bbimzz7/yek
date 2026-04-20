@@ -15796,8 +15796,15 @@
     "userId": "8744530881",
     "source": "script",
     "createdAt": "2026-04-20T11:36:10.749Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-20T11:36:20.418Z",
     "geo": {
+      "ip": "103.131.29.102",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.131.29.102",
       "city": "Malang",
       "region": "East Java",
