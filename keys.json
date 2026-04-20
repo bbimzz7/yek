@@ -16013,13 +16013,20 @@
     "userId": "8744530881",
     "source": "script",
     "createdAt": "2026-04-20T16:20:35.393Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-20T16:20:44.686Z",
     "geo": {
       "ip": "103.184.18.93",
       "city": "Malang",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.38.200.33",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
