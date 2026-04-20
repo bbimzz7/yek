@@ -15330,5 +15330,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-66A447-5AD1BB-678118": {
+    "expires": "2026-04-21T00:24:47.943Z",
+    "hwid": "10691546635-b0c23fa8-9ee2-4d28-840f-0e8dd887e339",
+    "browserHwid": null,
+    "username": "TERRIBLES070",
+    "userId": "10691546635",
+    "source": "script",
+    "createdAt": "2026-04-20T00:24:48.413Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "75.84.184.152",
+      "city": "Westminster",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
