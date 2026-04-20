@@ -15475,5 +15475,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-729F71-8A8C20-9C5EF1": {
+    "expires": "2026-04-21T04:54:34.434Z",
+    "hwid": "10778777122-01a2a397-70c0-44c7-a817-cf1dbe3ae0d9",
+    "browserHwid": null,
+    "username": "zioontesting_alt",
+    "userId": "10778777122",
+    "source": "script",
+    "createdAt": "2026-04-20T04:54:34.906Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.197.42.153",
+      "city": "Dangriga",
+      "region": "Stann Creek District",
+      "country": "Belize",
+      "cc": "BZ"
+    }
   }
 }
