@@ -15820,7 +15820,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-04-20T12:06:15.455Z",
-    "lastUsed": "2026-04-20T16:14:05.846Z",
+    "lastUsed": "2026-04-20T16:43:33.534Z",
     "geo": {
       "ip": "180.247.59.215",
       "city": "Bekasi",
@@ -15829,8 +15829,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.7.107",
-      "city": "Central Jakarta",
+      "ip": "180.252.126.142",
+      "city": "North Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
