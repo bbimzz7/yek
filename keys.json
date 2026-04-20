@@ -15523,5 +15523,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-93D504-B44A1B-B05EFF": {
+    "expires": "2026-04-21T07:13:50.764Z",
+    "hwid": "10465649284-5f50c6e4-689c-4adf-859d-0e8398593485",
+    "browserHwid": null,
+    "username": "RTS_EMANK62",
+    "userId": "10465649284",
+    "source": "script",
+    "createdAt": "2026-04-20T07:13:51.300Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.78.151.142",
+      "city": "Sambas",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
