@@ -15429,15 +15429,23 @@
   },
   "VH-A38AB3-31B2BA-9B0BC8": {
     "expires": "2026-04-21T03:53:30.371Z",
-    "hwid": null,
+    "hwid": "9481106221-45dbe5f9-4ec4-412b-a06a-993b1f372652",
     "browserHwid": "BR-1BD9364F-4E1TJ",
     "username": "jejique4",
-    "userId": null,
+    "userId": "9481106221",
     "source": "browser",
     "createdAt": "2026-04-20T03:53:30.854Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-20T03:59:22.827Z",
     "geo": {
       "ip": "190.83.119.60",
+      "city": "Guatemala City",
+      "region": "Guatemala",
+      "country": "Guatemala",
+      "cc": "GT"
+    },
+    "boundAt": "2026-04-20T03:59:22.820Z",
+    "lastGeo": {
+      "ip": "190.83.119.5",
       "city": "Guatemala City",
       "region": "Guatemala",
       "country": "Guatemala",
