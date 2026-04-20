@@ -16028,5 +16028,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-6DF6A1-486361-F54616": {
+    "expires": "2026-04-21T16:45:03.671Z",
+    "hwid": "42252572-f016a763-7e93-41b7-8fa5-e325bd2c6292",
+    "browserHwid": null,
+    "username": "awesomegal9822",
+    "userId": "42252572",
+    "source": "script",
+    "createdAt": "2026-04-20T16:45:04.229Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.161.95.123",
+      "city": "Mercer Island",
+      "region": "Washington",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
