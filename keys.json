@@ -15532,8 +15532,15 @@
     "userId": "10465649284",
     "source": "script",
     "createdAt": "2026-04-20T07:13:51.300Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-20T07:14:44.555Z",
     "geo": {
+      "ip": "36.78.151.142",
+      "city": "Sambas",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.78.151.142",
       "city": "Sambas",
       "region": "West Kalimantan",
