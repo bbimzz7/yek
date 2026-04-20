@@ -15484,8 +15484,15 @@
     "userId": "10778777122",
     "source": "script",
     "createdAt": "2026-04-20T04:54:34.906Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-20T04:58:35.187Z",
     "geo": {
+      "ip": "190.197.42.153",
+      "city": "Dangriga",
+      "region": "Stann Creek District",
+      "country": "Belize",
+      "cc": "BZ"
+    },
+    "lastGeo": {
       "ip": "190.197.42.153",
       "city": "Dangriga",
       "region": "Stann Creek District",
