@@ -15499,5 +15499,22 @@
       "country": "Belize",
       "cc": "BZ"
     }
+  },
+  "VH-F3AC08-465745-EA3C91": {
+    "expires": "2026-04-21T06:07:29.661Z",
+    "hwid": "6071658630-f016a763-7e93-41b7-8fa5-e325bd2c6292",
+    "browserHwid": null,
+    "username": "nunyab63",
+    "userId": "6071658630",
+    "source": "script",
+    "createdAt": "2026-04-20T06:07:30.182Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.161.95.123",
+      "city": "Mercer Island",
+      "region": "Washington",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
