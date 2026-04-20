@@ -16052,5 +16052,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-9385A5-8708FE-3CA4F5": {
+    "expires": "2026-04-21T17:13:48.447Z",
+    "hwid": "5814253447-9ff98227-1700-40c7-a7f2-e11bf8ffab52",
+    "browserHwid": null,
+    "username": "wikwiktobrut",
+    "userId": "5814253447",
+    "source": "script",
+    "createdAt": "2026-04-20T17:13:48.943Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.52.214",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
