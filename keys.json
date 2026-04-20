@@ -15787,5 +15787,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3BB8E9-A4296A-425F0C": {
+    "expires": "2026-04-21T11:36:10.193Z",
+    "hwid": "8744530881-1DCEFAA4-2FC4-40B8-9932-8868C75199CB",
+    "browserHwid": null,
+    "username": "KyoPokerEx",
+    "userId": "8744530881",
+    "source": "script",
+    "createdAt": "2026-04-20T11:36:10.749Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.131.29.102",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
