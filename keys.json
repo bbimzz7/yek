@@ -15628,8 +15628,15 @@
     "userId": "9943074276",
     "source": "script",
     "createdAt": "2026-04-20T09:02:10.849Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-20T09:02:19.981Z",
     "geo": {
+      "ip": "125.163.72.183",
+      "city": "Sumedang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.163.72.183",
       "city": "Sumedang",
       "region": "West Java",
