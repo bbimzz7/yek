@@ -16004,5 +16004,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-007F1C-3BBB7B-009D18": {
+    "expires": "2026-04-21T16:20:34.823Z",
+    "hwid": "8744530881-33f9b8c7-f0b4-4c09-a5ff-b661260b98f9",
+    "browserHwid": null,
+    "username": "KyoPokerEx",
+    "userId": "8744530881",
+    "source": "script",
+    "createdAt": "2026-04-20T16:20:35.393Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.184.18.93",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
