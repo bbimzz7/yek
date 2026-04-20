@@ -15667,5 +15667,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-876C12-F9FA3A-086BDF": {
+    "expires": "2026-04-21T10:33:26.332Z",
+    "hwid": "10615321242-302a8484-4a2f-4e9c-b516-ac318e0ffbf4",
+    "browserHwid": null,
+    "username": "Roblox199999k666",
+    "userId": "10615321242",
+    "source": "script",
+    "createdAt": "2026-04-20T10:33:26.874Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.74.174.15",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
