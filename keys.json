@@ -16126,8 +16126,15 @@
     "userId": "4862305114",
     "source": "script",
     "createdAt": "2026-04-20T22:49:57.676Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-20T22:50:06.841Z",
     "geo": {
+      "ip": "157.15.139.103",
+      "city": "Sleman",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.15.139.103",
       "city": "Sleman",
       "region": "Yogyakarta",
