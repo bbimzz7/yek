@@ -15426,5 +15426,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-A38AB3-31B2BA-9B0BC8": {
+    "expires": "2026-04-21T03:53:30.371Z",
+    "hwid": null,
+    "browserHwid": "BR-1BD9364F-4E1TJ",
+    "username": "jejique4",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-20T03:53:30.854Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.83.119.60",
+      "city": "Guatemala City",
+      "region": "Guatemala",
+      "country": "Guatemala",
+      "cc": "GT"
+    }
   }
 }
