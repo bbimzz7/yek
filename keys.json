@@ -15556,10 +15556,17 @@
     "userId": "10845600999",
     "source": "script",
     "createdAt": "2026-04-20T07:20:34.697Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-20T07:20:46.687Z",
     "geo": {
       "ip": "140.213.220.4",
       "city": "Pandaan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "203.78.123.190",
+      "city": "Dlemmer",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
