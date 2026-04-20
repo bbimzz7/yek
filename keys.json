@@ -15547,5 +15547,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E3D67B-B8F91B-9EBF99": {
+    "expires": "2026-04-21T07:20:34.177Z",
+    "hwid": "10845600999-38447d32-dcab-4309-9c46-30f652f9fdd0",
+    "browserHwid": null,
+    "username": "Rassya0947",
+    "userId": "10845600999",
+    "source": "script",
+    "createdAt": "2026-04-20T07:20:34.697Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.220.4",
+      "city": "Pandaan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
