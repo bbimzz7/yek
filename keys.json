@@ -15378,5 +15378,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-6DF20E-886FA9-617EF6": {
+    "expires": "2026-04-21T01:38:13.537Z",
+    "hwid": "8555008934-300775E9-4349-4403-9FC7-A8A2ABE01167",
+    "browserHwid": null,
+    "username": "Okiinnns",
+    "userId": "8555008934",
+    "source": "script",
+    "createdAt": "2026-04-20T01:38:14.081Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.242.113",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
