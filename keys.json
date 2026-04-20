@@ -15604,8 +15604,15 @@
     "userId": "10845760610",
     "source": "script",
     "createdAt": "2026-04-20T08:50:06.783Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-20T08:50:15.963Z",
     "geo": {
+      "ip": "57.128.177.96",
+      "city": "Erith",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "57.128.177.96",
       "city": "Erith",
       "region": "England",
