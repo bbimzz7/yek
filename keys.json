@@ -15051,7 +15051,7 @@
     "userId": "3687693750",
     "source": "script",
     "createdAt": "2026-04-19T14:39:04.937Z",
-    "lastUsed": "2026-04-19T19:11:32.301Z",
+    "lastUsed": "2026-04-20T03:19:34.586Z",
     "geo": {
       "ip": "46.36.153.15",
       "city": "Oral",
@@ -15060,9 +15060,9 @@
       "cc": "KZ"
     },
     "lastGeo": {
-      "ip": "46.36.153.15",
-      "city": "Oral",
-      "region": "West Kazakhstan",
+      "ip": "2.78.231.10",
+      "city": "Aktobe",
+      "region": "Aktyubinskaya Oblast'",
       "country": "Kazakhstan",
       "cc": "KZ"
     }
