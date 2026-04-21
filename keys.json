@@ -16609,5 +16609,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-2406EF-3032BD-584C90": {
+    "expires": "2026-04-22T13:24:07.110Z",
+    "hwid": "9439740680-476d0414-39e2-45f3-b8cc-79b76a371825",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-04-21T13:24:07.672Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.65.72.97",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
