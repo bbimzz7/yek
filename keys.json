@@ -16320,5 +16320,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-320606-59F10A-B64ED9": {
+    "expires": "2026-04-22T06:08:28.085Z",
+    "hwid": "10398061409-d0e0cf11-ef50-4e58-8f16-921acf11a89e",
+    "browserHwid": null,
+    "username": "PH4NTOM_pxl269",
+    "userId": "10398061409",
+    "source": "script",
+    "createdAt": "2026-04-21T06:08:28.583Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.137.115.242",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
