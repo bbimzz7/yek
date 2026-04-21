@@ -16729,5 +16729,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-427D9E-BDA9C2-64D483": {
+    "expires": "2026-04-22T17:09:57.345Z",
+    "hwid": "753522780-467aebe3-db5f-4803-a609-d07b85b57699",
+    "browserHwid": null,
+    "username": "imam_6",
+    "userId": "753522780",
+    "source": "script",
+    "createdAt": "2026-04-21T17:09:57.900Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.168.226",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
