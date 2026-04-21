@@ -16908,11 +16908,18 @@
     "userId": "5408944493",
     "source": "script",
     "createdAt": "2026-04-21T23:00:10.977Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-21T23:00:31.717Z",
     "geo": {
       "ip": "45.150.65.151",
       "city": "Swarthmore",
       "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
+      "ip": "97.245.136.248",
+      "city": "Denver",
+      "region": "Colorado",
       "country": "United States",
       "cc": "US"
     }
