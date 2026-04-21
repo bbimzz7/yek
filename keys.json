@@ -16569,7 +16569,7 @@
     "userId": "4006766804",
     "source": "browser",
     "createdAt": "2026-04-21T12:46:13.342Z",
-    "lastUsed": "2026-04-21T12:47:46.093Z",
+    "lastUsed": "2026-04-21T12:49:38.108Z",
     "geo": {
       "ip": "103.175.237.51",
       "city": "Tempursari Wetan",
@@ -16579,8 +16579,8 @@
     },
     "boundAt": "2026-04-21T12:47:46.075Z",
     "lastGeo": {
-      "ip": "103.175.237.51",
-      "city": "Tempursari Wetan",
+      "ip": "158.140.172.12",
+      "city": "Malang",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
