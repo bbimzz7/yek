@@ -16851,5 +16851,22 @@
       "country": "Chile",
       "cc": "CL"
     }
+  },
+  "VH-E69017-369691-F250DC": {
+    "expires": "2026-04-22T20:41:01.727Z",
+    "hwid": "9389887089-710c4e77-d7ac-4333-9ccf-cb26cbaea416",
+    "browserHwid": null,
+    "username": "JoyboyCP04",
+    "userId": "9389887089",
+    "source": "script",
+    "createdAt": "2026-04-21T20:41:02.232Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.66.50.115",
+      "city": "Rengasdengklok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
