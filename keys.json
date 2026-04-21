@@ -16805,14 +16805,22 @@
   },
   "VH-52484B-4A29D2-6CF55D": {
     "expires": "2026-04-22T19:00:08.883Z",
-    "hwid": null,
+    "hwid": "10689883970-57eb1a11-f650-4bf4-8dce-fbdb809da7da",
     "browserHwid": "BR-0C366D7D-K146N",
     "username": "Mimejoramigoyoniellu",
-    "userId": null,
+    "userId": "10689883970",
     "source": "browser",
     "createdAt": "2026-04-21T19:00:09.453Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-21T19:01:34.049Z",
     "geo": {
+      "ip": "38.51.121.22",
+      "city": "Punto Fijo",
+      "region": "Falcón",
+      "country": "Venezuela",
+      "cc": "VE"
+    },
+    "boundAt": "2026-04-21T19:01:34.031Z",
+    "lastGeo": {
       "ip": "38.51.121.22",
       "city": "Punto Fijo",
       "region": "Falcón",
