@@ -16230,5 +16230,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4B4751-FDED57-BD978E": {
+    "expires": "2026-04-22T02:54:10.544Z",
+    "hwid": "8133698134-7a5b835f-4243-4545-9f85-640d0f551a05",
+    "browserHwid": null,
+    "username": "malomahj",
+    "userId": "8133698134",
+    "source": "script",
+    "createdAt": "2026-04-21T02:54:11.046Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.165.131",
+      "city": "Lahat",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
