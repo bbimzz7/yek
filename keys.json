@@ -16681,5 +16681,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-97FB3B-4D51D0-092DDE": {
+    "expires": "2026-04-22T15:09:25.933Z",
+    "hwid": "1812255238-bc314f82-bfbb-41d4-9785-ab919a980bab",
+    "browserHwid": null,
+    "username": "SHUMAGGERPAPA",
+    "userId": "1812255238",
+    "source": "script",
+    "createdAt": "2026-04-21T15:09:26.445Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.201.10.85",
+      "city": "Gustavo Adolfo Madero",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
