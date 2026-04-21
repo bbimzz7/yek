@@ -16714,8 +16714,15 @@
     "userId": "8346103223",
     "source": "script",
     "createdAt": "2026-04-21T16:13:13.044Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-21T16:14:19.847Z",
     "geo": {
+      "ip": "14.191.79.184",
+      "city": "Can Tho",
+      "region": "Can Tho",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "14.191.79.184",
       "city": "Can Tho",
       "region": "Can Tho",
