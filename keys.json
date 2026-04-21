@@ -16158,5 +16158,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4E9021-3AADE3-1DAAA0": {
+    "expires": "2026-04-22T01:46:58.331Z",
+    "hwid": "8695599963-4592c212-6715-4f0d-84c3-dcd9d43e1cea",
+    "browserHwid": null,
+    "username": "4x3l_um4nz0r",
+    "userId": "8695599963",
+    "source": "script",
+    "createdAt": "2026-04-21T01:46:58.846Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.218.7.68",
+      "city": "Dallas",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
