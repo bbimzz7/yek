@@ -16141,5 +16141,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0A6E88-14959B-5FFC21": {
+    "expires": "2026-04-22T01:37:15.660Z",
+    "hwid": "10723869908-37445a00-1dff-411c-81e2-a6debb8d1bf6",
+    "browserHwid": null,
+    "username": "anak_Tampan16",
+    "userId": "10723869908",
+    "source": "script",
+    "createdAt": "2026-04-21T01:37:16.152Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.50.64",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
