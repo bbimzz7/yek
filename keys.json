@@ -16705,5 +16705,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-84E58D-974C47-7E37DC": {
+    "expires": "2026-04-22T16:13:12.479Z",
+    "hwid": "8346103223-b8c177a6-de3b-465e-96f7-7fa547cf53c8",
+    "browserHwid": null,
+    "username": "wowhspdbr9",
+    "userId": "8346103223",
+    "source": "script",
+    "createdAt": "2026-04-21T16:13:13.044Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.191.79.184",
+      "city": "Can Tho",
+      "region": "Can Tho",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
