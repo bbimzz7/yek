@@ -16827,5 +16827,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-34A511-19E613-ED5DCA": {
+    "expires": "2026-04-22T19:29:17.317Z",
+    "hwid": "10851575959-c7a0b098-4b31-472a-8ca9-aefe6c39aa88",
+    "browserHwid": null,
+    "username": "casual2338",
+    "userId": "10851575959",
+    "source": "script",
+    "createdAt": "2026-04-21T19:29:17.818Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.43.210.84",
+      "city": "Santiago",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
