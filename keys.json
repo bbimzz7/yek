@@ -16191,8 +16191,15 @@
     "userId": "5749961394",
     "source": "script",
     "createdAt": "2026-04-21T02:14:31.647Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-21T02:16:52.416Z",
     "geo": {
+      "ip": "170.231.4.85",
+      "city": "Imbituba",
+      "region": "Santa Catarina",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "170.231.4.85",
       "city": "Imbituba",
       "region": "Santa Catarina",
