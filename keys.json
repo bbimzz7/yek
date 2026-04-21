@@ -16279,5 +16279,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-C6257D-E8AEAE-172DE5": {
+    "expires": "2026-04-22T04:55:20.243Z",
+    "hwid": "5565575769-d3090d18-9ad7-43f6-a15c-b256f18ee793",
+    "browserHwid": null,
+    "username": "Lanzgardoqueofficial",
+    "userId": "5565575769",
+    "source": "script",
+    "createdAt": "2026-04-21T04:55:20.738Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.148.103.242",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
