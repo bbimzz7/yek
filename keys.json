@@ -16368,5 +16368,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-071BBE-0DCA19-0FE3CA": {
+    "expires": "2026-04-22T07:21:59.390Z",
+    "hwid": "10299666088-28D63235-C3B4-4827-B7D8-ED94197DFBB7",
+    "browserHwid": null,
+    "username": "Vnnllaa1",
+    "userId": "10299666088",
+    "source": "script",
+    "createdAt": "2026-04-21T07:21:59.929Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.84.209.199",
+      "city": "Bukittinggi",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
