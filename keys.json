@@ -16182,5 +16182,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-DF2FDC-6B749C-713260": {
+    "expires": "2026-04-22T02:14:31.128Z",
+    "hwid": "5749961394-723e9105-fc49-4595-b635-5ca1b401e7de",
+    "browserHwid": null,
+    "username": "marcelo_98743",
+    "userId": "5749961394",
+    "source": "script",
+    "createdAt": "2026-04-21T02:14:31.647Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.231.4.85",
+      "city": "Imbituba",
+      "region": "Santa Catarina",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
