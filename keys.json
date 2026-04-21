@@ -16560,5 +16560,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CBC406-45DAD2-7E2C8D": {
+    "expires": "2026-04-22T12:46:12.674Z",
+    "hwid": null,
+    "browserHwid": "BR-4F3C9952-29I1I",
+    "username": "player_hoki14",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-21T12:46:13.342Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.237.51",
+      "city": "Tempursari Wetan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
