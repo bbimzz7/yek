@@ -16303,5 +16303,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DCB44B-829A06-9C6B21": {
+    "expires": "2026-04-22T06:07:25.761Z",
+    "hwid": null,
+    "browserHwid": "BR-5553BD02-M7ZDS",
+    "username": "AKUNPERCOBAAN_RIKO",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-21T06:07:26.316Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.36.55",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
