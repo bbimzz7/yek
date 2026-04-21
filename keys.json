@@ -16353,8 +16353,15 @@
     "userId": "10799854848",
     "source": "script",
     "createdAt": "2026-04-21T06:47:19.251Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-21T06:48:34.661Z",
     "geo": {
+      "ip": "38.226.155.237",
+      "city": "Huánuco",
+      "region": "Huánuco Department",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
       "ip": "38.226.155.237",
       "city": "Huánuco",
       "region": "Huánuco Department",
