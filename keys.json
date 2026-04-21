@@ -16899,5 +16899,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-C90828-BCC6D5-315961": {
+    "expires": "2026-04-22T23:00:10.414Z",
+    "hwid": "5408944493-c11d703b-bb6f-4dd2-afbc-166fc80b6278",
+    "browserHwid": null,
+    "username": "BCDEFG28",
+    "userId": "5408944493",
+    "source": "script",
+    "createdAt": "2026-04-21T23:00:10.977Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.150.65.151",
+      "city": "Swarthmore",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
