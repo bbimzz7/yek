@@ -16536,5 +16536,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B69526-9583CF-9E5E10": {
+    "expires": "2026-04-22T11:27:37.490Z",
+    "hwid": "10739763688-17486301-9301-4b7a-a7b5-6a27e061ebbb",
+    "browserHwid": null,
+    "username": "Fadilx31",
+    "userId": "10739763688",
+    "source": "script",
+    "createdAt": "2026-04-21T11:27:38.055Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.174.122.219",
+      "city": "Sumedang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
