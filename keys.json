@@ -16263,7 +16263,7 @@
     "userId": "9481106221",
     "source": "browser",
     "createdAt": "2026-04-21T04:20:25.765Z",
-    "lastUsed": "2026-04-21T04:21:49.253Z",
+    "lastUsed": "2026-04-21T15:48:20.050Z",
     "geo": {
       "ip": "190.83.119.5",
       "city": "Guatemala City",
@@ -16273,7 +16273,7 @@
     },
     "boundAt": "2026-04-21T04:21:49.245Z",
     "lastGeo": {
-      "ip": "190.83.119.5",
+      "ip": "190.83.119.27",
       "city": "Guatemala City",
       "region": "Guatemala",
       "country": "Guatemala",
