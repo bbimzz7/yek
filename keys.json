@@ -16860,8 +16860,15 @@
     "userId": "9389887089",
     "source": "script",
     "createdAt": "2026-04-21T20:41:02.232Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-21T20:41:50.131Z",
     "geo": {
+      "ip": "157.66.50.115",
+      "city": "Rengasdengklok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.66.50.115",
       "city": "Rengasdengklok",
       "region": "West Java",
