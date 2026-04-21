@@ -16512,5 +16512,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-69240A-A90734-0C4277": {
+    "expires": "2026-04-22T10:58:22.224Z",
+    "hwid": "10828246208-f58b50bb-054e-4393-87d5-7c0137f2b7e7",
+    "browserHwid": null,
+    "username": "c00lkidd_12504",
+    "userId": "10828246208",
+    "source": "script",
+    "createdAt": "2026-04-21T10:58:22.768Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.169.132.94",
+      "city": "Cikampek",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
