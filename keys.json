@@ -16778,5 +16778,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-E9E6CA-2ECE93-770AF4": {
+    "expires": "2026-04-22T18:44:00.532Z",
+    "hwid": "8695056391-c00c3336-dafe-455a-8e64-c0acf1febab1",
+    "browserHwid": null,
+    "username": "VhilzZunZhe",
+    "userId": "8695056391",
+    "source": "script",
+    "createdAt": "2026-04-21T18:44:01.015Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.135.211",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
