@@ -16545,10 +16545,17 @@
     "userId": "10739763688",
     "source": "script",
     "createdAt": "2026-04-21T11:27:38.055Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-21T11:27:46.117Z",
     "geo": {
       "ip": "103.174.122.219",
       "city": "Sumedang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "125.163.74.9",
+      "city": "Gunungbatu",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
