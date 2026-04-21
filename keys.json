@@ -16585,5 +16585,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-545912-DB04EB-CCB7AF": {
+    "expires": "2026-04-22T13:02:52.851Z",
+    "hwid": "8941323078-a90cca24-9fa8-41d0-a133-a7d9e006c441",
+    "browserHwid": null,
+    "username": "Krautkiller_19",
+    "userId": "8941323078",
+    "source": "script",
+    "createdAt": "2026-04-21T13:02:53.493Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.120.39",
+      "city": "Tarlac City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
