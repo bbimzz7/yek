@@ -16690,8 +16690,15 @@
     "userId": "1812255238",
     "source": "script",
     "createdAt": "2026-04-21T15:09:26.445Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-21T15:09:48.055Z",
     "geo": {
+      "ip": "189.201.10.85",
+      "city": "Gustavo Adolfo Madero",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.201.10.85",
       "city": "Gustavo Adolfo Madero",
       "region": "Mexico City",
