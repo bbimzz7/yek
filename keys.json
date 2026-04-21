@@ -16344,5 +16344,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-B580D9-487F06-A11792": {
+    "expires": "2026-04-22T06:47:18.958Z",
+    "hwid": "10799854848-bad2549f-053f-4195-bbe6-daf6135340cc",
+    "browserHwid": null,
+    "username": "TEMCAMILA15",
+    "userId": "10799854848",
+    "source": "script",
+    "createdAt": "2026-04-21T06:47:19.251Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.226.155.237",
+      "city": "Huánuco",
+      "region": "Huánuco Department",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
