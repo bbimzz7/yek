@@ -16995,5 +16995,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-9194BF-ECE619-FD65EE": {
+    "expires": "2026-04-23T03:28:10.449Z",
+    "hwid": "9664549697-1b6a3312-78b2-4641-aec3-154a48a92c2f",
+    "browserHwid": null,
+    "username": "xXJUANXx7w72",
+    "userId": "9664549697",
+    "source": "script",
+    "createdAt": "2026-04-22T03:28:10.990Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.183.114.27",
+      "city": "Valencia",
+      "region": "Carabobo",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
