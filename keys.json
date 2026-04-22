@@ -17470,10 +17470,17 @@
     "userId": "3355134327",
     "source": "script",
     "createdAt": "2026-04-22T14:41:18.900Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-22T14:41:32.594Z",
     "geo": {
       "ip": "222.127.63.208",
       "city": "Lahug",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "180.191.231.139",
+      "city": "Mandaue City",
       "region": "Central Visayas",
       "country": "Philippines",
       "cc": "PH"
