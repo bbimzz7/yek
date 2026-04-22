@@ -17300,5 +17300,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-34CDD9-B06327-BDF855": {
+    "expires": "2026-04-23T10:57:52.204Z",
+    "hwid": "10831665401-17e4ac6d-3a63-4ec5-a685-a81c0e8d271d",
+    "browserHwid": null,
+    "username": "italianma97",
+    "userId": "10831665401",
+    "source": "script",
+    "createdAt": "2026-04-22T10:57:52.729Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.36.9.61",
+      "city": "Kota Serang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
