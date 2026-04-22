@@ -17461,5 +17461,22 @@
       "country": "Uruguay",
       "cc": "UY"
     }
+  },
+  "VH-4D8661-ED2B1A-15E0EA": {
+    "expires": "2026-04-23T14:41:18.318Z",
+    "hwid": "3355134327-e507b76e-59ca-401b-86b2-1487dae9bb3b",
+    "browserHwid": null,
+    "username": "rovelynv1234",
+    "userId": "3355134327",
+    "source": "script",
+    "createdAt": "2026-04-22T14:41:18.900Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "222.127.63.208",
+      "city": "Lahug",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
