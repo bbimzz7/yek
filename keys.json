@@ -17132,5 +17132,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9B0046-34F9A7-87C7EE": {
+    "expires": "2026-04-23T08:07:58.239Z",
+    "hwid": "10197670803-9dbdf505-e17b-4ef6-9e04-2a8151137a61",
+    "browserHwid": null,
+    "username": "999ExxonMobil",
+    "userId": "10197670803",
+    "source": "script",
+    "createdAt": "2026-04-22T08:07:58.740Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "223.185.35.108",
+      "city": "Kolkata",
+      "region": "West Bengal",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
