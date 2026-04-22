@@ -17060,5 +17060,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-064FC5-E2F9F0-0840C8": {
+    "expires": "2026-04-23T05:08:59.743Z",
+    "hwid": "8520670799-cb038c3b-11a3-4d66-9cb3-0e6d582ac7f2",
+    "browserHwid": null,
+    "username": "Fanzy_kamek",
+    "userId": "8520670799",
+    "source": "script",
+    "createdAt": "2026-04-22T05:09:00.277Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.132.53.81",
+      "city": "Banjarnegara",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
