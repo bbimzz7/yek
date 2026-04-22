@@ -16956,8 +16956,15 @@
     "userId": "10532000812",
     "source": "script",
     "createdAt": "2026-04-22T01:04:41.339Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-22T01:05:26.630Z",
     "geo": {
+      "ip": "76.139.147.82",
+      "city": "Detroit",
+      "region": "Michigan",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "76.139.147.82",
       "city": "Detroit",
       "region": "Michigan",
