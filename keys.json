@@ -17228,5 +17228,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6F66D1-B24704-D62194": {
+    "expires": "2026-04-23T09:01:47.652Z",
+    "hwid": "10850568402-65208FF6-D941-4EB9-950A-866FB7138BDA",
+    "browserHwid": null,
+    "username": "HaeJo868",
+    "userId": "10850568402",
+    "source": "script",
+    "createdAt": "2026-04-22T09:01:48.163Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.173.102.55",
+      "city": "Béthisy-Saint-Pierre",
+      "region": "Hauts-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
