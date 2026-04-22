@@ -16947,5 +16947,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-72F930-8BEADE-629A8C": {
+    "expires": "2026-04-23T01:04:40.788Z",
+    "hwid": "10532000812-04728ed6-b048-4d7e-91d5-afaa173f105b",
+    "browserHwid": null,
+    "username": "Imthatbatmen",
+    "userId": "10532000812",
+    "source": "script",
+    "createdAt": "2026-04-22T01:04:41.339Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.139.147.82",
+      "city": "Detroit",
+      "region": "Michigan",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
