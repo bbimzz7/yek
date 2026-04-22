@@ -17019,5 +17019,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-F46CCB-8E76A2-CA51A8": {
+    "expires": "2026-04-23T03:40:22.500Z",
+    "hwid": "8616581653-a83fdd2f-3837-4220-82ca-8baa1a5f2513",
+    "browserHwid": null,
+    "username": "BARDILO4585",
+    "userId": "8616581653",
+    "source": "script",
+    "createdAt": "2026-04-22T03:40:22.995Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "122.52.70.79",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
