@@ -17252,5 +17252,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-E4D06E-2FF1CB-B1EBD3": {
+    "expires": "2026-04-23T09:12:38.424Z",
+    "hwid": "7769227682-69767EDC-29D1-4FB7-A5AC-8577250ACFBE",
+    "browserHwid": null,
+    "username": "luckyaccount5752",
+    "userId": "7769227682",
+    "source": "script",
+    "createdAt": "2026-04-22T09:12:38.984Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.192.215.85",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
