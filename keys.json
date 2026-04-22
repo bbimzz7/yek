@@ -17446,8 +17446,15 @@
     "userId": "4773991491",
     "source": "script",
     "createdAt": "2026-04-22T14:17:46.131Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-22T14:17:55.638Z",
     "geo": {
+      "ip": "186.49.248.187",
+      "city": "Montevideo",
+      "region": "Montevideo Department",
+      "country": "Uruguay",
+      "cc": "UY"
+    },
+    "lastGeo": {
       "ip": "186.49.248.187",
       "city": "Montevideo",
       "region": "Montevideo Department",
