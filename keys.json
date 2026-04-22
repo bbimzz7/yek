@@ -17686,13 +17686,20 @@
     "userId": "8770471780",
     "source": "script",
     "createdAt": "2026-04-22T21:00:25.499Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-22T21:00:41.832Z",
     "geo": {
       "ip": "114.10.70.231",
       "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.38.200.84",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
