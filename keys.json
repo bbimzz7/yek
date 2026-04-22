@@ -17180,5 +17180,22 @@
       "country": "Australia",
       "cc": "AU"
     }
+  },
+  "VH-E841AC-EA1B0E-B05253": {
+    "expires": "2026-04-23T08:28:38.494Z",
+    "hwid": "3648318216-9c2ba252-440f-4aa3-ab3e-d11d45c5dac7",
+    "browserHwid": null,
+    "username": "Reyhanvbgf",
+    "userId": "3648318216",
+    "source": "script",
+    "createdAt": "2026-04-22T08:28:38.840Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.74.207",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
