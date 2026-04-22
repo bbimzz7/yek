@@ -17533,5 +17533,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-F766D2-F1ECFA-B05BBC": {
+    "expires": "2026-04-23T16:41:29.710Z",
+    "hwid": "4006766804-74c7a196-a701-4f0a-aa4f-d40f40cbb39d",
+    "browserHwid": null,
+    "username": "player_hoki14",
+    "userId": "4006766804",
+    "source": "script",
+    "createdAt": "2026-04-22T16:41:30.224Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.163.38",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
