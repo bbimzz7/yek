@@ -17542,9 +17542,16 @@
     "userId": "4006766804",
     "source": "script",
     "createdAt": "2026-04-22T16:41:30.224Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-22T16:41:46.455Z",
     "geo": {
       "ip": "158.140.163.38",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "158.140.172.12",
       "city": "Malang",
       "region": "East Java",
       "country": "Indonesia",
