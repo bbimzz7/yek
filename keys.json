@@ -17509,5 +17509,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-AB4C8D-1BD414-E120C8": {
+    "expires": "2026-04-23T16:14:16.884Z",
+    "hwid": "10855265617-ada139a9-6b57-4f27-848e-5f3b0baf6b58",
+    "browserHwid": null,
+    "username": "THE_SERALI",
+    "userId": "10855265617",
+    "source": "script",
+    "createdAt": "2026-04-22T16:14:17.489Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.156.114.29",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
