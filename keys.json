@@ -17557,5 +17557,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F12FA1-4B6BDD-09D1A5": {
+    "expires": "2026-04-23T18:19:50.626Z",
+    "hwid": "8952985206-666aebf7-5370-4c8d-b0f9-feb3d3e18410",
+    "browserHwid": null,
+    "username": "PB3393",
+    "userId": "8952985206",
+    "source": "script",
+    "createdAt": "2026-04-22T18:19:51.141Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.235.206.126",
+      "city": "Toronto",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
