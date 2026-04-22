@@ -17518,8 +17518,15 @@
     "userId": "10855265617",
     "source": "script",
     "createdAt": "2026-04-22T16:14:17.489Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-22T16:16:38.290Z",
     "geo": {
+      "ip": "45.156.114.29",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "45.156.114.29",
       "city": "Almaty",
       "region": "Almaty",
