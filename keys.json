@@ -17069,8 +17069,15 @@
     "userId": "8520670799",
     "source": "script",
     "createdAt": "2026-04-22T05:09:00.277Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-22T05:30:46.195Z",
     "geo": {
+      "ip": "103.132.53.81",
+      "city": "Banjarnegara",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.132.53.81",
       "city": "Banjarnegara",
       "region": "Central Java",
