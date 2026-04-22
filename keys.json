@@ -17653,5 +17653,22 @@
       "country": "Bolivia",
       "cc": "BO"
     }
+  },
+  "VH-D55CFB-D3CDD4-7F9C86": {
+    "expires": "2026-04-23T20:14:20.720Z",
+    "hwid": "10498195626-b3cd7511-d44c-40bb-a5bb-bb7bcdf447d1",
+    "browserHwid": null,
+    "username": "MazZumaa_4B",
+    "userId": "10498195626",
+    "source": "script",
+    "createdAt": "2026-04-22T20:14:21.335Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.192.12.2",
+      "city": "Bulakamba",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
