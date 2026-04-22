@@ -16980,8 +16980,15 @@
     "userId": "10527384096",
     "source": "script",
     "createdAt": "2026-04-22T02:59:20.292Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-22T02:59:31.379Z",
     "geo": {
+      "ip": "129.222.112.213",
+      "city": "Winnipeg",
+      "region": "Manitoba",
+      "country": "Canada",
+      "cc": "CA"
+    },
+    "lastGeo": {
       "ip": "129.222.112.213",
       "city": "Winnipeg",
       "region": "Manitoba",
