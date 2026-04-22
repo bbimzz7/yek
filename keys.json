@@ -17437,5 +17437,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9C21EF-D0700F-3179A0": {
+    "expires": "2026-04-23T14:17:45.686Z",
+    "hwid": "4773991491-7457377e-8f85-431f-b4de-135ab750d1c1",
+    "browserHwid": null,
+    "username": "taylorsofia09321",
+    "userId": "4773991491",
+    "source": "script",
+    "createdAt": "2026-04-22T14:17:46.131Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.49.248.187",
+      "city": "Montevideo",
+      "region": "Montevideo Department",
+      "country": "Uruguay",
+      "cc": "UY"
+    }
   }
 }
