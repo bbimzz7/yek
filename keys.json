@@ -17028,8 +17028,15 @@
     "userId": "8616581653",
     "source": "script",
     "createdAt": "2026-04-22T03:40:22.995Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-22T03:42:04.979Z",
     "geo": {
+      "ip": "122.52.70.79",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "122.52.70.79",
       "city": "Quezon City",
       "region": "Metro Manila",
