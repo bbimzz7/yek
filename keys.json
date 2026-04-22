@@ -17566,13 +17566,20 @@
     "userId": "8952985206",
     "source": "script",
     "createdAt": "2026-04-22T18:19:51.141Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-22T18:20:03.654Z",
     "geo": {
       "ip": "168.235.206.126",
       "city": "Toronto",
       "region": "Ontario",
       "country": "Canada",
       "cc": "CA"
+    },
+    "lastGeo": {
+      "ip": "114.5.217.156",
+      "city": "Sukabumi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
     }
   }
 }
