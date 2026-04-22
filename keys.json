@@ -17422,7 +17422,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-04-22T14:16:07.381Z",
-    "lastUsed": "2026-04-22T14:29:02.528Z",
+    "lastUsed": "2026-04-22T14:39:32.323Z",
     "geo": {
       "ip": "140.213.0.74",
       "city": "Central Jakarta",
@@ -17431,8 +17431,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.13.122",
-      "city": "Central Jakarta",
+      "ip": "112.215.171.41",
+      "city": "East Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
