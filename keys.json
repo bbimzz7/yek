@@ -17638,8 +17638,15 @@
     "userId": "6066470689",
     "source": "script",
     "createdAt": "2026-04-22T19:33:49.069Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-22T19:34:01.637Z",
     "geo": {
+      "ip": "189.28.91.213",
+      "city": "La Paz",
+      "region": "La Paz Department",
+      "country": "Bolivia",
+      "cc": "BO"
+    },
+    "lastGeo": {
       "ip": "189.28.91.213",
       "city": "La Paz",
       "region": "La Paz Department",
