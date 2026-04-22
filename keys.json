@@ -17341,5 +17341,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-EBD400-FD72C0-611CC0": {
+    "expires": "2026-04-23T11:28:52.104Z",
+    "hwid": "9493914505-5a469d06-9f82-4468-9cfc-bc3df0b79284",
+    "browserHwid": null,
+    "username": "Candra_Mlyn26",
+    "userId": "9493914505",
+    "source": "script",
+    "createdAt": "2026-04-22T11:28:52.657Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.98.59",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
