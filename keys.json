@@ -18366,5 +18366,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-4F0FA9-5ABB98-068DEF": {
+    "expires": "2026-04-24T22:41:06.362Z",
+    "hwid": "9242894788-1DCA5BA7-EE43-487B-9926-05712E7036C2",
+    "browserHwid": null,
+    "username": "Kayeyee25",
+    "userId": "9242894788",
+    "source": "script",
+    "createdAt": "2026-04-23T22:41:06.891Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.94.57.216",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
