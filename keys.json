@@ -18111,8 +18111,15 @@
     "userId": "10850568402",
     "source": "script",
     "createdAt": "2026-04-23T10:57:20.815Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-23T10:57:29.871Z",
     "geo": {
+      "ip": "88.173.102.55",
+      "city": "Béthisy-Saint-Pierre",
+      "region": "Hauts-de-France",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "88.173.102.55",
       "city": "Béthisy-Saint-Pierre",
       "region": "Hauts-de-France",
