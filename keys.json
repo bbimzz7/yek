@@ -17830,8 +17830,15 @@
     "userId": "10805827026",
     "source": "script",
     "createdAt": "2026-04-23T03:50:36.024Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-23T03:51:58.049Z",
     "geo": {
+      "ip": "103.217.216.240",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.217.216.240",
       "city": "Bekasi",
       "region": "West Java",
