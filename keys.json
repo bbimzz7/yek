@@ -18342,5 +18342,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A3CBF1-BE50FF-CA6B57": {
+    "expires": "2026-04-24T21:21:44.329Z",
+    "hwid": "4295462831-4573f009-f18b-42b0-8ea2-8ce1a610bd61",
+    "browserHwid": null,
+    "username": "8eieieuudduudh3b3",
+    "userId": "4295462831",
+    "source": "script",
+    "createdAt": "2026-04-23T21:21:44.797Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.107.95.188",
+      "city": "Rio de Janeiro",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
