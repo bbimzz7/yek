@@ -18006,5 +18006,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-6DA21C-13611E-B27318": {
+    "expires": "2026-04-24T07:11:24.251Z",
+    "hwid": "7504181618-7A1E3F37-70E1-4A96-9F9B-2EAFEFB67CC9",
+    "browserHwid": null,
+    "username": "full0877",
+    "userId": "7504181618",
+    "source": "script",
+    "createdAt": "2026-04-23T07:11:24.580Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.116.238.76",
+      "city": "Daegu",
+      "region": "Daegu",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
