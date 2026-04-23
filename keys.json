@@ -17734,8 +17734,15 @@
     "userId": "7277182637",
     "source": "script",
     "createdAt": "2026-04-23T01:37:13.590Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-23T01:38:08.914Z",
     "geo": {
+      "ip": "58.10.225.22",
+      "city": "Khon Kaen",
+      "region": "Khon Kaen",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "58.10.225.22",
       "city": "Khon Kaen",
       "region": "Khon Kaen",
