@@ -18231,13 +18231,20 @@
     "userId": "9233613376",
     "source": "script",
     "createdAt": "2026-04-23T15:10:41.227Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-23T15:12:15.651Z",
     "geo": {
       "ip": "182.10.183.94",
       "city": "Bandung",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "82.38.200.2",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   },
   "VH-B52FBD-911F8B-6A5246": {
