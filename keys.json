@@ -18159,8 +18159,15 @@
     "userId": "10830887485",
     "source": "script",
     "createdAt": "2026-04-23T11:19:55.200Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-23T11:21:18.264Z",
     "geo": {
+      "ip": "180.253.127.26",
+      "city": "Kendari",
+      "region": "Southeast Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.253.127.26",
       "city": "Kendari",
       "region": "Southeast Sulawesi",
