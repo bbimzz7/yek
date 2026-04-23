@@ -17869,5 +17869,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0CCC6C-FE9FF4-968908": {
+    "expires": "2026-04-24T04:36:45.570Z",
+    "hwid": "9483786328-1f7c1b66-973e-4759-a19d-ccde11359348",
+    "browserHwid": null,
+    "username": "tabolabale231",
+    "userId": "9483786328",
+    "source": "script",
+    "createdAt": "2026-04-23T04:36:46.088Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.136.2.138",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
