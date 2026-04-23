@@ -17982,5 +17982,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C2BBD5-D4F396-79E087": {
+    "expires": "2026-04-24T07:10:30.879Z",
+    "hwid": "1467980970-1D19F6AF-BFE6-4E62-8B47-989990CAC2A6",
+    "browserHwid": null,
+    "username": "Glodex228",
+    "userId": "1467980970",
+    "source": "script",
+    "createdAt": "2026-04-23T07:10:31.445Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.36.35.183",
+      "city": "Moscow",
+      "region": "Moscow",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
