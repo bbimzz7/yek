@@ -17806,8 +17806,15 @@
     "userId": "10749505206",
     "source": "script",
     "createdAt": "2026-04-23T03:21:55.753Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-23T03:22:02.775Z",
     "geo": {
+      "ip": "124.181.20.245",
+      "city": "Adelaide",
+      "region": "South Australia",
+      "country": "Australia",
+      "cc": "AU"
+    },
+    "lastGeo": {
       "ip": "124.181.20.245",
       "city": "Adelaide",
       "region": "South Australia",
