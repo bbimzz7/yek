@@ -17943,8 +17943,15 @@
     "userId": "10845651430",
     "source": "script",
     "createdAt": "2026-04-23T05:50:30.752Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-23T05:57:22.493Z",
     "geo": {
+      "ip": "125.164.34.254",
+      "city": "Timukpeken",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.164.34.254",
       "city": "Timukpeken",
       "region": "West Nusa Tenggara",
