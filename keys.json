@@ -17797,5 +17797,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E78852-DD4AC2-B60B4A": {
+    "expires": "2026-04-24T03:21:55.236Z",
+    "hwid": "10749505206-3227E2E0-C056-4888-8B2B-53FB502D1F42",
+    "browserHwid": null,
+    "username": "Noahandkauriarebang",
+    "userId": "10749505206",
+    "source": "script",
+    "createdAt": "2026-04-23T03:21:55.753Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.181.20.245",
+      "city": "Adelaide",
+      "region": "South Australia",
+      "country": "Australia",
+      "cc": "AU"
+    }
   }
 }
