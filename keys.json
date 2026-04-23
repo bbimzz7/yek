@@ -18150,5 +18150,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-FEAF53-51C035-C19290": {
+    "expires": "2026-04-24T11:19:54.642Z",
+    "hwid": "10830887485-222b1a5b-c4f6-4a98-8ba1-a79fc8707ce0",
+    "browserHwid": null,
+    "username": "yawrent",
+    "userId": "10830887485",
+    "source": "script",
+    "createdAt": "2026-04-23T11:19:55.200Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.253.127.26",
+      "city": "Kendari",
+      "region": "Southeast Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
