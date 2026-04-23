@@ -18375,10 +18375,17 @@
     "userId": "9242894788",
     "source": "script",
     "createdAt": "2026-04-23T22:41:06.891Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-23T22:41:17.518Z",
     "geo": {
       "ip": "111.94.57.216",
       "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "111.94.75.224",
+      "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
