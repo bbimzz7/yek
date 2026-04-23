@@ -18087,8 +18087,15 @@
     "userId": "3024624574",
     "source": "script",
     "createdAt": "2026-04-23T10:26:18.136Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-23T10:26:29.299Z",
     "geo": {
+      "ip": "27.125.243.108",
+      "city": "Sungai Siput",
+      "region": "Perak",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "27.125.243.108",
       "city": "Sungai Siput",
       "region": "Perak",
