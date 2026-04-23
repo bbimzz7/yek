@@ -17893,5 +17893,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D1EF1B-0E2620-A0BE61": {
+    "expires": "2026-04-24T04:58:23.745Z",
+    "hwid": "7392250809-0a81f644-eafd-4ae9-ad6f-c46203b91687",
+    "browserHwid": null,
+    "username": "Alif_meme66",
+    "userId": "7392250809",
+    "source": "script",
+    "createdAt": "2026-04-23T04:58:24.295Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.5.198.227",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
