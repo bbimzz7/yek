@@ -18102,5 +18102,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-67FE25-1EE8AF-8045A4": {
+    "expires": "2026-04-24T10:57:20.261Z",
+    "hwid": "10850568402-65208FF6-D941-4EB9-950A-866FB7138BDA",
+    "browserHwid": null,
+    "username": "HaeJo868",
+    "userId": "10850568402",
+    "source": "script",
+    "createdAt": "2026-04-23T10:57:20.815Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.173.102.55",
+      "city": "Béthisy-Saint-Pierre",
+      "region": "Hauts-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
