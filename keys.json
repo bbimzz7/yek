@@ -17542,7 +17542,7 @@
     "userId": "4006766804",
     "source": "script",
     "createdAt": "2026-04-22T16:41:30.224Z",
-    "lastUsed": "2026-04-23T04:45:33.076Z",
+    "lastUsed": "2026-04-23T14:21:52.602Z",
     "geo": {
       "ip": "158.140.163.38",
       "city": "Malang",
@@ -17551,8 +17551,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.175.237.51",
-      "city": "Tempursari Wetan",
+      "ip": "158.140.163.38",
+      "city": "Malang",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
