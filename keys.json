@@ -17967,8 +17967,15 @@
     "userId": "8612535719",
     "source": "script",
     "createdAt": "2026-04-23T06:39:45.227Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-23T06:39:54.278Z",
     "geo": {
+      "ip": "103.247.21.204",
+      "city": "Cikarang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.247.21.204",
       "city": "Cikarang",
       "region": "West Java",
