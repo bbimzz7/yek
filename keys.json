@@ -17934,5 +17934,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-745152-5062FF-49899D": {
+    "expires": "2026-04-24T05:50:30.206Z",
+    "hwid": "10845651430-729aec5c-3a63-45b0-b5f6-49fa3ce493b1",
+    "browserHwid": null,
+    "username": "malzbud",
+    "userId": "10845651430",
+    "source": "script",
+    "createdAt": "2026-04-23T05:50:30.752Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.164.34.254",
+      "city": "Timukpeken",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
