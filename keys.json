@@ -18063,8 +18063,15 @@
     "userId": "10327980213",
     "source": "script",
     "createdAt": "2026-04-23T08:56:09.639Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-23T08:56:19.421Z",
     "geo": {
+      "ip": "103.124.197.62",
+      "city": "Batam",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.124.197.62",
       "city": "Batam",
       "region": "Riau",
