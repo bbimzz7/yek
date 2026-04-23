@@ -17749,5 +17749,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-EEA286-989B7A-7ABD98": {
+    "expires": "2026-04-24T03:07:11.568Z",
+    "hwid": "10826011546-8caf5220-a596-45ba-87f7-970113c8e271",
+    "browserHwid": null,
+    "username": "hahaha202691",
+    "userId": "10826011546",
+    "source": "script",
+    "createdAt": "2026-04-23T03:07:12.116Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "200.141.108.165",
+      "city": "Aracaju",
+      "region": "Sergipe",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
