@@ -18015,8 +18015,15 @@
     "userId": "7504181618",
     "source": "script",
     "createdAt": "2026-04-23T07:11:24.580Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-23T07:11:33.161Z",
     "geo": {
+      "ip": "39.116.238.76",
+      "city": "Daegu",
+      "region": "Daegu",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "lastGeo": {
       "ip": "39.116.238.76",
       "city": "Daegu",
       "region": "Daegu",
