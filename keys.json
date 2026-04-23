@@ -18126,5 +18126,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-7059C2-19982F-B56905": {
+    "expires": "2026-04-24T11:05:35.332Z",
+    "hwid": "7199134313-ebc73bf4-2478-4dfd-a75f-807d74aa089a",
+    "browserHwid": null,
+    "username": "osc4r_rxw",
+    "userId": "7199134313",
+    "source": "script",
+    "createdAt": "2026-04-23T11:05:35.915Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "129.222.161.229",
+      "city": "Mexico City",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
