@@ -17991,8 +17991,15 @@
     "userId": "1467980970",
     "source": "script",
     "createdAt": "2026-04-23T07:10:31.445Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-23T07:10:42.927Z",
     "geo": {
+      "ip": "92.36.35.183",
+      "city": "Moscow",
+      "region": "Moscow",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "92.36.35.183",
       "city": "Moscow",
       "region": "Moscow",
