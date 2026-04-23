@@ -18030,5 +18030,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-8653D5-1D8B4D-1D40A1": {
+    "expires": "2026-04-24T07:40:34.067Z",
+    "hwid": "9439740680-9f9cb122-f1c8-4bae-b962-3ad65807550b",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-04-23T07:40:34.651Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.20.38.62",
+      "city": "Indramayu",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
