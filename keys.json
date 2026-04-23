@@ -17773,5 +17773,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-B80911-0EA381-5E24D8": {
+    "expires": "2026-04-24T03:14:59.510Z",
+    "hwid": "10780005362-63c3cb0f-d0c1-43fe-b7d9-5626954c6277",
+    "browserHwid": null,
+    "username": "colybugarbugar4",
+    "userId": "10780005362",
+    "source": "script",
+    "createdAt": "2026-04-23T03:15:00.035Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.46.68.166",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
