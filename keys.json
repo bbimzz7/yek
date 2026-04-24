@@ -992,5 +992,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-8F2055-79E244-EE76FA": {
+    "expires": "2026-04-25T20:28:13.411Z",
+    "hwid": "5790256306-56EE8274-DCA5-46B5-AD87-A0A445F45D0C",
+    "browserHwid": null,
+    "username": "Munci479",
+    "userId": "5790256306",
+    "source": "script",
+    "createdAt": "2026-04-24T20:28:13.730Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.5.179.106",
+      "city": "Manaus",
+      "region": "Amazonas",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
