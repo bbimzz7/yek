@@ -944,5 +944,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-38B80C-81F018-4E11A0": {
+    "expires": "2026-04-25T20:07:09.884Z",
+    "hwid": "10073811755-aab5fac0-f623-4596-aa02-2b6f7c890538",
+    "browserHwid": null,
+    "username": "topitp0288",
+    "userId": "10073811755",
+    "source": "script",
+    "createdAt": "2026-04-24T20:07:10.263Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "149.88.27.156",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
+    }
   }
 }
