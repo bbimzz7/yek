@@ -18582,5 +18582,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D044FE-0061EC-808894": {
+    "expires": "2026-04-25T06:56:39.017Z",
+    "hwid": "5510341939-0e8d3ce7-9b40-4ebb-9f32-4d6957a7afcc",
+    "browserHwid": null,
+    "username": "MATEUS_KTX65",
+    "userId": "5510341939",
+    "source": "script",
+    "createdAt": "2026-04-24T06:56:39.556Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "143.137.163.3",
+      "city": "Manaus",
+      "region": "Amazonas",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
