@@ -1136,5 +1136,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-266753-5B6589-99442A": {
+    "expires": "2026-04-25T23:12:08.006Z",
+    "hwid": "10691546635-b0c23fa8-9ee2-4d28-840f-0e8dd887e339",
+    "browserHwid": null,
+    "username": "TERRIBLES070",
+    "userId": "10691546635",
+    "source": "script",
+    "createdAt": "2026-04-24T23:12:08.312Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "75.84.184.152",
+      "city": "Westminster",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
