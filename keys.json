@@ -19040,8 +19040,15 @@
     "userId": "8147389217",
     "source": "script",
     "createdAt": "2026-04-24T15:20:56.381Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-24T15:21:06.075Z",
     "geo": {
+      "ip": "36.73.188.92",
+      "city": "Banyuwangi",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.73.188.92",
       "city": "Banyuwangi",
       "region": "East Java",
