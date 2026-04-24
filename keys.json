@@ -19055,5 +19055,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B134D2-CA071B-13D760": {
+    "expires": "2026-04-25T15:25:10.079Z",
+    "hwid": "8635941579-72147198-ad02-4326-8753-0e1948791a23",
+    "browserHwid": null,
+    "username": "Dennis12345981",
+    "userId": "8635941579",
+    "source": "script",
+    "createdAt": "2026-04-24T15:25:10.687Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "84.1.139.86",
+      "city": "Detk",
+      "region": "Heves County",
+      "country": "Hungary",
+      "cc": "HU"
+    }
   }
 }
