@@ -896,5 +896,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DBB4B5-BCC1D3-C2BA9B": {
+    "expires": "2026-04-25T17:03:48.204Z",
+    "hwid": "10531141208-4c0b329d-0a94-44fb-b681-a728cfd374a6",
+    "browserHwid": null,
+    "username": "Tubers68938",
+    "userId": "10531141208",
+    "source": "script",
+    "createdAt": "2026-04-24T17:03:48.547Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.116.132",
+      "city": "North Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
