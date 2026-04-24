@@ -18414,5 +18414,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8EF8DB-4ABEEB-A008F4": {
+    "expires": "2026-04-25T01:50:38.295Z",
+    "hwid": "7380713324-903b92e9-dd31-4a5c-a00c-2e720e1841c3",
+    "browserHwid": null,
+    "username": "yamirprinces32",
+    "userId": "7380713324",
+    "source": "script",
+    "createdAt": "2026-04-24T01:50:38.813Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.6.103.58",
+      "city": "Santa",
+      "region": "Ancash",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
