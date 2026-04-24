@@ -1073,8 +1073,15 @@
     "userId": "9499822970",
     "source": "script",
     "createdAt": "2026-04-24T22:02:24.866Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-24T22:03:20.920Z",
     "geo": {
+      "ip": "201.215.15.194",
+      "city": "La Florida",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    },
+    "lastGeo": {
       "ip": "201.215.15.194",
       "city": "La Florida",
       "region": "Santiago Metropolitan",
