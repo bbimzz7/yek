@@ -881,8 +881,15 @@
     "userId": "7537463196",
     "source": "script",
     "createdAt": "2026-04-24T16:50:32.297Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-24T16:51:43.878Z",
     "geo": {
+      "ip": "161.49.227.37",
+      "city": "Capas",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "161.49.227.37",
       "city": "Capas",
       "region": "Central Luzon",
