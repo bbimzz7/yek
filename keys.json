@@ -1064,5 +1064,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DAD01A-95D380-5FFC86": {
+    "expires": "2026-04-25T22:02:24.503Z",
+    "hwid": "9499822970-beea7c78-9306-4c5b-a705-e9622457123a",
+    "browserHwid": null,
+    "username": "maxish_2030",
+    "userId": "9499822970",
+    "source": "script",
+    "createdAt": "2026-04-24T22:02:24.866Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.215.15.194",
+      "city": "La Florida",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
