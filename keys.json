@@ -18471,8 +18471,15 @@
     "userId": "5356267749",
     "source": "script",
     "createdAt": "2026-04-24T03:19:35.672Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-24T03:19:46.052Z",
     "geo": {
+      "ip": "36.73.33.212",
+      "city": "Purbalingga",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.73.33.212",
       "city": "Purbalingga",
       "region": "Central Java",
