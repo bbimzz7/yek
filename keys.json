@@ -1016,5 +1016,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-F7D5BA-219381-2A112C": {
+    "expires": "2026-04-25T20:34:59.292Z",
+    "hwid": "8633401070-08ddce98-8e06-471e-a9f3-295da78ad06b",
+    "browserHwid": null,
+    "username": "DeoanCrt",
+    "userId": "8633401070",
+    "source": "script",
+    "createdAt": "2026-04-24T20:34:59.722Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.132.41.184",
+      "city": "Wonosobo",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
