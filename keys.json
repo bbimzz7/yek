@@ -18750,5 +18750,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F18737-28DE70-388750": {
+    "expires": "2026-04-25T11:06:24.477Z",
+    "hwid": "3703234323-0afe5097-ea7f-41e5-bb54-ddb332b2313c",
+    "browserHwid": null,
+    "username": "CallMeOmyy",
+    "userId": "3703234323",
+    "source": "script",
+    "createdAt": "2026-04-24T11:06:25.051Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.2.235.93",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
