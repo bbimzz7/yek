@@ -18462,5 +18462,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-E5DEAA-54B862-0FCE56": {
+    "expires": "2026-04-25T03:19:35.212Z",
+    "hwid": "5356267749-c2d65622-854f-4e25-9168-7906883ea2c2",
+    "browserHwid": null,
+    "username": "Viscohy1",
+    "userId": "5356267749",
+    "source": "script",
+    "createdAt": "2026-04-24T03:19:35.672Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.33.212",
+      "city": "Purbalingga",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
