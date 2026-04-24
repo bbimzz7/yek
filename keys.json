@@ -18447,8 +18447,15 @@
     "userId": "561909577",
     "source": "script",
     "createdAt": "2026-04-24T02:12:13.404Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-24T02:12:21.778Z",
     "geo": {
+      "ip": "181.45.132.244",
+      "city": "San Justo",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "181.45.132.244",
       "city": "San Justo",
       "region": "Buenos Aires",
