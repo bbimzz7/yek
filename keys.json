@@ -18534,5 +18534,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-55ACAD-CD04B9-5BD51D": {
+    "expires": "2026-04-25T05:53:36.664Z",
+    "hwid": "10806435541-52db1271-aac6-49fe-b852-7effbf588c2c",
+    "browserHwid": null,
+    "username": "koncimo79",
+    "userId": "10806435541",
+    "source": "script",
+    "createdAt": "2026-04-24T05:53:36.969Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.97.137",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
