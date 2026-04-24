@@ -1112,5 +1112,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-BCF2D6-FFC4F3-3B47C0": {
+    "expires": "2026-04-25T22:49:30.066Z",
+    "hwid": "10803054073-83c8a447-8c95-4232-8f9f-85d3036e50e1",
+    "browserHwid": null,
+    "username": "davizoles97",
+    "userId": "10803054073",
+    "source": "script",
+    "createdAt": "2026-04-24T22:49:30.421Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.232.226.198",
+      "city": "Tupi Paulista",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
