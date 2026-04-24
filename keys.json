@@ -977,8 +977,15 @@
     "userId": "10365832935",
     "source": "script",
     "createdAt": "2026-04-24T20:07:26.385Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-24T20:12:06.234Z",
     "geo": {
+      "ip": "79.184.56.89",
+      "city": "Warsaw",
+      "region": "Mazovia",
+      "country": "Poland",
+      "cc": "PL"
+    },
+    "lastGeo": {
       "ip": "79.184.56.89",
       "city": "Warsaw",
       "region": "Mazovia",
