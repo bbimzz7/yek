@@ -18438,5 +18438,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-DD6052-D36997-A68CF5": {
+    "expires": "2026-04-25T02:12:12.851Z",
+    "hwid": "561909577-2C821939-C106-40D1-9ECA-465729D6127C",
+    "browserHwid": null,
+    "username": "lolomaniaco",
+    "userId": "561909577",
+    "source": "script",
+    "createdAt": "2026-04-24T02:12:13.404Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.45.132.244",
+      "city": "San Justo",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
