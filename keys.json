@@ -848,5 +848,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-EDBC6C-6E8011-842767": {
+    "expires": "2026-04-25T16:43:26.252Z",
+    "hwid": "7434748816-c83a2e31-04e5-40f3-94c1-b7aceac36584",
+    "browserHwid": null,
+    "username": "Jettsu8",
+    "userId": "7434748816",
+    "source": "script",
+    "createdAt": "2026-04-24T16:43:26.638Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.198.146.146",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
