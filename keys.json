@@ -18654,5 +18654,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AEEC8F-ABF5DE-060394": {
+    "expires": "2026-04-25T08:05:15.212Z",
+    "hwid": "3687693750-cd765877-3fe3-47a2-8c1c-70643a886dd1",
+    "browserHwid": null,
+    "username": "meowing_my",
+    "userId": "3687693750",
+    "source": "script",
+    "createdAt": "2026-04-24T08:05:15.750Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "64.226.78.225",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
