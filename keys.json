@@ -929,7 +929,7 @@
     "userId": "8040857848",
     "source": "script",
     "createdAt": "2026-04-24T17:36:56.866Z",
-    "lastUsed": "2026-04-24T17:37:48.265Z",
+    "lastUsed": "2026-04-24T19:22:22.041Z",
     "geo": {
       "ip": "114.125.205.111",
       "city": "Makassar",
@@ -938,9 +938,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "182.1.192.27",
-      "city": "Makassar",
-      "region": "South Sulawesi",
+      "ip": "36.85.204.156",
+      "city": "Manado",
+      "region": "North Sulawesi",
       "country": "Indonesia",
       "cc": "ID"
     }
