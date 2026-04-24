@@ -1001,9 +1001,16 @@
     "userId": "5790256306",
     "source": "script",
     "createdAt": "2026-04-24T20:28:13.730Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-24T20:28:22.216Z",
     "geo": {
       "ip": "45.5.179.106",
+      "city": "Manaus",
+      "region": "Amazonas",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
+      "ip": "45.5.179.104",
       "city": "Manaus",
       "region": "Amazonas",
       "country": "Brazil",
