@@ -18390,5 +18390,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3EFB8F-1E7C2A-8926EE": {
+    "expires": "2026-04-25T00:00:44.867Z",
+    "hwid": "6082106056-cb224433-f8e4-429a-bbf4-21a2d6322023",
+    "browserHwid": null,
+    "username": "anpu_2012",
+    "userId": "6082106056",
+    "source": "script",
+    "createdAt": "2026-04-24T00:00:45.421Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.130.117.50",
+      "city": "Wedoro",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
