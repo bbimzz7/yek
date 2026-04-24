@@ -18639,8 +18639,15 @@
     "userId": "9197715806",
     "source": "script",
     "createdAt": "2026-04-24T07:47:47.647Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-24T07:48:46.290Z",
     "geo": {
+      "ip": "103.39.49.98",
+      "city": "Majalengka",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.39.49.98",
       "city": "Majalengka",
       "region": "West Java",
