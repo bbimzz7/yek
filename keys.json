@@ -961,5 +961,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-5F176D-19DFD7-C5AA0B": {
+    "expires": "2026-04-25T20:07:26.144Z",
+    "hwid": "10365832935-68ba7833-d88b-48be-9261-1bb3307801e2",
+    "browserHwid": null,
+    "username": "nie_nie173",
+    "userId": "10365832935",
+    "source": "script",
+    "createdAt": "2026-04-24T20:07:26.385Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "79.184.56.89",
+      "city": "Warsaw",
+      "region": "Mazovia",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
