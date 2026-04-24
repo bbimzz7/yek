@@ -953,7 +953,7 @@
     "userId": "10073811755",
     "source": "script",
     "createdAt": "2026-04-24T20:07:10.263Z",
-    "lastUsed": "2026-04-24T20:08:45.266Z",
+    "lastUsed": "2026-04-24T20:14:58.954Z",
     "geo": {
       "ip": "149.88.27.156",
       "city": "Zurich",
@@ -962,11 +962,11 @@
       "cc": "CH"
     },
     "lastGeo": {
-      "ip": "149.88.27.156",
-      "city": "Zurich",
-      "region": "Zurich",
-      "country": "Switzerland",
-      "cc": "CH"
+      "ip": "169.150.218.24",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
     }
   },
   "VH-5F176D-19DFD7-C5AA0B": {
