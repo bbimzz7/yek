@@ -19031,5 +19031,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-ED18BE-90D5AB-61DDE7": {
+    "expires": "2026-04-25T15:20:55.830Z",
+    "hwid": "8147389217-ceff1649-9996-4576-a084-7aff3c10e8dc",
+    "browserHwid": null,
+    "username": "kocak_gamming9",
+    "userId": "8147389217",
+    "source": "script",
+    "createdAt": "2026-04-24T15:20:56.381Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.188.92",
+      "city": "Banyuwangi",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
