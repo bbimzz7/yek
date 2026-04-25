@@ -1352,5 +1352,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BED6D0-6637B3-617C18": {
+    "expires": "2026-04-26T04:22:44.006Z",
+    "hwid": "8660678202-6b310dbc-4c34-4eee-8eb5-43a13a513b68",
+    "browserHwid": null,
+    "username": "venderyee",
+    "userId": "8660678202",
+    "source": "script",
+    "createdAt": "2026-04-25T04:22:44.217Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.44.88",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
