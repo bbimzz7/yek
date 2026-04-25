@@ -1945,5 +1945,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-2B5D8C-8002CE-458E7D": {
+    "expires": "2026-04-26T14:31:00.297Z",
+    "hwid": "3046125440-33ec3ff9-2d04-4292-b2f7-dfffb9eaab15",
+    "browserHwid": null,
+    "username": "Hamzaafouda",
+    "userId": "3046125440",
+    "source": "script",
+    "createdAt": "2026-04-25T14:31:00.699Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "41.43.149.113",
+      "city": "Cairo",
+      "region": "Cairo Governorate",
+      "country": "Egypt",
+      "cc": "EG"
+    }
   }
 }
