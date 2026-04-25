@@ -1193,8 +1193,15 @@
     "userId": "9054316140",
     "source": "script",
     "createdAt": "2026-04-25T00:32:01.583Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T00:33:03.174Z",
     "geo": {
+      "ip": "181.177.217.239",
+      "city": "Georgetown",
+      "region": "Demerara-Mahaica",
+      "country": "Guyana",
+      "cc": "GY"
+    },
+    "lastGeo": {
       "ip": "181.177.217.239",
       "city": "Georgetown",
       "region": "Demerara-Mahaica",
