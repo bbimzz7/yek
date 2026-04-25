@@ -1664,5 +1664,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D4443C-C9CF62-A3436F": {
+    "expires": "2026-04-26T10:35:40.492Z",
+    "hwid": "10863539715-2ca8c759-1de7-4223-a319-35af12ad6e63",
+    "browserHwid": null,
+    "username": "Menesa_852",
+    "userId": "10863539715",
+    "source": "script",
+    "createdAt": "2026-04-25T10:35:40.775Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.107.56.65",
+      "city": "Roosendaal",
+      "region": "North Brabant",
+      "country": "The Netherlands",
+      "cc": "NL"
+    }
   }
 }
