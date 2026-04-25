@@ -2188,8 +2188,15 @@
     "userId": "8732525476",
     "source": "script",
     "createdAt": "2026-04-25T18:46:09.563Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T18:46:15.762Z",
     "geo": {
+      "ip": "71.62.133.184",
+      "city": "Powhatan",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "71.62.133.184",
       "city": "Powhatan",
       "region": "Virginia",
