@@ -2106,5 +2106,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-69D7B2-42F72B-9E0349": {
+    "expires": "2026-04-26T17:13:12.795Z",
+    "hwid": "8655759427-9efa91b0-dc3f-4008-aab1-06e56f04ae83",
+    "browserHwid": null,
+    "username": "SkyyRull1",
+    "userId": "8655759427",
+    "source": "script",
+    "createdAt": "2026-04-25T17:13:13.161Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.97.144",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
