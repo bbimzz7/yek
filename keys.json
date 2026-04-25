@@ -2236,8 +2236,15 @@
     "userId": "8576215565",
     "source": "script",
     "createdAt": "2026-04-25T21:21:40.344Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T21:22:59.878Z",
     "geo": {
+      "ip": "92.176.253.29",
+      "city": "Cornellà de Llobregat",
+      "region": "Catalonia",
+      "country": "Spain",
+      "cc": "ES"
+    },
+    "lastGeo": {
       "ip": "92.176.253.29",
       "city": "Cornellà de Llobregat",
       "region": "Catalonia",
