@@ -1328,5 +1328,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-A02E39-C7E1DB-B6DDA7": {
+    "expires": "2026-04-26T04:19:46.225Z",
+    "hwid": "8660678202-cdda3405-a925-4314-a187-a6b392055b17",
+    "browserHwid": null,
+    "username": "venderyee",
+    "userId": "8660678202",
+    "source": "script",
+    "createdAt": "2026-04-25T04:19:46.546Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.44.88",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
