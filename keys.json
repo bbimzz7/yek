@@ -1289,8 +1289,15 @@
     "userId": "8505468860",
     "source": "script",
     "createdAt": "2026-04-25T03:42:41.385Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T03:44:31.210Z",
     "geo": {
+      "ip": "177.232.90.245",
+      "city": "San Luis Potosí City",
+      "region": "San Luis Potosí",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "177.232.90.245",
       "city": "San Luis Potosí City",
       "region": "San Luis Potosí",
