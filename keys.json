@@ -1969,5 +1969,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-D1D139-BC1881-9FCF10": {
+    "expires": "2026-04-26T14:32:58.757Z",
+    "hwid": "10689883970-57eb1a11-f650-4bf4-8dce-fbdb809da7da",
+    "browserHwid": null,
+    "username": "Mimejoramigoyoniellu",
+    "userId": "10689883970",
+    "source": "script",
+    "createdAt": "2026-04-25T14:32:59.110Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.51.121.13",
+      "city": "Punto Fijo",
+      "region": "Falcón",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
