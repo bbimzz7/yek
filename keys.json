@@ -2017,5 +2017,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CD3414-9E8F19-54FFF9": {
+    "expires": "2026-04-26T15:07:44.388Z",
+    "hwid": "6230410431-244b9758-98ec-4866-95c0-21042af48bfe",
+    "browserHwid": null,
+    "username": "keysafut2",
+    "userId": "6230410431",
+    "source": "script",
+    "createdAt": "2026-04-25T15:07:44.763Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.57.247",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
