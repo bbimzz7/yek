@@ -2139,7 +2139,7 @@
     "userId": "3648318216",
     "source": "browser",
     "createdAt": "2026-04-25T17:53:10.829Z",
-    "lastUsed": "2026-04-25T23:25:33.607Z",
+    "lastUsed": "2026-04-25T23:36:39.598Z",
     "geo": {
       "ip": "103.191.165.126",
       "city": "Subang",
@@ -2149,8 +2149,8 @@
     },
     "boundAt": "2026-04-25T17:53:32.487Z",
     "lastGeo": {
-      "ip": "103.191.165.126",
-      "city": "Subang",
+      "ip": "114.122.73.12",
+      "city": "Bandung",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
