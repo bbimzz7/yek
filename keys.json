@@ -1832,5 +1832,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-270864-5728B9-1C3D0D": {
+    "expires": "2026-04-26T13:12:13.783Z",
+    "hwid": "9532335932-2e530f63-d293-4401-b64e-1b7df70b7601",
+    "browserHwid": null,
+    "username": "jovenn2024",
+    "userId": "9532335932",
+    "source": "script",
+    "createdAt": "2026-04-25T13:12:14.189Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.70.97",
+      "city": "Calamba",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
