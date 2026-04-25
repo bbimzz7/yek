@@ -2203,5 +2203,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-17714B-42A51D-E6595C": {
+    "expires": "2026-04-26T19:19:47.904Z",
+    "hwid": "7643665987-b0c23fa8-9ee2-4d28-840f-0e8dd887e339",
+    "browserHwid": null,
+    "username": "YourdoomedlilbroKenn",
+    "userId": "7643665987",
+    "source": "script",
+    "createdAt": "2026-04-25T19:19:48.238Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "75.84.184.152",
+      "city": "Westminster",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
