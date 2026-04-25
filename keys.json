@@ -1568,5 +1568,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-BFB85A-A0A327-D01538": {
+    "expires": "2026-04-26T07:57:16.270Z",
+    "hwid": "3899574477-de33ad3d-89d6-4e50-b811-0c3e515591e1",
+    "browserHwid": null,
+    "username": "nizi1015",
+    "userId": "3899574477",
+    "source": "script",
+    "createdAt": "2026-04-25T07:57:16.634Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "194.11.196.248",
+      "city": "Pontault-Combault",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
