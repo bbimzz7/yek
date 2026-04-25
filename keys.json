@@ -1241,8 +1241,15 @@
     "userId": "8418225441",
     "source": "script",
     "createdAt": "2026-04-25T02:07:18.711Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T02:07:36.768Z",
     "geo": {
+      "ip": "103.147.246.106",
+      "city": "Pasarkemis",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.147.246.106",
       "city": "Pasarkemis",
       "region": "West Java",
