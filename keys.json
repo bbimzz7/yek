@@ -1930,13 +1930,20 @@
     "userId": "8256412302",
     "source": "script",
     "createdAt": "2026-04-25T14:21:33.339Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T14:22:32.737Z",
     "geo": {
       "ip": "41.43.149.113",
       "city": "Cairo",
       "region": "Cairo Governorate",
       "country": "Egypt",
       "cc": "EG"
+    },
+    "lastGeo": {
+      "ip": "169.150.197.172",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
     }
   }
 }
