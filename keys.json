@@ -1505,8 +1505,15 @@
     "userId": "9899716419",
     "source": "script",
     "createdAt": "2026-04-25T06:38:41.277Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T06:38:52.111Z",
     "geo": {
+      "ip": "213.119.90.166",
+      "city": "Ieper",
+      "region": "Flanders",
+      "country": "Belgium",
+      "cc": "BE"
+    },
+    "lastGeo": {
       "ip": "213.119.90.166",
       "city": "Ieper",
       "region": "Flanders",
