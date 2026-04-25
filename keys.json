@@ -1993,5 +1993,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-9C4D62-20E549-EB12E0": {
+    "expires": "2026-04-26T14:39:13.726Z",
+    "hwid": "8484345484-2afb78b2-47d0-478d-b541-b97c080a76bb",
+    "browserHwid": null,
+    "username": "njii062",
+    "userId": "8484345484",
+    "source": "script",
+    "createdAt": "2026-04-25T14:39:14.066Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.190.46.0",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
