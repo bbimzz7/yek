@@ -1280,5 +1280,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4B9BF9-23F77D-DB7822": {
+    "expires": "2026-04-26T03:42:41.077Z",
+    "hwid": "8505468860-d86c7881-c3b8-4852-910b-5b9ba93a4407",
+    "browserHwid": null,
+    "username": "DLTtorrs",
+    "userId": "8505468860",
+    "source": "script",
+    "createdAt": "2026-04-25T03:42:41.385Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.232.90.245",
+      "city": "San Luis Potosí City",
+      "region": "San Luis Potosí",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
