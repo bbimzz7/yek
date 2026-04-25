@@ -1577,8 +1577,15 @@
     "userId": "3899574477",
     "source": "script",
     "createdAt": "2026-04-25T07:57:16.634Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T07:57:34.916Z",
     "geo": {
+      "ip": "194.11.196.248",
+      "city": "Pontault-Combault",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "194.11.196.248",
       "city": "Pontault-Combault",
       "region": "Île-de-France",
