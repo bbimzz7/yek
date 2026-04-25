@@ -1304,5 +1304,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-769989-B96D1D-56857B": {
+    "expires": "2026-04-26T03:57:17.658Z",
+    "hwid": "7699465605-7236ACF5-9C53-4CFA-A4B8-D7979D2FB984",
+    "browserHwid": null,
+    "username": "aurzell",
+    "userId": "7699465605",
+    "source": "script",
+    "createdAt": "2026-04-25T03:57:18.032Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "83.143.154.216",
+      "city": "Irkutsk",
+      "region": "Irkutsk Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
