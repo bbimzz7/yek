@@ -1865,8 +1865,15 @@
     "userId": "10845256283",
     "source": "script",
     "createdAt": "2026-04-25T13:27:42.274Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T13:28:06.321Z",
     "geo": {
+      "ip": "36.83.125.60",
+      "city": "Garut",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.83.125.60",
       "city": "Garut",
       "region": "West Java",
