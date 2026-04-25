@@ -2133,14 +2133,22 @@
   },
   "VH-41BD36-06D47E-855B5E": {
     "expires": "2026-04-26T17:53:10.508Z",
-    "hwid": null,
+    "hwid": "3648318216-9c2ba252-440f-4aa3-ab3e-d11d45c5dac7",
     "browserHwid": "BR-140AEA17-CCLUH",
     "username": "Reyhanvbgf",
-    "userId": null,
+    "userId": "3648318216",
     "source": "browser",
     "createdAt": "2026-04-25T17:53:10.829Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T17:53:32.509Z",
     "geo": {
+      "ip": "103.191.165.126",
+      "city": "Subang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-04-25T17:53:32.487Z",
+    "lastGeo": {
       "ip": "103.191.165.126",
       "city": "Subang",
       "region": "West Java",
