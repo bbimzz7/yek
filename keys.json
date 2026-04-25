@@ -1313,8 +1313,15 @@
     "userId": "7699465605",
     "source": "script",
     "createdAt": "2026-04-25T03:57:18.032Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T03:57:26.801Z",
     "geo": {
+      "ip": "83.143.154.216",
+      "city": "Irkutsk",
+      "region": "Irkutsk Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "83.143.154.216",
       "city": "Irkutsk",
       "region": "Irkutsk Oblast",
