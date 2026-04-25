@@ -1673,8 +1673,15 @@
     "userId": "10863539715",
     "source": "script",
     "createdAt": "2026-04-25T10:35:40.775Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T11:10:54.505Z",
     "geo": {
+      "ip": "185.107.56.65",
+      "city": "Roosendaal",
+      "region": "North Brabant",
+      "country": "The Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "185.107.56.65",
       "city": "Roosendaal",
       "region": "North Brabant",
