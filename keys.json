@@ -1640,5 +1640,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-B498C8-ABB04A-9E25EF": {
+    "expires": "2026-04-26T09:06:01.883Z",
+    "hwid": "9036002578-a6da927a-8028-4c53-ab2e-3c131c02f31b",
+    "browserHwid": null,
+    "username": "yoshi_aaa4",
+    "userId": "9036002578",
+    "source": "script",
+    "createdAt": "2026-04-25T09:06:02.238Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.42.243.156",
+      "city": "Pemalang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
