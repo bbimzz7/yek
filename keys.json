@@ -1553,8 +1553,15 @@
     "userId": "5756180469",
     "source": "script",
     "createdAt": "2026-04-25T07:18:16.442Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T07:18:24.030Z",
     "geo": {
+      "ip": "49.149.100.194",
+      "city": "Zamboanga City",
+      "region": "Zamboanga Peninsula",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "49.149.100.194",
       "city": "Zamboanga City",
       "region": "Zamboanga Peninsula",
