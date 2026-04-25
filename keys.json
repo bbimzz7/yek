@@ -1681,5 +1681,22 @@
       "country": "The Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-E3B697-FA8AA3-E149F2": {
+    "expires": "2026-04-26T10:51:16.721Z",
+    "hwid": "4892088755-E4A37321-FACD-43F1-A486-965CFD7098CC",
+    "browserHwid": null,
+    "username": "ThatPineappleDude1",
+    "userId": "4892088755",
+    "source": "script",
+    "createdAt": "2026-04-25T10:51:17.107Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "96.235.166.53",
+      "city": "Marlton",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
