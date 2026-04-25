@@ -2227,5 +2227,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-142FCE-4F7E01-E325D2": {
+    "expires": "2026-04-26T21:21:39.997Z",
+    "hwid": "8576215565-8cafe382-1bf8-4d8e-bd54-eb2c56cfeb59",
+    "browserHwid": null,
+    "username": "fer240688",
+    "userId": "8576215565",
+    "source": "script",
+    "createdAt": "2026-04-25T21:21:40.344Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.176.253.29",
+      "city": "Cornellà de Llobregat",
+      "region": "Catalonia",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
