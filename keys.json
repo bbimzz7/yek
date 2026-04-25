@@ -1736,5 +1736,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-35C9D6-4AA4C7-1E3CF2": {
+    "expires": "2026-04-26T12:19:40.726Z",
+    "hwid": "9940426235-5033c68b-c199-4dab-be68-53690bdeb140",
+    "browserHwid": null,
+    "username": "fegdj99",
+    "userId": "9940426235",
+    "source": "script",
+    "createdAt": "2026-04-25T12:19:41.086Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.165.156.188",
+      "city": "Jember",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
