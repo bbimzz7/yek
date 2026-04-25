@@ -1690,8 +1690,15 @@
     "userId": "4892088755",
     "source": "script",
     "createdAt": "2026-04-25T10:51:17.107Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T10:51:22.696Z",
     "geo": {
+      "ip": "96.235.166.53",
+      "city": "Marlton",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "96.235.166.53",
       "city": "Marlton",
       "region": "New Jersey",
