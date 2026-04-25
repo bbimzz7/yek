@@ -2050,8 +2050,15 @@
     "userId": "7679715577",
     "source": "script",
     "createdAt": "2026-04-25T15:09:23.036Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-25T15:09:34.292Z",
     "geo": {
+      "ip": "113.182.224.14",
+      "city": "Dĩ An",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "113.182.224.14",
       "city": "Dĩ An",
       "region": "Ho Chi Minh City (HCMC)",
