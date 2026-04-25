@@ -1921,5 +1921,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C91F91-A51DE5-869440": {
+    "expires": "2026-04-26T14:21:32.972Z",
+    "hwid": "8256412302-032aa55a-c95c-4e81-b9f2-86dc852d5f14",
+    "browserHwid": null,
+    "username": "hamzaafouda9",
+    "userId": "8256412302",
+    "source": "script",
+    "createdAt": "2026-04-25T14:21:33.339Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "41.43.149.113",
+      "city": "Cairo",
+      "region": "Cairo Governorate",
+      "country": "Egypt",
+      "cc": "EG"
+    }
   }
 }
