@@ -1856,5 +1856,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-BC7F30-94E70C-34AB0A": {
+    "expires": "2026-04-26T13:27:41.943Z",
+    "hwid": "10845256283-436632f9-4b8e-4018-ad21-37f34b48e197",
+    "browserHwid": null,
+    "username": "dyon_txt",
+    "userId": "10845256283",
+    "source": "script",
+    "createdAt": "2026-04-25T13:27:42.274Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.83.125.60",
+      "city": "Garut",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
