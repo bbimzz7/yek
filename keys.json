@@ -2179,5 +2179,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5F68A2-DDB593-BAF16C": {
+    "expires": "2026-04-26T18:46:09.207Z",
+    "hwid": "8732525476-F78477F6-A088-4963-93BD-58A9F0C02518",
+    "browserHwid": null,
+    "username": "davitlol122",
+    "userId": "8732525476",
+    "source": "script",
+    "createdAt": "2026-04-25T18:46:09.563Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "71.62.133.184",
+      "city": "Powhatan",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
