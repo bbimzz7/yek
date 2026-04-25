@@ -2089,5 +2089,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-1BDB47-126016-72CC83": {
+    "expires": "2026-04-26T16:47:54.089Z",
+    "hwid": "9269565221-3aebaf23-72a1-4dd7-8479-a415397df870",
+    "browserHwid": null,
+    "username": "kenobiss2",
+    "userId": "9269565221",
+    "source": "script",
+    "createdAt": "2026-04-25T16:47:54.287Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.133.213.56",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
