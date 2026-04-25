@@ -1712,5 +1712,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-4B1D37-E2AA75-808F17": {
+    "expires": "2026-04-26T11:24:09.100Z",
+    "hwid": "3668176310-7c16822a-3c8e-4342-ab44-b6397b564c33",
+    "browserHwid": null,
+    "username": "kr_ryomifan",
+    "userId": "3668176310",
+    "source": "script",
+    "createdAt": "2026-04-25T11:24:09.452Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "106.101.68.81",
+      "city": "Dongjak-gu",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
