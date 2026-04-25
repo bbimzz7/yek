@@ -1592,5 +1592,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-A1E79D-F8BE8C-DA1959": {
+    "expires": "2026-04-26T08:43:03.206Z",
+    "hwid": "8138844915-16537ca1-b8c6-4352-b363-98f446811e02",
+    "browserHwid": null,
+    "username": "Better_cookies1",
+    "userId": "8138844915",
+    "source": "script",
+    "createdAt": "2026-04-25T08:43:03.510Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.158.184.184",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
