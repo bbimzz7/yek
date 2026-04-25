@@ -1400,5 +1400,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9FDBAE-8BF6B1-66DDB8": {
+    "expires": "2026-04-26T04:50:56.596Z",
+    "hwid": "9578288245-480bfba4-3ef3-459f-b1e1-583590411506",
+    "browserHwid": null,
+    "username": "NeypoMj",
+    "userId": "9578288245",
+    "source": "script",
+    "createdAt": "2026-04-25T04:50:56.896Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.82.206",
+      "city": "Somba",
+      "region": "West Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
