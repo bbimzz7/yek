@@ -2564,5 +2564,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-374CFD-62A64B-64AE81": {
+    "expires": "2026-04-27T05:27:16.436Z",
+    "hwid": "10744945584-0F3586E3-6912-4DF8-B98A-8999F5D3F39A",
+    "browserHwid": null,
+    "username": "mangneuver",
+    "userId": "10744945584",
+    "source": "script",
+    "createdAt": "2026-04-26T05:27:16.749Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.83.45.99",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
