@@ -3053,8 +3053,15 @@
     "userId": "10093135068",
     "source": "script",
     "createdAt": "2026-04-26T14:00:21.910Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T14:00:27.301Z",
     "geo": {
+      "ip": "14.184.87.207",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "14.184.87.207",
       "city": "Ho Chi Minh City",
       "region": "Ho Chi Minh",
