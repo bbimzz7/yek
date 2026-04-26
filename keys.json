@@ -1793,7 +1793,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-04-25T12:34:37.257Z",
-    "lastUsed": "2026-04-26T10:36:59.365Z",
+    "lastUsed": "2026-04-26T11:17:29.412Z",
     "geo": {
       "ip": "125.163.92.247",
       "city": "Jakarta",
@@ -1802,8 +1802,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "112.215.170.50",
-      "city": "East Jakarta",
+      "ip": "140.213.11.60",
+      "city": "Central Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
