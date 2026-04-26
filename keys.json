@@ -2299,5 +2299,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2058C1-EF3714-594DBD": {
+    "expires": "2026-04-27T00:45:30.269Z",
+    "hwid": "8562929873-9c4bd43f-5f49-4e41-a476-9d91f0c42127",
+    "browserHwid": null,
+    "username": "HAs4n_zx2",
+    "userId": "8562929873",
+    "source": "script",
+    "createdAt": "2026-04-26T00:45:30.598Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.192.12.97",
+      "city": "Cikarang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
