@@ -3437,8 +3437,15 @@
     "userId": "9293967199",
     "source": "script",
     "createdAt": "2026-04-26T23:54:02.262Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T23:54:37.331Z",
     "geo": {
+      "ip": "73.28.0.72",
+      "city": "Fort Myers",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.28.0.72",
       "city": "Fort Myers",
       "region": "Florida",
