@@ -3332,5 +3332,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2C4AE8-08CE41-C85B85": {
+    "expires": "2026-04-27T19:17:50.043Z",
+    "hwid": "3640669303-578a79e2-a55a-40ad-a61e-8c7e84405e96",
+    "browserHwid": null,
+    "username": "Namgam86",
+    "userId": "3640669303",
+    "source": "script",
+    "createdAt": "2026-04-26T19:17:50.416Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.104.206",
+      "city": "Indianapolis",
+      "region": "Indiana",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
