@@ -3284,5 +3284,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FD09AE-699A8D-B65F70": {
+    "expires": "2026-04-27T18:27:00.505Z",
+    "hwid": "9987767333-29e0d9a6-cc1c-4fd1-b5d1-a2849fa24da0",
+    "browserHwid": null,
+    "username": "Leeboyflyer45",
+    "userId": "9987767333",
+    "source": "script",
+    "createdAt": "2026-04-26T18:27:00.939Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "169.255.23.55",
+      "city": "Beaufort West",
+      "region": "Western Cape",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
