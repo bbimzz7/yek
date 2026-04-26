@@ -3140,5 +3140,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-538864-E29609-AADF5A": {
+    "expires": "2026-04-27T15:00:24.752Z",
+    "hwid": "10873459778-3c859330-33e8-4480-b3c7-d4c685ec5370",
+    "browserHwid": null,
+    "username": "kshmmygoat",
+    "userId": "10873459778",
+    "source": "script",
+    "createdAt": "2026-04-26T15:00:25.146Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.67.92.78",
+      "city": "Fameck",
+      "region": "Grand Est",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
