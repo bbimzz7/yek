@@ -3188,5 +3188,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-761F37-3FF041-C3BE10": {
+    "expires": "2026-04-27T15:15:30.120Z",
+    "hwid": "3398541697-3c859330-33e8-4480-b3c7-d4c685ec5370",
+    "browserHwid": null,
+    "username": "inesvovo86565",
+    "userId": "3398541697",
+    "source": "script",
+    "createdAt": "2026-04-26T15:15:30.463Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.67.92.78",
+      "city": "Fameck",
+      "region": "Grand Est",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
