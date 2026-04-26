@@ -3308,5 +3308,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-33CFED-1666B7-F7B6FF": {
+    "expires": "2026-04-27T18:56:06.265Z",
+    "hwid": "10657022637-e2c525a0-38fc-4524-ba58-78deae3fc3bf",
+    "browserHwid": null,
+    "username": "Rez_starboy31",
+    "userId": "10657022637",
+    "source": "script",
+    "createdAt": "2026-04-26T18:56:06.671Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.161.236",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
