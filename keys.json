@@ -3197,8 +3197,15 @@
     "userId": "3398541697",
     "source": "script",
     "createdAt": "2026-04-26T15:15:30.463Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T15:16:30.210Z",
     "geo": {
+      "ip": "37.67.92.78",
+      "city": "Fameck",
+      "region": "Grand Est",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "37.67.92.78",
       "city": "Fameck",
       "region": "Grand Est",
