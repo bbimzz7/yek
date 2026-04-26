@@ -3116,5 +3116,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-682187-84B079-1C66EA": {
+    "expires": "2026-04-27T14:37:59.022Z",
+    "hwid": "9348705819-4e459b93-b1d0-4b1f-8340-f69493200f9c",
+    "browserHwid": null,
+    "username": "RB_THNA",
+    "userId": "9348705819",
+    "source": "script",
+    "createdAt": "2026-04-26T14:37:59.390Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.78.242.161",
+      "city": "Thủ Đức",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
