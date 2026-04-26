@@ -3428,5 +3428,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-0A98E8-EAD7A9-D239D8": {
+    "expires": "2026-04-27T23:54:01.904Z",
+    "hwid": "9293967199-aa662d0a-b811-4b0d-b080-c3de3b97cd5c",
+    "browserHwid": null,
+    "username": "Unknownsoul4886o5",
+    "userId": "9293967199",
+    "source": "script",
+    "createdAt": "2026-04-26T23:54:02.262Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.28.0.72",
+      "city": "Fort Myers",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
