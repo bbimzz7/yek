@@ -2612,5 +2612,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-7DF824-59447D-0FA325": {
+    "expires": "2026-04-27T07:27:45.915Z",
+    "hwid": "10108488053-4e029c2e-70f5-4dae-8db3-994f7d5225ee",
+    "browserHwid": null,
+    "username": "rexonaa312",
+    "userId": "10108488053",
+    "source": "script",
+    "createdAt": "2026-04-26T07:27:46.259Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.136.57.77",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
