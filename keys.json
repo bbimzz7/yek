@@ -3413,8 +3413,15 @@
     "userId": "10873276371",
     "source": "script",
     "createdAt": "2026-04-26T21:46:51.141Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T21:47:55.897Z",
     "geo": {
+      "ip": "201.17.157.72",
+      "city": "Belo Horizonte",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "201.17.157.72",
       "city": "Belo Horizonte",
       "region": "Minas Gerais",
