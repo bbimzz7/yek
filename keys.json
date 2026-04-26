@@ -2446,14 +2446,22 @@
   },
   "VH-4C3678-CE29BC-02419C": {
     "expires": "2026-04-27T04:11:41.611Z",
-    "hwid": null,
+    "hwid": "3149220187-04fc019d-ca7d-4fe8-baea-0b46db4091b2",
     "browserHwid": "BR-1BBDD964-RSNEY",
     "username": "DaGoat_meBoy",
-    "userId": null,
+    "userId": "3149220187",
     "source": "browser",
     "createdAt": "2026-04-26T04:11:41.970Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T04:12:28.645Z",
     "geo": {
+      "ip": "99.151.43.158",
+      "city": "Milton",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "boundAt": "2026-04-26T04:12:28.625Z",
+    "lastGeo": {
       "ip": "99.151.43.158",
       "city": "Milton",
       "region": "Florida",
