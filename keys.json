@@ -3020,5 +3020,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-864C46-B31414-A3DBAB": {
+    "expires": "2026-04-27T13:56:10.318Z",
+    "hwid": "6159376375-a7cdb524-2b21-47b8-985d-86e6a4e3e830",
+    "browserHwid": null,
+    "username": "ocarr00",
+    "userId": "6159376375",
+    "source": "script",
+    "createdAt": "2026-04-26T13:56:10.721Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.141.47.151",
+      "city": "Banjarbaru",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
