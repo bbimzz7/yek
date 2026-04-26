@@ -2404,8 +2404,15 @@
     "userId": "10469508370",
     "source": "script",
     "createdAt": "2026-04-26T02:50:48.125Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T02:51:02.845Z",
     "geo": {
+      "ip": "38.123.74.72",
+      "city": "Tlaquepaque",
+      "region": "Jalisco",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "38.123.74.72",
       "city": "Tlaquepaque",
       "region": "Jalisco",
