@@ -3068,5 +3068,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-371D12-2F1451-E7654B": {
+    "expires": "2026-04-27T14:01:50.011Z",
+    "hwid": "6179488854-fe7a363c-67b3-4908-9487-83f82fab5329",
+    "browserHwid": null,
+    "username": "ichikawa249",
+    "userId": "6179488854",
+    "source": "script",
+    "createdAt": "2026-04-26T14:01:50.201Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.47.223",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
