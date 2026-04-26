@@ -3389,8 +3389,15 @@
     "userId": "10691546635",
     "source": "script",
     "createdAt": "2026-04-26T21:28:56.835Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T21:29:15.684Z",
     "geo": {
+      "ip": "75.84.184.152",
+      "city": "Westminster",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "75.84.184.152",
       "city": "Westminster",
       "region": "California",
