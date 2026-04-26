@@ -2540,5 +2540,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-45CA6F-41E1EC-675A04": {
+    "expires": "2026-04-27T05:19:28.289Z",
+    "hwid": "3668176310-6e1c2ca7-b8aa-4d40-8e50-2bd5dc323ba1",
+    "browserHwid": null,
+    "username": "kr_ryomifan",
+    "userId": "3668176310",
+    "source": "script",
+    "createdAt": "2026-04-26T05:19:28.649Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "106.101.68.81",
+      "city": "Dongjak-gu",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
