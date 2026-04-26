@@ -3125,8 +3125,15 @@
     "userId": "9348705819",
     "source": "script",
     "createdAt": "2026-04-26T14:37:59.390Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T14:38:58.296Z",
     "geo": {
+      "ip": "27.78.242.161",
+      "city": "Thủ Đức",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "27.78.242.161",
       "city": "Thủ Đức",
       "region": "Ho Chi Minh",
