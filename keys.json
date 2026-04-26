@@ -2356,8 +2356,15 @@
     "userId": "8363898547",
     "source": "script",
     "createdAt": "2026-04-26T01:59:34.504Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T01:59:40.683Z",
     "geo": {
+      "ip": "179.6.55.231",
+      "city": "Cajamarca",
+      "region": "Cajamarca Department",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
       "ip": "179.6.55.231",
       "city": "Cajamarca",
       "region": "Cajamarca Department",
