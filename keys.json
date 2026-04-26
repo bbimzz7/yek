@@ -3404,5 +3404,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-EB61F0-8078C4-1067E9": {
+    "expires": "2026-04-27T21:46:50.782Z",
+    "hwid": "10873276371-d2e08bce-903f-49ef-b8e0-aa1315f9a1ca",
+    "browserHwid": null,
+    "username": "dsnxbdbxnxnznsbsbxn",
+    "userId": "10873276371",
+    "source": "script",
+    "createdAt": "2026-04-26T21:46:51.141Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.17.157.72",
+      "city": "Belo Horizonte",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
