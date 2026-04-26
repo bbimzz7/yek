@@ -2852,5 +2852,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-35CBD2-69D6BF-7DE58F": {
+    "expires": "2026-04-27T11:27:36.690Z",
+    "hwid": "8189662703-6EC58DFF-FFF4-4B1E-B606-DF282A0835F8",
+    "browserHwid": null,
+    "username": "rezaRazeNoir24",
+    "userId": "8189662703",
+    "source": "script",
+    "createdAt": "2026-04-26T11:27:36.879Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.162.192",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
