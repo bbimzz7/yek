@@ -2765,7 +2765,7 @@
     "userId": "3648318216",
     "source": "script",
     "createdAt": "2026-04-26T10:22:08.325Z",
-    "lastUsed": "2026-04-26T14:42:08.170Z",
+    "lastUsed": "2026-04-26T14:48:37.629Z",
     "geo": {
       "ip": "103.191.165.126",
       "city": "Subang",
@@ -2774,8 +2774,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.191.165.126",
-      "city": "Subang",
+      "ip": "114.122.114.224",
+      "city": "Bandung",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
