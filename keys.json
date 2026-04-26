@@ -2516,5 +2516,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-C25601-549381-91B983": {
+    "expires": "2026-04-27T05:17:44.630Z",
+    "hwid": "9094221608-c442eb9a-2294-4842-99e2-a6c4434f4980",
+    "browserHwid": null,
+    "username": "ZenKccW",
+    "userId": "9094221608",
+    "source": "script",
+    "createdAt": "2026-04-26T05:17:44.991Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.76.230",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
