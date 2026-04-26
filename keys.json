@@ -2684,5 +2684,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-2DFD53-FF1601-981913": {
+    "expires": "2026-04-27T09:05:57.210Z",
+    "hwid": "3687693750-cd765877-3fe3-47a2-8c1c-70643a886dd1",
+    "browserHwid": null,
+    "username": "meowing_my",
+    "userId": "3687693750",
+    "source": "script",
+    "createdAt": "2026-04-26T09:05:57.548Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.36.153.15",
+      "city": "Oral",
+      "region": "West Kazakhstan",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
