@@ -3029,8 +3029,15 @@
     "userId": "6159376375",
     "source": "script",
     "createdAt": "2026-04-26T13:56:10.721Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T13:56:23.824Z",
     "geo": {
+      "ip": "103.141.47.151",
+      "city": "Banjarbaru",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.141.47.151",
       "city": "Banjarbaru",
       "region": "South Kalimantan",
