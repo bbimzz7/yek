@@ -2708,5 +2708,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-21DC22-C03FC3-FC9A65": {
+    "expires": "2026-04-27T09:12:28.091Z",
+    "hwid": "10484201039-7abc92cb-e45d-4966-9574-8fb652843543",
+    "browserHwid": null,
+    "username": "Faris_ZxCvP",
+    "userId": "10484201039",
+    "source": "script",
+    "createdAt": "2026-04-26T09:12:28.463Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.178.57",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
