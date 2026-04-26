@@ -3212,5 +3212,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-F6A25E-D86A42-DCA6D2": {
+    "expires": "2026-04-27T15:41:02.533Z",
+    "hwid": "9416831935-855acb32-fbdb-465d-a9a3-2ac3ba06dfb2",
+    "browserHwid": null,
+    "username": "Rendoon6",
+    "userId": "9416831935",
+    "source": "script",
+    "createdAt": "2026-04-26T15:41:02.909Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.158.52.91",
+      "city": "Hermosillo",
+      "region": "Sonora",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
