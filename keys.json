@@ -3164,5 +3164,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-C9577D-5C6009-1E24A1": {
+    "expires": "2026-04-27T15:02:44.571Z",
+    "hwid": "4338207583-3b792fda-2531-4c93-9153-c5a1bacf5b44",
+    "browserHwid": null,
+    "username": "RizkSmile",
+    "userId": "4338207583",
+    "source": "script",
+    "createdAt": "2026-04-26T15:02:44.961Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.18.35.63",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
