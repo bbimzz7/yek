@@ -2837,8 +2837,15 @@
     "userId": "10872564847",
     "source": "script",
     "createdAt": "2026-04-26T11:24:16.206Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T11:24:29.480Z",
     "geo": {
+      "ip": "103.232.219.51",
+      "city": "Petaling Jaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "103.232.219.51",
       "city": "Petaling Jaya",
       "region": "Selangor",
