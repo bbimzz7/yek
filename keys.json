@@ -3221,8 +3221,15 @@
     "userId": "9416831935",
     "source": "script",
     "createdAt": "2026-04-26T15:41:02.909Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T15:46:38.179Z",
     "geo": {
+      "ip": "187.158.52.91",
+      "city": "Hermosillo",
+      "region": "Sonora",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.158.52.91",
       "city": "Hermosillo",
       "region": "Sonora",
