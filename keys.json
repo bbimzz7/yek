@@ -3077,8 +3077,15 @@
     "userId": "6179488854",
     "source": "script",
     "createdAt": "2026-04-26T14:01:50.201Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T14:02:02.852Z",
     "geo": {
+      "ip": "114.10.47.223",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.47.223",
       "city": "Surabaya",
       "region": "East Java",
