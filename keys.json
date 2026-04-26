@@ -2549,8 +2549,15 @@
     "userId": "3668176310",
     "source": "script",
     "createdAt": "2026-04-26T05:19:28.649Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T05:20:17.833Z",
     "geo": {
+      "ip": "106.101.68.81",
+      "city": "Dongjak-gu",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "lastGeo": {
       "ip": "106.101.68.81",
       "city": "Dongjak-gu",
       "region": "Seoul",
