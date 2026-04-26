@@ -2588,5 +2588,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-39222D-AEB94B-4D02A4": {
+    "expires": "2026-04-27T06:14:51.609Z",
+    "hwid": "8931633605-2B287C9D-74BF-46CF-A541-589541CCE89A",
+    "browserHwid": null,
+    "username": "Belezadg7",
+    "userId": "8931633605",
+    "source": "script",
+    "createdAt": "2026-04-26T06:14:51.954Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.118.45.91",
+      "city": "Lawrence",
+      "region": "Massachusetts",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
