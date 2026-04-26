@@ -2419,5 +2419,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-8B8B6D-441D32-675A1D": {
+    "expires": "2026-04-27T03:17:12.105Z",
+    "hwid": "10870956553-6e1c2ca7-b8aa-4d40-8e50-2bd5dc323ba1",
+    "browserHwid": null,
+    "username": "yunkm143268",
+    "userId": "10870956553",
+    "source": "script",
+    "createdAt": "2026-04-26T03:17:12.443Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "106.101.68.81",
+      "city": "Dongjak-gu",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
