@@ -3293,8 +3293,15 @@
     "userId": "9987767333",
     "source": "script",
     "createdAt": "2026-04-26T18:27:00.939Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T18:30:26.886Z",
     "geo": {
+      "ip": "169.255.23.55",
+      "city": "Beaufort West",
+      "region": "Western Cape",
+      "country": "South Africa",
+      "cc": "ZA"
+    },
+    "lastGeo": {
       "ip": "169.255.23.55",
       "city": "Beaufort West",
       "region": "Western Cape",
