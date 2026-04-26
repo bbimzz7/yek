@@ -3365,13 +3365,20 @@
     "userId": "10356939081",
     "source": "script",
     "createdAt": "2026-04-26T19:47:06.486Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T19:49:10.652Z",
     "geo": {
       "ip": "110.138.85.78",
       "city": "East Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "89.21.87.205",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
     }
   }
 }
