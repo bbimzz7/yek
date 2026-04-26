@@ -3452,5 +3452,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-95822E-D017DE-2F76D4": {
+    "expires": "2026-04-27T23:58:19.446Z",
+    "hwid": "10375374745-b15b742a-d2ce-49f1-9ea7-fccd2e04a323",
+    "browserHwid": null,
+    "username": "VallunaMontfleur",
+    "userId": "10375374745",
+    "source": "script",
+    "createdAt": "2026-04-26T23:58:19.637Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.197.245.71",
+      "city": "Belford Roxo",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
