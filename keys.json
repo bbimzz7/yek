@@ -3341,9 +3341,16 @@
     "userId": "3640669303",
     "source": "script",
     "createdAt": "2026-04-26T19:17:50.416Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-26T19:18:04.936Z",
     "geo": {
       "ip": "104.28.104.206",
+      "city": "Indianapolis",
+      "region": "Indiana",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
+      "ip": "99.91.144.85",
       "city": "Indianapolis",
       "region": "Indiana",
       "country": "United States",
