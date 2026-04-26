@@ -2371,5 +2371,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-8BEA82-E9DCAD-A79ACC": {
+    "expires": "2026-04-27T02:31:39.558Z",
+    "hwid": "5630850842-8cfff766-7734-4d63-8c7a-2e32d00dad40",
+    "browserHwid": null,
+    "username": "vynn503",
+    "userId": "5630850842",
+    "source": "script",
+    "createdAt": "2026-04-26T02:31:39.861Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.42.177",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
