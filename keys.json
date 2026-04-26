@@ -2395,5 +2395,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F77C4D-FEC588-5A3F3D": {
+    "expires": "2026-04-27T02:50:47.780Z",
+    "hwid": "10469508370-cccd4e62-6779-4c50-b225-24e6c9f5dbd9",
+    "browserHwid": null,
+    "username": "mantequilla_t4",
+    "userId": "10469508370",
+    "source": "script",
+    "createdAt": "2026-04-26T02:50:48.125Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.123.74.72",
+      "city": "Tlaquepaque",
+      "region": "Jalisco",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
