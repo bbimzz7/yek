@@ -2972,5 +2972,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-D53167-89CDBD-D4FD59": {
+    "expires": "2026-04-27T13:31:41.770Z",
+    "hwid": "9039785559-46c722ae-07bc-4174-a015-61b268e39095",
+    "browserHwid": null,
+    "username": "guestlukk",
+    "userId": "9039785559",
+    "source": "script",
+    "createdAt": "2026-04-26T13:31:42.141Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.75.239.211",
+      "city": "Puchong",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
