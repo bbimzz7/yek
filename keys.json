@@ -2492,5 +2492,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2BB63B-D6EF68-2628FD": {
+    "expires": "2026-04-27T05:09:56.732Z",
+    "hwid": "9481106221-45dbe5f9-4ec4-412b-a06a-993b1f372652",
+    "browserHwid": null,
+    "username": "jejique4",
+    "userId": "9481106221",
+    "source": "script",
+    "createdAt": "2026-04-26T05:09:57.061Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.83.119.46",
+      "city": "Guatemala City",
+      "region": "Guatemala",
+      "country": "Guatemala",
+      "cc": "GT"
+    }
   }
 }
