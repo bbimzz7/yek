@@ -4007,8 +4007,15 @@
     "userId": "502544677",
     "source": "script",
     "createdAt": "2026-04-27T11:42:52.377Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-27T11:42:59.682Z",
     "geo": {
+      "ip": "182.3.4.51",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.3.4.51",
       "city": "Banda Aceh",
       "region": "Aceh",
