@@ -3005,7 +3005,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-04-26T13:35:59.690Z",
-    "lastUsed": "2026-04-26T19:10:10.281Z",
+    "lastUsed": "2026-04-27T06:56:33.421Z",
     "geo": {
       "ip": "112.215.151.96",
       "city": "North Jakarta",
@@ -3014,9 +3014,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "160.20.38.118",
-      "city": "Indramayu",
-      "region": "West Java",
+      "ip": "125.163.92.247",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
