@@ -3854,5 +3854,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4A02D7-CD84FC-A0BA24": {
+    "expires": "2026-04-28T10:06:53.873Z",
+    "hwid": "7608787670-7C3BEB1C-648A-43F9-BA2E-7E951C4B5E15",
+    "browserHwid": null,
+    "username": "Robloxiann9c6y7d1f",
+    "userId": "7608787670",
+    "source": "script",
+    "createdAt": "2026-04-27T10:06:54.268Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "58.10.54.199",
+      "city": "Pattaya",
+      "region": "Chon Buri",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
