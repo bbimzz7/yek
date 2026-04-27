@@ -3582,8 +3582,15 @@
     "userId": "8807021729",
     "source": "script",
     "createdAt": "2026-04-27T02:15:52.629Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-27T02:16:00.774Z",
     "geo": {
+      "ip": "36.83.27.72",
+      "city": "Pelaihari",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.83.27.72",
       "city": "Pelaihari",
       "region": "South Kalimantan",
