@@ -3669,5 +3669,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F37E34-E88422-8068E0": {
+    "expires": "2026-04-28T05:17:03.463Z",
+    "hwid": null,
+    "browserHwid": "BR-10423E43-EADSO",
+    "username": "BR-10423E43-EADSO",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-27T05:17:03.851Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.242.51.2",
+      "city": "Marília",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
