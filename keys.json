@@ -4351,5 +4351,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-AA5389-1ED2CA-22E7FE": {
+    "expires": "2026-04-28T22:10:28.657Z",
+    "hwid": "9061540804-51366A59-2B06-4FCC-9C0B-11A38C866932",
+    "browserHwid": null,
+    "username": "bbgandroid",
+    "userId": "9061540804",
+    "source": "script",
+    "createdAt": "2026-04-27T22:10:28.874Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.170.52",
+      "city": "Tanjung Pandan",
+      "region": "Bangka–Belitung Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
