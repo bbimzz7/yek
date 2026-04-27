@@ -3476,5 +3476,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-7B808D-A31929-4372C5": {
+    "expires": "2026-04-28T01:29:01.921Z",
+    "hwid": "4393429362-99bc5a2a-658a-433e-aca3-4d95ba54c021",
+    "browserHwid": null,
+    "username": "GlaiveVessel",
+    "userId": "4393429362",
+    "source": "script",
+    "createdAt": "2026-04-27T01:29:02.300Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.148.1.55",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
