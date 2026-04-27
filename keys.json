@@ -3509,8 +3509,15 @@
     "userId": "7679715577",
     "source": "script",
     "createdAt": "2026-04-27T01:35:53.011Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-27T01:36:03.212Z",
     "geo": {
+      "ip": "115.73.35.127",
+      "city": "Rach Gia",
+      "region": "Kiên Giang Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "115.73.35.127",
       "city": "Rach Gia",
       "region": "Kiên Giang Province",
