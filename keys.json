@@ -4159,5 +4159,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-36E61E-41A38B-6BED04": {
+    "expires": "2026-04-28T16:11:19.515Z",
+    "hwid": "9274493784-71a8f71c-d355-47c2-bf12-ea49116f9942",
+    "browserHwid": null,
+    "username": "Velgrymm27",
+    "userId": "9274493784",
+    "source": "script",
+    "createdAt": "2026-04-27T16:11:19.823Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.156.16.94",
+      "city": "Palimanan",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
