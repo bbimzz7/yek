@@ -4094,5 +4094,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F4D4E4-3FE3EF-F38897": {
+    "expires": "2026-04-28T14:37:15.991Z",
+    "hwid": "7349313531-5360f069-49d8-49fb-9d8f-3d79adb12582",
+    "browserHwid": null,
+    "username": "JoaoVitor2024605",
+    "userId": "7349313531",
+    "source": "script",
+    "createdAt": "2026-04-27T14:37:16.552Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.190.211.104",
+      "city": "Fortaleza",
+      "region": "Ceará",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
