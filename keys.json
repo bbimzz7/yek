@@ -3500,5 +3500,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DD229E-3D6897-955F56": {
+    "expires": "2026-04-28T01:35:52.647Z",
+    "hwid": "7679715577-c9b570bc-e373-4e08-9b86-f1633cc21506",
+    "browserHwid": null,
+    "username": "kudai20cen",
+    "userId": "7679715577",
+    "source": "script",
+    "createdAt": "2026-04-27T01:35:53.011Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.73.35.127",
+      "city": "Rach Gia",
+      "region": "Kiên Giang Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
