@@ -3950,5 +3950,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-469788-E1EC17-EBBA61": {
+    "expires": "2026-04-28T11:09:17.813Z",
+    "hwid": "9000523600-6efda715-783f-421b-9bc6-2cecae4a96c7",
+    "browserHwid": null,
+    "username": "fazz5638",
+    "userId": "9000523600",
+    "source": "script",
+    "createdAt": "2026-04-27T11:09:18.264Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.4.135.250",
+      "city": "Sampuran",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
