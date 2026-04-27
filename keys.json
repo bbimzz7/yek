@@ -3527,14 +3527,22 @@
   },
   "VH-DA8463-F42DE4-94EA9E": {
     "expires": "2026-04-28T01:57:34.172Z",
-    "hwid": null,
+    "hwid": "5256137532-69BC2DDE-83C5-4918-8F4B-E60BCF1D2ED8",
     "browserHwid": "BR-387E7F86-8THWR",
     "username": "naty92056",
-    "userId": null,
+    "userId": "5256137532",
     "source": "browser",
     "createdAt": "2026-04-27T01:57:34.546Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-27T01:57:45.667Z",
     "geo": {
+      "ip": "66.7.164.226",
+      "city": "Slidell",
+      "region": "Louisiana",
+      "country": "United States",
+      "cc": "US"
+    },
+    "boundAt": "2026-04-27T01:57:45.647Z",
+    "lastGeo": {
       "ip": "66.7.164.226",
       "city": "Slidell",
       "region": "Louisiana",
