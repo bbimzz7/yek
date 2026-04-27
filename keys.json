@@ -3573,5 +3573,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F42C17-E65CCA-25FA5C": {
+    "expires": "2026-04-28T02:15:52.261Z",
+    "hwid": "8807021729-12767A78-D640-4047-85D1-22E259B8552E",
+    "browserHwid": null,
+    "username": "Wallout42P",
+    "userId": "8807021729",
+    "source": "script",
+    "createdAt": "2026-04-27T02:15:52.629Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.83.27.72",
+      "city": "Pelaihari",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
