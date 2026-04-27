@@ -3621,5 +3621,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-A7A405-BFE578-0C30E5": {
+    "expires": "2026-04-28T04:05:12.861Z",
+    "hwid": "10803054073-83c8a447-8c95-4232-8f9f-85d3036e50e1",
+    "browserHwid": null,
+    "username": "davizoles97",
+    "userId": "10803054073",
+    "source": "script",
+    "createdAt": "2026-04-27T04:05:13.277Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.242.51.2",
+      "city": "Marília",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
