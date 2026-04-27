@@ -3695,9 +3695,16 @@
     "userId": "10657032416",
     "source": "script",
     "createdAt": "2026-04-27T05:28:49.630Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-27T05:29:04.587Z",
     "geo": {
       "ip": "160.20.38.118",
+      "city": "Indramayu",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "160.20.38.62",
       "city": "Indramayu",
       "region": "West Java",
       "country": "Indonesia",
