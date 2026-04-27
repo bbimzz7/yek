@@ -3863,8 +3863,15 @@
     "userId": "7608787670",
     "source": "script",
     "createdAt": "2026-04-27T10:06:54.268Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-27T10:07:01.893Z",
     "geo": {
+      "ip": "58.10.54.199",
+      "city": "Pattaya",
+      "region": "Chon Buri",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "58.10.54.199",
       "city": "Pattaya",
       "region": "Chon Buri",
