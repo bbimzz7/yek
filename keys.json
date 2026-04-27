@@ -4279,5 +4279,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-027580-75490E-A3E7EE": {
+    "expires": "2026-04-28T20:09:14.907Z",
+    "hwid": "753522780-467aebe3-db5f-4803-a609-d07b85b57699",
+    "browserHwid": null,
+    "username": "imam_6",
+    "userId": "753522780",
+    "source": "script",
+    "createdAt": "2026-04-27T20:09:15.365Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.168.224",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
