@@ -3743,8 +3743,15 @@
     "userId": "10780271227",
     "source": "script",
     "createdAt": "2026-04-27T07:08:04.256Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-27T07:10:14.574Z",
     "geo": {
+      "ip": "157.20.207.29",
+      "city": "Kudus",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.20.207.29",
       "city": "Kudus",
       "region": "Central Java",
