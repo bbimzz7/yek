@@ -4192,8 +4192,15 @@
     "userId": "10875458609",
     "source": "script",
     "createdAt": "2026-04-27T17:45:21.148Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-27T17:45:54.569Z",
     "geo": {
+      "ip": "64.188.254.212",
+      "city": "Liberal",
+      "region": "Kansas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "64.188.254.212",
       "city": "Liberal",
       "region": "Kansas",
