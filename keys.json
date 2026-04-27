@@ -3630,8 +3630,15 @@
     "userId": "10803054073",
     "source": "script",
     "createdAt": "2026-04-27T04:05:13.277Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-27T04:05:21.566Z",
     "geo": {
+      "ip": "191.242.51.2",
+      "city": "Marília",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "191.242.51.2",
       "city": "Marília",
       "region": "São Paulo",
