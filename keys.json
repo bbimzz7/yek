@@ -4303,5 +4303,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-81222E-05B6A7-2A8B54": {
+    "expires": "2026-04-28T20:45:43.860Z",
+    "hwid": "10486928278-B91167F4-0F50-4B78-831E-91FA4E076B10",
+    "browserHwid": null,
+    "username": "wertix1100",
+    "userId": "10486928278",
+    "source": "script",
+    "createdAt": "2026-04-27T20:45:44.310Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "78.212.87.30",
+      "city": "Milano",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
