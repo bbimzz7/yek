@@ -3782,5 +3782,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-A4D415-4DE381-EB1FAC": {
+    "expires": "2026-04-28T08:40:04.666Z",
+    "hwid": "8172890203-d31de7af-2f4a-4687-a5a7-5bfc3b2e48bd",
+    "browserHwid": null,
+    "username": "Shb_503",
+    "userId": "8172890203",
+    "source": "script",
+    "createdAt": "2026-04-27T08:40:05.049Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.25.59.15",
+      "city": "Sidoarjo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
