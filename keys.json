@@ -4327,5 +4327,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-E92D18-609A43-DEA982": {
+    "expires": "2026-04-28T22:07:01.196Z",
+    "hwid": "7290914299-D734B825-AE3B-4337-BA75-DD386C800E04",
+    "browserHwid": null,
+    "username": "ujgfrt0",
+    "userId": "7290914299",
+    "source": "script",
+    "createdAt": "2026-04-27T22:07:01.638Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "109.252.123.245",
+      "city": "Moscow",
+      "region": "Moscow",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
