@@ -3597,5 +3597,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7463E0-1335BD-A83BB6": {
+    "expires": "2026-04-28T02:42:28.673Z",
+    "hwid": "8771398915-2f62a9a5-e97c-4125-bb86-350cd91bbdfc",
+    "browserHwid": null,
+    "username": "ippomakanaochi8734",
+    "userId": "8771398915",
+    "source": "script",
+    "createdAt": "2026-04-27T02:42:29.040Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.217.202.44",
+      "city": "Cuauhtémoc",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
