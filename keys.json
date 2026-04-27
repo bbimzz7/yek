@@ -3959,8 +3959,15 @@
     "userId": "9000523600",
     "source": "script",
     "createdAt": "2026-04-27T11:09:18.264Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-27T11:10:37.629Z",
     "geo": {
+      "ip": "103.4.135.250",
+      "city": "Sampuran",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.4.135.250",
       "city": "Sampuran",
       "region": "North Sumatra",
