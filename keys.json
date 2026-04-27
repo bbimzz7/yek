@@ -3606,8 +3606,15 @@
     "userId": "8771398915",
     "source": "script",
     "createdAt": "2026-04-27T02:42:29.040Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-27T02:43:27.051Z",
     "geo": {
+      "ip": "189.217.202.44",
+      "city": "Cuauhtémoc",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.217.202.44",
       "city": "Cuauhtémoc",
       "region": "Mexico City",
