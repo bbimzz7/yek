@@ -4360,8 +4360,15 @@
     "userId": "9061540804",
     "source": "script",
     "createdAt": "2026-04-27T22:10:28.874Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-27T22:10:37.280Z",
     "geo": {
+      "ip": "180.254.170.52",
+      "city": "Tanjung Pandan",
+      "region": "Bangka–Belitung Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.254.170.52",
       "city": "Tanjung Pandan",
       "region": "Bangka–Belitung Islands",
