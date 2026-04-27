@@ -3758,5 +3758,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-36E349-629253-D85600": {
+    "expires": "2026-04-28T08:01:18.019Z",
+    "hwid": "2388164346-b1898459-57da-43f1-9fe5-4a702d0cf8e6",
+    "browserHwid": null,
+    "username": "Britt2swaggyy",
+    "userId": "2388164346",
+    "source": "script",
+    "createdAt": "2026-04-27T08:01:18.463Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "72.132.147.7",
+      "city": "Banning",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
