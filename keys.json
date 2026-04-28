@@ -4536,5 +4536,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-083024-5754A9-E1E051": {
+    "expires": "2026-04-29T06:50:40.714Z",
+    "hwid": "10876881173-728d03e4-926c-4f03-b71f-b8163badf28a",
+    "browserHwid": null,
+    "username": "frjdkdjejje",
+    "userId": "10876881173",
+    "source": "script",
+    "createdAt": "2026-04-28T06:50:41.153Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.99.71.194",
+      "city": "Leuwibuleud",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
