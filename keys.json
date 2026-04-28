@@ -4408,8 +4408,15 @@
     "userId": "3437152028",
     "source": "script",
     "createdAt": "2026-04-28T00:03:45.370Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-28T00:03:51.882Z",
     "geo": {
+      "ip": "155.186.187.143",
+      "city": "Stockbridge",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "155.186.187.143",
       "city": "Stockbridge",
       "region": "Georgia",
