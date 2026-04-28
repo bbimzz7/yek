@@ -4545,8 +4545,15 @@
     "userId": "10876881173",
     "source": "script",
     "createdAt": "2026-04-28T06:50:41.153Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-28T06:51:30.814Z",
     "geo": {
+      "ip": "165.99.71.194",
+      "city": "Leuwibuleud",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "165.99.71.194",
       "city": "Leuwibuleud",
       "region": "Banten",
