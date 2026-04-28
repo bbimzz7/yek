@@ -4832,5 +4832,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-FD8205-FB9670-508351": {
+    "expires": "2026-04-29T12:46:59.444Z",
+    "hwid": "9004101729-e5539d94-c4de-4c26-aff7-2e09bcd38e52",
+    "browserHwid": null,
+    "username": "R_pan9",
+    "userId": "9004101729",
+    "source": "script",
+    "createdAt": "2026-04-28T12:46:59.894Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.249.155.76",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
