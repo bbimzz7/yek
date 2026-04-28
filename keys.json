@@ -4399,5 +4399,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-A33819-D41640-3A01BD": {
+    "expires": "2026-04-29T00:03:45.129Z",
+    "hwid": "3437152028-91426282-9AAE-47B8-BFE6-EC19188FA84F",
+    "browserHwid": null,
+    "username": "youarenonguy2",
+    "userId": "3437152028",
+    "source": "script",
+    "createdAt": "2026-04-28T00:03:45.370Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "155.186.187.143",
+      "city": "Stockbridge",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
