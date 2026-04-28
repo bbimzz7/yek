@@ -4976,5 +4976,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-5CA0EF-91FCC2-585C2E": {
+    "expires": "2026-04-29T22:07:03.060Z",
+    "hwid": "8303099626-298e2ee6-1eff-40ef-b330-33b5828a45f8",
+    "browserHwid": null,
+    "username": "GABRIELZINN389",
+    "userId": "8303099626",
+    "source": "script",
+    "createdAt": "2026-04-28T22:07:03.500Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.228.226.230",
+      "city": "João Pessoa",
+      "region": "Paraíba",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
