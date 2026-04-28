@@ -4528,8 +4528,15 @@
     "userId": "10680590485",
     "source": "script",
     "createdAt": "2026-04-28T06:45:58.220Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-28T10:29:35.977Z",
     "geo": {
+      "ip": "165.101.42.153",
+      "city": "Utan",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "165.101.42.153",
       "city": "Utan",
       "region": "Jakarta",
