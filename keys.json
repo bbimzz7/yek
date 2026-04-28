@@ -4760,5 +4760,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-F5C867-2DF87B-7BC5AA": {
+    "expires": "2026-04-29T10:52:56.474Z",
+    "hwid": "9036002578-a6da927a-8028-4c53-ab2e-3c131c02f31b",
+    "browserHwid": null,
+    "username": "yoshi_aaa4",
+    "userId": "9036002578",
+    "source": "script",
+    "createdAt": "2026-04-28T10:52:56.879Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.42.243.140",
+      "city": "Pemalang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
