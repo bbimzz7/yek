@@ -4680,5 +4680,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-879BF2-EB657E-65733A": {
+    "expires": "2026-04-29T09:35:45.446Z",
+    "hwid": "8457939930-9f1efcd5-57cc-4377-936d-291fa19c56e7",
+    "browserHwid": null,
+    "username": "arifbillah754",
+    "userId": "8457939930",
+    "source": "script",
+    "createdAt": "2026-04-28T09:35:45.918Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.164.38.129",
+      "city": "Taloko",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
