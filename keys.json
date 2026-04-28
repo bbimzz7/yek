@@ -4447,5 +4447,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-D586F2-564005-FA5ADA": {
+    "expires": "2026-04-29T02:02:05.050Z",
+    "hwid": "9439740680-242eaad3-b9ba-4845-8439-df06d888d520",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-04-28T02:02:05.437Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.163.92.247",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
