@@ -4985,8 +4985,15 @@
     "userId": "8303099626",
     "source": "script",
     "createdAt": "2026-04-28T22:07:03.500Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-28T22:08:58.179Z",
     "geo": {
+      "ip": "45.228.226.230",
+      "city": "João Pessoa",
+      "region": "Paraíba",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.228.226.230",
       "city": "João Pessoa",
       "region": "Paraíba",
