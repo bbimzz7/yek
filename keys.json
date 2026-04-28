@@ -4704,5 +4704,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D1763C-D5A8B0-0A7810": {
+    "expires": "2026-04-29T09:37:04.316Z",
+    "hwid": "10855265617-ada139a9-6b57-4f27-848e-5f3b0baf6b58",
+    "browserHwid": null,
+    "username": "THE_SERALI",
+    "userId": "10855265617",
+    "source": "script",
+    "createdAt": "2026-04-28T09:37:04.579Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.156.114.29",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
