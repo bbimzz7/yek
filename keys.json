@@ -4793,8 +4793,15 @@
     "userId": "10745764367",
     "source": "script",
     "createdAt": "2026-04-28T11:47:07.115Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-28T11:47:23.450Z",
     "geo": {
+      "ip": "125.163.92.247",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.163.92.247",
       "city": "Jakarta",
       "region": "Jakarta",
