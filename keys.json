@@ -4952,5 +4952,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EEBDEE-2E48A5-D984B6": {
+    "expires": "2026-04-29T16:59:48.596Z",
+    "hwid": "2911216756-0b72db27-0e26-41f1-9eaf-beb76beb345e",
+    "browserHwid": null,
+    "username": "el3oo3851",
+    "userId": "2911216756",
+    "source": "script",
+    "createdAt": "2026-04-28T16:59:49.054Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.70.105.166",
+      "city": "Paris",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
