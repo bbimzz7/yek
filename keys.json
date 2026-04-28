@@ -4728,5 +4728,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-9FB57F-C62DAC-8D6D72": {
+    "expires": "2026-04-29T10:04:50.861Z",
+    "hwid": null,
+    "browserHwid": "BR-5FFF0506-6YANX",
+    "username": "locff_55",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-28T10:04:51.292Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.55.201.148",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
