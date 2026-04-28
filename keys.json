@@ -4656,5 +4656,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-6479C7-A80753-573C93": {
+    "expires": "2026-04-29T09:20:11.399Z",
+    "hwid": "9000523600-5158d9eb-b990-490a-ab19-4d8b9fd28261",
+    "browserHwid": null,
+    "username": "fazz5638",
+    "userId": "9000523600",
+    "source": "script",
+    "createdAt": "2026-04-28T09:20:11.867Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.4.135.250",
+      "city": "Sampuran",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
