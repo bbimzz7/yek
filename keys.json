@@ -4889,8 +4889,15 @@
     "userId": "8950914694",
     "source": "script",
     "createdAt": "2026-04-28T14:41:44.411Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-28T14:41:55.817Z",
     "geo": {
+      "ip": "184.22.77.145",
+      "city": "Phuket",
+      "region": "Phuket",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "184.22.77.145",
       "city": "Phuket",
       "region": "Phuket",
