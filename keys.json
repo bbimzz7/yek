@@ -4641,8 +4641,15 @@
     "userId": "9794756766",
     "source": "script",
     "createdAt": "2026-04-28T07:57:51.473Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-28T07:58:22.619Z",
     "geo": {
+      "ip": "67.209.155.229",
+      "city": "Aktau",
+      "region": "Mangistauskaya Oblast'",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "67.209.155.229",
       "city": "Aktau",
       "region": "Mangistauskaya Oblast'",
