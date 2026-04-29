@@ -5081,8 +5081,15 @@
     "userId": "8118429962",
     "source": "script",
     "createdAt": "2026-04-29T02:59:30.067Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-29T03:00:16.081Z",
     "geo": {
+      "ip": "73.177.105.206",
+      "city": "Monroe",
+      "region": "Louisiana",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.177.105.206",
       "city": "Monroe",
       "region": "Louisiana",
