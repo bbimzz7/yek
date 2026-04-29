@@ -5312,5 +5312,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-36EAA2-5517DE-A09614": {
+    "expires": "2026-04-30T14:14:33.146Z",
+    "hwid": "753522780-0a4a3923-b478-4534-ae55-4ae2bd4349fd",
+    "browserHwid": null,
+    "username": "imam_6",
+    "userId": "753522780",
+    "source": "script",
+    "createdAt": "2026-04-29T14:14:33.601Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.168.226",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
