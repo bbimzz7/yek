@@ -5505,5 +5505,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E9DC42-B960BE-0BB2F4": {
+    "expires": "2026-04-30T23:59:53.908Z",
+    "hwid": "10882601285-b09780c8-2159-4db5-887c-9688d627d69a",
+    "browserHwid": null,
+    "username": "pit45885",
+    "userId": "10882601285",
+    "source": "script",
+    "createdAt": "2026-04-29T23:59:54.351Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "35.146.6.83",
+      "city": "Arlington",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
