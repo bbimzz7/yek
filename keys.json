@@ -5408,5 +5408,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-E69405-8738F1-C77376": {
+    "expires": "2026-04-30T16:02:38.185Z",
+    "hwid": null,
+    "browserHwid": "BR-1BD9364F-4E1TJ",
+    "username": "jejique4",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-04-29T16:02:38.641Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.83.119.50",
+      "city": "Guatemala City",
+      "region": "Guatemala",
+      "country": "Guatemala",
+      "cc": "GT"
+    }
   }
 }
