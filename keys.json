@@ -5000,5 +5000,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-1F11D5-D91920-2F70BC": {
+    "expires": "2026-04-30T01:10:28.298Z",
+    "hwid": "7664796955-e8324713-348b-4673-a586-e7b5cbf9d6da",
+    "browserHwid": null,
+    "username": "Zeniz_511",
+    "userId": "7664796955",
+    "source": "script",
+    "createdAt": "2026-04-29T01:10:28.740Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.85.210.160",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
