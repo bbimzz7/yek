@@ -5096,5 +5096,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-2CF5CE-D3A734-D5DAE0": {
+    "expires": "2026-04-30T03:40:34.344Z",
+    "hwid": "10199173544-bad88278-251e-43ba-8cb3-06d7492cc5c2",
+    "browserHwid": null,
+    "username": "Shawarmakioskmaster",
+    "userId": "10199173544",
+    "source": "script",
+    "createdAt": "2026-04-29T03:40:34.785Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.10.221",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
