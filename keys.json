@@ -5129,8 +5129,15 @@
     "userId": "10880993940",
     "source": "script",
     "createdAt": "2026-04-29T05:59:44.737Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-29T05:59:55.430Z",
     "geo": {
+      "ip": "103.150.33.183",
+      "city": "Karangsudo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.150.33.183",
       "city": "Karangsudo",
       "region": "East Java",
