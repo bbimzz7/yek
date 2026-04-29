@@ -5345,7 +5345,7 @@
     "userId": "7106973197",
     "source": "script",
     "createdAt": "2026-04-29T14:49:52.224Z",
-    "lastUsed": "2026-04-29T14:51:02.017Z",
+    "lastUsed": "2026-04-29T15:05:02.144Z",
     "geo": {
       "ip": "114.10.40.226",
       "city": "Medan",
@@ -5354,9 +5354,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.10.40.226",
-      "city": "Medan",
-      "region": "North Sumatra",
+      "ip": "182.10.225.11",
+      "city": "Banda Aceh",
+      "region": "Aceh",
       "country": "Indonesia",
       "cc": "ID"
     }
