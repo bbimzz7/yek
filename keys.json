@@ -5457,5 +5457,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-0C3A2D-E99BA5-57F930": {
+    "expires": "2026-04-30T18:38:25.234Z",
+    "hwid": "8886951683-d0cf8ea7-f8f9-4802-8b8e-5acef25c229e",
+    "browserHwid": null,
+    "username": "aleckgw",
+    "userId": "8886951683",
+    "source": "script",
+    "createdAt": "2026-04-29T18:38:25.667Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.205.208.7",
+      "city": "Pasig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
