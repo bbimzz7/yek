@@ -5072,5 +5072,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-98B3E3-EA3F36-718F46": {
+    "expires": "2026-04-30T02:59:29.631Z",
+    "hwid": "8118429962-d03cae79-5ca2-43b3-bf03-36ad4456eec4",
+    "browserHwid": null,
+    "username": "NBAYOUNBOY164",
+    "userId": "8118429962",
+    "source": "script",
+    "createdAt": "2026-04-29T02:59:30.067Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.177.105.206",
+      "city": "Monroe",
+      "region": "Louisiana",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
