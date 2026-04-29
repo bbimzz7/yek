@@ -5481,5 +5481,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-561C2F-7FF1AC-5D6731": {
+    "expires": "2026-04-30T23:25:30.380Z",
+    "hwid": "9740048513-5B20D9BC-B20A-4E1E-AD0B-E30EE17665AC",
+    "browserHwid": null,
+    "username": "idihbasi",
+    "userId": "9740048513",
+    "source": "script",
+    "createdAt": "2026-04-29T23:25:30.774Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "204.51.34.252",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
