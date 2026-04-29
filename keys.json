@@ -5144,5 +5144,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-237C83-590C0C-BF1E24": {
+    "expires": "2026-04-30T07:30:42.610Z",
+    "hwid": "8182169240-7F387C7D-6841-4F1E-85A4-77A260EE9FDB",
+    "browserHwid": null,
+    "username": "robloxdwyane6",
+    "userId": "8182169240",
+    "source": "script",
+    "createdAt": "2026-04-29T07:30:43.048Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.201.225.11",
+      "city": "Caloocan",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
