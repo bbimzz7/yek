@@ -5442,8 +5442,15 @@
     "userId": "10880967875",
     "source": "script",
     "createdAt": "2026-04-29T16:31:46.968Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-29T16:31:58.529Z",
     "geo": {
+      "ip": "85.144.162.173",
+      "city": "Uithoorn",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "85.144.162.173",
       "city": "Uithoorn",
       "region": "North Holland",
