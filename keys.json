@@ -5201,7 +5201,7 @@
     "userId": "9000748701",
     "source": "script",
     "createdAt": "2026-04-29T07:52:49.852Z",
-    "lastUsed": "2026-04-29T08:36:37.884Z",
+    "lastUsed": "2026-04-29T12:35:40.921Z",
     "geo": {
       "ip": "140.213.14.12",
       "city": "Central Jakarta",
@@ -5210,8 +5210,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "112.215.45.35",
-      "city": "Jakarta",
+      "ip": "114.10.42.44",
+      "city": "Ancol",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
