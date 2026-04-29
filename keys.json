@@ -5033,8 +5033,15 @@
     "userId": "1184503475",
     "source": "script",
     "createdAt": "2026-04-29T01:37:00.928Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-29T01:37:08.825Z",
     "geo": {
+      "ip": "213.204.117.161",
+      "city": "Beirut",
+      "region": "Beyrouth",
+      "country": "Lebanon",
+      "cc": "LB"
+    },
+    "lastGeo": {
       "ip": "213.204.117.161",
       "city": "Beirut",
       "region": "Beyrouth",
