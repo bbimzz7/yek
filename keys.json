@@ -5273,8 +5273,15 @@
     "userId": "9409454451",
     "source": "script",
     "createdAt": "2026-04-29T12:05:44.655Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-29T12:05:52.104Z",
     "geo": {
+      "ip": "110.138.86.112",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "110.138.86.112",
       "city": "East Jakarta",
       "region": "Jakarta",
