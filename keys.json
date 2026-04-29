@@ -5433,5 +5433,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-9ABF7F-E2432C-452F64": {
+    "expires": "2026-04-30T16:31:46.549Z",
+    "hwid": "10880967875-2242c6b0-75c3-4bdd-8d59-1f2a4e936889",
+    "browserHwid": null,
+    "username": "ASEDR212",
+    "userId": "10880967875",
+    "source": "script",
+    "createdAt": "2026-04-29T16:31:46.968Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "85.144.162.173",
+      "city": "Uithoorn",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    }
   }
 }
