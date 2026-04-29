@@ -5240,5 +5240,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-EA75A2-59BF30-4DB582": {
+    "expires": "2026-04-30T09:43:08.014Z",
+    "hwid": "10850260262-31ae79f1-b313-41de-ba6d-c83d5d84a8c1",
+    "browserHwid": null,
+    "username": "hdbdhfhrh4",
+    "userId": "10850260262",
+    "source": "script",
+    "createdAt": "2026-04-29T09:43:08.442Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.160.229.249",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
