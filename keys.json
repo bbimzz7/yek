@@ -5384,5 +5384,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C82E15-F6768E-DD9DCB": {
+    "expires": "2026-04-30T16:01:08.694Z",
+    "hwid": "6071658630-8b5c89d2-44b3-452f-856f-d61dc2513f70",
+    "browserHwid": null,
+    "username": "nunyab63",
+    "userId": "6071658630",
+    "source": "script",
+    "createdAt": "2026-04-29T16:01:09.353Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.161.95.123",
+      "city": "Mercer Island",
+      "region": "Washington",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
