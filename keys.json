@@ -5192,5 +5192,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-1CE568-F72B45-8C438B": {
+    "expires": "2026-04-30T07:52:49.391Z",
+    "hwid": "9000748701-a3b4de9d-6cd4-49c6-bfec-68d34ce2d758",
+    "browserHwid": null,
+    "username": "Meganesans13",
+    "userId": "9000748701",
+    "source": "script",
+    "createdAt": "2026-04-29T07:52:49.852Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.14.12",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
