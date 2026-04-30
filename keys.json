@@ -5860,8 +5860,15 @@
     "userId": "1954766116",
     "source": "script",
     "createdAt": "2026-04-30T11:46:08.725Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-30T11:47:27.657Z",
     "geo": {
+      "ip": "182.62.56.112",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "182.62.56.112",
       "city": "Kuala Lumpur",
       "region": "Kuala Lumpur",
