@@ -5610,8 +5610,15 @@
     "userId": "10745764367",
     "source": "script",
     "createdAt": "2026-04-30T05:28:47.842Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-30T05:29:01.518Z",
     "geo": {
+      "ip": "180.247.59.46",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.247.59.46",
       "city": "Bekasi",
       "region": "West Java",
