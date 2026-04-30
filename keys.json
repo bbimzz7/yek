@@ -5577,5 +5577,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DFB49E-5FDFA3-FA3E6D": {
+    "expires": "2026-05-01T05:04:56.468Z",
+    "hwid": "1110785227-78e3d253-ff0c-4987-8f6c-b93ee41f462b",
+    "browserHwid": null,
+    "username": "Connor384892",
+    "userId": "1110785227",
+    "source": "script",
+    "createdAt": "2026-04-30T05:04:56.855Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "98.54.133.7",
+      "city": "Memphis",
+      "region": "Tennessee",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
