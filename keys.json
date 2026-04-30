@@ -6211,5 +6211,22 @@
       "country": "Nicaragua",
       "cc": "NI"
     }
+  },
+  "VH-91336A-F59FC9-33E170": {
+    "expires": "2026-05-01T22:16:23.023Z",
+    "hwid": "10689883970-8999a66e-9a1d-4156-bb5e-faac2edc1a0f",
+    "browserHwid": null,
+    "username": "Mimejoramigoyoniellu",
+    "userId": "10689883970",
+    "source": "script",
+    "createdAt": "2026-04-30T22:16:23.420Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.51.121.16",
+      "city": "Punto Fijo",
+      "region": "Falcón",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
