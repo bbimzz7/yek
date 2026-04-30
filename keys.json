@@ -5673,5 +5673,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9EFE3E-E33482-6B97C8": {
+    "expires": "2026-05-01T08:16:39.810Z",
+    "hwid": "8015344922-bb314d18-4973-43ac-afe2-326646265aab",
+    "browserHwid": null,
+    "username": "nonaaa12525",
+    "userId": "8015344922",
+    "source": "script",
+    "createdAt": "2026-04-30T08:16:40.256Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.70.27.126",
+      "city": "Montreal",
+      "region": "Quebec",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
