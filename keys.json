@@ -6139,5 +6139,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-22AE40-D42518-4234C8": {
+    "expires": "2026-05-01T20:52:40.655Z",
+    "hwid": "3573148093-a6308abc-e849-4106-a07a-24dd0a623cbf",
+    "browserHwid": null,
+    "username": "RakaStark",
+    "userId": "3573148093",
+    "source": "script",
+    "createdAt": "2026-04-30T20:52:41.067Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.66.2.106",
+      "city": "Cikarang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
