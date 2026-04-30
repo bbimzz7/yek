@@ -5553,5 +5553,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-431E83-BB86A2-1CB157": {
+    "expires": "2026-05-01T04:15:41.835Z",
+    "hwid": "8133698134-7a5b835f-4243-4545-9f85-640d0f551a05",
+    "browserHwid": null,
+    "username": "malomahj",
+    "userId": "8133698134",
+    "source": "script",
+    "createdAt": "2026-04-30T04:15:42.272Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.15.80.25",
+      "city": "Tulangbawang",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
