@@ -6067,5 +6067,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6A1004-5AB3B5-94A4C4": {
+    "expires": "2026-05-01T18:37:11.927Z",
+    "hwid": "8694473186-73469e90-f8d8-42e4-8642-fe86fb9bf352",
+    "browserHwid": null,
+    "username": "dh1mitry",
+    "userId": "8694473186",
+    "source": "script",
+    "createdAt": "2026-04-30T18:37:12.352Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.120.76.82",
+      "city": "Kabupaten Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
