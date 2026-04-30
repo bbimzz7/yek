@@ -5529,5 +5529,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-93EDA3-9C4894-608ACE": {
+    "expires": "2026-05-01T01:32:52.650Z",
+    "hwid": "7251639604-cf8946ce-7eaa-46e4-a36d-b6094b72b200",
+    "browserHwid": null,
+    "username": "Migz_098762",
+    "userId": "7251639604",
+    "source": "script",
+    "createdAt": "2026-04-30T01:32:52.993Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "122.52.79.151",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
