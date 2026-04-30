@@ -5714,5 +5714,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F45850-3F045E-10A4D3": {
+    "expires": "2026-05-01T10:24:31.092Z",
+    "hwid": "7881486356-2c3298e0-6def-439e-bb28-a484fe3c62ba",
+    "browserHwid": null,
+    "username": "granx362",
+    "userId": "7881486356",
+    "source": "script",
+    "createdAt": "2026-04-30T10:24:31.524Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.207.141",
+      "city": "Lubuklinggau",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
