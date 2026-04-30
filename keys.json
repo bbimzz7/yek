@@ -5786,5 +5786,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F6CA3E-C711FB-369B36": {
+    "expires": "2026-05-01T10:56:27.335Z",
+    "hwid": "4448384828-848cdcd5-2288-411b-977b-ba9d64be8f6d",
+    "browserHwid": null,
+    "username": "zxopTZ",
+    "userId": "4448384828",
+    "source": "script",
+    "createdAt": "2026-04-30T10:56:27.794Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.122.64.145",
+      "city": "Kotabesi",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
