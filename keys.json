@@ -6076,8 +6076,15 @@
     "userId": "8694473186",
     "source": "script",
     "createdAt": "2026-04-30T18:37:12.352Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-30T18:37:26.261Z",
     "geo": {
+      "ip": "103.120.76.82",
+      "city": "Kabupaten Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.120.76.82",
       "city": "Kabupaten Tangerang",
       "region": "Banten",
