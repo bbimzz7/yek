@@ -6187,5 +6187,22 @@
       "country": "Greece",
       "cc": "GR"
     }
+  },
+  "VH-F362F5-551D86-E9D158": {
+    "expires": "2026-05-01T22:08:32.093Z",
+    "hwid": "9492904265-fc37def2-a9d2-44a0-8e11-1baea352a573",
+    "browserHwid": null,
+    "username": "elepep950",
+    "userId": "9492904265",
+    "source": "script",
+    "createdAt": "2026-04-30T22:08:32.549Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.97.162.83",
+      "city": "Granada",
+      "region": "Granada Department",
+      "country": "Nicaragua",
+      "cc": "NI"
+    }
   }
 }
