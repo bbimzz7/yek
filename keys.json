@@ -5875,5 +5875,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-FAC935-5AABA3-ED1AD9": {
+    "expires": "2026-05-01T12:29:53.880Z",
+    "hwid": "9651397492-e6933e22-b5ec-42fa-8930-8916c3585e5d",
+    "browserHwid": null,
+    "username": "Renzyca20",
+    "userId": "9651397492",
+    "source": "script",
+    "createdAt": "2026-04-30T12:29:54.348Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.188.169.160",
+      "city": "Gunungkalong",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
