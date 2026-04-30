@@ -6235,5 +6235,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-2604E9-0DFB03-B3D2BB": {
+    "expires": "2026-05-01T22:37:54.434Z",
+    "hwid": "8363898547-64f3ee63-3849-4572-b092-d1b021b6b7a9",
+    "browserHwid": null,
+    "username": "SNEv2022",
+    "userId": "8363898547",
+    "source": "script",
+    "createdAt": "2026-04-30T22:37:54.950Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.6.55.120",
+      "city": "Cajamarca",
+      "region": "Cajamarca Department",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
