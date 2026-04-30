@@ -5908,8 +5908,15 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-04-30T12:32:41.180Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-30T12:32:52.029Z",
     "geo": {
+      "ip": "180.247.59.46",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.247.59.46",
       "city": "Bekasi",
       "region": "West Java",
