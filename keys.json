@@ -6115,5 +6115,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B28193-4EA50B-77E7F2": {
+    "expires": "2026-05-01T20:14:56.776Z",
+    "hwid": "1568016983-846b178a-d125-4ef9-95f4-9178ce85a214",
+    "browserHwid": null,
+    "username": "leonsally726",
+    "userId": "1568016983",
+    "source": "script",
+    "createdAt": "2026-04-30T20:14:57.225Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.44.184.109",
+      "city": "Malvinas Argentinas",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
