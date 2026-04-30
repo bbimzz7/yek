@@ -5586,8 +5586,15 @@
     "userId": "1110785227",
     "source": "script",
     "createdAt": "2026-04-30T05:04:56.855Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-30T05:05:04.458Z",
     "geo": {
+      "ip": "98.54.133.7",
+      "city": "Memphis",
+      "region": "Tennessee",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "98.54.133.7",
       "city": "Memphis",
       "region": "Tennessee",
