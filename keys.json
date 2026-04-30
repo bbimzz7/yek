@@ -5971,5 +5971,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-5B56A4-B070B4-6AFEC4": {
+    "expires": "2026-05-01T17:03:23.125Z",
+    "hwid": "1491160512-14F4EE25-3A05-4DE9-AEA9-64AC39293FA3",
+    "browserHwid": null,
+    "username": "YM0q",
+    "userId": "1491160512",
+    "source": "script",
+    "createdAt": "2026-04-30T17:03:23.615Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.49.219.66",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
