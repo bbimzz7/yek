@@ -5562,8 +5562,15 @@
     "userId": "8133698134",
     "source": "script",
     "createdAt": "2026-04-30T04:15:42.272Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-30T04:15:55.871Z",
     "geo": {
+      "ip": "157.15.80.25",
+      "city": "Tulangbawang",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.15.80.25",
       "city": "Tulangbawang",
       "region": "Lampung",
