@@ -6124,8 +6124,15 @@
     "userId": "1568016983",
     "source": "script",
     "createdAt": "2026-04-30T20:14:57.225Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-30T20:15:09.344Z",
     "geo": {
+      "ip": "181.44.184.109",
+      "city": "Malvinas Argentinas",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "181.44.184.109",
       "city": "Malvinas Argentinas",
       "region": "Buenos Aires",
