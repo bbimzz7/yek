@@ -5995,5 +5995,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-DF5A80-3997C0-BE21B6": {
+    "expires": "2026-05-01T17:31:29.017Z",
+    "hwid": "5532632452-4909b706-5990-4755-8a3c-512da04a00a1",
+    "browserHwid": null,
+    "username": "alessio_son",
+    "userId": "5532632452",
+    "source": "script",
+    "createdAt": "2026-04-30T17:31:29.472Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.90.46.12",
+      "city": "Boves",
+      "region": "Piedmont",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
