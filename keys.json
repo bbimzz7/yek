@@ -5956,7 +5956,7 @@
     "userId": "5442360729",
     "source": "script",
     "createdAt": "2026-04-30T16:50:22.045Z",
-    "lastUsed": "2026-04-30T16:50:37.169Z",
+    "lastUsed": "2026-04-30T17:45:35.899Z",
     "geo": {
       "ip": "146.70.246.131",
       "city": "Bucharest",
@@ -5965,11 +5965,11 @@
       "cc": "RO"
     },
     "lastGeo": {
-      "ip": "146.70.246.131",
-      "city": "Bucharest",
-      "region": "București",
-      "country": "Romania",
-      "cc": "RO"
+      "ip": "51.158.204.28",
+      "city": "Haarlem",
+      "region": "North Holland",
+      "country": "Netherlands",
+      "cc": "NL"
     }
   },
   "VH-5B56A4-B070B4-6AFEC4": {
