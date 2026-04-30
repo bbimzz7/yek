@@ -6091,5 +6091,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3A149D-82B787-4ABB8E": {
+    "expires": "2026-05-01T18:45:30.802Z",
+    "hwid": "7042773638-b00b800f-3cd3-4241-90d6-4829a998c34b",
+    "browserHwid": null,
+    "username": "Meelia67",
+    "userId": "7042773638",
+    "source": "script",
+    "createdAt": "2026-04-30T18:45:31.269Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.45.244",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
