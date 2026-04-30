@@ -6196,8 +6196,15 @@
     "userId": "9492904265",
     "source": "script",
     "createdAt": "2026-04-30T22:08:32.549Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-30T22:09:18.166Z",
     "geo": {
+      "ip": "138.97.162.83",
+      "city": "Granada",
+      "region": "Granada Department",
+      "country": "Nicaragua",
+      "cc": "NI"
+    },
+    "lastGeo": {
       "ip": "138.97.162.83",
       "city": "Granada",
       "region": "Granada Department",
