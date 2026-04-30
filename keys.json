@@ -5723,8 +5723,15 @@
     "userId": "7881486356",
     "source": "script",
     "createdAt": "2026-04-30T10:24:31.524Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-30T10:25:49.036Z",
     "geo": {
+      "ip": "103.189.207.141",
+      "city": "Lubuklinggau",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.189.207.141",
       "city": "Lubuklinggau",
       "region": "South Sumatra",
