@@ -6004,8 +6004,15 @@
     "userId": "5532632452",
     "source": "script",
     "createdAt": "2026-04-30T17:31:29.472Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-30T17:31:40.786Z",
     "geo": {
+      "ip": "5.90.46.12",
+      "city": "Boves",
+      "region": "Piedmont",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "lastGeo": {
       "ip": "5.90.46.12",
       "city": "Boves",
       "region": "Piedmont",
