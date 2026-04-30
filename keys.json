@@ -5249,7 +5249,7 @@
     "userId": "10850260262",
     "source": "script",
     "createdAt": "2026-04-29T09:43:08.442Z",
-    "lastUsed": "2026-04-29T09:43:23.397Z",
+    "lastUsed": "2026-04-30T07:56:31.696Z",
     "geo": {
       "ip": "125.160.229.249",
       "city": "Bekasi",
@@ -5258,9 +5258,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "125.160.229.249",
-      "city": "Bekasi",
-      "region": "West Java",
+      "ip": "182.3.36.58",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
