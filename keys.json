@@ -5690,5 +5690,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-6FFBFA-B49C7F-5E46BB": {
+    "expires": "2026-05-01T09:56:36.721Z",
+    "hwid": "9681072284-1d325456-408f-4de9-b1ed-c222ae89f51e",
+    "browserHwid": null,
+    "username": "bowo_174",
+    "userId": "9681072284",
+    "source": "script",
+    "createdAt": "2026-04-30T09:56:37.211Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.101.216.26",
+      "city": "Sungaibamban",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
