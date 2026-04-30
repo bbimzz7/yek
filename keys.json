@@ -5514,8 +5514,15 @@
     "userId": "10882601285",
     "source": "script",
     "createdAt": "2026-04-29T23:59:54.351Z",
-    "lastUsed": null,
+    "lastUsed": "2026-04-30T00:04:09.860Z",
     "geo": {
+      "ip": "35.146.6.83",
+      "city": "Arlington",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "35.146.6.83",
       "city": "Arlington",
       "region": "Texas",
