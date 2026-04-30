@@ -5601,5 +5601,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-EB77B5-C7328C-AC8028": {
+    "expires": "2026-05-01T05:28:47.448Z",
+    "hwid": "10745764367-242eaad3-b9ba-4845-8439-df06d888d520",
+    "browserHwid": null,
+    "username": "Dzikrix1",
+    "userId": "10745764367",
+    "source": "script",
+    "createdAt": "2026-04-30T05:28:47.842Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.59.46",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
