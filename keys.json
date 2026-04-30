@@ -6019,5 +6019,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-80A29D-3CD957-F89003": {
+    "expires": "2026-05-01T18:03:36.661Z",
+    "hwid": "5136576200-962a9f49-2bda-455f-9bbe-563330b13381",
+    "browserHwid": null,
+    "username": "KingDedek15",
+    "userId": "5136576200",
+    "source": "script",
+    "createdAt": "2026-04-30T18:03:37.071Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.242.196.204",
+      "city": "Kota Batam",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
