@@ -6324,5 +6324,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-C325B5-C31E6D-FAEAD7": {
+    "expires": "2026-05-02T02:30:35.089Z",
+    "hwid": null,
+    "browserHwid": "BR-1BBDD964-1NXY8",
+    "username": "pit45885",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-01T02:30:35.498Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "35.146.6.83",
+      "city": "Arlington",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
