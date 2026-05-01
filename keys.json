@@ -6446,8 +6446,15 @@
     "userId": "10886255038",
     "source": "script",
     "createdAt": "2026-05-01T03:32:31.657Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-01T03:37:31.186Z",
     "geo": {
+      "ip": "24.72.45.214",
+      "city": "La Ronge",
+      "region": "Saskatchewan",
+      "country": "Canada",
+      "cc": "CA"
+    },
+    "lastGeo": {
       "ip": "24.72.45.214",
       "city": "La Ronge",
       "region": "Saskatchewan",
