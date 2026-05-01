@@ -6941,5 +6941,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-DAA08B-5416FF-CE972F": {
+    "expires": "2026-05-02T19:05:55.722Z",
+    "hwid": "9672597395-18278825-7511-4bdd-b22a-b4fc37f5097f",
+    "browserHwid": null,
+    "username": "sammyadminproXD",
+    "userId": "9672597395",
+    "source": "script",
+    "createdAt": "2026-05-01T19:05:55.978Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.115.210.198",
+      "city": "Santa Cruz de la Sierra",
+      "region": "Santa Cruz Department",
+      "country": "Bolivia",
+      "cc": "BO"
+    }
   }
 }
