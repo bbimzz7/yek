@@ -6924,5 +6924,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-18DA89-488ACE-8397A6": {
+    "expires": "2026-05-02T19:03:18.885Z",
+    "hwid": "1954766116-8f797444-fc8b-44bc-8d78-1f0560998f4d",
+    "browserHwid": null,
+    "username": "mamatpro_46",
+    "userId": "1954766116",
+    "source": "script",
+    "createdAt": "2026-05-01T19:03:19.330Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.62.59.167",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
