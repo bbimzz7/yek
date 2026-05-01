@@ -7053,8 +7053,15 @@
     "userId": "8562816961",
     "source": "script",
     "createdAt": "2026-05-01T22:20:26.108Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-01T22:20:41.933Z",
     "geo": {
+      "ip": "38.46.214.250",
+      "city": "Cibinong",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "38.46.214.250",
       "city": "Cibinong",
       "region": "West Java",
