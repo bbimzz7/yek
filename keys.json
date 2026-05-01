@@ -7005,8 +7005,15 @@
     "userId": "10630267393",
     "source": "script",
     "createdAt": "2026-05-01T21:35:02.379Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-01T21:36:45.180Z",
     "geo": {
+      "ip": "177.244.229.144",
+      "city": "Zamora",
+      "region": "Michoacán",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "177.244.229.144",
       "city": "Zamora",
       "region": "Michoacán",
