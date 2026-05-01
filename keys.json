@@ -6756,5 +6756,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-70E619-CF8D18-E5E3D4": {
+    "expires": "2026-05-02T12:24:28.951Z",
+    "hwid": "4514418657-D436B725-8060-4A90-90C5-FAB2B99BC113",
+    "browserHwid": null,
+    "username": "kiddyouer",
+    "userId": "4514418657",
+    "source": "script",
+    "createdAt": "2026-05-01T12:24:29.408Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.212.20.144",
+      "city": "Irkutsk",
+      "region": "Irkutsk Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
