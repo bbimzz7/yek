@@ -6300,5 +6300,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-B53476-F6DF06-3B5584": {
+    "expires": "2026-05-02T02:18:56.828Z",
+    "hwid": "9054316140-faac40ea-f4ab-45ec-92e1-3b811607eb7f",
+    "browserHwid": null,
+    "username": "aidanisocool_2",
+    "userId": "9054316140",
+    "source": "script",
+    "createdAt": "2026-05-01T02:18:57.237Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.177.217.225",
+      "city": "Georgetown",
+      "region": "Demerara-Mahaica",
+      "country": "Guyana",
+      "cc": "GY"
+    }
   }
 }
