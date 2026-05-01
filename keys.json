@@ -6004,7 +6004,7 @@
     "userId": "5532632452",
     "source": "script",
     "createdAt": "2026-04-30T17:31:29.472Z",
-    "lastUsed": "2026-04-30T17:31:40.786Z",
+    "lastUsed": "2026-05-01T02:48:08.901Z",
     "geo": {
       "ip": "5.90.46.12",
       "city": "Boves",
@@ -6013,9 +6013,9 @@
       "cc": "IT"
     },
     "lastGeo": {
-      "ip": "5.90.46.12",
-      "city": "Boves",
-      "region": "Piedmont",
+      "ip": "5.90.47.210",
+      "city": "Fossarmato",
+      "region": "Lombardy",
       "country": "Italy",
       "cc": "IT"
     }
