@@ -6780,5 +6780,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-75588C-CFD2CC-DC7E28": {
+    "expires": "2026-05-02T15:52:06.321Z",
+    "hwid": "10089374718-5802025c-1a37-4c81-9a9f-d7bdd5901f3a",
+    "browserHwid": null,
+    "username": "saputra1234219",
+    "userId": "10089374718",
+    "source": "script",
+    "createdAt": "2026-05-01T15:52:06.808Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.39.49.90",
+      "city": "Majalengka",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
