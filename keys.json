@@ -7092,5 +7092,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FB614E-37457C-EE7B9F": {
+    "expires": "2026-05-02T23:53:32.770Z",
+    "hwid": "5071390428-ec471bef-0f49-4e8a-95e7-c9c2f859f3b3",
+    "browserHwid": null,
+    "username": "kenanvidinugroh",
+    "userId": "5071390428",
+    "source": "script",
+    "createdAt": "2026-05-01T23:53:33.180Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.17.9",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
