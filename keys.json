@@ -6533,5 +6533,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-AEC0A0-D4E87B-CA6F7D": {
+    "expires": "2026-05-02T06:24:17.558Z",
+    "hwid": "9802743408-9647700c-4c94-4139-a047-950776b7dd6b",
+    "browserHwid": null,
+    "username": "DyooHandsom11",
+    "userId": "9802743408",
+    "source": "script",
+    "createdAt": "2026-05-01T06:24:18.035Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "154.18.255.90",
+      "city": "Karawang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
