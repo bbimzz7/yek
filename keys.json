@@ -6876,5 +6876,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-210EEE-90E64D-F3877D": {
+    "expires": "2026-05-02T17:47:58.295Z",
+    "hwid": "9305517866-3f1fc697-1898-4d7a-858c-c7127d202b98",
+    "browserHwid": null,
+    "username": "rip_secrets32",
+    "userId": "9305517866",
+    "source": "script",
+    "createdAt": "2026-05-01T17:47:58.696Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.249.182",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
