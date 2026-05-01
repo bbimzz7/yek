@@ -6885,9 +6885,16 @@
     "userId": "9305517866",
     "source": "script",
     "createdAt": "2026-05-01T17:47:58.696Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-01T17:48:12.611Z",
     "geo": {
       "ip": "27.125.249.182",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
+      "ip": "27.125.249.7",
       "city": "Kuala Lumpur",
       "region": "Kuala Lumpur",
       "country": "Malaysia",
