@@ -6461,5 +6461,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-66D597-7FD09A-4BCED2": {
+    "expires": "2026-05-02T03:59:04.937Z",
+    "hwid": "5069829639-be2a585f-bf53-4782-be3f-ed241830ae52",
+    "browserHwid": null,
+    "username": "lingling818",
+    "userId": "5069829639",
+    "source": "script",
+    "createdAt": "2026-05-01T03:59:05.343Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.68.9",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
