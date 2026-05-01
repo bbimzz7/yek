@@ -6965,5 +6965,22 @@
       "country": "Bolivia",
       "cc": "BO"
     }
+  },
+  "VH-E791B1-F9D40C-AF1EB1": {
+    "expires": "2026-05-02T19:15:33.936Z",
+    "hwid": "3104142886-82D8C45A-76FB-42F6-AEE3-A261FAF6DAA6",
+    "browserHwid": null,
+    "username": "JBreille1128",
+    "userId": "3104142886",
+    "source": "script",
+    "createdAt": "2026-05-01T19:15:34.392Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.78.133.192",
+      "city": "Wirodayan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
