@@ -6259,5 +6259,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-E50F35-D0984B-A99C8F": {
+    "expires": "2026-05-02T01:07:40.419Z",
+    "hwid": "9495981915-8e51341c-ebaa-4722-8dc9-2620401df5ea",
+    "browserHwid": null,
+    "username": "tigresaFF4",
+    "userId": "9495981915",
+    "source": "script",
+    "createdAt": "2026-05-01T01:07:40.857Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.225.131.95",
+      "city": "São Luís",
+      "region": "Maranhão",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
