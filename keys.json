@@ -6485,5 +6485,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BE7E82-2A494C-CE7BA4": {
+    "expires": "2026-05-02T04:39:04.363Z",
+    "hwid": "8021002143-b0eb4d8b-2979-4c1a-9f8d-0406ebde1854",
+    "browserHwid": null,
+    "username": "alhiyayagtapiru",
+    "userId": "8021002143",
+    "source": "script",
+    "createdAt": "2026-05-01T04:39:04.773Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.211.63.81",
+      "city": "Pasay",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
