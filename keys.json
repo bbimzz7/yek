@@ -6494,8 +6494,15 @@
     "userId": "8021002143",
     "source": "script",
     "createdAt": "2026-05-01T04:39:04.773Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-01T04:40:07.492Z",
     "geo": {
+      "ip": "112.211.63.81",
+      "city": "Pasay",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.211.63.81",
       "city": "Pasay",
       "region": "Metro Manila",
