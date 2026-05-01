@@ -6341,5 +6341,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-1FB0EB-81915C-721120": {
+    "expires": "2026-05-02T02:42:05.303Z",
+    "hwid": "10745764367-3d1b8808-4563-4c6a-ac08-12ddd8831b9d",
+    "browserHwid": null,
+    "username": "Dzikrix1",
+    "userId": "10745764367",
+    "source": "script",
+    "createdAt": "2026-05-01T02:42:05.729Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.72.48.97",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
