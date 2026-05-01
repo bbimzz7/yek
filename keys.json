@@ -7044,5 +7044,22 @@
       "country": "Chile",
       "cc": "CL"
     }
+  },
+  "VH-725280-16A853-24BA9D": {
+    "expires": "2026-05-02T22:20:25.681Z",
+    "hwid": "8562816961-a31cceb8-c622-45b8-b02e-fa87d5e6a812",
+    "browserHwid": null,
+    "username": "manz1678",
+    "userId": "8562816961",
+    "source": "script",
+    "createdAt": "2026-05-01T22:20:26.108Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.46.214.250",
+      "city": "Cibinong",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
