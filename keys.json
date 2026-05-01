@@ -7116,5 +7116,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9CC7FA-EE0BF0-5588C6": {
+    "expires": "2026-05-02T23:55:51.359Z",
+    "hwid": "5236260648-70faca79-b049-49b7-8c13-905bc3b6c317",
+    "browserHwid": null,
+    "username": "Manu_roblox463",
+    "userId": "5236260648",
+    "source": "script",
+    "createdAt": "2026-05-01T23:55:51.570Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "97.155.146.44",
+      "city": "Austin",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
