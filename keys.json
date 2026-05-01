@@ -6389,5 +6389,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E34E15-729B31-27C364": {
+    "expires": "2026-05-02T02:52:56.337Z",
+    "hwid": "8594325708-b7c4bf3d-9434-4b02-8900-8e16827a50c9",
+    "browserHwid": null,
+    "username": "skyno_siregar",
+    "userId": "8594325708",
+    "source": "script",
+    "createdAt": "2026-05-01T02:52:56.741Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.46.243",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
