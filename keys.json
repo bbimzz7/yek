@@ -6804,5 +6804,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6C7248-DE68BD-B9C089": {
+    "expires": "2026-05-02T16:40:36.022Z",
+    "hwid": "10074946464-de8a76ba-d56b-4437-85b6-6c0a1cc552ae",
+    "browserHwid": null,
+    "username": "hrhdvrhrve",
+    "userId": "10074946464",
+    "source": "script",
+    "createdAt": "2026-05-01T16:40:36.454Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "200.110.206.70",
+      "city": "Cariacica",
+      "region": "Espírito Santo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
