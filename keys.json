@@ -6950,8 +6950,15 @@
     "userId": "9672597395",
     "source": "script",
     "createdAt": "2026-05-01T19:05:55.978Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-01T19:09:35.970Z",
     "geo": {
+      "ip": "181.115.210.198",
+      "city": "Santa Cruz de la Sierra",
+      "region": "Santa Cruz Department",
+      "country": "Bolivia",
+      "cc": "BO"
+    },
+    "lastGeo": {
       "ip": "181.115.210.198",
       "city": "Santa Cruz de la Sierra",
       "region": "Santa Cruz Department",
