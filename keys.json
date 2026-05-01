@@ -6996,5 +6996,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A55AD1-C50666-E848F7": {
+    "expires": "2026-05-02T21:35:01.905Z",
+    "hwid": "10630267393-0e03ea70-1dac-4081-b11f-eef91ee5750d",
+    "browserHwid": null,
+    "username": "Alx2000600",
+    "userId": "10630267393",
+    "source": "script",
+    "createdAt": "2026-05-01T21:35:02.379Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.244.229.144",
+      "city": "Zamora",
+      "region": "Michoacán",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
