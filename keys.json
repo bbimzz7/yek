@@ -6622,5 +6622,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BFAD65-D71545-2ACA11": {
+    "expires": "2026-05-02T09:03:07.057Z",
+    "hwid": "10340834529-0e1bf139-cd9d-40cd-9272-4583f849c278",
+    "browserHwid": null,
+    "username": "K1Vx25",
+    "userId": "10340834529",
+    "source": "script",
+    "createdAt": "2026-05-01T09:03:07.499Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "123.28.17.105",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
