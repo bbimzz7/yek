@@ -6813,8 +6813,15 @@
     "userId": "10074946464",
     "source": "script",
     "createdAt": "2026-05-01T16:40:36.454Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-01T16:40:49.637Z",
     "geo": {
+      "ip": "200.110.206.70",
+      "city": "Cariacica",
+      "region": "Espírito Santo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "200.110.206.70",
       "city": "Cariacica",
       "region": "Espírito Santo",
