@@ -6677,5 +6677,22 @@
       "country": "Taiwan",
       "cc": "TW"
     }
+  },
+  "VH-C52E84-2AB4FB-D3AA3B": {
+    "expires": "2026-05-02T10:41:22.249Z",
+    "hwid": "8766910974-46723b2a-0632-4193-8977-8579b705cee3",
+    "browserHwid": null,
+    "username": "tibranm_akunke2",
+    "userId": "8766910974",
+    "source": "script",
+    "createdAt": "2026-05-01T10:41:22.666Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.1.133.220",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
