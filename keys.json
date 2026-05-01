@@ -5795,8 +5795,15 @@
     "userId": "4448384828",
     "source": "script",
     "createdAt": "2026-04-30T10:56:27.794Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-01T09:22:10.197Z",
     "geo": {
+      "ip": "103.122.64.145",
+      "city": "Kotabesi",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.122.64.145",
       "city": "Kotabesi",
       "region": "Central Kalimantan",
