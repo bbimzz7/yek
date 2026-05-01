@@ -6734,8 +6734,15 @@
     "userId": "8156232048",
     "source": "script",
     "createdAt": "2026-05-01T11:10:44.126Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-01T11:10:50.908Z",
     "geo": {
+      "ip": "36.68.52.109",
+      "city": "Pekalongan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.68.52.109",
       "city": "Pekalongan",
       "region": "Central Java",
