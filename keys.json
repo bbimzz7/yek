@@ -7077,8 +7077,15 @@
     "userId": "8828615174",
     "source": "script",
     "createdAt": "2026-05-01T23:46:17.178Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-01T23:47:56.764Z",
     "geo": {
+      "ip": "103.26.189.66",
+      "city": "Arjawinangun",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.26.189.66",
       "city": "Arjawinangun",
       "region": "West Java",
