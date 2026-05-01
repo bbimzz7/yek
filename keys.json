@@ -6283,5 +6283,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-852B5C-622127-616453": {
+    "expires": "2026-05-02T01:25:01.414Z",
+    "hwid": null,
+    "browserHwid": "BR-60D33525-0RWZP",
+    "username": "Roblox_Funk92",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-01T01:25:01.862Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.251.26",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
