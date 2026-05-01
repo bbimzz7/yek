@@ -6725,5 +6725,22 @@
       "country": "Israel",
       "cc": "IL"
     }
+  },
+  "VH-F47610-1AE7B1-1CEF0B": {
+    "expires": "2026-05-02T11:10:43.712Z",
+    "hwid": "8156232048-555faef4-ab20-47fe-bc19-f11853cb9580",
+    "browserHwid": null,
+    "username": "Ryusensei000",
+    "userId": "8156232048",
+    "source": "script",
+    "createdAt": "2026-05-01T11:10:44.126Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.68.52.109",
+      "city": "Pekalongan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
