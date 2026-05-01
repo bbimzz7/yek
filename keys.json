@@ -6653,5 +6653,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-81D187-982B9F-7AA766": {
+    "expires": "2026-05-02T09:30:17.454Z",
+    "hwid": "10202995821-4EDDC432-591B-4A44-96E8-1D1272DEDDB2",
+    "browserHwid": null,
+    "username": "SweptWallHealthy83",
+    "userId": "10202995821",
+    "source": "script",
+    "createdAt": "2026-05-01T09:30:17.904Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.12.158.233",
+      "city": "New Taipei City",
+      "region": "New Taipei City",
+      "country": "Taiwan",
+      "cc": "TW"
+    }
   }
 }
