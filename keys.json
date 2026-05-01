@@ -6662,8 +6662,15 @@
     "userId": "10202995821",
     "source": "script",
     "createdAt": "2026-05-01T09:30:17.904Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-01T09:30:23.809Z",
     "geo": {
+      "ip": "101.12.158.233",
+      "city": "New Taipei City",
+      "region": "New Taipei City",
+      "country": "Taiwan",
+      "cc": "TW"
+    },
+    "lastGeo": {
       "ip": "101.12.158.233",
       "city": "New Taipei City",
       "region": "New Taipei City",
