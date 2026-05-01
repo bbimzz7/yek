@@ -6350,8 +6350,15 @@
     "userId": "10745764367",
     "source": "script",
     "createdAt": "2026-05-01T02:42:05.729Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-01T02:42:16.796Z",
     "geo": {
+      "ip": "36.72.48.97",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.72.48.97",
       "city": "Bekasi",
       "region": "West Java",
