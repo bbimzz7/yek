@@ -6437,5 +6437,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-05539C-F64CDC-8A90C4": {
+    "expires": "2026-05-02T03:32:31.245Z",
+    "hwid": "10886255038-51665596-0db9-4d02-b998-809f97d11661",
+    "browserHwid": null,
+    "username": "tlych940",
+    "userId": "10886255038",
+    "source": "script",
+    "createdAt": "2026-05-01T03:32:31.657Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.72.45.214",
+      "city": "La Ronge",
+      "region": "Saskatchewan",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
