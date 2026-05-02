@@ -7880,8 +7880,15 @@
     "userId": "8875326243",
     "source": "script",
     "createdAt": "2026-05-02T16:09:03.254Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-02T16:09:15.140Z",
     "geo": {
+      "ip": "144.31.136.13",
+      "city": "Falkenstein",
+      "region": "Saxony",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "144.31.136.13",
       "city": "Falkenstein",
       "region": "Saxony",
