@@ -7895,5 +7895,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-0096C0-2639E5-7B8C47": {
+    "expires": "2026-05-03T16:29:30.160Z",
+    "hwid": "7519017464-10ac0d63-fc54-4298-8437-21c77e54668d",
+    "browserHwid": null,
+    "username": "Gojosatoru25835",
+    "userId": "7519017464",
+    "source": "script",
+    "createdAt": "2026-05-02T16:29:30.578Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.55.224.210",
+      "city": "Pameungpeuk",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
