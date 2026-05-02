@@ -8048,8 +8048,15 @@
     "userId": "5381484313",
     "source": "script",
     "createdAt": "2026-05-02T19:01:06.559Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-02T19:01:14.179Z",
     "geo": {
+      "ip": "114.4.82.7",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.4.82.7",
       "city": "Central Jakarta",
       "region": "Jakarta",
