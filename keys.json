@@ -7349,5 +7349,22 @@
       "country": "Australia",
       "cc": "AU"
     }
+  },
+  "VH-E8132E-CDBADA-0F4AA3": {
+    "expires": "2026-05-03T07:58:37.775Z",
+    "hwid": "7367945978-753e45d0-74e2-48e4-b75b-5a00d981ba0d",
+    "browserHwid": null,
+    "username": "ScottFlowered31",
+    "userId": "7367945978",
+    "source": "script",
+    "createdAt": "2026-05-02T07:58:38.152Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.131.188",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
