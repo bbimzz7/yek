@@ -7431,8 +7431,15 @@
     "userId": "5339538767",
     "source": "script",
     "createdAt": "2026-05-02T08:29:12.054Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-02T08:30:45.424Z",
     "geo": {
+      "ip": "182.8.211.133",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.8.211.133",
       "city": "Semarang",
       "region": "Central Java",
