@@ -7775,5 +7775,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-CD0E15-14212E-CFB73B": {
+    "expires": "2026-05-03T12:53:28.631Z",
+    "hwid": "9863132804-d093ea38-ba2a-4b80-b06d-32230acf7bef",
+    "browserHwid": null,
+    "username": "Stahn888",
+    "userId": "9863132804",
+    "source": "script",
+    "createdAt": "2026-05-02T12:53:29.046Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.67.45.33",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
