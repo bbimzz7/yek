@@ -7928,8 +7928,15 @@
     "userId": "8312782810",
     "source": "script",
     "createdAt": "2026-05-02T16:34:14.889Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-02T16:34:25.917Z",
     "geo": {
+      "ip": "103.159.195.159",
+      "city": "Jember",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.159.195.159",
       "city": "Jember",
       "region": "East Java",
