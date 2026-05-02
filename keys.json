@@ -7640,8 +7640,15 @@
     "userId": "9681072284",
     "source": "script",
     "createdAt": "2026-05-02T09:33:44.781Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-02T09:34:18.176Z",
     "geo": {
+      "ip": "103.101.216.27",
+      "city": "Sungaibamban",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.101.216.27",
       "city": "Sungaibamban",
       "region": "North Sumatra",
