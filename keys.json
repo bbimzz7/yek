@@ -7967,5 +7967,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-F58192-4113B0-22F6CF": {
+    "expires": "2026-05-03T17:14:08.372Z",
+    "hwid": "7424042185-AFA0E3B0-1E0B-4E5B-AA46-1E4C51E80084",
+    "browserHwid": null,
+    "username": "zavirozavisco",
+    "userId": "7424042185",
+    "source": "script",
+    "createdAt": "2026-05-02T17:14:08.812Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.165.16",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
