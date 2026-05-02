@@ -7164,5 +7164,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-67FDF5-DFE247-88A168": {
+    "expires": "2026-05-03T02:34:46.597Z",
+    "hwid": "8015871434-de5462f4-730b-4523-8d36-43e730dab5ef",
+    "browserHwid": null,
+    "username": "The_Jokis1",
+    "userId": "8015871434",
+    "source": "script",
+    "createdAt": "2026-05-02T02:34:47.006Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.4.6",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
