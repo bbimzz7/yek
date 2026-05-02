@@ -7527,8 +7527,15 @@
     "userId": "10271938769",
     "source": "script",
     "createdAt": "2026-05-02T09:02:36.561Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-02T09:02:41.234Z",
     "geo": {
+      "ip": "103.190.46.226",
+      "city": "Duri",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.190.46.226",
       "city": "Duri",
       "region": "Riau",
