@@ -7470,5 +7470,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-C84664-B6A1D7-F52B11": {
+    "expires": "2026-05-03T08:53:17.843Z",
+    "hwid": "3548266861-402f01ae-ce7a-4583-80bf-fdd5ac172c3a",
+    "browserHwid": null,
+    "username": "ajiaiajaijaiaj",
+    "userId": "3548266861",
+    "source": "script",
+    "createdAt": "2026-05-02T08:53:18.251Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.74.238",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
