@@ -8063,5 +8063,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-920C60-E49372-A31DE1": {
+    "expires": "2026-05-03T19:16:12.521Z",
+    "hwid": "7371747652-0ef03234-6cd8-44d0-b815-c55dce016120",
+    "browserHwid": null,
+    "username": "FaixaDo7",
+    "userId": "7371747652",
+    "source": "script",
+    "createdAt": "2026-05-02T19:16:12.949Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.77.126.244",
+      "city": "Recife",
+      "region": "Pernambuco",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
