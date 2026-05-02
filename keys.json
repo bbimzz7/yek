@@ -7943,5 +7943,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D5159A-983CD9-AD595B": {
+    "expires": "2026-05-03T16:36:54.020Z",
+    "hwid": "9175837357-a8591309-e7d6-4159-af0b-d492722a2cc5",
+    "browserHwid": null,
+    "username": "misho124971",
+    "userId": "9175837357",
+    "source": "script",
+    "createdAt": "2026-05-02T16:36:54.268Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.225.44.88",
+      "city": "Xalapa",
+      "region": "Veracruz",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
