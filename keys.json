@@ -8169,5 +8169,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-6B8E05-95864A-48C855": {
+    "expires": "2026-05-03T21:08:39.400Z",
+    "hwid": "10798574950-860EDA9A-363A-44A6-85EE-22A29BF56B52",
+    "browserHwid": null,
+    "username": "ze_x337",
+    "userId": "10798574950",
+    "source": "script",
+    "createdAt": "2026-05-02T21:08:39.821Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "89.161.95.18",
+      "city": "Siemiatycze",
+      "region": "Podlasie",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
