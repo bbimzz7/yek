@@ -7727,5 +7727,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-D8E677-5FC085-B5684F": {
+    "expires": "2026-05-03T12:20:37.838Z",
+    "hwid": "7040060652-515eb309-caf0-4fe1-bfb7-09a76c54cf30",
+    "browserHwid": null,
+    "username": "RRQ_DIMAS2344",
+    "userId": "7040060652",
+    "source": "script",
+    "createdAt": "2026-05-02T12:20:38.270Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.31.240.13",
+      "city": "Samarinda",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
