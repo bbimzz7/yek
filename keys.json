@@ -8039,5 +8039,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A2CF12-0C9B27-BF27DB": {
+    "expires": "2026-05-03T19:01:06.120Z",
+    "hwid": "5381484313-80ac5d22-ad77-42d3-9d40-ee6029f4a5c7",
+    "browserHwid": null,
+    "username": "DevotedCyrus",
+    "userId": "5381484313",
+    "source": "script",
+    "createdAt": "2026-05-02T19:01:06.559Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.4.82.7",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
