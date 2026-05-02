@@ -7398,5 +7398,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-46AF12-AD763E-1E72B0": {
+    "expires": "2026-05-03T08:24:55.382Z",
+    "hwid": "8339564899-acda744f-9b33-4b87-8162-f2bd7f5f5480",
+    "browserHwid": null,
+    "username": "reyoo_55",
+    "userId": "8339564899",
+    "source": "script",
+    "createdAt": "2026-05-02T08:24:55.769Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.6.237",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
