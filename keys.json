@@ -7599,8 +7599,15 @@
     "userId": "7476268255",
     "source": "script",
     "createdAt": "2026-05-02T09:22:00.634Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-02T09:22:11.609Z",
     "geo": {
+      "ip": "110.138.84.149",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "110.138.84.149",
       "city": "East Jakarta",
       "region": "Jakarta",
