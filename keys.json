@@ -8015,5 +8015,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CF05BD-5DF809-05C9F6": {
+    "expires": "2026-05-03T17:48:17.240Z",
+    "hwid": "7042773638-b00b800f-3cd3-4241-90d6-4829a998c34b",
+    "browserHwid": null,
+    "username": "Meelia67",
+    "userId": "7042773638",
+    "source": "script",
+    "createdAt": "2026-05-02T17:48:17.667Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.45.177",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
