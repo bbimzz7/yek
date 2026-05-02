@@ -8224,5 +8224,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-E97E84-DE65EA-EB9A50": {
+    "expires": "2026-05-03T21:52:34.349Z",
+    "hwid": "10721721037-50660B45-B019-4CD9-8653-84C6E49341EE",
+    "browserHwid": null,
+    "username": "NamiZ_X9",
+    "userId": "10721721037",
+    "source": "script",
+    "createdAt": "2026-05-02T21:52:34.749Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.162.7",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
