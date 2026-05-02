@@ -8113,8 +8113,15 @@
     "userId": "10873919746",
     "source": "script",
     "createdAt": "2026-05-02T20:00:20.498Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-02T20:00:37.119Z",
     "geo": {
+      "ip": "75.84.184.152",
+      "city": "Westminster",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "75.84.184.152",
       "city": "Westminster",
       "region": "California",
