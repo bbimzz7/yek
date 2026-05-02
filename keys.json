@@ -7542,5 +7542,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-ABE661-827EB0-00B9D8": {
+    "expires": "2026-05-03T09:02:58.510Z",
+    "hwid": "8592565362-a0b4d0f5-6d04-421c-9e38-e78a7358b9c2",
+    "browserHwid": null,
+    "username": "alexanita03",
+    "userId": "8592565362",
+    "source": "script",
+    "createdAt": "2026-05-02T09:02:58.731Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.10.88.118",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
