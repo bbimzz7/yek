@@ -8178,8 +8178,15 @@
     "userId": "10798574950",
     "source": "script",
     "createdAt": "2026-05-02T21:08:39.821Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-02T21:08:44.010Z",
     "geo": {
+      "ip": "89.161.95.18",
+      "city": "Siemiatycze",
+      "region": "Podlasie",
+      "country": "Poland",
+      "cc": "PL"
+    },
+    "lastGeo": {
       "ip": "89.161.95.18",
       "city": "Siemiatycze",
       "region": "Podlasie",
