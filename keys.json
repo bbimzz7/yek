@@ -8089,8 +8089,15 @@
     "userId": "7602881629",
     "source": "script",
     "createdAt": "2026-05-02T19:49:16.624Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-02T19:49:23.912Z",
     "geo": {
+      "ip": "62.16.7.97",
+      "city": "Odesa",
+      "region": "Odesa",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "62.16.7.97",
       "city": "Odesa",
       "region": "Odesa",
