@@ -7614,5 +7614,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7527D8-40632D-EF78D0": {
+    "expires": "2026-05-03T09:27:39.115Z",
+    "hwid": "10875295567-37556ef3-6ad7-484c-a864-f9bcfff55ca8",
+    "browserHwid": null,
+    "username": "ksksmakzkamkzmaz",
+    "userId": "10875295567",
+    "source": "script",
+    "createdAt": "2026-05-02T09:27:39.556Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.131.59",
+      "city": "Palangkaraya",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
