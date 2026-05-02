@@ -8152,5 +8152,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7230A5-094CC0-02B542": {
+    "expires": "2026-05-03T21:03:18.988Z",
+    "hwid": "10900223336-4b04e660-6e56-453c-9c14-78353d5b6eb8",
+    "browserHwid": null,
+    "username": "emaks491",
+    "userId": "10900223336",
+    "source": "script",
+    "createdAt": "2026-05-02T21:03:19.411Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.108.177.31",
+      "city": "Xalapa",
+      "region": "Veracruz",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
