@@ -7631,5 +7631,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D11976-9FAB1C-861874": {
+    "expires": "2026-05-03T09:33:44.410Z",
+    "hwid": "9681072284-1d325456-408f-4de9-b1ed-c222ae89f51e",
+    "browserHwid": null,
+    "username": "bowo_174",
+    "userId": "9681072284",
+    "source": "script",
+    "createdAt": "2026-05-02T09:33:44.781Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.101.216.27",
+      "city": "Sungaibamban",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
