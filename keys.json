@@ -8024,10 +8024,17 @@
     "userId": "7042773638",
     "source": "script",
     "createdAt": "2026-05-02T17:48:17.667Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-02T17:48:42.497Z",
     "geo": {
       "ip": "112.215.45.177",
       "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "140.213.14.203",
+      "city": "Central Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
