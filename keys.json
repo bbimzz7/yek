@@ -8257,10 +8257,17 @@
     "userId": "10859621516",
     "source": "script",
     "createdAt": "2026-05-02T22:20:57.378Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-02T22:21:14.337Z",
     "geo": {
       "ip": "112.215.238.123",
       "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "140.213.0.77",
+      "city": "Central Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
