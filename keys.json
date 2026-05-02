@@ -8248,5 +8248,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-842B3F-F83517-42B952": {
+    "expires": "2026-05-03T22:20:56.953Z",
+    "hwid": "10859621516-aea2652b-cc49-411d-a570-01678b62f2d6",
+    "browserHwid": null,
+    "username": "Homeoem",
+    "userId": "10859621516",
+    "source": "script",
+    "createdAt": "2026-05-02T22:20:57.378Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.238.123",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
