@@ -8080,5 +8080,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-754B14-7E94CB-D1DC1B": {
+    "expires": "2026-05-03T19:49:16.168Z",
+    "hwid": "7602881629-fefbdae3-3b7b-4cec-9ce1-bbffe01b5a21",
+    "browserHwid": null,
+    "username": "CAXAPOK_2012438",
+    "userId": "7602881629",
+    "source": "script",
+    "createdAt": "2026-05-02T19:49:16.624Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "62.16.7.97",
+      "city": "Odesa",
+      "region": "Odesa",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
