@@ -7518,5 +7518,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-08A784-EF4D65-2F8025": {
+    "expires": "2026-05-03T09:02:36.112Z",
+    "hwid": "10271938769-8559de49-3196-4f33-8868-efa0cebc42c8",
+    "browserHwid": null,
+    "username": "LANSTEINN",
+    "userId": "10271938769",
+    "source": "script",
+    "createdAt": "2026-05-02T09:02:36.561Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.190.46.226",
+      "city": "Duri",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
