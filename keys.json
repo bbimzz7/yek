@@ -7703,5 +7703,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B107D8-77D2ED-B81466": {
+    "expires": "2026-05-03T11:25:34.971Z",
+    "hwid": "1222889436-016824FA-085E-4BA2-A48C-BB949CEEC7FE",
+    "browserHwid": null,
+    "username": "mohammedirfanhafiz",
+    "userId": "1222889436",
+    "source": "script",
+    "createdAt": "2026-05-02T11:25:35.392Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "60.48.168.96",
+      "city": "Kajang",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
