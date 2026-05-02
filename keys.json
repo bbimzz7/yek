@@ -7823,5 +7823,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-A94DEA-F46CC4-62A3FE": {
+    "expires": "2026-05-03T14:27:59.650Z",
+    "hwid": "9630981670-57F93CAC-813A-4196-B551-E860A660F3B9",
+    "browserHwid": null,
+    "username": "pecelleleabah04",
+    "userId": "9630981670",
+    "source": "script",
+    "createdAt": "2026-05-02T14:28:00.100Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.94.204.189",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
