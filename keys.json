@@ -7904,8 +7904,15 @@
     "userId": "7519017464",
     "source": "script",
     "createdAt": "2026-05-02T16:29:30.578Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-02T16:29:39.864Z",
     "geo": {
+      "ip": "103.55.224.210",
+      "city": "Pameungpeuk",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.55.224.210",
       "city": "Pameungpeuk",
       "region": "West Java",
