@@ -7325,5 +7325,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-DF4E94-7C6C0C-8C9A1C": {
+    "expires": "2026-05-03T06:05:31.482Z",
+    "hwid": "10708810469-149051e6-e992-4a47-b4b3-930fae66a2de",
+    "browserHwid": null,
+    "username": "xWukongAura",
+    "userId": "10708810469",
+    "source": "script",
+    "createdAt": "2026-05-02T06:05:32.821Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "122.148.242.65",
+      "city": "Perth",
+      "region": "Western Australia",
+      "country": "Australia",
+      "cc": "AU"
+    }
   }
 }
