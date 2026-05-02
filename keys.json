@@ -7590,5 +7590,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-ABD868-BD37D0-8E6FC1": {
+    "expires": "2026-05-03T09:22:00.234Z",
+    "hwid": "7476268255-440e4427-6ccd-47eb-9a69-c2bf16c5cf8e",
+    "browserHwid": null,
+    "username": "maskits69",
+    "userId": "7476268255",
+    "source": "script",
+    "createdAt": "2026-05-02T09:22:00.634Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.138.84.149",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
