@@ -8104,5 +8104,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-D667C7-82B8E0-EB082C": {
+    "expires": "2026-05-03T20:00:20.027Z",
+    "hwid": "10873919746-cb470d1c-4d6e-435d-b297-6b914f2763f4",
+    "browserHwid": null,
+    "username": "Yoursogoodbro768",
+    "userId": "10873919746",
+    "source": "script",
+    "createdAt": "2026-05-02T20:00:20.498Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "75.84.184.152",
+      "city": "Westminster",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
