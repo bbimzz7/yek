@@ -8345,5 +8345,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CEF553-373DE8-371385": {
+    "expires": "2026-05-04T01:56:59.271Z",
+    "hwid": "9775675180-207292bf-a45f-4eec-b26a-9caff7b77c18",
+    "browserHwid": null,
+    "username": "jakerx_4",
+    "userId": "9775675180",
+    "source": "script",
+    "createdAt": "2026-05-03T01:56:59.699Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.129.62.253",
+      "city": "Oaxaca City",
+      "region": "Oaxaca",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
