@@ -8539,8 +8539,15 @@
     "userId": "2723178219",
     "source": "script",
     "createdAt": "2026-05-03T06:03:23.828Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T06:03:37.886Z",
     "geo": {
+      "ip": "24.28.171.203",
+      "city": "Irving",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "24.28.171.203",
       "city": "Irving",
       "region": "Texas",
