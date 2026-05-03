@@ -8909,8 +8909,15 @@
     "userId": "10256021236",
     "source": "script",
     "createdAt": "2026-05-03T11:44:59.431Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T11:46:14.176Z",
     "geo": {
+      "ip": "180.248.170.43",
+      "city": "Kotamobagu",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.248.170.43",
       "city": "Kotamobagu",
       "region": "North Sulawesi",
