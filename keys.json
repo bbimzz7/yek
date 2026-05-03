@@ -9269,8 +9269,15 @@
     "userId": "7711946278",
     "source": "script",
     "createdAt": "2026-05-03T18:14:27.259Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T18:14:39.423Z",
     "geo": {
+      "ip": "73.84.247.176",
+      "city": "West Palm Beach",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.84.247.176",
       "city": "West Palm Beach",
       "region": "Florida",
