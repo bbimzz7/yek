@@ -8996,5 +8996,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-4E405A-067909-EC65D5": {
+    "expires": "2026-05-04T12:52:35.834Z",
+    "hwid": "10028252899-67613d9e-1acc-4579-bf9a-bc77ba7b33d7",
+    "browserHwid": null,
+    "username": "bbt_2820",
+    "userId": "10028252899",
+    "source": "script",
+    "createdAt": "2026-05-03T12:52:36.275Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.242.195.230",
+      "city": "Kota Batam",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
