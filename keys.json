@@ -9092,5 +9092,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-213144-0F8698-53C3F2": {
+    "expires": "2026-05-04T14:30:55.962Z",
+    "hwid": "9341780314-ad831e67-6528-4ef7-8c4b-9ac55f43f371",
+    "browserHwid": null,
+    "username": "kireiwg",
+    "userId": "9341780314",
+    "source": "script",
+    "createdAt": "2026-05-03T14:30:56.413Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.162.221.101",
+      "city": "Madiun",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
