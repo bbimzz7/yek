@@ -8948,5 +8948,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-185686-D53D0A-36520C": {
+    "expires": "2026-05-04T11:56:00.205Z",
+    "hwid": "10172929906-fbb2952f-ccfa-402b-8c47-c2e02d2989c4",
+    "browserHwid": null,
+    "username": "ccgoku300",
+    "userId": "10172929906",
+    "source": "script",
+    "createdAt": "2026-05-03T11:56:00.431Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.35.73.207",
+      "city": "Dayton",
+      "region": "Ohio",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
