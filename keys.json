@@ -8467,7 +8467,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-05-03T05:16:06.336Z",
-    "lastUsed": "2026-05-03T06:07:52.451Z",
+    "lastUsed": "2026-05-03T06:23:30.177Z",
     "geo": {
       "ip": "112.215.235.133",
       "city": "Jakarta",
@@ -8476,8 +8476,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.2.200",
-      "city": "Central Jakarta",
+      "ip": "140.213.33.57",
+      "city": "North Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
