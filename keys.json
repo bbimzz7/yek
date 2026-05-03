@@ -9284,5 +9284,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-0FFD57-08B4D0-A6F52C": {
+    "expires": "2026-05-04T18:42:59.718Z",
+    "hwid": "1866845034-de1f87e3-a29a-4424-b99f-2d06a8ea3725",
+    "browserHwid": null,
+    "username": "layuyis123h",
+    "userId": "1866845034",
+    "source": "script",
+    "createdAt": "2026-05-03T18:43:00.157Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.190.4.147",
+      "city": "Benito Juarez",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
