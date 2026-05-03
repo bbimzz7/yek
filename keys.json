@@ -9044,5 +9044,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-BB5AA4-7ECC4F-06927B": {
+    "expires": "2026-05-04T14:09:15.306Z",
+    "hwid": "10903218216-97e56ed6-5f74-451d-9385-f2c60c2a0f5a",
+    "browserHwid": null,
+    "username": "fhfgfzzchrz",
+    "userId": "10903218216",
+    "source": "script",
+    "createdAt": "2026-05-03T14:09:15.771Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.211.3.187",
+      "city": "Berlin",
+      "region": "State of Berlin",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
