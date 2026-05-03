@@ -8820,8 +8820,15 @@
     "userId": "7375121341",
     "source": "script",
     "createdAt": "2026-05-03T10:14:54.634Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T10:15:03.660Z",
     "geo": {
+      "ip": "223.25.58.120",
+      "city": "Olongapo City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "223.25.58.120",
       "city": "Olongapo City",
       "region": "Central Luzon",
