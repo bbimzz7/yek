@@ -9188,5 +9188,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-503917-4C8F7C-D98DCD": {
+    "expires": "2026-05-04T16:31:25.423Z",
+    "hwid": "10898051277-b0536e77-b267-4b78-857c-cb235e42c357",
+    "browserHwid": null,
+    "username": "chyggggggggg7",
+    "userId": "10898051277",
+    "source": "script",
+    "createdAt": "2026-05-03T16:31:25.867Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.3.73.19",
+      "city": "Kota Jambi",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
