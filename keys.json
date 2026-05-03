@@ -9101,13 +9101,20 @@
     "userId": "9341780314",
     "source": "script",
     "createdAt": "2026-05-03T14:30:56.413Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T14:31:20.726Z",
     "geo": {
       "ip": "103.162.221.101",
       "city": "Madiun",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "162.128.184.218",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
     }
   }
 }
