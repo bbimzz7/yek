@@ -8876,5 +8876,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-23DEE5-602550-6C2EC6": {
+    "expires": "2026-05-04T11:36:12.025Z",
+    "hwid": "10743261438-fc181e2d-0c4d-4ec7-8d57-2c7c9ea80a08",
+    "browserHwid": null,
+    "username": "korea_jepang11",
+    "userId": "10743261438",
+    "source": "script",
+    "createdAt": "2026-05-03T11:36:12.473Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.226.44.81",
+      "city": "Boyolali",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
