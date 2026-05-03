@@ -8530,5 +8530,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-26CE7F-E3D2CB-FA4D54": {
+    "expires": "2026-05-04T06:03:23.369Z",
+    "hwid": "2723178219-E6E64E91-3595-4043-9E4A-EF9495B2D987",
+    "browserHwid": null,
+    "username": "Xxxtentacion260116",
+    "userId": "2723178219",
+    "source": "script",
+    "createdAt": "2026-05-03T06:03:23.828Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.28.171.203",
+      "city": "Irving",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
