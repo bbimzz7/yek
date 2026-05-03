@@ -8981,8 +8981,15 @@
     "userId": "9959311926",
     "source": "script",
     "createdAt": "2026-05-03T12:42:30.166Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T12:43:45.986Z",
     "geo": {
+      "ip": "104.28.156.112",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    },
+    "lastGeo": {
       "ip": "104.28.156.112",
       "city": "Singapore",
       "region": "North West",
