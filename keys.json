@@ -8772,8 +8772,15 @@
     "userId": "9696541703",
     "source": "script",
     "createdAt": "2026-05-03T09:15:41.413Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T09:15:50.011Z",
     "geo": {
+      "ip": "180.247.58.165",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.247.58.165",
       "city": "Bekasi",
       "region": "West Java",
