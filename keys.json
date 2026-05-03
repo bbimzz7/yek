@@ -9332,5 +9332,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-300334-509CB3-3E396E": {
+    "expires": "2026-05-04T21:13:28.158Z",
+    "hwid": "10014339770-72166268-7751-49fd-8e13-660019f73f17",
+    "browserHwid": null,
+    "username": "soloamigos190",
+    "userId": "10014339770",
+    "source": "script",
+    "createdAt": "2026-05-03T21:13:28.600Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.242.25.126",
+      "city": "Zacapu",
+      "region": "Michoacán",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
