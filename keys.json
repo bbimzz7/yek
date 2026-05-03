@@ -8748,8 +8748,15 @@
     "userId": "9037648617",
     "source": "script",
     "createdAt": "2026-05-03T09:11:09.026Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T09:12:32.437Z",
     "geo": {
+      "ip": "112.208.229.11",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.208.229.11",
       "city": "Manila",
       "region": "Metro Manila",
