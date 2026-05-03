@@ -9068,5 +9068,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-3DA789-2250A5-BAAF01": {
+    "expires": "2026-05-04T14:29:32.637Z",
+    "hwid": "3618663044-86E186FF-F09E-45B7-86FB-8CDF3ACABAF9",
+    "browserHwid": null,
+    "username": "urlove14",
+    "userId": "3618663044",
+    "source": "script",
+    "createdAt": "2026-05-03T14:29:33.066Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.138.244.31",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
