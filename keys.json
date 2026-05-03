@@ -9020,5 +9020,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6457BD-0E3D52-71CFBC": {
+    "expires": "2026-05-04T13:01:53.180Z",
+    "hwid": "10901613160-d4d4b8d8-6bdf-4b22-808d-b36383bfe7f1",
+    "browserHwid": null,
+    "username": "XxyulianxX99",
+    "userId": "10901613160",
+    "source": "script",
+    "createdAt": "2026-05-03T13:01:53.582Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.49.98.102",
+      "city": "El Limón",
+      "region": "Samaná",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
