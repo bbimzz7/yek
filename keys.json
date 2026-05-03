@@ -7269,7 +7269,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-05-02T05:07:57.875Z",
-    "lastUsed": "2026-05-03T04:19:13.107Z",
+    "lastUsed": "2026-05-03T04:22:37.337Z",
     "geo": {
       "ip": "36.72.48.97",
       "city": "Bekasi",
@@ -7278,9 +7278,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "160.20.38.118",
-      "city": "Indramayu",
-      "region": "West Java",
+      "ip": "140.213.2.200",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
