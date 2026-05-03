@@ -9341,8 +9341,15 @@
     "userId": "10014339770",
     "source": "script",
     "createdAt": "2026-05-03T21:13:28.600Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T21:14:30.030Z",
     "geo": {
+      "ip": "177.242.25.126",
+      "city": "Zacapu",
+      "region": "Michoacán",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "177.242.25.126",
       "city": "Zacapu",
       "region": "Michoacán",
