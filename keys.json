@@ -8900,5 +8900,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5BBAB7-A061DE-931BAB": {
+    "expires": "2026-05-04T11:44:59.016Z",
+    "hwid": "10256021236-9f3d827b-f110-4269-b7d5-3abd7eba9c18",
+    "browserHwid": null,
+    "username": "jokowo15",
+    "userId": "10256021236",
+    "source": "script",
+    "createdAt": "2026-05-03T11:44:59.431Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.248.170.43",
+      "city": "Kotamobagu",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
