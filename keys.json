@@ -8933,8 +8933,15 @@
     "userId": "9985795206",
     "source": "script",
     "createdAt": "2026-05-03T11:54:43.471Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T11:55:06.601Z",
     "geo": {
+      "ip": "204.51.34.215",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "204.51.34.215",
       "city": "Jakarta",
       "region": "Jakarta",
