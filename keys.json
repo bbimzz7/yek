@@ -9140,5 +9140,22 @@
       "country": "Myanmar",
       "cc": "MM"
     }
+  },
+  "VH-28A2FA-09348C-89F0B2": {
+    "expires": "2026-05-04T14:56:27.285Z",
+    "hwid": "10877847344-cd37d93b-4a6d-467f-a326-52f55ad6f244",
+    "browserHwid": null,
+    "username": "STARxSTORE",
+    "userId": "10877847344",
+    "source": "script",
+    "createdAt": "2026-05-03T14:56:27.692Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.23.109",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
