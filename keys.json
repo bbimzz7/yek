@@ -8972,5 +8972,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-606284-E386E0-DB0708": {
+    "expires": "2026-05-04T12:42:29.730Z",
+    "hwid": "9959311926-b9167ab5-192e-41be-8fb3-ad7ae7b1ea0a",
+    "browserHwid": null,
+    "username": "Madakods",
+    "userId": "9959311926",
+    "source": "script",
+    "createdAt": "2026-05-03T12:42:30.166Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.156.112",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
