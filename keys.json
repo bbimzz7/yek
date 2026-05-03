@@ -9053,8 +9053,15 @@
     "userId": "10903218216",
     "source": "script",
     "createdAt": "2026-05-03T14:09:15.771Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T14:14:21.722Z",
     "geo": {
+      "ip": "92.211.3.187",
+      "city": "Berlin",
+      "region": "State of Berlin",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "92.211.3.187",
       "city": "Berlin",
       "region": "State of Berlin",
