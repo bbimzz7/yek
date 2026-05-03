@@ -9005,8 +9005,15 @@
     "userId": "10028252899",
     "source": "script",
     "createdAt": "2026-05-03T12:52:36.275Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T12:57:59.876Z",
     "geo": {
+      "ip": "180.242.195.230",
+      "city": "Kota Batam",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.242.195.230",
       "city": "Kota Batam",
       "region": "Riau Islands",
