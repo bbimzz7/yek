@@ -8458,5 +8458,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-F52C7B-A39E34-306143": {
+    "expires": "2026-05-04T05:16:05.910Z",
+    "hwid": "9439740680-1b135b30-528d-46ed-bf81-e7191d20943c",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-05-03T05:16:06.336Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.235.133",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
