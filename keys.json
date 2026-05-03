@@ -9212,5 +9212,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-907F78-77ED47-B8A4CC": {
+    "expires": "2026-05-04T16:44:16.228Z",
+    "hwid": "8920989617-c7844233-5564-44a1-845f-b8ea9d79d49c",
+    "browserHwid": null,
+    "username": "Zoil_arenk",
+    "userId": "8920989617",
+    "source": "script",
+    "createdAt": "2026-05-03T16:44:16.680Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.104.6.83",
+      "city": "Ben Arous",
+      "region": "Ben Arous Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    }
   }
 }
