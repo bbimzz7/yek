@@ -9164,5 +9164,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A963EE-DBC42F-3C827C": {
+    "expires": "2026-05-04T15:14:03.418Z",
+    "hwid": "9023760511-57BAA078-6641-4772-BD0A-7E0F3CF72AB7",
+    "browserHwid": null,
+    "username": "Shaz_Z7",
+    "userId": "9023760511",
+    "source": "script",
+    "createdAt": "2026-05-03T15:14:03.900Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.198.52.232",
+      "city": "Durian Tunggal",
+      "region": "Melaka",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
