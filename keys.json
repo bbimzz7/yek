@@ -8371,8 +8371,15 @@
     "userId": "5236260648",
     "source": "script",
     "createdAt": "2026-05-03T03:27:04.724Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T03:27:13.437Z",
     "geo": {
+      "ip": "97.155.146.44",
+      "city": "Austin",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "97.155.146.44",
       "city": "Austin",
       "region": "Texas",
