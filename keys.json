@@ -8667,5 +8667,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-811249-92B1BB-8F8E92": {
+    "expires": "2026-05-04T07:44:01.762Z",
+    "hwid": "8129965307-e050be3f-2f4c-4df3-b84f-73f2d250a28e",
+    "browserHwid": null,
+    "username": "Campink_89",
+    "userId": "8129965307",
+    "source": "script",
+    "createdAt": "2026-05-03T07:44:02.202Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.128.104.245",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
