@@ -8410,5 +8410,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-ABD7A0-B32461-162958": {
+    "expires": "2026-05-04T03:55:31.711Z",
+    "hwid": "8198660701-B6E315EF-0A6B-472D-A71B-210D93D6E2D2",
+    "browserHwid": null,
+    "username": "abssywalker7",
+    "userId": "8198660701",
+    "source": "script",
+    "createdAt": "2026-05-03T03:55:32.138Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "59.153.130.167",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
