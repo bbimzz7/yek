@@ -9308,5 +9308,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-74A9CF-99F94F-FA4DD1": {
+    "expires": "2026-05-04T19:39:26.142Z",
+    "hwid": "10511674314-9357b935-19d6-4293-b124-5e85f82921da",
+    "browserHwid": null,
+    "username": "Spamme0987",
+    "userId": "10511674314",
+    "source": "script",
+    "createdAt": "2026-05-03T19:39:26.738Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "71.115.182.136",
+      "city": "East Syracuse",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
