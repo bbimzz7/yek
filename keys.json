@@ -9173,8 +9173,15 @@
     "userId": "9023760511",
     "source": "script",
     "createdAt": "2026-05-03T15:14:03.900Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T15:14:13.510Z",
     "geo": {
+      "ip": "103.198.52.232",
+      "city": "Durian Tunggal",
+      "region": "Melaka",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "103.198.52.232",
       "city": "Durian Tunggal",
       "region": "Melaka",
