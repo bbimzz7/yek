@@ -9029,8 +9029,15 @@
     "userId": "10901613160",
     "source": "script",
     "createdAt": "2026-05-03T13:01:53.582Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T13:02:04.762Z",
     "geo": {
+      "ip": "38.49.98.102",
+      "city": "El Limón",
+      "region": "Samaná",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    },
+    "lastGeo": {
       "ip": "38.49.98.102",
       "city": "El Limón",
       "region": "Samaná",
