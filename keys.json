@@ -9125,8 +9125,15 @@
     "userId": "8287517517",
     "source": "script",
     "createdAt": "2026-05-03T14:43:07.196Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T14:43:15.275Z",
     "geo": {
+      "ip": "45.41.110.106",
+      "city": "Botataung",
+      "region": "Yangon",
+      "country": "Myanmar",
+      "cc": "MM"
+    },
+    "lastGeo": {
       "ip": "45.41.110.106",
       "city": "Botataung",
       "region": "Yangon",
