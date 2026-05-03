@@ -9293,8 +9293,15 @@
     "userId": "1866845034",
     "source": "script",
     "createdAt": "2026-05-03T18:43:00.157Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T18:43:09.166Z",
     "geo": {
+      "ip": "187.190.4.147",
+      "city": "Benito Juarez",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.190.4.147",
       "city": "Benito Juarez",
       "region": "Mexico City",
