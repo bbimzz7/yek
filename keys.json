@@ -8643,5 +8643,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-04DFA7-F070B5-D02D30": {
+    "expires": "2026-05-04T07:27:00.470Z",
+    "hwid": "4048326499-25beebe7-1ee4-4e30-a847-87d5133b7bc7",
+    "browserHwid": null,
+    "username": "FaZeVPN3",
+    "userId": "4048326499",
+    "source": "script",
+    "createdAt": "2026-05-03T07:27:00.923Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "75.66.42.177",
+      "city": "Memphis",
+      "region": "Tennessee",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
