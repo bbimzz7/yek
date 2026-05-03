@@ -8700,8 +8700,15 @@
     "userId": "10582010800",
     "source": "script",
     "createdAt": "2026-05-03T08:37:45.460Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-03T08:40:28.202Z",
     "geo": {
+      "ip": "125.165.154.70",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.165.154.70",
       "city": "South Tangerang",
       "region": "Banten",
