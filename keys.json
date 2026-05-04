@@ -9572,5 +9572,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-3AEFFB-D584C7-E33222": {
+    "expires": "2026-05-05T07:32:43.002Z",
+    "hwid": "8418225441-91444220-7169-4017-9c66-5868d8c39588",
+    "browserHwid": null,
+    "username": "seok_paquito0",
+    "userId": "8418225441",
+    "source": "script",
+    "createdAt": "2026-05-04T07:32:43.479Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.147.246.106",
+      "city": "Pasarkemis",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
