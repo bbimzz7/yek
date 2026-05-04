@@ -9743,14 +9743,22 @@
   },
   "VH-524D87-AE2083-19B6B4": {
     "expires": "2026-05-05T11:50:11.138Z",
-    "hwid": null,
+    "hwid": "4631766436-f028e09c-e128-4b53-8f43-8c782ca5de13",
     "browserHwid": "BR-1FBE3866-AYHP3",
     "username": "Levi_Chentsz",
-    "userId": null,
+    "userId": "4631766436",
     "source": "browser",
     "createdAt": "2026-05-04T11:50:11.455Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T11:51:36.918Z",
     "geo": {
+      "ip": "103.18.34.213",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-05-04T11:51:36.910Z",
+    "lastGeo": {
       "ip": "103.18.34.213",
       "city": "Depok",
       "region": "West Java",
