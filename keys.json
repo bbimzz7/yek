@@ -9548,5 +9548,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7B9705-0673AF-1F42E3": {
+    "expires": "2026-05-05T06:32:51.006Z",
+    "hwid": "5188180445-8298613f-c0f8-425d-a6f7-671dcf46ead1",
+    "browserHwid": null,
+    "username": "ZEROOX52",
+    "userId": "5188180445",
+    "source": "script",
+    "createdAt": "2026-05-04T06:32:51.478Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.56.219.87",
+      "city": "Chiclayo",
+      "region": "Lambayeque",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
