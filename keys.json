@@ -9533,8 +9533,15 @@
     "userId": "9957929166",
     "source": "script",
     "createdAt": "2026-05-04T06:29:28.467Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T06:29:41.688Z",
     "geo": {
+      "ip": "203.84.142.42",
+      "city": "Kelanabian",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "203.84.142.42",
       "city": "Kelanabian",
       "region": "Bali",
