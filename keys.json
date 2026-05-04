@@ -10029,5 +10029,22 @@
       "country": "Spain",
       "cc": "ES"
     }
+  },
+  "VH-C7E203-7EAED4-B6639B": {
+    "expires": "2026-05-05T17:07:43.275Z",
+    "hwid": "8302870200-5cb7506b-697b-4d82-ae76-cc86e950b82e",
+    "browserHwid": null,
+    "username": "roblox_user_8302870200",
+    "userId": "8302870200",
+    "source": "script",
+    "createdAt": "2026-05-04T17:07:43.761Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "217.142.18.172",
+      "city": "Berlin",
+      "region": "Land Berlin",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
