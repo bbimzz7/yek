@@ -9557,8 +9557,15 @@
     "userId": "5188180445",
     "source": "script",
     "createdAt": "2026-05-04T06:32:51.478Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T06:33:01.739Z",
     "geo": {
+      "ip": "38.56.219.87",
+      "city": "Chiclayo",
+      "region": "Lambayeque",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
       "ip": "38.56.219.87",
       "city": "Chiclayo",
       "region": "Lambayeque",
