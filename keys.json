@@ -9677,8 +9677,15 @@
     "userId": "10767988609",
     "source": "script",
     "createdAt": "2026-05-04T08:37:13.920Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T08:37:25.579Z",
     "geo": {
+      "ip": "157.10.109.74",
+      "city": "Pangkalpinang",
+      "region": "Bangka–Belitung Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.10.109.74",
       "city": "Pangkalpinang",
       "region": "Bangka–Belitung Islands",
