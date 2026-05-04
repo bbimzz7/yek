@@ -10086,8 +10086,15 @@
     "userId": "8920989617",
     "source": "script",
     "createdAt": "2026-05-04T17:44:26.416Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T17:44:37.256Z",
     "geo": {
+      "ip": "196.178.134.81",
+      "city": "La Marsa",
+      "region": "Tunis Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    },
+    "lastGeo": {
       "ip": "196.178.134.81",
       "city": "La Marsa",
       "region": "Tunis Governorate",
