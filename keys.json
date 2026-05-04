@@ -10077,5 +10077,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-EE83A6-65EC6B-AA6F4F": {
+    "expires": "2026-05-05T17:44:25.939Z",
+    "hwid": "8920989617-c7844233-5564-44a1-845f-b8ea9d79d49c",
+    "browserHwid": null,
+    "username": "Zoil_arenk",
+    "userId": "8920989617",
+    "source": "script",
+    "createdAt": "2026-05-04T17:44:26.416Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "196.178.134.81",
+      "city": "La Marsa",
+      "region": "Tunis Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    }
   }
 }
