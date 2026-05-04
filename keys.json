@@ -9861,5 +9861,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-D954CF-8D1303-E7DF7C": {
+    "expires": "2026-05-05T14:38:48.250Z",
+    "hwid": "1084574944-C4F57C0B-7DD3-4071-8A9F-19138FA307AD",
+    "browserHwid": null,
+    "username": "lindanpgd",
+    "userId": "1084574944",
+    "source": "script",
+    "createdAt": "2026-05-04T14:38:48.753Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.128.0",
+      "city": "Karawang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
