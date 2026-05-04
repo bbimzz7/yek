@@ -10007,8 +10007,15 @@
     "userId": "8196736327",
     "source": "script",
     "createdAt": "2026-05-04T16:36:56.601Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T16:37:04.114Z",
     "geo": {
+      "ip": "47.61.200.204",
+      "city": "Torrent",
+      "region": "Valencia",
+      "country": "Spain",
+      "cc": "ES"
+    },
+    "lastGeo": {
       "ip": "47.61.200.204",
       "city": "Torrent",
       "region": "Valencia",
