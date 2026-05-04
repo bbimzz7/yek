@@ -9413,8 +9413,15 @@
     "userId": "10049730425",
     "source": "script",
     "createdAt": "2026-05-04T01:10:58.499Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T01:11:36.283Z",
     "geo": {
+      "ip": "189.203.187.202",
+      "city": "Benito Juarez",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.203.187.202",
       "city": "Benito Juarez",
       "region": "Mexico City",
