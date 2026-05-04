@@ -9509,8 +9509,15 @@
     "userId": "7894678080",
     "source": "script",
     "createdAt": "2026-05-04T05:40:31.606Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T05:41:52.395Z",
     "geo": {
+      "ip": "51.39.95.119",
+      "city": "Jeddah",
+      "region": "Mecca Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    },
+    "lastGeo": {
       "ip": "51.39.95.119",
       "city": "Jeddah",
       "region": "Mecca Region",
