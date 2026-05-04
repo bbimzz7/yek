@@ -10101,5 +10101,22 @@
       "country": "Tunisia",
       "cc": "TN"
     }
+  },
+  "VH-0CE774-0A2C9B-CF2FE7": {
+    "expires": "2026-05-05T18:13:15.738Z",
+    "hwid": "9985795206-4c2026e0-709e-4de6-930a-f45de304a7cd",
+    "browserHwid": null,
+    "username": "ayucantik_7283",
+    "userId": "9985795206",
+    "source": "script",
+    "createdAt": "2026-05-04T18:13:16.240Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.6.71.242",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
