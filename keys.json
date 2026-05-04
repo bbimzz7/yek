@@ -9822,9 +9822,16 @@
     "userId": "10081948085",
     "source": "script",
     "createdAt": "2026-05-04T12:58:21.641Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T12:58:37.118Z",
     "geo": {
       "ip": "140.213.30.187",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "140.213.250.254",
       "city": "South Tangerang",
       "region": "Banten",
       "country": "Indonesia",
