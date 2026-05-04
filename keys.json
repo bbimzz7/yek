@@ -9789,5 +9789,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-A7A714-AF80B4-24E806": {
+    "expires": "2026-05-05T12:49:52.804Z",
+    "hwid": "9036002578-036f18a8-9a88-44e4-8b37-d19d0f12d2ab",
+    "browserHwid": null,
+    "username": "yoshi_aaa4",
+    "userId": "9036002578",
+    "source": "script",
+    "createdAt": "2026-05-04T12:49:53.288Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.42.243.178",
+      "city": "Pemalang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
