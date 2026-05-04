@@ -9404,5 +9404,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E62DA1-8CD2D1-B89001": {
+    "expires": "2026-05-05T01:10:58.052Z",
+    "hwid": "10049730425-d14f10e7-50ca-432a-82e7-b059e28720ce",
+    "browserHwid": null,
+    "username": "almacen_RyZe",
+    "userId": "10049730425",
+    "source": "script",
+    "createdAt": "2026-05-04T01:10:58.499Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.203.187.202",
+      "city": "Benito Juarez",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
