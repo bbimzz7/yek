@@ -9885,5 +9885,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2ED240-3BB620-A8C3D1": {
+    "expires": "2026-05-05T15:09:54.579Z",
+    "hwid": "10895736258-9d067ce6-6475-4e2c-bca5-9d6edef0d23b",
+    "browserHwid": null,
+    "username": "rafli12345678770",
+    "userId": "10895736258",
+    "source": "script",
+    "createdAt": "2026-05-04T15:09:55.097Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.235.212.119",
+      "city": "Kota Jambi",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
