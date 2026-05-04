@@ -9870,8 +9870,15 @@
     "userId": "1084574944",
     "source": "script",
     "createdAt": "2026-05-04T14:38:48.753Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T14:38:56.187Z",
     "geo": {
+      "ip": "182.253.128.0",
+      "city": "Karawang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.253.128.0",
       "city": "Karawang",
       "region": "West Java",
