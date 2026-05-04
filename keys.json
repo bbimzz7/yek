@@ -9774,8 +9774,15 @@
     "userId": "9067078642",
     "source": "script",
     "createdAt": "2026-05-04T12:39:09.715Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T12:39:17.724Z",
     "geo": {
+      "ip": "178.237.248.48",
+      "city": "St Petersburg",
+      "region": "St.-Petersburg",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "178.237.248.48",
       "city": "St Petersburg",
       "region": "St.-Petersburg",
