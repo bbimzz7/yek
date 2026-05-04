@@ -9894,8 +9894,15 @@
     "userId": "10895736258",
     "source": "script",
     "createdAt": "2026-05-04T15:09:55.097Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T15:13:56.392Z",
     "geo": {
+      "ip": "119.235.212.119",
+      "city": "Kota Jambi",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "119.235.212.119",
       "city": "Kota Jambi",
       "region": "Jambi",
