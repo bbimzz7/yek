@@ -10176,14 +10176,22 @@
   },
   "VH-1BF934-D52408-14D9DD": {
     "expires": "2026-05-05T21:07:58.031Z",
-    "hwid": null,
+    "hwid": "9458171969-EBF465B5-B18F-4299-BD87-227ACEB90C4F",
     "browserHwid": "BR-4E4F201F-AEH52",
     "username": "itsmeryflll",
-    "userId": null,
+    "userId": "9458171969",
     "source": "browser",
     "createdAt": "2026-05-04T21:07:58.542Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T21:09:13.394Z",
     "geo": {
+      "ip": "180.251.159.47",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-05-04T21:09:13.377Z",
+    "lastGeo": {
       "ip": "180.251.159.47",
       "city": "Makassar",
       "region": "South Sulawesi",
