@@ -9461,8 +9461,15 @@
     "userId": "9289635581",
     "source": "script",
     "createdAt": "2026-05-04T04:54:51.699Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T04:55:02.897Z",
     "geo": {
+      "ip": "59.132.251.139",
+      "city": "Eniwa",
+      "region": "Hokkaido",
+      "country": "Japan",
+      "cc": "JP"
+    },
+    "lastGeo": {
       "ip": "59.132.251.139",
       "city": "Eniwa",
       "region": "Hokkaido",
