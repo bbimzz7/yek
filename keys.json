@@ -9668,5 +9668,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-529293-18E024-032542": {
+    "expires": "2026-05-05T08:37:13.352Z",
+    "hwid": "10767988609-2dbe5e5d-a4cd-44bc-a8d1-c610a2b2bbea",
+    "browserHwid": null,
+    "username": "asyaa_imutt00",
+    "userId": "10767988609",
+    "source": "script",
+    "createdAt": "2026-05-04T08:37:13.920Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.10.109.74",
+      "city": "Pangkalpinang",
+      "region": "Bangka–Belitung Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
