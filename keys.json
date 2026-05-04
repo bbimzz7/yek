@@ -9998,5 +9998,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BC0683-54D040-F1EBEE": {
+    "expires": "2026-05-05T16:36:56.330Z",
+    "hwid": "8196736327-2501a1dd-c9d8-4d07-96c1-591fbf0e8964",
+    "browserHwid": null,
+    "username": "Yanira3r",
+    "userId": "8196736327",
+    "source": "script",
+    "createdAt": "2026-05-04T16:36:56.601Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "47.61.200.204",
+      "city": "Torrent",
+      "region": "Valencia",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
