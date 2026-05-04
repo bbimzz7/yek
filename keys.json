@@ -10053,5 +10053,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-43F65F-42A28B-BA98B5": {
+    "expires": "2026-05-05T17:27:28.737Z",
+    "hwid": "4965645215-929A8977-337C-44FB-897B-DBE8C9060E8A",
+    "browserHwid": null,
+    "username": "v5a2c5",
+    "userId": "4965645215",
+    "source": "script",
+    "createdAt": "2026-05-04T17:27:29.212Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.192.23.223",
+      "city": "Rio de Janeiro",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
