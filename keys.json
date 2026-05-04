@@ -10222,5 +10222,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-7544A4-DD26D0-8F38D4": {
+    "expires": "2026-05-05T22:44:17.079Z",
+    "hwid": "134850788-2B94748F-E5DE-4077-985B-DC1DADD86D30",
+    "browserHwid": null,
+    "username": "ipannoah",
+    "userId": "134850788",
+    "source": "script",
+    "createdAt": "2026-05-04T22:44:17.526Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.182.97",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
