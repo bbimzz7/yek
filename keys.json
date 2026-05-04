@@ -9524,5 +9524,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-E2BB53-541592-2E1709": {
+    "expires": "2026-05-05T06:29:28.026Z",
+    "hwid": "9957929166-6123d50b-55e4-4a74-b815-a91c76d6156e",
+    "browserHwid": null,
+    "username": "Rava_ganteng1265",
+    "userId": "9957929166",
+    "source": "script",
+    "createdAt": "2026-05-04T06:29:28.467Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.84.142.42",
+      "city": "Kelanabian",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
