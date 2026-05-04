@@ -9500,5 +9500,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B87A26-11198B-B199B4": {
+    "expires": "2026-05-05T05:40:31.144Z",
+    "hwid": "7894678080-5bc85070-d7f3-44ab-9b37-2ccdcdde9782",
+    "browserHwid": null,
+    "username": "9ilix_F3",
+    "userId": "7894678080",
+    "source": "script",
+    "createdAt": "2026-05-04T05:40:31.606Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "51.39.95.119",
+      "city": "Jeddah",
+      "region": "Mecca Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
