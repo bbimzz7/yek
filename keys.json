@@ -10038,8 +10038,15 @@
     "userId": "8302870200",
     "source": "script",
     "createdAt": "2026-05-04T17:07:43.761Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-04T17:08:46.889Z",
     "geo": {
+      "ip": "217.142.18.172",
+      "city": "Berlin",
+      "region": "Land Berlin",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "217.142.18.172",
       "city": "Berlin",
       "region": "Land Berlin",
