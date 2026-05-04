@@ -9452,5 +9452,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-00F07D-A65E18-47E6A2": {
+    "expires": "2026-05-05T04:54:51.251Z",
+    "hwid": "9289635581-398f4305-b0bf-4f4b-8d54-075021bc0165",
+    "browserHwid": null,
+    "username": "t1tangu45",
+    "userId": "9289635581",
+    "source": "script",
+    "createdAt": "2026-05-04T04:54:51.699Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "59.132.251.139",
+      "city": "Eniwa",
+      "region": "Hokkaido",
+      "country": "Japan",
+      "cc": "JP"
+    }
   }
 }
