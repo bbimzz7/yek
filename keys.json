@@ -9765,5 +9765,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F717BA-CAAF79-1C45B8": {
+    "expires": "2026-05-05T12:39:09.104Z",
+    "hwid": "9067078642-2785E6A7-FDC0-498F-9E1B-8E6482990A9D",
+    "browserHwid": null,
+    "username": "plsdontban_2",
+    "userId": "9067078642",
+    "source": "script",
+    "createdAt": "2026-05-04T12:39:09.715Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.237.248.48",
+      "city": "St Petersburg",
+      "region": "St.-Petersburg",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
