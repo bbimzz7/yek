@@ -10602,5 +10602,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CCA663-735104-ED54AC": {
+    "expires": "2026-05-06T07:01:00.141Z",
+    "hwid": "7153524527-eb421690-c02c-46d2-8740-bada47eb533c",
+    "browserHwid": null,
+    "username": "roblito441411",
+    "userId": "7153524527",
+    "source": "script",
+    "createdAt": "2026-05-05T07:01:00.640Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.143.161.94",
+      "city": "Bahía Blanca",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
