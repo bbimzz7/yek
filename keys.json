@@ -10369,5 +10369,22 @@
       "country": "Nepal",
       "cc": "NP"
     }
+  },
+  "VH-A56129-964D1C-E39EB7": {
+    "expires": "2026-05-06T03:40:38.778Z",
+    "hwid": "8865932863-3a3f59e1-e644-49d7-8878-f5a0d86587af",
+    "browserHwid": null,
+    "username": "andygxng",
+    "userId": "8865932863",
+    "source": "script",
+    "createdAt": "2026-05-05T03:40:39.192Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.71.26",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
