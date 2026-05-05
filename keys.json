@@ -10474,8 +10474,15 @@
     "userId": "10042144140",
     "source": "script",
     "createdAt": "2026-05-05T05:21:40.618Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-05T05:22:41.850Z",
     "geo": {
+      "ip": "114.5.251.130",
+      "city": "Cianjur",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.5.251.130",
       "city": "Cianjur",
       "region": "West Java",
