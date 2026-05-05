@@ -10263,5 +10263,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-B3D9EC-BE679D-16AC67": {
+    "expires": "2026-05-06T01:36:04.850Z",
+    "hwid": "8926380659-e3cbdcad-0b86-4326-ba2b-65dfb31c4122",
+    "browserHwid": null,
+    "username": "R4KZXZO5",
+    "userId": "8926380659",
+    "source": "script",
+    "createdAt": "2026-05-05T01:36:05.278Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.2.185",
+      "city": "Kota Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
