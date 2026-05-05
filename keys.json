@@ -11063,8 +11063,15 @@
     "userId": "8009355699",
     "source": "script",
     "createdAt": "2026-05-05T20:10:34.871Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-05T20:10:51.058Z",
     "geo": {
+      "ip": "36.79.211.101",
+      "city": "Tulungagung",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.79.211.101",
       "city": "Tulungagung",
       "region": "East Java",
