@@ -10611,8 +10611,15 @@
     "userId": "7153524527",
     "source": "script",
     "createdAt": "2026-05-05T07:01:00.640Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-05T07:02:46.895Z",
     "geo": {
+      "ip": "186.143.161.94",
+      "city": "Bahía Blanca",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "186.143.161.94",
       "city": "Bahía Blanca",
       "region": "Buenos Aires",
