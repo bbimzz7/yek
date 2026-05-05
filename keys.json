@@ -10779,8 +10779,15 @@
     "userId": "10659427418",
     "source": "script",
     "createdAt": "2026-05-05T15:21:25.617Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-05T15:51:08.309Z",
     "geo": {
+      "ip": "41.140.184.11",
+      "city": "Meknes",
+      "region": "Fès-Meknès",
+      "country": "Morocco",
+      "cc": "MA"
+    },
+    "lastGeo": {
       "ip": "41.140.184.11",
       "city": "Meknes",
       "region": "Fès-Meknès",
