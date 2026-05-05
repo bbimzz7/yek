@@ -10979,5 +10979,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A85320-042909-F0AA24": {
+    "expires": "2026-05-06T17:46:27.403Z",
+    "hwid": null,
+    "browserHwid": "BR-7A80C501-ZIPZF",
+    "username": "BR-7A80C501-ZIPZF",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-05T17:46:27.906Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.91.99.250",
+      "city": "Astana",
+      "region": "Astana",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
