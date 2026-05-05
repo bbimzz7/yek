@@ -10296,8 +10296,15 @@
     "userId": "10900209949",
     "source": "script",
     "createdAt": "2026-05-05T01:39:41.827Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-05T01:39:49.592Z",
     "geo": {
+      "ip": "100.37.125.15",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "100.37.125.15",
       "city": "Brooklyn",
       "region": "New York",
