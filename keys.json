@@ -10393,5 +10393,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-212A77-9F6993-D43331": {
+    "expires": "2026-05-06T03:55:37.382Z",
+    "hwid": "10897752403-493de6cf-d02f-4bb0-9b64-2e5da7f48604",
+    "browserHwid": null,
+    "username": "ISAWTHISGAMEN",
+    "userId": "10897752403",
+    "source": "script",
+    "createdAt": "2026-05-05T03:55:37.861Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.138.83.234",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
