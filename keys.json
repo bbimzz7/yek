@@ -11102,5 +11102,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-E099C5-A8D31B-B38795": {
+    "expires": "2026-05-06T23:52:29.541Z",
+    "hwid": "10130492824-5961914c-b2ee-4f71-8470-28aea4689117",
+    "browserHwid": null,
+    "username": "GodOfWarAnn",
+    "userId": "10130492824",
+    "source": "script",
+    "createdAt": "2026-05-05T23:52:30.019Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.83.179.182",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
