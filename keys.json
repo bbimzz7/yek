@@ -10335,5 +10335,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-1F2CBE-54E45E-BE0C3C": {
+    "expires": "2026-05-06T02:21:52.382Z",
+    "hwid": "10317516150-3aba8f39-b374-42d1-82ce-d8cf7a7f26a5",
+    "browserHwid": null,
+    "username": "OPWbug4",
+    "userId": "10317516150",
+    "source": "script",
+    "createdAt": "2026-05-05T02:21:52.854Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.128.134",
+      "city": "Ketapang",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
