@@ -10907,5 +10907,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E382BC-E60BC1-7E6F58": {
+    "expires": "2026-05-06T17:17:31.552Z",
+    "hwid": "10689883970-8999a66e-9a1d-4156-bb5e-faac2edc1a0f",
+    "browserHwid": null,
+    "username": "Mimejoramigoyoniellu",
+    "userId": "10689883970",
+    "source": "script",
+    "createdAt": "2026-05-05T17:17:31.847Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.51.121.19",
+      "city": "Punto Fijo",
+      "region": "Falcón",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
