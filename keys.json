@@ -10450,8 +10450,15 @@
     "userId": "8843952477",
     "source": "script",
     "createdAt": "2026-05-05T04:46:29.441Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-05T04:46:36.616Z",
     "geo": {
+      "ip": "103.41.79.116",
+      "city": "Tanjung Pinang",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.41.79.116",
       "city": "Tanjung Pinang",
       "region": "Riau Islands",
