@@ -10883,5 +10883,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F15C0D-979B9A-587215": {
+    "expires": "2026-05-06T17:16:24.078Z",
+    "hwid": "9467692316-294ac058-8ed6-435a-b76b-e585ebefccd5",
+    "browserHwid": null,
+    "username": "muliamargareth93",
+    "userId": "9467692316",
+    "source": "script",
+    "createdAt": "2026-05-05T17:16:24.560Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.42.203",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
