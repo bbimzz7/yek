@@ -10698,5 +10698,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-096E2E-4C2270-DB75C9": {
+    "expires": "2026-05-06T10:50:20.985Z",
+    "hwid": "8865952580-42e3afdb-7670-4f25-b79e-ea5b538490a6",
+    "browserHwid": null,
+    "username": "j4yzeen",
+    "userId": "8865952580",
+    "source": "script",
+    "createdAt": "2026-05-05T10:50:21.516Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.46.214",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
