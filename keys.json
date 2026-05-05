@@ -10787,5 +10787,22 @@
       "country": "Morocco",
       "cc": "MA"
     }
+  },
+  "VH-478356-5F6913-1B6E5A": {
+    "expires": "2026-05-06T15:32:05.112Z",
+    "hwid": "7042773638-b00b800f-3cd3-4241-90d6-4829a998c34b",
+    "browserHwid": null,
+    "username": "Meelia67",
+    "userId": "7042773638",
+    "source": "script",
+    "createdAt": "2026-05-05T15:32:05.665Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.45.160",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
