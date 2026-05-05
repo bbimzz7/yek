@@ -10311,5 +10311,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-2577A4-4BE5AE-82B3C7": {
+    "expires": "2026-05-06T02:12:50.255Z",
+    "hwid": "9054316140-faac40ea-f4ab-45ec-92e1-3b811607eb7f",
+    "browserHwid": null,
+    "username": "aidanisocool_2",
+    "userId": "9054316140",
+    "source": "script",
+    "createdAt": "2026-05-05T02:12:50.706Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.177.217.70",
+      "city": "Georgetown",
+      "region": "Demerara-Mahaica",
+      "country": "Guyana",
+      "cc": "GY"
+    }
   }
 }
