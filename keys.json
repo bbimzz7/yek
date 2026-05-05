@@ -10996,5 +10996,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-FA3278-A88DB0-6A3ED5": {
+    "expires": "2026-05-06T19:07:49.495Z",
+    "hwid": "10881524049-cb47e60a-d3e4-422b-bace-d02964f49f19",
+    "browserHwid": null,
+    "username": "noobkralxddd",
+    "userId": "10881524049",
+    "source": "script",
+    "createdAt": "2026-05-05T19:07:50.024Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "162.19.252.4",
+      "city": "Limburg an der Lahn",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
