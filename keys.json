@@ -10940,9 +10940,16 @@
     "userId": "1074103510",
     "source": "script",
     "createdAt": "2026-05-05T17:33:29.515Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-05T17:33:41.022Z",
     "geo": {
       "ip": "114.10.77.62",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "114.10.78.62",
       "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
