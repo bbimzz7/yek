@@ -11020,5 +11020,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-C3E8FA-5DA59D-483EF2": {
+    "expires": "2026-05-06T19:15:34.137Z",
+    "hwid": "9899069194-decf920b-1990-41f5-8cf1-d0f75e45a9b0",
+    "browserHwid": null,
+    "username": "hxzriqqq",
+    "userId": "9899069194",
+    "source": "script",
+    "createdAt": "2026-05-05T19:15:34.722Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.74.216.16",
+      "city": "Petaling Jaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
