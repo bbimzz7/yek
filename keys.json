@@ -11078,5 +11078,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E84770-477D31-84C5A4": {
+    "expires": "2026-05-06T20:12:14.724Z",
+    "hwid": "1013073826-EC7730B5-309E-4F5D-A7B2-A1B158455793",
+    "browserHwid": null,
+    "username": "xxxNATANxxx5",
+    "userId": "1013073826",
+    "source": "script",
+    "createdAt": "2026-05-05T20:12:15.287Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.185.123.219",
+      "city": "Bocaiúva do Sul",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
