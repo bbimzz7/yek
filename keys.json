@@ -10755,8 +10755,15 @@
     "userId": "2629268546",
     "source": "script",
     "createdAt": "2026-05-05T13:15:06.956Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-05T13:15:13.779Z",
     "geo": {
+      "ip": "144.31.5.171",
+      "city": "Warsaw",
+      "region": "Mazovia",
+      "country": "Poland",
+      "cc": "PL"
+    },
+    "lastGeo": {
       "ip": "144.31.5.171",
       "city": "Warsaw",
       "region": "Mazovia",
