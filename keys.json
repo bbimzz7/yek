@@ -10842,5 +10842,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8FB9A8-13FC23-673433": {
+    "expires": "2026-05-06T16:25:14.141Z",
+    "hwid": "9733866189-93a24e53-c72e-45e0-ad02-93191de0a494",
+    "browserHwid": null,
+    "username": "h3avend1ary",
+    "userId": "9733866189",
+    "source": "script",
+    "createdAt": "2026-05-05T16:25:14.708Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.198.132.234",
+      "city": "Nasugbu",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
