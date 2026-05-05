@@ -10770,5 +10770,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-0D41C6-2F090D-21489C": {
+    "expires": "2026-05-06T15:21:25.121Z",
+    "hwid": "10659427418-8c11337f-c6ea-4933-8344-281c685b3b44",
+    "browserHwid": null,
+    "username": "MEGAXAURAyt1",
+    "userId": "10659427418",
+    "source": "script",
+    "createdAt": "2026-05-05T15:21:25.617Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "41.140.184.11",
+      "city": "Meknes",
+      "region": "Fès-Meknès",
+      "country": "Morocco",
+      "cc": "MA"
+    }
   }
 }
