@@ -10465,5 +10465,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2FAA6A-07B9B7-5D8C4F": {
+    "expires": "2026-05-06T05:21:40.186Z",
+    "hwid": "10042144140-4a451a4b-4978-44d6-93ce-8e2fafb926b7",
+    "browserHwid": null,
+    "username": "Vlerrr511",
+    "userId": "10042144140",
+    "source": "script",
+    "createdAt": "2026-05-05T05:21:40.618Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.5.251.130",
+      "city": "Cianjur",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
