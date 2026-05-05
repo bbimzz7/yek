@@ -11005,8 +11005,15 @@
     "userId": "10881524049",
     "source": "script",
     "createdAt": "2026-05-05T19:07:50.024Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-05T19:07:58.249Z",
     "geo": {
+      "ip": "162.19.252.4",
+      "city": "Limburg an der Lahn",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "162.19.252.4",
       "city": "Limburg an der Lahn",
       "region": "Hesse",
