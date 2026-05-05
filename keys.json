@@ -10931,5 +10931,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-EAF18B-066B61-F946D1": {
+    "expires": "2026-05-06T17:33:29.008Z",
+    "hwid": "1074103510-70B01438-B61E-4E1F-89D4-C909C078E006",
+    "browserHwid": null,
+    "username": "Zlords233",
+    "userId": "1074103510",
+    "source": "script",
+    "createdAt": "2026-05-05T17:33:29.515Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.77.62",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
