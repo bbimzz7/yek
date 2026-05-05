@@ -10426,13 +10426,20 @@
     "userId": "9341780314",
     "source": "script",
     "createdAt": "2026-05-05T04:23:29.733Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-05T04:24:04.674Z",
     "geo": {
       "ip": "114.5.111.133",
       "city": "Surabaya",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "162.128.184.218",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
     }
   }
 }
