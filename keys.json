@@ -11037,5 +11037,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-9AE190-6A70D9-39F024": {
+    "expires": "2026-05-06T19:22:42.589Z",
+    "hwid": "8715933503-3b7bc8d3-584a-4ec8-a1cb-14db8f77a034",
+    "browserHwid": null,
+    "username": "Hairytinkles28415",
+    "userId": "8715933503",
+    "source": "script",
+    "createdAt": "2026-05-05T19:22:43.120Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.164.3.57",
+      "city": "Deltona",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
