@@ -10246,5 +10246,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5ADE16-87A302-94F90F": {
+    "expires": "2026-05-06T01:13:18.576Z",
+    "hwid": null,
+    "browserHwid": "BR-62102CFA-JNHGC",
+    "username": "VIP_24",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-05T01:13:19.052Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.199.41.149",
+      "city": "Guayaquil",
+      "region": "Guayas",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
