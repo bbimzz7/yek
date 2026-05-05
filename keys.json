@@ -11054,5 +11054,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-8E7933-62A3AA-2270ED": {
+    "expires": "2026-05-06T20:10:34.267Z",
+    "hwid": "8009355699-05d691bf-3241-43f8-b102-ebb276244f8f",
+    "browserHwid": null,
+    "username": "KZZ_TUKAM",
+    "userId": "8009355699",
+    "source": "script",
+    "createdAt": "2026-05-05T20:10:34.871Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.79.211.101",
+      "city": "Tulungagung",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
