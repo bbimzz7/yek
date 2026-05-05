@@ -10489,5 +10489,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D4CDCC-1BCBE2-58E52F": {
+    "expires": "2026-05-06T05:23:46.924Z",
+    "hwid": "10805094551-047FD338-4BDD-4F74-8B2D-896A998AECA9",
+    "browserHwid": null,
+    "username": "leonlionhartz",
+    "userId": "10805094551",
+    "source": "script",
+    "createdAt": "2026-05-05T05:23:47.389Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.222.254",
+      "city": "Sungguminasa",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
