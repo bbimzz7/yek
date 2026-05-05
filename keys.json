@@ -10722,5 +10722,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0E1382-4AE290-DEAFD9": {
+    "expires": "2026-05-06T11:19:48.799Z",
+    "hwid": "10063805713-943af1f4-364b-4726-a2e1-3c9a1c5612c0",
+    "browserHwid": null,
+    "username": "santa17344",
+    "userId": "10063805713",
+    "source": "script",
+    "createdAt": "2026-05-05T11:19:49.306Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.64.223.184",
+      "city": "San José",
+      "region": "Provincia de San José",
+      "country": "Costa Rica",
+      "cc": "CR"
+    }
   }
 }
