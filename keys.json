@@ -10352,5 +10352,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D1B87F-9A6A8C-F846D6": {
+    "expires": "2026-05-06T02:58:42.214Z",
+    "hwid": "10615009498-fe3159ff-b489-4d84-8e78-112740465f28",
+    "browserHwid": null,
+    "username": "prinamsrealfndrenish",
+    "userId": "10615009498",
+    "source": "script",
+    "createdAt": "2026-05-05T02:58:42.493Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "43.245.86.112",
+      "city": "Patan",
+      "region": "Bagmati Province",
+      "country": "Nepal",
+      "cc": "NP"
+    }
   }
 }
