@@ -11798,5 +11798,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2D5DF1-1576B6-8CF74B": {
+    "expires": "2026-05-07T17:48:32.554Z",
+    "hwid": "8368173076-db236111-1774-4c45-b189-4d487eead656",
+    "browserHwid": null,
+    "username": "Star_Luzax",
+    "userId": "8368173076",
+    "source": "script",
+    "createdAt": "2026-05-06T17:48:33.091Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.236.143.62",
+      "city": "Guayaquil",
+      "region": "Guayas",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
