@@ -11582,5 +11582,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0552DA-EF0C31-08E31B": {
+    "expires": "2026-05-07T13:05:36.034Z",
+    "hwid": "10301587548-7e12bc4c-2dde-43b1-b21a-b00b7a1b76c6",
+    "browserHwid": null,
+    "username": "inongg06",
+    "userId": "10301587548",
+    "source": "script",
+    "createdAt": "2026-05-06T13:05:36.577Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.108.33.182",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
