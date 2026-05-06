@@ -11423,8 +11423,15 @@
     "userId": "8136766344",
     "source": "script",
     "createdAt": "2026-05-06T11:13:41.001Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-06T11:14:05.489Z",
     "geo": {
+      "ip": "2.26.12.103",
+      "city": "Orem",
+      "region": "Utah",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "2.26.12.103",
       "city": "Orem",
       "region": "Utah",
