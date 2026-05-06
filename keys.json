@@ -11438,5 +11438,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-763A9A-872C73-7346D9": {
+    "expires": "2026-05-07T11:40:39.874Z",
+    "hwid": "10908614526-b1ba6133-6a7b-490e-bd41-77bf13e67613",
+    "browserHwid": null,
+    "username": "badrolblox446",
+    "userId": "10908614526",
+    "source": "script",
+    "createdAt": "2026-05-06T11:40:40.400Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "3.239.82.58",
+      "city": "Ashburn",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
