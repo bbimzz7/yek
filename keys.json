@@ -11558,5 +11558,22 @@
       "country": "Bulgaria",
       "cc": "BG"
     }
+  },
+  "VH-3E4E66-CA2FE4-9FED6C": {
+    "expires": "2026-05-07T12:27:41.914Z",
+    "hwid": "9524312851-2ae57ad6-5338-4256-9a8e-7c1ae507c41d",
+    "browserHwid": null,
+    "username": "Sanz2198",
+    "userId": "9524312851",
+    "source": "script",
+    "createdAt": "2026-05-06T12:27:42.193Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "204.51.34.251",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
