@@ -11126,5 +11126,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-041A5F-940282-65AA3B": {
+    "expires": "2026-05-07T00:06:06.572Z",
+    "hwid": "10491379565-bb9752c0-66e7-456e-a87c-6168e408a333",
+    "browserHwid": null,
+    "username": "Thls_Death",
+    "userId": "10491379565",
+    "source": "script",
+    "createdAt": "2026-05-06T00:06:07.040Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.71.95.150",
+      "city": "Petrolina",
+      "region": "Pernambuco",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
