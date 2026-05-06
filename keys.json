@@ -11222,5 +11222,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AA2273-169639-A96AF6": {
+    "expires": "2026-05-07T04:25:08.790Z",
+    "hwid": "8859097519-abf70243-44be-4e68-b048-3afee03d8d8c",
+    "browserHwid": null,
+    "username": "Seraphic1616",
+    "userId": "8859097519",
+    "source": "script",
+    "createdAt": "2026-05-06T04:25:09.290Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.7.250",
+      "city": "Ciputat",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
