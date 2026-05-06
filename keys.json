@@ -11534,5 +11534,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D602CF-A10D6C-613613": {
+    "expires": "2026-05-07T12:26:21.327Z",
+    "hwid": "10780228624-8c3187aa-cba1-4f70-a251-5fd636ffaaea",
+    "browserHwid": null,
+    "username": "kokoabsdew",
+    "userId": "10780228624",
+    "source": "script",
+    "createdAt": "2026-05-06T12:26:21.776Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "77.76.188.23",
+      "city": "Harlets",
+      "region": "Vratsa",
+      "country": "Bulgaria",
+      "cc": "BG"
+    }
   }
 }
