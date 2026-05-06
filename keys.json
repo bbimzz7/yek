@@ -11198,5 +11198,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0868FD-C1F2E5-3C83FE": {
+    "expires": "2026-05-07T04:06:12.940Z",
+    "hwid": "10803943635-d9119fd1-9f87-4290-a4c5-3daee6060563",
+    "browserHwid": null,
+    "username": "Xeograf8",
+    "userId": "10803943635",
+    "source": "script",
+    "createdAt": "2026-05-06T04:06:13.467Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.42.139",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
