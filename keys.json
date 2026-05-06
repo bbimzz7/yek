@@ -11150,5 +11150,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-A0372D-4FFBC9-E7BBB3": {
+    "expires": "2026-05-07T01:25:23.774Z",
+    "hwid": "8609967066-3FBE903F-53CF-4B8B-943D-B5BDAC6C6AD7",
+    "browserHwid": null,
+    "username": "JEKOF12",
+    "userId": "8609967066",
+    "source": "script",
+    "createdAt": "2026-05-06T01:25:24.254Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.73.196",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
