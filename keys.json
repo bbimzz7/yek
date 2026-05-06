@@ -11774,5 +11774,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-78BE1D-ABA60A-160BFD": {
+    "expires": "2026-05-07T16:29:36.589Z",
+    "hwid": "9740048513-5B20D9BC-B20A-4E1E-AD0B-E30EE17665AC",
+    "browserHwid": null,
+    "username": "idihbasi",
+    "userId": "9740048513",
+    "source": "script",
+    "createdAt": "2026-05-06T16:29:37.153Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "204.51.34.243",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
