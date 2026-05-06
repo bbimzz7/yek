@@ -11414,5 +11414,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-343E8C-39C42A-9C1CA5": {
+    "expires": "2026-05-07T11:13:40.455Z",
+    "hwid": "8136766344-0813f3f4-3af5-4a1b-bcc5-bd2e8253eaa6",
+    "browserHwid": null,
+    "username": "nekit28410",
+    "userId": "8136766344",
+    "source": "script",
+    "createdAt": "2026-05-06T11:13:41.001Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.26.12.103",
+      "city": "Orem",
+      "region": "Utah",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
