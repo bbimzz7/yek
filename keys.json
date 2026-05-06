@@ -11543,8 +11543,15 @@
     "userId": "10780228624",
     "source": "script",
     "createdAt": "2026-05-06T12:26:21.776Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-06T12:26:33.462Z",
     "geo": {
+      "ip": "77.76.188.23",
+      "city": "Harlets",
+      "region": "Vratsa",
+      "country": "Bulgaria",
+      "cc": "BG"
+    },
+    "lastGeo": {
       "ip": "77.76.188.23",
       "city": "Harlets",
       "region": "Vratsa",
