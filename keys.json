@@ -11447,8 +11447,15 @@
     "userId": "10908614526",
     "source": "script",
     "createdAt": "2026-05-06T11:40:40.400Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-06T11:40:54.742Z",
     "geo": {
+      "ip": "3.239.82.58",
+      "city": "Ashburn",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "3.239.82.58",
       "city": "Ashburn",
       "region": "Virginia",
