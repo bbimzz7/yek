@@ -11390,5 +11390,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-C06973-34BB8C-19E813": {
+    "expires": "2026-05-07T10:53:46.831Z",
+    "hwid": "10789974097-a2b7a85d-b2b2-4248-94c6-df34d134a95c",
+    "browserHwid": null,
+    "username": "giren_432",
+    "userId": "10789974097",
+    "source": "script",
+    "createdAt": "2026-05-06T10:53:47.358Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.3.4.197",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
