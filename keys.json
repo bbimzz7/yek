@@ -11135,8 +11135,15 @@
     "userId": "10491379565",
     "source": "script",
     "createdAt": "2026-05-06T00:06:07.040Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-06T00:06:18.269Z",
     "geo": {
+      "ip": "177.71.95.150",
+      "city": "Petrolina",
+      "region": "Pernambuco",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.71.95.150",
       "city": "Petrolina",
       "region": "Pernambuco",
