@@ -11815,5 +11815,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-9AF410-313E6C-3093B3": {
+    "expires": "2026-05-07T21:25:13.997Z",
+    "hwid": "10305547093-a4717917-f041-4710-977a-acee8d5efe05",
+    "browserHwid": null,
+    "username": "Raffqizz",
+    "userId": "10305547093",
+    "source": "script",
+    "createdAt": "2026-05-06T21:25:14.477Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.140.37.3",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
