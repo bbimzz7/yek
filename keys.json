@@ -12433,5 +12433,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AC3BD9-C60B5E-77CC52": {
+    "expires": "2026-05-08T16:42:40.579Z",
+    "hwid": "3118280759-222e63ac-feb6-4735-afb1-e8d6742f125e",
+    "browserHwid": null,
+    "username": "awixille",
+    "userId": "3118280759",
+    "source": "script",
+    "createdAt": "2026-05-07T16:42:41.182Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.158.241.169",
+      "city": "Mandaue City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
