@@ -12418,8 +12418,15 @@
     "userId": "8231502277",
     "source": "script",
     "createdAt": "2026-05-07T16:40:04.952Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-07T16:41:26.075Z",
     "geo": {
+      "ip": "103.147.85.110",
+      "city": "Sepatan",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.147.85.110",
       "city": "Sepatan",
       "region": "West Java",
