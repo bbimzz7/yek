@@ -12178,8 +12178,15 @@
     "userId": "7940259272",
     "source": "script",
     "createdAt": "2026-05-07T09:44:42.657Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-07T09:44:54.702Z",
     "geo": {
+      "ip": "115.164.53.207",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "115.164.53.207",
       "city": "Kuala Lumpur",
       "region": "Kuala Lumpur",
