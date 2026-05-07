@@ -12409,5 +12409,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-ADC2C2-E98BD8-208168": {
+    "expires": "2026-05-08T16:40:04.412Z",
+    "hwid": "8231502277-ed415481-b287-45dd-a801-76c43481a8c1",
+    "browserHwid": null,
+    "username": "puyol_340",
+    "userId": "8231502277",
+    "source": "script",
+    "createdAt": "2026-05-07T16:40:04.952Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.147.85.110",
+      "city": "Sepatan",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
