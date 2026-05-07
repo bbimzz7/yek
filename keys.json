@@ -12490,8 +12490,15 @@
     "userId": "8539578059",
     "source": "script",
     "createdAt": "2026-05-07T19:29:18.263Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-07T19:29:30.474Z",
     "geo": {
+      "ip": "186.5.229.253",
+      "city": "General Deheza",
+      "region": "Cordoba",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "186.5.229.253",
       "city": "General Deheza",
       "region": "Cordoba",
