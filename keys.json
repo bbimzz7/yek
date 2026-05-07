@@ -11961,7 +11961,7 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-05-07T04:58:29.111Z",
-    "lastUsed": "2026-05-07T05:16:26.558Z",
+    "lastUsed": "2026-05-07T07:36:19.431Z",
     "geo": {
       "ip": "114.79.2.160",
       "city": "Cikarang",
@@ -11970,9 +11970,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.79.2.160",
-      "city": "Cikarang",
-      "region": "West Java",
+      "ip": "114.79.7.31",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
