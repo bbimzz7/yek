@@ -12508,14 +12508,22 @@
   },
   "VH-84C8EF-7A52CC-FA1069": {
     "expires": "2026-05-08T20:47:55.605Z",
-    "hwid": null,
+    "hwid": "6114691576-06269D19-FFE7-49D8-BEAD-96EFCE5C764A",
     "browserHwid": "BR-321F8EDB-TP165",
-    "username": "y2trappyy6",
-    "userId": null,
+    "username": "Y2trappyy6",
+    "userId": "6114691576",
     "source": "browser",
     "createdAt": "2026-05-07T20:47:56.121Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-07T20:48:30.912Z",
     "geo": {
+      "ip": "86.151.233.154",
+      "city": "Wolverhampton",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "boundAt": "2026-05-07T20:48:30.904Z",
+    "lastGeo": {
       "ip": "86.151.233.154",
       "city": "Wolverhampton",
       "region": "England",
