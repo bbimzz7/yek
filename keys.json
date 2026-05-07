@@ -11887,5 +11887,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-5151D8-5E6A2A-0BA0CB": {
+    "expires": "2026-05-08T00:43:04.815Z",
+    "hwid": "8923166633-79b70f35-746a-4240-bd87-0e69fa2612a4",
+    "browserHwid": null,
+    "username": "ree12312306",
+    "userId": "8923166633",
+    "source": "script",
+    "createdAt": "2026-05-07T00:43:05.283Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.100.123.19",
+      "city": "Guayaquil",
+      "region": "Guayas",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
