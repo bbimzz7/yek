@@ -12481,5 +12481,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F31C71-7C15B9-DA6F81": {
+    "expires": "2026-05-08T19:29:17.756Z",
+    "hwid": "8539578059-844f9d19-7910-4efc-adf8-e21ba8ee6e10",
+    "browserHwid": null,
+    "username": "julianacotto9",
+    "userId": "8539578059",
+    "source": "script",
+    "createdAt": "2026-05-07T19:29:18.263Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.5.229.253",
+      "city": "General Deheza",
+      "region": "Cordoba",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
