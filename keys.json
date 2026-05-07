@@ -11913,8 +11913,15 @@
     "userId": "10848496826",
     "source": "script",
     "createdAt": "2026-05-07T00:51:35.452Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-07T00:51:45.800Z",
     "geo": {
+      "ip": "76.31.18.117",
+      "city": "Houston",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "76.31.18.117",
       "city": "Houston",
       "region": "Texas",
