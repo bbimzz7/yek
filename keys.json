@@ -11863,5 +11863,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-72341C-287AAD-D3FC10": {
+    "expires": "2026-05-08T00:33:30.344Z",
+    "hwid": "1304329210-17f8fd7a-12ce-4345-a842-12e04e222489",
+    "browserHwid": null,
+    "username": "canetaazulli",
+    "userId": "1304329210",
+    "source": "script",
+    "createdAt": "2026-05-07T00:33:30.842Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.241.137.172",
+      "city": "Jales",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
