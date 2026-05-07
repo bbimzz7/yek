@@ -12346,8 +12346,15 @@
     "userId": "1638747",
     "source": "script",
     "createdAt": "2026-05-07T15:26:08.091Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-07T15:26:14.469Z",
     "geo": {
+      "ip": "171.5.239.65",
+      "city": "Hua Hin",
+      "region": "Prachuap Khiri Khan",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "171.5.239.65",
       "city": "Hua Hin",
       "region": "Prachuap Khiri Khan",
