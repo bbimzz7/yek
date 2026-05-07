@@ -12169,5 +12169,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-65ACF4-BC27E6-B4B0CD": {
+    "expires": "2026-05-08T09:44:42.139Z",
+    "hwid": "7940259272-311788e9-3f9d-4516-baa1-bc841fc872c0",
+    "browserHwid": null,
+    "username": "halonama88",
+    "userId": "7940259272",
+    "source": "script",
+    "createdAt": "2026-05-07T09:44:42.657Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.164.53.207",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
