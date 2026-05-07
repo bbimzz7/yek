@@ -12361,5 +12361,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-4270F5-E90A82-B3CC28": {
+    "expires": "2026-05-08T15:44:15.132Z",
+    "hwid": "9942891203-7233d66e-19dd-4f08-9ce8-c3502cb9ab15",
+    "browserHwid": null,
+    "username": "CG9VT",
+    "userId": "9942891203",
+    "source": "script",
+    "createdAt": "2026-05-07T15:44:15.702Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.44.142",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
