@@ -12000,5 +12000,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-B0E73C-4E41EF-518F43": {
+    "expires": "2026-05-08T06:12:55.319Z",
+    "hwid": "9037648617-78997a70-0fd0-4f7f-a56e-bf203a7c5741",
+    "browserHwid": null,
+    "username": "mahtheoa",
+    "userId": "9037648617",
+    "source": "script",
+    "createdAt": "2026-05-07T06:12:55.788Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.28.167.251",
+      "city": "San Juan",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
