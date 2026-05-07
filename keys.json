@@ -12121,5 +12121,22 @@
       "country": "Australia",
       "cc": "AU"
     }
+  },
+  "VH-55A4FB-5235FF-311C8D": {
+    "expires": "2026-05-08T09:23:41.022Z",
+    "hwid": "10762405041-3117444b-6c09-4e4b-bd9d-742463eca6a2",
+    "browserHwid": null,
+    "username": "XLxu27",
+    "userId": "10762405041",
+    "source": "script",
+    "createdAt": "2026-05-07T09:23:41.501Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.146.189.144",
+      "city": "Banjar Badung",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
