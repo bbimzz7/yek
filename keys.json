@@ -12130,8 +12130,15 @@
     "userId": "10762405041",
     "source": "script",
     "createdAt": "2026-05-07T09:23:41.501Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-07T09:24:27.453Z",
     "geo": {
+      "ip": "103.146.189.144",
+      "city": "Banjar Badung",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.146.189.144",
       "city": "Banjar Badung",
       "region": "Bali",
