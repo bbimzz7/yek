@@ -12097,5 +12097,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A91973-D50507-CAB35E": {
+    "expires": "2026-05-08T09:15:26.865Z",
+    "hwid": "10708810469-149051e6-e992-4a47-b4b3-930fae66a2de",
+    "browserHwid": null,
+    "username": "xWukongAura",
+    "userId": "10708810469",
+    "source": "script",
+    "createdAt": "2026-05-07T09:15:27.355Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.87.173.14",
+      "city": "Perth",
+      "region": "Western Australia",
+      "country": "Australia",
+      "cc": "AU"
+    }
   }
 }
