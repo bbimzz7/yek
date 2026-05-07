@@ -11904,5 +11904,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-18C6C1-21AD51-E9BBA2": {
+    "expires": "2026-05-08T00:51:35.198Z",
+    "hwid": "10848496826-23a7f385-8fc9-46d8-856a-23a6e91b5a43",
+    "browserHwid": null,
+    "username": "hacker_68003",
+    "userId": "10848496826",
+    "source": "script",
+    "createdAt": "2026-05-07T00:51:35.452Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.31.18.117",
+      "city": "Houston",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
