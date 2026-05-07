@@ -12394,8 +12394,15 @@
     "userId": "8651852685",
     "source": "script",
     "createdAt": "2026-05-07T16:31:34.520Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-07T16:31:42.290Z",
     "geo": {
+      "ip": "36.73.32.225",
+      "city": "Cawilayan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.73.32.225",
       "city": "Cawilayan",
       "region": "Central Java",
