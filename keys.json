@@ -12505,5 +12505,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-84C8EF-7A52CC-FA1069": {
+    "expires": "2026-05-08T20:47:55.605Z",
+    "hwid": null,
+    "browserHwid": "BR-321F8EDB-TP165",
+    "username": "y2trappyy6",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-07T20:47:56.121Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "86.151.233.154",
+      "city": "Wolverhampton",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
