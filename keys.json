@@ -12442,8 +12442,15 @@
     "userId": "3118280759",
     "source": "script",
     "createdAt": "2026-05-07T16:42:41.182Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-07T16:42:48.087Z",
     "geo": {
+      "ip": "175.158.241.169",
+      "city": "Mandaue City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "175.158.241.169",
       "city": "Mandaue City",
       "region": "Central Visayas",
