@@ -12154,8 +12154,15 @@
     "userId": "2012409578",
     "source": "script",
     "createdAt": "2026-05-07T09:31:12.311Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-07T09:31:30.410Z",
     "geo": {
+      "ip": "79.174.58.150",
+      "city": "Odintsovo",
+      "region": "Moscow Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "79.174.58.150",
       "city": "Odintsovo",
       "region": "Moscow Oblast",
