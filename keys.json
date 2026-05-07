@@ -12370,8 +12370,15 @@
     "userId": "9942891203",
     "source": "script",
     "createdAt": "2026-05-07T15:44:15.702Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-07T15:44:30.317Z",
     "geo": {
+      "ip": "114.10.44.142",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.44.142",
       "city": "Semarang",
       "region": "Central Java",
