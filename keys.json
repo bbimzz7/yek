@@ -11872,8 +11872,15 @@
     "userId": "1304329210",
     "source": "script",
     "createdAt": "2026-05-07T00:33:30.842Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-07T00:34:52.193Z",
     "geo": {
+      "ip": "191.241.137.172",
+      "city": "Jales",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "191.241.137.172",
       "city": "Jales",
       "region": "São Paulo",
