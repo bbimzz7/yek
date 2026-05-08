@@ -13196,5 +13196,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E0D2ED-D9BE0C-2B6AD4": {
+    "expires": "2026-05-09T19:22:02.973Z",
+    "hwid": "10924428124-914975c2-d7f8-4671-839b-71d33ed00e56",
+    "browserHwid": null,
+    "username": "dontyousedgfjrkfi",
+    "userId": "10924428124",
+    "source": "script",
+    "createdAt": "2026-05-08T19:22:03.534Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "141.98.140.64",
+      "city": "Tirana",
+      "region": "Tirana",
+      "country": "Albania",
+      "cc": "AL"
+    }
   }
 }
