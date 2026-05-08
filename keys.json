@@ -13229,8 +13229,15 @@
     "userId": "10923170673",
     "source": "script",
     "createdAt": "2026-05-08T20:34:22.199Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-08T20:37:46.149Z",
     "geo": {
+      "ip": "200.92.223.0",
+      "city": "Ciudad Constitución",
+      "region": "Baja California Sur",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "200.92.223.0",
       "city": "Ciudad Constitución",
       "region": "Baja California Sur",
