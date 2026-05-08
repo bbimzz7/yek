@@ -12659,8 +12659,15 @@
     "userId": "10258553798",
     "source": "script",
     "createdAt": "2026-05-08T04:17:01.088Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-08T04:17:25.004Z",
     "geo": {
+      "ip": "199.229.222.7",
+      "city": "Rocanville",
+      "region": "Saskatchewan",
+      "country": "Canada",
+      "cc": "CA"
+    },
+    "lastGeo": {
       "ip": "199.229.222.7",
       "city": "Rocanville",
       "region": "Saskatchewan",
