@@ -12843,5 +12843,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-200870-7ABC4B-D98B5C": {
+    "expires": "2026-05-09T11:33:42.345Z",
+    "hwid": "400403-107C9033-3B0F-4470-81E3-36DC47CEDE0B",
+    "browserHwid": null,
+    "username": "Roboman100",
+    "userId": "400403",
+    "source": "script",
+    "createdAt": "2026-05-08T11:33:42.853Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.109.195.2",
+      "city": "North Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
