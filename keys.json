@@ -12939,5 +12939,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BCF39E-AB12D0-9DAB7B": {
+    "expires": "2026-05-09T12:13:17.509Z",
+    "hwid": "9531945632-a55ade77-1d19-4556-a06f-416c90824e67",
+    "browserHwid": null,
+    "username": "fallfish11",
+    "userId": "9531945632",
+    "source": "script",
+    "createdAt": "2026-05-08T12:13:18.094Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.58.78.62",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
