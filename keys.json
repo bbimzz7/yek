@@ -12963,5 +12963,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2A1A04-5F8A22-2B0AEB": {
+    "expires": "2026-05-09T12:23:46.120Z",
+    "hwid": "2346306367-79792371-98ac-4848-856a-c46637beff4f",
+    "browserHwid": null,
+    "username": "akmalhafaz22",
+    "userId": "2346306367",
+    "source": "script",
+    "createdAt": "2026-05-08T12:23:46.760Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.22.24.116",
+      "city": "Kudus",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
