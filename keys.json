@@ -12530,5 +12530,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-7876D1-35C1B4-37F40B": {
+    "expires": "2026-05-09T01:27:26.916Z",
+    "hwid": "10436438257-a032f8ee-85d3-4c68-b3fa-6e9867448882",
+    "browserHwid": null,
+    "username": "Rnz_superganteng",
+    "userId": "10436438257",
+    "source": "script",
+    "createdAt": "2026-05-08T01:27:27.427Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.153.20.32",
+      "city": "Dumai",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
