@@ -13205,8 +13205,15 @@
     "userId": "10924428124",
     "source": "script",
     "createdAt": "2026-05-08T19:22:03.534Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-08T19:22:20.218Z",
     "geo": {
+      "ip": "141.98.140.64",
+      "city": "Tirana",
+      "region": "Tirana",
+      "country": "Albania",
+      "cc": "AL"
+    },
+    "lastGeo": {
       "ip": "141.98.140.64",
       "city": "Tirana",
       "region": "Tirana",
