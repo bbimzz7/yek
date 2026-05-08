@@ -12867,5 +12867,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D55C9D-4EF195-47B3C0": {
+    "expires": "2026-05-09T11:35:19.652Z",
+    "hwid": "10916249431-a958485c-dfa2-4a2b-8768-064610d1d5e3",
+    "browserHwid": null,
+    "username": "strangerph10",
+    "userId": "10916249431",
+    "source": "script",
+    "createdAt": "2026-05-08T11:35:20.183Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.66.156.237",
+      "city": "Toulon",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
