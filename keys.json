@@ -13220,5 +13220,22 @@
       "country": "Albania",
       "cc": "AL"
     }
+  },
+  "VH-B3DED4-203224-77F2CA": {
+    "expires": "2026-05-09T20:34:21.699Z",
+    "hwid": "10923170673-c1e83258-1bfa-4976-9a8c-87f26d559751",
+    "browserHwid": null,
+    "username": "cuentanuevajej",
+    "userId": "10923170673",
+    "source": "script",
+    "createdAt": "2026-05-08T20:34:22.199Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "200.92.223.0",
+      "city": "Ciudad Constitución",
+      "region": "Baja California Sur",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
