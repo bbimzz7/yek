@@ -12818,5 +12818,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8846CD-E6878E-0E81A9": {
+    "expires": "2026-05-09T11:05:41.528Z",
+    "hwid": null,
+    "browserHwid": "BR-26290C04-0RRYU",
+    "username": "Ksysha99W",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-08T11:05:42.066Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "154.41.79.235",
+      "city": "Montreal",
+      "region": "Quebec",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
