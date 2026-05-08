@@ -13244,5 +13244,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-FA1535-E3A84F-52FEA4": {
+    "expires": "2026-05-09T20:50:41.653Z",
+    "hwid": "8997586510-9ca71244-15c2-4826-9aa7-8b01958f8726",
+    "browserHwid": null,
+    "username": "Finzzzz_028",
+    "userId": "8997586510",
+    "source": "script",
+    "createdAt": "2026-05-08T20:50:42.108Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.162.216.174",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
