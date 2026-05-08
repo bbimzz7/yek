@@ -12683,8 +12683,15 @@
     "userId": "9733172885",
     "source": "script",
     "createdAt": "2026-05-08T05:49:02.055Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-08T05:50:03.706Z",
     "geo": {
+      "ip": "125.167.58.148",
+      "city": "Kota Jambi",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.167.58.148",
       "city": "Kota Jambi",
       "region": "Jambi",
