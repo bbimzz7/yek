@@ -12876,8 +12876,15 @@
     "userId": "10916249431",
     "source": "script",
     "createdAt": "2026-05-08T11:35:20.183Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-08T11:37:49.004Z",
     "geo": {
+      "ip": "37.66.156.237",
+      "city": "Toulon",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "37.66.156.237",
       "city": "Toulon",
       "region": "Provence-Alpes-Côte d'Azur",
