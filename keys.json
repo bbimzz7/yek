@@ -13083,5 +13083,22 @@
       "country": "Japan",
       "cc": "JP"
     }
+  },
+  "VH-34C41A-3FD812-1FCC59": {
+    "expires": "2026-05-09T15:43:02.069Z",
+    "hwid": "10089374718-5802025c-1a37-4c81-9a9f-d7bdd5901f3a",
+    "browserHwid": null,
+    "username": "saputra1234219",
+    "userId": "10089374718",
+    "source": "script",
+    "createdAt": "2026-05-08T15:43:03.933Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.39.49.90",
+      "city": "Majalengka",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
