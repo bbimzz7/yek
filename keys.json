@@ -13172,5 +13172,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-71E939-0BF467-F1148B": {
+    "expires": "2026-05-09T18:53:36.572Z",
+    "hwid": "8651852685-859f74d7-57d4-4b49-b3b5-bb48073aa974",
+    "browserHwid": null,
+    "username": "depinrawrr",
+    "userId": "8651852685",
+    "source": "script",
+    "createdAt": "2026-05-08T18:53:37.052Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.32.225",
+      "city": "Cawilayan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
