@@ -12746,5 +12746,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5777DA-59BEEC-87D276": {
+    "expires": "2026-05-09T08:05:41.526Z",
+    "hwid": "2946571124-dc08bd24-b261-4f19-b081-ec6df254627e",
+    "browserHwid": null,
+    "username": "desranleonarld",
+    "userId": "2946571124",
+    "source": "script",
+    "createdAt": "2026-05-08T08:05:41.990Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.111.96.233",
+      "city": "Kota Pangkal Pinang",
+      "region": "Bangka–Belitung Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
