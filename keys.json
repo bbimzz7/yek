@@ -13131,5 +13131,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6D063C-C33E76-EC2BFD": {
+    "expires": "2026-05-09T16:21:00.595Z",
+    "hwid": "2670829526-6fb7c918-dadb-4ed1-a0df-c09bb4692385",
+    "browserHwid": null,
+    "username": "Zafkiel789",
+    "userId": "2670829526",
+    "source": "script",
+    "createdAt": "2026-05-08T16:21:01.086Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "163.128.8.26",
+      "city": "Islamabad",
+      "region": "Islamabad",
+      "country": "Pakistan",
+      "cc": "PK"
+    }
   }
 }
