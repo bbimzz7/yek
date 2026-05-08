@@ -12611,7 +12611,7 @@
     "userId": "7195857447",
     "source": "script",
     "createdAt": "2026-05-08T03:27:16.814Z",
-    "lastUsed": "2026-05-08T03:28:21.320Z",
+    "lastUsed": "2026-05-08T05:48:29.777Z",
     "geo": {
       "ip": "103.84.4.4",
       "city": "South Tangerang",
@@ -12620,9 +12620,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.84.4.4",
-      "city": "South Tangerang",
-      "region": "Banten",
+      "ip": "114.10.73.135",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
