@@ -12779,8 +12779,15 @@
     "userId": "10908529767",
     "source": "script",
     "createdAt": "2026-05-08T09:34:47.900Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-08T09:35:02.379Z",
     "geo": {
+      "ip": "209.127.202.115",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "The Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "209.127.202.115",
       "city": "Amsterdam",
       "region": "North Holland",
