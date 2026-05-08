@@ -12274,7 +12274,7 @@
     "userId": "10657032416",
     "source": "script",
     "createdAt": "2026-05-07T11:40:26.742Z",
-    "lastUsed": "2026-05-08T05:33:24.325Z",
+    "lastUsed": "2026-05-08T08:38:24.892Z",
     "geo": {
       "ip": "36.72.57.57",
       "city": "Bekasi",
@@ -12283,8 +12283,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "36.72.57.57",
-      "city": "Bekasi",
+      "ip": "160.20.38.118",
+      "city": "Indramayu",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
