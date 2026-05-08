@@ -12602,5 +12602,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-4ADD32-8B5688-16853A": {
+    "expires": "2026-05-09T03:27:14.892Z",
+    "hwid": "7195857447-b7fa0e19-4cfa-422d-8b5c-cb1f17badec7",
+    "browserHwid": null,
+    "username": "JAGOANKINAN46",
+    "userId": "7195857447",
+    "source": "script",
+    "createdAt": "2026-05-08T03:27:16.814Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.84.4.4",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
