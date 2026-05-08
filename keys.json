@@ -12770,5 +12770,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-902EFD-7355BF-79B6D1": {
+    "expires": "2026-05-09T09:34:47.438Z",
+    "hwid": "10908529767-07a56515-dc4c-4b83-bd16-298b03ae3536",
+    "browserHwid": null,
+    "username": "Tuajfekhs",
+    "userId": "10908529767",
+    "source": "script",
+    "createdAt": "2026-05-08T09:34:47.900Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "209.127.202.115",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "The Netherlands",
+      "cc": "NL"
+    }
   }
 }
