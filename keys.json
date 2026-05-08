@@ -13068,8 +13068,15 @@
     "userId": "7494127703",
     "source": "script",
     "createdAt": "2026-05-08T15:42:28.571Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-08T15:43:01.082Z",
     "geo": {
+      "ip": "210.20.80.123",
+      "city": "Machida",
+      "region": "Tokyo",
+      "country": "Japan",
+      "cc": "JP"
+    },
+    "lastGeo": {
       "ip": "210.20.80.123",
       "city": "Machida",
       "region": "Tokyo",
