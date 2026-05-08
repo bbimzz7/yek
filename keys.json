@@ -13011,5 +13011,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-01975C-5E4E35-433328": {
+    "expires": "2026-05-09T14:34:31.638Z",
+    "hwid": "10082453245-3f3a8bff-6825-4fd9-aa69-57c6d8845362",
+    "browserHwid": null,
+    "username": "CHISSAX7",
+    "userId": "10082453245",
+    "source": "script",
+    "createdAt": "2026-05-08T14:34:31.938Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "154.47.149.235",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
