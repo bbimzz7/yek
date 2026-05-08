@@ -13059,5 +13059,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1128D8-106355-2268FC": {
+    "expires": "2026-05-09T15:42:27.985Z",
+    "hwid": "7494127703-d36d82d2-b441-4c92-bf14-e5582213fa76",
+    "browserHwid": null,
+    "username": "sousou8608",
+    "userId": "7494127703",
+    "source": "script",
+    "createdAt": "2026-05-08T15:42:28.571Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "210.20.80.123",
+      "city": "Machida",
+      "region": "Tokyo",
+      "country": "Japan",
+      "cc": "JP"
+    }
   }
 }
