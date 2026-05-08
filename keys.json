@@ -12821,14 +12821,22 @@
   },
   "VH-8846CD-E6878E-0E81A9": {
     "expires": "2026-05-09T11:05:41.528Z",
-    "hwid": null,
+    "hwid": "10916403164-ebfd20f0-6ebd-4a69-8798-4dcacace37b1",
     "browserHwid": "BR-26290C04-0RRYU",
     "username": "Ksysha99W",
-    "userId": null,
+    "userId": "10916403164",
     "source": "browser",
     "createdAt": "2026-05-08T11:05:42.066Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-08T11:07:31.565Z",
     "geo": {
+      "ip": "154.41.79.235",
+      "city": "Montreal",
+      "region": "Quebec",
+      "country": "Canada",
+      "cc": "CA"
+    },
+    "boundAt": "2026-05-08T11:07:31.547Z",
+    "lastGeo": {
       "ip": "154.41.79.235",
       "city": "Montreal",
       "region": "Quebec",
