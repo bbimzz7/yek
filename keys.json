@@ -12539,8 +12539,15 @@
     "userId": "10436438257",
     "source": "script",
     "createdAt": "2026-05-08T01:27:27.427Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-08T01:27:39.835Z",
     "geo": {
+      "ip": "203.153.20.32",
+      "city": "Dumai",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "203.153.20.32",
       "city": "Dumai",
       "region": "Riau",
