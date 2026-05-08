@@ -12794,5 +12794,22 @@
       "country": "The Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-E0C408-FDBC32-0384D5": {
+    "expires": "2026-05-09T10:23:01.578Z",
+    "hwid": "8839377304-0de137b7-d95f-456d-ac20-b91c2f849f84",
+    "browserHwid": null,
+    "username": "abyan12345769",
+    "userId": "8839377304",
+    "source": "script",
+    "createdAt": "2026-05-08T10:23:02.062Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.165.126",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
