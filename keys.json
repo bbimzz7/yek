@@ -13840,11 +13840,18 @@
     "userId": "10922946103",
     "source": "script",
     "createdAt": "2026-05-09T12:50:34.340Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T12:50:48.925Z",
     "geo": {
       "ip": "114.125.149.235",
       "city": "Mapurujaya",
       "region": "Central Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "114.125.149.99",
+      "city": "Merauke",
+      "region": "South Papua",
       "country": "Indonesia",
       "cc": "ID"
     }
