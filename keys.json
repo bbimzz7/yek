@@ -13277,7 +13277,7 @@
     "userId": "7350318093",
     "source": "script",
     "createdAt": "2026-05-09T00:17:23.825Z",
-    "lastUsed": "2026-05-09T00:18:20.339Z",
+    "lastUsed": "2026-05-09T00:26:46.804Z",
     "geo": {
       "ip": "107.122.225.14",
       "city": "Alexander",
@@ -13286,8 +13286,8 @@
       "cc": "US"
     },
     "lastGeo": {
-      "ip": "107.122.225.14",
-      "city": "Alexander",
+      "ip": "174.53.11.155",
+      "city": "Little Rock",
       "region": "Arkansas",
       "country": "United States",
       "cc": "US"
