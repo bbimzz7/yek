@@ -13936,8 +13936,15 @@
     "userId": "9297388796",
     "source": "script",
     "createdAt": "2026-05-09T15:34:35.130Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T15:34:47.783Z",
     "geo": {
+      "ip": "103.142.255.58",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.142.255.58",
       "city": "Jombang",
       "region": "East Java",
