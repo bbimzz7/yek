@@ -13373,8 +13373,15 @@
     "userId": "8227393788",
     "source": "script",
     "createdAt": "2026-05-09T04:13:21.982Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T04:13:33.769Z",
     "geo": {
+      "ip": "217.79.85.238",
+      "city": "Gabrovo",
+      "region": "Gabrovo",
+      "country": "Bulgaria",
+      "cc": "BG"
+    },
+    "lastGeo": {
       "ip": "217.79.85.238",
       "city": "Gabrovo",
       "region": "Gabrovo",
