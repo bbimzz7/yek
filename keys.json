@@ -13364,5 +13364,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-3F2600-F288DA-17F94B": {
+    "expires": "2026-05-10T04:13:21.517Z",
+    "hwid": "8227393788-2524efd1-4bae-4010-a216-43e5c058476b",
+    "browserHwid": null,
+    "username": "Deni56596",
+    "userId": "8227393788",
+    "source": "script",
+    "createdAt": "2026-05-09T04:13:21.982Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "217.79.85.238",
+      "city": "Gabrovo",
+      "region": "Gabrovo",
+      "country": "Bulgaria",
+      "cc": "BG"
+    }
   }
 }
