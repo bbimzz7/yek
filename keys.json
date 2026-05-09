@@ -14040,5 +14040,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C58A4D-5ABAD7-1DEE6B": {
+    "expires": "2026-05-10T17:18:35.216Z",
+    "hwid": "10929063078-d81c8ed5-1f90-4b21-ac63-4fd791f52c77",
+    "browserHwid": null,
+    "username": "JaivsiagsksuBs",
+    "userId": "10929063078",
+    "source": "script",
+    "createdAt": "2026-05-09T17:18:35.725Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.106.49",
+      "city": "Seattle",
+      "region": "Washington",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
