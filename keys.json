@@ -14064,5 +14064,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-CCD592-E3B266-976583": {
+    "expires": "2026-05-10T19:31:09.439Z",
+    "hwid": "10928307211-0ba08a96-bfaf-4ee3-b9cd-59b639610f72",
+    "browserHwid": null,
+    "username": "cereal_conleche989",
+    "userId": "10928307211",
+    "source": "script",
+    "createdAt": "2026-05-09T19:31:09.976Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.39.31.25",
+      "city": "San Juan Bautista",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
