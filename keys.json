@@ -13551,8 +13551,15 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-05-09T08:10:09.313Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T08:10:24.901Z",
     "geo": {
+      "ip": "114.79.6.7",
+      "city": "Cibinong",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.79.6.7",
       "city": "Cibinong",
       "region": "West Java",
