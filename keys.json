@@ -13831,5 +13831,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-501425-AA47A0-230692": {
+    "expires": "2026-05-10T12:50:33.840Z",
+    "hwid": "10922946103-d87d9bca-4610-478b-8bd0-5a5f8534ca50",
+    "browserHwid": null,
+    "username": "yoyo_504550",
+    "userId": "10922946103",
+    "source": "script",
+    "createdAt": "2026-05-09T12:50:34.340Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.125.149.235",
+      "city": "Mapurujaya",
+      "region": "Central Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
