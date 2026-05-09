@@ -13912,8 +13912,15 @@
     "userId": "3874472018",
     "source": "script",
     "createdAt": "2026-05-09T14:44:24.626Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T14:45:53.967Z",
     "geo": {
+      "ip": "38.81.163.37",
+      "city": "Jember",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "38.81.163.37",
       "city": "Jember",
       "region": "East Java",
