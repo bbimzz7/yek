@@ -13484,5 +13484,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0D41C5-6EEA54-AB2DFD": {
+    "expires": "2026-05-10T07:05:52.077Z",
+    "hwid": "10921963583-252bfe76-f46a-4492-9f41-80eea0fd6450",
+    "browserHwid": null,
+    "username": "wahyu67737",
+    "userId": "10921963583",
+    "source": "script",
+    "createdAt": "2026-05-09T07:05:52.560Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.124.137.197",
+      "city": "Ungaran",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
