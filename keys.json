@@ -14153,5 +14153,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-391DAD-35BFA5-D42DA1": {
+    "expires": "2026-05-10T23:51:37.502Z",
+    "hwid": "10094782052-b9c39db9-279e-407f-be8a-3207a143ffcf",
+    "browserHwid": null,
+    "username": "VIIP_SUFF",
+    "userId": "10094782052",
+    "source": "script",
+    "createdAt": "2026-05-09T23:51:37.971Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.46.4.45",
+      "city": "Pulau Kijang",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
