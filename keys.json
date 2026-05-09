@@ -13436,5 +13436,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B4E484-3C36DA-997660": {
+    "expires": "2026-05-10T04:48:54.010Z",
+    "hwid": "8092945570-9bf7f162-382e-40e7-85aa-747435ce83b1",
+    "browserHwid": null,
+    "username": "arzaq_aldeanlol",
+    "userId": "8092945570",
+    "source": "script",
+    "createdAt": "2026-05-09T04:48:54.291Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.32.107.215",
+      "city": "Cyberjaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
