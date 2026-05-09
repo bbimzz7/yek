@@ -13809,8 +13809,15 @@
     "userId": "8918867242",
     "source": "script",
     "createdAt": "2026-05-09T12:17:02.186Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T12:18:10.133Z",
     "geo": {
+      "ip": "86.120.125.25",
+      "city": "Târgu Jiu",
+      "region": "Gorj County",
+      "country": "Romania",
+      "cc": "RO"
+    },
+    "lastGeo": {
       "ip": "86.120.125.25",
       "city": "Târgu Jiu",
       "region": "Gorj County",
