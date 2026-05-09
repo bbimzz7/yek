@@ -13397,13 +13397,20 @@
     "userId": "9630981670",
     "source": "script",
     "createdAt": "2026-05-09T04:22:41.696Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T04:22:51.680Z",
     "geo": {
       "ip": "160.19.227.28",
       "city": "Bandung",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "148.153.228.240",
+      "city": "Tseung Kwan O",
+      "region": "Sai Kung District",
+      "country": "Hong Kong",
+      "cc": "HK"
     }
   }
 }
