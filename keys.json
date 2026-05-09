@@ -13704,5 +13704,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-43266E-515271-0BC93B": {
+    "expires": "2026-05-10T11:58:31.409Z",
+    "hwid": "8744136032-903f9a8f-597b-48f5-9e40-c52e73c65010",
+    "browserHwid": null,
+    "username": "ROBLOX_SAD95BECON",
+    "userId": "8744136032",
+    "source": "script",
+    "createdAt": "2026-05-09T11:58:31.886Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.4.146",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
