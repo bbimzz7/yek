@@ -13590,5 +13590,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DC03FE-E0E284-85482A": {
+    "expires": "2026-05-10T08:36:02.392Z",
+    "hwid": "10680590485-4fd79fa0-3ccc-42c9-8d1b-1eaca396f23f",
+    "browserHwid": null,
+    "username": "x_VkNv",
+    "userId": "10680590485",
+    "source": "script",
+    "createdAt": "2026-05-09T08:36:02.854Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.242.107.39",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
