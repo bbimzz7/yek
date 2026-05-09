@@ -14025,8 +14025,15 @@
     "userId": "10087568056",
     "source": "script",
     "createdAt": "2026-05-09T16:32:47.181Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T16:32:54.682Z",
     "geo": {
+      "ip": "114.79.1.32",
+      "city": "Sepatan",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.79.1.32",
       "city": "Sepatan",
       "region": "West Java",
