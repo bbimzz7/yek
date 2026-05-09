@@ -13607,5 +13607,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-494125-05A020-BDB987": {
+    "expires": "2026-05-10T08:38:47.799Z",
+    "hwid": null,
+    "browserHwid": "BR-0FB89184-6EBUC",
+    "username": "Finzyy_kecee",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-09T08:38:48.065Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "154.19.39.119",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
