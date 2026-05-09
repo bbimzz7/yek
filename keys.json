@@ -13445,8 +13445,15 @@
     "userId": "8092945570",
     "source": "script",
     "createdAt": "2026-05-09T04:48:54.291Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T04:49:02.089Z",
     "geo": {
+      "ip": "1.32.107.215",
+      "city": "Cyberjaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "1.32.107.215",
       "city": "Cyberjaya",
       "region": "Selangor",
