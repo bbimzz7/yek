@@ -12707,7 +12707,7 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-05-08T06:49:10.290Z",
-    "lastUsed": "2026-05-08T14:46:18.052Z",
+    "lastUsed": "2026-05-09T02:45:07.344Z",
     "geo": {
       "ip": "114.79.7.47",
       "city": "Ciputat",
@@ -12716,9 +12716,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.79.7.83",
-      "city": "Utan",
-      "region": "Jakarta",
+      "ip": "114.79.6.7",
+      "city": "Cibinong",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
