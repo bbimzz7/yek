@@ -13277,8 +13277,15 @@
     "userId": "7350318093",
     "source": "script",
     "createdAt": "2026-05-09T00:17:23.825Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T00:18:18.069Z",
     "geo": {
+      "ip": "107.122.225.14",
+      "city": "Alexander",
+      "region": "Arkansas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "107.122.225.14",
       "city": "Alexander",
       "region": "Arkansas",
