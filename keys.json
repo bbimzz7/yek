@@ -13388,5 +13388,22 @@
       "country": "Bulgaria",
       "cc": "BG"
     }
+  },
+  "VH-B1DF6C-0596E2-603909": {
+    "expires": "2026-05-10T04:22:41.329Z",
+    "hwid": "9630981670-70ba8ca0-4181-4679-b6bd-7e118fab32fb",
+    "browserHwid": null,
+    "username": "pecelleleabah04",
+    "userId": "9630981670",
+    "source": "script",
+    "createdAt": "2026-05-09T04:22:41.696Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.19.227.28",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
