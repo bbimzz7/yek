@@ -13968,5 +13968,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-865F37-C27DC0-8C2533": {
+    "expires": "2026-05-10T16:20:01.249Z",
+    "hwid": "7042773638-b00b800f-3cd3-4241-90d6-4829a998c34b",
+    "browserHwid": null,
+    "username": "Meelia67",
+    "userId": "7042773638",
+    "source": "script",
+    "createdAt": "2026-05-09T16:20:01.703Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.14.42",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
