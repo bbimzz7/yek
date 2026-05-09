@@ -13713,7 +13713,7 @@
     "userId": "8744136032",
     "source": "script",
     "createdAt": "2026-05-09T11:58:31.886Z",
-    "lastUsed": "2026-05-09T11:59:46.986Z",
+    "lastUsed": "2026-05-09T12:08:04.079Z",
     "geo": {
       "ip": "114.79.4.146",
       "city": "Jakarta",
@@ -13722,9 +13722,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.79.4.146",
-      "city": "Jakarta",
-      "region": "Jakarta",
+      "ip": "103.126.173.185",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
       "country": "Indonesia",
       "cc": "ID"
     }
