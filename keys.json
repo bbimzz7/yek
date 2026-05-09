@@ -13879,5 +13879,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1B61B5-DE62E3-527F4D": {
+    "expires": "2026-05-10T13:44:30.588Z",
+    "hwid": "9570721988-b60c28d0-68e5-4fff-a911-217d9b8a2322",
+    "browserHwid": null,
+    "username": "plutofit18",
+    "userId": "9570721988",
+    "source": "script",
+    "createdAt": "2026-05-09T13:44:31.069Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.33.242",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
