@@ -13672,10 +13672,17 @@
     "userId": "7249844499",
     "source": "script",
     "createdAt": "2026-05-09T09:05:15.828Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T09:05:40.636Z",
     "geo": {
       "ip": "140.213.2.139",
       "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "112.215.235.250",
+      "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
