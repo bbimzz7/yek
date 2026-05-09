@@ -13292,5 +13292,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-166906-6B3E12-FBC140": {
+    "expires": "2026-05-10T00:25:49.126Z",
+    "hwid": "7087534824-d6a2271c-22f6-4e0c-9892-2300bddfa7d3",
+    "browserHwid": null,
+    "username": "Kazee1979",
+    "userId": "7087534824",
+    "source": "script",
+    "createdAt": "2026-05-09T00:25:49.634Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.190.115.59",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
