@@ -13460,5 +13460,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-5175E8-AA8244-383A93": {
+    "expires": "2026-05-10T06:40:25.536Z",
+    "hwid": "10917143115-843dbd87-e70e-41a2-ae13-1d24989ff019",
+    "browserHwid": null,
+    "username": "azka_123456789107",
+    "userId": "10917143115",
+    "source": "script",
+    "createdAt": "2026-05-09T06:40:25.995Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.207.171",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
