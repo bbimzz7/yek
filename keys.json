@@ -14049,8 +14049,15 @@
     "userId": "10929063078",
     "source": "script",
     "createdAt": "2026-05-09T17:18:35.725Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T17:18:46.006Z",
     "geo": {
+      "ip": "172.56.106.49",
+      "city": "Seattle",
+      "region": "Washington",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.56.106.49",
       "city": "Seattle",
       "region": "Washington",
