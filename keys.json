@@ -13518,5 +13518,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-3E69C7-E6F94E-51638D": {
+    "expires": "2026-05-10T07:53:22.608Z",
+    "hwid": "6112274798-3bb47c69-5ff0-421d-8430-e89ff58ae028",
+    "browserHwid": null,
+    "username": "vcxr_rew",
+    "userId": "6112274798",
+    "source": "script",
+    "createdAt": "2026-05-09T07:53:23.081Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.138.108.17",
+      "city": "Kediri",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
