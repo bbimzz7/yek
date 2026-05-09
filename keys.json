@@ -13268,5 +13268,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-90E93B-63AF4A-5D4D89": {
+    "expires": "2026-05-10T00:17:23.328Z",
+    "hwid": "7350318093-5fd4a603-5faa-42fb-bcda-59a6dad09992",
+    "browserHwid": null,
+    "username": "Lamariion14ap2",
+    "userId": "7350318093",
+    "source": "script",
+    "createdAt": "2026-05-09T00:17:23.825Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "107.122.225.14",
+      "city": "Alexander",
+      "region": "Arkansas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
