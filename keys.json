@@ -13599,11 +13599,18 @@
     "userId": "10680590485",
     "source": "script",
     "createdAt": "2026-05-09T08:36:02.854Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T08:41:00.876Z",
     "geo": {
       "ip": "103.242.107.39",
       "city": "Bandung",
       "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "165.101.42.153",
+      "city": "Utan",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
