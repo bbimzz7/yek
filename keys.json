@@ -13687,5 +13687,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5C7F68-FF2535-683B27": {
+    "expires": "2026-05-10T10:33:23.345Z",
+    "hwid": "10548948960-8651c65f-5b73-45aa-81cc-88de268663e4",
+    "browserHwid": null,
+    "username": "Jhonnybravo20266",
+    "userId": "10548948960",
+    "source": "script",
+    "createdAt": "2026-05-09T10:33:23.844Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.191.72.31",
+      "city": "City of Muntinlupa",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
