@@ -13648,8 +13648,15 @@
     "userId": "8641884564",
     "source": "script",
     "createdAt": "2026-05-09T08:53:26.705Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T08:53:33.026Z",
     "geo": {
+      "ip": "180.243.0.11",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.243.0.11",
       "city": "West Jakarta",
       "region": "Jakarta",
