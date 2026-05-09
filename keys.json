@@ -14138,8 +14138,15 @@
     "userId": "10359403078",
     "source": "script",
     "createdAt": "2026-05-09T22:26:40.073Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T22:26:45.791Z",
     "geo": {
+      "ip": "125.160.122.204",
+      "city": "Samarinda",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.160.122.204",
       "city": "Samarinda",
       "region": "East Kalimantan",
