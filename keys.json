@@ -14001,8 +14001,15 @@
     "userId": "5271662672",
     "source": "script",
     "createdAt": "2026-05-09T16:21:05.580Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T16:21:13.495Z",
     "geo": {
+      "ip": "88.166.212.168",
+      "city": "Fontainebleau",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "88.166.212.168",
       "city": "Fontainebleau",
       "region": "Île-de-France",
