@@ -14016,5 +14016,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-482669-455A3B-98787C": {
+    "expires": "2026-05-10T16:32:46.721Z",
+    "hwid": "10087568056-77a29d4e-efaf-4aee-b22f-b5f7b1079957",
+    "browserHwid": null,
+    "username": "cillacantep",
+    "userId": "10087568056",
+    "source": "script",
+    "createdAt": "2026-05-09T16:32:47.181Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.1.32",
+      "city": "Sepatan",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
