@@ -14162,8 +14162,15 @@
     "userId": "10094782052",
     "source": "script",
     "createdAt": "2026-05-09T23:51:37.971Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-09T23:54:44.799Z",
     "geo": {
+      "ip": "103.46.4.45",
+      "city": "Pulau Kijang",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.46.4.45",
       "city": "Pulau Kijang",
       "region": "Riau",
