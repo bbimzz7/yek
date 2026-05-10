@@ -14217,8 +14217,15 @@
     "userId": "9896491220",
     "source": "script",
     "createdAt": "2026-05-10T03:15:11.495Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-10T03:20:38.676Z",
     "geo": {
+      "ip": "180.252.164.36",
+      "city": "Ciputat",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.252.164.36",
       "city": "Ciputat",
       "region": "West Java",
