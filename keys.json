@@ -14232,5 +14232,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CEDFFC-2794FB-844ED1": {
+    "expires": "2026-05-11T03:39:33.245Z",
+    "hwid": "10673627105-eae0abd6-96d1-4636-844a-3e3a4c09fa8f",
+    "browserHwid": null,
+    "username": "ko_gledah556",
+    "userId": "10673627105",
+    "source": "script",
+    "createdAt": "2026-05-10T03:39:33.734Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "149.62.204.64",
+      "city": "Sofia",
+      "region": "Sofia-Capital",
+      "country": "Bulgaria",
+      "cc": "BG"
+    }
   }
 }
