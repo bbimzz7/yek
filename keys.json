@@ -14352,5 +14352,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-D8574F-07AF70-A8D7B8": {
+    "expires": "2026-05-11T07:17:14.704Z",
+    "hwid": "10205497783-01ac3da7-1034-4787-bfe9-792e4317c007",
+    "browserHwid": null,
+    "username": "lookDan322",
+    "userId": "10205497783",
+    "source": "script",
+    "createdAt": "2026-05-10T07:17:15.159Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.10.127",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
