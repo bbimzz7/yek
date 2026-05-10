@@ -14592,5 +14592,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EF910C-B9EC76-ABD4C4": {
+    "expires": "2026-05-11T16:44:08.514Z",
+    "hwid": "8703966769-00e5a806-60d9-418a-9b57-35e5983d406c",
+    "browserHwid": null,
+    "username": "TergelTekuYT",
+    "userId": "8703966769",
+    "source": "script",
+    "createdAt": "2026-05-10T16:44:09.023Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.55.188.104",
+      "city": "Ulan Bator",
+      "region": "Ulaanbaatar",
+      "country": "Mongolia",
+      "cc": "MN"
+    }
   }
 }
