@@ -14760,5 +14760,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-15AC40-9AF096-CB50DA": {
+    "expires": "2026-05-11T21:31:16.852Z",
+    "hwid": "7997806339-c9ca14d6-2b12-4597-b293-f654fa56f05c",
+    "browserHwid": null,
+    "username": "HuynhRandallw8596",
+    "userId": "7997806339",
+    "source": "script",
+    "createdAt": "2026-05-10T21:31:17.292Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.228.10.130",
+      "city": "Serra",
+      "region": "Espírito Santo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
