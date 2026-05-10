@@ -14409,8 +14409,15 @@
     "userId": "10925989381",
     "source": "script",
     "createdAt": "2026-05-10T08:16:46.614Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-10T08:16:56.046Z",
     "geo": {
+      "ip": "103.3.222.8",
+      "city": "Curug",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.3.222.8",
       "city": "Curug",
       "region": "Banten",
