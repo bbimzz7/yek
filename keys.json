@@ -14280,5 +14280,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-485C02-05DC7C-2FB3F6": {
+    "expires": "2026-05-11T05:58:56.238Z",
+    "hwid": "10821985983-95af11c4-e42f-44ba-86fc-cf3a8fa77bf5",
+    "browserHwid": null,
+    "username": "noob_hacker123568",
+    "userId": "10821985983",
+    "source": "script",
+    "createdAt": "2026-05-10T05:58:56.700Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.62.38.119",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
