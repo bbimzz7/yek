@@ -14616,5 +14616,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-EFC7AB-2597FE-44F3D3": {
+    "expires": "2026-05-11T16:55:22.748Z",
+    "hwid": "10915317617-fb34c05d-fa81-46af-8da3-1f925ec603f1",
+    "browserHwid": null,
+    "username": "Itachiuciha947",
+    "userId": "10915317617",
+    "source": "script",
+    "createdAt": "2026-05-10T16:55:23.179Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.147.114",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
