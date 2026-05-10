@@ -14640,5 +14640,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C0B6D8-586682-6E729B": {
+    "expires": "2026-05-11T17:18:11.027Z",
+    "hwid": "553061410-1065A4AA-A8C5-4140-A024-2D3233448F82",
+    "browserHwid": null,
+    "username": "MiftahGAMERZ",
+    "userId": "553061410",
+    "source": "script",
+    "createdAt": "2026-05-10T17:18:11.507Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.11.152.252",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
