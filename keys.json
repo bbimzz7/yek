@@ -14577,8 +14577,15 @@
     "userId": "7140001928",
     "source": "script",
     "createdAt": "2026-05-10T14:59:14.552Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-10T15:00:13.921Z",
     "geo": {
+      "ip": "140.213.67.143",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "140.213.67.143",
       "city": "Banjarmasin",
       "region": "South Kalimantan",
