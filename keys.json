@@ -14769,8 +14769,15 @@
     "userId": "7997806339",
     "source": "script",
     "createdAt": "2026-05-10T21:31:17.292Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-10T21:31:26.215Z",
     "geo": {
+      "ip": "45.228.10.130",
+      "city": "Serra",
+      "region": "Espírito Santo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.228.10.130",
       "city": "Serra",
       "region": "Espírito Santo",
