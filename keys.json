@@ -14385,11 +14385,18 @@
     "userId": "10589636605",
     "source": "script",
     "createdAt": "2026-05-10T07:20:44.233Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-10T07:21:35.707Z",
     "geo": {
       "ip": "103.175.222.219",
       "city": "Airmadidi",
       "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "103.175.222.87",
+      "city": "Sungguminasa",
+      "region": "South Sulawesi",
       "country": "Indonesia",
       "cc": "ID"
     }
