@@ -14433,8 +14433,15 @@
     "userId": "7680087353",
     "source": "script",
     "createdAt": "2026-05-10T08:18:32.810Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-10T08:20:27.195Z",
     "geo": {
+      "ip": "103.147.236.167",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.147.236.167",
       "city": "Jambi City",
       "region": "Jambi",
