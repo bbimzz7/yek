@@ -14736,5 +14736,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-173C6C-6F0EF0-6CA6A6": {
+    "expires": "2026-05-11T20:45:04.441Z",
+    "hwid": "1398709957-233af97c-891f-49d9-9eef-dbd81e087730",
+    "browserHwid": null,
+    "username": "ifsnod",
+    "userId": "1398709957",
+    "source": "script",
+    "createdAt": "2026-05-10T20:45:04.924Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.228.10.130",
+      "city": "Serra",
+      "region": "Espírito Santo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
