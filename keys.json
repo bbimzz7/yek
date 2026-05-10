@@ -14784,5 +14784,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-E2C109-299804-791414": {
+    "expires": "2026-05-11T23:39:26.500Z",
+    "hwid": "8363898547-653c3b63-4b41-4bb2-b347-5a9735f81f8d",
+    "browserHwid": null,
+    "username": "SNEv2022",
+    "userId": "8363898547",
+    "source": "script",
+    "createdAt": "2026-05-10T23:39:26.985Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.6.55.120",
+      "city": "Cajamarca",
+      "region": "Cajamarca Department",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
