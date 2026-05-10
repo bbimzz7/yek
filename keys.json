@@ -14304,5 +14304,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-159B91-C01F15-76D766": {
+    "expires": "2026-05-11T06:26:34.428Z",
+    "hwid": "5442360729-073a55e8-c53e-4e53-bd94-91f88a08761a",
+    "browserHwid": null,
+    "username": "Zpoxzzz",
+    "userId": "5442360729",
+    "source": "script",
+    "createdAt": "2026-05-10T06:26:34.880Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.19.205.194",
+      "city": "Tokyo",
+      "region": "Tokyo",
+      "country": "Japan",
+      "cc": "JP"
+    }
   }
 }
