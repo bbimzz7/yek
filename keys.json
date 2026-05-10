@@ -14376,5 +14376,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-24C0DF-6EA4F2-062A31": {
+    "expires": "2026-05-11T07:20:43.741Z",
+    "hwid": "10589636605-3d274f4a-cd19-43b3-802f-d9116ceda9a5",
+    "browserHwid": null,
+    "username": "letmememem6",
+    "userId": "10589636605",
+    "source": "script",
+    "createdAt": "2026-05-10T07:20:44.233Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.222.219",
+      "city": "Airmadidi",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
