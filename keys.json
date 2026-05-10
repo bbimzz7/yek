@@ -14249,5 +14249,22 @@
       "country": "Bulgaria",
       "cc": "BG"
     }
+  },
+  "VH-5F596D-FCBD30-561178": {
+    "expires": "2026-05-11T03:40:54.722Z",
+    "hwid": "8908975856-88E697E8-2E34-446A-8D6E-65E1B49A7E80",
+    "browserHwid": null,
+    "username": "AsepKejedot_27",
+    "userId": "8908975856",
+    "source": "script",
+    "createdAt": "2026-05-10T03:40:55.003Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.255.211.214",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
