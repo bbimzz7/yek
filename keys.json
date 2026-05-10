@@ -14313,8 +14313,15 @@
     "userId": "5442360729",
     "source": "script",
     "createdAt": "2026-05-10T06:26:34.880Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-10T06:26:57.143Z",
     "geo": {
+      "ip": "37.19.205.194",
+      "city": "Tokyo",
+      "region": "Tokyo",
+      "country": "Japan",
+      "cc": "JP"
+    },
+    "lastGeo": {
       "ip": "37.19.205.194",
       "city": "Tokyo",
       "region": "Tokyo",
