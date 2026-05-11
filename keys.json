@@ -14928,5 +14928,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B50815-0160D6-8F6CC5": {
+    "expires": "2026-05-12T04:28:57.073Z",
+    "hwid": "10759433906-A039A82B-5522-4AF2-A225-5F2041A234CC",
+    "browserHwid": null,
+    "username": "fourtyyvirus",
+    "userId": "10759433906",
+    "source": "script",
+    "createdAt": "2026-05-11T04:28:57.534Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.101.63",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
