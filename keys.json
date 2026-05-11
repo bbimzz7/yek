@@ -15024,5 +15024,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-E2F4BD-CC37C3-8E5B76": {
+    "expires": "2026-05-12T06:50:34.179Z",
+    "hwid": "5756180469-A49EA848-BAEE-4052-92D2-BA32D3A862A6",
+    "browserHwid": null,
+    "username": "dragon_hunter1331",
+    "userId": "5756180469",
+    "source": "script",
+    "createdAt": "2026-05-11T06:50:34.484Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.149.109.246",
+      "city": "Zamboanga City",
+      "region": "Zamboanga Peninsula",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
