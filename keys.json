@@ -15113,5 +15113,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-3FBBE3-9795D2-04ECFB": {
+    "expires": "2026-05-12T09:18:42.963Z",
+    "hwid": "10076846808-4c674ce3-9f98-410b-b490-24bb09375900",
+    "browserHwid": null,
+    "username": "jelki_1",
+    "userId": "10076846808",
+    "source": "script",
+    "createdAt": "2026-05-11T09:18:43.522Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.5.145.236",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
