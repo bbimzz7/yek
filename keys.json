@@ -15072,5 +15072,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-CEA100-F2FE93-17DF97": {
+    "expires": "2026-05-12T07:51:13.793Z",
+    "hwid": "10933095262-09b2e719-61ba-4355-b6ba-1abf889690a8",
+    "browserHwid": null,
+    "username": "uddju14",
+    "userId": "10933095262",
+    "source": "script",
+    "createdAt": "2026-05-11T07:51:14.282Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "60.145.166.104",
+      "city": "Minato-ku",
+      "region": "Tokyo",
+      "country": "Japan",
+      "cc": "JP"
+    }
   }
 }
