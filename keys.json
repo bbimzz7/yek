@@ -14745,7 +14745,7 @@
     "userId": "1398709957",
     "source": "script",
     "createdAt": "2026-05-10T20:45:04.924Z",
-    "lastUsed": "2026-05-11T02:25:31.255Z",
+    "lastUsed": "2026-05-11T03:02:58.290Z",
     "geo": {
       "ip": "45.228.10.130",
       "city": "Serra",
@@ -14754,7 +14754,7 @@
       "cc": "BR"
     },
     "lastGeo": {
-      "ip": "179.102.135.117",
+      "ip": "179.102.136.142",
       "city": "Vila Velha",
       "region": "Espírito Santo",
       "country": "Brazil",
