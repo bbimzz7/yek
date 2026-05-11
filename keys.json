@@ -14873,5 +14873,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-FBC9C2-F6EE81-454682": {
+    "expires": "2026-05-12T03:25:23.015Z",
+    "hwid": "9439740680-203c7f28-7952-43c8-9daa-aaffe5f70d91",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-05-11T03:25:23.326Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.68.99.177",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
