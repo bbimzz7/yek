@@ -15267,5 +15267,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1CFB23-FD4103-B6D403": {
+    "expires": "2026-05-12T18:29:12.413Z",
+    "hwid": "10258837086-c270d832-b298-4b5b-86d5-8754a3436a9f",
+    "browserHwid": null,
+    "username": "AkuSayangTalonhehe",
+    "userId": "10258837086",
+    "source": "script",
+    "createdAt": "2026-05-11T18:29:13.023Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.7.120",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
