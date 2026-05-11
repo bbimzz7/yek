@@ -15161,5 +15161,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-67BE54-B0DDE3-D20736": {
+    "expires": "2026-05-12T10:48:59.081Z",
+    "hwid": "10812195610-29610505-d12f-4ed6-9e96-39d21af61549",
+    "browserHwid": null,
+    "username": "xovixoolt",
+    "userId": "10812195610",
+    "source": "script",
+    "createdAt": "2026-05-11T10:48:59.594Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "155.138.117.110",
+      "city": "Riyadh",
+      "region": "Riyadh Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
