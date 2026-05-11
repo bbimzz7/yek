@@ -15009,8 +15009,15 @@
     "userId": "10936765810",
     "source": "script",
     "createdAt": "2026-05-11T06:46:51.275Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-11T06:47:00.205Z",
     "geo": {
+      "ip": "76.32.41.68",
+      "city": "Lynwood",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "76.32.41.68",
       "city": "Lynwood",
       "region": "California",
