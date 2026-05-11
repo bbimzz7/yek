@@ -14808,5 +14808,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-3FBBF3-A4D40F-FEFE49": {
+    "expires": "2026-05-12T00:35:18.206Z",
+    "hwid": "8651852685-f524450a-2141-4623-8d70-bc2cda5b2a78",
+    "browserHwid": null,
+    "username": "depinrawrr",
+    "userId": "8651852685",
+    "source": "script",
+    "createdAt": "2026-05-11T00:35:18.710Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.32.225",
+      "city": "Cawilayan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
