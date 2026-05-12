@@ -15466,5 +15466,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-386772-FA6F9A-352A96": {
+    "expires": "2026-05-13T06:23:29.585Z",
+    "hwid": "10941863845-853d0550-d0b7-4272-abd5-83f09f0d39ec",
+    "browserHwid": null,
+    "username": "fjgxutc46",
+    "userId": "10941863845",
+    "source": "script",
+    "createdAt": "2026-05-12T06:23:30.095Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.88.3.81",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
