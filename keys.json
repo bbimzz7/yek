@@ -15634,5 +15634,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-55E697-F155FA-B81EF9": {
+    "expires": "2026-05-13T12:54:04.040Z",
+    "hwid": "7769227682-6722D4BC-EE3A-43F6-A5AF-31E33B99616F",
+    "browserHwid": null,
+    "username": "luckyaccount5752",
+    "userId": "7769227682",
+    "source": "script",
+    "createdAt": "2026-05-12T12:54:04.582Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.192.213.72",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
