@@ -15547,8 +15547,15 @@
     "userId": "8353924977",
     "source": "script",
     "createdAt": "2026-05-12T09:22:56.119Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-12T09:23:06.670Z",
     "geo": {
+      "ip": "210.87.74.179",
+      "city": "Bilo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "210.87.74.179",
       "city": "Bilo",
       "region": "East Java",
