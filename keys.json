@@ -15538,5 +15538,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4A15D8-F6F7B5-82292D": {
+    "expires": "2026-05-13T09:22:55.492Z",
+    "hwid": "8353924977-55f941e2-c766-4d82-91c1-662f82955bec",
+    "browserHwid": null,
+    "username": "JevonBanks7",
+    "userId": "8353924977",
+    "source": "script",
+    "createdAt": "2026-05-12T09:22:56.119Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "210.87.74.179",
+      "city": "Bilo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
