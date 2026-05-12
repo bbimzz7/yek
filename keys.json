@@ -15610,5 +15610,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-25164A-6228A0-08933F": {
+    "expires": "2026-05-13T12:42:48.359Z",
+    "hwid": "9148665179-487a6a0f-f0d0-4a8f-a403-086325e47067",
+    "browserHwid": null,
+    "username": "orbffjs",
+    "userId": "9148665179",
+    "source": "script",
+    "createdAt": "2026-05-12T12:42:48.861Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.143.40",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
