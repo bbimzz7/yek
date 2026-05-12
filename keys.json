@@ -15730,5 +15730,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-1FC45C-6E7A55-7DA0F3": {
+    "expires": "2026-05-13T22:35:51.976Z",
+    "hwid": "8651852685-c32cca83-ed6a-4670-9683-c611bf90bbaa",
+    "browserHwid": null,
+    "username": "depinrawrr",
+    "userId": "8651852685",
+    "source": "script",
+    "createdAt": "2026-05-12T22:35:52.468Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.32.225",
+      "city": "Cawilayan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
