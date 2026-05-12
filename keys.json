@@ -15499,8 +15499,15 @@
     "userId": "7899671303",
     "source": "script",
     "createdAt": "2026-05-12T08:00:02.674Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-12T08:00:09.872Z",
     "geo": {
+      "ip": "103.208.100.57",
+      "city": "Muntilan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.208.100.57",
       "city": "Muntilan",
       "region": "Central Java",
