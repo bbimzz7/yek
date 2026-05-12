@@ -15706,5 +15706,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B65D4B-B0BB7B-A05424": {
+    "expires": "2026-05-13T16:40:59.865Z",
+    "hwid": "5567839577-9DF5A801-AFF3-4AD4-8CD9-A2E14711DF44",
+    "browserHwid": null,
+    "username": "Hatori404",
+    "userId": "5567839577",
+    "source": "script",
+    "createdAt": "2026-05-12T16:41:00.439Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.233.223.82",
+      "city": "Omsk",
+      "region": "Omsk Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
