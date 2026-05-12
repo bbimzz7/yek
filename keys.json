@@ -15490,5 +15490,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-8A2C31-5BC62D-F31C6E": {
+    "expires": "2026-05-13T08:00:02.138Z",
+    "hwid": "7899671303-4efa02ff-b504-4025-b67c-1d185596d737",
+    "browserHwid": null,
+    "username": "always_jenuu",
+    "userId": "7899671303",
+    "source": "script",
+    "createdAt": "2026-05-12T08:00:02.674Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.208.100.57",
+      "city": "Muntilan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
