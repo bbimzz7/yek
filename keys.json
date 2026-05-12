@@ -15619,11 +15619,18 @@
     "userId": "9148665179",
     "source": "script",
     "createdAt": "2026-05-12T12:42:48.861Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-12T12:43:01.182Z",
     "geo": {
       "ip": "140.213.143.40",
       "city": "Tangerang",
       "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "203.78.125.52",
+      "city": "Bandung",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
