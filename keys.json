@@ -15514,5 +15514,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-15605A-F9ACD4-6B417F": {
+    "expires": "2026-05-13T08:07:29.741Z",
+    "hwid": "9271112580-de4ce67d-5644-4476-9251-6f9ce04df1a4",
+    "browserHwid": null,
+    "username": "FAZRIEL_AFTARSYAH",
+    "userId": "9271112580",
+    "source": "script",
+    "createdAt": "2026-05-12T08:07:30.310Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.75.18.66",
+      "city": "Palangkaraya",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
