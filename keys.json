@@ -15571,10 +15571,17 @@
     "userId": "7042773638",
     "source": "script",
     "createdAt": "2026-05-12T10:25:13.386Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-12T10:25:39.183Z",
     "geo": {
       "ip": "112.215.45.165",
       "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "140.213.14.20",
+      "city": "Central Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
