@@ -15475,8 +15475,15 @@
     "userId": "10941863845",
     "source": "script",
     "createdAt": "2026-05-12T06:23:30.095Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-12T06:23:38.667Z",
     "geo": {
+      "ip": "172.88.3.81",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.88.3.81",
       "city": "Los Angeles",
       "region": "California",
