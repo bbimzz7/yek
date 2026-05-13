@@ -16093,5 +16093,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-36952A-A70E40-226887": {
+    "expires": "2026-05-14T08:25:10.871Z",
+    "hwid": "457372805-3404A72F-F3B4-417A-A664-9B966840A841",
+    "browserHwid": null,
+    "username": "piercedcutss",
+    "userId": "457372805",
+    "source": "script",
+    "createdAt": "2026-05-13T08:25:11.428Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "35.147.126.224",
+      "city": "Waco",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
