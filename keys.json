@@ -16405,5 +16405,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-D1A0AA-CDEE07-B35D32": {
+    "expires": "2026-05-14T22:40:11.541Z",
+    "hwid": "8919710937-1bb7ecd3-8d4e-4f6f-a5bc-9a71d4cf92e0",
+    "browserHwid": null,
+    "username": "Craazy4me_1",
+    "userId": "8919710937",
+    "source": "script",
+    "createdAt": "2026-05-13T22:40:12.128Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.254.104.13",
+      "city": "Jabung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
