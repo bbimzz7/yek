@@ -16414,8 +16414,15 @@
     "userId": "8919710937",
     "source": "script",
     "createdAt": "2026-05-13T22:40:12.128Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-13T22:40:52.887Z",
     "geo": {
+      "ip": "103.254.104.13",
+      "city": "Jabung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.254.104.13",
       "city": "Jabung",
       "region": "Lampung",
