@@ -15829,14 +15829,22 @@
   },
   "VH-16D70B-80E608-35650C": {
     "expires": "2026-05-14T03:07:14.314Z",
-    "hwid": null,
+    "hwid": "8971377962-a5bb8f1e-56a5-43fa-956f-1701c42743b9",
     "browserHwid": "BR-1A8D2639-Y4G6X",
-    "username": "Rian_19976",
-    "userId": null,
+    "username": "rian_19976",
+    "userId": "8971377962",
     "source": "browser",
     "createdAt": "2026-05-13T03:07:14.870Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-13T03:08:18.797Z",
     "geo": {
+      "ip": "113.211.111.233",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "boundAt": "2026-05-13T03:08:18.779Z",
+    "lastGeo": {
       "ip": "113.211.111.233",
       "city": "Kuala Lumpur",
       "region": "Kuala Lumpur",
