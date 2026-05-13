@@ -15860,11 +15860,18 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-05-13T04:16:53.685Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-13T04:17:01.366Z",
     "geo": {
       "ip": "114.79.3.195",
       "city": "Depok",
       "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "114.79.2.103",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
