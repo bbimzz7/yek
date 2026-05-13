@@ -16174,8 +16174,15 @@
     "userId": "4567540131",
     "source": "script",
     "createdAt": "2026-05-13T12:31:36.883Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-13T12:31:43.535Z",
     "geo": {
+      "ip": "91.218.90.61",
+      "city": "Vinnytsia",
+      "region": "Vinnytsia",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "91.218.90.61",
       "city": "Vinnytsia",
       "region": "Vinnytsia",
