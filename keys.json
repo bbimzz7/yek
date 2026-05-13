@@ -15851,5 +15851,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-9786CE-9E1E58-AEC2AB": {
+    "expires": "2026-05-14T04:16:53.114Z",
+    "hwid": "8859097519-db37e107-cd9d-4b7f-b51f-fb11fad7ff1a",
+    "browserHwid": null,
+    "username": "Seraphic1616",
+    "userId": "8859097519",
+    "source": "script",
+    "createdAt": "2026-05-13T04:16:53.685Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.3.195",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
