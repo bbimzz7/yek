@@ -15903,14 +15903,22 @@
   },
   "VH-D6F9B6-04C111-82AFA5": {
     "expires": "2026-05-14T05:10:36.411Z",
-    "hwid": null,
+    "hwid": "9511239204-e041c2ba-1a89-4b56-98f9-30806fd23b89",
     "browserHwid": "BR-4599D58D-L49OM",
-    "username": "Omkamuve",
-    "userId": null,
+    "username": "omkamuve",
+    "userId": "9511239204",
     "source": "browser",
     "createdAt": "2026-05-13T05:10:36.944Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-13T05:10:48.416Z",
     "geo": {
+      "ip": "182.8.226.208",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-05-13T05:10:48.390Z",
+    "lastGeo": {
       "ip": "182.8.226.208",
       "city": "Yogyakarta",
       "region": "Yogyakarta",
