@@ -16054,8 +16054,15 @@
     "userId": "8483040390",
     "source": "script",
     "createdAt": "2026-05-13T07:12:53.266Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-13T07:13:03.795Z",
     "geo": {
+      "ip": "171.4.231.117",
+      "city": "Chiang Mai",
+      "region": "Chiang Mai",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "171.4.231.117",
       "city": "Chiang Mai",
       "region": "Chiang Mai",
