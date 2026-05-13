@@ -15763,8 +15763,15 @@
     "userId": "6105748666",
     "source": "script",
     "createdAt": "2026-05-13T00:54:57.072Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-13T00:55:05.093Z",
     "geo": {
+      "ip": "201.149.126.186",
+      "city": "Parauapebas",
+      "region": "Pará",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "201.149.126.186",
       "city": "Parauapebas",
       "region": "Pará",
