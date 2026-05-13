@@ -16165,5 +16165,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-920F73-BEC663-7D75D1": {
+    "expires": "2026-05-14T12:31:36.376Z",
+    "hwid": "4567540131-26C23533-DA25-4FEE-9468-E3AF277373AA",
+    "browserHwid": null,
+    "username": "chervoneyablyko122",
+    "userId": "4567540131",
+    "source": "script",
+    "createdAt": "2026-05-13T12:31:36.883Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "91.218.90.61",
+      "city": "Vinnytsia",
+      "region": "Vinnytsia",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
