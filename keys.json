@@ -16333,5 +16333,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-045E58-48D385-14F5CB": {
+    "expires": "2026-05-14T19:59:06.096Z",
+    "hwid": "8843952477-4d7056f2-27aa-4fbd-9b24-5ef8efb9a655",
+    "browserHwid": null,
+    "username": "kapraimut",
+    "userId": "8843952477",
+    "source": "script",
+    "createdAt": "2026-05-13T19:59:06.602Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.41.79.116",
+      "city": "Tanjung Pinang",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
