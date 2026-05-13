@@ -16222,8 +16222,15 @@
     "userId": "7657757550",
     "source": "script",
     "createdAt": "2026-05-13T12:39:55.858Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-13T12:40:07.204Z",
     "geo": {
+      "ip": "103.76.151.166",
+      "city": "Jabalan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.76.151.166",
       "city": "Jabalan",
       "region": "East Java",
