@@ -16213,5 +16213,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F7F8CE-C37189-157875": {
+    "expires": "2026-05-14T12:39:55.478Z",
+    "hwid": "7657757550-a51dd140-1e78-49f1-837e-e26e8e94f805",
+    "browserHwid": null,
+    "username": "Zharief140",
+    "userId": "7657757550",
+    "source": "script",
+    "createdAt": "2026-05-13T12:39:55.858Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.76.151.166",
+      "city": "Jabalan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
