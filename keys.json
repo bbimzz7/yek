@@ -16102,8 +16102,15 @@
     "userId": "457372805",
     "source": "script",
     "createdAt": "2026-05-13T08:25:11.428Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-13T08:25:18.522Z",
     "geo": {
+      "ip": "35.147.126.224",
+      "city": "Waco",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "35.147.126.224",
       "city": "Waco",
       "region": "Texas",
