@@ -16078,8 +16078,15 @@
     "userId": "8246404571",
     "source": "script",
     "createdAt": "2026-05-13T08:10:02.431Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-13T08:11:27.806Z",
     "geo": {
+      "ip": "111.94.92.105",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "111.94.92.105",
       "city": "South Tangerang",
       "region": "Banten",
