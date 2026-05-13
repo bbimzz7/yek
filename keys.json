@@ -15958,7 +15958,7 @@
     "userId": "7249844499",
     "source": "script",
     "createdAt": "2026-05-13T05:49:46.848Z",
-    "lastUsed": "2026-05-13T05:50:01.448Z",
+    "lastUsed": "2026-05-13T05:59:56.721Z",
     "geo": {
       "ip": "140.213.130.61",
       "city": "Tangerang",
@@ -15967,9 +15967,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.130.61",
-      "city": "Tangerang",
-      "region": "Banten",
+      "ip": "180.252.94.31",
+      "city": "Depok",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
