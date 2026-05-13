@@ -15878,14 +15878,22 @@
   },
   "VH-0F8A35-892FFC-F78540": {
     "expires": "2026-05-14T04:54:41.471Z",
-    "hwid": null,
+    "hwid": "8266986989-fdadc904-157c-439b-9e53-063c7f1769ba",
     "browserHwid": "BR-68E4FE44-AZ467",
-    "username": "Queen_75418",
-    "userId": null,
+    "username": "QUEEN_75418",
+    "userId": "8266986989",
     "source": "browser",
     "createdAt": "2026-05-13T04:54:41.963Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-13T04:58:05.725Z",
     "geo": {
+      "ip": "103.36.9.61",
+      "city": "Kota Serang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-05-13T04:58:05.717Z",
+    "lastGeo": {
       "ip": "103.36.9.61",
       "city": "Kota Serang",
       "region": "Banten",
