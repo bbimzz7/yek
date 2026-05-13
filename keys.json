@@ -15875,5 +15875,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0F8A35-892FFC-F78540": {
+    "expires": "2026-05-14T04:54:41.471Z",
+    "hwid": null,
+    "browserHwid": "BR-68E4FE44-AZ467",
+    "username": "Queen_75418",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-13T04:54:41.963Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.36.9.61",
+      "city": "Kota Serang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
