@@ -16933,5 +16933,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-37F432-7FDD1C-59F79C": {
+    "expires": "2026-05-15T23:31:57.535Z",
+    "hwid": "10953927064-be6fb939-a10e-4762-b83b-06667f79270f",
+    "browserHwid": null,
+    "username": "grilldoss",
+    "userId": "10953927064",
+    "source": "script",
+    "createdAt": "2026-05-14T23:31:58.054Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.131.245.171",
+      "city": "Teluk Kuantan",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
