@@ -16885,5 +16885,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-D3AFB8-BA6F50-0C3074": {
+    "expires": "2026-05-15T20:47:55.003Z",
+    "hwid": "5491134421-eec21b19-9ba6-4350-bbd9-2c5dbac0f739",
+    "browserHwid": null,
+    "username": "roloxrolo_23",
+    "userId": "5491134421",
+    "source": "script",
+    "createdAt": "2026-05-14T20:47:55.578Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.250.159.16",
+      "city": "Huánuco",
+      "region": "Huánuco Department",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
