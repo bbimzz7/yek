@@ -16837,5 +16837,22 @@
       "country": "Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-40E799-06F4A6-2415DE": {
+    "expires": "2026-05-15T17:28:24.714Z",
+    "hwid": "10152288927-b11700ce-d4c2-4349-b581-13e5361280c1",
+    "browserHwid": null,
+    "username": "ioaniji",
+    "userId": "10152288927",
+    "source": "script",
+    "createdAt": "2026-05-14T17:28:25.272Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.167.48.54",
+      "city": "Lubuklinggau",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
