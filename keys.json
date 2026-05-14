@@ -16573,5 +16573,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-5C6D02-0D29A2-843A14": {
+    "expires": "2026-05-15T07:21:01.723Z",
+    "hwid": "8859097519-db37e107-cd9d-4b7f-b51f-fb11fad7ff1a",
+    "browserHwid": null,
+    "username": "Seraphic1616",
+    "userId": "8859097519",
+    "source": "script",
+    "createdAt": "2026-05-14T07:21:02.319Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.0.73",
+      "city": "Jatibarang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
