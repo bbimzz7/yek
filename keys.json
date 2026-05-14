@@ -16782,5 +16782,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C173A6-C5AAA9-B54C05": {
+    "expires": "2026-05-15T16:02:54.708Z",
+    "hwid": "10364809984-2ceb2dcf-d243-4f55-987a-912c5b4b5147",
+    "browserHwid": null,
+    "username": "lumdfst67",
+    "userId": "10364809984",
+    "source": "script",
+    "createdAt": "2026-05-14T16:02:55.327Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "123.28.42.242",
+      "city": "Đinh Văn",
+      "region": "Lam Dong",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
