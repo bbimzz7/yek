@@ -16582,7 +16582,7 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-05-14T07:21:02.319Z",
-    "lastUsed": "2026-05-14T13:03:49.296Z",
+    "lastUsed": "2026-05-14T15:52:08.094Z",
     "geo": {
       "ip": "114.79.0.73",
       "city": "Jatibarang",
@@ -16591,8 +16591,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.79.6.160",
-      "city": "Bogor",
+      "ip": "114.79.7.176",
+      "city": "Cikarang",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
