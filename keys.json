@@ -16846,8 +16846,15 @@
     "userId": "10152288927",
     "source": "script",
     "createdAt": "2026-05-14T17:28:25.272Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-14T17:28:46.990Z",
     "geo": {
+      "ip": "125.167.48.54",
+      "city": "Lubuklinggau",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.167.48.54",
       "city": "Lubuklinggau",
       "region": "South Sumatra",
