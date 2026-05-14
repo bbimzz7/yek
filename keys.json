@@ -16453,5 +16453,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-5D18BB-81A90F-DC1583": {
+    "expires": "2026-05-15T01:19:21.481Z",
+    "hwid": "9559308603-88ffb95f-c2f7-4246-a32c-a2218586f8a5",
+    "browserHwid": null,
+    "username": "RikoNew18",
+    "userId": "9559308603",
+    "source": "script",
+    "createdAt": "2026-05-14T01:19:22.033Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.128.99.120",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
