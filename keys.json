@@ -16861,5 +16861,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-75A631-8EF4E9-2DCB09": {
+    "expires": "2026-05-15T18:10:17.189Z",
+    "hwid": "10953257463-a6b33bd8-a59d-476d-b997-ca78fad33c79",
+    "browserHwid": null,
+    "username": "tubers_hacker52",
+    "userId": "10953257463",
+    "source": "script",
+    "createdAt": "2026-05-14T18:10:17.885Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.60.87.47",
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
