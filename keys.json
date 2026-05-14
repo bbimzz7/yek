@@ -16477,5 +16477,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-489666-189CB5-3EB1C6": {
+    "expires": "2026-05-15T02:15:06.603Z",
+    "hwid": "10948721195-a42e941e-c976-4343-97ca-ed13b4bacb5c",
+    "browserHwid": null,
+    "username": "kaszuyaskingank",
+    "userId": "10948721195",
+    "source": "script",
+    "createdAt": "2026-05-14T02:15:07.132Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.42.179",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
