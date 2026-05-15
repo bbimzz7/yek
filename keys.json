@@ -17319,8 +17319,15 @@
     "userId": "9109565408",
     "source": "script",
     "createdAt": "2026-05-15T13:50:22.833Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-15T13:50:30.518Z",
     "geo": {
+      "ip": "180.252.84.134",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.252.84.134",
       "city": "Depok",
       "region": "West Java",
