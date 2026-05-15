@@ -17230,7 +17230,7 @@
     "userId": "10087568056",
     "source": "script",
     "createdAt": "2026-05-15T10:58:18.043Z",
-    "lastUsed": "2026-05-15T10:58:39.960Z",
+    "lastUsed": "2026-05-15T13:43:18.835Z",
     "geo": {
       "ip": "114.79.5.53",
       "city": "Jakarta",
@@ -17239,9 +17239,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.79.5.53",
-      "city": "Jakarta",
-      "region": "Jakarta",
+      "ip": "114.79.7.145",
+      "city": "Tangerang",
+      "region": "Banten",
       "country": "Indonesia",
       "cc": "ID"
     }
