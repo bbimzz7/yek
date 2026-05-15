@@ -17343,8 +17343,15 @@
     "userId": "10082113567",
     "source": "script",
     "createdAt": "2026-05-15T13:52:21.277Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-15T13:52:30.141Z",
     "geo": {
+      "ip": "103.174.236.84",
+      "city": "Wonoharjo",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.174.236.84",
       "city": "Wonoharjo",
       "region": "West Java",
