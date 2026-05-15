@@ -17158,8 +17158,15 @@
     "userId": "10952567631",
     "source": "script",
     "createdAt": "2026-05-15T09:28:37.497Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-15T09:28:50.765Z",
     "geo": {
+      "ip": "182.4.71.172",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.4.71.172",
       "city": "Padang",
       "region": "West Sumatra",
