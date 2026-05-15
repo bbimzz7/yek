@@ -17430,5 +17430,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-08F767-1A06AC-06AFE0": {
+    "expires": "2026-05-16T15:58:41.156Z",
+    "hwid": "10957033430-4e63e33d-26d0-4e23-9645-56a9e9fc5981",
+    "browserHwid": null,
+    "username": "145272636172hamsb",
+    "userId": "10957033430",
+    "source": "script",
+    "createdAt": "2026-05-15T15:58:41.666Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.250.23.188",
+      "city": "Pozzuoli",
+      "region": "Campania",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
