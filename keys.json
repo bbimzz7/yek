@@ -17221,5 +17221,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F845CB-D1C85E-606A11": {
+    "expires": "2026-05-16T10:58:17.576Z",
+    "hwid": "10087568056-23b1b5d5-e748-464f-8a22-6cce25ce502d",
+    "browserHwid": null,
+    "username": "cillacantep",
+    "userId": "10087568056",
+    "source": "script",
+    "createdAt": "2026-05-15T10:58:18.043Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.5.53",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
