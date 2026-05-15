@@ -17406,5 +17406,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-C337FB-6F0877-756648": {
+    "expires": "2026-05-16T15:30:48.039Z",
+    "hwid": "8469315424-1ebed48e-f73e-4ec9-b862-ff62bcac5873",
+    "browserHwid": null,
+    "username": "fatan_30stecu",
+    "userId": "8469315424",
+    "source": "script",
+    "createdAt": "2026-05-15T15:30:48.563Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.144.18.32",
+      "city": "Tempurejo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
