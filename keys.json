@@ -17197,5 +17197,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7210D9-8899B0-72925F": {
+    "expires": "2026-05-16T10:54:17.011Z",
+    "hwid": "10915533247-1abfb085-a244-48a4-8d89-2effb9cccbd1",
+    "browserHwid": null,
+    "username": "rafi555513",
+    "userId": "10915533247",
+    "source": "script",
+    "createdAt": "2026-05-15T10:54:17.598Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.247.21.230",
+      "city": "Purbalingga",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
