@@ -16981,5 +16981,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-E92B53-FEE84E-64F195": {
+    "expires": "2026-05-16T01:18:27.994Z",
+    "hwid": "9979326499-547818df-0036-4d10-8965-02fd9d6a3a84",
+    "browserHwid": null,
+    "username": "MarvelJMK",
+    "userId": "9979326499",
+    "source": "script",
+    "createdAt": "2026-05-15T01:18:28.503Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.54.75",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
