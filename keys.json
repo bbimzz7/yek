@@ -17149,5 +17149,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9CDDCB-481CE7-28A477": {
+    "expires": "2026-05-16T09:28:36.958Z",
+    "hwid": "10952567631-4fa271f7-b299-4f54-9a52-85f8af061e81",
+    "browserHwid": null,
+    "username": "MIMIN_ROBLOX325",
+    "userId": "10952567631",
+    "source": "script",
+    "createdAt": "2026-05-15T09:28:37.497Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.71.172",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
