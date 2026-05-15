@@ -17173,5 +17173,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0FF475-D2DB09-4E620B": {
+    "expires": "2026-05-16T09:30:57.960Z",
+    "hwid": "10955225337-657ae3d6-bd05-4b88-9acc-6b4887651a12",
+    "browserHwid": null,
+    "username": "elpremiumspotify",
+    "userId": "10955225337",
+    "source": "script",
+    "createdAt": "2026-05-15T09:30:58.327Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.5.216.218",
+      "city": "Sukabumi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
