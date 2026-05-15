@@ -17415,8 +17415,15 @@
     "userId": "8469315424",
     "source": "script",
     "createdAt": "2026-05-15T15:30:48.563Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-15T15:31:00.793Z",
     "geo": {
+      "ip": "103.144.18.32",
+      "city": "Tempurejo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.144.18.32",
       "city": "Tempurejo",
       "region": "East Java",
