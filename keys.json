@@ -17526,5 +17526,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-1A771A-E7FDF9-F43CE1": {
+    "expires": "2026-05-16T20:41:12.344Z",
+    "hwid": "8438013652-6109eb7f-dbb9-4fd7-8201-99c3308404f7",
+    "browserHwid": null,
+    "username": "Banana26003",
+    "userId": "8438013652",
+    "source": "script",
+    "createdAt": "2026-05-15T20:41:12.976Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.212.214.41",
+      "city": "Managua",
+      "region": "Managua Department",
+      "country": "Nicaragua",
+      "cc": "NI"
+    }
   }
 }
