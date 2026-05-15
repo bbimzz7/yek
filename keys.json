@@ -17334,5 +17334,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-548BAA-D7FAC3-B6D409": {
+    "expires": "2026-05-16T13:52:20.700Z",
+    "hwid": "10082113567-fb2c7531-9534-416f-8073-f3bd8d42739f",
+    "browserHwid": null,
+    "username": "Nyzlen2",
+    "userId": "10082113567",
+    "source": "script",
+    "createdAt": "2026-05-15T13:52:21.277Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.174.236.84",
+      "city": "Wonoharjo",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
