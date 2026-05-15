@@ -17391,8 +17391,15 @@
     "userId": "9726745783",
     "source": "script",
     "createdAt": "2026-05-15T15:25:53.506Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-15T15:29:59.812Z",
     "geo": {
+      "ip": "113.210.106.159",
+      "city": "Kuching",
+      "region": "Sarawak",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "113.210.106.159",
       "city": "Kuching",
       "region": "Sarawak",
