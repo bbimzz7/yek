@@ -17038,8 +17038,15 @@
     "userId": "7405544937",
     "source": "script",
     "createdAt": "2026-05-15T06:14:43.164Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-15T06:14:58.104Z",
     "geo": {
+      "ip": "180.148.24.44",
+      "city": "Cianjur",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.148.24.44",
       "city": "Cianjur",
       "region": "West Java",
