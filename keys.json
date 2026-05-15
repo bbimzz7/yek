@@ -17382,5 +17382,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C3F5B0-276A15-2DCF76": {
+    "expires": "2026-05-16T15:25:52.919Z",
+    "hwid": "9726745783-da90286f-c734-4fe8-a1df-616448de9236",
+    "browserHwid": null,
+    "username": "kjssjsj6",
+    "userId": "9726745783",
+    "source": "script",
+    "createdAt": "2026-05-15T15:25:53.506Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.210.106.159",
+      "city": "Kuching",
+      "region": "Sarawak",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
