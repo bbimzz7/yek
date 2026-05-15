@@ -17478,5 +17478,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-EEB28C-FD3A5C-564CA7": {
+    "expires": "2026-05-16T17:32:39.670Z",
+    "hwid": "7785069795-5a15f5a2-91d0-48fb-a6ce-45c2b73b6f9a",
+    "browserHwid": null,
+    "username": "langggzxyz",
+    "userId": "7785069795",
+    "source": "script",
+    "createdAt": "2026-05-15T17:32:40.283Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.138.180",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
