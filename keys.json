@@ -17463,8 +17463,15 @@
     "userId": "10957185390",
     "source": "script",
     "createdAt": "2026-05-15T16:47:30.097Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-15T16:49:55.487Z",
     "geo": {
+      "ip": "219.254.41.182",
+      "city": "Jungnang-gu",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "lastGeo": {
       "ip": "219.254.41.182",
       "city": "Jungnang-gu",
       "region": "Seoul",
