@@ -17855,5 +17855,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-92BAA3-7CC743-7CD675": {
+    "expires": "2026-05-17T13:51:56.792Z",
+    "hwid": "7433089144-723ee897-74ec-4a8a-90fb-cda976d6a5ca",
+    "browserHwid": null,
+    "username": "xca_352",
+    "userId": "7433089144",
+    "source": "script",
+    "createdAt": "2026-05-16T13:51:57.314Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.164.158.195",
+      "city": "Mỹ Tho",
+      "region": "Dong Thap",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
