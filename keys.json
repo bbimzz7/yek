@@ -17864,8 +17864,15 @@
     "userId": "7433089144",
     "source": "script",
     "createdAt": "2026-05-16T13:51:57.314Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-16T13:54:14.044Z",
     "geo": {
+      "ip": "14.164.158.195",
+      "city": "Mỹ Tho",
+      "region": "Dong Thap",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "14.164.158.195",
       "city": "Mỹ Tho",
       "region": "Dong Thap",
