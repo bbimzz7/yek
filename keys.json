@@ -17639,5 +17639,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D335E9-572E7F-F2A7F9": {
+    "expires": "2026-05-17T06:13:10.825Z",
+    "hwid": "570541008-bd84f1c4-b3a6-4562-8ba1-06aca7a6698b",
+    "browserHwid": null,
+    "username": "r1q2q3q4q5q",
+    "userId": "570541008",
+    "source": "script",
+    "createdAt": "2026-05-16T06:13:11.364Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.17.87.161",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
