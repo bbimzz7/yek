@@ -17879,5 +17879,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-AC1CDF-2D7CB9-40D3F3": {
+    "expires": "2026-05-17T13:57:32.669Z",
+    "hwid": "10657032416-858af898-a2a6-4aa5-87be-095067bdf912",
+    "browserHwid": null,
+    "username": "aboutyouwhen",
+    "userId": "10657032416",
+    "source": "script",
+    "createdAt": "2026-05-16T13:57:32.963Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.71.229.255",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
