@@ -17953,8 +17953,15 @@
     "userId": "5442360729",
     "source": "script",
     "createdAt": "2026-05-16T16:23:23.442Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-16T16:23:44.612Z",
     "geo": {
+      "ip": "212.8.253.84",
+      "city": "Naaldwijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "212.8.253.84",
       "city": "Naaldwijk",
       "region": "South Holland",
