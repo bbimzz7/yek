@@ -17768,8 +17768,15 @@
     "userId": "10954014992",
     "source": "script",
     "createdAt": "2026-05-16T10:29:34.297Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-16T10:29:55.430Z",
     "geo": {
+      "ip": "114.125.149.8",
+      "city": "Mapurujaya",
+      "region": "Central Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.125.149.8",
       "city": "Mapurujaya",
       "region": "Central Papua",
