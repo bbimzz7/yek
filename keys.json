@@ -17591,5 +17591,22 @@
       "country": "Guyana",
       "cc": "GY"
     }
+  },
+  "VH-A385DC-DAA350-9B7C2B": {
+    "expires": "2026-05-17T05:00:01.007Z",
+    "hwid": "8839377304-3bfc516a-07fa-408f-b762-831198df7bce",
+    "browserHwid": null,
+    "username": "abyan12345769",
+    "userId": "8839377304",
+    "source": "script",
+    "createdAt": "2026-05-16T05:00:01.529Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.165.126",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
