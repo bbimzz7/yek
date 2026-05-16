@@ -17735,5 +17735,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-5B4CBB-F63727-E6D4D9": {
+    "expires": "2026-05-17T09:51:02.262Z",
+    "hwid": "5094650867-631e287a-dc5e-4cc3-b36f-19c845b70318",
+    "browserHwid": null,
+    "username": "Kazakh_robloxian5",
+    "userId": "5094650867",
+    "source": "script",
+    "createdAt": "2026-05-16T09:51:02.756Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.133.197.168",
+      "city": "Astana",
+      "region": "Astana",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
