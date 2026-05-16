@@ -17927,5 +17927,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5B317F-DDC7D8-80A048": {
+    "expires": "2026-05-17T15:42:39.929Z",
+    "hwid": null,
+    "browserHwid": "BR-23B92324-7BB11",
+    "username": "BR-23B92324-7BB11",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-16T15:42:40.288Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "51.195.217.47",
+      "city": "Erith",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
