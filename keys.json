@@ -17888,8 +17888,15 @@
     "userId": "10657032416",
     "source": "script",
     "createdAt": "2026-05-16T13:57:32.963Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-16T13:57:45.455Z",
     "geo": {
+      "ip": "36.71.229.255",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.71.229.255",
       "city": "Bekasi",
       "region": "West Java",
