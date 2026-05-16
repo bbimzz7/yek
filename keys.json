@@ -17992,5 +17992,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0A69B0-95DD57-ADFF94": {
+    "expires": "2026-05-17T19:02:50.785Z",
+    "hwid": "355807318-b1b58169-4ba3-4ad0-ad34-10477b1e90fb",
+    "browserHwid": null,
+    "username": "gamersending",
+    "userId": "355807318",
+    "source": "script",
+    "createdAt": "2026-05-16T19:02:51.287Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.129.150.64",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
