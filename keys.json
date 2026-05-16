@@ -17759,5 +17759,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-97E5E2-44ED81-D09F04": {
+    "expires": "2026-05-17T10:29:33.848Z",
+    "hwid": "10954014992-d279e82c-2fb1-4975-add0-d265b7c0eb8e",
+    "browserHwid": null,
+    "username": "yoyo_504559",
+    "userId": "10954014992",
+    "source": "script",
+    "createdAt": "2026-05-16T10:29:34.297Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.125.149.8",
+      "city": "Mapurujaya",
+      "region": "Central Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
