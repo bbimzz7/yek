@@ -18040,5 +18040,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3A6E4A-AEB693-BA67F2": {
+    "expires": "2026-05-17T23:51:14.542Z",
+    "hwid": "4720172688-60025b9a-92a6-4b21-a53f-0952415b5be1",
+    "browserHwid": null,
+    "username": "layane529",
+    "userId": "4720172688",
+    "source": "script",
+    "createdAt": "2026-05-16T23:51:15.056Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.244.29.5",
+      "city": "Itanhaém",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
