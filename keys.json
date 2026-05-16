@@ -17831,5 +17831,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-2D5519-1BA4BE-1DB8F2": {
+    "expires": "2026-05-17T13:40:13.922Z",
+    "hwid": "10627323544-eafea4ba-be5b-4148-a02d-54a00935a139",
+    "browserHwid": null,
+    "username": "Tamarus_99",
+    "userId": "10627323544",
+    "source": "script",
+    "createdAt": "2026-05-16T13:40:14.448Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.156.4",
+      "city": "Parung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
