@@ -17672,11 +17672,18 @@
     "userId": "8839377304",
     "source": "script",
     "createdAt": "2026-05-16T06:18:30.037Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-16T06:18:38.789Z",
     "geo": {
       "ip": "158.140.165.126",
       "city": "Palembang",
       "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "158.140.173.83",
+      "city": "Malang",
+      "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
     }
