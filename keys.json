@@ -18057,5 +18057,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-B39B11-D4D6F1-678FFC": {
+    "expires": "2026-05-18T00:41:48.705Z",
+    "hwid": "5794863279-77798f0a-f8a3-44ce-a7e1-d6541a172e9a",
+    "browserHwid": null,
+    "username": "ALi_21487",
+    "userId": "5794863279",
+    "source": "script",
+    "createdAt": "2026-05-17T00:41:49.157Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.59.234.27",
+      "city": "Gravelines",
+      "region": "Hauts-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
