@@ -18146,5 +18146,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-78E0B0-AD00EE-A2A961": {
+    "expires": "2026-05-18T04:09:47.808Z",
+    "hwid": "10241827904-9e1b519c-e1f6-42f2-bee6-cf6466cf7f34",
+    "browserHwid": null,
+    "username": "Mangonsteen12",
+    "userId": "10241827904",
+    "source": "script",
+    "createdAt": "2026-05-17T04:09:48.360Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.211.121.113",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
