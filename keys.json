@@ -18203,8 +18203,15 @@
     "userId": "8304106331",
     "source": "script",
     "createdAt": "2026-05-17T06:00:19.817Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-17T06:00:31.842Z",
     "geo": {
+      "ip": "140.213.2.205",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "140.213.2.205",
       "city": "Central Jakarta",
       "region": "Jakarta",
