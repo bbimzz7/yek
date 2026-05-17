@@ -17953,7 +17953,7 @@
     "userId": "5442360729",
     "source": "script",
     "createdAt": "2026-05-16T16:23:23.442Z",
-    "lastUsed": "2026-05-16T16:23:44.612Z",
+    "lastUsed": "2026-05-17T06:09:55.699Z",
     "geo": {
       "ip": "212.8.253.84",
       "city": "Naaldwijk",
@@ -17962,11 +17962,11 @@
       "cc": "NL"
     },
     "lastGeo": {
-      "ip": "212.8.253.84",
-      "city": "Naaldwijk",
-      "region": "South Holland",
-      "country": "Netherlands",
-      "cc": "NL"
+      "ip": "93.88.156.14",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
     }
   },
   "VH-D97DCC-E5AE23-F134AB": {
