@@ -18338,5 +18338,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F6E746-5B1F5C-22936E": {
+    "expires": "2026-05-18T10:59:10.776Z",
+    "hwid": "2360221660-3d09924c-8c2e-42d3-bf68-a7d4cceeb262",
+    "browserHwid": null,
+    "username": "isikozlem",
+    "userId": "2360221660",
+    "source": "script",
+    "createdAt": "2026-05-17T10:59:11.307Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "85.107.110.80",
+      "city": "Karşıyaka",
+      "region": "Kocaeli",
+      "country": "Turkey",
+      "cc": "TR"
+    }
   }
 }
