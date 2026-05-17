@@ -18081,5 +18081,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-034175-FEB6A1-88FCED": {
+    "expires": "2026-05-18T01:09:24.866Z",
+    "hwid": "9506223881-9FC26217-4B25-4FE7-811B-177BD2D4CBEF",
+    "browserHwid": null,
+    "username": "MinhScripts_YT",
+    "userId": "9506223881",
+    "source": "script",
+    "createdAt": "2026-05-17T01:09:25.391Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.35.204",
+      "city": "Washington",
+      "region": "District of Columbia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
