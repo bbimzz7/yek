@@ -18347,13 +18347,20 @@
     "userId": "2360221660",
     "source": "script",
     "createdAt": "2026-05-17T10:59:11.307Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-17T10:59:27.711Z",
     "geo": {
       "ip": "85.107.110.80",
       "city": "Karşıyaka",
       "region": "Kocaeli",
       "country": "Turkey",
       "cc": "TR"
+    },
+    "lastGeo": {
+      "ip": "156.146.55.209",
+      "city": "Sofia",
+      "region": "Sofia-Capital",
+      "country": "Bulgaria",
+      "cc": "BG"
     }
   }
 }
