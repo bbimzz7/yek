@@ -18427,5 +18427,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A7C5D1-12EA3A-418AD8": {
+    "expires": "2026-05-18T13:23:34.242Z",
+    "hwid": "10965787795-57a4d18f-e00f-4195-bb5b-e4223e22340b",
+    "browserHwid": null,
+    "username": "ARTEMIS28894",
+    "userId": "10965787795",
+    "source": "script",
+    "createdAt": "2026-05-17T13:23:34.725Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.183.57.3",
+      "city": "Kebontiwu",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
