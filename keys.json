@@ -18266,5 +18266,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4267AB-21F643-309463": {
+    "expires": "2026-05-18T09:49:50.874Z",
+    "hwid": "9452375800-4ae80973-0e54-497b-82cb-b5204eef00a9",
+    "browserHwid": null,
+    "username": "GTSMMWE20xd",
+    "userId": "9452375800",
+    "source": "script",
+    "createdAt": "2026-05-17T09:49:51.361Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "152.59.48.213",
+      "city": "Bhopal",
+      "region": "Madhya Pradesh",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
