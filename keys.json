@@ -18105,5 +18105,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-31157C-123BD5-DECEED": {
+    "expires": "2026-05-18T02:33:15.165Z",
+    "hwid": "7977773452-725cdb9b-71d8-4796-baa5-95a6cc612217",
+    "browserHwid": null,
+    "username": "Moneto39",
+    "userId": "7977773452",
+    "source": "script",
+    "createdAt": "2026-05-17T02:33:15.688Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.122.240.184",
+      "city": "Asunción",
+      "region": "Asunción",
+      "country": "Paraguay",
+      "cc": "PY"
+    }
   }
 }
