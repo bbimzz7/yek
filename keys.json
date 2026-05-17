@@ -18114,8 +18114,15 @@
     "userId": "7977773452",
     "source": "script",
     "createdAt": "2026-05-17T02:33:15.688Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-17T02:33:58.448Z",
     "geo": {
+      "ip": "181.122.240.184",
+      "city": "Asunción",
+      "region": "Asunción",
+      "country": "Paraguay",
+      "cc": "PY"
+    },
+    "lastGeo": {
       "ip": "181.122.240.184",
       "city": "Asunción",
       "region": "Asunción",
