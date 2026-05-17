@@ -18362,5 +18362,22 @@
       "country": "Bulgaria",
       "cc": "BG"
     }
+  },
+  "VH-A37F1E-98D971-0CD7BE": {
+    "expires": "2026-05-18T12:24:25.406Z",
+    "hwid": "8703605365-c5d07e17-40bc-4559-b2bf-1661465a3aa8",
+    "browserHwid": null,
+    "username": "Ilostmyrobloxmain1",
+    "userId": "8703605365",
+    "source": "script",
+    "createdAt": "2026-05-17T12:24:25.819Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.120.173.157",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
