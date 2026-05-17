@@ -18242,5 +18242,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CB7BF1-1565C3-6B56BB": {
+    "expires": "2026-05-18T09:04:22.194Z",
+    "hwid": "10641088987-9f0d0308-9526-4167-96e3-06b93edfa118",
+    "browserHwid": null,
+    "username": "lyora_chan14",
+    "userId": "10641088987",
+    "source": "script",
+    "createdAt": "2026-05-17T09:04:22.722Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.19.145.227",
+      "city": "Demak",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
