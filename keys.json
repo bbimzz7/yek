@@ -18556,10 +18556,17 @@
     "userId": "8753918283",
     "source": "script",
     "createdAt": "2026-05-17T22:02:30.726Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-17T22:02:38.891Z",
     "geo": {
       "ip": "180.248.214.48",
       "city": "Samarinda",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "103.160.150.138",
+      "city": "Sendawar",
       "region": "East Kalimantan",
       "country": "Indonesia",
       "cc": "ID"
