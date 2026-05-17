@@ -18299,8 +18299,15 @@
     "userId": "7832815476",
     "source": "script",
     "createdAt": "2026-05-17T10:22:32.671Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-17T10:23:40.788Z",
     "geo": {
+      "ip": "160.25.242.81",
+      "city": "Madiun",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "160.25.242.81",
       "city": "Madiun",
       "region": "East Java",
