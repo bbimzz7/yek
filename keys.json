@@ -18066,8 +18066,15 @@
     "userId": "5794863279",
     "source": "script",
     "createdAt": "2026-05-17T00:41:49.157Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-17T00:43:13.114Z",
     "geo": {
+      "ip": "146.59.234.27",
+      "city": "Gravelines",
+      "region": "Hauts-de-France",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "146.59.234.27",
       "city": "Gravelines",
       "region": "Hauts-de-France",
