@@ -18436,8 +18436,15 @@
     "userId": "10965787795",
     "source": "script",
     "createdAt": "2026-05-17T13:23:34.725Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-17T13:24:44.073Z",
     "geo": {
+      "ip": "103.183.57.3",
+      "city": "Kebontiwu",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.183.57.3",
       "city": "Kebontiwu",
       "region": "West Java",
