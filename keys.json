@@ -18275,8 +18275,15 @@
     "userId": "9452375800",
     "source": "script",
     "createdAt": "2026-05-17T09:49:51.361Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-17T09:50:22.743Z",
     "geo": {
+      "ip": "152.59.48.213",
+      "city": "Bhopal",
+      "region": "Madhya Pradesh",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "152.59.48.213",
       "city": "Bhopal",
       "region": "Madhya Pradesh",
