@@ -18290,5 +18290,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-51D715-B9759A-11F0DC": {
+    "expires": "2026-05-18T10:22:32.160Z",
+    "hwid": "7832815476-4130ec68-1cfe-45dc-8141-23993f4aa6a2",
+    "browserHwid": null,
+    "username": "PLAYER222115",
+    "userId": "7832815476",
+    "source": "script",
+    "createdAt": "2026-05-17T10:22:32.671Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.25.242.81",
+      "city": "Madiun",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
