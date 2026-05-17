@@ -17912,7 +17912,7 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-05-16T15:40:53.257Z",
-    "lastUsed": "2026-05-17T11:59:28.508Z",
+    "lastUsed": "2026-05-17T12:30:13.780Z",
     "geo": {
       "ip": "114.79.0.176",
       "city": "Tangerang",
@@ -17921,9 +17921,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.79.4.146",
-      "city": "Jakarta",
-      "region": "Jakarta",
+      "ip": "114.79.1.24",
+      "city": "Teluknaga",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
