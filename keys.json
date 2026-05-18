@@ -18667,5 +18667,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-C06F8C-D36DE8-E84C3F": {
+    "expires": "2026-05-19T04:55:17.371Z",
+    "hwid": "10369166472-db300451-0b5b-4540-873f-26655057b516",
+    "browserHwid": null,
+    "username": "fueivxgz",
+    "userId": "10369166472",
+    "source": "script",
+    "createdAt": "2026-05-18T04:55:17.930Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.80.193.58",
+      "city": "Serra",
+      "region": "Espírito Santo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
