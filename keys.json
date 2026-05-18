@@ -18595,5 +18595,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-13C84D-064D87-AE8C70": {
+    "expires": "2026-05-19T02:06:42.735Z",
+    "hwid": "5068668801-9a377c8c-11be-4075-9de9-6ff4ef75659d",
+    "browserHwid": null,
+    "username": "leo_ganteng57",
+    "userId": "5068668801",
+    "source": "script",
+    "createdAt": "2026-05-18T02:06:43.320Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.163.139.151",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
