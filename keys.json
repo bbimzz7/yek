@@ -18812,5 +18812,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8E0ABF-00A4D2-0DC5D6": {
+    "expires": "2026-05-19T09:52:42.025Z",
+    "hwid": "9828146824-3223E519-7D3F-48A0-93D2-275D0D72B5D8",
+    "browserHwid": null,
+    "username": "BangKal215",
+    "userId": "9828146824",
+    "source": "script",
+    "createdAt": "2026-05-18T09:52:42.622Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.249.220",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
