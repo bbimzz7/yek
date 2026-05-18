@@ -18619,5 +18619,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-64B25C-B4C97E-D24661": {
+    "expires": "2026-05-19T02:12:45.428Z",
+    "hwid": "9401368872-f65ada34-f0aa-46fd-adfb-fcb79b7c87b6",
+    "browserHwid": null,
+    "username": "VanCihuyy7",
+    "userId": "9401368872",
+    "source": "script",
+    "createdAt": "2026-05-18T02:12:45.950Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.20.100.178",
+      "city": "Baekrajan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
