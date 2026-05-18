@@ -18571,5 +18571,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1DAF78-8FFB30-247C5E": {
+    "expires": "2026-05-19T00:06:33.394Z",
+    "hwid": "8363898547-8f53826e-2fc9-49cd-a67e-d08393625df3",
+    "browserHwid": null,
+    "username": "SNEv2022",
+    "userId": "8363898547",
+    "source": "script",
+    "createdAt": "2026-05-18T00:06:33.908Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.6.55.120",
+      "city": "Cajamarca",
+      "region": "Cajamarca Department",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
