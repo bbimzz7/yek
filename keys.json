@@ -18941,8 +18941,15 @@
     "userId": "3888939888",
     "source": "script",
     "createdAt": "2026-05-18T14:56:10.452Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-18T14:56:20.463Z",
     "geo": {
+      "ip": "140.213.148.206",
+      "city": "Batam",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "140.213.148.206",
       "city": "Batam",
       "region": "Riau",
