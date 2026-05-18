@@ -18836,5 +18836,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C54DB4-482509-FCFA5E": {
+    "expires": "2026-05-19T12:42:59.615Z",
+    "hwid": "10954014992-d279e82c-2fb1-4975-add0-d265b7c0eb8e",
+    "browserHwid": null,
+    "username": "yoyo_504559",
+    "userId": "10954014992",
+    "source": "script",
+    "createdAt": "2026-05-18T12:43:00.170Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.125.149.240",
+      "city": "Mapurujaya",
+      "region": "Central Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
