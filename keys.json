@@ -19004,5 +19004,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-82A7F8-49CCE9-70398B": {
+    "expires": "2026-05-19T21:00:54.516Z",
+    "hwid": null,
+    "browserHwid": "BR-7363D056-GXD8G",
+    "username": "Grizzly9699",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-18T21:00:55.100Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.166.16.232",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
