@@ -18694,14 +18694,22 @@
   },
   "VH-13E3D1-A43AB3-29D9CF": {
     "expires": "2026-05-19T05:48:05.492Z",
-    "hwid": null,
+    "hwid": "3084034737-54b0a000-6ab4-4e7b-a4bb-8b2ab11ff076",
     "browserHwid": "BR-46E8285E-U21GK",
-    "username": "Vitohyyu",
-    "userId": null,
+    "username": "vitohyyu",
+    "userId": "3084034737",
     "source": "browser",
     "createdAt": "2026-05-18T05:48:05.991Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-18T05:49:33.699Z",
     "geo": {
+      "ip": "103.189.207.243",
+      "city": "Gunung Sugih",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-05-18T05:49:33.676Z",
+    "lastGeo": {
       "ip": "103.189.207.243",
       "city": "Gunung Sugih",
       "region": "Lampung",
