@@ -18691,5 +18691,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-13E3D1-A43AB3-29D9CF": {
+    "expires": "2026-05-19T05:48:05.492Z",
+    "hwid": null,
+    "browserHwid": "BR-46E8285E-U21GK",
+    "username": "Vitohyyu",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-18T05:48:05.991Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.207.243",
+      "city": "Gunung Sugih",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
