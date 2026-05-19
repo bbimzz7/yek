@@ -19206,8 +19206,15 @@
     "userId": "9678748336",
     "source": "script",
     "createdAt": "2026-05-19T08:01:11.572Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-19T08:02:55.130Z",
     "geo": {
+      "ip": "180.243.39.193",
+      "city": "Ternate",
+      "region": "North Maluku",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.243.39.193",
       "city": "Ternate",
       "region": "North Maluku",
