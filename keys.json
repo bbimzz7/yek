@@ -19077,5 +19077,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A4CC50-90D45E-EF4238": {
+    "expires": "2026-05-20T03:26:58.029Z",
+    "hwid": "10950490387-45cd9229-0169-46a0-9d23-e912e42d2ec7",
+    "browserHwid": null,
+    "username": "graveksz",
+    "userId": "10950490387",
+    "source": "script",
+    "createdAt": "2026-05-19T03:26:58.467Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.165.230.194",
+      "city": "Bella Vista",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
