@@ -19086,8 +19086,15 @@
     "userId": "10950490387",
     "source": "script",
     "createdAt": "2026-05-19T03:26:58.467Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-19T03:28:27.044Z",
     "geo": {
+      "ip": "38.165.230.194",
+      "city": "Bella Vista",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "38.165.230.194",
       "city": "Bella Vista",
       "region": "Buenos Aires",
