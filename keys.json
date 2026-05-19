@@ -19245,5 +19245,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-444FD4-4461F5-A01CCB": {
+    "expires": "2026-05-20T13:04:22.835Z",
+    "hwid": "8213310851-a51d4138-d1e3-4320-8c2e-bb006276404c",
+    "browserHwid": null,
+    "username": "alviiiiii50",
+    "userId": "8213310851",
+    "source": "script",
+    "createdAt": "2026-05-19T13:04:23.486Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.2.4.246",
+      "city": "Kota Batam",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
