@@ -19317,5 +19317,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-76F085-7BC680-7BD5E1": {
+    "expires": "2026-05-20T17:50:49.979Z",
+    "hwid": "10881745391-359fcab4-e234-4f7b-9157-b961b47aa4c7",
+    "browserHwid": null,
+    "username": "lovely_za122",
+    "userId": "10881745391",
+    "source": "script",
+    "createdAt": "2026-05-19T17:50:50.538Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.153.20.145",
+      "city": "Dumai",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
