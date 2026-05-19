@@ -19101,5 +19101,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-08A81F-31FC16-9E4695": {
+    "expires": "2026-05-20T04:24:31.440Z",
+    "hwid": "10656450494-4e201e70-6ad6-4ab1-8e52-167ca6e2a8e5",
+    "browserHwid": null,
+    "username": "ltsypp",
+    "userId": "10656450494",
+    "source": "script",
+    "createdAt": "2026-05-19T04:24:31.985Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.54.187",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
