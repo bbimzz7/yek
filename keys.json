@@ -19149,5 +19149,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E373DE-4347ED-CC22CC": {
+    "expires": "2026-05-20T06:45:06.167Z",
+    "hwid": "10262196375-30fbdeef-b2e1-4dc3-b43d-639940ac7453",
+    "browserHwid": null,
+    "username": "Ronaldo_Main1",
+    "userId": "10262196375",
+    "source": "script",
+    "createdAt": "2026-05-19T06:45:06.700Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.20.253.183",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
