@@ -19269,5 +19269,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-86C9D8-C0C7A2-A91D02": {
+    "expires": "2026-05-20T14:34:28.464Z",
+    "hwid": "10152288927-bbbf44ae-c925-473d-bc66-7d21a4a14935",
+    "browserHwid": null,
+    "username": "ioaniji",
+    "userId": "10152288927",
+    "source": "script",
+    "createdAt": "2026-05-19T14:34:29.080Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.167.48.204",
+      "city": "Lubuklinggau",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
