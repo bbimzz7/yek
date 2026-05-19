@@ -18989,7 +18989,7 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-05-18T17:26:48.471Z",
-    "lastUsed": "2026-05-18T17:27:04.203Z",
+    "lastUsed": "2026-05-19T03:48:15.701Z",
     "geo": {
       "ip": "114.79.4.51",
       "city": "Jakarta",
@@ -18998,9 +18998,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.79.4.51",
-      "city": "Jakarta",
-      "region": "Jakarta",
+      "ip": "114.79.7.38",
+      "city": "Karawang",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
