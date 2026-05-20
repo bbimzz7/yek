@@ -19446,7 +19446,7 @@
     "userId": "8046635220",
     "source": "script",
     "createdAt": "2026-05-20T05:51:31.782Z",
-    "lastUsed": "2026-05-20T05:51:37.983Z",
+    "lastUsed": "2026-05-20T05:59:58.740Z",
     "geo": {
       "ip": "111.94.147.59",
       "city": "Surabaya",
@@ -19455,8 +19455,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "111.94.147.59",
-      "city": "Surabaya",
+      "ip": "111.94.32.1",
+      "city": "Labansari",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
