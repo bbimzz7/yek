@@ -19341,5 +19341,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-059E4E-6999C9-EDBF37": {
+    "expires": "2026-05-21T02:55:59.465Z",
+    "hwid": "10847243458-6E0A49A8-7AB8-47F5-937C-F3075EFBD3D9",
+    "browserHwid": null,
+    "username": "screemraider",
+    "userId": "10847243458",
+    "source": "script",
+    "createdAt": "2026-05-20T02:55:59.966Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "153.124.161.250",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
