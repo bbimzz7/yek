@@ -19581,5 +19581,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5CAC9D-770DB1-48C056": {
+    "expires": "2026-05-21T10:54:31.502Z",
+    "hwid": "9352569372-39b70f50-efff-484d-9d10-6ebe654f0d20",
+    "browserHwid": null,
+    "username": "Alexxxyazzzz",
+    "userId": "9352569372",
+    "source": "script",
+    "createdAt": "2026-05-20T10:54:32.099Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.27.34.36",
+      "city": "Gunungkidul",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
