@@ -19518,8 +19518,15 @@
     "userId": "9528706955",
     "source": "script",
     "createdAt": "2026-05-20T08:53:53.078Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-20T08:54:04.848Z",
     "geo": {
+      "ip": "103.26.176.187",
+      "city": "Utan",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.26.176.187",
       "city": "Utan",
       "region": "Jakarta",
