@@ -19653,5 +19653,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-537FDB-33AF0D-9AA9B6": {
+    "expires": "2026-05-21T13:36:40.408Z",
+    "hwid": "8482778247-16bc3775-f9c5-4c09-88e3-9d947e06e805",
+    "browserHwid": null,
+    "username": "BLUELOCKLOVE9383",
+    "userId": "8482778247",
+    "source": "script",
+    "createdAt": "2026-05-20T13:36:41.059Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.167.176.249",
+      "city": "Amlapura",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
