@@ -19374,8 +19374,15 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-05-20T03:15:20.938Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-20T03:15:28.344Z",
     "geo": {
+      "ip": "114.79.1.37",
+      "city": "Lahat",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.79.1.37",
       "city": "Lahat",
       "region": "South Sumatra",
