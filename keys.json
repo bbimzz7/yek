@@ -19677,5 +19677,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-44CD06-08CFDB-97D2D8": {
+    "expires": "2026-05-21T20:47:05.121Z",
+    "hwid": "10974612150-14b089db-89c8-4a7f-b469-ba4b51d3ea9d",
+    "browserHwid": null,
+    "username": "AciGamespot_559",
+    "userId": "10974612150",
+    "source": "script",
+    "createdAt": "2026-05-20T20:47:05.718Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.62.164.224",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
