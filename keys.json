@@ -19614,8 +19614,15 @@
     "userId": "10954014992",
     "source": "script",
     "createdAt": "2026-05-20T11:56:40.872Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-20T11:56:59.704Z",
     "geo": {
+      "ip": "114.125.135.66",
+      "city": "Namrole",
+      "region": "Maluku",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.125.135.66",
       "city": "Namrole",
       "region": "Maluku",
