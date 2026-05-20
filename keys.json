@@ -19662,8 +19662,15 @@
     "userId": "8482778247",
     "source": "script",
     "createdAt": "2026-05-20T13:36:41.059Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-20T13:36:49.717Z",
     "geo": {
+      "ip": "125.167.176.249",
+      "city": "Amlapura",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.167.176.249",
       "city": "Amlapura",
       "region": "Bali",
