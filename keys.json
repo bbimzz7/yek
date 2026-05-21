@@ -19887,5 +19887,22 @@
       "country": "Taiwan",
       "cc": "TW"
     }
+  },
+  "VH-4D82EF-D25E8A-41DCFC": {
+    "expires": "2026-05-22T11:36:17.508Z",
+    "hwid": "9223086824-d62c6b54-fc02-4bbf-a537-9faf294a3dd7",
+    "browserHwid": null,
+    "username": "suroso1965",
+    "userId": "9223086824",
+    "source": "script",
+    "createdAt": "2026-05-21T11:36:18.105Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.8.217.105",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
