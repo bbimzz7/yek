@@ -19838,5 +19838,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5AC290-165043-5B9E85": {
+    "expires": "2026-05-22T10:20:49.288Z",
+    "hwid": "10966617259-61ea9a7f-1ff1-48d9-b456-bdc4ea11c571",
+    "browserHwid": null,
+    "username": "rynzxvzn",
+    "userId": "10966617259",
+    "source": "script",
+    "createdAt": "2026-05-21T10:20:50.011Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.173.138.151",
+      "city": "Pulaupanggung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
