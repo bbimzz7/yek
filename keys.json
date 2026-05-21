@@ -19865,14 +19865,22 @@
   },
   "VH-FC0FCA-3530FE-6FB51A": {
     "expires": "2026-05-22T11:23:00.177Z",
-    "hwid": null,
+    "hwid": "8300684285-1d51b0ad-7121-4a96-8c24-1faaf268b7ba",
     "browserHwid": "BR-07420BAF-VPQWS",
     "username": "NUzzzCR7",
-    "userId": null,
+    "userId": "8300684285",
     "source": "browser",
     "createdAt": "2026-05-21T11:23:00.798Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-21T11:24:04.098Z",
     "geo": {
+      "ip": "103.123.142.37",
+      "city": "Neihu District",
+      "region": "Taiwan",
+      "country": "Taiwan",
+      "cc": "TW"
+    },
+    "boundAt": "2026-05-21T11:24:04.090Z",
+    "lastGeo": {
       "ip": "103.123.142.37",
       "city": "Neihu District",
       "region": "Taiwan",
