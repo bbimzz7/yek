@@ -20007,5 +20007,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-45EB75-678CC7-D22EA4": {
+    "expires": "2026-05-22T18:21:57.435Z",
+    "hwid": "7482944993-a6e44538-04eb-4ea7-ba76-e18d411a4bba",
+    "browserHwid": null,
+    "username": "Chndra_1992",
+    "userId": "7482944993",
+    "source": "script",
+    "createdAt": "2026-05-21T18:21:57.900Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.83.40.13",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
