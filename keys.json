@@ -19862,5 +19862,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FC0FCA-3530FE-6FB51A": {
+    "expires": "2026-05-22T11:23:00.177Z",
+    "hwid": null,
+    "browserHwid": "BR-07420BAF-VPQWS",
+    "username": "NUzzzCR7",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-21T11:23:00.798Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.123.142.37",
+      "city": "Neihu District",
+      "region": "Taiwan",
+      "country": "Taiwan",
+      "cc": "TW"
+    }
   }
 }
