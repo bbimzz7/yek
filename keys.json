@@ -20031,5 +20031,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2E6D08-E627D7-C40758": {
+    "expires": "2026-05-22T20:53:40.285Z",
+    "hwid": "10897488786-f119d812-b5bb-45fe-8fdd-28dea8d6940d",
+    "browserHwid": null,
+    "username": "jammb1239",
+    "userId": "10897488786",
+    "source": "script",
+    "createdAt": "2026-05-21T20:53:40.899Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.221.34",
+      "city": "Pemenang",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
