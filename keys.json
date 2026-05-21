@@ -19896,13 +19896,20 @@
     "userId": "9223086824",
     "source": "script",
     "createdAt": "2026-05-21T11:36:18.105Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-21T11:36:47.176Z",
     "geo": {
       "ip": "114.8.217.105",
       "city": "Surabaya",
       "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "103.241.230.170",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
     }
   }
 }
