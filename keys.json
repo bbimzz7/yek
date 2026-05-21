@@ -19751,8 +19751,15 @@
     "userId": "3201014598",
     "source": "script",
     "createdAt": "2026-05-21T04:51:57.610Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-21T04:52:06.600Z",
     "geo": {
+      "ip": "103.38.110.3",
+      "city": "Kedaton",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.38.110.3",
       "city": "Kedaton",
       "region": "Lampung",
