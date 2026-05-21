@@ -19718,5 +19718,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B89849-23BD2A-33FB5B": {
+    "expires": "2026-05-22T03:10:43.788Z",
+    "hwid": "10836443080-073cb541-5719-4839-86b7-0ab49128a01e",
+    "browserHwid": null,
+    "username": "rellz_129",
+    "userId": "10836443080",
+    "source": "script",
+    "createdAt": "2026-05-21T03:10:44.341Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.6.41",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
