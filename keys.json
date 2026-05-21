@@ -19992,10 +19992,17 @@
     "userId": "7249844499",
     "source": "script",
     "createdAt": "2026-05-21T17:41:33.217Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-21T17:41:45.233Z",
     "geo": {
       "ip": "140.213.35.113",
       "city": "North Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "112.215.238.92",
+      "city": "Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
