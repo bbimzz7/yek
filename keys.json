@@ -20144,5 +20144,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-644CEF-07EB58-30695A": {
+    "expires": "2026-05-23T07:09:07.702Z",
+    "hwid": "8318531300-5e46b40c-2fe1-4bb0-9558-93ddf5802794",
+    "browserHwid": null,
+    "username": "azhar_ga5",
+    "userId": "8318531300",
+    "source": "script",
+    "createdAt": "2026-05-22T07:09:08.318Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.161.0.56",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
