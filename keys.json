@@ -20384,5 +20384,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E58367-15E4E1-7FAB3C": {
+    "expires": "2026-05-23T18:05:40.676Z",
+    "hwid": "8316847316-0b3416ec-fea9-4185-aa86-7c72e40c39bd",
+    "browserHwid": null,
+    "username": "Firnn6",
+    "userId": "8316847316",
+    "source": "script",
+    "createdAt": "2026-05-22T18:05:41.328Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "163.223.172.27",
+      "city": "Jorong",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
