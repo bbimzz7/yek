@@ -20432,5 +20432,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-5E52D7-A18305-ED38D4": {
+    "expires": "2026-05-23T21:09:55.919Z",
+    "hwid": "8883451675-bae1f516-175f-4c02-9354-4d274a123682",
+    "browserHwid": null,
+    "username": "satriaaxvs",
+    "userId": "8883451675",
+    "source": "script",
+    "createdAt": "2026-05-22T21:09:56.545Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.144.110",
+      "city": "Kotabaru",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
