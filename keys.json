@@ -20441,8 +20441,15 @@
     "userId": "8883451675",
     "source": "script",
     "createdAt": "2026-05-22T21:09:56.545Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-22T21:10:06.913Z",
     "geo": {
+      "ip": "140.213.144.110",
+      "city": "Kotabaru",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "140.213.144.110",
       "city": "Kotabaru",
       "region": "West Sumatra",
