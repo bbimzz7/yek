@@ -20393,8 +20393,15 @@
     "userId": "8316847316",
     "source": "script",
     "createdAt": "2026-05-22T18:05:41.328Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-22T18:05:54.825Z",
     "geo": {
+      "ip": "163.223.172.27",
+      "city": "Jorong",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "163.223.172.27",
       "city": "Jorong",
       "region": "South Kalimantan",
