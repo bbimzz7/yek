@@ -20088,8 +20088,15 @@
     "userId": "9781930000",
     "source": "script",
     "createdAt": "2026-05-22T00:19:56.395Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-22T00:21:57.418Z",
     "geo": {
+      "ip": "125.163.56.253",
+      "city": "Mataram",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.163.56.253",
       "city": "Mataram",
       "region": "West Nusa Tenggara",
