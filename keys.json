@@ -20168,5 +20168,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FF88E2-E162C0-64295E": {
+    "expires": "2026-05-23T09:06:45.887Z",
+    "hwid": "8859097519-cdafaf7c-a211-4740-9a82-8f49707cb756",
+    "browserHwid": null,
+    "username": "Seraphic1616",
+    "userId": "8859097519",
+    "source": "script",
+    "createdAt": "2026-05-22T09:06:46.452Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.0.121",
+      "city": "Ciputat",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
