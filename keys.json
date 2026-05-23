@@ -20658,5 +20658,22 @@
       "country": "Norway",
       "cc": "NO"
     }
+  },
+  "VH-C19B73-8AEDD2-326451": {
+    "expires": "2026-05-24T09:05:12.467Z",
+    "hwid": "10162502885-96bb1742-beb5-4e45-92e1-87173529826e",
+    "browserHwid": null,
+    "username": "fafafas305",
+    "userId": "10162502885",
+    "source": "script",
+    "createdAt": "2026-05-23T09:05:13.100Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.0.239",
+      "city": "Kalirejo",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
