@@ -20763,8 +20763,15 @@
     "userId": "10204370023",
     "source": "script",
     "createdAt": "2026-05-23T15:23:24.554Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-23T15:24:11.376Z",
     "geo": {
+      "ip": "103.3.221.163",
+      "city": "Indramayu",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.3.221.163",
       "city": "Indramayu",
       "region": "West Java",
