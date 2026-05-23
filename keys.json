@@ -20715,13 +20715,20 @@
     "userId": "10774347519",
     "source": "script",
     "createdAt": "2026-05-23T09:56:54.409Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-23T09:57:06.732Z",
     "geo": {
       "ip": "114.10.146.142",
       "city": "Bandung",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "155.117.61.70",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
     }
   }
 }
