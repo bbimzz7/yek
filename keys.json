@@ -20634,5 +20634,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-9BAA73-072BB2-2E403A": {
+    "expires": "2026-05-24T08:30:45.641Z",
+    "hwid": "5442360729-b382bdc5-564e-4dd8-8332-1c639ec4e151",
+    "browserHwid": null,
+    "username": "Zpoxzzz",
+    "userId": "5442360729",
+    "source": "script",
+    "createdAt": "2026-05-23T08:30:46.006Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "205.147.17.12",
+      "city": "Oslo",
+      "region": "Oslo County",
+      "country": "Norway",
+      "cc": "NO"
+    }
   }
 }
