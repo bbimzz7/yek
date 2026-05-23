@@ -20177,7 +20177,7 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-05-22T09:06:46.452Z",
-    "lastUsed": "2026-05-22T13:10:35.390Z",
+    "lastUsed": "2026-05-23T02:51:06.800Z",
     "geo": {
       "ip": "114.79.0.121",
       "city": "Ciputat",
@@ -20186,9 +20186,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.79.6.149",
-      "city": "Terbanggi Besar",
-      "region": "Lampung",
+      "ip": "114.79.6.129",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
