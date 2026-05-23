@@ -20691,8 +20691,15 @@
     "userId": "10987759365",
     "source": "script",
     "createdAt": "2026-05-23T09:52:10.026Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-23T09:53:21.542Z",
     "geo": {
+      "ip": "103.182.52.114",
+      "city": "Lumajang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.182.52.114",
       "city": "Lumajang",
       "region": "East Java",
