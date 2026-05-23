@@ -20682,5 +20682,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6F5B2D-A371C8-273927": {
+    "expires": "2026-05-24T09:52:09.499Z",
+    "hwid": "10987759365-1289ecaa-b071-4e1a-ab39-6f37587e1dee",
+    "browserHwid": null,
+    "username": "ABIL355789",
+    "userId": "10987759365",
+    "source": "script",
+    "createdAt": "2026-05-23T09:52:10.026Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.182.52.114",
+      "city": "Lumajang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
