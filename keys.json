@@ -20617,5 +20617,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FF6E0B-E83C05-185267": {
+    "expires": "2026-05-24T08:29:53.299Z",
+    "hwid": "8089457895-6fb2ccea-f82d-4ec2-8f93-9ea7b63c01c6",
+    "browserHwid": null,
+    "username": "Princess_422354",
+    "userId": "8089457895",
+    "source": "script",
+    "createdAt": "2026-05-23T08:29:53.831Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "61.9.8.208",
+      "city": "Tiwi",
+      "region": "Bicol Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
