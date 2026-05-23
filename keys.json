@@ -20730,5 +20730,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-B83479-7E723E-6CF506": {
+    "expires": "2026-05-24T12:42:48.604Z",
+    "hwid": "10991646760-6cda1d63-2047-4988-9c98-7c12a37c1c33",
+    "browserHwid": null,
+    "username": "nana_DJ67",
+    "userId": "10991646760",
+    "source": "script",
+    "createdAt": "2026-05-23T12:42:49.151Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.17.85.48",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
