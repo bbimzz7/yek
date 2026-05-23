@@ -20643,8 +20643,15 @@
     "userId": "5442360729",
     "source": "script",
     "createdAt": "2026-05-23T08:30:46.006Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-23T08:30:59.054Z",
     "geo": {
+      "ip": "205.147.17.12",
+      "city": "Oslo",
+      "region": "Oslo County",
+      "country": "Norway",
+      "cc": "NO"
+    },
+    "lastGeo": {
       "ip": "205.147.17.12",
       "city": "Oslo",
       "region": "Oslo County",
