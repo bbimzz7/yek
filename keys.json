@@ -20667,8 +20667,15 @@
     "userId": "10162502885",
     "source": "script",
     "createdAt": "2026-05-23T09:05:13.100Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-23T09:05:26.881Z",
     "geo": {
+      "ip": "114.79.0.239",
+      "city": "Kalirejo",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.79.0.239",
       "city": "Kalirejo",
       "region": "Lampung",
