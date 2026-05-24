@@ -21396,5 +21396,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A0719E-E7B7AD-FD80EB": {
+    "expires": "2026-05-25T23:53:01.829Z",
+    "hwid": "4718606200-29ba419a-c987-451d-b5fb-c00800eea79a",
+    "browserHwid": null,
+    "username": "alwayskeno",
+    "userId": "4718606200",
+    "source": "script",
+    "createdAt": "2026-05-24T23:53:02.313Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.70.158.133",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
