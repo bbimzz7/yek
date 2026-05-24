@@ -21021,14 +21021,22 @@
   },
   "VH-81964A-534DAA-ED67DA": {
     "expires": "2026-05-25T03:46:07.039Z",
-    "hwid": null,
+    "hwid": "8152667830-499ac40d-af1e-4cd6-b984-969d982f919d",
     "browserHwid": "BR-19A38852-F034D",
-    "username": "Saleha201262",
-    "userId": null,
+    "username": "saleha201262",
+    "userId": "8152667830",
     "source": "browser",
     "createdAt": "2026-05-24T03:46:07.590Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-24T03:48:00.995Z",
     "geo": {
+      "ip": "113.210.105.12",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "boundAt": "2026-05-24T03:48:00.973Z",
+    "lastGeo": {
       "ip": "113.210.105.12",
       "city": "Kota Kinabalu",
       "region": "Sabah",
