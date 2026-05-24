@@ -20946,5 +20946,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-00EEF2-BC2411-AA8520": {
+    "expires": "2026-05-25T02:33:19.805Z",
+    "hwid": "10959952512-a7c0570d-fc80-45ff-9582-69c9b0ab103a",
+    "browserHwid": null,
+    "username": "jr_agusff",
+    "userId": "10959952512",
+    "source": "script",
+    "createdAt": "2026-05-24T02:33:20.303Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.156.75.244",
+      "city": "Gianyar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
