@@ -21235,5 +21235,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-049799-FAEB0D-3C7EAC": {
+    "expires": "2026-05-25T13:57:28.735Z",
+    "hwid": "2602133134-DDAD8079-E75C-4583-93C3-CE0D1673AC1E",
+    "browserHwid": null,
+    "username": "JoshNyec",
+    "userId": "2602133134",
+    "source": "script",
+    "createdAt": "2026-05-24T13:57:29.236Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "173.54.175.239",
+      "city": "Lyndhurst",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
