@@ -21163,5 +21163,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6D7276-79B495-EDF01F": {
+    "expires": "2026-05-25T11:14:09.961Z",
+    "hwid": "10151671346-39a7e31c-9035-4bba-8ba2-d68ee9f046a0",
+    "browserHwid": null,
+    "username": "Zeynzs217",
+    "userId": "10151671346",
+    "source": "script",
+    "createdAt": "2026-05-24T11:14:10.551Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.162.247.182",
+      "city": "Merauke",
+      "region": "South Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
