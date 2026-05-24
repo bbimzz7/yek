@@ -20883,8 +20883,15 @@
     "userId": "10891162768",
     "source": "script",
     "createdAt": "2026-05-24T02:02:52.439Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-24T02:03:03.457Z",
     "geo": {
+      "ip": "103.55.22.5",
+      "city": "Kisaran",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.55.22.5",
       "city": "Kisaran",
       "region": "North Sumatra",
