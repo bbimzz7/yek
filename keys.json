@@ -21172,8 +21172,15 @@
     "userId": "10151671346",
     "source": "script",
     "createdAt": "2026-05-24T11:14:10.551Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-24T11:14:35.862Z",
     "geo": {
+      "ip": "125.162.247.182",
+      "city": "Merauke",
+      "region": "South Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.162.247.182",
       "city": "Merauke",
       "region": "South Papua",
