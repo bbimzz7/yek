@@ -21244,8 +21244,15 @@
     "userId": "2602133134",
     "source": "script",
     "createdAt": "2026-05-24T13:57:29.236Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-24T13:57:33.987Z",
     "geo": {
+      "ip": "173.54.175.239",
+      "city": "Lyndhurst",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "173.54.175.239",
       "city": "Lyndhurst",
       "region": "New Jersey",
