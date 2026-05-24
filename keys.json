@@ -21355,5 +21355,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3FE1F6-2AC4D3-477F60": {
+    "expires": "2026-05-25T20:23:55.332Z",
+    "hwid": null,
+    "browserHwid": "BR-07420BAF-G6F2Q",
+    "username": "Febriola_11",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-24T20:23:55.693Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "89.21.87.82",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
