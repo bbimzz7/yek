@@ -20907,8 +20907,15 @@
     "userId": "9758909859",
     "source": "script",
     "createdAt": "2026-05-24T02:03:51.213Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-24T02:03:58.055Z",
     "geo": {
+      "ip": "36.70.58.90",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.70.58.90",
       "city": "Palembang",
       "region": "South Sumatra",
