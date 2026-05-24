@@ -21115,5 +21115,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1EC615-457224-F9713B": {
+    "expires": "2026-05-25T07:00:55.056Z",
+    "hwid": "9013913990-a845ea24-d09c-4b41-b23c-81cc7fc82b6e",
+    "browserHwid": null,
+    "username": "Siola_24",
+    "userId": "9013913990",
+    "source": "script",
+    "createdAt": "2026-05-24T07:00:55.562Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "89.21.87.82",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
