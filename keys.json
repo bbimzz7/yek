@@ -21018,5 +21018,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-81964A-534DAA-ED67DA": {
+    "expires": "2026-05-25T03:46:07.039Z",
+    "hwid": null,
+    "browserHwid": "BR-19A38852-F034D",
+    "username": "Saleha201262",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-24T03:46:07.590Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.210.105.12",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
