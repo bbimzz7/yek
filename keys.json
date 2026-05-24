@@ -21372,5 +21372,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-0F4236-15381D-C672C6": {
+    "expires": "2026-05-25T23:26:38.958Z",
+    "hwid": "10973141134-fd50797e-df54-4d98-95fc-6e6b3b405e1b",
+    "browserHwid": null,
+    "username": "versfalz9",
+    "userId": "10973141134",
+    "source": "script",
+    "createdAt": "2026-05-24T23:26:39.507Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.222.199",
+      "city": "Takalar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
