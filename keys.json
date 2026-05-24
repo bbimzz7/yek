@@ -21052,11 +21052,18 @@
     "userId": "8775696330",
     "source": "script",
     "createdAt": "2026-05-24T05:07:57.102Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-24T05:08:08.368Z",
     "geo": {
       "ip": "36.71.65.18",
       "city": "Tangerang",
       "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "101.255.209.102",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
