@@ -21043,5 +21043,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-F80388-1B9B01-96554C": {
+    "expires": "2026-05-25T05:07:56.567Z",
+    "hwid": "8775696330-f2f42e6b-7f4b-4107-beee-3ebc4773812d",
+    "browserHwid": null,
+    "username": "Tatsuyaaa31",
+    "userId": "8775696330",
+    "source": "script",
+    "createdAt": "2026-05-24T05:07:57.102Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.71.65.18",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
