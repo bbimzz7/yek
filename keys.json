@@ -20835,7 +20835,7 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-05-23T18:59:57.482Z",
-    "lastUsed": "2026-05-24T08:47:23.578Z",
+    "lastUsed": "2026-05-24T16:37:50.735Z",
     "geo": {
       "ip": "114.79.3.11",
       "city": "Cikarang",
@@ -20844,9 +20844,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.79.1.215",
-      "city": "South Tangerang",
-      "region": "Banten",
+      "ip": "114.79.6.104",
+      "city": "Jambi City",
+      "region": "Jambi",
       "country": "Indonesia",
       "cc": "ID"
     }
