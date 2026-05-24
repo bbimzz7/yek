@@ -21340,8 +21340,15 @@
     "userId": "8887299338",
     "source": "script",
     "createdAt": "2026-05-24T20:20:03.096Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-24T20:21:11.233Z",
     "geo": {
+      "ip": "157.66.170.21",
+      "city": "Cileungsir",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.66.170.21",
       "city": "Cileungsir",
       "region": "West Java",
