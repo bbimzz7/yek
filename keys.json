@@ -20955,8 +20955,15 @@
     "userId": "10959952512",
     "source": "script",
     "createdAt": "2026-05-24T02:33:20.303Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-24T02:33:30.719Z",
     "geo": {
+      "ip": "103.156.75.244",
+      "city": "Gianyar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.156.75.244",
       "city": "Gianyar",
       "region": "Bali",
