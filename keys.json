@@ -21381,8 +21381,15 @@
     "userId": "10973141134",
     "source": "script",
     "createdAt": "2026-05-24T23:26:39.507Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-24T23:28:12.990Z",
     "geo": {
+      "ip": "103.175.222.199",
+      "city": "Takalar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.175.222.199",
       "city": "Takalar",
       "region": "South Sulawesi",
