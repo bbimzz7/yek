@@ -21429,7 +21429,7 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-05-25T02:43:56.419Z",
-    "lastUsed": "2026-05-25T12:21:26.022Z",
+    "lastUsed": "2026-05-25T14:43:37.050Z",
     "geo": {
       "ip": "114.79.4.212",
       "city": "Pamulang",
@@ -21438,9 +21438,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.79.6.104",
-      "city": "Jambi City",
-      "region": "Jambi",
+      "ip": "182.4.71.169",
+      "city": "Padang",
+      "region": "West Sumatra",
       "country": "Indonesia",
       "cc": "ID"
     }
