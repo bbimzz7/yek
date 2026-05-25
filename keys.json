@@ -21821,5 +21821,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-CD78FC-0B0497-D4D608": {
+    "expires": "2026-05-26T22:11:33.982Z",
+    "hwid": "9168877858-9eba831a-476a-4e48-87f6-32285a760bd3",
+    "browserHwid": null,
+    "username": "LanhPSHT",
+    "userId": "9168877858",
+    "source": "script",
+    "createdAt": "2026-05-25T22:11:34.614Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.70.253.8",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
