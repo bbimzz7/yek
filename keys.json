@@ -21684,5 +21684,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-7EA3BB-E63B1E-B3798F": {
+    "expires": "2026-05-26T12:40:55.632Z",
+    "hwid": "10251481883-ef3d8afc-1e4b-40b9-925f-e4cb7fb37872",
+    "browserHwid": null,
+    "username": "irsya_1554",
+    "userId": "10251481883",
+    "source": "script",
+    "createdAt": "2026-05-25T12:40:56.217Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.140.189.49",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
