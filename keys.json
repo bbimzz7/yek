@@ -21516,5 +21516,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4FB3D6-E521F2-838C6A": {
+    "expires": "2026-05-26T06:22:05.074Z",
+    "hwid": "11002769291-95cc9a58-c6ed-4ad5-a0be-d41977fed642",
+    "browserHwid": null,
+    "username": "Beacon_7178",
+    "userId": "11002769291",
+    "source": "script",
+    "createdAt": "2026-05-25T06:22:05.661Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.179.70.68",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
