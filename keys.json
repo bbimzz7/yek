@@ -21420,5 +21420,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6CD492-524BC7-277597": {
+    "expires": "2026-05-26T02:43:55.913Z",
+    "hwid": "8859097519-cdafaf7c-a211-4740-9a82-8f49707cb756",
+    "browserHwid": null,
+    "username": "Seraphic1616",
+    "userId": "8859097519",
+    "source": "script",
+    "createdAt": "2026-05-25T02:43:56.419Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.4.212",
+      "city": "Pamulang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
