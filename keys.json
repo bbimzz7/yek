@@ -21645,8 +21645,15 @@
     "userId": "8290900229",
     "source": "script",
     "createdAt": "2026-05-25T10:15:58.857Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-25T10:16:06.018Z",
     "geo": {
+      "ip": "80.54.46.147",
+      "city": "Lubartów",
+      "region": "Lublin",
+      "country": "Poland",
+      "cc": "PL"
+    },
+    "lastGeo": {
       "ip": "80.54.46.147",
       "city": "Lubartów",
       "region": "Lublin",
