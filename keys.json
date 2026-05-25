@@ -21636,5 +21636,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DD3239-57AE43-97C0E0": {
+    "expires": "2026-05-26T10:15:58.347Z",
+    "hwid": "8290900229-1DC3BF64-EA50-49D9-96E4-6F18F12CF0A5",
+    "browserHwid": null,
+    "username": "magus_healer",
+    "userId": "8290900229",
+    "source": "script",
+    "createdAt": "2026-05-25T10:15:58.857Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "80.54.46.147",
+      "city": "Lubartów",
+      "region": "Lublin",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
