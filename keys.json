@@ -21773,5 +21773,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-E8283F-39127E-4A7C2D": {
+    "expires": "2026-05-26T18:44:57.074Z",
+    "hwid": "10947577040-650306b5-a0bb-4cf1-aec2-bba0c2d628a1",
+    "browserHwid": null,
+    "username": "79ze1",
+    "userId": "10947577040",
+    "source": "script",
+    "createdAt": "2026-05-25T18:44:57.591Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.104.135",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
