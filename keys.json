@@ -21540,5 +21540,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-2A56B3-437C4E-265F69": {
+    "expires": "2026-05-26T06:42:57.277Z",
+    "hwid": "10714884825-85913997-1b43-4cf1-85cf-ffaf1b1f2e48",
+    "browserHwid": null,
+    "username": "Seohyunlong",
+    "userId": "10714884825",
+    "source": "script",
+    "createdAt": "2026-05-25T06:42:57.797Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.158.95",
+      "city": "Takalar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
