@@ -21468,5 +21468,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-369D47-DEA399-CE89E0": {
+    "expires": "2026-05-26T03:51:43.668Z",
+    "hwid": "4217227499-578C805A-7501-4968-A8AA-F27CFAEFC259",
+    "browserHwid": null,
+    "username": "XyraaGM",
+    "userId": "4217227499",
+    "source": "script",
+    "createdAt": "2026-05-25T03:51:44.200Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.77.238.20",
+      "city": "Kalideres",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
