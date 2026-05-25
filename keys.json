@@ -21477,8 +21477,15 @@
     "userId": "4217227499",
     "source": "script",
     "createdAt": "2026-05-25T03:51:44.200Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-25T03:51:51.507Z",
     "geo": {
+      "ip": "36.77.238.20",
+      "city": "Kalideres",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.77.238.20",
       "city": "Kalideres",
       "region": "Jakarta",
