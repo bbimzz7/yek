@@ -21693,8 +21693,15 @@
     "userId": "10251481883",
     "source": "script",
     "createdAt": "2026-05-25T12:40:56.217Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-25T12:43:09.349Z",
     "geo": {
+      "ip": "103.140.189.49",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.140.189.49",
       "city": "Bandar Lampung",
       "region": "Lampung",
