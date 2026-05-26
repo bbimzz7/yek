@@ -22133,5 +22133,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0E0D1B-8918CB-E038CC": {
+    "expires": "2026-05-27T22:57:44.262Z",
+    "hwid": "8987923156-82c7d595-b0b5-4477-a94a-fc808ee9c674",
+    "browserHwid": null,
+    "username": "Hazelnutz46",
+    "userId": "8987923156",
+    "source": "script",
+    "createdAt": "2026-05-26T22:57:44.822Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.251.181.2",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
