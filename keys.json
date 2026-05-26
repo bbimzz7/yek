@@ -21965,5 +21965,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BE161A-882F9D-80EA52": {
+    "expires": "2026-05-27T07:50:58.039Z",
+    "hwid": "4174309178-e61d1198-3a66-414e-8242-35503bfe2299",
+    "browserHwid": null,
+    "username": "djmdeath1",
+    "userId": "4174309178",
+    "source": "script",
+    "createdAt": "2026-05-26T07:50:58.607Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.43.38",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
