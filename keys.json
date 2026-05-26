@@ -21845,5 +21845,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BE8DF4-DD1455-426DDE": {
+    "expires": "2026-05-27T01:08:39.098Z",
+    "hwid": "9895257277-24e41deb-d2b9-4634-991e-32e429492d81",
+    "browserHwid": null,
+    "username": "FARE_LIA7",
+    "userId": "9895257277",
+    "source": "script",
+    "createdAt": "2026-05-26T01:08:39.704Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.27.193.35",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
