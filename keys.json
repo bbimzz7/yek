@@ -21893,5 +21893,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B8AC13-C6E3BE-964DF3": {
+    "expires": "2026-05-27T02:33:17.896Z",
+    "hwid": "4284812212-a6f06e2e-d92f-4124-ae2d-b3c8ee87dc95",
+    "browserHwid": null,
+    "username": "FroshFire24",
+    "userId": "4284812212",
+    "source": "script",
+    "createdAt": "2026-05-26T02:33:18.517Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.211.128.166",
+      "city": "Petaling Jaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
