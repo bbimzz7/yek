@@ -22094,8 +22094,15 @@
     "userId": "8560752713",
     "source": "script",
     "createdAt": "2026-05-26T19:35:39.165Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-26T19:36:20.000Z",
     "geo": {
+      "ip": "103.175.222.205",
+      "city": "Sungguminasa",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.175.222.205",
       "city": "Sungguminasa",
       "region": "South Sulawesi",
