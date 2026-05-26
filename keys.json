@@ -22013,5 +22013,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9A76EF-1675F1-40A92A": {
+    "expires": "2026-05-27T10:57:58.610Z",
+    "hwid": "5487473502-32afe75e-dd07-4618-abb3-4ff0c37b55d6",
+    "browserHwid": null,
+    "username": "0qb5wb",
+    "userId": "5487473502",
+    "source": "script",
+    "createdAt": "2026-05-26T10:57:59.218Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "60.50.190.104",
+      "city": "Ipoh",
+      "region": "Perak",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
