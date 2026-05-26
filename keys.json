@@ -21878,8 +21878,15 @@
     "userId": "8160171726",
     "source": "script",
     "createdAt": "2026-05-26T01:36:02.875Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-26T01:36:09.517Z",
     "geo": {
+      "ip": "103.89.78.247",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.89.78.247",
       "city": "Denpasar",
       "region": "Bali",
