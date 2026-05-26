@@ -21974,8 +21974,15 @@
     "userId": "4174309178",
     "source": "script",
     "createdAt": "2026-05-26T07:50:58.607Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-26T07:51:08.330Z",
     "geo": {
+      "ip": "114.10.43.38",
+      "city": "Ancol",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.43.38",
       "city": "Ancol",
       "region": "Jakarta",
