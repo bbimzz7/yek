@@ -22085,5 +22085,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9488CB-0B5940-955AAB": {
+    "expires": "2026-05-27T19:35:38.588Z",
+    "hwid": "8560752713-de9ac5d8-e8b5-48a3-805e-e48251a65661",
+    "browserHwid": null,
+    "username": "GeeZraa",
+    "userId": "8560752713",
+    "source": "script",
+    "createdAt": "2026-05-26T19:35:39.165Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.222.205",
+      "city": "Sungguminasa",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
