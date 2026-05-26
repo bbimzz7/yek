@@ -22022,8 +22022,15 @@
     "userId": "5487473502",
     "source": "script",
     "createdAt": "2026-05-26T10:57:59.218Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-26T10:58:05.797Z",
     "geo": {
+      "ip": "60.50.190.104",
+      "city": "Ipoh",
+      "region": "Perak",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "60.50.190.104",
       "city": "Ipoh",
       "region": "Perak",
