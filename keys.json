@@ -22190,9 +22190,16 @@
     "userId": "2557738268",
     "source": "script",
     "createdAt": "2026-05-27T01:45:50.753Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-27T01:46:47.698Z",
     "geo": {
       "ip": "114.79.39.21",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "114.79.39.153",
       "city": "Makassar",
       "region": "South Sulawesi",
       "country": "Indonesia",
