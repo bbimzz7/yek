@@ -22421,5 +22421,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-5BE6BD-E57A3B-96FC6B": {
+    "expires": "2026-05-28T11:26:43.791Z",
+    "hwid": "5287452062-a5f0bea4-f313-4f44-b777-33950c5d1558",
+    "browserHwid": null,
+    "username": "Not_Vinnyfr",
+    "userId": "5287452062",
+    "source": "script",
+    "createdAt": "2026-05-27T11:26:44.597Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.166.126.225",
+      "city": "Banyuwangi",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
