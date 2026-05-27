@@ -22517,5 +22517,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8C1B2B-ABED11-A842D5": {
+    "expires": "2026-05-28T14:39:52.630Z",
+    "hwid": "10954234084-afad0dc8-11e9-426a-abca-5ddd66e684f7",
+    "browserHwid": null,
+    "username": "hanifbotmainliga",
+    "userId": "10954234084",
+    "source": "script",
+    "createdAt": "2026-05-27T14:39:53.363Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.242.69.128",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
