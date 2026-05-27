@@ -22550,8 +22550,15 @@
     "userId": "2419865118",
     "source": "script",
     "createdAt": "2026-05-27T19:50:36.142Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-27T19:51:13.999Z",
     "geo": {
+      "ip": "180.243.14.226",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.243.14.226",
       "city": "West Jakarta",
       "region": "Jakarta",
