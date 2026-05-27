@@ -22301,5 +22301,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BBF4F2-0584F5-5E86D8": {
+    "expires": "2026-05-28T04:51:49.820Z",
+    "hwid": "7491178481-7e7b1bb3-6997-4e0d-b751-df76c9cfe179",
+    "browserHwid": null,
+    "username": "Wxr_brus",
+    "userId": "7491178481",
+    "source": "script",
+    "createdAt": "2026-05-27T04:51:50.375Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.68.201",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
