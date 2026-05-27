@@ -22454,8 +22454,15 @@
     "userId": "10991449498",
     "source": "script",
     "createdAt": "2026-05-27T11:55:35.811Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-27T11:56:26.100Z",
     "geo": {
+      "ip": "157.66.129.2",
+      "city": "Sumbergebang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.66.129.2",
       "city": "Sumbergebang",
       "region": "East Java",
