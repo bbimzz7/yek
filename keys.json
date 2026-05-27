@@ -22430,8 +22430,15 @@
     "userId": "5287452062",
     "source": "script",
     "createdAt": "2026-05-27T11:26:44.597Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-27T11:27:03.282Z",
     "geo": {
+      "ip": "125.166.126.225",
+      "city": "Banyuwangi",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.166.126.225",
       "city": "Banyuwangi",
       "region": "East Java",
