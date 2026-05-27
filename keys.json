@@ -22445,5 +22445,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7D8A41-97D19C-E3CC2E": {
+    "expires": "2026-05-28T11:55:35.098Z",
+    "hwid": "10991449498-a510b8e2-66f1-4c64-aa59-81072ffea526",
+    "browserHwid": null,
+    "username": "Rakamain16",
+    "userId": "10991449498",
+    "source": "script",
+    "createdAt": "2026-05-27T11:55:35.811Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.66.129.2",
+      "city": "Sumbergebang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
