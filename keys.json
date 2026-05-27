@@ -22478,8 +22478,15 @@
     "userId": "6083163506",
     "source": "script",
     "createdAt": "2026-05-27T13:00:23.881Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-27T13:03:00.505Z",
     "geo": {
+      "ip": "114.10.134.156",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.134.156",
       "city": "Makassar",
       "region": "South Sulawesi",
