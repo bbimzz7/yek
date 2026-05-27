@@ -22358,8 +22358,15 @@
     "userId": "2211998344",
     "source": "script",
     "createdAt": "2026-05-27T07:19:43.190Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-27T07:19:50.573Z",
     "geo": {
+      "ip": "182.9.34.237",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.9.34.237",
       "city": "Medan",
       "region": "North Sumatra",
