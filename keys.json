@@ -22181,5 +22181,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-B25807-CDD52E-CB6F6B": {
+    "expires": "2026-05-28T01:45:50.211Z",
+    "hwid": "2557738268-39817b6a-d48a-4485-a143-0d18f963156c",
+    "browserHwid": null,
+    "username": "ElmoButBritish",
+    "userId": "2557738268",
+    "source": "script",
+    "createdAt": "2026-05-27T01:45:50.753Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.39.21",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
