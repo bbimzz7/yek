@@ -22277,5 +22277,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EC1545-D6E5E3-5058F1": {
+    "expires": "2026-05-28T04:45:31.261Z",
+    "hwid": "8859097519-cdafaf7c-a211-4740-9a82-8f49707cb756",
+    "browserHwid": null,
+    "username": "Seraphic1616",
+    "userId": "8859097519",
+    "source": "script",
+    "createdAt": "2026-05-27T04:45:31.765Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.71.189",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
