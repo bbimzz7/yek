@@ -22781,5 +22781,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D02E1A-4F1D00-330EBD": {
+    "expires": "2026-05-29T11:37:52.935Z",
+    "hwid": "10849534683-968f30db-a26b-4193-8348-6e3134a00297",
+    "browserHwid": null,
+    "username": "Jevanro4",
+    "userId": "10849534683",
+    "source": "script",
+    "createdAt": "2026-05-28T11:37:53.520Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.2.26",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
