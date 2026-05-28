@@ -22589,5 +22589,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F38A4D-6BACD3-DD0AC5": {
+    "expires": "2026-05-29T00:00:27.275Z",
+    "hwid": "8609814974-e2430d6f-d32c-4e26-8681-5e16a01c80aa",
+    "browserHwid": null,
+    "username": "raqin_727877",
+    "userId": "8609814974",
+    "source": "script",
+    "createdAt": "2026-05-28T00:00:27.870Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.94.23.11",
+      "city": "Cianjur",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
