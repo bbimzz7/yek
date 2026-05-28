@@ -22757,5 +22757,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EF1285-90DE86-744B19": {
+    "expires": "2026-05-29T08:35:11.115Z",
+    "hwid": "7323386818-347b12e0-cf3f-4cdc-adef-51349bcd30ce",
+    "browserHwid": null,
+    "username": "kenz_rawrr8",
+    "userId": "7323386818",
+    "source": "script",
+    "createdAt": "2026-05-28T08:35:11.715Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.49.250",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
