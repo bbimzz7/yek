@@ -22886,8 +22886,15 @@
     "userId": "5797349943",
     "source": "script",
     "createdAt": "2026-05-28T14:53:17.515Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-28T14:53:27.538Z",
     "geo": {
+      "ip": "134.19.157.230",
+      "city": "Neryungri",
+      "region": "Sakha",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "134.19.157.230",
       "city": "Neryungri",
       "region": "Sakha",
