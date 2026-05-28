@@ -22733,5 +22733,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1B0383-19D5C9-7895CB": {
+    "expires": "2026-05-29T08:09:20.342Z",
+    "hwid": "8260517844-ce175c03-eecb-4177-888c-835c66dad22b",
+    "browserHwid": null,
+    "username": "nodelta41",
+    "userId": "8260517844",
+    "source": "script",
+    "createdAt": "2026-05-28T08:09:21.029Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.98.173",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
