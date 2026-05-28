@@ -22997,5 +22997,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5AB4A7-3948BF-5F0003": {
+    "expires": "2026-05-29T17:30:38.816Z",
+    "hwid": "4845883975-54523158-5b58-4cea-9d66-d89bec3ce39b",
+    "browserHwid": null,
+    "username": "MissRichele",
+    "userId": "4845883975",
+    "source": "script",
+    "createdAt": "2026-05-28T17:30:39.344Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.22.134.59",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
