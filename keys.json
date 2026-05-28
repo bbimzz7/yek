@@ -22685,5 +22685,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EE5FE6-CF0EE8-EECAD5": {
+    "expires": "2026-05-29T05:02:22.270Z",
+    "hwid": "1657814865-2734DF16-BE41-4F91-BABE-A0EA6CF7E233",
+    "browserHwid": null,
+    "username": "jackvlr3",
+    "userId": "1657814865",
+    "source": "script",
+    "createdAt": "2026-05-28T05:02:22.885Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "173.81.202.10",
+      "city": "Williamson",
+      "region": "West Virginia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
