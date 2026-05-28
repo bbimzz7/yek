@@ -22709,5 +22709,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-7C8F73-53B22D-F6119F": {
+    "expires": "2026-05-29T05:14:26.398Z",
+    "hwid": "8859097519-8b421d27-3a88-4819-b50a-5cf298b39dd9",
+    "browserHwid": null,
+    "username": "Seraphic1616",
+    "userId": "8859097519",
+    "source": "script",
+    "createdAt": "2026-05-28T05:14:26.961Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.72.93",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
