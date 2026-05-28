@@ -22598,8 +22598,15 @@
     "userId": "8609814974",
     "source": "script",
     "createdAt": "2026-05-28T00:00:27.870Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-28T00:00:41.747Z",
     "geo": {
+      "ip": "180.94.23.11",
+      "city": "Cianjur",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.94.23.11",
       "city": "Cianjur",
       "region": "West Java",
