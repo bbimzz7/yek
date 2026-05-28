@@ -22694,8 +22694,15 @@
     "userId": "1657814865",
     "source": "script",
     "createdAt": "2026-05-28T05:02:22.885Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-28T05:02:32.778Z",
     "geo": {
+      "ip": "173.81.202.10",
+      "city": "Williamson",
+      "region": "West Virginia",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "173.81.202.10",
       "city": "Williamson",
       "region": "West Virginia",
