@@ -22877,5 +22877,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E2B957-56EE5C-887136": {
+    "expires": "2026-05-29T14:53:16.776Z",
+    "hwid": "5797349943-A3AFA701-AEBA-48BE-B7F2-3AC54CBCACE4",
+    "browserHwid": null,
+    "username": "swerty605",
+    "userId": "5797349943",
+    "source": "script",
+    "createdAt": "2026-05-28T14:53:17.515Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "134.19.157.230",
+      "city": "Neryungri",
+      "region": "Sakha",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
