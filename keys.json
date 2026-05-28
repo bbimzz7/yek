@@ -22630,5 +22630,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2F21F0-7A9F26-5CBF09": {
+    "expires": "2026-05-29T02:21:12.793Z",
+    "hwid": "10784847014-c635d71a-b80f-476c-b055-ea72d8545641",
+    "browserHwid": null,
+    "username": "Finzyy_kecee",
+    "userId": "10784847014",
+    "source": "script",
+    "createdAt": "2026-05-28T02:21:13.166Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "154.19.39.119",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
