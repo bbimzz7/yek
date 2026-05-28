@@ -22838,8 +22838,15 @@
     "userId": "7625872668",
     "source": "script",
     "createdAt": "2026-05-28T12:37:34.946Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-28T12:38:55.978Z",
     "geo": {
+      "ip": "182.8.195.90",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.8.195.90",
       "city": "Semarang",
       "region": "Central Java",
