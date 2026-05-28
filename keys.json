@@ -22622,8 +22622,15 @@
     "userId": "7263675913",
     "source": "script",
     "createdAt": "2026-05-28T02:20:54.207Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-28T02:21:52.336Z",
     "geo": {
+      "ip": "182.8.158.202",
+      "city": "Kota Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.8.158.202",
       "city": "Kota Banjarmasin",
       "region": "South Kalimantan",
