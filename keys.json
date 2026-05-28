@@ -22901,5 +22901,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-7F84E8-2845EC-4E831A": {
+    "expires": "2026-05-29T15:00:54.908Z",
+    "hwid": "8071156564-bdfa84e9-b43a-4e7d-9bf9-041d367b27fb",
+    "browserHwid": null,
+    "username": "EKA1STORE",
+    "userId": "8071156564",
+    "source": "script",
+    "createdAt": "2026-05-28T15:00:55.902Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.65.84",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
