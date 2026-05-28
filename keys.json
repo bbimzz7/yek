@@ -22670,8 +22670,15 @@
     "userId": "3526685146",
     "source": "script",
     "createdAt": "2026-05-28T02:41:35.040Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-28T02:41:50.633Z",
     "geo": {
+      "ip": "103.130.117.29",
+      "city": "Krajan Srigonco",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.130.117.29",
       "city": "Krajan Srigonco",
       "region": "East Java",
