@@ -22661,5 +22661,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2D9B7E-E19A22-73311B": {
+    "expires": "2026-05-29T02:41:34.494Z",
+    "hwid": "3526685146-d8b948c1-d7e0-4d97-8257-e3cde5d282dc",
+    "browserHwid": null,
+    "username": "JAMALVINI",
+    "userId": "3526685146",
+    "source": "script",
+    "createdAt": "2026-05-28T02:41:35.040Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.130.117.29",
+      "city": "Krajan Srigonco",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
