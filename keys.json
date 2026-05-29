@@ -23213,5 +23213,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3D84CB-5BAE8E-175CC6": {
+    "expires": "2026-05-30T15:42:28.058Z",
+    "hwid": "10974618119-EFED6824-B2E1-46FF-BF65-7E5AC2B7A57D",
+    "browserHwid": null,
+    "username": "zenshan666",
+    "userId": "10974618119",
+    "source": "script",
+    "createdAt": "2026-05-29T15:42:28.926Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "150.31.73.71",
+      "city": "Osaka",
+      "region": "Osaka",
+      "country": "Japan",
+      "cc": "JP"
+    }
   }
 }
