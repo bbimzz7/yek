@@ -23093,5 +23093,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0AA56D-3D94AC-2156F7": {
+    "expires": "2026-05-30T09:54:33.565Z",
+    "hwid": "2614890292-d9eb4a73-fd49-462e-a078-67f6f9e06a9a",
+    "browserHwid": null,
+    "username": "Risk1_TzY",
+    "userId": "2614890292",
+    "source": "script",
+    "createdAt": "2026-05-29T09:54:34.183Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.95.138",
+      "city": "Lubukbergalung",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
