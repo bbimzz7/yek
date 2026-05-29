@@ -23222,8 +23222,15 @@
     "userId": "10974618119",
     "source": "script",
     "createdAt": "2026-05-29T15:42:28.926Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-29T15:42:41.426Z",
     "geo": {
+      "ip": "150.31.73.71",
+      "city": "Osaka",
+      "region": "Osaka",
+      "country": "Japan",
+      "cc": "JP"
+    },
+    "lastGeo": {
       "ip": "150.31.73.71",
       "city": "Osaka",
       "region": "Osaka",
