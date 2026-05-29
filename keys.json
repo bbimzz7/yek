@@ -23165,5 +23165,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-83B74D-E90979-42069D": {
+    "expires": "2026-05-30T14:06:59.124Z",
+    "hwid": "7539492835-fb04b923-f1f6-43c9-8ebe-b060e37a1ce5",
+    "browserHwid": null,
+    "username": "fightingstyle0123",
+    "userId": "7539492835",
+    "source": "script",
+    "createdAt": "2026-05-29T14:06:59.929Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.11.153.188",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
