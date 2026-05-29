@@ -23021,5 +23021,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C9A102-B85BBF-EBDFB9": {
+    "expires": "2026-05-30T01:43:48.235Z",
+    "hwid": "10803943635-ec205857-88c0-4a9d-b92d-e87434a3b780",
+    "browserHwid": null,
+    "username": "Xeograf8",
+    "userId": "10803943635",
+    "source": "script",
+    "createdAt": "2026-05-29T01:43:48.802Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.139.125.182",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
