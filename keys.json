@@ -23198,8 +23198,15 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-05-29T14:30:09.892Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-29T14:30:21.142Z",
     "geo": {
+      "ip": "36.65.59.103",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.65.59.103",
       "city": "Bekasi",
       "region": "West Java",
