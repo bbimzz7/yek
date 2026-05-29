@@ -23054,8 +23054,15 @@
     "userId": "10773723225",
     "source": "script",
     "createdAt": "2026-05-29T06:39:25.158Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-29T06:39:40.232Z",
     "geo": {
+      "ip": "125.165.188.112",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.165.188.112",
       "city": "South Tangerang",
       "region": "Banten",
