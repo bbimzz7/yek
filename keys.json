@@ -23102,8 +23102,15 @@
     "userId": "2614890292",
     "source": "script",
     "createdAt": "2026-05-29T09:54:34.183Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-29T09:54:48.317Z",
     "geo": {
+      "ip": "114.10.95.138",
+      "city": "Lubukbergalung",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.95.138",
       "city": "Lubukbergalung",
       "region": "West Sumatra",
