@@ -23141,5 +23141,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-0E97BE-947D1F-110646": {
+    "expires": "2026-05-30T12:15:26.284Z",
+    "hwid": "5859561181-1f263cfa-7e08-41d1-a118-8df6c45e0923",
+    "browserHwid": null,
+    "username": "strong_rynnn",
+    "userId": "5859561181",
+    "source": "script",
+    "createdAt": "2026-05-29T12:15:26.942Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.144.227.155",
+      "city": "Maros",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
