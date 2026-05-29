@@ -23150,8 +23150,15 @@
     "userId": "5859561181",
     "source": "script",
     "createdAt": "2026-05-29T12:15:26.942Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-29T12:23:32.774Z",
     "geo": {
+      "ip": "103.144.227.155",
+      "city": "Maros",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.144.227.155",
       "city": "Maros",
       "region": "South Sulawesi",
