@@ -23623,8 +23623,15 @@
     "userId": "3640597143",
     "source": "script",
     "createdAt": "2026-05-30T21:16:16.083Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-30T21:16:22.591Z",
     "geo": {
+      "ip": "187.84.2.5",
+      "city": "Tatuí",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "187.84.2.5",
       "city": "Tatuí",
       "region": "São Paulo",
