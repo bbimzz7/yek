@@ -23333,5 +23333,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-223A0E-422508-368115": {
+    "expires": "2026-05-31T06:28:18.698Z",
+    "hwid": "8334698619-43575adc-cbc9-4d20-87f2-7c9be4949f63",
+    "browserHwid": null,
+    "username": "Daging_imup23",
+    "userId": "8334698619",
+    "source": "script",
+    "createdAt": "2026-05-30T06:28:19.240Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.222.216",
+      "city": "Galesong",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
