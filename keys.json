@@ -23366,8 +23366,15 @@
     "userId": "3891438059",
     "source": "script",
     "createdAt": "2026-05-30T06:41:32.791Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-30T06:42:28.658Z",
     "geo": {
+      "ip": "103.163.80.186",
+      "city": "Sragen",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.163.80.186",
       "city": "Sragen",
       "region": "Central Java",
