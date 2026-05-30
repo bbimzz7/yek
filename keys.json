@@ -23453,5 +23453,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B11317-D6CFBC-B1C134": {
+    "expires": "2026-05-31T12:58:26.863Z",
+    "hwid": "11027316974-5badb0f6-c683-4aa5-91e8-6c5c0fcb0ca7",
+    "browserHwid": null,
+    "username": "HIXSLAM",
+    "userId": "11027316974",
+    "source": "script",
+    "createdAt": "2026-05-30T12:58:27.418Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.194.160",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
