@@ -23575,8 +23575,15 @@
     "userId": "8636681663",
     "source": "script",
     "createdAt": "2026-05-30T16:14:43.948Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-30T16:15:14.569Z",
     "geo": {
+      "ip": "103.22.99.198",
+      "city": "Magetan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.22.99.198",
       "city": "Magetan",
       "region": "East Java",
