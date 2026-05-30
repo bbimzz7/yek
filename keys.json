@@ -23237,5 +23237,22 @@
       "country": "Japan",
       "cc": "JP"
     }
+  },
+  "VH-690772-3C5D5C-E50638": {
+    "expires": "2026-05-31T00:58:45.727Z",
+    "hwid": "10513714013-3c92b28c-b33c-4a59-a9b8-06ac59f83eee",
+    "browserHwid": null,
+    "username": "kivolth",
+    "userId": "10513714013",
+    "source": "script",
+    "createdAt": "2026-05-30T00:58:46.283Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.171.83.211",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
