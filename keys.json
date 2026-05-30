@@ -23614,5 +23614,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-03CAD8-B6A72E-80BF9B": {
+    "expires": "2026-05-31T21:16:15.382Z",
+    "hwid": "3640597143-2D2D485D-9AC5-4A03-8A18-07C6C2C62278",
+    "browserHwid": null,
+    "username": "pirulitro_657",
+    "userId": "3640597143",
+    "source": "script",
+    "createdAt": "2026-05-30T21:16:16.083Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.84.2.5",
+      "city": "Tatuí",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
