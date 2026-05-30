@@ -23381,5 +23381,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D5DCF3-0A3668-3F5718": {
+    "expires": "2026-05-31T06:56:28.929Z",
+    "hwid": "10796873594-69470c3e-b35f-459a-bed9-9bb5dbaf0d15",
+    "browserHwid": null,
+    "username": "EndermineBro",
+    "userId": "10796873594",
+    "source": "script",
+    "createdAt": "2026-05-30T06:56:29.500Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.4.82.70",
+      "city": "Krajan Satu",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
