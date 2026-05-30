@@ -23270,8 +23270,15 @@
     "userId": "5543027860",
     "source": "script",
     "createdAt": "2026-05-30T01:30:05.370Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-30T01:31:59.288Z",
     "geo": {
+      "ip": "73.224.75.210",
+      "city": "Jacksonville",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.224.75.210",
       "city": "Jacksonville",
       "region": "Florida",
