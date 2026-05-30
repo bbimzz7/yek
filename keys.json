@@ -23261,5 +23261,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6BE1C4-67D9EB-BA6ABE": {
+    "expires": "2026-05-31T01:30:04.736Z",
+    "hwid": "5543027860-e4846e34-746e-4a73-ab8e-4ec4ee724428",
+    "browserHwid": null,
+    "username": "Lofootball77",
+    "userId": "5543027860",
+    "source": "script",
+    "createdAt": "2026-05-30T01:30:05.370Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.224.75.210",
+      "city": "Jacksonville",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
