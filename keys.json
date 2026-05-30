@@ -23494,5 +23494,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A6A801-F4F66E-C7E129": {
+    "expires": "2026-05-31T13:12:22.734Z",
+    "hwid": null,
+    "browserHwid": "BR-404DD418-R0L74",
+    "username": "VH-3711AA-65D1CF-16024C",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-30T13:12:23.311Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.243.37.117",
+      "city": "Ternate",
+      "region": "North Maluku",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
