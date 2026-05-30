@@ -23342,8 +23342,15 @@
     "userId": "8334698619",
     "source": "script",
     "createdAt": "2026-05-30T06:28:19.240Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-30T06:28:58.388Z",
     "geo": {
+      "ip": "103.175.222.216",
+      "city": "Galesong",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.175.222.216",
       "city": "Galesong",
       "region": "South Sulawesi",
