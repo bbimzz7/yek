@@ -497,8 +497,15 @@
     "userId": "8454373060",
     "source": "script",
     "createdAt": "2026-05-31T09:41:15.454Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-31T09:43:00.859Z",
     "geo": {
+      "ip": "114.10.40.147",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.40.147",
       "city": "Medan",
       "region": "North Sumatra",
