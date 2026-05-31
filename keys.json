@@ -594,8 +594,15 @@
     "userId": "9452375800",
     "source": "script",
     "createdAt": "2026-05-31T13:06:49.293Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-31T13:08:29.971Z",
     "geo": {
+      "ip": "193.29.105.163",
+      "city": "Sköndal",
+      "region": "Stockholm County",
+      "country": "Sweden",
+      "cc": "SE"
+    },
+    "lastGeo": {
       "ip": "193.29.105.163",
       "city": "Sköndal",
       "region": "Stockholm County",
