@@ -425,8 +425,15 @@
     "userId": "1394225950",
     "source": "script",
     "createdAt": "2026-05-31T05:43:47.721Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-31T05:43:57.115Z",
     "geo": {
+      "ip": "160.187.174.180",
+      "city": "Deli Serdang",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "160.187.174.180",
       "city": "Deli Serdang",
       "region": "North Sumatra",
