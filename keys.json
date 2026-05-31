@@ -521,8 +521,15 @@
     "userId": "10392418763",
     "source": "script",
     "createdAt": "2026-05-31T10:01:36.166Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-31T10:02:37.591Z",
     "geo": {
+      "ip": "103.3.221.105",
+      "city": "Sleman",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.3.221.105",
       "city": "Sleman",
       "region": "Yogyakarta",
