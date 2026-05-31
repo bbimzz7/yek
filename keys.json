@@ -512,5 +512,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BA77BF-439962-22A3B6": {
+    "expires": "2026-06-01T10:01:35.836Z",
+    "hwid": "10392418763-3971a9f7-dbf6-4ace-a123-86ea7c844a2e",
+    "browserHwid": null,
+    "username": "plislulus0",
+    "userId": "10392418763",
+    "source": "script",
+    "createdAt": "2026-05-31T10:01:36.166Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.3.221.105",
+      "city": "Sleman",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
