@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-05-31T05:09:12.966Z",
+    "action": "bulkdelete",
+    "detail": "982 key expired dihapus"
+  },
+  {
     "ts": "2026-05-31T05:09:00.001Z",
     "action": "extend",
     "detail": "Key VH-5FF6E2-8B7A6B-9D6092 +365 hari"
