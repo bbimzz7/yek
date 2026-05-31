@@ -464,5 +464,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-00028D-1E875D-C4B5BF": {
+    "expires": "2026-06-01T08:42:35.332Z",
+    "hwid": "9482867369-e31ea591-889e-4cc5-b992-a5567b2b3880",
+    "browserHwid": null,
+    "username": "bakekok_squad",
+    "userId": "9482867369",
+    "source": "script",
+    "createdAt": "2026-05-31T08:42:35.648Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.76.108.139",
+      "city": "Pandaan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
