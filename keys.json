@@ -449,7 +449,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-05-31T07:40:38.851Z",
-    "lastUsed": "2026-05-31T13:14:11.368Z",
+    "lastUsed": "2026-05-31T13:38:58.338Z",
     "geo": {
       "ip": "160.20.38.118",
       "city": "Indramayu",
@@ -459,10 +459,10 @@
     },
     "lastGeo": {
       "ip": "36.65.59.103",
-      "city": null,
-      "region": null,
-      "country": null,
-      "cc": null
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
     }
   },
   "VH-00028D-1E875D-C4B5BF": {
