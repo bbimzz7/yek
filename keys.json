@@ -539,14 +539,22 @@
   },
   "VH-C362F6-92D83E-819CD1": {
     "expires": "2026-06-01T12:01:08.599Z",
-    "hwid": null,
+    "hwid": "5068668801-731b03d9-4486-42c8-a9d2-fbfbb9a55dad",
     "browserHwid": "BR-1DB0ACE3-1USGU",
     "username": "leo_ganteng57",
-    "userId": null,
+    "userId": "5068668801",
     "source": "browser",
     "createdAt": "2026-05-31T12:01:08.938Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-31T12:09:11.099Z",
     "geo": {
+      "ip": "125.163.136.252",
+      "city": "Sidoarjo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-05-31T12:09:11.086Z",
+    "lastGeo": {
       "ip": "125.163.136.252",
       "city": "Sidoarjo",
       "region": "East Java",
