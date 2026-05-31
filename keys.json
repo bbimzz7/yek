@@ -416,5 +416,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7985EB-3BF391-12175E": {
+    "expires": "2026-06-01T05:43:47.330Z",
+    "hwid": "1394225950-65003d03-aa42-4e94-884b-7e3dc49424c6",
+    "browserHwid": null,
+    "username": "K3v1nkuRn14w4n",
+    "userId": "1394225950",
+    "source": "script",
+    "createdAt": "2026-05-31T05:43:47.721Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.187.174.180",
+      "city": "Deli Serdang",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
