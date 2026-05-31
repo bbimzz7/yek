@@ -707,8 +707,15 @@
     "userId": "10965462861",
     "source": "script",
     "createdAt": "2026-05-31T18:27:13.422Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-31T18:28:43.743Z",
     "geo": {
+      "ip": "85.117.108.110",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "85.117.108.110",
       "city": "Almaty",
       "region": "Almaty",
