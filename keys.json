@@ -561,5 +561,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CBB5BE-FE3820-6A3450": {
+    "expires": "2026-06-01T12:18:27.537Z",
+    "hwid": "8262835000-A2607D51-8C05-4F1E-9587-C80C3808F482",
+    "browserHwid": null,
+    "username": "piyyatoss",
+    "userId": "8262835000",
+    "source": "script",
+    "createdAt": "2026-05-31T12:18:27.815Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.110.181",
+      "city": "Sorong",
+      "region": "Southwest Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
