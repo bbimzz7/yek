@@ -488,5 +488,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9BBF1E-B57056-3176C8": {
+    "expires": "2026-06-01T09:41:15.125Z",
+    "hwid": "8454373060-c5f44e56-7638-4f07-b522-3c1c104e8921",
+    "browserHwid": null,
+    "username": "dnra_raa",
+    "userId": "8454373060",
+    "source": "script",
+    "createdAt": "2026-05-31T09:41:15.454Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.40.147",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
