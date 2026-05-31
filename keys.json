@@ -536,5 +536,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C362F6-92D83E-819CD1": {
+    "expires": "2026-06-01T12:01:08.599Z",
+    "hwid": null,
+    "browserHwid": "BR-1DB0ACE3-1USGU",
+    "username": "leo_ganteng57",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-05-31T12:01:08.938Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.163.136.252",
+      "city": "Sidoarjo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
