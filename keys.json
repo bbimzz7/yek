@@ -23695,8 +23695,15 @@
     "userId": "11023267970",
     "source": "script",
     "createdAt": "2026-05-31T05:07:59.907Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-31T05:09:07.321Z",
     "geo": {
+      "ip": "103.81.65.68",
+      "city": "Sukoharjo Satu",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.81.65.68",
       "city": "Sukoharjo Satu",
       "region": "Lampung",
