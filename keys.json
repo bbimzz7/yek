@@ -618,8 +618,15 @@
     "userId": "10370915806",
     "source": "script",
     "createdAt": "2026-05-31T14:08:34.288Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-31T14:09:37.998Z",
     "geo": {
+      "ip": "202.136.82.226",
+      "city": "Kebomas",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "202.136.82.226",
       "city": "Kebomas",
       "region": "East Java",
