@@ -353,7 +353,7 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-05-31T00:44:22.108Z",
-    "lastUsed": "2026-05-31T13:17:23.809Z",
+    "lastUsed": "2026-05-31T13:36:45.415Z",
     "geo": {
       "ip": "182.4.73.246",
       "city": "Padang",
@@ -362,7 +362,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "182.4.73.223",
+      "ip": "182.4.73.19",
       "city": "Padang",
       "region": "West Sumatra",
       "country": "Indonesia",
