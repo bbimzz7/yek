@@ -23671,8 +23671,15 @@
     "userId": "7521628616",
     "source": "script",
     "createdAt": "2026-05-31T04:10:22.119Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-31T04:10:34.357Z",
     "geo": {
+      "ip": "203.29.27.203",
+      "city": "Jember",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "203.29.27.203",
       "city": "Jember",
       "region": "East Java",
