@@ -585,5 +585,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F0AF5B-0AD0F0-1DCA61": {
+    "expires": "2026-06-01T13:06:48.973Z",
+    "hwid": "9452375800-4ae80973-0e54-497b-82cb-b5204eef00a9",
+    "browserHwid": null,
+    "username": "GTSMMWE20xd",
+    "userId": "9452375800",
+    "source": "script",
+    "createdAt": "2026-05-31T13:06:49.293Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "193.29.105.163",
+      "city": "Sköndal",
+      "region": "Stockholm County",
+      "country": "Sweden",
+      "cc": "SE"
+    }
   }
 }
