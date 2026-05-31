@@ -497,7 +497,7 @@
     "userId": "8454373060",
     "source": "script",
     "createdAt": "2026-05-31T09:41:15.454Z",
-    "lastUsed": "2026-05-31T14:00:03.164Z",
+    "lastUsed": "2026-05-31T15:50:52.836Z",
     "geo": {
       "ip": "114.10.40.147",
       "city": "Medan",
@@ -507,10 +507,10 @@
     },
     "lastGeo": {
       "ip": "114.10.40.147",
-      "city": null,
-      "region": null,
-      "country": null,
-      "cc": null
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
     }
   },
   "VH-BA77BF-439962-22A3B6": {
