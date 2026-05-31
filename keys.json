@@ -449,7 +449,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-05-31T07:40:38.851Z",
-    "lastUsed": "2026-05-31T07:40:58.807Z",
+    "lastUsed": "2026-05-31T12:43:25.675Z",
     "geo": {
       "ip": "160.20.38.118",
       "city": "Indramayu",
@@ -458,9 +458,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "160.20.38.118",
-      "city": "Indramayu",
-      "region": "West Java",
+      "ip": "140.213.2.66",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
