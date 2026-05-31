@@ -570,8 +570,15 @@
     "userId": "8262835000",
     "source": "script",
     "createdAt": "2026-05-31T12:18:27.815Z",
-    "lastUsed": null,
+    "lastUsed": "2026-05-31T12:18:34.234Z",
     "geo": {
+      "ip": "36.73.110.181",
+      "city": "Sorong",
+      "region": "Southwest Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.73.110.181",
       "city": "Sorong",
       "region": "Southwest Papua",
