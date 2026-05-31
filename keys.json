@@ -609,5 +609,22 @@
       "country": "Sweden",
       "cc": "SE"
     }
+  },
+  "VH-F49E47-B58B25-EA34AA": {
+    "expires": "2026-06-01T14:08:33.797Z",
+    "hwid": "10370915806-fbbfb1ce-3dad-465e-af1a-28fed7aa2bb8",
+    "browserHwid": null,
+    "username": "farel_2234675",
+    "userId": "10370915806",
+    "source": "script",
+    "createdAt": "2026-05-31T14:08:34.288Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.136.82.226",
+      "city": "Kebomas",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
