@@ -914,5 +914,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-27EB6B-8261A6-035E85": {
+    "expires": "2026-06-02T09:43:41.541Z",
+    "hwid": "8722096783-B5190327-DB47-45F9-92B1-D2528B619432",
+    "browserHwid": null,
+    "username": "Radapill2112",
+    "userId": "8722096783",
+    "source": "script",
+    "createdAt": "2026-06-01T09:43:41.941Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.82.246.133",
+      "city": "Ciputat",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
