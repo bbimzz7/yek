@@ -803,8 +803,15 @@
     "userId": "4758027533",
     "source": "script",
     "createdAt": "2026-06-01T02:15:22.630Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-01T02:15:38.520Z",
     "geo": {
+      "ip": "125.163.94.223",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.163.94.223",
       "city": "Jakarta",
       "region": "Jakarta",
