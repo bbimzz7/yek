@@ -923,8 +923,15 @@
     "userId": "8722096783",
     "source": "script",
     "createdAt": "2026-06-01T09:43:41.941Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-01T09:43:48.689Z",
     "geo": {
+      "ip": "103.82.246.133",
+      "city": "Ciputat",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.82.246.133",
       "city": "Ciputat",
       "region": "West Java",
