@@ -1082,5 +1082,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1403CC-E84C40-4024D5": {
+    "expires": "2026-06-02T16:17:44.183Z",
+    "hwid": "8842113848-8583e31e-57df-4188-be4c-c4cd15869f7b",
+    "browserHwid": null,
+    "username": "mydaydii",
+    "userId": "8842113848",
+    "source": "script",
+    "createdAt": "2026-06-01T16:17:44.556Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.98.253",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
