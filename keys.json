@@ -1058,5 +1058,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-91638E-2BF2F2-2946DD": {
+    "expires": "2026-06-02T15:09:24.374Z",
+    "hwid": "10928611995-42180db3-51d8-49d4-b08c-189a9b1f3204",
+    "browserHwid": null,
+    "username": "aku_gagagaya",
+    "userId": "10928611995",
+    "source": "script",
+    "createdAt": "2026-06-01T15:09:24.786Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.131.19.33",
+      "city": "Bulakamba",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
