@@ -866,5 +866,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D24198-C03DE4-3F078B": {
+    "expires": "2026-06-02T07:25:16.095Z",
+    "hwid": "9957521863-39e54580-0692-4921-96f3-654ecfbb1ef9",
+    "browserHwid": null,
+    "username": "ADMIN_BG1",
+    "userId": "9957521863",
+    "source": "script",
+    "createdAt": "2026-06-01T07:25:16.494Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "151.158.133.136",
+      "city": "Karawang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
