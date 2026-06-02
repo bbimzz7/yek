@@ -1250,5 +1250,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-74F5C1-9539DD-A51280": {
+    "expires": "2026-06-03T07:16:04.005Z",
+    "hwid": "10716453034-0a5e24eb-be62-488b-89d1-70275f4da133",
+    "browserHwid": null,
+    "username": "ceastinn",
+    "userId": "10716453034",
+    "source": "script",
+    "createdAt": "2026-06-02T07:16:04.432Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.63.115.132",
+      "city": "Shah Alam",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
