@@ -1202,5 +1202,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-AF1E01-6B8F2A-92C5C1": {
+    "expires": "2026-06-03T06:17:07.723Z",
+    "hwid": "10403917266-8d233e37-0191-42a5-b16c-d2527fa64c64",
+    "browserHwid": null,
+    "username": "g00bydQlane",
+    "userId": "10403917266",
+    "source": "script",
+    "createdAt": "2026-06-02T06:17:08.110Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.71.164.146",
+      "city": "Bangil",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
