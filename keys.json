@@ -1211,8 +1211,15 @@
     "userId": "10403917266",
     "source": "script",
     "createdAt": "2026-06-02T06:17:08.110Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-02T06:17:26.714Z",
     "geo": {
+      "ip": "36.71.164.146",
+      "city": "Bangil",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.71.164.146",
       "city": "Bangil",
       "region": "East Java",
