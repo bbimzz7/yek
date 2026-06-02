@@ -1466,5 +1466,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4F3F13-3CED9B-EA8B1B": {
+    "expires": "2026-06-03T20:43:54.402Z",
+    "hwid": "10390109953-d5531139-a6d4-470c-8fd2-eae0d3637577",
+    "browserHwid": null,
+    "username": "bgregar04",
+    "userId": "10390109953",
+    "source": "script",
+    "createdAt": "2026-06-02T20:43:54.806Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.74.233.197",
+      "city": "Pangkalan Brandan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
