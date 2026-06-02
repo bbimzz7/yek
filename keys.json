@@ -1451,8 +1451,15 @@
     "userId": "9631911259",
     "source": "script",
     "createdAt": "2026-06-02T19:32:10.737Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-02T19:32:21.928Z",
     "geo": {
+      "ip": "103.179.182.179",
+      "city": "Genteng",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.179.182.179",
       "city": "Genteng",
       "region": "East Java",
