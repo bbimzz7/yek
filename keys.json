@@ -1259,8 +1259,15 @@
     "userId": "10716453034",
     "source": "script",
     "createdAt": "2026-06-02T07:16:04.432Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-02T07:17:06.154Z",
     "geo": {
+      "ip": "182.63.115.132",
+      "city": "Shah Alam",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "182.63.115.132",
       "city": "Shah Alam",
       "region": "Selangor",
