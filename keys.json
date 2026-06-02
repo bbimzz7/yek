@@ -1403,8 +1403,15 @@
     "userId": "10757779030",
     "source": "script",
     "createdAt": "2026-06-02T16:32:24.759Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-02T16:32:46.874Z",
     "geo": {
+      "ip": "103.146.185.214",
+      "city": "Wonogiri",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.146.185.214",
       "city": "Wonogiri",
       "region": "Central Java",
