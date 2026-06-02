@@ -1442,5 +1442,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1BCF2F-D52831-51B5DF": {
+    "expires": "2026-06-03T19:32:10.327Z",
+    "hwid": "9631911259-a91271d4-949f-4c1c-a3ce-6956948e7f50",
+    "browserHwid": null,
+    "username": "CosaVosa",
+    "userId": "9631911259",
+    "source": "script",
+    "createdAt": "2026-06-02T19:32:10.737Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.179.182.179",
+      "city": "Genteng",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
