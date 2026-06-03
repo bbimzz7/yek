@@ -1884,8 +1884,15 @@
     "userId": "10390109953",
     "source": "script",
     "createdAt": "2026-06-03T21:49:55.449Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-03T21:50:58.037Z",
     "geo": {
+      "ip": "36.74.233.197",
+      "city": "Pangkalan Brandan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.74.233.197",
       "city": "Pangkalan Brandan",
       "region": "North Sumatra",
