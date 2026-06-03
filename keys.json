@@ -1586,5 +1586,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F85E11-79A216-D431D4": {
+    "expires": "2026-06-04T09:17:20.112Z",
+    "hwid": "1625085933-d124c217-6193-401d-9995-11cc0fa4568d",
+    "browserHwid": null,
+    "username": "laluAFDHAL",
+    "userId": "1625085933",
+    "source": "script",
+    "createdAt": "2026-06-03T09:17:20.591Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.150.132",
+      "city": "Mataram",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
