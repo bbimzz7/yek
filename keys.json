@@ -1709,14 +1709,22 @@
   },
   "VH-1B4CCC-F43EFC-286A1C": {
     "expires": "2026-06-04T13:47:14.039Z",
-    "hwid": null,
+    "hwid": "9102802964-446072ea-d07e-4159-acc7-4ddbf0c893f4",
     "browserHwid": "BR-3E2C9CBC-49UTY",
     "username": "hajajsbdbhdusnana",
-    "userId": null,
+    "userId": "9102802964",
     "source": "browser",
     "createdAt": "2026-06-03T13:47:14.565Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-03T13:47:22.166Z",
     "geo": {
+      "ip": "36.69.2.127",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-06-03T13:47:22.128Z",
+    "lastGeo": {
       "ip": "36.69.2.127",
       "city": "Padang",
       "region": "West Sumatra",
