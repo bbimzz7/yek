@@ -1547,7 +1547,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-06-03T04:54:56.185Z",
-    "lastUsed": "2026-06-03T17:40:11.827Z",
+    "lastUsed": "2026-06-03T18:00:02.617Z",
     "geo": {
       "ip": "36.72.43.159",
       "city": "Bekasi",
@@ -1556,7 +1556,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "160.20.38.118",
+      "ip": "160.20.38.62",
       "city": "Indramayu",
       "region": "West Java",
       "country": "Indonesia",
