@@ -1788,8 +1788,15 @@
     "userId": "3204694388",
     "source": "script",
     "createdAt": "2026-06-03T19:33:13.069Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-03T19:33:20.034Z",
     "geo": {
+      "ip": "180.75.238.176",
+      "city": "Puchong",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "180.75.238.176",
       "city": "Puchong",
       "region": "Selangor",
