@@ -1706,5 +1706,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1B4CCC-F43EFC-286A1C": {
+    "expires": "2026-06-04T13:47:14.039Z",
+    "hwid": null,
+    "browserHwid": "BR-3E2C9CBC-49UTY",
+    "username": "hajajsbdbhdusnana",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-06-03T13:47:14.565Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.69.2.127",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
