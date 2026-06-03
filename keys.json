@@ -1523,11 +1523,18 @@
     "userId": "10195397764",
     "source": "script",
     "createdAt": "2026-06-03T04:02:06.427Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-03T04:02:23.765Z",
     "geo": {
       "ip": "180.247.115.119",
       "city": "Surabaya",
       "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "110.139.29.174",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
