@@ -1634,5 +1634,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-94C7CE-630E85-3DBF28": {
+    "expires": "2026-06-04T11:43:31.642Z",
+    "hwid": "11047662863-a703b460-934a-40e6-bad7-8895f869064f",
+    "browserHwid": null,
+    "username": "Aldou_ko",
+    "userId": "11047662863",
+    "source": "script",
+    "createdAt": "2026-06-03T11:43:32.084Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.254.107.10",
+      "city": "Way Kanan Regency",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
