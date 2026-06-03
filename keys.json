@@ -1836,8 +1836,15 @@
     "userId": "8746307855",
     "source": "script",
     "createdAt": "2026-06-03T20:28:26.026Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-03T20:29:33.666Z",
     "geo": {
+      "ip": "203.190.44.225",
+      "city": "Ponorogo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "203.190.44.225",
       "city": "Ponorogo",
       "region": "East Java",
