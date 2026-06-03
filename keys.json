@@ -1827,5 +1827,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5973EC-E53AD6-E4A918": {
+    "expires": "2026-06-04T20:28:25.574Z",
+    "hwid": "8746307855-77755693-8024-4524-87db-3c813bf22a3f",
+    "browserHwid": null,
+    "username": "ADITZWZZZzz",
+    "userId": "8746307855",
+    "source": "script",
+    "createdAt": "2026-06-03T20:28:26.026Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "203.190.44.225",
+      "city": "Ponorogo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
