@@ -2115,5 +2115,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F90DE9-B3A20A-FF11F2": {
+    "expires": "2026-06-05T11:45:34.090Z",
+    "hwid": "8123606026-4bfdcad9-8c3a-43f0-b736-c6e3710393cf",
+    "browserHwid": null,
+    "username": "AlwaysRayzz",
+    "userId": "8123606026",
+    "source": "script",
+    "createdAt": "2026-06-04T11:45:34.529Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.26.176.91",
+      "city": "Utan",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
