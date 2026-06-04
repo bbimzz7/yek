@@ -2163,5 +2163,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-58C8E6-29DF4F-742D23": {
+    "expires": "2026-06-05T19:11:18.884Z",
+    "hwid": "5157132782-27f438e6-7b62-470f-94dd-691fa20b40da",
+    "browserHwid": null,
+    "username": "Rip_jerry5497",
+    "userId": "5157132782",
+    "source": "script",
+    "createdAt": "2026-06-04T19:11:19.303Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.55.224.141",
+      "city": "Karawang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
