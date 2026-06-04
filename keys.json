@@ -2028,8 +2028,15 @@
     "userId": "8941480740",
     "source": "script",
     "createdAt": "2026-06-04T08:03:12.796Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-04T08:03:45.812Z",
     "geo": {
+      "ip": "103.163.226.106",
+      "city": "Mojosari",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.163.226.106",
       "city": "Mojosari",
       "region": "East Java",
