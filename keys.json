@@ -2019,5 +2019,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F2F5A4-32F2C7-37156D": {
+    "expires": "2026-06-05T08:03:12.337Z",
+    "hwid": "8941480740-880b6f9c-bd2e-44b0-a7e5-513032534f42",
+    "browserHwid": null,
+    "username": "zhafifzs",
+    "userId": "8941480740",
+    "source": "script",
+    "createdAt": "2026-06-04T08:03:12.796Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.163.226.106",
+      "city": "Mojosari",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
