@@ -2532,8 +2532,15 @@
     "userId": "10719615857",
     "source": "script",
     "createdAt": "2026-06-05T16:38:38.266Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-05T16:39:48.248Z",
     "geo": {
+      "ip": "103.1.50.57",
+      "city": "Kwun Tong",
+      "region": "Kwun Tong District",
+      "country": "Hong Kong",
+      "cc": "HK"
+    },
+    "lastGeo": {
       "ip": "103.1.50.57",
       "city": "Kwun Tong",
       "region": "Kwun Tong District",
