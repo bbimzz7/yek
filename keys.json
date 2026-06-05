@@ -2355,5 +2355,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-42D220-0BC7DE-100FBD": {
+    "expires": "2026-06-06T09:20:09.637Z",
+    "hwid": "9348247390-734ac980-c55f-4828-bb3b-65e8729feddc",
+    "browserHwid": null,
+    "username": "Afandhy01",
+    "userId": "9348247390",
+    "source": "script",
+    "createdAt": "2026-06-05T09:20:10.032Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.47.184",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
