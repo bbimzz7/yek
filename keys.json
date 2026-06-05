@@ -2547,5 +2547,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-AA5BF2-FE530E-9F3D1D": {
+    "expires": "2026-06-06T17:31:19.142Z",
+    "hwid": "2446371891-d9479366-4b9d-4b76-8686-391a0958713c",
+    "browserHwid": null,
+    "username": "exrayyan",
+    "userId": "2446371891",
+    "source": "script",
+    "createdAt": "2026-06-05T17:31:19.558Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.135.24.179",
+      "city": "Kajang",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
