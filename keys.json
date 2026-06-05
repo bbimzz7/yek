@@ -2571,5 +2571,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-B398AA-83CD9F-C54FC6": {
+    "expires": "2026-06-06T17:40:57.874Z",
+    "hwid": "8859097519-8b421d27-3a88-4819-b50a-5cf298b39dd9",
+    "browserHwid": null,
+    "username": "Seraphic1616",
+    "userId": "8859097519",
+    "source": "script",
+    "createdAt": "2026-06-05T17:40:58.223Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.2.1",
+      "city": "Pamulang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
