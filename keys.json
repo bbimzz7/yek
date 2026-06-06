@@ -2955,5 +2955,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-60A06E-D48486-99A30E": {
+    "expires": "2026-06-07T19:05:22.932Z",
+    "hwid": "5132985390-78ff48fc-80ff-490b-b75e-66869acf8779",
+    "browserHwid": null,
+    "username": "juliansegundo123",
+    "userId": "5132985390",
+    "source": "script",
+    "createdAt": "2026-06-06T19:05:23.295Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.57.103.132",
+      "city": "San Salvador",
+      "region": "San Salvador Department",
+      "country": "El Salvador",
+      "cc": "SV"
+    }
   }
 }
