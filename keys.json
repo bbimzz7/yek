@@ -2859,5 +2859,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1A5006-14BC92-F18CAA": {
+    "expires": "2026-06-07T14:26:26.756Z",
+    "hwid": "10650592496-189d3a05-4d61-4112-8a2c-98fcc1034744",
+    "browserHwid": null,
+    "username": "bacon_nasional1",
+    "userId": "10650592496",
+    "source": "script",
+    "createdAt": "2026-06-06T14:26:27.075Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.156.16.236",
+      "city": "Karangampel",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
