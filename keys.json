@@ -2931,5 +2931,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E625CD-5AE4DD-73A6A6": {
+    "expires": "2026-06-07T18:59:13.533Z",
+    "hwid": "10898870181-2afc1536-9084-4683-9bcc-8cc077f21496",
+    "browserHwid": null,
+    "username": "HjsTheme",
+    "userId": "10898870181",
+    "source": "script",
+    "createdAt": "2026-06-06T18:59:13.913Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.76.49.145",
+      "city": "Biên Hòa",
+      "region": "Đồng Nai Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
