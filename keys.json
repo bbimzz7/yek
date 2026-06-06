@@ -2979,5 +2979,22 @@
       "country": "El Salvador",
       "cc": "SV"
     }
+  },
+  "VH-11EAB1-030DCB-F49B06": {
+    "expires": "2026-06-07T21:05:42.687Z",
+    "hwid": "10578196795-8beecc46-9d4e-4632-bf58-0473a93ee1f6",
+    "browserHwid": null,
+    "username": "elmataburros_67899",
+    "userId": "10578196795",
+    "source": "script",
+    "createdAt": "2026-06-06T21:05:43.058Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.100.199.79",
+      "city": "Guayaquil",
+      "region": "Guayas",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
