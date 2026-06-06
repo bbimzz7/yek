@@ -2763,5 +2763,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-76C8EE-397097-51F325": {
+    "expires": "2026-06-07T12:37:31.730Z",
+    "hwid": "8671159031-39569833-A7B2-481A-A57F-0FA8F59111BE",
+    "browserHwid": null,
+    "username": "faintoyo",
+    "userId": "8671159031",
+    "source": "script",
+    "createdAt": "2026-06-06T12:37:32.074Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.219.163.133",
+      "city": "Durban",
+      "region": "KwaZulu-Natal",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
