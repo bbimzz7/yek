@@ -2844,11 +2844,18 @@
     "userId": "11007841436",
     "source": "script",
     "createdAt": "2026-06-06T13:49:23.550Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-06T13:51:56.093Z",
     "geo": {
       "ip": "112.215.63.134",
       "city": "Jakarta",
       "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "112.215.221.45",
+      "city": "Pemenang",
+      "region": "West Nusa Tenggara",
       "country": "Indonesia",
       "cc": "ID"
     }
