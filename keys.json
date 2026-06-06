@@ -2940,8 +2940,15 @@
     "userId": "10898870181",
     "source": "script",
     "createdAt": "2026-06-06T18:59:13.913Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-06T18:59:22.632Z",
     "geo": {
+      "ip": "115.76.49.145",
+      "city": "Biên Hòa",
+      "region": "Đồng Nai Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "115.76.49.145",
       "city": "Biên Hòa",
       "region": "Đồng Nai Province",
