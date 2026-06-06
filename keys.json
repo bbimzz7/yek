@@ -2772,8 +2772,15 @@
     "userId": "8671159031",
     "source": "script",
     "createdAt": "2026-06-06T12:37:32.074Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-06T12:37:39.771Z",
     "geo": {
+      "ip": "102.219.163.133",
+      "city": "Durban",
+      "region": "KwaZulu-Natal",
+      "country": "South Africa",
+      "cc": "ZA"
+    },
+    "lastGeo": {
       "ip": "102.219.163.133",
       "city": "Durban",
       "region": "KwaZulu-Natal",
