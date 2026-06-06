@@ -2868,8 +2868,15 @@
     "userId": "10650592496",
     "source": "script",
     "createdAt": "2026-06-06T14:26:27.075Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-06T14:28:05.601Z",
     "geo": {
+      "ip": "103.156.16.236",
+      "city": "Karangampel",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.156.16.236",
       "city": "Karangampel",
       "region": "West Java",
