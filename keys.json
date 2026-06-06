@@ -2787,5 +2787,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-F9CE04-2ED707-89642A": {
+    "expires": "2026-06-07T13:11:26.831Z",
+    "hwid": "3051324798-5a3626fe-25a6-45e8-8d2a-301a949fb9b7",
+    "browserHwid": null,
+    "username": "presiden_gaming021",
+    "userId": "3051324798",
+    "source": "script",
+    "createdAt": "2026-06-06T13:11:27.209Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.164.94.77",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
