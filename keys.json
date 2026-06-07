@@ -3252,8 +3252,15 @@
     "userId": "8749886348",
     "source": "script",
     "createdAt": "2026-06-07T13:12:08.247Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-07T13:13:12.975Z",
     "geo": {
+      "ip": "103.154.76.88",
+      "city": "Karangbaru",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.154.76.88",
       "city": "Karangbaru",
       "region": "West Nusa Tenggara",
