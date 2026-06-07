@@ -3291,5 +3291,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FB1A71-F7645A-7FC333": {
+    "expires": "2026-06-08T15:26:50.693Z",
+    "hwid": "10739254281-a446210a-6284-448b-80fd-045517cf7e0a",
+    "browserHwid": null,
+    "username": "lusiapa120",
+    "userId": "10739254281",
+    "source": "script",
+    "createdAt": "2026-06-07T15:26:51.082Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.156.118.33",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
