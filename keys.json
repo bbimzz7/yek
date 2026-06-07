@@ -3147,5 +3147,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-9BEABB-10940D-44E31C": {
+    "expires": "2026-06-08T09:25:43.057Z",
+    "hwid": "11069565170-3ec6c95e-45c7-4f45-a7ea-f26392554856",
+    "browserHwid": null,
+    "username": "Zee_x199",
+    "userId": "11069565170",
+    "source": "script",
+    "createdAt": "2026-06-07T09:25:43.417Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.135.46",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
