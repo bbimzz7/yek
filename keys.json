@@ -3003,5 +3003,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-38B1AB-32F86D-9DE2B9": {
+    "expires": "2026-06-08T01:57:40.149Z",
+    "hwid": "5814602210-3c9bfd31-28fc-4641-8725-aeadc42139d9",
+    "browserHwid": null,
+    "username": "yaudah_iyaya",
+    "userId": "5814602210",
+    "source": "script",
+    "createdAt": "2026-06-07T01:57:40.513Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.44.22",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
