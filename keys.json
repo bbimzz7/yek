@@ -3243,5 +3243,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0BE81C-A05F04-5F8D1B": {
+    "expires": "2026-06-08T13:12:07.875Z",
+    "hwid": "8749886348-0d3de78c-a322-49a6-a5dd-2697cb54077a",
+    "browserHwid": null,
+    "username": "VitoKecee132",
+    "userId": "8749886348",
+    "source": "script",
+    "createdAt": "2026-06-07T13:12:08.247Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.154.76.88",
+      "city": "Karangbaru",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
