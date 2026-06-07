@@ -3219,5 +3219,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1E0E53-03534D-2D3D29": {
+    "expires": "2026-06-08T12:14:59.427Z",
+    "hwid": "7331145265-82d4db8e-3e32-466a-a152-7acf8e043915",
+    "browserHwid": null,
+    "username": "PACKKFE",
+    "userId": "7331145265",
+    "source": "script",
+    "createdAt": "2026-06-07T12:14:59.797Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.241.161.12",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
