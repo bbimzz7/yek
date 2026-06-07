@@ -3123,5 +3123,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-944321-B59A7B-67569C": {
+    "expires": "2026-06-08T08:38:47.266Z",
+    "hwid": "8977849196-D0031257-1BA3-4433-84AB-D9E7CCBF7D4E",
+    "browserHwid": null,
+    "username": "Xxgojotheman",
+    "userId": "8977849196",
+    "source": "script",
+    "createdAt": "2026-06-07T08:38:47.671Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "64.224.135.116",
+      "city": "Bacolod City",
+      "region": "Western Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
