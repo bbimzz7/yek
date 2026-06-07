@@ -3060,7 +3060,7 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-06-07T06:47:58.842Z",
-    "lastUsed": "2026-06-07T07:10:37.952Z",
+    "lastUsed": "2026-06-07T08:10:21.013Z",
     "geo": {
       "ip": "114.79.0.112",
       "city": "Indralaya",
@@ -3069,9 +3069,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.79.0.112",
-      "city": "Indralaya",
-      "region": "South Sumatra",
+      "ip": "114.79.0.241",
+      "city": "Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
