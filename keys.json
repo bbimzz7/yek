@@ -3027,5 +3027,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-ECD4A4-31FEA8-3A8744": {
+    "expires": "2026-06-08T04:25:03.361Z",
+    "hwid": "10588689115-4d0ced0c-97f0-4eea-accc-8a57abf091cb",
+    "browserHwid": null,
+    "username": "Roblox_apa01",
+    "userId": "10588689115",
+    "source": "script",
+    "createdAt": "2026-06-07T04:25:03.773Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.81.76.201",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
