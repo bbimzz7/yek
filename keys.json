@@ -3051,5 +3051,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-273BB3-B88738-5D48B7": {
+    "expires": "2026-06-08T06:47:58.543Z",
+    "hwid": "8859097519-8b421d27-3a88-4819-b50a-5cf298b39dd9",
+    "browserHwid": null,
+    "username": "Seraphic1616",
+    "userId": "8859097519",
+    "source": "script",
+    "createdAt": "2026-06-07T06:47:58.842Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.0.112",
+      "city": "Indralaya",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
