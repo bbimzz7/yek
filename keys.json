@@ -3435,5 +3435,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6C6A90-1BF923-078762": {
+    "expires": "2026-06-09T12:48:03.924Z",
+    "hwid": "1755758522-0369843c-b907-40fb-b8f0-dce282c91f17",
+    "browserHwid": null,
+    "username": "CreamTeamVeryStrong",
+    "userId": "1755758522",
+    "source": "script",
+    "createdAt": "2026-06-08T12:48:04.204Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.83.157",
+      "city": "West Bandung Regency",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
