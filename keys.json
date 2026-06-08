@@ -3459,5 +3459,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8756E4-35338C-DDDC61": {
+    "expires": "2026-06-09T16:04:33.754Z",
+    "hwid": "9941148526-2fc49bae-6e18-45da-b64e-350cf6d285f6",
+    "browserHwid": null,
+    "username": "berryesie",
+    "userId": "9941148526",
+    "source": "script",
+    "createdAt": "2026-06-08T16:04:34.244Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.66.170.21",
+      "city": "Cileungsir",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
