@@ -3348,8 +3348,15 @@
     "userId": "5401738726",
     "source": "script",
     "createdAt": "2026-06-08T09:20:26.862Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-08T09:21:30.998Z",
     "geo": {
+      "ip": "103.169.186.165",
+      "city": "Lawang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.169.186.165",
       "city": "Lawang",
       "region": "East Java",
