@@ -3339,5 +3339,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-244FD0-BB27BF-5942FE": {
+    "expires": "2026-06-09T09:20:26.396Z",
+    "hwid": "5401738726-321a0ebf-7985-4202-b24a-d24e06f29a42",
+    "browserHwid": null,
+    "username": "Naufal_shidQi9",
+    "userId": "5401738726",
+    "source": "script",
+    "createdAt": "2026-06-08T09:20:26.862Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.169.186.165",
+      "city": "Lawang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
