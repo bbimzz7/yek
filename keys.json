@@ -3387,5 +3387,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-2125A5-4B96B4-A778D8": {
+    "expires": "2026-06-09T12:15:38.527Z",
+    "hwid": "9320673121-8ab1e737-469a-4f72-864c-70eb6e42bced",
+    "browserHwid": null,
+    "username": "chiccantika",
+    "userId": "9320673121",
+    "source": "script",
+    "createdAt": "2026-06-08T12:15:38.993Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.46.68.215",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
