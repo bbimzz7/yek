@@ -3444,8 +3444,15 @@
     "userId": "1755758522",
     "source": "script",
     "createdAt": "2026-06-08T12:48:04.204Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-08T12:48:13.330Z",
     "geo": {
+      "ip": "180.254.83.157",
+      "city": "West Bandung Regency",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.254.83.157",
       "city": "West Bandung Regency",
       "region": "West Java",
