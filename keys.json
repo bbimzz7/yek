@@ -3660,8 +3660,15 @@
     "userId": "10345105129",
     "source": "script",
     "createdAt": "2026-06-09T21:51:03.344Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-09T21:51:18.170Z",
     "geo": {
+      "ip": "103.61.5.106",
+      "city": "Meral",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.61.5.106",
       "city": "Meral",
       "region": "Riau Islands",
