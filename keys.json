@@ -3901,5 +3901,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D53B3D-9EB923-EF3077": {
+    "expires": "2026-06-11T11:10:03.219Z",
+    "hwid": "10701782126-ac1eec92-8e52-4c65-a6b7-88529597e79c",
+    "browserHwid": null,
+    "username": "adam_gghz",
+    "userId": "10701782126",
+    "source": "script",
+    "createdAt": "2026-06-10T11:10:03.736Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.75.100.232",
+      "city": "Tebingtinggi",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
