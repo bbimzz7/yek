@@ -3910,8 +3910,15 @@
     "userId": "10701782126",
     "source": "script",
     "createdAt": "2026-06-10T11:10:03.736Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-10T11:10:23.384Z",
     "geo": {
+      "ip": "36.75.100.232",
+      "city": "Tebingtinggi",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.75.100.232",
       "city": "Tebingtinggi",
       "region": "North Sumatra",
