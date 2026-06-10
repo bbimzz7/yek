@@ -3886,7 +3886,7 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-06-10T10:57:58.830Z",
-    "lastUsed": "2026-06-10T10:58:04.724Z",
+    "lastUsed": "2026-06-10T14:43:36.988Z",
     "geo": {
       "ip": "114.79.5.129",
       "city": "Cilegon",
@@ -3895,9 +3895,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.79.5.129",
-      "city": "Cilegon",
-      "region": "Banten",
+      "ip": "114.79.6.149",
+      "city": "Terbanggi Besar",
+      "region": "Lampung",
       "country": "Indonesia",
       "cc": "ID"
     }
