@@ -3684,8 +3684,15 @@
     "userId": "8813127128",
     "source": "script",
     "createdAt": "2026-06-10T00:10:21.501Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-10T00:10:37.435Z",
     "geo": {
+      "ip": "103.105.55.61",
+      "city": "Purwokerto",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.105.55.61",
       "city": "Purwokerto",
       "region": "Central Java",
