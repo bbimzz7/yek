@@ -4021,5 +4021,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-99883E-65834F-715259": {
+    "expires": "2026-06-11T22:52:34.012Z",
+    "hwid": "11085935869-f672d2ec-de4e-4830-822e-e0faef86dbcc",
+    "browserHwid": null,
+    "username": "ehhshshstwtqt",
+    "userId": "11085935869",
+    "source": "script",
+    "createdAt": "2026-06-10T22:52:34.382Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.160.88.166",
+      "city": "São José",
+      "region": "Santa Catarina",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
