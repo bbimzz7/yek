@@ -3836,5 +3836,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-805BC9-9543C8-5C8AA5": {
+    "expires": "2026-06-11T07:32:37.525Z",
+    "hwid": "10459206295-201ba47a-e5a0-47aa-8ce6-000c74dda353",
+    "browserHwid": null,
+    "username": "kid_lo42",
+    "userId": "10459206295",
+    "source": "script",
+    "createdAt": "2026-06-10T07:32:37.771Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.189.135.208",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
