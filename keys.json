@@ -3949,5 +3949,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-9783EB-789F95-E7E892": {
+    "expires": "2026-06-11T16:49:47.102Z",
+    "hwid": "2026738362-53e144e2-126b-40a1-ad50-7318606ee050",
+    "browserHwid": null,
+    "username": "masterP1523Q",
+    "userId": "2026738362",
+    "source": "script",
+    "createdAt": "2026-06-10T16:49:47.614Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.169.238.121",
+      "city": "Kedaton",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
