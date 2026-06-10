@@ -3958,8 +3958,15 @@
     "userId": "2026738362",
     "source": "script",
     "createdAt": "2026-06-10T16:49:47.614Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-10T16:49:54.838Z",
     "geo": {
+      "ip": "103.169.238.121",
+      "city": "Kedaton",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.169.238.121",
       "city": "Kedaton",
       "region": "Lampung",
