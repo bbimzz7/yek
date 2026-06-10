@@ -3747,5 +3747,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-72A233-EC5CA3-BB148A": {
+    "expires": "2026-06-11T05:20:24.554Z",
+    "hwid": "5389302180-31a28eae-45a8-4cb0-9196-ead787f554a6",
+    "browserHwid": null,
+    "username": "daffa04569",
+    "userId": "5389302180",
+    "source": "script",
+    "createdAt": "2026-06-10T05:20:24.990Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.235.205.32",
+      "city": "Toronto",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
