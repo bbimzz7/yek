@@ -3795,5 +3795,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6C4CD5-C6C0D9-CE9FA8": {
+    "expires": "2026-06-11T07:14:19.462Z",
+    "hwid": "1925695454-906b4e0e-0a87-4daf-b632-771729cb9298",
+    "browserHwid": null,
+    "username": "Just_typing1",
+    "userId": "1925695454",
+    "source": "script",
+    "createdAt": "2026-06-10T07:14:19.746Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.59.193.126",
+      "city": "Farmers Branch",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
