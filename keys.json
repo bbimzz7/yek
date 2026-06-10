@@ -3756,13 +3756,20 @@
     "userId": "5389302180",
     "source": "script",
     "createdAt": "2026-06-10T05:20:24.990Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-10T05:21:02.600Z",
     "geo": {
       "ip": "168.235.205.32",
       "city": "Toronto",
       "region": "Ontario",
       "country": "Canada",
       "cc": "CA"
+    },
+    "lastGeo": {
+      "ip": "154.47.151.21",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
     }
   }
 }
