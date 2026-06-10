@@ -3675,5 +3675,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-70E8B5-276524-29444D": {
+    "expires": "2026-06-11T00:10:21.083Z",
+    "hwid": "8813127128-935163c5-74ce-4787-9580-84e5a98d6994",
+    "browserHwid": null,
+    "username": "afz_faiz22343",
+    "userId": "8813127128",
+    "source": "script",
+    "createdAt": "2026-06-10T00:10:21.501Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.105.55.61",
+      "city": "Purwokerto",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
