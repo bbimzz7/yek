@@ -4206,5 +4206,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BC940E-5B9AE1-419A2F": {
+    "expires": "2026-06-12T10:21:32.867Z",
+    "hwid": "11009333517-6b9f895c-f6f7-4b34-a342-3c0b314f9acb",
+    "browserHwid": null,
+    "username": "agus_fefek",
+    "userId": "11009333517",
+    "source": "script",
+    "createdAt": "2026-06-11T10:21:33.326Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.76.109.210",
+      "city": "Utan",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
