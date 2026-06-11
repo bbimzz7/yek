@@ -4158,5 +4158,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-06011D-59C4E9-AEC214": {
+    "expires": "2026-06-12T07:13:19.630Z",
+    "hwid": "10657032416-02d3aa3a-03af-4b79-acd7-f223549acf03",
+    "browserHwid": null,
+    "username": "aboutyouwhen",
+    "userId": "10657032416",
+    "source": "script",
+    "createdAt": "2026-06-11T07:13:20.078Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.166.157.150",
+      "city": "Sragen",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
