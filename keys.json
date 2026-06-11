@@ -4247,5 +4247,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-67E14D-89D15D-675F8B": {
+    "expires": "2026-06-12T16:30:20.887Z",
+    "hwid": "3280444939-0035bd9f-24d1-44ce-bf04-7683f38a104e",
+    "browserHwid": null,
+    "username": "guizimzzwsc",
+    "userId": "3280444939",
+    "source": "script",
+    "createdAt": "2026-06-11T16:30:21.437Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.194.223.222",
+      "city": "São Miguel Arcanjo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
