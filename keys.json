@@ -4110,5 +4110,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FE4ECC-52ADB6-7B4760": {
+    "expires": "2026-06-12T05:06:24.746Z",
+    "hwid": "3065829656-4692378d-0a6c-467f-bb06-525d6929114c",
+    "browserHwid": null,
+    "username": "kikiyys",
+    "userId": "3065829656",
+    "source": "script",
+    "createdAt": "2026-06-11T05:06:25.105Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.102.12.68",
+      "city": "Rembang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
