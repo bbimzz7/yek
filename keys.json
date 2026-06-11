@@ -4054,9 +4054,16 @@
     "userId": "10954014992",
     "source": "script",
     "createdAt": "2026-06-11T02:04:47.123Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-11T02:04:55.472Z",
     "geo": {
       "ip": "114.125.149.100",
+      "city": "Mapurujaya",
+      "region": "Central Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "114.125.149.236",
       "city": "Mapurujaya",
       "region": "Central Papua",
       "country": "Indonesia",
