@@ -4271,5 +4271,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-10C66D-A0E91F-D2DBEB": {
+    "expires": "2026-06-12T16:50:41.660Z",
+    "hwid": "8874164095-89d8d456-0beb-41b4-a9c5-29386f2665b2",
+    "browserHwid": null,
+    "username": "bandit_croco",
+    "userId": "8874164095",
+    "source": "script",
+    "createdAt": "2026-06-11T16:50:42.160Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.35.63",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
