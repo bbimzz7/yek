@@ -4134,5 +4134,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6EF94F-B62C0F-116FBB": {
+    "expires": "2026-06-12T06:03:01.077Z",
+    "hwid": "9631981298-5badb0f6-c683-4aa5-91e8-6c5c0fcb0ca7",
+    "browserHwid": null,
+    "username": "lilBrouZ",
+    "userId": "9631981298",
+    "source": "script",
+    "createdAt": "2026-06-11T06:03:01.471Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.172.31",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
