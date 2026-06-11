@@ -4256,8 +4256,15 @@
     "userId": "3280444939",
     "source": "script",
     "createdAt": "2026-06-11T16:30:21.437Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-11T16:30:49.331Z",
     "geo": {
+      "ip": "168.194.223.222",
+      "city": "São Miguel Arcanjo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "168.194.223.222",
       "city": "São Miguel Arcanjo",
       "region": "São Paulo",
