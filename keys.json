@@ -4319,5 +4319,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-1F28C2-91D2CA-487280": {
+    "expires": "2026-06-12T17:53:47.867Z",
+    "hwid": "9439740680-02d3aa3a-03af-4b79-acd7-f223549acf03",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-06-11T17:53:48.263Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.166.157.150",
+      "city": "Sragen",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
