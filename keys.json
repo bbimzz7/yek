@@ -4376,8 +4376,15 @@
     "userId": "11084217010",
     "source": "script",
     "createdAt": "2026-06-12T14:15:32.616Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-12T14:16:10.615Z",
     "geo": {
+      "ip": "202.58.78.120",
+      "city": "Pare",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "202.58.78.120",
       "city": "Pare",
       "region": "East Java",
