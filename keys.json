@@ -4328,7 +4328,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-06-11T17:53:48.263Z",
-    "lastUsed": "2026-06-11T18:00:46.025Z",
+    "lastUsed": "2026-06-12T01:01:21.297Z",
     "geo": {
       "ip": "125.166.157.150",
       "city": "Sragen",
@@ -4337,9 +4337,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "125.166.157.150",
-      "city": "Sragen",
-      "region": "Central Java",
+      "ip": "36.72.47.222",
+      "city": "Bekasi",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
