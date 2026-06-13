@@ -4664,8 +4664,15 @@
     "userId": "2619231698",
     "source": "script",
     "createdAt": "2026-06-13T14:55:54.318Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-13T14:56:05.359Z",
     "geo": {
+      "ip": "177.234.198.20",
+      "city": "Guayaquil",
+      "region": "Guayas",
+      "country": "Ecuador",
+      "cc": "EC"
+    },
+    "lastGeo": {
       "ip": "177.234.198.20",
       "city": "Guayaquil",
       "region": "Guayas",
