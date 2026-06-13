@@ -4511,5 +4511,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-174FB9-E57BDC-F9E8F4": {
+    "expires": "2026-06-14T02:49:15.729Z",
+    "hwid": "4036126658-A9ED6C15-B1DD-462D-B429-7F48C5CE303E",
+    "browserHwid": null,
+    "username": "HermanosDiGregorio",
+    "userId": "4036126658",
+    "source": "script",
+    "createdAt": "2026-06-13T02:49:16.164Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "82.86.115.218",
+      "city": "Maracay",
+      "region": "Aragua",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
