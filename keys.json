@@ -4631,5 +4631,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3FBB79-B9228B-9524F1": {
+    "expires": "2026-06-14T10:24:02.368Z",
+    "hwid": "8251582684-f7b19e41-2439-4ce2-b511-9ff0ba6356e6",
+    "browserHwid": null,
+    "username": "ibnu_11377",
+    "userId": "8251582684",
+    "source": "script",
+    "createdAt": "2026-06-13T10:24:02.807Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.57.25.234",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
