@@ -4703,5 +4703,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D4B2F3-3634A6-F6DCB4": {
+    "expires": "2026-06-14T16:23:56.339Z",
+    "hwid": "10819762167-de2ff818-5954-4433-a71a-2e9e2ae9f40f",
+    "browserHwid": null,
+    "username": "HTM_Kira0",
+    "userId": "10819762167",
+    "source": "script",
+    "createdAt": "2026-06-13T16:23:56.571Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.176.60.84",
+      "city": "Batangas",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
