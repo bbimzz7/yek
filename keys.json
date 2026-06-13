@@ -4568,7 +4568,7 @@
     "userId": "8669797167",
     "source": "script",
     "createdAt": "2026-06-13T07:46:19.265Z",
-    "lastUsed": "2026-06-13T07:46:26.672Z",
+    "lastUsed": "2026-06-13T07:52:34.698Z",
     "geo": {
       "ip": "157.15.67.18",
       "city": "Tulungagung",
@@ -4577,7 +4577,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "157.15.67.18",
+      "ip": "157.15.67.21",
       "city": "Tulungagung",
       "region": "East Java",
       "country": "Indonesia",
