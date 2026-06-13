@@ -4655,5 +4655,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0E263F-030CA1-A8AD9E": {
+    "expires": "2026-06-14T14:55:53.907Z",
+    "hwid": "2619231698-8631b96a-dcf7-4953-982c-1ed56b6f78b5",
+    "browserHwid": null,
+    "username": "KILLPLAYYT2007",
+    "userId": "2619231698",
+    "source": "script",
+    "createdAt": "2026-06-13T14:55:54.318Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.234.198.20",
+      "city": "Guayaquil",
+      "region": "Guayas",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
