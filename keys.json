@@ -4727,5 +4727,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-456CD4-2CA30C-446D5B": {
+    "expires": "2026-06-14T18:20:33.027Z",
+    "hwid": "10300734929-d5fd4bf7-cbf8-4960-91b4-432ec79dd83e",
+    "browserHwid": null,
+    "username": "getheviii",
+    "userId": "10300734929",
+    "source": "script",
+    "createdAt": "2026-06-13T18:20:33.427Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.242.71.155",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
