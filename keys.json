@@ -4559,5 +4559,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D3A487-57612C-9EF97E": {
+    "expires": "2026-06-14T07:46:18.883Z",
+    "hwid": "8669797167-8ea4df89-959e-4312-96a5-6ec9af61403f",
+    "browserHwid": null,
+    "username": "LORD_EAZYT",
+    "userId": "8669797167",
+    "source": "script",
+    "createdAt": "2026-06-13T07:46:19.265Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.15.67.18",
+      "city": "Tulungagung",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
