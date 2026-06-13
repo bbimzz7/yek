@@ -4520,8 +4520,15 @@
     "userId": "4036126658",
     "source": "script",
     "createdAt": "2026-06-13T02:49:16.164Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-13T02:49:23.593Z",
     "geo": {
+      "ip": "82.86.115.218",
+      "city": "Maracay",
+      "region": "Aragua",
+      "country": "Venezuela",
+      "cc": "VE"
+    },
+    "lastGeo": {
       "ip": "82.86.115.218",
       "city": "Maracay",
       "region": "Aragua",
