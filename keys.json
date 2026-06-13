@@ -4487,5 +4487,22 @@
       "country": "Chile",
       "cc": "CL"
     }
+  },
+  "VH-0DF810-D88B3F-68499C": {
+    "expires": "2026-06-14T02:17:11.764Z",
+    "hwid": "4014470413-FA3D09BF-4E2B-4478-8493-2633647029DE",
+    "browserHwid": null,
+    "username": "k1rchxd",
+    "userId": "4014470413",
+    "source": "script",
+    "createdAt": "2026-06-13T02:17:12.224Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.43.240.137",
+      "city": "Moscow",
+      "region": "Moscow",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
