@@ -4871,5 +4871,22 @@
       "country": "Turkey",
       "cc": "TR"
     }
+  },
+  "VH-0BF25A-FA83D6-403A6E": {
+    "expires": "2026-06-15T08:50:05.014Z",
+    "hwid": "8729486349-367414f7-4d45-49ec-9753-b220e0feab02",
+    "browserHwid": null,
+    "username": "Revvan_handsome",
+    "userId": "8729486349",
+    "source": "script",
+    "createdAt": "2026-06-14T08:50:05.426Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.156.139",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
