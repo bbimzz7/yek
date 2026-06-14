@@ -4823,5 +4823,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CA04BD-59051B-A2C70E": {
+    "expires": "2026-06-15T06:34:15.003Z",
+    "hwid": "11107241851-75F3371D-B450-4C31-9F82-981A93E23CB2",
+    "browserHwid": null,
+    "username": "SASkuyStore",
+    "userId": "11107241851",
+    "source": "script",
+    "createdAt": "2026-06-14T06:34:15.372Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "9.154.222.2",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
