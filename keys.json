@@ -4784,7 +4784,7 @@
     "userId": "8859097519",
     "source": "script",
     "createdAt": "2026-06-14T05:07:34.414Z",
-    "lastUsed": "2026-06-14T06:32:45.017Z",
+    "lastUsed": "2026-06-14T06:37:39.465Z",
     "geo": {
       "ip": "114.79.5.7",
       "city": "Central Jakarta",
@@ -4793,7 +4793,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "114.79.5.7",
+      "ip": "114.79.1.152",
       "city": "Central Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
