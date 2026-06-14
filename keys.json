@@ -4967,5 +4967,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-40E0A0-D9AA79-AF76C2": {
+    "expires": "2026-06-15T14:49:54.596Z",
+    "hwid": "11018486509-604a0d87-fac2-406e-bb07-79345cddb682",
+    "browserHwid": null,
+    "username": "luis3452098",
+    "userId": "11018486509",
+    "source": "script",
+    "createdAt": "2026-06-14T14:49:55.041Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.156.248.52",
+      "city": "Kota Batam",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
