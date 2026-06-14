@@ -5089,8 +5089,15 @@
     "userId": "10848034923",
     "source": "script",
     "createdAt": "2026-06-14T22:54:59.566Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-14T22:56:20.954Z",
     "geo": {
+      "ip": "177.229.197.203",
+      "city": "Tapachula",
+      "region": "Chiapas",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "177.229.197.203",
       "city": "Tapachula",
       "region": "Chiapas",
