@@ -4856,8 +4856,15 @@
     "userId": "1543996251",
     "source": "script",
     "createdAt": "2026-06-14T07:44:21.623Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-14T07:44:27.703Z",
     "geo": {
+      "ip": "212.253.186.21",
+      "city": "Mersin",
+      "region": "Mersin",
+      "country": "Turkey",
+      "cc": "TR"
+    },
+    "lastGeo": {
       "ip": "212.253.186.21",
       "city": "Mersin",
       "region": "Mersin",
