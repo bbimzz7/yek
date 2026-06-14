@@ -4928,8 +4928,15 @@
     "userId": "3677126458",
     "source": "script",
     "createdAt": "2026-06-14T13:23:47.684Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-14T13:25:01.124Z",
     "geo": {
+      "ip": "182.3.138.13",
+      "city": "Samarinda",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.3.138.13",
       "city": "Samarinda",
       "region": "East Kalimantan",
