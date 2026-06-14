@@ -5080,5 +5080,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-05EC64-DEFB55-F311F4": {
+    "expires": "2026-06-15T22:54:59.190Z",
+    "hwid": "10848034923-4195328c-5c62-4f3a-90a1-15621a33a01d",
+    "browserHwid": null,
+    "username": "Ivxxn_149",
+    "userId": "10848034923",
+    "source": "script",
+    "createdAt": "2026-06-14T22:54:59.566Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.229.197.203",
+      "city": "Tapachula",
+      "region": "Chiapas",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
