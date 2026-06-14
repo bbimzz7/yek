@@ -5032,5 +5032,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-184105-B10ECD-96FD8A": {
+    "expires": "2026-06-15T17:06:13.193Z",
+    "hwid": "3076690266-857f1e7b-39e0-49de-aeae-81b09763baf4",
+    "browserHwid": null,
+    "username": "kidroblox_wow",
+    "userId": "3076690266",
+    "source": "script",
+    "createdAt": "2026-06-14T17:06:13.619Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.119.140.208",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
