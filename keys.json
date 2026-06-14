@@ -4895,5 +4895,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-BBAEE1-E8138A-F87EFF": {
+    "expires": "2026-06-15T11:26:10.099Z",
+    "hwid": "5826080544-C6B9312E-1650-4DDA-9488-CEEC2BEEB19D",
+    "browserHwid": null,
+    "username": "x4nny08",
+    "userId": "5826080544",
+    "source": "script",
+    "createdAt": "2026-06-14T11:26:10.552Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.183.140",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
