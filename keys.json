@@ -4760,7 +4760,7 @@
     "userId": "11077106555",
     "source": "script",
     "createdAt": "2026-06-13T19:28:09.867Z",
-    "lastUsed": "2026-06-13T19:29:55.335Z",
+    "lastUsed": "2026-06-14T07:16:35.642Z",
     "geo": {
       "ip": "112.215.236.144",
       "city": "Bekasi",
@@ -4769,9 +4769,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "112.215.236.144",
-      "city": "Bekasi",
-      "region": "West Java",
+      "ip": "157.10.97.237",
+      "city": "Palembang",
+      "region": "South Sumatra",
       "country": "Indonesia",
       "cc": "ID"
     }
