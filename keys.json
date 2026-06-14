@@ -4943,5 +4943,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D26BF5-97626E-44DDA7": {
+    "expires": "2026-06-15T13:44:36.081Z",
+    "hwid": "8671159031-39569833-A7B2-481A-A57F-0FA8F59111BE",
+    "browserHwid": null,
+    "username": "faintoyo",
+    "userId": "8671159031",
+    "source": "script",
+    "createdAt": "2026-06-14T13:44:36.469Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.219.163.133",
+      "city": "Durban",
+      "region": "KwaZulu-Natal",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
