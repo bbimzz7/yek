@@ -4847,5 +4847,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-69C19D-769267-34B01E": {
+    "expires": "2026-06-15T07:44:21.202Z",
+    "hwid": "1543996251-7831BB34-4C2A-4A61-966F-E5A4426A5323",
+    "browserHwid": null,
+    "username": "the_ReiZ0",
+    "userId": "1543996251",
+    "source": "script",
+    "createdAt": "2026-06-14T07:44:21.623Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.253.186.21",
+      "city": "Mersin",
+      "region": "Mersin",
+      "country": "Turkey",
+      "cc": "TR"
+    }
   }
 }
