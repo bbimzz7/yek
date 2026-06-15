@@ -5145,5 +5145,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-D81BEA-CA03D0-4B40DE": {
+    "expires": "2026-06-16T09:05:04.862Z",
+    "hwid": "9818796567-8b9b9bcb-9ff5-4241-a17b-c1d0ba8562ee",
+    "browserHwid": null,
+    "username": "lorr211gamilcom12",
+    "userId": "9818796567",
+    "source": "script",
+    "createdAt": "2026-06-15T09:05:05.469Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.56.111",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
