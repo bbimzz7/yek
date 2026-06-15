@@ -5128,5 +5128,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6550AF-691868-C5255C": {
+    "expires": "2026-06-16T02:25:48.438Z",
+    "hwid": "9179120027-141dfade-ce46-407c-9e4f-36dd977392db",
+    "browserHwid": null,
+    "username": "erwin91182",
+    "userId": "9179120027",
+    "source": "script",
+    "createdAt": "2026-06-15T02:25:48.817Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.6.61.2",
+      "city": "Santo Domingo",
+      "region": "Nacional",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
