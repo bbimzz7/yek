@@ -5226,8 +5226,15 @@
     "userId": "11117716893",
     "source": "script",
     "createdAt": "2026-06-15T17:57:41.749Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-15T17:57:55.217Z",
     "geo": {
+      "ip": "180.252.92.57",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.252.92.57",
       "city": "Bogor",
       "region": "West Java",
