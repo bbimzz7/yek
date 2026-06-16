@@ -5361,5 +5361,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-FF9F57-9B2413-70A438": {
+    "expires": "2026-06-17T14:06:49.519Z",
+    "hwid": "8859097519-1962f031-fc8a-40e3-a828-aea06e903a84",
+    "browserHwid": null,
+    "username": "Seraphic1616",
+    "userId": "8859097519",
+    "source": "script",
+    "createdAt": "2026-06-16T14:06:49.812Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.1.142",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
