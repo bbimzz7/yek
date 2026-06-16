@@ -5418,8 +5418,15 @@
     "userId": "9179120027",
     "source": "script",
     "createdAt": "2026-06-16T19:09:57.160Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-16T19:10:53.203Z",
     "geo": {
+      "ip": "186.6.61.2",
+      "city": "Santo Domingo",
+      "region": "Nacional",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    },
+    "lastGeo": {
       "ip": "186.6.61.2",
       "city": "Santo Domingo",
       "region": "Nacional",
