@@ -5385,5 +5385,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2D8DF8-063778-C000E1": {
+    "expires": "2026-06-17T14:14:43.698Z",
+    "hwid": "567780656-4b76fc7e-c167-436e-a5b6-9ade3be1f45a",
+    "browserHwid": null,
+    "username": "Zack_QAS",
+    "userId": "567780656",
+    "source": "script",
+    "createdAt": "2026-06-16T14:14:44.213Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.70.236",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
