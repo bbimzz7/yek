@@ -5337,5 +5337,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F7CDA7-7E23D4-5028FC": {
+    "expires": "2026-06-17T14:03:09.128Z",
+    "hwid": "10535264293-60df4267-0f7b-4264-8ade-6c32126c269d",
+    "browserHwid": null,
+    "username": "zonsieubeo",
+    "userId": "10535264293",
+    "source": "script",
+    "createdAt": "2026-06-16T14:03:09.658Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.99.249.135",
+      "city": "Bến Thủy",
+      "region": "Nghệ An Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
