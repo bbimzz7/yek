@@ -5433,5 +5433,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-A274F8-D5724E-2DB78C": {
+    "expires": "2026-06-17T22:27:22.871Z",
+    "hwid": "10312095511-a0c301d8-9378-4a10-a183-6614c7d131ed",
+    "browserHwid": null,
+    "username": "m4f733",
+    "userId": "10312095511",
+    "source": "script",
+    "createdAt": "2026-06-16T22:27:23.289Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.190.47.123",
+      "city": "Karyadharma",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
