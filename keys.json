@@ -5682,8 +5682,15 @@
     "userId": "8548971915",
     "source": "script",
     "createdAt": "2026-06-17T16:43:05.090Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-17T16:43:49.561Z",
     "geo": {
+      "ip": "180.248.246.114",
+      "city": "Kota Singkawang",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.248.246.114",
       "city": "Kota Singkawang",
       "region": "West Kalimantan",
