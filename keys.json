@@ -5658,8 +5658,15 @@
     "userId": "9315253255",
     "source": "script",
     "createdAt": "2026-06-17T15:00:17.104Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-17T15:02:25.754Z",
     "geo": {
+      "ip": "110.137.82.130",
+      "city": "Payakumbuh",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "110.137.82.130",
       "city": "Payakumbuh",
       "region": "West Sumatra",
