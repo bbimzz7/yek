@@ -5673,5 +5673,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-419534-712900-15C7EA": {
+    "expires": "2026-06-18T16:43:04.602Z",
+    "hwid": "8548971915-bf348cee-a642-4aa1-9c61-de9f9e28557b",
+    "browserHwid": null,
+    "username": "Vinzz_V3",
+    "userId": "8548971915",
+    "source": "script",
+    "createdAt": "2026-06-17T16:43:05.090Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.248.246.114",
+      "city": "Kota Singkawang",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
