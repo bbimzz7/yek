@@ -5745,5 +5745,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AD26D7-E75E7F-ABB567": {
+    "expires": "2026-06-18T20:37:52.614Z",
+    "hwid": "8644858286-01f9b88f-7dc0-4c84-bbe0-f9421d57061c",
+    "browserHwid": null,
+    "username": "Wanzzzz215",
+    "userId": "8644858286",
+    "source": "script",
+    "createdAt": "2026-06-17T20:37:53.074Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.5.238.225",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
