@@ -5778,8 +5778,15 @@
     "userId": "2816405360",
     "source": "script",
     "createdAt": "2026-06-17T23:33:56.500Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-17T23:34:40.750Z",
     "geo": {
+      "ip": "103.97.140.116",
+      "city": "Gunungbitung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.97.140.116",
       "city": "Gunungbitung",
       "region": "West Java",
