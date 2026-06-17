@@ -5562,7 +5562,7 @@
     "userId": "9251577250",
     "source": "script",
     "createdAt": "2026-06-17T08:04:13.152Z",
-    "lastUsed": "2026-06-17T08:04:25.378Z",
+    "lastUsed": "2026-06-17T08:07:24.597Z",
     "geo": {
       "ip": "140.213.31.30",
       "city": "South Tangerang",
@@ -5571,7 +5571,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.31.30",
+      "ip": "140.213.21.95",
       "city": "South Tangerang",
       "region": "Banten",
       "country": "Indonesia",
