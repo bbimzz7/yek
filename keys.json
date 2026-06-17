@@ -5481,5 +5481,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-36E370-48819D-5470D9": {
+    "expires": "2026-06-18T05:04:50.894Z",
+    "hwid": "7480504453-f5246038-ed3c-4147-bdf8-57cbbe5af42c",
+    "browserHwid": null,
+    "username": "HEROBRINERM100",
+    "userId": "7480504453",
+    "source": "script",
+    "createdAt": "2026-06-17T05:04:51.351Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.210.90.134",
+      "city": "Tawau",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
