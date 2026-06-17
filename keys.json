@@ -5769,5 +5769,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C09914-06F4AD-71B0D5": {
+    "expires": "2026-06-18T23:33:56.078Z",
+    "hwid": "2816405360-cc323fe5-be93-4eb9-9e47-916a49239a26",
+    "browserHwid": null,
+    "username": "KanZutAkuBedarah",
+    "userId": "2816405360",
+    "source": "script",
+    "createdAt": "2026-06-17T23:33:56.500Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.97.140.116",
+      "city": "Gunungbitung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
