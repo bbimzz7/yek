@@ -5721,5 +5721,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DF70D9-6E5082-0A20C3": {
+    "expires": "2026-06-18T19:18:26.976Z",
+    "hwid": "11130010926-dd3c6624-573d-45ca-8d9b-2638b129c067",
+    "browserHwid": null,
+    "username": "DONATURIZIN",
+    "userId": "11130010926",
+    "source": "script",
+    "createdAt": "2026-06-17T19:18:27.532Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.38.41",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
