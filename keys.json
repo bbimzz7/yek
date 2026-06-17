@@ -5457,5 +5457,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F91CCF-8D8E9A-D11B83": {
+    "expires": "2026-06-18T01:57:16.786Z",
+    "hwid": "4206129366-dee87b67-eb21-4ef8-88e9-6ebb0e2c706b",
+    "browserHwid": null,
+    "username": "RealMdarid123",
+    "userId": "4206129366",
+    "source": "script",
+    "createdAt": "2026-06-17T01:57:17.230Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.182.82",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
