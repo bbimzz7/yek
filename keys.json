@@ -5649,5 +5649,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0D6C9C-AA44ED-2C2981": {
+    "expires": "2026-06-18T15:00:15.990Z",
+    "hwid": "9315253255-a35f3b5c-2ad2-48df-9054-a9782e358949",
+    "browserHwid": null,
+    "username": "lilid12330",
+    "userId": "9315253255",
+    "source": "script",
+    "createdAt": "2026-06-17T15:00:17.104Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.82.130",
+      "city": "Payakumbuh",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
