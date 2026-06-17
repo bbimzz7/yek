@@ -5505,5 +5505,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-5A0716-0DC395-C049A8": {
+    "expires": "2026-06-18T06:37:43.900Z",
+    "hwid": "10404851899-4f6c2dc8-ae2c-4f02-946b-22a22aa9339e",
+    "browserHwid": null,
+    "username": "Majumajumaju40",
+    "userId": "10404851899",
+    "source": "script",
+    "createdAt": "2026-06-17T06:37:44.367Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.5.241.111",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
