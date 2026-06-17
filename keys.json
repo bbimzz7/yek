@@ -5601,5 +5601,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1A3D79-ACD686-778D98": {
+    "expires": "2026-06-18T09:29:05.839Z",
+    "hwid": "6002310268-9c588774-0c2b-4934-aeb7-bda2a9ac7f66",
+    "browserHwid": null,
+    "username": "Synphax_YTB",
+    "userId": "6002310268",
+    "source": "script",
+    "createdAt": "2026-06-17T09:29:06.286Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.129.28",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
