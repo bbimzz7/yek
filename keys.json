@@ -5610,8 +5610,15 @@
     "userId": "6002310268",
     "source": "script",
     "createdAt": "2026-06-17T09:29:06.286Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-17T09:29:14.245Z",
     "geo": {
+      "ip": "182.10.129.28",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.10.129.28",
       "city": "Bandung",
       "region": "West Java",
