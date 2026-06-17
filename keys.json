@@ -5529,5 +5529,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-33209B-AD1066-8452CC": {
+    "expires": "2026-06-18T08:02:27.077Z",
+    "hwid": "2591181671-f33ab6a9-5364-4ae6-91d6-d3e46c59f538",
+    "browserHwid": null,
+    "username": "Andrexnano",
+    "userId": "2591181671",
+    "source": "script",
+    "createdAt": "2026-06-17T08:02:27.566Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.225.78.193",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
