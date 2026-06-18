@@ -5985,5 +5985,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-95F680-D86572-BDE2F1": {
+    "expires": "2026-06-19T08:24:23.932Z",
+    "hwid": "11132636576-29D6A5C9-71F2-45E9-A0D2-152573066625",
+    "browserHwid": null,
+    "username": "Pav1ik03",
+    "userId": "11132636576",
+    "source": "script",
+    "createdAt": "2026-06-18T08:24:24.386Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.214.57.82",
+      "city": "Minsk",
+      "region": "Minsk City",
+      "country": "Belarus",
+      "cc": "BY"
+    }
   }
 }
