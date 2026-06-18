@@ -6153,5 +6153,22 @@
       "country": "Belarus",
       "cc": "BY"
     }
+  },
+  "VH-56ACD4-6BC51C-31600E": {
+    "expires": "2026-06-19T16:14:08.586Z",
+    "hwid": "11132636576-013A1032-9684-4028-BC3B-8F4AB0BF250C",
+    "browserHwid": null,
+    "username": "Pav1ik03",
+    "userId": "11132636576",
+    "source": "script",
+    "createdAt": "2026-06-18T16:14:09.091Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.214.57.82",
+      "city": "Minsk",
+      "region": "Minsk City",
+      "country": "Belarus",
+      "cc": "BY"
+    }
   }
 }
