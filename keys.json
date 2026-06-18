@@ -6018,8 +6018,15 @@
     "userId": "8724163898",
     "source": "script",
     "createdAt": "2026-06-18T10:42:05.565Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-18T10:42:15.795Z",
     "geo": {
+      "ip": "209.198.157.160",
+      "city": "Oslo",
+      "region": "Oslo County",
+      "country": "Norway",
+      "cc": "NO"
+    },
+    "lastGeo": {
       "ip": "209.198.157.160",
       "city": "Oslo",
       "region": "Oslo County",
