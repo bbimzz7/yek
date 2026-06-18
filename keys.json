@@ -6057,5 +6057,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-213E25-91D2F8-629D10": {
+    "expires": "2026-06-19T11:59:53.822Z",
+    "hwid": "9109687789-D82E985C-79CC-45C5-866C-20F743CB71C0",
+    "browserHwid": null,
+    "username": "tochdetock",
+    "userId": "9109687789",
+    "source": "script",
+    "createdAt": "2026-06-18T11:59:54.297Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.69.6.181",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
