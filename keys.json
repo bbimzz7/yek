@@ -6266,5 +6266,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-44E83F-C9F2C1-773215": {
+    "expires": "2026-06-19T20:11:05.083Z",
+    "hwid": "9525265761-459a40ef-070a-42a7-92c2-7b65a883653e",
+    "browserHwid": null,
+    "username": "rankjguu2267",
+    "userId": "9525265761",
+    "source": "script",
+    "createdAt": "2026-06-18T20:11:05.585Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.254.97.146",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
