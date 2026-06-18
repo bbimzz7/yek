@@ -6249,5 +6249,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B5190A-64B401-DA62F0": {
+    "expires": "2026-06-19T18:26:33.279Z",
+    "hwid": "11008701607-66424f7c-8c96-40c9-86dd-7048f0b0fa11",
+    "browserHwid": null,
+    "username": "Azewqigk",
+    "userId": "11008701607",
+    "source": "script",
+    "createdAt": "2026-06-18T18:26:33.738Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "164.52.81.34",
+      "city": "New York",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
