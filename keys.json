@@ -6009,5 +6009,22 @@
       "country": "Belarus",
       "cc": "BY"
     }
+  },
+  "VH-B76E21-09A3C6-BD3B7C": {
+    "expires": "2026-06-19T10:42:05.104Z",
+    "hwid": "8724163898-39557EA5-D0A3-402D-9088-E0EF85EFD8B1",
+    "browserHwid": null,
+    "username": "deedddy21345",
+    "userId": "8724163898",
+    "source": "script",
+    "createdAt": "2026-06-18T10:42:05.565Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "209.198.157.160",
+      "city": "Oslo",
+      "region": "Oslo County",
+      "country": "Norway",
+      "cc": "NO"
+    }
   }
 }
