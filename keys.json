@@ -6290,5 +6290,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-919344-32CD5D-DCDA52": {
+    "expires": "2026-06-19T20:36:34.276Z",
+    "hwid": "11132788384-563e522f-ad89-431e-99ee-e11aed37de9c",
+    "browserHwid": null,
+    "username": "Bizx368",
+    "userId": "11132788384",
+    "source": "script",
+    "createdAt": "2026-06-18T20:36:34.785Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.211.107.122",
+      "city": "Pekalongan",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
