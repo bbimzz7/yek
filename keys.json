@@ -6162,8 +6162,15 @@
     "userId": "11132636576",
     "source": "script",
     "createdAt": "2026-06-18T16:14:09.091Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-18T16:14:16.514Z",
     "geo": {
+      "ip": "37.214.57.82",
+      "city": "Minsk",
+      "region": "Minsk City",
+      "country": "Belarus",
+      "cc": "BY"
+    },
+    "lastGeo": {
       "ip": "37.214.57.82",
       "city": "Minsk",
       "region": "Minsk City",
