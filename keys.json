@@ -6299,8 +6299,15 @@
     "userId": "11132788384",
     "source": "script",
     "createdAt": "2026-06-18T20:36:34.785Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-18T20:37:28.184Z",
     "geo": {
+      "ip": "103.211.107.122",
+      "city": "Pekalongan",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.211.107.122",
       "city": "Pekalongan",
       "region": "Lampung",
