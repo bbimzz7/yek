@@ -6225,5 +6225,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-2DC357-CFD352-642287": {
+    "expires": "2026-06-19T17:15:32.128Z",
+    "hwid": "8978281302-c283992c-f985-474c-95e5-49efb538e765",
+    "browserHwid": null,
+    "username": "kay3Tp",
+    "userId": "8978281302",
+    "source": "script",
+    "createdAt": "2026-06-18T17:15:32.661Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.135.91",
+      "city": "Jeneponto",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
