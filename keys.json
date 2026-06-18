@@ -5922,8 +5922,15 @@
     "userId": "7766445355",
     "source": "script",
     "createdAt": "2026-06-18T06:44:16.102Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-18T06:46:08.341Z",
     "geo": {
+      "ip": "149.27.117.236",
+      "city": "Shymkent",
+      "region": "Shymkent",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "149.27.117.236",
       "city": "Shymkent",
       "region": "Shymkent",
