@@ -6203,8 +6203,15 @@
     "userId": "11025332384",
     "source": "script",
     "createdAt": "2026-06-18T17:01:20.912Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-18T17:03:00.359Z",
     "geo": {
+      "ip": "103.14.27.29",
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "103.14.27.29",
       "city": "São Paulo",
       "region": "São Paulo",
