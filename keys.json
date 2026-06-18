@@ -5970,8 +5970,15 @@
     "userId": "5345494160",
     "source": "script",
     "createdAt": "2026-06-18T08:10:51.985Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-18T08:10:59.223Z",
     "geo": {
+      "ip": "101.128.96.163",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "101.128.96.163",
       "city": "Denpasar",
       "region": "Bali",
