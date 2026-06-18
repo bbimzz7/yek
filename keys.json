@@ -6177,5 +6177,22 @@
       "country": "Belarus",
       "cc": "BY"
     }
+  },
+  "VH-9EA12E-11A6EC-67408F": {
+    "expires": "2026-06-19T16:55:56.864Z",
+    "hwid": "10510803609-a1bfa63d-e0b2-4d6c-a86f-f447e21ad4f7",
+    "browserHwid": null,
+    "username": "REVVDRAGON202",
+    "userId": "10510803609",
+    "source": "script",
+    "createdAt": "2026-06-18T16:55:57.317Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.222.207",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
