@@ -5946,8 +5946,15 @@
     "userId": "11122249581",
     "source": "script",
     "createdAt": "2026-06-18T07:30:37.431Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-18T07:30:46.969Z",
     "geo": {
+      "ip": "103.185.43.207",
+      "city": "Prigen",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.185.43.207",
       "city": "Prigen",
       "region": "East Java",
