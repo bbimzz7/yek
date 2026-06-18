@@ -6066,8 +6066,15 @@
     "userId": "9109687789",
     "source": "script",
     "createdAt": "2026-06-18T11:59:54.297Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-18T12:00:03.395Z",
     "geo": {
+      "ip": "36.69.6.181",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.69.6.181",
       "city": "Pekanbaru",
       "region": "Riau",
