@@ -5865,5 +5865,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-958FFF-C91A9B-A0CC74": {
+    "expires": "2026-06-19T04:47:08.888Z",
+    "hwid": "5036562861-666925a3-703c-408f-9a5b-30ebfa75fdbe",
+    "browserHwid": null,
+    "username": "Zerpyrd",
+    "userId": "5036562861",
+    "source": "script",
+    "createdAt": "2026-06-18T04:47:09.310Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.4.177",
+      "city": "Kota Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
