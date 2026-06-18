@@ -5841,5 +5841,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-86FB31-7F188B-74D402": {
+    "expires": "2026-06-19T04:23:52.256Z",
+    "hwid": "11044023919-7d5d590b-6d43-459b-ab23-4d9b930580b2",
+    "browserHwid": null,
+    "username": "komik_8230",
+    "userId": "11044023919",
+    "source": "script",
+    "createdAt": "2026-06-18T04:23:52.630Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.128.99.87",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
