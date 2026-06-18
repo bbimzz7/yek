@@ -5937,5 +5937,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-6AC2C0-13B289-69D51A": {
+    "expires": "2026-06-19T07:30:36.997Z",
+    "hwid": "11122249581-b21f51c9-c673-4c0c-a14d-8ac0b803b679",
+    "browserHwid": null,
+    "username": "AITUHH67",
+    "userId": "11122249581",
+    "source": "script",
+    "createdAt": "2026-06-18T07:30:37.431Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.185.43.207",
+      "city": "Prigen",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
