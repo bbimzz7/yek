@@ -6441,5 +6441,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2C2414-DD2E18-790AFD": {
+    "expires": "2026-06-20T14:10:52.266Z",
+    "hwid": "7498148556-7f6e68d2-45ca-4b8e-88d0-1650e48ba425",
+    "browserHwid": null,
+    "username": "ANTI_JONATH",
+    "userId": "7498148556",
+    "source": "script",
+    "createdAt": "2026-06-19T14:10:52.905Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.3.89",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
