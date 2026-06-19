@@ -6546,8 +6546,15 @@
     "userId": "8916802643",
     "source": "script",
     "createdAt": "2026-06-19T18:33:29.007Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-19T18:33:40.718Z",
     "geo": {
+      "ip": "103.172.71.113",
+      "city": "Karawang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.172.71.113",
       "city": "Karawang",
       "region": "West Java",
