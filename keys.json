@@ -6323,8 +6323,15 @@
     "userId": "4045548646",
     "source": "script",
     "createdAt": "2026-06-19T04:20:36.276Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-19T04:20:53.793Z",
     "geo": {
+      "ip": "112.198.134.240",
+      "city": "Nasugbu",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.198.134.240",
       "city": "Nasugbu",
       "region": "Calabarzon",
