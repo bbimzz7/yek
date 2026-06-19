@@ -6474,8 +6474,15 @@
     "userId": "10952502761",
     "source": "script",
     "createdAt": "2026-06-19T16:13:48.404Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-19T16:15:18.632Z",
     "geo": {
+      "ip": "181.225.101.50",
+      "city": "Bogotá",
+      "region": "Bogota D.C.",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
       "ip": "181.225.101.50",
       "city": "Bogotá",
       "region": "Bogota D.C.",
