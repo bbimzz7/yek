@@ -6465,5 +6465,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5A5186-6CC0B7-AED91B": {
+    "expires": "2026-06-20T16:13:47.941Z",
+    "hwid": "10952502761-e11ad2d6-5a4b-464b-b67b-172c77f2d3c9",
+    "browserHwid": null,
+    "username": "carlos00185t567",
+    "userId": "10952502761",
+    "source": "script",
+    "createdAt": "2026-06-19T16:13:48.404Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.225.101.50",
+      "city": "Bogotá",
+      "region": "Bogota D.C.",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
