@@ -6417,5 +6417,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-44F213-9E9552-5EE0FD": {
+    "expires": "2026-06-20T11:41:45.123Z",
+    "hwid": "8859097519-1962f031-fc8a-40e3-a828-aea06e903a84",
+    "browserHwid": null,
+    "username": "Seraphic1616",
+    "userId": "8859097519",
+    "source": "script",
+    "createdAt": "2026-06-19T11:41:45.614Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.79.1.42",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
