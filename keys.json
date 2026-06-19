@@ -6362,5 +6362,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0BE6B2-3F74F1-7A2397": {
+    "expires": "2026-06-20T07:51:38.213Z",
+    "hwid": "7336488818-6ee9f58e-bf31-497a-aaa4-422319699842",
+    "browserHwid": null,
+    "username": "notdle9",
+    "userId": "7336488818",
+    "source": "script",
+    "createdAt": "2026-06-19T07:51:38.647Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.181.255.215",
+      "city": "Mranggen",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
