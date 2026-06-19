@@ -6585,5 +6585,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-12F1CA-5F24D1-8EFBDF": {
+    "expires": "2026-06-20T19:13:52.524Z",
+    "hwid": "11075812644-ac172be7-6acf-47fc-86be-b14a2a47d118",
+    "browserHwid": null,
+    "username": "lutuuungv2",
+    "userId": "11075812644",
+    "source": "script",
+    "createdAt": "2026-06-19T19:13:52.969Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "163.128.198.6",
+      "city": "Serpong",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
