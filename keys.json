@@ -6570,8 +6570,15 @@
     "userId": "10657032416",
     "source": "script",
     "createdAt": "2026-06-19T18:37:13.814Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-19T18:37:28.178Z",
     "geo": {
+      "ip": "118.96.47.199",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "118.96.47.199",
       "city": "Bekasi",
       "region": "West Java",
