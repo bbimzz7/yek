@@ -6594,8 +6594,15 @@
     "userId": "11075812644",
     "source": "script",
     "createdAt": "2026-06-19T19:13:52.969Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-19T19:15:12.545Z",
     "geo": {
+      "ip": "163.128.198.6",
+      "city": "Serpong",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "163.128.198.6",
       "city": "Serpong",
       "region": "West Java",
