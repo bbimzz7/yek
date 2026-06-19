@@ -6258,13 +6258,20 @@
     "userId": "11008701607",
     "source": "script",
     "createdAt": "2026-06-18T18:26:33.738Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-19T08:11:11.665Z",
     "geo": {
       "ip": "164.52.81.34",
       "city": "New York",
       "region": "New York",
       "country": "United States",
       "cc": "US"
+    },
+    "lastGeo": {
+      "ip": "109.252.217.196",
+      "city": "Reutov",
+      "region": "Moscow Oblast",
+      "country": "Russia",
+      "cc": "RU"
     }
   },
   "VH-44E83F-C9F2C1-773215": {
