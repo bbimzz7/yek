@@ -6753,5 +6753,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EDA0F0-A20003-165ABF": {
+    "expires": "2026-06-21T15:23:06.670Z",
+    "hwid": "11100526357-601a80bb-21fc-45cc-8f26-c45a707d1974",
+    "browserHwid": null,
+    "username": "kvnzkcz",
+    "userId": "11100526357",
+    "source": "script",
+    "createdAt": "2026-06-20T15:23:07.109Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.144.18.77",
+      "city": "Gambiran Wetan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
