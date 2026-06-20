@@ -6859,5 +6859,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-4D6D30-992C1B-E7987F": {
+    "expires": "2026-06-21T19:02:32.487Z",
+    "hwid": null,
+    "browserHwid": "BR-0C29D703-VRZUV",
+    "username": "w3kendnx",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-06-20T19:02:32.980Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "213.230.112.52",
+      "city": "Tashkent",
+      "region": "Tashkent",
+      "country": "Uzbekistan",
+      "cc": "UZ"
+    }
   }
 }
