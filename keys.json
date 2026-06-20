@@ -6801,5 +6801,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-5CB62E-427887-361686": {
+    "expires": "2026-06-21T16:13:00.720Z",
+    "hwid": "5738085776-18cc5858-c08f-4ad5-bb20-090df99dbe0d",
+    "browserHwid": null,
+    "username": "Rip_bot3440",
+    "userId": "5738085776",
+    "source": "script",
+    "createdAt": "2026-06-20T16:13:01.146Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.167.56.114",
+      "city": "Kota Jambi",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
