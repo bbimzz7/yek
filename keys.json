@@ -6842,5 +6842,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-741596-9215E3-D4048F": {
+    "expires": "2026-06-21T18:16:23.313Z",
+    "hwid": null,
+    "browserHwid": "BR-101B85E8-MBJD3",
+    "username": "BR-101B85E8-MBJD3",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-06-20T18:16:23.547Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.174.154.14",
+      "city": "Buritis",
+      "region": "Rondônia",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
