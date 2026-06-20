@@ -6810,8 +6810,15 @@
     "userId": "5738085776",
     "source": "script",
     "createdAt": "2026-06-20T16:13:01.146Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-20T16:13:19.787Z",
     "geo": {
+      "ip": "125.167.56.114",
+      "city": "Kota Jambi",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.167.56.114",
       "city": "Kota Jambi",
       "region": "Jambi",
