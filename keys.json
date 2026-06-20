@@ -6933,7 +6933,7 @@
     "userId": "10704085721",
     "source": "script",
     "createdAt": "2026-06-20T22:06:31.592Z",
-    "lastUsed": "2026-06-20T22:07:20.673Z",
+    "lastUsed": "2026-06-20T22:20:31.274Z",
     "geo": {
       "ip": "140.213.187.147",
       "city": "Surabaya",
@@ -6942,7 +6942,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.187.147",
+      "ip": "157.85.221.81",
       "city": "Surabaya",
       "region": "East Java",
       "country": "Indonesia",
