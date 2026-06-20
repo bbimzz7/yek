@@ -6876,5 +6876,22 @@
       "country": "Uzbekistan",
       "cc": "UZ"
     }
+  },
+  "VH-DD1AC3-B5E02B-71CE7B": {
+    "expires": "2026-06-21T19:03:05.588Z",
+    "hwid": "10867863962-DEB5855E-1B28-4AB6-BF74-E3B8EAFC8EFE",
+    "browserHwid": null,
+    "username": "W3KENDvq",
+    "userId": "10867863962",
+    "source": "script",
+    "createdAt": "2026-06-20T19:03:05.814Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "213.230.112.52",
+      "city": "Tashkent",
+      "region": "Tashkent",
+      "country": "Uzbekistan",
+      "cc": "UZ"
+    }
   }
 }
