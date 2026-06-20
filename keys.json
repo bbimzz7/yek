@@ -6825,5 +6825,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-621E57-172EDB-2EE2E8": {
+    "expires": "2026-06-21T18:16:12.240Z",
+    "hwid": "11067232218-9e2248fb-699c-4563-a11d-a57daa786030",
+    "browserHwid": null,
+    "username": "valdiron72",
+    "userId": "11067232218",
+    "source": "script",
+    "createdAt": "2026-06-20T18:16:12.732Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.174.154.14",
+      "city": "Buritis",
+      "region": "Rondônia",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
