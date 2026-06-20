@@ -6681,5 +6681,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2783A9-710E8C-C55E61": {
+    "expires": "2026-06-21T09:49:23.798Z",
+    "hwid": "8285797071-776424b1-2f11-4bdc-8c80-fe11562aa37f",
+    "browserHwid": null,
+    "username": "jedennn7",
+    "userId": "8285797071",
+    "source": "script",
+    "createdAt": "2026-06-20T09:49:24.153Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.251.40.28",
+      "city": "Batulicin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
