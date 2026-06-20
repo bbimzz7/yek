@@ -6618,8 +6618,15 @@
     "userId": "9041478355",
     "source": "script",
     "createdAt": "2026-06-20T02:16:13.568Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-20T02:16:53.119Z",
     "geo": {
+      "ip": "182.3.101.165",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.3.101.165",
       "city": "Bandar Lampung",
       "region": "Lampung",
