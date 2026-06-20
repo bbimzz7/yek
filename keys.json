@@ -6738,8 +6738,15 @@
     "userId": "8676910115",
     "source": "script",
     "createdAt": "2026-06-20T13:35:52.189Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-20T13:36:02.504Z",
     "geo": {
+      "ip": "114.10.95.78",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.95.78",
       "city": "Padang",
       "region": "West Sumatra",
