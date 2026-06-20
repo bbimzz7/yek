@@ -6777,5 +6777,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FCF71C-8BC610-01261A": {
+    "expires": "2026-06-21T16:06:32.492Z",
+    "hwid": "10971417242-a3ae63b5-8fde-4930-bf3e-a5739069b449",
+    "browserHwid": null,
+    "username": "Azaksih",
+    "userId": "10971417242",
+    "source": "script",
+    "createdAt": "2026-06-20T16:06:32.901Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.245.139",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
