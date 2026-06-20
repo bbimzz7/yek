@@ -6900,5 +6900,22 @@
       "country": "Uzbekistan",
       "cc": "UZ"
     }
+  },
+  "VH-8D4FAF-E9CD3F-F1D1E2": {
+    "expires": "2026-06-21T22:05:11.131Z",
+    "hwid": "5736407502-BDA9F8D8-92B0-407F-9B97-8F73BAC7F4B2",
+    "browserHwid": null,
+    "username": "AutoGoal4",
+    "userId": "5736407502",
+    "source": "script",
+    "createdAt": "2026-06-20T22:05:11.571Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.70.105.90",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
