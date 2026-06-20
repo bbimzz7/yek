@@ -6885,8 +6885,15 @@
     "userId": "10867863962",
     "source": "script",
     "createdAt": "2026-06-20T19:03:05.814Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-20T19:03:12.454Z",
     "geo": {
+      "ip": "213.230.112.52",
+      "city": "Tashkent",
+      "region": "Tashkent",
+      "country": "Uzbekistan",
+      "cc": "UZ"
+    },
+    "lastGeo": {
       "ip": "213.230.112.52",
       "city": "Tashkent",
       "region": "Tashkent",
