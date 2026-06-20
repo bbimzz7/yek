@@ -6762,8 +6762,15 @@
     "userId": "11100526357",
     "source": "script",
     "createdAt": "2026-06-20T15:23:07.109Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-20T15:24:11.653Z",
     "geo": {
+      "ip": "103.144.18.77",
+      "city": "Gambiran Wetan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.144.18.77",
       "city": "Gambiran Wetan",
       "region": "East Java",
