@@ -7181,5 +7181,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-11DB21-B490ED-064FC1": {
+    "expires": "2026-06-22T16:58:55.947Z",
+    "hwid": "8980518132-c146c3b9-87f3-44f1-a7f7-c70ebdfd3a23",
+    "browserHwid": null,
+    "username": "ZyZaq25",
+    "userId": "8980518132",
+    "source": "script",
+    "createdAt": "2026-06-21T16:58:56.420Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.88.78",
+      "city": "Pancur Biru Lestari II",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
