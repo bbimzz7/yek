@@ -7253,5 +7253,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2B644D-FA1790-5F8D9D": {
+    "expires": "2026-06-22T23:34:10.179Z",
+    "hwid": "6213990873-E1E5D322-31CD-4DD6-8CE9-E845DCD1B815",
+    "browserHwid": null,
+    "username": "Kedi50_50",
+    "userId": "6213990873",
+    "source": "script",
+    "createdAt": "2026-06-21T23:34:10.590Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.118.178.14",
+      "city": "Istanbul",
+      "region": "Istanbul",
+      "country": "Türkiye",
+      "cc": "TR"
+    }
   }
 }
