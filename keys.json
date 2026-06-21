@@ -6972,5 +6972,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C53439-32B45B-24768B": {
+    "expires": "2026-06-22T04:47:35.709Z",
+    "hwid": "10780077585-7ba26513-9065-47e4-a786-65c245f43aaa",
+    "browserHwid": null,
+    "username": "JuuilienNthebackbone",
+    "userId": "10780077585",
+    "source": "script",
+    "createdAt": "2026-06-21T04:47:36.092Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.163.101",
+      "city": "Banjar Pemangkalan",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
