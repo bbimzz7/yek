@@ -7229,5 +7229,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-184A46-052AEE-BEE0F3": {
+    "expires": "2026-06-22T22:18:47.157Z",
+    "hwid": "10629432533-beebad94-c17f-42d0-a862-f7987043f629",
+    "browserHwid": null,
+    "username": "kenxpl123",
+    "userId": "10629432533",
+    "source": "script",
+    "createdAt": "2026-06-21T22:18:47.617Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.138.92.45",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
