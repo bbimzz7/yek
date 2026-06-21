@@ -7190,11 +7190,18 @@
     "userId": "8980518132",
     "source": "script",
     "createdAt": "2026-06-21T16:58:56.420Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-21T16:59:03.105Z",
     "geo": {
       "ip": "103.186.88.78",
       "city": "Pancur Biru Lestari II",
       "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "36.68.250.216",
+      "city": "Batam",
+      "region": "Riau",
       "country": "Indonesia",
       "cc": "ID"
     }
