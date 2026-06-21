@@ -7238,8 +7238,15 @@
     "userId": "10629432533",
     "source": "script",
     "createdAt": "2026-06-21T22:18:47.617Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-21T22:19:13.717Z",
     "geo": {
+      "ip": "110.138.92.45",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "110.138.92.45",
       "city": "East Jakarta",
       "region": "Jakarta",
