@@ -7486,5 +7486,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-4CAB82-5BA737-13B603": {
+    "expires": "2026-06-23T22:05:45.893Z",
+    "hwid": "9993783992-82d0c122-0657-4fa1-96ee-9d56bc066019",
+    "browserHwid": null,
+    "username": "TheGoodBoy071",
+    "userId": "9993783992",
+    "source": "script",
+    "createdAt": "2026-06-22T22:05:46.378Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.216.241",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
