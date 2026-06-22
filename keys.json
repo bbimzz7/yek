@@ -7510,5 +7510,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DF8FC7-D03AC4-FAAD5E": {
+    "expires": "2026-06-23T23:18:54.697Z",
+    "hwid": "8289820432-beb0337b-94af-4c2f-ba4e-a5203a152dcc",
+    "browserHwid": null,
+    "username": "PyYe_01",
+    "userId": "8289820432",
+    "source": "script",
+    "createdAt": "2026-06-22T23:18:55.230Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.242.196.187",
+      "city": "Kota Batam",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
