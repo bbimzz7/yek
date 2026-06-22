@@ -7462,5 +7462,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7238EE-0437E6-73540E": {
+    "expires": "2026-06-23T19:51:18.514Z",
+    "hwid": "10942520667-0829191d-c810-4ad7-bf46-552cbd3f1bed",
+    "browserHwid": null,
+    "username": "dkfkskf1w",
+    "userId": "10942520667",
+    "source": "script",
+    "createdAt": "2026-06-22T19:51:19.008Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.24.61.212",
+      "city": "Erbil",
+      "region": "Erbil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
