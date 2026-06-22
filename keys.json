@@ -7430,8 +7430,15 @@
     "userId": "10902848022",
     "source": "script",
     "createdAt": "2026-06-22T19:06:05.353Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-22T19:07:42.257Z",
     "geo": {
+      "ip": "140.213.17.54",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "140.213.17.54",
       "city": "Medan",
       "region": "North Sumatra",
