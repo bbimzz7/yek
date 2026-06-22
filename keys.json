@@ -7349,5 +7349,22 @@
       "country": "Hungary",
       "cc": "HU"
     }
+  },
+  "VH-5369B3-FBD1F3-38DEF2": {
+    "expires": "2026-06-23T16:27:23.436Z",
+    "hwid": "11126658356-b1e55e93-d1b1-4817-a364-62109cc5d401",
+    "browserHwid": null,
+    "username": "f1s0_1",
+    "userId": "11126658356",
+    "source": "script",
+    "createdAt": "2026-06-22T16:27:23.841Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.104.181",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
