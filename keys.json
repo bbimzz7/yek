@@ -7301,5 +7301,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0B9B46-C50FA1-023160": {
+    "expires": "2026-06-23T09:05:12.771Z",
+    "hwid": "1845251276-983AC44F-D5AD-4358-A797-D6FB5ED838A9",
+    "browserHwid": null,
+    "username": "sIayer32o",
+    "userId": "1845251276",
+    "source": "script",
+    "createdAt": "2026-06-22T09:05:13.335Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "69.94.81.36",
+      "city": "Malé",
+      "region": "Kaafu Atoll",
+      "country": "Maldives",
+      "cc": "MV"
+    }
   }
 }
