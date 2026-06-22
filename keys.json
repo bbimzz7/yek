@@ -7334,8 +7334,15 @@
     "userId": "9419858240",
     "source": "script",
     "createdAt": "2026-06-22T14:04:19.919Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-22T14:04:29.198Z",
     "geo": {
+      "ip": "80.85.63.211",
+      "city": "Abádszalók",
+      "region": "Jász-Nagykun-Szolnok",
+      "country": "Hungary",
+      "cc": "HU"
+    },
+    "lastGeo": {
       "ip": "80.85.63.211",
       "city": "Abádszalók",
       "region": "Jász-Nagykun-Szolnok",
