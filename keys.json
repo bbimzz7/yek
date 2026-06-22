@@ -7325,5 +7325,22 @@
       "country": "Maldives",
       "cc": "MV"
     }
+  },
+  "VH-15EFD4-6DB4A1-FE9D77": {
+    "expires": "2026-06-23T14:04:19.355Z",
+    "hwid": "9419858240-FE09A97A-A662-4DA6-87AC-AD76A744FEBF",
+    "browserHwid": null,
+    "username": "Fc_DeciperHM",
+    "userId": "9419858240",
+    "source": "script",
+    "createdAt": "2026-06-22T14:04:19.919Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "80.85.63.211",
+      "city": "Abádszalók",
+      "region": "Jász-Nagykun-Szolnok",
+      "country": "Hungary",
+      "cc": "HU"
+    }
   }
 }
