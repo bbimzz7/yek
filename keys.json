@@ -7445,5 +7445,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-07B26E-A715EA-256A6D": {
+    "expires": "2026-06-23T19:31:33.790Z",
+    "hwid": "7446603370-bd5cfc6f-f337-4f47-bd7e-cbce663ee4e0",
+    "browserHwid": null,
+    "username": "kiplibaiksekali",
+    "userId": "7446603370",
+    "source": "script",
+    "createdAt": "2026-06-22T19:31:34.263Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "210.87.124.76",
+      "city": "Krajan Wetan Wonojoyo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
