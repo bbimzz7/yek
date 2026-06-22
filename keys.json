@@ -7277,5 +7277,22 @@
       "country": "Türkiye",
       "cc": "TR"
     }
+  },
+  "VH-A36A2C-D2C51E-C73383": {
+    "expires": "2026-06-23T03:19:45.779Z",
+    "hwid": "1667442444-a81d04d0-d6f2-4758-8a47-3a058aa028e1",
+    "browserHwid": null,
+    "username": "FOLGURA",
+    "userId": "1667442444",
+    "source": "script",
+    "createdAt": "2026-06-22T03:19:46.226Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.226.44.77",
+      "city": "Boyolali",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
