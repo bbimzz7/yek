@@ -7606,5 +7606,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-732A3C-5720E5-1EDC5C": {
+    "expires": "2026-06-24T14:26:26.832Z",
+    "hwid": "1709128719-09192dbe-b3ea-4801-a6fd-806155cf1eb9",
+    "browserHwid": null,
+    "username": "Trafalgardd",
+    "userId": "1709128719",
+    "source": "script",
+    "createdAt": "2026-06-23T14:26:27.450Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.222.0",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
