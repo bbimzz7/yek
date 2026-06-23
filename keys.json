@@ -7663,8 +7663,15 @@
     "userId": "8583763263",
     "source": "script",
     "createdAt": "2026-06-23T15:27:30.330Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-23T15:28:51.037Z",
     "geo": {
+      "ip": "202.73.27.99",
+      "city": "Caringin",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "202.73.27.99",
       "city": "Caringin",
       "region": "West Java",
