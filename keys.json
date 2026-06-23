@@ -7654,5 +7654,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3B2932-8C3415-43C0C0": {
+    "expires": "2026-06-24T15:27:29.808Z",
+    "hwid": "8583763263-d5fd4bf7-cbf8-4960-91b4-432ec79dd83e",
+    "browserHwid": null,
+    "username": "balensigma",
+    "userId": "8583763263",
+    "source": "script",
+    "createdAt": "2026-06-23T15:27:30.330Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.73.27.99",
+      "city": "Caringin",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
