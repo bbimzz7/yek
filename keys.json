@@ -7735,8 +7735,15 @@
     "userId": "10364765611",
     "source": "script",
     "createdAt": "2026-06-24T04:57:25.805Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-24T04:58:25.074Z",
     "geo": {
+      "ip": "103.111.118.165",
+      "city": "Tenggur",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.111.118.165",
       "city": "Tenggur",
       "region": "East Java",
