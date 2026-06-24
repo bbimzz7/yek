@@ -7966,5 +7966,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-FFA038-9BE4C5-5FE419": {
+    "expires": "2026-06-25T23:28:58.992Z",
+    "hwid": "9176497019-700341f0-74d4-4908-9636-d0bda08f26f2",
+    "browserHwid": null,
+    "username": "Arilbe01",
+    "userId": "9176497019",
+    "source": "script",
+    "createdAt": "2026-06-24T23:28:59.543Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.137.1",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
