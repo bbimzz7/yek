@@ -7726,5 +7726,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0C2130-A065BD-8F9B79": {
+    "expires": "2026-06-25T04:57:25.412Z",
+    "hwid": "10364765611-ce529878-fa17-409b-8805-e9eb6ff32492",
+    "browserHwid": null,
+    "username": "FANZZZZ8080",
+    "userId": "10364765611",
+    "source": "script",
+    "createdAt": "2026-06-24T04:57:25.805Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.111.118.165",
+      "city": "Tenggur",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
