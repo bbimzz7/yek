@@ -7822,5 +7822,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A002CA-C6E87A-86FFF8": {
+    "expires": "2026-06-25T08:29:05.453Z",
+    "hwid": "3643636613-57d2079c-ec0c-4160-89c6-b1a58cc530af",
+    "browserHwid": null,
+    "username": "Noelketche123",
+    "userId": "3643636613",
+    "source": "script",
+    "createdAt": "2026-06-24T08:29:05.910Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.13.204.103",
+      "city": "Guyangan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
