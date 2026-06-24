@@ -7798,5 +7798,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-8CE379-CD72BD-3B35C5": {
+    "expires": "2026-06-25T08:18:35.907Z",
+    "hwid": "8466947524-1c000eb5-dcf1-4e44-8704-4c67c0a600a0",
+    "browserHwid": null,
+    "username": "j4wapride5",
+    "userId": "8466947524",
+    "source": "script",
+    "createdAt": "2026-06-24T08:18:36.381Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.142.255.213",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
