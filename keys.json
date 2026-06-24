@@ -7870,5 +7870,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-01BC31-994B46-7E49A0": {
+    "expires": "2026-06-25T10:02:52.865Z",
+    "hwid": "8994520420-675b6ca3-85f2-4370-87b3-53c63dbd2f40",
+    "browserHwid": null,
+    "username": "delizki15",
+    "userId": "8994520420",
+    "source": "script",
+    "createdAt": "2026-06-24T10:02:53.336Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.99.24",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
