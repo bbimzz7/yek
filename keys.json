@@ -7774,5 +7774,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8CDAD5-45D39E-9BF78F": {
+    "expires": "2026-06-25T07:17:22.037Z",
+    "hwid": "3778692824-da45d5ce-6363-4665-b65d-b0a756f9ba22",
+    "browserHwid": null,
+    "username": "youboy_1004",
+    "userId": "3778692824",
+    "source": "script",
+    "createdAt": "2026-06-24T07:17:22.551Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "106.101.193.57",
+      "city": "Gwanak-gu",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
