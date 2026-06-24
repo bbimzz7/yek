@@ -7783,8 +7783,15 @@
     "userId": "3778692824",
     "source": "script",
     "createdAt": "2026-06-24T07:17:22.551Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-24T07:17:55.979Z",
     "geo": {
+      "ip": "106.101.193.57",
+      "city": "Gwanak-gu",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "lastGeo": {
       "ip": "106.101.193.57",
       "city": "Gwanak-gu",
       "region": "Seoul",
