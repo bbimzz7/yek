@@ -7942,5 +7942,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-608A9C-CD30E6-DDF98F": {
+    "expires": "2026-06-25T19:42:45.218Z",
+    "hwid": "9484719241-792ead0f-b57b-4cfc-aa47-9478d9be767f",
+    "browserHwid": null,
+    "username": "Harutora71",
+    "userId": "9484719241",
+    "source": "script",
+    "createdAt": "2026-06-24T19:42:45.805Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.47.31.152",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
