@@ -8047,8 +8047,15 @@
     "userId": "4526461832",
     "source": "script",
     "createdAt": "2026-06-25T08:10:44.328Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-25T08:10:54.752Z",
     "geo": {
+      "ip": "42.116.121.83",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "42.116.121.83",
       "city": "Hanoi",
       "region": "Hanoi",
