@@ -8134,5 +8134,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3064E0-798C5B-08AB06": {
+    "expires": "2026-06-26T17:13:59.650Z",
+    "hwid": "11114684120-400eeeb1-338d-44df-8896-82a6504d65fc",
+    "browserHwid": null,
+    "username": "talongforsale_67",
+    "userId": "11114684120",
+    "source": "script",
+    "createdAt": "2026-06-25T17:14:00.163Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.11.195",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
