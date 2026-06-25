@@ -8023,8 +8023,15 @@
     "userId": "10471504094",
     "source": "script",
     "createdAt": "2026-06-25T06:35:27.631Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-25T06:36:52.400Z",
     "geo": {
+      "ip": "36.73.106.38",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.73.106.38",
       "city": "Jakarta",
       "region": "Jakarta",
