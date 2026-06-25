@@ -8143,8 +8143,15 @@
     "userId": "11114684120",
     "source": "script",
     "createdAt": "2026-06-25T17:14:00.163Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-25T17:15:17.593Z",
     "geo": {
+      "ip": "136.158.11.195",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.11.195",
       "city": "Quezon City",
       "region": "Metro Manila",
