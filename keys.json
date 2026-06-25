@@ -8062,5 +8062,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-04339F-5174B9-ACE290": {
+    "expires": "2026-06-26T08:20:16.763Z",
+    "hwid": "7523157588-86c73123-35c8-4aba-81a3-db8caf32f08d",
+    "browserHwid": null,
+    "username": "ReymilikAlea",
+    "userId": "7523157588",
+    "source": "script",
+    "createdAt": "2026-06-25T08:20:17.213Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.173.139.86",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
