@@ -8202,14 +8202,22 @@
   },
   "VH-72A814-13C9ED-BE9E36": {
     "expires": "2026-06-26T23:48:51.378Z",
-    "hwid": null,
+    "hwid": "4046349139-2f47cb70-31d5-41d2-b3fc-1b6cb862c7a1",
     "browserHwid": "BR-1BCFC18F-A3DJM",
     "username": "Eric268286",
-    "userId": null,
+    "userId": "4046349139",
     "source": "browser",
     "createdAt": "2026-06-25T23:48:51.888Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-25T23:49:35.763Z",
     "geo": {
+      "ip": "168.181.122.199",
+      "city": "Tocoa",
+      "region": "Colón Department",
+      "country": "Honduras",
+      "cc": "HN"
+    },
+    "boundAt": "2026-06-25T23:49:35.747Z",
+    "lastGeo": {
       "ip": "168.181.122.199",
       "city": "Tocoa",
       "region": "Colón Department",
