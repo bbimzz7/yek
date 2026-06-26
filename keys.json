@@ -8272,5 +8272,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-ABA88D-C81FA4-739E18": {
+    "expires": "2026-06-27T18:44:29.199Z",
+    "hwid": "5212081673-7AB6B720-13A7-4268-AD21-B74B906A38FE",
+    "browserHwid": null,
+    "username": "houndbusted",
+    "userId": "5212081673",
+    "source": "script",
+    "createdAt": "2026-06-26T18:44:29.691Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "143.44.193.231",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
