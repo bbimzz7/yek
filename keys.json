@@ -8233,8 +8233,15 @@
     "userId": "10643183289",
     "source": "script",
     "createdAt": "2026-06-26T10:02:32.135Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-26T10:02:38.841Z",
     "geo": {
+      "ip": "103.19.78.229",
+      "city": "Tlogosadang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.19.78.229",
       "city": "Tlogosadang",
       "region": "East Java",
