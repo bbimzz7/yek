@@ -8224,5 +8224,22 @@
       "country": "Honduras",
       "cc": "HN"
     }
+  },
+  "VH-33162B-E866DF-946EA4": {
+    "expires": "2026-06-27T10:02:31.614Z",
+    "hwid": "10643183289-9da1c467-2122-4659-a50b-b4d203d3b3be",
+    "browserHwid": null,
+    "username": "chloebane201168",
+    "userId": "10643183289",
+    "source": "script",
+    "createdAt": "2026-06-26T10:02:32.135Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.19.78.229",
+      "city": "Tlogosadang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
