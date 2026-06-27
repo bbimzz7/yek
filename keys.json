@@ -8368,5 +8368,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-539276-9C0CC7-07F178": {
+    "expires": "2026-06-28T05:01:43.588Z",
+    "hwid": null,
+    "browserHwid": "BR-1C224C51-X3JHU",
+    "username": "Pro_player107771",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-06-27T05:01:43.853Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.190.47.50",
+      "city": "Banjar Tegal Belodan",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
