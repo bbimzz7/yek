@@ -8443,8 +8443,15 @@
     "userId": "11115770977",
     "source": "script",
     "createdAt": "2026-06-27T05:59:26.530Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-27T05:59:39.932Z",
     "geo": {
+      "ip": "39.194.3.30",
+      "city": "Kota Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "39.194.3.30",
       "city": "Kota Banjarmasin",
       "region": "South Kalimantan",
