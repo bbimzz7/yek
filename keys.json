@@ -8371,14 +8371,22 @@
   },
   "VH-539276-9C0CC7-07F178": {
     "expires": "2026-06-28T05:01:43.588Z",
-    "hwid": null,
+    "hwid": "11184650840-c7d542cd-f4db-4959-b7d4-917ce3d9ba6d",
     "browserHwid": "BR-1C224C51-X3JHU",
     "username": "Pro_player107771",
-    "userId": null,
+    "userId": "11184650840",
     "source": "browser",
     "createdAt": "2026-06-27T05:01:43.853Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-27T05:02:46.957Z",
     "geo": {
+      "ip": "103.190.47.50",
+      "city": "Banjar Tegal Belodan",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-06-27T05:02:46.946Z",
+    "lastGeo": {
       "ip": "103.190.47.50",
       "city": "Banjar Tegal Belodan",
       "region": "Bali",
