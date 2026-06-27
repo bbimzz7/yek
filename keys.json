@@ -8344,5 +8344,22 @@
       "country": "Taiwan",
       "cc": "TW"
     }
+  },
+  "VH-9D945A-E6F50C-DE9CB3": {
+    "expires": "2026-06-28T04:58:02.045Z",
+    "hwid": "10657032416-cc7a8e90-46bc-4f0a-9d72-4e7415f6386a",
+    "browserHwid": null,
+    "username": "aboutyouwhen",
+    "userId": "10657032416",
+    "source": "script",
+    "createdAt": "2026-06-27T04:58:02.476Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.165.29.106",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
