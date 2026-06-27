@@ -8320,5 +8320,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5BF458-2869DF-D2D7E6": {
+    "expires": "2026-06-28T02:48:02.382Z",
+    "hwid": "10359999903-02ce751f-8951-4295-94b4-9131144fe890",
+    "browserHwid": null,
+    "username": "CarterCookieDark2004",
+    "userId": "10359999903",
+    "source": "script",
+    "createdAt": "2026-06-27T02:48:02.811Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.164.74",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
