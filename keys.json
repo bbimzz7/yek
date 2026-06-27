@@ -8296,5 +8296,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-BAB6CA-03B49C-8F8B6A": {
+    "expires": "2026-06-28T00:12:37.144Z",
+    "hwid": "6150027611-D8EBE0A7-8179-4A32-A88F-3B47455EFC2B",
+    "browserHwid": null,
+    "username": "1richgucci1",
+    "userId": "6150027611",
+    "source": "script",
+    "createdAt": "2026-06-27T00:12:37.705Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.251.148.247",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
