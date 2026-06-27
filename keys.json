@@ -8329,13 +8329,20 @@
     "userId": "10359999903",
     "source": "script",
     "createdAt": "2026-06-27T02:48:02.811Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-27T02:48:29.771Z",
     "geo": {
       "ip": "158.140.164.74",
       "city": "Palembang",
       "region": "South Sumatra",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "165.101.152.137",
+      "city": "Neili",
+      "region": "Taiwan",
+      "country": "Taiwan",
+      "cc": "TW"
     }
   }
 }
