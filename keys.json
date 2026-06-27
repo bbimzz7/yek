@@ -8482,5 +8482,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FFAC33-7AF668-8082CE": {
+    "expires": "2026-06-28T08:19:50.779Z",
+    "hwid": "9975128233-966100e2-e381-4cb1-9a6a-772c46dfd49a",
+    "browserHwid": null,
+    "username": "Duck673036",
+    "userId": "9975128233",
+    "source": "script",
+    "createdAt": "2026-06-27T08:19:51.199Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.118.55",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
