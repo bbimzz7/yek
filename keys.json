@@ -8506,5 +8506,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EC52F5-F6E2E8-A0CE19": {
+    "expires": "2026-06-28T11:14:09.544Z",
+    "hwid": "7011992076-e56a120c-c9dd-4e91-b952-65b97910a63b",
+    "browserHwid": null,
+    "username": "ArfanMHanafi",
+    "userId": "7011992076",
+    "source": "script",
+    "createdAt": "2026-06-27T11:14:10.028Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.193.159",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
