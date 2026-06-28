@@ -8554,5 +8554,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-01A862-C2021A-28B2EB": {
+    "expires": "2026-06-29T02:58:25.745Z",
+    "hwid": "1529040661-0c886a38-c557-4d90-8f1b-9e720910b749",
+    "browserHwid": null,
+    "username": "ROZAN_Ganteng123",
+    "userId": "1529040661",
+    "source": "script",
+    "createdAt": "2026-06-28T02:58:26.209Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.232.20.252",
+      "city": "Pasuruan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
