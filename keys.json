@@ -8962,5 +8962,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AE1CC7-9FCF17-C31904": {
+    "expires": "2026-06-29T14:28:00.966Z",
+    "hwid": "8639189338-b4430c8d-4a04-4870-a012-1715b84c1816",
+    "browserHwid": null,
+    "username": "otniel2610",
+    "userId": "8639189338",
+    "source": "script",
+    "createdAt": "2026-06-28T14:28:01.406Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.169.224.78",
+      "city": "Kupang",
+      "region": "East Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
