@@ -8971,8 +8971,15 @@
     "userId": "8639189338",
     "source": "script",
     "createdAt": "2026-06-28T14:28:01.406Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-28T14:28:16.341Z",
     "geo": {
+      "ip": "103.169.224.78",
+      "city": "Kupang",
+      "region": "East Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.169.224.78",
       "city": "Kupang",
       "region": "East Nusa Tenggara",
