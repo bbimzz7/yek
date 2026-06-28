@@ -8626,5 +8626,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CF6A8A-E9CC36-25CB5D": {
+    "expires": "2026-06-29T06:19:38.496Z",
+    "hwid": "10861647665-3e5e5965-5a60-42f3-a6aa-c68515f66edb",
+    "browserHwid": null,
+    "username": "Nada_Cast",
+    "userId": "10861647665",
+    "source": "script",
+    "createdAt": "2026-06-28T06:19:38.940Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.167.18.102",
+      "city": "Ternate",
+      "region": "North Maluku",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
