@@ -8914,5 +8914,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9ED1D7-CC86FA-31FE7A": {
+    "expires": "2026-06-29T12:46:34.968Z",
+    "hwid": "10624780870-2ca85148-1a85-4f71-83e9-436b96e113cd",
+    "browserHwid": null,
+    "username": "marzzajalah",
+    "userId": "10624780870",
+    "source": "script",
+    "createdAt": "2026-06-28T12:46:35.407Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.97.224.243",
+      "city": "Kudus",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
