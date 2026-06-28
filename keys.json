@@ -8923,8 +8923,15 @@
     "userId": "10624780870",
     "source": "script",
     "createdAt": "2026-06-28T12:46:35.407Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-28T12:48:00.916Z",
     "geo": {
+      "ip": "103.97.224.243",
+      "city": "Kudus",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.97.224.243",
       "city": "Kudus",
       "region": "Central Java",
