@@ -8746,5 +8746,22 @@
       "country": "Kenya",
       "cc": "KE"
     }
+  },
+  "VH-546661-6FCB81-134E7B": {
+    "expires": "2026-06-29T08:06:40.341Z",
+    "hwid": "10779930158-7afcc31c-e0c6-4bac-a173-73e9118fb354",
+    "browserHwid": null,
+    "username": "FAHMI_anakff4",
+    "userId": "10779930158",
+    "source": "script",
+    "createdAt": "2026-06-28T08:06:40.754Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.84.71",
+      "city": "Kedungasem",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
