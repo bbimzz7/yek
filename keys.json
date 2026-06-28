@@ -8938,5 +8938,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EB2791-50BC0F-5DB1D4": {
+    "expires": "2026-06-29T14:13:27.502Z",
+    "hwid": "10429210903-220f35f2-b72f-453c-9675-48e7c6b7e212",
+    "browserHwid": null,
+    "username": "NAME1234567799",
+    "userId": "10429210903",
+    "source": "script",
+    "createdAt": "2026-06-28T14:13:27.988Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.235.203.251",
+      "city": "Toronto",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
