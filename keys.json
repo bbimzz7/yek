@@ -8818,5 +8818,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2A4BFA-48DAB2-7801E9": {
+    "expires": "2026-06-29T12:19:45.207Z",
+    "hwid": "10911563678-e0fc7cab-a720-4b1a-8dee-80852c30338a",
+    "browserHwid": null,
+    "username": "ozil_aspal",
+    "userId": "10911563678",
+    "source": "script",
+    "createdAt": "2026-06-28T12:19:45.680Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.65.193.23",
+      "city": "Batam",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
