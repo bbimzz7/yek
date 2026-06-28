@@ -8722,5 +8722,22 @@
       "country": "Kenya",
       "cc": "KE"
     }
+  },
+  "VH-FE1B9A-C3449C-A9BC18": {
+    "expires": "2026-06-29T07:52:06.478Z",
+    "hwid": "10983476172-c53932bc-3082-41b8-beed-3c0185f96d62",
+    "browserHwid": null,
+    "username": "abukar851",
+    "userId": "10983476172",
+    "source": "script",
+    "createdAt": "2026-06-28T07:52:06.921Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "197.157.229.150",
+      "city": "Nairobi",
+      "region": "Nairobi County",
+      "country": "Kenya",
+      "cc": "KE"
+    }
   }
 }
