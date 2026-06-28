@@ -8587,8 +8587,15 @@
     "userId": "8578003200",
     "source": "script",
     "createdAt": "2026-06-28T03:46:05.422Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-28T03:47:54.495Z",
     "geo": {
+      "ip": "39.194.4.182",
+      "city": "Kota Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "39.194.4.182",
       "city": "Kota Banjarmasin",
       "region": "South Kalimantan",
