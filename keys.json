@@ -8947,13 +8947,20 @@
     "userId": "10429210903",
     "source": "script",
     "createdAt": "2026-06-28T14:13:27.988Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-28T14:13:48.499Z",
     "geo": {
       "ip": "168.235.203.251",
       "city": "Toronto",
       "region": "Ontario",
       "country": "Canada",
       "cc": "CA"
+    },
+    "lastGeo": {
+      "ip": "154.47.149.238",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
     }
   }
 }
