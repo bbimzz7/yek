@@ -8779,8 +8779,15 @@
     "userId": "7524825086",
     "source": "script",
     "createdAt": "2026-06-28T10:12:59.815Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-28T10:14:11.090Z",
     "geo": {
+      "ip": "103.124.137.183",
+      "city": "Ungaran",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.124.137.183",
       "city": "Ungaran",
       "region": "Central Java",
