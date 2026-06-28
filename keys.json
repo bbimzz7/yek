@@ -8827,8 +8827,15 @@
     "userId": "10911563678",
     "source": "script",
     "createdAt": "2026-06-28T12:19:45.680Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-28T12:20:01.769Z",
     "geo": {
+      "ip": "179.65.193.23",
+      "city": "Batam",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "179.65.193.23",
       "city": "Batam",
       "region": "Riau Islands",
