@@ -8995,8 +8995,15 @@
     "userId": "191816088",
     "source": "script",
     "createdAt": "2026-06-28T16:50:26.912Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-28T16:50:36.186Z",
     "geo": {
+      "ip": "103.59.45.39",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.59.45.39",
       "city": "Bandar Lampung",
       "region": "Lampung",
