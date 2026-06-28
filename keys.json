@@ -8578,5 +8578,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-63B892-2DB076-9650DF": {
+    "expires": "2026-06-29T03:46:04.954Z",
+    "hwid": "8578003200-ea508975-455e-4260-93bd-7fd75bbeea4c",
+    "browserHwid": null,
+    "username": "TayYap4784",
+    "userId": "8578003200",
+    "source": "script",
+    "createdAt": "2026-06-28T03:46:05.422Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.4.182",
+      "city": "Kota Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
