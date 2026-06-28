@@ -8755,8 +8755,15 @@
     "userId": "10779930158",
     "source": "script",
     "createdAt": "2026-06-28T08:06:40.754Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-28T08:07:32.221Z",
     "geo": {
+      "ip": "180.247.84.71",
+      "city": "Kedungasem",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.247.84.71",
       "city": "Kedungasem",
       "region": "East Java",
