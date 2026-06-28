@@ -8770,5 +8770,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-827FBD-35864E-B9DC3B": {
+    "expires": "2026-06-29T10:12:59.376Z",
+    "hwid": "7524825086-05e6a238-e50f-4db9-b297-d4b674a6488c",
+    "browserHwid": null,
+    "username": "TANGZ75",
+    "userId": "7524825086",
+    "source": "script",
+    "createdAt": "2026-06-28T10:12:59.815Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.124.137.183",
+      "city": "Ungaran",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
