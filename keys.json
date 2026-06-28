@@ -8707,8 +8707,15 @@
     "userId": "10688901767",
     "source": "script",
     "createdAt": "2026-06-28T07:45:24.731Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-28T07:46:58.823Z",
     "geo": {
+      "ip": "197.157.229.150",
+      "city": "Nairobi",
+      "region": "Nairobi County",
+      "country": "Kenya",
+      "cc": "KE"
+    },
+    "lastGeo": {
       "ip": "197.157.229.150",
       "city": "Nairobi",
       "region": "Nairobi County",
