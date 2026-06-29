@@ -9274,5 +9274,22 @@
       "country": "Kenya",
       "cc": "KE"
     }
+  },
+  "VH-F8571D-8141D5-2150F6": {
+    "expires": "2026-06-30T11:23:26.023Z",
+    "hwid": "8092550983-bd6c7745-e0e9-4707-948b-fb1d124ff7fa",
+    "browserHwid": null,
+    "username": "BlueCukimay",
+    "userId": "8092550983",
+    "source": "script",
+    "createdAt": "2026-06-29T11:23:26.486Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.100.21",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
