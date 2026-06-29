@@ -9562,5 +9562,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-F7C801-A4D80F-366CD8": {
+    "expires": "2026-06-30T21:43:54.880Z",
+    "hwid": "8538964910-cf38e216-183c-46cb-bc21-07c58d63afc9",
+    "browserHwid": null,
+    "username": "tata18778i99",
+    "userId": "8538964910",
+    "source": "script",
+    "createdAt": "2026-06-29T21:43:55.152Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.231.253.139",
+      "city": "São Gonçalo",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
