@@ -9571,8 +9571,15 @@
     "userId": "8538964910",
     "source": "script",
     "createdAt": "2026-06-29T21:43:55.152Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-29T21:46:57.377Z",
     "geo": {
+      "ip": "45.231.253.139",
+      "city": "São Gonçalo",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.231.253.139",
       "city": "São Gonçalo",
       "region": "Rio de Janeiro",
