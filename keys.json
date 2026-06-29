@@ -9523,8 +9523,15 @@
     "userId": "10274151500",
     "source": "script",
     "createdAt": "2026-06-29T20:55:47.773Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-29T20:56:21.413Z",
     "geo": {
+      "ip": "38.43.88.70",
+      "city": "Villahermosa",
+      "region": "Tabasco",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "38.43.88.70",
       "city": "Villahermosa",
       "region": "Tabasco",
