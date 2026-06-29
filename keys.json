@@ -9403,8 +9403,15 @@
     "userId": "2243548466",
     "source": "script",
     "createdAt": "2026-06-29T14:46:00.361Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-29T14:46:07.277Z",
     "geo": {
+      "ip": "103.80.83.17",
+      "city": "Ponorogo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.80.83.17",
       "city": "Ponorogo",
       "region": "East Java",
