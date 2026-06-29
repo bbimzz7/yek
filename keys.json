@@ -9475,13 +9475,20 @@
     "userId": "11005654870",
     "source": "script",
     "createdAt": "2026-06-29T17:54:53.980Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-29T17:55:16.500Z",
     "geo": {
       "ip": "77.221.157.233",
       "city": "Frankfurt am Main",
       "region": "Hesse",
       "country": "Germany",
       "cc": "DE"
+    },
+    "lastGeo": {
+      "ip": "80.64.26.14",
+      "city": "Krasnodar",
+      "region": "Krasnodar Krai",
+      "country": "Russia",
+      "cc": "RU"
     }
   }
 }
