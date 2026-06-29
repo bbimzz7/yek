@@ -9418,5 +9418,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1A22F9-52ABF5-9783A1": {
+    "expires": "2026-06-30T15:16:58.384Z",
+    "hwid": "9764584218-2192b93c-50db-4f75-9b3c-e483cbbac230",
+    "browserHwid": null,
+    "username": "Ciliansan",
+    "userId": "9764584218",
+    "source": "script",
+    "createdAt": "2026-06-29T15:16:58.926Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.183.11.228",
+      "city": "Tulungrejo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
