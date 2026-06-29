@@ -9211,8 +9211,15 @@
     "userId": "8554609637",
     "source": "script",
     "createdAt": "2026-06-29T09:17:31.791Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-29T09:17:38.458Z",
     "geo": {
+      "ip": "180.252.19.186",
+      "city": "Garut",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.252.19.186",
       "city": "Garut",
       "region": "West Java",
