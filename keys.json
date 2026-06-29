@@ -9394,5 +9394,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-469190-D36253-484321": {
+    "expires": "2026-06-30T14:45:59.828Z",
+    "hwid": "2243548466-D0FEED38-970D-487C-8076-2D92685F9850",
+    "browserHwid": null,
+    "username": "Squad_HERVIAN",
+    "userId": "2243548466",
+    "source": "script",
+    "createdAt": "2026-06-29T14:46:00.361Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.80.83.17",
+      "city": "Ponorogo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
