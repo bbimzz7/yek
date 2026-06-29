@@ -9163,8 +9163,15 @@
     "userId": "8867900776",
     "source": "script",
     "createdAt": "2026-06-29T06:49:11.477Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-29T06:49:26.487Z",
     "geo": {
+      "ip": "103.214.102.66",
+      "city": "Deli Tua",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.214.102.66",
       "city": "Deli Tua",
       "region": "North Sumatra",
