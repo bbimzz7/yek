@@ -9154,5 +9154,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AFF51C-D50349-D98D11": {
+    "expires": "2026-06-30T06:49:10.951Z",
+    "hwid": "8867900776-c3be43f5-8251-4ca7-a6bd-55e5e72fb0e9",
+    "browserHwid": null,
+    "username": "ball_fzyy",
+    "userId": "8867900776",
+    "source": "script",
+    "createdAt": "2026-06-29T06:49:11.477Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.214.102.66",
+      "city": "Deli Tua",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
