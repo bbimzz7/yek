@@ -9178,5 +9178,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-624D1B-19651D-F3DA03": {
+    "expires": "2026-06-30T09:12:37.477Z",
+    "hwid": "3611287821-02d16b70-11f7-4953-ab40-627c9a8d02d4",
+    "browserHwid": null,
+    "username": "XbeeFst",
+    "userId": "3611287821",
+    "source": "script",
+    "createdAt": "2026-06-29T09:12:37.928Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.180.123.17",
+      "city": "South Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
