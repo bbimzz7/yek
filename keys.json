@@ -9346,5 +9346,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8C257B-F917ED-C0C752": {
+    "expires": "2026-06-30T14:06:56.760Z",
+    "hwid": "9519850147-269e881f-be7d-4bc5-ad5d-55590320136c",
+    "browserHwid": null,
+    "username": "bintangkeciil_as",
+    "userId": "9519850147",
+    "source": "script",
+    "createdAt": "2026-06-29T14:06:57.257Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.156.233.69",
+      "city": "Ciampea",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
