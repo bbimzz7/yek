@@ -9283,8 +9283,15 @@
     "userId": "8092550983",
     "source": "script",
     "createdAt": "2026-06-29T11:23:26.486Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-29T11:23:35.353Z",
     "geo": {
+      "ip": "182.4.100.21",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.4.100.21",
       "city": "Yogyakarta",
       "region": "Yogyakarta",
