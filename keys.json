@@ -9514,5 +9514,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-01D753-ACC5BF-A4A916": {
+    "expires": "2026-06-30T20:55:47.183Z",
+    "hwid": "10274151500-67034096-d15e-4b47-bce0-e44bc9367e9d",
+    "browserHwid": null,
+    "username": "lizzy08149",
+    "userId": "10274151500",
+    "source": "script",
+    "createdAt": "2026-06-29T20:55:47.773Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.43.88.70",
+      "city": "Villahermosa",
+      "region": "Tabasco",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
