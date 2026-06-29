@@ -9058,5 +9058,22 @@
       "country": "Kenya",
       "cc": "KE"
     }
+  },
+  "VH-E97BD7-9B53B0-9A2157": {
+    "expires": "2026-06-30T00:36:21.340Z",
+    "hwid": "10258447473-9d2c28f0-b956-4907-9a79-7b653f7c8b23",
+    "browserHwid": null,
+    "username": "Jotsh156",
+    "userId": "10258447473",
+    "source": "script",
+    "createdAt": "2026-06-29T00:36:21.815Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.230.139.160",
+      "city": "Torreón",
+      "region": "Coahuila",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
