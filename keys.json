@@ -9091,7 +9091,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-06-29T05:28:28.971Z",
-    "lastUsed": "2026-06-29T05:30:38.541Z",
+    "lastUsed": "2026-06-29T11:59:29.649Z",
     "geo": {
       "ip": "160.20.38.118",
       "city": "Indramayu",
@@ -9100,8 +9100,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "160.20.38.62",
-      "city": "Indramayu",
+      "ip": "125.165.29.106",
+      "city": "Bekasi",
       "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
