@@ -9538,5 +9538,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-5AED25-16AEE9-C00A30": {
+    "expires": "2026-06-30T21:38:36.328Z",
+    "hwid": "11199048673-D09CE3A2-8FE8-4024-8FE3-6C5842121243",
+    "browserHwid": null,
+    "username": "NUISIBLEx",
+    "userId": "11199048673",
+    "source": "script",
+    "createdAt": "2026-06-29T21:38:36.781Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "81.66.124.203",
+      "city": "Lille",
+      "region": "Hauts-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
