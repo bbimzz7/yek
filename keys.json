@@ -9466,5 +9466,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C9B77E-0E1408-6C8806": {
+    "expires": "2026-06-30T17:54:53.495Z",
+    "hwid": "11005654870-c64c8ebd-0628-4f7a-a45e-8b7b0cfd365f",
+    "browserHwid": null,
+    "username": "ZKV_VANIL",
+    "userId": "11005654870",
+    "source": "script",
+    "createdAt": "2026-06-29T17:54:53.980Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "77.221.157.233",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
