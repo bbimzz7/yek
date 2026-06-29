@@ -9226,5 +9226,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A37FAF-B98159-DEC51F": {
+    "expires": "2026-06-30T10:19:52.119Z",
+    "hwid": "8859132788-41181641-f500-4d79-9a01-df2f660a2600",
+    "browserHwid": null,
+    "username": "Hamzah_123661",
+    "userId": "8859132788",
+    "source": "script",
+    "createdAt": "2026-06-29T10:19:52.559Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.187.218.138",
+      "city": "Kabupaten Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
