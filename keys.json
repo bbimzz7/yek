@@ -9490,5 +9490,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-9316B6-283499-35DDE9": {
+    "expires": "2026-06-30T18:51:27.459Z",
+    "hwid": "9664603955-31b233aa-5791-45f0-959c-fccd43b55faa",
+    "browserHwid": null,
+    "username": "gutilzzz",
+    "userId": "9664603955",
+    "source": "script",
+    "createdAt": "2026-06-29T18:51:27.916Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.1.233.136",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
