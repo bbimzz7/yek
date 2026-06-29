@@ -9130,5 +9130,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5A1396-770B49-E7C1D4": {
+    "expires": "2026-06-30T06:07:27.309Z",
+    "hwid": "11084297281-9a8db618-6927-4e2a-bb4c-dee2cda6bf6e",
+    "browserHwid": null,
+    "username": "Kingsc1004",
+    "userId": "11084297281",
+    "source": "script",
+    "createdAt": "2026-06-29T06:07:27.788Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.136.174.90",
+      "city": "Blora",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
