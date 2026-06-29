@@ -9187,13 +9187,20 @@
     "userId": "3611287821",
     "source": "script",
     "createdAt": "2026-06-29T09:12:37.928Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-29T09:13:01.971Z",
     "geo": {
       "ip": "103.180.123.17",
       "city": "South Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "149.88.106.69",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
     }
   }
 }
