@@ -9427,8 +9427,15 @@
     "userId": "9764584218",
     "source": "script",
     "createdAt": "2026-06-29T15:16:58.926Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-29T15:17:12.437Z",
     "geo": {
+      "ip": "103.183.11.228",
+      "city": "Tulungrejo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.183.11.228",
       "city": "Tulungrejo",
       "region": "East Java",
