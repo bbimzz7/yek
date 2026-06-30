@@ -9898,5 +9898,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-24A6CE-7110E6-892D0F": {
+    "expires": "2026-07-01T16:31:03.801Z",
+    "hwid": "8971422748-3f440513-2d89-4852-97d9-3b8df0df6877",
+    "browserHwid": null,
+    "username": "UcupSelter",
+    "userId": "8971422748",
+    "source": "script",
+    "createdAt": "2026-06-30T16:31:04.332Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.173.104",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
