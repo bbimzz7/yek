@@ -9586,5 +9586,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-9CB000-3BFF8A-4942DC": {
+    "expires": "2026-07-01T00:08:53.883Z",
+    "hwid": "9922924022-bf1249d5-aef3-4d47-9d87-63db79244e6b",
+    "browserHwid": null,
+    "username": "Eosguri446",
+    "userId": "9922924022",
+    "source": "script",
+    "createdAt": "2026-06-30T00:08:54.338Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.42.127.191",
+      "city": "Guaíba",
+      "region": "Rio Grande do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
