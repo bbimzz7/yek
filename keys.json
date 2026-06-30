@@ -9787,11 +9787,18 @@
     "userId": "7952392232",
     "source": "script",
     "createdAt": "2026-06-30T12:59:49.713Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-30T13:00:38.790Z",
     "geo": {
       "ip": "36.68.211.88",
       "city": "Ambon City",
       "region": "Maluku",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "202.65.234.40",
+      "city": "Surabaya",
+      "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
     }
