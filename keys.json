@@ -9922,5 +9922,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BAA6FE-32EB30-8CC6D3": {
+    "expires": "2026-07-01T16:52:37.898Z",
+    "hwid": "7743979406-f5e821d9-90c6-4569-9589-20d54ff56463",
+    "browserHwid": null,
+    "username": "rip_abukar0",
+    "userId": "7743979406",
+    "source": "script",
+    "createdAt": "2026-06-30T16:52:38.398Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "197.157.229.150",
+      "city": "Nairobi",
+      "region": "Nairobi County",
+      "country": "Kenya",
+      "cc": "KE"
+    }
   }
 }
