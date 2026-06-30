@@ -9595,8 +9595,15 @@
     "userId": "9922924022",
     "source": "script",
     "createdAt": "2026-06-30T00:08:54.338Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-30T00:09:35.190Z",
     "geo": {
+      "ip": "179.42.127.191",
+      "city": "Guaíba",
+      "region": "Rio Grande do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "179.42.127.191",
       "city": "Guaíba",
       "region": "Rio Grande do Sul",
