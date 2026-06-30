@@ -9739,7 +9739,7 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-06-30T11:53:30.646Z",
-    "lastUsed": "2026-06-30T11:53:44.768Z",
+    "lastUsed": "2026-06-30T15:25:00.721Z",
     "geo": {
       "ip": "125.165.29.106",
       "city": "Bekasi",
@@ -9748,7 +9748,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "125.165.29.106",
+      "ip": "36.72.160.56",
       "city": "Bekasi",
       "region": "West Java",
       "country": "Indonesia",
