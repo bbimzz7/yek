@@ -9946,5 +9946,22 @@
       "country": "Kenya",
       "cc": "KE"
     }
+  },
+  "VH-BFB8D2-1ABA5E-C89C32": {
+    "expires": "2026-07-01T17:08:31.948Z",
+    "hwid": "9393943517-4c7745b9-7a47-4bab-b326-c306c69f5a0f",
+    "browserHwid": null,
+    "username": "ZenithEclipse6",
+    "userId": "9393943517",
+    "source": "script",
+    "createdAt": "2026-06-30T17:08:32.439Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.128.165",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
