@@ -9706,5 +9706,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B0CB5A-F7D260-83BA2E": {
+    "expires": "2026-07-01T10:13:46.924Z",
+    "hwid": "5396220740-00d3beb5-6bd7-42df-b67e-d0c0b379e2ff",
+    "browserHwid": null,
+    "username": "evibrorgo0q",
+    "userId": "5396220740",
+    "source": "script",
+    "createdAt": "2026-06-30T10:13:47.420Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.139.220",
+      "city": "Kisanata",
+      "region": "East Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
