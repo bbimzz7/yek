@@ -9643,8 +9643,15 @@
     "userId": "4028121414",
     "source": "script",
     "createdAt": "2026-06-30T07:45:35.477Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-30T07:45:47.273Z",
     "geo": {
+      "ip": "45.70.23.103",
+      "city": "Niterói",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.70.23.103",
       "city": "Niterói",
       "region": "Rio de Janeiro",
