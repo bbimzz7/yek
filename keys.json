@@ -9883,8 +9883,15 @@
     "userId": "11111567383",
     "source": "script",
     "createdAt": "2026-06-30T16:22:54.691Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-30T16:24:17.617Z",
     "geo": {
+      "ip": "203.153.218.226",
+      "city": "Cibinong",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "203.153.218.226",
       "city": "Cibinong",
       "region": "West Java",
