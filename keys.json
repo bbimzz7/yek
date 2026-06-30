@@ -9634,5 +9634,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CADCCA-FF3CD4-35C6FE": {
+    "expires": "2026-07-01T07:45:35.011Z",
+    "hwid": "4028121414-fbc24a8d-7499-4663-b56f-39370d3bed05",
+    "browserHwid": null,
+    "username": "kaioabrw2",
+    "userId": "4028121414",
+    "source": "script",
+    "createdAt": "2026-06-30T07:45:35.477Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.70.23.103",
+      "city": "Niterói",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
