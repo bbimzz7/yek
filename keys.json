@@ -9778,5 +9778,22 @@
       "country": "Kenya",
       "cc": "KE"
     }
+  },
+  "VH-DDD5FD-A51F7F-D9CA5F": {
+    "expires": "2026-07-01T12:59:49.233Z",
+    "hwid": "7952392232-6ea7205c-9342-4055-9bf6-0b0647ed7c13",
+    "browserHwid": null,
+    "username": "sadasah1",
+    "userId": "7952392232",
+    "source": "script",
+    "createdAt": "2026-06-30T12:59:49.713Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.68.211.88",
+      "city": "Ambon City",
+      "region": "Maluku",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
