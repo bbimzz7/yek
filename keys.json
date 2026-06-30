@@ -9658,5 +9658,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-F8B8AE-8D36A7-EA8D29": {
+    "expires": "2026-07-01T08:56:03.431Z",
+    "hwid": "10642443281-21749759-78f9-475b-8dd1-37b99770d40b",
+    "browserHwid": null,
+    "username": "foxcytelo",
+    "userId": "10642443281",
+    "source": "script",
+    "createdAt": "2026-06-30T08:56:03.926Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.244.185.99",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
