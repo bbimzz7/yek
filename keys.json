@@ -9802,5 +9802,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EAFA52-A6895D-30FD21": {
+    "expires": "2026-07-01T14:52:52.505Z",
+    "hwid": "11120278842-33d33ccf-1ff2-4859-9543-11cfc7e13be7",
+    "browserHwid": null,
+    "username": "ecl1psertwo",
+    "userId": "11120278842",
+    "source": "script",
+    "createdAt": "2026-06-30T14:52:52.965Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.165.155.7",
+      "city": "Sepatan",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
