@@ -9715,8 +9715,15 @@
     "userId": "5396220740",
     "source": "script",
     "createdAt": "2026-06-30T10:13:47.420Z",
-    "lastUsed": null,
+    "lastUsed": "2026-06-30T10:13:53.505Z",
     "geo": {
+      "ip": "36.85.139.220",
+      "city": "Kisanata",
+      "region": "East Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.85.139.220",
       "city": "Kisanata",
       "region": "East Nusa Tenggara",
