@@ -9682,5 +9682,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-588BE3-2F8192-83081C": {
+    "expires": "2026-07-01T09:17:38.564Z",
+    "hwid": "8145811594-fdc6c297-0ab4-4c05-a893-490129a4dda2",
+    "browserHwid": null,
+    "username": "RAFSS235",
+    "userId": "8145811594",
+    "source": "script",
+    "createdAt": "2026-06-30T09:17:39.071Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.36.11.245",
+      "city": "Kresek",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
