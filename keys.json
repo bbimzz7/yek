@@ -10258,5 +10258,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-695FE4-8E4365-34F18A": {
+    "expires": "2026-07-02T15:16:29.000Z",
+    "hwid": "10983476172-c008390a-99c8-43f2-88b6-598413281e8d",
+    "browserHwid": null,
+    "username": "abukar851",
+    "userId": "10983476172",
+    "source": "script",
+    "createdAt": "2026-07-01T15:16:29.505Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "197.157.229.150",
+      "city": "Nairobi",
+      "region": "Nairobi County",
+      "country": "Kenya",
+      "cc": "KE"
+    }
   }
 }
