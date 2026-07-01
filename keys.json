@@ -10138,5 +10138,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5D0CC7-4AD1AA-97B792": {
+    "expires": "2026-07-02T04:16:30.479Z",
+    "hwid": "7146129559-f537ee02-99ad-4116-9776-9cb4eafd99b7",
+    "browserHwid": null,
+    "username": "hfdf960",
+    "userId": "7146129559",
+    "source": "script",
+    "createdAt": "2026-07-01T04:16:31.006Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "220.130.75.178",
+      "city": "Taichung",
+      "region": "Taichung City",
+      "country": "Taiwan",
+      "cc": "TW"
+    }
   }
 }
