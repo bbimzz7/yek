@@ -10234,5 +10234,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-05406E-E5C45D-D653A0": {
+    "expires": "2026-07-02T14:30:31.059Z",
+    "hwid": "3797217396-b0b60466-d7b8-451c-a5e2-0b2def05044b",
+    "browserHwid": null,
+    "username": "xyro_dujcjjc25",
+    "userId": "3797217396",
+    "source": "script",
+    "createdAt": "2026-07-01T14:30:31.635Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "163.223.78.187",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
