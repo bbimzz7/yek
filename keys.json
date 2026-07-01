@@ -10380,8 +10380,15 @@
     "userId": "9057565013",
     "source": "script",
     "createdAt": "2026-07-01T22:12:31.621Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-01T22:12:43.605Z",
     "geo": {
+      "ip": "103.174.238.103",
+      "city": "Palimanan",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.174.238.103",
       "city": "Palimanan",
       "region": "West Java",
