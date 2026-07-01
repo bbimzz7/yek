@@ -10210,5 +10210,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C528A2-C5C6E5-C4BBC2": {
+    "expires": "2026-07-02T12:58:12.513Z",
+    "hwid": "8832539129-1babc33d-bac5-4f01-a471-910de0f6177f",
+    "browserHwid": null,
+    "username": "cessmisad12233",
+    "userId": "8832539129",
+    "source": "script",
+    "createdAt": "2026-07-01T12:58:13.047Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.249.222",
+      "city": "Jatiroto",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
