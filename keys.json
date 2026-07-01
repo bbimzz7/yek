@@ -10243,8 +10243,15 @@
     "userId": "3797217396",
     "source": "script",
     "createdAt": "2026-07-01T14:30:31.635Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-01T14:30:51.102Z",
     "geo": {
+      "ip": "163.223.78.187",
+      "city": "Jombang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "163.223.78.187",
       "city": "Jombang",
       "region": "East Java",
