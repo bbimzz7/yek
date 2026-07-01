@@ -10282,5 +10282,22 @@
       "country": "Kenya",
       "cc": "KE"
     }
+  },
+  "VH-59B597-5C5C1C-3811F8": {
+    "expires": "2026-07-02T15:36:08.567Z",
+    "hwid": "8274689345-6c79f704-81dc-4df0-8317-bd67afe47f79",
+    "browserHwid": null,
+    "username": "KSI_HITAM7",
+    "userId": "8274689345",
+    "source": "script",
+    "createdAt": "2026-07-01T15:36:09.313Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.180.118.13",
+      "city": "Babat",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
