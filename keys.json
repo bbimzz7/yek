@@ -10162,5 +10162,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-F8806C-F825EC-5F34E0": {
+    "expires": "2026-07-02T05:14:34.220Z",
+    "hwid": "8218198836-e144405f-f01e-462e-8e75-d0fa3c574bdf",
+    "browserHwid": null,
+    "username": "hxghc40",
+    "userId": "8218198836",
+    "source": "script",
+    "createdAt": "2026-07-01T05:14:34.706Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.17.70",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
