@@ -10066,5 +10066,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-20C5A8-3A8D0D-0EC918": {
+    "expires": "2026-07-02T02:12:25.540Z",
+    "hwid": "9264815610-a65aed88-7d63-4383-b903-4d5f19be202f",
+    "browserHwid": null,
+    "username": "MakotoCwannn",
+    "userId": "9264815610",
+    "source": "script",
+    "createdAt": "2026-07-01T02:12:26.035Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.172.120.188",
+      "city": "Purwodadi Grobogan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
