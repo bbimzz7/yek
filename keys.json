@@ -10147,13 +10147,20 @@
     "userId": "7146129559",
     "source": "script",
     "createdAt": "2026-07-01T04:16:31.006Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-01T04:21:02.886Z",
     "geo": {
       "ip": "220.130.75.178",
       "city": "Taichung",
       "region": "Taichung City",
       "country": "Taiwan",
       "cc": "TW"
+    },
+    "lastGeo": {
+      "ip": "43.154.147.52",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
     }
   }
 }
