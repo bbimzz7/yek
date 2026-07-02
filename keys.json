@@ -10604,5 +10604,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C96426-4BEA00-F4B7D7": {
+    "expires": "2026-07-03T10:22:57.729Z",
+    "hwid": "5697976668-8C7660B0-46E6-422B-B966-54E38604B269",
+    "browserHwid": null,
+    "username": "asksha92",
+    "userId": "5697976668",
+    "source": "script",
+    "createdAt": "2026-07-02T10:22:58.201Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.149.199.80",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
