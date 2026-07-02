@@ -10580,5 +10580,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8378D6-B3B993-229159": {
+    "expires": "2026-07-03T08:20:59.521Z",
+    "hwid": "11203598610-7fe883a8-f2c0-4168-8e75-400255a5c8d7",
+    "browserHwid": null,
+    "username": "hidengweo",
+    "userId": "11203598610",
+    "source": "script",
+    "createdAt": "2026-07-02T08:20:59.987Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.65.220.242",
+      "city": "Kudus",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
