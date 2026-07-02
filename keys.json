@@ -10484,5 +10484,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6B0E9D-88D935-526AFF": {
+    "expires": "2026-07-03T05:01:11.761Z",
+    "hwid": "4206259596-63565BF0-0B16-4861-854A-A28A422302DB",
+    "browserHwid": null,
+    "username": "Shaqnanap",
+    "userId": "4206259596",
+    "source": "script",
+    "createdAt": "2026-07-02T05:01:12.184Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.105.1.226",
+      "city": "Kazan'",
+      "region": "Tatarstan Republic",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
