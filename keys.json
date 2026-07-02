@@ -10419,5 +10419,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1252D5-B00E37-A8F702": {
+    "expires": "2026-07-03T03:21:59.628Z",
+    "hwid": "10398907600-b15506de-87b1-45c2-9bf6-bcd0a7e50224",
+    "browserHwid": null,
+    "username": "kikimkekem",
+    "userId": "10398907600",
+    "source": "script",
+    "createdAt": "2026-07-02T03:22:00.087Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.98.188",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
