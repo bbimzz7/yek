@@ -10493,8 +10493,15 @@
     "userId": "4206259596",
     "source": "script",
     "createdAt": "2026-07-02T05:01:12.184Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-02T05:01:20.027Z",
     "geo": {
+      "ip": "95.105.1.226",
+      "city": "Kazan'",
+      "region": "Tatarstan Republic",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "95.105.1.226",
       "city": "Kazan'",
       "region": "Tatarstan Republic",
