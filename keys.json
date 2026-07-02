@@ -10443,5 +10443,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-69DE2F-BCC872-E90E0F": {
+    "expires": "2026-07-03T04:13:15.565Z",
+    "hwid": "11202786315-7afb7f2f-7deb-454c-909f-1b4037112ae4",
+    "browserHwid": null,
+    "username": "zennqt43",
+    "userId": "11202786315",
+    "source": "script",
+    "createdAt": "2026-07-02T04:13:16.037Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.245.28.101",
+      "city": "Indramayu",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
