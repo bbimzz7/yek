@@ -10589,8 +10589,15 @@
     "userId": "11203598610",
     "source": "script",
     "createdAt": "2026-07-02T08:20:59.987Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-02T08:22:15.188Z",
     "geo": {
+      "ip": "36.65.220.242",
+      "city": "Kudus",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.65.220.242",
       "city": "Kudus",
       "region": "Central Java",
