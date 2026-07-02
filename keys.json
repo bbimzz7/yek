@@ -10460,5 +10460,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-22F6FB-84D238-4D6E97": {
+    "expires": "2026-07-03T04:59:02.756Z",
+    "hwid": "6211649313-7ed34a96-575a-485e-8b03-42bdc12b12e9",
+    "browserHwid": null,
+    "username": "rarest221",
+    "userId": "6211649313",
+    "source": "script",
+    "createdAt": "2026-07-02T04:59:03.214Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.75.253.31",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
