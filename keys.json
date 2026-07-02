@@ -10703,14 +10703,22 @@
   },
   "VH-8FB3D9-5ECF82-4DA7A9": {
     "expires": "2026-07-03T19:16:29.467Z",
-    "hwid": null,
+    "hwid": "10951092086-7a934225-66d8-4652-a753-7b5685ec92a5",
     "browserHwid": "BR-43F3493D-U6ZY9",
     "username": "felfandol4",
-    "userId": null,
+    "userId": "10951092086",
     "source": "browser",
     "createdAt": "2026-07-02T19:16:29.952Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-02T19:19:42.179Z",
     "geo": {
+      "ip": "103.94.250.207",
+      "city": "Pelalawan",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-07-02T19:19:42.162Z",
+    "lastGeo": {
       "ip": "103.94.250.207",
       "city": "Pelalawan",
       "region": "Riau",
