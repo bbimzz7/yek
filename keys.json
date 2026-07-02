@@ -10725,5 +10725,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4B694D-5259BA-2DAE19": {
+    "expires": "2026-07-03T21:34:02.654Z",
+    "hwid": "10905662868-c4314305-dfc6-4009-8f89-503c048caedd",
+    "browserHwid": null,
+    "username": "Tmv_botreal19919",
+    "userId": "10905662868",
+    "source": "script",
+    "createdAt": "2026-07-02T21:34:03.152Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.16.183.42",
+      "city": "Asunción",
+      "region": "Asuncion",
+      "country": "Paraguay",
+      "cc": "PY"
+    }
   }
 }
