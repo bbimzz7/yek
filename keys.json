@@ -10652,5 +10652,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CAD85B-6A8717-304DAD": {
+    "expires": "2026-07-03T16:20:31.890Z",
+    "hwid": "11215464931-1e78eca4-0142-4079-aba6-d040462e2364",
+    "browserHwid": null,
+    "username": "skythepeak",
+    "userId": "11215464931",
+    "source": "script",
+    "createdAt": "2026-07-02T16:20:32.402Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.145.34.141",
+      "city": "Umbulan Tebingsuluh",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
