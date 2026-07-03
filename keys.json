@@ -11023,8 +11023,15 @@
     "userId": "11223216363",
     "source": "script",
     "createdAt": "2026-07-03T16:36:34.668Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-03T16:36:39.285Z",
     "geo": {
+      "ip": "87.52.108.54",
+      "city": "Copenhagen",
+      "region": "Capital Region",
+      "country": "Denmark",
+      "cc": "DK"
+    },
+    "lastGeo": {
       "ip": "87.52.108.54",
       "city": "Copenhagen",
       "region": "Capital Region",
