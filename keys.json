@@ -11062,5 +11062,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C9473F-2EB635-2E88A7": {
+    "expires": "2026-07-04T18:36:49.166Z",
+    "hwid": "6003303512-d3676b92-90b9-4322-b239-dbaab4d6269b",
+    "browserHwid": null,
+    "username": "Darlyn12yunga240",
+    "userId": "6003303512",
+    "source": "script",
+    "createdAt": "2026-07-03T18:36:49.698Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.49.27.46",
+      "city": "Quito",
+      "region": "Pichincha",
+      "country": "Ecuador",
+      "cc": "EC"
+    }
   }
 }
