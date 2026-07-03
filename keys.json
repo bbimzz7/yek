@@ -11014,5 +11014,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9B0F09-F1DC0B-6B5DB9": {
+    "expires": "2026-07-04T16:36:34.175Z",
+    "hwid": "11223216363-63C96E2D-D3B1-419B-9CA2-DDD8293FBDAF",
+    "browserHwid": null,
+    "username": "elskerdinmor239",
+    "userId": "11223216363",
+    "source": "script",
+    "createdAt": "2026-07-03T16:36:34.668Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "87.52.108.54",
+      "city": "Copenhagen",
+      "region": "Capital Region",
+      "country": "Denmark",
+      "cc": "DK"
+    }
   }
 }
