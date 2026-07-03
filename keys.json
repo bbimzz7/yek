@@ -10821,5 +10821,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7482AD-309B64-83CA58": {
+    "expires": "2026-07-04T11:37:16.721Z",
+    "hwid": "10991337285-f221aa0b-faa3-4d2c-ae5b-9c6d019f2c10",
+    "browserHwid": null,
+    "username": "manggabusuk67",
+    "userId": "10991337285",
+    "source": "script",
+    "createdAt": "2026-07-03T11:37:17.289Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.190.64.140",
+      "city": "Gorontalo",
+      "region": "Gorontalo",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
