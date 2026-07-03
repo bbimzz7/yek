@@ -10773,5 +10773,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-2E47A8-882AB3-DDAFE3": {
+    "expires": "2026-07-04T03:40:48.167Z",
+    "hwid": "8831662911-bc2a801e-27b2-42f7-8782-5ee10144568d",
+    "browserHwid": null,
+    "username": "wakkata_0",
+    "userId": "8831662911",
+    "source": "script",
+    "createdAt": "2026-07-03T03:40:48.660Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.169.226.37",
+      "city": "Srunikrajan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
