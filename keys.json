@@ -11038,5 +11038,22 @@
       "country": "Denmark",
       "cc": "DK"
     }
+  },
+  "VH-05627D-63AA87-889F7D": {
+    "expires": "2026-07-04T17:53:31.451Z",
+    "hwid": "8650315507-6e263f7b-2acf-43b2-8633-157fab85bd5c",
+    "browserHwid": null,
+    "username": "sfserverside3",
+    "userId": "8650315507",
+    "source": "script",
+    "createdAt": "2026-07-03T17:53:31.923Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.166.35.65",
+      "city": "Parung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
