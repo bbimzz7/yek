@@ -10749,5 +10749,22 @@
       "country": "Paraguay",
       "cc": "PY"
     }
+  },
+  "VH-647484-404463-29EEC6": {
+    "expires": "2026-07-04T01:43:50.942Z",
+    "hwid": "6088707605-65a1ab58-1478-4b58-b97a-efb0602e819d",
+    "browserHwid": null,
+    "username": "adisoth2",
+    "userId": "6088707605",
+    "source": "script",
+    "createdAt": "2026-07-03T01:43:51.427Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.222.238.38",
+      "city": "Joinville",
+      "region": "Santa Catarina",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
