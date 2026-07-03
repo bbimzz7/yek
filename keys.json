@@ -10830,8 +10830,15 @@
     "userId": "10991337285",
     "source": "script",
     "createdAt": "2026-07-03T11:37:17.289Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-03T11:38:19.948Z",
     "geo": {
+      "ip": "103.190.64.140",
+      "city": "Gorontalo",
+      "region": "Gorontalo",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.190.64.140",
       "city": "Gorontalo",
       "region": "Gorontalo",
