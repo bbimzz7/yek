@@ -10968,14 +10968,22 @@
   },
   "VH-28CA79-38D164-549512": {
     "expires": "2026-07-04T15:00:38.338Z",
-    "hwid": null,
+    "hwid": "11222924288-984bde92-0b95-4124-bb20-168b5dafa3a8",
     "browserHwid": "BR-5B3D7D6C-4O803",
     "username": "managwyau",
-    "userId": null,
+    "userId": "11222924288",
     "source": "browser",
     "createdAt": "2026-07-03T15:00:39.186Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-03T15:00:47.117Z",
     "geo": {
+      "ip": "125.166.9.128",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-07-03T15:00:47.110Z",
+    "lastGeo": {
       "ip": "125.166.9.128",
       "city": "Malang",
       "region": "East Java",
