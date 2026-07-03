@@ -11086,5 +11086,22 @@
       "country": "Ecuador",
       "cc": "EC"
     }
+  },
+  "VH-86A6E9-F50F84-F2B672": {
+    "expires": "2026-07-04T20:16:04.884Z",
+    "hwid": "2429824713-2EE3D7DB-4BCB-400F-B682-78BBA9CBEF28",
+    "browserHwid": null,
+    "username": "NAMECRIST",
+    "userId": "2429824713",
+    "source": "script",
+    "createdAt": "2026-07-03T20:16:05.412Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.95.12.56",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
