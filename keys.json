@@ -11398,5 +11398,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-192D66-00BEC7-B72956": {
+    "expires": "2026-07-05T19:28:57.792Z",
+    "hwid": null,
+    "browserHwid": "BR-1C540B07-I9C8W",
+    "username": "viernesfavorito",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-07-04T19:28:58.309Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.138.93.143",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
