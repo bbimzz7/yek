@@ -11374,5 +11374,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-680C2F-D22140-82A3A6": {
+    "expires": "2026-07-05T14:50:01.684Z",
+    "hwid": "8674482831-315c1d8d-b016-4443-a282-726b09807950",
+    "browserHwid": null,
+    "username": "OPWARES654",
+    "userId": "8674482831",
+    "source": "script",
+    "createdAt": "2026-07-04T14:50:02.199Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.46.214.145",
+      "city": "Cibinong",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
