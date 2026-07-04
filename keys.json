@@ -11110,5 +11110,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4B19A8-A6DC7E-EB9FF6": {
+    "expires": "2026-07-05T01:07:01.323Z",
+    "hwid": "7390311326-620bea27-7f78-4d65-a614-9ab92dcdea3e",
+    "browserHwid": null,
+    "username": "fekeQsWQRPf",
+    "userId": "7390311326",
+    "source": "script",
+    "createdAt": "2026-07-04T01:07:01.855Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.101.179.30",
+      "city": "Pasuruan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
