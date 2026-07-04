@@ -11119,8 +11119,15 @@
     "userId": "7390311326",
     "source": "script",
     "createdAt": "2026-07-04T01:07:01.855Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-04T01:08:40.564Z",
     "geo": {
+      "ip": "165.101.179.30",
+      "city": "Pasuruan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "165.101.179.30",
       "city": "Pasuruan",
       "region": "East Java",
