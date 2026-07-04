@@ -11230,5 +11230,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-52040E-78B591-86CED5": {
+    "expires": "2026-07-05T08:02:55.794Z",
+    "hwid": "4787437772-f51b547f-08f4-471a-b8ce-8b58c5214576",
+    "browserHwid": null,
+    "username": "hwhwb51",
+    "userId": "4787437772",
+    "source": "script",
+    "createdAt": "2026-07-04T08:02:56.316Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.134.143",
+      "city": "Mranggen",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
