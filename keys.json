@@ -11302,5 +11302,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-19EBFC-33E206-355D43": {
+    "expires": "2026-07-05T12:30:58.875Z",
+    "hwid": "11083589488-b4879b51-c1e7-493c-a3fd-ae8d9408ec26",
+    "browserHwid": null,
+    "username": "gar_rbx0",
+    "userId": "11083589488",
+    "source": "script",
+    "createdAt": "2026-07-04T12:30:59.198Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.68.52.190",
+      "city": "Tegal",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
