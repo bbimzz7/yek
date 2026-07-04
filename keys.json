@@ -11350,5 +11350,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-513BF3-7C3FB4-6A50A1": {
+    "expires": "2026-07-05T14:43:46.012Z",
+    "hwid": "10000490346-e0f4b780-d39e-43fb-ac9b-8608bc9737ad",
+    "browserHwid": null,
+    "username": "kamutsu_plays",
+    "userId": "10000490346",
+    "source": "script",
+    "createdAt": "2026-07-04T14:43:46.571Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.70.195",
+      "city": "Calamba",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
