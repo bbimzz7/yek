@@ -11254,5 +11254,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-24400F-B2D6DC-EAB303": {
+    "expires": "2026-07-05T11:41:36.579Z",
+    "hwid": "10880598888-4b71fbbe-8d78-465d-afea-42ec8d53d9c2",
+    "browserHwid": null,
+    "username": "xDnotexploit",
+    "userId": "10880598888",
+    "source": "script",
+    "createdAt": "2026-07-04T11:41:37.088Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.68.120.150",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
