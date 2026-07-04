@@ -11278,5 +11278,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BBE28D-5C7391-D44294": {
+    "expires": "2026-07-05T12:26:37.598Z",
+    "hwid": "11194281564-eb29f622-3144-4c2e-a8d2-a2d3d024c323",
+    "browserHwid": null,
+    "username": "Beconchik8878",
+    "userId": "11194281564",
+    "source": "script",
+    "createdAt": "2026-07-04T12:26:38.173Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.172.31.215",
+      "city": "Belgorod",
+      "region": "Belgorod Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
