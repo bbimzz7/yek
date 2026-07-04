@@ -11287,8 +11287,15 @@
     "userId": "11194281564",
     "source": "script",
     "createdAt": "2026-07-04T12:26:38.173Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-04T12:28:32.936Z",
     "geo": {
+      "ip": "46.172.31.215",
+      "city": "Belgorod",
+      "region": "Belgorod Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "46.172.31.215",
       "city": "Belgorod",
       "region": "Belgorod Oblast",
