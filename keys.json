@@ -11519,5 +11519,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C676D2-E59985-7DF720": {
+    "expires": "2026-07-06T02:34:53.808Z",
+    "hwid": "9798953832-0e5e645d-d417-4728-9f87-73e439936bd3",
+    "browserHwid": null,
+    "username": "luanzin244_l",
+    "userId": "9798953832",
+    "source": "script",
+    "createdAt": "2026-07-05T02:34:54.278Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.37.173.11",
+      "city": "Aracaju",
+      "region": "Sergipe",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
