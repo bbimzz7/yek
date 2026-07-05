@@ -11615,5 +11615,22 @@
       "country": "Kenya",
       "cc": "KE"
     }
+  },
+  "VH-9C3A72-7FA55A-F82C39": {
+    "expires": "2026-07-06T11:21:35.912Z",
+    "hwid": "8227675275-73bf5efe-d9b8-47cd-9d47-4c969ce3475f",
+    "browserHwid": null,
+    "username": "IKANXYH1e",
+    "userId": "8227675275",
+    "source": "script",
+    "createdAt": "2026-07-05T11:21:36.449Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.148.130.104",
+      "city": "Jatibarang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
