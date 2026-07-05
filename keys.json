@@ -11624,8 +11624,15 @@
     "userId": "8227675275",
     "source": "script",
     "createdAt": "2026-07-05T11:21:36.449Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-05T11:22:10.507Z",
     "geo": {
+      "ip": "103.148.130.104",
+      "city": "Jatibarang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.148.130.104",
       "city": "Jatibarang",
       "region": "West Java",
