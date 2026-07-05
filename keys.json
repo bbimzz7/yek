@@ -11471,5 +11471,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-03A6BC-1C2BA7-D930AF": {
+    "expires": "2026-07-06T01:06:19.917Z",
+    "hwid": "2996508214-cd821748-055f-41e2-b95a-2a3950ca6e4b",
+    "browserHwid": null,
+    "username": "iker98290",
+    "userId": "2996508214",
+    "source": "script",
+    "createdAt": "2026-07-05T01:06:20.412Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.216.23.159",
+      "city": "Mexicali",
+      "region": "Baja California",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
