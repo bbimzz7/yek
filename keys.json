@@ -11735,5 +11735,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9740BC-2CDE9D-D2D970": {
+    "expires": "2026-07-06T15:48:59.319Z",
+    "hwid": "11221454945-37d223f5-50f9-41f4-875f-ebda1003f620",
+    "browserHwid": null,
+    "username": "Anakkambing1213",
+    "userId": "11221454945",
+    "source": "script",
+    "createdAt": "2026-07-05T15:48:59.804Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.160.184.85",
+      "city": "Bandar Seri Begawan",
+      "region": "Brunei-Muara District",
+      "country": "Brunei",
+      "cc": "BN"
+    }
   }
 }
