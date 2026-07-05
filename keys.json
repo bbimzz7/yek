@@ -11696,8 +11696,15 @@
     "userId": "8598339270",
     "source": "script",
     "createdAt": "2026-07-05T13:41:32.580Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-05T13:41:40.690Z",
     "geo": {
+      "ip": "36.68.9.211",
+      "city": "Bojonegoro",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.68.9.211",
       "city": "Bojonegoro",
       "region": "East Java",
