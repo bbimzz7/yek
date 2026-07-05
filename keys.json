@@ -11528,8 +11528,15 @@
     "userId": "9798953832",
     "source": "script",
     "createdAt": "2026-07-05T02:34:54.278Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-05T02:36:05.362Z",
     "geo": {
+      "ip": "177.37.173.11",
+      "city": "Aracaju",
+      "region": "Sergipe",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.37.173.11",
       "city": "Aracaju",
       "region": "Sergipe",
