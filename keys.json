@@ -11543,5 +11543,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-9CA655-CD3ADD-F8FB06": {
+    "expires": "2026-07-06T05:01:33.088Z",
+    "hwid": "9302451482-636276fb-30ca-4b23-9905-7f4a05eb35ec",
+    "browserHwid": null,
+    "username": "zarzx15",
+    "userId": "9302451482",
+    "source": "script",
+    "createdAt": "2026-07-05T05:01:33.662Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.157.48.49",
+      "city": "West Bandung Regency",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
