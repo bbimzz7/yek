@@ -11944,5 +11944,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A910D1-E52CCC-9ADA23": {
+    "expires": "2026-07-07T17:47:58.822Z",
+    "hwid": "4321166548-c24dbad7-b78b-44fc-9ee9-66724c352847",
+    "browserHwid": null,
+    "username": "daniel_10vl",
+    "userId": "4321166548",
+    "source": "script",
+    "createdAt": "2026-07-06T17:47:59.502Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.53.99.97",
+      "city": "Armenia",
+      "region": "Quindío Department",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
