@@ -11800,5 +11800,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-9AF5DB-85EF0E-01CACA": {
+    "expires": "2026-07-07T05:09:33.905Z",
+    "hwid": "8974249119-d0546f5a-ca7c-4d41-a009-7d10b3c160ec",
+    "browserHwid": null,
+    "username": "SaMuRaI_LiGhT111",
+    "userId": "8974249119",
+    "source": "script",
+    "createdAt": "2026-07-06T05:09:34.214Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.252.205.66",
+      "city": "Novomoskovsk",
+      "region": "Tula Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
