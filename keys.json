@@ -11824,5 +11824,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-585CFF-B356D4-229689": {
+    "expires": "2026-07-07T05:56:05.921Z",
+    "hwid": "7337131097-50b5dd18-eef8-46b5-b2f0-cbd7c0279b47",
+    "browserHwid": null,
+    "username": "loaixsx",
+    "userId": "7337131097",
+    "source": "script",
+    "createdAt": "2026-07-06T05:56:06.449Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "154.47.153.2",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
