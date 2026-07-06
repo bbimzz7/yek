@@ -11992,5 +11992,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-596146-A52DFF-8770B9": {
+    "expires": "2026-07-07T18:49:24.260Z",
+    "hwid": "10993344507-b2ce8b1b-e683-4563-8f58-0e9073f664aa",
+    "browserHwid": null,
+    "username": "kakaka0698",
+    "userId": "10993344507",
+    "source": "script",
+    "createdAt": "2026-07-06T18:49:24.823Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.185.195.248",
+      "city": "Dom Eliseu",
+      "region": "Pará",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
