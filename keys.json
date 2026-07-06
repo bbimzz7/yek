@@ -11953,8 +11953,15 @@
     "userId": "4321166548",
     "source": "script",
     "createdAt": "2026-07-06T17:47:59.502Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-06T17:48:19.596Z",
     "geo": {
+      "ip": "181.53.99.97",
+      "city": "Armenia",
+      "region": "Quindío Department",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
       "ip": "181.53.99.97",
       "city": "Armenia",
       "region": "Quindío Department",
