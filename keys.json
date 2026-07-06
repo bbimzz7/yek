@@ -11809,8 +11809,15 @@
     "userId": "8974249119",
     "source": "script",
     "createdAt": "2026-07-06T05:09:34.214Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-06T05:09:41.460Z",
     "geo": {
+      "ip": "178.252.205.66",
+      "city": "Novomoskovsk",
+      "region": "Tula Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "178.252.205.66",
       "city": "Novomoskovsk",
       "region": "Tula Oblast",
