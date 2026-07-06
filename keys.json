@@ -11759,5 +11759,22 @@
       "country": "Brunei",
       "cc": "BN"
     }
+  },
+  "VH-45C87F-42A3ED-78700C": {
+    "expires": "2026-07-07T01:47:45.720Z",
+    "hwid": "10460945434-b90786af-435b-44e6-8431-40844ff0f099",
+    "browserHwid": null,
+    "username": "Kairororz",
+    "userId": "10460945434",
+    "source": "script",
+    "createdAt": "2026-07-06T01:47:46.259Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.182.25",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
