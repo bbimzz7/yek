@@ -12025,8 +12025,15 @@
     "userId": "5674934613",
     "source": "script",
     "createdAt": "2026-07-07T01:38:00.335Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-07T01:38:10.328Z",
     "geo": {
+      "ip": "103.172.71.151",
+      "city": "Karawang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.172.71.151",
       "city": "Karawang",
       "region": "West Java",
