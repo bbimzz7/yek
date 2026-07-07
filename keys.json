@@ -12088,5 +12088,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5BCF12-07D1A3-1B3C35": {
+    "expires": "2026-07-08T03:17:21.047Z",
+    "hwid": "11225225708-fa9c7300-a354-459b-abd7-cd5b35e63801",
+    "browserHwid": null,
+    "username": "fjcxon",
+    "userId": "11225225708",
+    "source": "script",
+    "createdAt": "2026-07-07T03:17:21.575Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "197.14.174.125",
+      "city": "Sousse",
+      "region": "Sousse Governorate",
+      "country": "Tunisia",
+      "cc": "TN"
+    }
   }
 }
