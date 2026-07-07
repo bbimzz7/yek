@@ -12362,5 +12362,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F52DCC-A68BE7-E180E7": {
+    "expires": "2026-07-08T14:06:49.411Z",
+    "hwid": "8847748392-d26449ea-383e-4083-9b23-6e1983120e7c",
+    "browserHwid": null,
+    "username": "Zhuxx444",
+    "userId": "8847748392",
+    "source": "script",
+    "createdAt": "2026-07-07T14:06:50.544Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.13.163",
+      "city": "North Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
