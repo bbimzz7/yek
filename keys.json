@@ -12410,5 +12410,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-DBA419-29A717-580F8A": {
+    "expires": "2026-07-08T17:05:14.939Z",
+    "hwid": "7906082234-639d616c-4b2e-410c-84a7-5f2d894c8209",
+    "browserHwid": null,
+    "username": "hadfg_4",
+    "userId": "7906082234",
+    "source": "script",
+    "createdAt": "2026-07-07T17:05:16.538Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.63.60.172",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
