@@ -12114,8 +12114,15 @@
     "userId": "9526102254",
     "source": "script",
     "createdAt": "2026-07-07T04:19:05.388Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-07T04:20:25.124Z",
     "geo": {
+      "ip": "103.31.233.46",
+      "city": "Caringin",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.31.233.46",
       "city": "Caringin",
       "region": "West Java",
