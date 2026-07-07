@@ -12371,10 +12371,17 @@
     "userId": "8847748392",
     "source": "script",
     "createdAt": "2026-07-07T14:06:50.544Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-07T14:07:55.226Z",
     "geo": {
       "ip": "140.213.13.163",
       "city": "North Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "112.215.152.42",
+      "city": "East Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
