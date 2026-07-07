@@ -12323,7 +12323,7 @@
     "userId": "11222100019",
     "source": "script",
     "createdAt": "2026-07-07T10:17:20.096Z",
-    "lastUsed": "2026-07-07T10:18:32.848Z",
+    "lastUsed": "2026-07-07T16:05:59.327Z",
     "geo": {
       "ip": "103.154.148.201",
       "city": "Medan",
@@ -12332,8 +12332,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.154.148.201",
-      "city": "Medan",
+      "ip": "9.154.36.227",
+      "city": "Deli Tua",
       "region": "North Sumatra",
       "country": "Indonesia",
       "cc": "ID"
