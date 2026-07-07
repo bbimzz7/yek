@@ -12290,5 +12290,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-98B530-C1DBAC-3CC256": {
+    "expires": "2026-07-08T09:57:17.390Z",
+    "hwid": "7377659391-c6092bef-c9b1-4318-bb8c-740ca78cbb16",
+    "browserHwid": null,
+    "username": "NfDcgSFMzHh",
+    "userId": "7377659391",
+    "source": "script",
+    "createdAt": "2026-07-07T09:57:18.082Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.152.225",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
