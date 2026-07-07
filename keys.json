@@ -12395,8 +12395,15 @@
     "userId": "6063308291",
     "source": "script",
     "createdAt": "2026-07-07T16:21:06.526Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-07T16:22:10.130Z",
     "geo": {
+      "ip": "97.235.248.31",
+      "city": "Annandale",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "97.235.248.31",
       "city": "Annandale",
       "region": "Virginia",
