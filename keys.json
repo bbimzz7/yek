@@ -12153,5 +12153,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-948DAB-0660A6-FE9642": {
+    "expires": "2026-07-08T05:46:04.644Z",
+    "hwid": "4775605703-ac253c37-fd45-4bad-98ad-4b155d89e3bb",
+    "browserHwid": null,
+    "username": "kkarinaey3",
+    "userId": "4775605703",
+    "source": "script",
+    "createdAt": "2026-07-07T05:46:05.203Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.61.138",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
