@@ -12016,5 +12016,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-8321B7-F88826-A12B10": {
+    "expires": "2026-07-08T01:37:59.808Z",
+    "hwid": "5674934613-b780b107-68b1-46fd-adfa-fb5cde40f3d3",
+    "browserHwid": null,
+    "username": "baimroganteng",
+    "userId": "5674934613",
+    "source": "script",
+    "createdAt": "2026-07-07T01:38:00.335Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.172.71.151",
+      "city": "Karawang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
