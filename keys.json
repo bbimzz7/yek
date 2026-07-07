@@ -12040,5 +12040,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5E7FBE-FD1B52-14A888": {
+    "expires": "2026-07-08T02:11:34.960Z",
+    "hwid": "10283252859-7da69505-d257-41c2-9c25-ce9bacb19dfb",
+    "browserHwid": null,
+    "username": "doenyiee",
+    "userId": "10283252859",
+    "source": "script",
+    "createdAt": "2026-07-07T02:11:35.483Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.176.200.17",
+      "city": "Tlatah",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
