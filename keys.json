@@ -12338,5 +12338,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5EDF90-EC9E7C-987F89": {
+    "expires": "2026-07-08T11:18:07.318Z",
+    "hwid": "8010829928-ECE57A0D-1119-4270-BAC9-FA3F2536B5F1",
+    "browserHwid": null,
+    "username": "iVeenAlt1",
+    "userId": "8010829928",
+    "source": "script",
+    "createdAt": "2026-07-07T11:18:07.929Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.184.181.109",
+      "city": "Kertosono",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
