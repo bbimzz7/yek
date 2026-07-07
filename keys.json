@@ -12434,5 +12434,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-8E1448-F56327-C31953": {
+    "expires": "2026-07-08T18:43:35.799Z",
+    "hwid": "10730844597-26fe2f4e-1cfc-4760-a885-b1b1e0ddef5a",
+    "browserHwid": null,
+    "username": "DzikriAF0",
+    "userId": "10730844597",
+    "source": "script",
+    "createdAt": "2026-07-07T18:43:36.428Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.61.138",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
