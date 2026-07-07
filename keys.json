@@ -12386,5 +12386,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4E76A4-BD355A-4CD784": {
+    "expires": "2026-07-08T16:21:05.942Z",
+    "hwid": "6063308291-c37579ce-4f6d-46fe-b3e8-0d3d1a4d64fc",
+    "browserHwid": null,
+    "username": "thenin435",
+    "userId": "6063308291",
+    "source": "script",
+    "createdAt": "2026-07-07T16:21:06.526Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "97.235.248.31",
+      "city": "Annandale",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
