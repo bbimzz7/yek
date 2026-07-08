@@ -12491,8 +12491,15 @@
     "userId": "4563862384",
     "source": "script",
     "createdAt": "2026-07-08T10:39:57.207Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-08T10:40:21.319Z",
     "geo": {
+      "ip": "103.175.49.248",
+      "city": "Kota Serang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.175.49.248",
       "city": "Kota Serang",
       "region": "Banten",
