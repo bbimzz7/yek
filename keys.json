@@ -12602,5 +12602,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CC6615-473D91-CFAA5B": {
+    "expires": "2026-07-09T20:17:12.202Z",
+    "hwid": "8365838117-3644632d-d85d-47e0-9a34-6e14b14442a2",
+    "browserHwid": null,
+    "username": "Dafa_ggcoy",
+    "userId": "8365838117",
+    "source": "script",
+    "createdAt": "2026-07-08T20:17:21.706Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.4.78.74",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
