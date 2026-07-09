@@ -12851,8 +12851,15 @@
     "userId": "8622072682",
     "source": "script",
     "createdAt": "2026-07-09T14:29:49.009Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-09T14:30:37.536Z",
     "geo": {
+      "ip": "103.176.94.18",
+      "city": "Sekupang",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.176.94.18",
       "city": "Sekupang",
       "region": "Riau Islands",
