@@ -12842,5 +12842,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0D80AF-54AC66-D2EF2F": {
+    "expires": "2026-07-10T14:29:41.787Z",
+    "hwid": "8622072682-acd8f763-4363-425e-ab51-dd7e91ac8c1a",
+    "browserHwid": null,
+    "username": "konogiornon",
+    "userId": "8622072682",
+    "source": "script",
+    "createdAt": "2026-07-09T14:29:49.009Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.176.94.18",
+      "city": "Sekupang",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
