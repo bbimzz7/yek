@@ -12803,11 +12803,18 @@
     "userId": "10657032416",
     "source": "script",
     "createdAt": "2026-07-09T13:28:15.101Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-09T13:28:27.008Z",
     "geo": {
       "ip": "112.215.65.95",
       "city": "Central Jakarta",
       "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "112.215.238.135",
+      "city": "Bekasi",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
