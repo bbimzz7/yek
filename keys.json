@@ -12866,5 +12866,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6B8C0D-D867FB-3BD51B": {
+    "expires": "2026-07-10T15:43:49.558Z",
+    "hwid": "5113369560-995389d1-4765-40ac-826b-cd8b720e3b9b",
+    "browserHwid": null,
+    "username": "aditu80",
+    "userId": "5113369560",
+    "source": "script",
+    "createdAt": "2026-07-09T15:43:50.283Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.142.255.226",
+      "city": "Mojokerto",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
