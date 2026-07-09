@@ -12707,8 +12707,15 @@
     "userId": "995393659",
     "source": "script",
     "createdAt": "2026-07-09T09:36:51.262Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-09T09:37:00.453Z",
     "geo": {
+      "ip": "180.252.56.60",
+      "city": "Kota Batam",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.252.56.60",
       "city": "Kota Batam",
       "region": "Riau Islands",
