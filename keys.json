@@ -12722,5 +12722,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-014FD9-8A6919-B9954B": {
+    "expires": "2026-07-10T09:45:24.088Z",
+    "hwid": "10745764367-86720398-5dd3-47b1-880c-fe0209925796",
+    "browserHwid": null,
+    "username": "Dzikrix1",
+    "userId": "10745764367",
+    "source": "script",
+    "createdAt": "2026-07-09T09:45:24.484Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.157.48.63",
+      "city": "West Bandung Regency",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
