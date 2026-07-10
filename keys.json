@@ -13202,5 +13202,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1B6583-847B9A-A12DB8": {
+    "expires": "2026-07-11T20:14:32.424Z",
+    "hwid": "11251218204-17987356-7467-4297-8c83-368ad2b2dc5c",
+    "browserHwid": null,
+    "username": "Lorre59s",
+    "userId": "11251218204",
+    "source": "script",
+    "createdAt": "2026-07-10T20:14:33.058Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.100.175.161",
+      "city": "Karyadharma",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
