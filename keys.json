@@ -12923,7 +12923,7 @@
     "userId": "9153236050",
     "source": "script",
     "createdAt": "2026-07-09T17:07:21.572Z",
-    "lastUsed": "2026-07-10T15:52:17.340Z",
+    "lastUsed": "2026-07-10T17:00:21.121Z",
     "geo": {
       "ip": "103.191.165.211",
       "city": "Subang",
@@ -12932,9 +12932,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.46.118",
-      "city": "Central Jakarta",
-      "region": "Jakarta",
+      "ip": "103.191.165.211",
+      "city": "Subang",
+      "region": "West Java",
       "country": "Indonesia",
       "cc": "ID"
     }
