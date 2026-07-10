@@ -12938,5 +12938,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DCB08F-A537F2-F9225A": {
+    "expires": "2026-07-11T03:18:55.071Z",
+    "hwid": "3961752630-42ddc733-a9ce-4425-859d-031cbd642aac",
+    "browserHwid": null,
+    "username": "Ardnzar",
+    "userId": "3961752630",
+    "source": "script",
+    "createdAt": "2026-07-10T03:18:55.614Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.174.164",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
