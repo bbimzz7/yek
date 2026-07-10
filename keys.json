@@ -13130,5 +13130,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-602AE9-481B8F-AD7ED2": {
+    "expires": "2026-07-11T15:02:18.281Z",
+    "hwid": "11221907633-626d79ce-dc21-4e77-b55e-5adc82d2fd35",
+    "browserHwid": null,
+    "username": "Garciavvip",
+    "userId": "11221907633",
+    "source": "script",
+    "createdAt": "2026-07-10T15:02:19.083Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.82.15.166",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
