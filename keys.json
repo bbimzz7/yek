@@ -12899,7 +12899,7 @@
     "userId": "9209489386",
     "source": "script",
     "createdAt": "2026-07-09T16:52:13.010Z",
-    "lastUsed": "2026-07-09T16:52:22.232Z",
+    "lastUsed": "2026-07-10T00:24:56.263Z",
     "geo": {
       "ip": "182.4.103.138",
       "city": "Yogyakarta",
@@ -12908,9 +12908,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "182.4.103.138",
-      "city": "Yogyakarta",
-      "region": "Yogyakarta",
+      "ip": "103.126.86.120",
+      "city": "Kutoarjo",
+      "region": "Central Java",
       "country": "Indonesia",
       "cc": "ID"
     }
