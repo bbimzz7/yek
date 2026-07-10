@@ -13082,5 +13082,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-C047AD-267E00-B90C09": {
+    "expires": "2026-07-11T14:07:15.979Z",
+    "hwid": "4826165734-808701F8-FDEC-4D50-A2A0-57D9ED644564",
+    "browserHwid": null,
+    "username": "roblox_user_4826165734",
+    "userId": "4826165734",
+    "source": "script",
+    "createdAt": "2026-07-10T14:07:16.591Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "217.142.18.217",
+      "city": "Berlin",
+      "region": "Land Berlin",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
