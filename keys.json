@@ -13178,5 +13178,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C3C586-7E03DC-5738E5": {
+    "expires": "2026-07-11T20:05:35.909Z",
+    "hwid": "11084385510-64398723-5c6c-4feb-acd0-415a7adaa907",
+    "browserHwid": null,
+    "username": "kimi66632",
+    "userId": "11084385510",
+    "source": "script",
+    "createdAt": "2026-07-10T20:05:36.564Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.198.11.249",
+      "city": "Karawang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
