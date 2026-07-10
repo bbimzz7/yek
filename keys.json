@@ -13106,5 +13106,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-038DF5-41C645-E1FFE1": {
+    "expires": "2026-07-11T14:22:12.865Z",
+    "hwid": "5537884540-db6ffa60-b3c5-4015-a30b-d7a49250bcbb",
+    "browserHwid": null,
+    "username": "Likablecat13403",
+    "userId": "5537884540",
+    "source": "script",
+    "createdAt": "2026-07-10T14:22:13.525Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "117.20.117.44",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    }
   }
 }
