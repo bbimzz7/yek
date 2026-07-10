@@ -13067,8 +13067,15 @@
     "userId": "10925905938",
     "source": "script",
     "createdAt": "2026-07-10T12:50:56.757Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-10T12:51:05.961Z",
     "geo": {
+      "ip": "1.250.139.140",
+      "city": "Iksan",
+      "region": "Jeollabuk-do",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "lastGeo": {
       "ip": "1.250.139.140",
       "city": "Iksan",
       "region": "Jeollabuk-do",
