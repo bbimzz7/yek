@@ -13154,5 +13154,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FAAC0A-2C079B-3B3F7E": {
+    "expires": "2026-07-11T17:47:14.803Z",
+    "hwid": "5694113978-f2a1e2a6-14d2-4132-ba44-507c230c539e",
+    "browserHwid": null,
+    "username": "RIP_Yuk111",
+    "userId": "5694113978",
+    "source": "script",
+    "createdAt": "2026-07-10T17:47:15.393Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.15.62.33",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
