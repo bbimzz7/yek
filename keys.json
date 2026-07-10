@@ -13058,5 +13058,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7D5284-E60756-36E9C5": {
+    "expires": "2026-07-11T12:50:56.312Z",
+    "hwid": "10925905938-58637a5f-a3ce-4081-a7c6-da333f2ed08c",
+    "browserHwid": null,
+    "username": "uwsiss5",
+    "userId": "10925905938",
+    "source": "script",
+    "createdAt": "2026-07-10T12:50:56.757Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.250.139.140",
+      "city": "Iksan",
+      "region": "Jeollabuk-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
