@@ -13211,10 +13211,17 @@
     "userId": "11251218204",
     "source": "script",
     "createdAt": "2026-07-10T20:14:33.058Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-10T20:15:08.191Z",
     "geo": {
       "ip": "103.100.175.161",
       "city": "Karyadharma",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "38.86.221.31",
+      "city": "Denpasar",
       "region": "Bali",
       "country": "Indonesia",
       "cc": "ID"
