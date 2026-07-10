@@ -13163,8 +13163,15 @@
     "userId": "5694113978",
     "source": "script",
     "createdAt": "2026-07-10T17:47:15.393Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-10T17:47:25.088Z",
     "geo": {
+      "ip": "157.15.62.33",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.15.62.33",
       "city": "Malang",
       "region": "East Java",
