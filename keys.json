@@ -13283,7 +13283,7 @@
     "userId": "3354483692",
     "source": "script",
     "createdAt": "2026-07-11T03:45:42.107Z",
-    "lastUsed": "2026-07-11T03:46:38.653Z",
+    "lastUsed": "2026-07-11T17:01:05.441Z",
     "geo": {
       "ip": "182.11.153.140",
       "city": "Pontianak",
@@ -13292,9 +13292,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "182.11.153.140",
-      "city": "Pontianak",
-      "region": "West Kalimantan",
+      "ip": "180.246.141.224",
+      "city": "Makassar",
+      "region": "South Sulawesi",
       "country": "Indonesia",
       "cc": "ID"
     }
