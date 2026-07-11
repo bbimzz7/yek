@@ -13322,5 +13322,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-22E0A1-D6E35E-859758": {
+    "expires": "2026-07-12T07:55:15.973Z",
+    "hwid": "10189528054-ff2f092f-2418-4215-8bfb-d8c0c0eda849",
+    "browserHwid": null,
+    "username": "kokobacot14985",
+    "userId": "10189528054",
+    "source": "script",
+    "createdAt": "2026-07-11T07:55:30.433Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.153.149.246",
+      "city": "Jengglungharjo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
