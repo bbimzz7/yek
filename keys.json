@@ -13331,8 +13331,15 @@
     "userId": "10189528054",
     "source": "script",
     "createdAt": "2026-07-11T07:55:30.433Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-11T07:55:48.801Z",
     "geo": {
+      "ip": "103.153.149.246",
+      "city": "Jengglungharjo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.153.149.246",
       "city": "Jengglungharjo",
       "region": "East Java",
