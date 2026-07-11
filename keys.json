@@ -13466,5 +13466,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E26FCD-958E1E-632818": {
+    "expires": "2026-07-12T15:22:39.506Z",
+    "hwid": "9685271800-55cc2907-3710-4def-bdcd-aac81208e1b1",
+    "browserHwid": null,
+    "username": "stfuimy",
+    "userId": "9685271800",
+    "source": "script",
+    "createdAt": "2026-07-11T15:22:41.032Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.237.143",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
