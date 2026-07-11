@@ -13394,5 +13394,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8EA2A7-5609D2-AD00EE": {
+    "expires": "2026-07-12T12:29:18.475Z",
+    "hwid": "7983055727-6fcdd55a-c02a-4927-a8c5-014ce2d46f51",
+    "browserHwid": null,
+    "username": "NLT_DANZ",
+    "userId": "7983055727",
+    "source": "script",
+    "createdAt": "2026-07-11T12:29:19.019Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.192.12.108",
+      "city": "Jatibarang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
