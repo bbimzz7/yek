@@ -13370,5 +13370,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-26D184-F73393-DF5E10": {
+    "expires": "2026-07-12T10:50:28.377Z",
+    "hwid": "9153236050-5d182520-c4af-4eb8-a15e-bc2eeb2a3740",
+    "browserHwid": null,
+    "username": "fortisInSilentio",
+    "userId": "9153236050",
+    "source": "script",
+    "createdAt": "2026-07-11T10:50:28.931Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.191.165.211",
+      "city": "Subang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
