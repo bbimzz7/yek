@@ -13274,5 +13274,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-76C7BF-9C9BA1-2EDFAE": {
+    "expires": "2026-07-12T03:45:40.181Z",
+    "hwid": "3354483692-622925cf-89eb-4888-8db3-ec355dad8e31",
+    "browserHwid": null,
+    "username": "KZARPS",
+    "userId": "3354483692",
+    "source": "script",
+    "createdAt": "2026-07-11T03:45:42.107Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.11.153.140",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
