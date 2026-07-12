@@ -13706,5 +13706,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A20EEA-7AD74D-E1039A": {
+    "expires": "2026-07-13T14:52:51.770Z",
+    "hwid": "1034173595-7297965f-1383-44ac-b4a8-3b6e4a8f9bf1",
+    "browserHwid": null,
+    "username": "AdelwinHRP",
+    "userId": "1034173595",
+    "source": "script",
+    "createdAt": "2026-07-12T14:52:52.501Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.162.208.168",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
