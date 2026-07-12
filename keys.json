@@ -13691,8 +13691,15 @@
     "userId": "7738772032",
     "source": "script",
     "createdAt": "2026-07-12T12:54:04.312Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-12T12:54:40.900Z",
     "geo": {
+      "ip": "103.143.244.25",
+      "city": "Cirebon",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.143.244.25",
       "city": "Cirebon",
       "region": "West Java",
