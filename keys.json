@@ -13547,8 +13547,15 @@
     "userId": "7205727886",
     "source": "script",
     "createdAt": "2026-07-12T03:45:52.489Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-12T03:46:05.439Z",
     "geo": {
+      "ip": "181.115.60.58",
+      "city": "Tegucigalpa",
+      "region": "Francisco Morazán Department",
+      "country": "Honduras",
+      "cc": "HN"
+    },
+    "lastGeo": {
       "ip": "181.115.60.58",
       "city": "Tegucigalpa",
       "region": "Francisco Morazán Department",
