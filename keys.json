@@ -13562,5 +13562,22 @@
       "country": "Honduras",
       "cc": "HN"
     }
+  },
+  "VH-1DFCBE-EBF692-215002": {
+    "expires": "2026-07-13T06:08:24.725Z",
+    "hwid": "8643624546-39b1979b-6ecc-420e-ba3c-fbb20a026fa3",
+    "browserHwid": null,
+    "username": "Vansuperboy",
+    "userId": "8643624546",
+    "source": "script",
+    "createdAt": "2026-07-12T06:08:28.121Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.242.128.92",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
