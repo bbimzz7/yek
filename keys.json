@@ -13682,5 +13682,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-8B49E4-CEE93F-7F1408": {
+    "expires": "2026-07-13T12:54:02.584Z",
+    "hwid": "7738772032-e0908741-29e3-4f59-9c92-6806b8c6bb90",
+    "browserHwid": null,
+    "username": "Mahessv1",
+    "userId": "7738772032",
+    "source": "script",
+    "createdAt": "2026-07-12T12:54:04.312Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.143.244.25",
+      "city": "Cirebon",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
