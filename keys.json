@@ -14062,19 +14062,27 @@
   },
   "VH-DE40A1-0AB79F-CA9D24": {
     "expires": "2026-07-14T19:32:53.164Z",
-    "hwid": null,
+    "hwid": "11281063631-a3341788-708c-4b9b-9bab-c7a39e7ea991",
     "browserHwid": "BR-6A5056C3-FXMO7",
     "username": "luk282936",
-    "userId": null,
+    "userId": "11281063631",
     "source": "browser",
     "createdAt": "2026-07-13T19:32:53.459Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-13T19:51:54.585Z",
     "geo": {
       "ip": "92.223.88.127",
       "city": "Luxembourg",
       "region": "Luxembourg",
       "country": "Luxembourg",
       "cc": "LU"
+    },
+    "boundAt": "2026-07-13T19:51:54.568Z",
+    "lastGeo": {
+      "ip": "57.129.135.84",
+      "city": "Bexley",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
     }
   }
 }
