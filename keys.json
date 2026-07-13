@@ -14020,8 +14020,15 @@
     "userId": "11222899217",
     "source": "script",
     "createdAt": "2026-07-13T18:52:14.952Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-13T18:54:18.764Z",
     "geo": {
+      "ip": "92.223.88.127",
+      "city": "Luxembourg",
+      "region": "Luxembourg",
+      "country": "Luxembourg",
+      "cc": "LU"
+    },
+    "lastGeo": {
       "ip": "92.223.88.127",
       "city": "Luxembourg",
       "region": "Luxembourg",
