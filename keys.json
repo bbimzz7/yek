@@ -13730,5 +13730,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-77C5B1-55FDA2-3DF8F9": {
+    "expires": "2026-07-14T00:18:51.791Z",
+    "hwid": "3814314368-f8539c7c-ccaf-48e1-a597-03f61c3f646e",
+    "browserHwid": null,
+    "username": "234_hakerq12",
+    "userId": "3814314368",
+    "source": "script",
+    "createdAt": "2026-07-13T00:18:57.051Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.228.112.74",
+      "city": "Culiacán",
+      "region": "Sinaloa",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
