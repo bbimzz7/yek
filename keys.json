@@ -14035,5 +14035,22 @@
       "country": "Luxembourg",
       "cc": "LU"
     }
+  },
+  "VH-DFEF85-6B50AC-C1207A": {
+    "expires": "2026-07-14T19:21:27.655Z",
+    "hwid": "11254776509-c650218d-9cef-4f05-82b4-ca56d3b9f4c6",
+    "browserHwid": null,
+    "username": "Mauricio257919",
+    "userId": "11254776509",
+    "source": "script",
+    "createdAt": "2026-07-13T19:21:28.212Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.74.255.206",
+      "city": "Maturín",
+      "region": "Monagas",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
