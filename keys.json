@@ -14044,8 +14044,15 @@
     "userId": "11254776509",
     "source": "script",
     "createdAt": "2026-07-13T19:21:28.212Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-13T19:21:45.563Z",
     "geo": {
+      "ip": "38.74.255.206",
+      "city": "Maturín",
+      "region": "Monagas",
+      "country": "Venezuela",
+      "cc": "VE"
+    },
+    "lastGeo": {
       "ip": "38.74.255.206",
       "city": "Maturín",
       "region": "Monagas",
