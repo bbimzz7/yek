@@ -14011,5 +14011,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-21D470-81D5B5-C5A4CA": {
+    "expires": "2026-07-14T18:52:14.389Z",
+    "hwid": "11222899217-72c00635-908d-4c69-9ecc-4c89a319a08f",
+    "browserHwid": null,
+    "username": "Pro99nights6719",
+    "userId": "11222899217",
+    "source": "script",
+    "createdAt": "2026-07-13T18:52:14.952Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.223.88.127",
+      "city": "Luxembourg",
+      "region": "Luxembourg",
+      "country": "Luxembourg",
+      "cc": "LU"
+    }
   }
 }
