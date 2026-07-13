@@ -14068,7 +14068,7 @@
     "userId": "11281063631",
     "source": "browser",
     "createdAt": "2026-07-13T19:32:53.459Z",
-    "lastUsed": "2026-07-13T19:52:47.188Z",
+    "lastUsed": "2026-07-13T19:57:26.373Z",
     "geo": {
       "ip": "92.223.88.127",
       "city": "Luxembourg",
@@ -14078,11 +14078,11 @@
     },
     "boundAt": "2026-07-13T19:51:54.568Z",
     "lastGeo": {
-      "ip": "57.129.135.84",
-      "city": "Bexley",
-      "region": "England",
-      "country": "United Kingdom",
-      "cc": "GB"
+      "ip": "176.52.83.217",
+      "city": "Kazan'",
+      "region": "Tatarstan Republic",
+      "country": "Russia",
+      "cc": "RU"
     }
   }
 }
