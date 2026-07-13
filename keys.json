@@ -13739,8 +13739,15 @@
     "userId": "3814314368",
     "source": "script",
     "createdAt": "2026-07-13T00:18:57.051Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-13T00:20:36.084Z",
     "geo": {
+      "ip": "177.228.112.74",
+      "city": "Culiacán",
+      "region": "Sinaloa",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "177.228.112.74",
       "city": "Culiacán",
       "region": "Sinaloa",
