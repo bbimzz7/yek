@@ -14059,5 +14059,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-DE40A1-0AB79F-CA9D24": {
+    "expires": "2026-07-14T19:32:53.164Z",
+    "hwid": null,
+    "browserHwid": "BR-6A5056C3-FXMO7",
+    "username": "luk282936",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-07-13T19:32:53.459Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.223.88.127",
+      "city": "Luxembourg",
+      "region": "Luxembourg",
+      "country": "Luxembourg",
+      "cc": "LU"
+    }
   }
 }
