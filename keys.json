@@ -13754,5 +13754,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-BAF9AF-374458-FB2D12": {
+    "expires": "2026-07-14T01:07:19.488Z",
+    "hwid": "10657032416-2d3cb28f-60e8-4447-bcb1-c5ab6624acd1",
+    "browserHwid": null,
+    "username": "aboutyouwhen",
+    "userId": "10657032416",
+    "source": "script",
+    "createdAt": "2026-07-13T01:07:24.147Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.253.216.168",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
