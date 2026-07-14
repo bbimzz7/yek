@@ -14213,8 +14213,15 @@
     "userId": "9527472413",
     "source": "script",
     "createdAt": "2026-07-14T23:29:39.771Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-14T23:29:47.109Z",
     "geo": {
+      "ip": "177.222.112.168",
+      "city": "La Paz",
+      "region": "La Paz Department",
+      "country": "Bolivia",
+      "cc": "BO"
+    },
+    "lastGeo": {
       "ip": "177.222.112.168",
       "city": "La Paz",
       "region": "La Paz Department",
