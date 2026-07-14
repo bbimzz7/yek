@@ -14132,5 +14132,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1882B3-00FCBE-004BE1": {
+    "expires": "2026-07-15T15:01:22.956Z",
+    "hwid": "8825113122-ce2858f3-e20c-44c9-aaab-f93ff27c1c7c",
+    "browserHwid": null,
+    "username": "Rikkanjut",
+    "userId": "8825113122",
+    "source": "script",
+    "createdAt": "2026-07-14T15:01:23.544Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.46.186.97",
+      "city": "Taman",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
