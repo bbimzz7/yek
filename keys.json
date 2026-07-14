@@ -14189,8 +14189,15 @@
     "userId": "8808669073",
     "source": "script",
     "createdAt": "2026-07-14T17:54:20.870Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-14T17:58:44.095Z",
     "geo": {
+      "ip": "180.245.113.227",
+      "city": "Tasikmalaya",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.245.113.227",
       "city": "Tasikmalaya",
       "region": "West Java",
