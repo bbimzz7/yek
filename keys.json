@@ -14141,8 +14141,15 @@
     "userId": "8825113122",
     "source": "script",
     "createdAt": "2026-07-14T15:01:23.544Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-14T15:03:48.677Z",
     "geo": {
+      "ip": "103.46.186.97",
+      "city": "Taman",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.46.186.97",
       "city": "Taman",
       "region": "Central Java",
