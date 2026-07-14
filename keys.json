@@ -14228,5 +14228,22 @@
       "country": "Bolivia",
       "cc": "BO"
     }
+  },
+  "VH-0C1057-BF0F01-D16867": {
+    "expires": "2026-07-15T23:54:50.456Z",
+    "hwid": "9387199283-a89abd7c-79bc-4069-8cbd-37b4d6678440",
+    "browserHwid": null,
+    "username": "MelankolisParah",
+    "userId": "9387199283",
+    "source": "script",
+    "createdAt": "2026-07-14T23:54:50.968Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.51.197.165",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
