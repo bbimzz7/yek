@@ -14084,5 +14084,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-B1A0B7-C9D50D-88FA3B": {
+    "expires": "2026-07-15T02:30:22.931Z",
+    "hwid": "11187460992-BC73A25A-551E-4188-A3A4-F05EBF5442AA",
+    "browserHwid": null,
+    "username": "ZeTTilion",
+    "userId": "11187460992",
+    "source": "script",
+    "createdAt": "2026-07-14T02:30:23.532Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.138.113.140",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
