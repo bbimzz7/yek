@@ -14117,8 +14117,15 @@
     "userId": "9757497404",
     "source": "script",
     "createdAt": "2026-07-14T11:37:23.977Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-14T11:37:37.552Z",
     "geo": {
+      "ip": "112.215.146.22",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "112.215.146.22",
       "city": "West Jakarta",
       "region": "Jakarta",
