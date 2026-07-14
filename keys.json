@@ -14204,5 +14204,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CA3A06-2E2E38-04B702": {
+    "expires": "2026-07-15T23:29:39.216Z",
+    "hwid": "9527472413-905bea72-1d1f-4104-992b-4552ca7337cf",
+    "browserHwid": null,
+    "username": "jsjsjsjsjs7186",
+    "userId": "9527472413",
+    "source": "script",
+    "createdAt": "2026-07-14T23:29:39.771Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.222.112.168",
+      "city": "La Paz",
+      "region": "La Paz Department",
+      "country": "Bolivia",
+      "cc": "BO"
+    }
   }
 }
