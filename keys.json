@@ -14237,8 +14237,15 @@
     "userId": "9387199283",
     "source": "script",
     "createdAt": "2026-07-14T23:54:50.968Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-14T23:55:06.496Z",
     "geo": {
+      "ip": "202.51.197.165",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "202.51.197.165",
       "city": "Bogor",
       "region": "West Java",
