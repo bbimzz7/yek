@@ -14429,9 +14429,16 @@
     "userId": "11285497681",
     "source": "script",
     "createdAt": "2026-07-15T07:45:58.768Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-15T07:47:25.074Z",
     "geo": {
       "ip": "103.106.113.13",
+      "city": "Sidorejo",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "103.106.113.75",
       "city": "Sidorejo",
       "region": "Lampung",
       "country": "Indonesia",
