@@ -14420,5 +14420,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6411EC-1337A9-F318C7": {
+    "expires": "2026-07-16T07:45:58.214Z",
+    "hwid": "11285497681-02c0a18a-704a-47f8-b545-bee5c93214e8",
+    "browserHwid": null,
+    "username": "nenzooEy",
+    "userId": "11285497681",
+    "source": "script",
+    "createdAt": "2026-07-15T07:45:58.768Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.106.113.13",
+      "city": "Sidorejo",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
