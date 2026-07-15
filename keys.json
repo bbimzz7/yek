@@ -14444,5 +14444,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7C8387-A714B1-8077B4": {
+    "expires": "2026-07-16T11:09:11.497Z",
+    "hwid": "9112264321-bb2fbf2f-7b62-42be-8716-d668747cf287",
+    "browserHwid": null,
+    "username": "sophial_606mini",
+    "userId": "9112264321",
+    "source": "script",
+    "createdAt": "2026-07-15T11:09:12.039Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.148.242.6",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
