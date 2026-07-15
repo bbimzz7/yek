@@ -14516,5 +14516,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-9847CC-AFBA9D-9734C0": {
+    "expires": "2026-07-16T13:59:44.223Z",
+    "hwid": "8235787892-b6ad4c3c-0901-4197-8025-1ac4ee85da9e",
+    "browserHwid": null,
+    "username": "myjere999",
+    "userId": "8235787892",
+    "source": "script",
+    "createdAt": "2026-07-15T13:59:44.908Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.251.155.219",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
