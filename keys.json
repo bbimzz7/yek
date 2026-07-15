@@ -14468,5 +14468,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-787BE0-751D85-B3F458": {
+    "expires": "2026-07-16T11:15:19.477Z",
+    "hwid": "8374509393-3fefa3b7-675c-415a-a8c3-47cecac5098d",
+    "browserHwid": null,
+    "username": "Azumi_2091",
+    "userId": "8374509393",
+    "source": "script",
+    "createdAt": "2026-07-15T11:15:20.041Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "126.209.50.83",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
