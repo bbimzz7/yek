@@ -14588,5 +14588,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-CBCA61-31E1B1-C6D97D": {
+    "expires": "2026-07-16T15:56:09.759Z",
+    "hwid": "11291541720-051c8ecc-3f04-44c5-bd86-55c2a63515e0",
+    "browserHwid": null,
+    "username": "Rambutan121208",
+    "userId": "11291541720",
+    "source": "script",
+    "createdAt": "2026-07-15T15:56:10.316Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.133.63.100",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
