@@ -14300,5 +14300,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8934A5-928039-570FAC": {
+    "expires": "2026-07-16T03:05:42.074Z",
+    "hwid": "5410839770-6f56376a-2ee0-458a-95f7-7dc50e213c25",
+    "browserHwid": null,
+    "username": "YGEGBUERRR",
+    "userId": "5410839770",
+    "source": "script",
+    "createdAt": "2026-07-15T03:05:42.643Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.125.145.129",
+      "city": "Atlanta",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
