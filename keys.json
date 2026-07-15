@@ -14636,5 +14636,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8DE229-942DB2-2703CA": {
+    "expires": "2026-07-16T19:33:27.575Z",
+    "hwid": "8662707552-ccf8a0d1-2dc0-4c07-9a0f-dcff42973c41",
+    "browserHwid": null,
+    "username": "Dylanuceda500",
+    "userId": "8662707552",
+    "source": "script",
+    "createdAt": "2026-07-15T19:33:28.155Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.108.154.92",
+      "city": "West Palm Beach",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
