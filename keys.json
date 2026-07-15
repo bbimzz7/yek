@@ -14492,5 +14492,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-BFCD9B-871216-BF2A9D": {
+    "expires": "2026-07-16T12:59:41.209Z",
+    "hwid": "4556117441-c54bda42-5279-43d6-9b21-c8afe4a4f009",
+    "browserHwid": null,
+    "username": "Boy_socho12",
+    "userId": "4556117441",
+    "source": "script",
+    "createdAt": "2026-07-15T12:59:41.759Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.174.46.74",
+      "city": "Da Nang",
+      "region": "Da Nang",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
