@@ -14276,5 +14276,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-AA7A67-657F0E-D76147": {
+    "expires": "2026-07-16T01:43:57.014Z",
+    "hwid": "3704060861-b994f6a0-d13d-4b19-a9c9-63d39849f8ac",
+    "browserHwid": null,
+    "username": "Brawljenius",
+    "userId": "3704060861",
+    "source": "script",
+    "createdAt": "2026-07-15T01:43:57.548Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.118.220",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
