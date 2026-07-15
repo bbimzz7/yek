@@ -14252,5 +14252,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-364945-23E9DE-709B7C": {
+    "expires": "2026-07-16T01:03:01.636Z",
+    "hwid": "11247692659-008881e9-12f8-484a-b652-2bb49895d3fe",
+    "browserHwid": null,
+    "username": "nosoy_hakc",
+    "userId": "11247692659",
+    "source": "script",
+    "createdAt": "2026-07-15T01:03:02.178Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.121.230.20",
+      "city": "Vilhena",
+      "region": "Rondônia",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
