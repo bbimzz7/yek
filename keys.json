@@ -14396,5 +14396,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4E491D-64F641-94F4E5": {
+    "expires": "2026-07-16T07:25:42.332Z",
+    "hwid": "10854191555-843fcdee-72a1-43e2-a2d7-842aa2e67fcc",
+    "browserHwid": null,
+    "username": "gynzzz66",
+    "userId": "10854191555",
+    "source": "script",
+    "createdAt": "2026-07-15T07:25:42.896Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.164.235.77",
+      "city": "Ciruas",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
