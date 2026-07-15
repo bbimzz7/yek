@@ -14309,8 +14309,15 @@
     "userId": "5410839770",
     "source": "script",
     "createdAt": "2026-07-15T03:05:42.643Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-15T03:06:08.631Z",
     "geo": {
+      "ip": "24.125.145.129",
+      "city": "Atlanta",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "24.125.145.129",
       "city": "Atlanta",
       "region": "Georgia",
