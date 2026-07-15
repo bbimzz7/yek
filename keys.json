@@ -14564,5 +14564,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8BC2C3-3E06EB-7111AA": {
+    "expires": "2026-07-16T14:18:56.653Z",
+    "hwid": "7622516600-5f54384b-bedf-4d0d-9dda-a2f94efa04eb",
+    "browserHwid": null,
+    "username": "lynde51",
+    "userId": "7622516600",
+    "source": "script",
+    "createdAt": "2026-07-15T14:18:57.237Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.66.145.52",
+      "city": "Klerksdorp",
+      "region": "North West",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
