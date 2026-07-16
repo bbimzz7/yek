@@ -14662,8 +14662,15 @@
     "userId": "8684600729",
     "source": "script",
     "createdAt": "2026-07-16T01:10:55.170Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-16T01:15:50.607Z",
     "geo": {
+      "ip": "171.97.21.113",
+      "city": "Kamphaeng Phet",
+      "region": "Kamphaeng Phet",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "171.97.21.113",
       "city": "Kamphaeng Phet",
       "region": "Kamphaeng Phet",
