@@ -14845,5 +14845,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BE6155-06D062-34EB20": {
+    "expires": "2026-07-17T16:29:52.547Z",
+    "hwid": "8803141043-d6832ae6-41ca-4665-a8e6-6f53a471f778",
+    "browserHwid": null,
+    "username": "Ucup_Kardio0",
+    "userId": "8803141043",
+    "source": "script",
+    "createdAt": "2026-07-16T16:29:53.089Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.106.120",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
