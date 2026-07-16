@@ -14910,5 +14910,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C7F7FA-4B054E-33751A": {
+    "expires": "2026-07-17T23:02:47.803Z",
+    "hwid": "8408465966-69a085bf-37b7-43c8-a7c9-cf18ff6d2082",
+    "browserHwid": null,
+    "username": "gigachad11_07",
+    "userId": "8408465966",
+    "source": "script",
+    "createdAt": "2026-07-16T23:02:48.354Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.209.129.111",
+      "city": "Ust-Kamenogorsk",
+      "region": "East Kazakhstan",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
