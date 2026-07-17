@@ -15160,5 +15160,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4FC395-5F38E0-7FFFA5": {
+    "expires": "2026-07-18T12:35:56.060Z",
+    "hwid": "10087568056-39bc6b33-7b80-4b63-9c2c-5fbd1ccf8ac7",
+    "browserHwid": null,
+    "username": "cillacantep",
+    "userId": "10087568056",
+    "source": "script",
+    "createdAt": "2026-07-17T12:35:56.415Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.4.69.162",
+      "city": "Padang",
+      "region": "West Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
