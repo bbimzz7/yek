@@ -15248,8 +15248,15 @@
     "userId": "11237129238",
     "source": "script",
     "createdAt": "2026-07-17T16:46:34.744Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-17T16:47:11.162Z",
     "geo": {
+      "ip": "178.23.102.26",
+      "city": "Årdalstangen",
+      "region": "Vestland",
+      "country": "Norway",
+      "cc": "NO"
+    },
+    "lastGeo": {
       "ip": "178.23.102.26",
       "city": "Årdalstangen",
       "region": "Vestland",
