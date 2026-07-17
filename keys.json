@@ -15215,5 +15215,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-566015-C9DD7A-E06A02": {
+    "expires": "2026-07-18T15:11:30.089Z",
+    "hwid": "11265229517-d0ec501f-552f-4a40-90e6-71c5714dfae6",
+    "browserHwid": null,
+    "username": "zandrix_025",
+    "userId": "11265229517",
+    "source": "script",
+    "createdAt": "2026-07-17T15:11:30.638Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.54.158.226",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
