@@ -15239,5 +15239,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-3556D4-E8FD78-123EFD": {
+    "expires": "2026-07-18T16:46:34.129Z",
+    "hwid": "11237129238-448a76f0-4d4a-4376-b820-72fc216b3d8a",
+    "browserHwid": null,
+    "username": "67kidjkjkjkjk",
+    "userId": "11237129238",
+    "source": "script",
+    "createdAt": "2026-07-17T16:46:34.744Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.23.102.26",
+      "city": "Årdalstangen",
+      "region": "Vestland",
+      "country": "Norway",
+      "cc": "NO"
+    }
   }
 }
