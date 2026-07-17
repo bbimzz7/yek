@@ -15200,8 +15200,15 @@
     "userId": "1577633190",
     "source": "script",
     "createdAt": "2026-07-17T15:03:23.502Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-17T15:04:50.785Z",
     "geo": {
+      "ip": "181.78.28.4",
+      "city": "Bogotá",
+      "region": "Bogota D.C.",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
       "ip": "181.78.28.4",
       "city": "Bogotá",
       "region": "Bogota D.C.",
