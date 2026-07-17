@@ -15191,5 +15191,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B2EAC2-6EDAC3-A56F1B": {
+    "expires": "2026-07-18T15:03:22.952Z",
+    "hwid": "1577633190-32ed2c24-3ba9-4cf2-8f42-7c56d46c3267",
+    "browserHwid": null,
+    "username": "hsdtdj",
+    "userId": "1577633190",
+    "source": "script",
+    "createdAt": "2026-07-17T15:03:23.502Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.78.28.4",
+      "city": "Bogotá",
+      "region": "Bogota D.C.",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
