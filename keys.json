@@ -15311,5 +15311,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9E09A1-80AB8F-BD854E": {
+    "expires": "2026-07-18T23:34:20.104Z",
+    "hwid": "9017712016-81e97354-6085-46bf-b1ab-a374d4099f2f",
+    "browserHwid": null,
+    "username": "holamellamonahuel2",
+    "userId": "9017712016",
+    "source": "script",
+    "createdAt": "2026-07-17T23:34:20.700Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.251.46.146",
+      "city": "Miramar",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
