@@ -14943,7 +14943,7 @@
     "userId": "10575679965",
     "source": "script",
     "createdAt": "2026-07-17T01:08:30.799Z",
-    "lastUsed": "2026-07-17T01:38:49.464Z",
+    "lastUsed": "2026-07-17T02:07:09.018Z",
     "geo": {
       "ip": "50.7.21.135",
       "city": "Singapore",
@@ -14952,11 +14952,11 @@
       "cc": "SG"
     },
     "lastGeo": {
-      "ip": "50.7.21.135",
-      "city": "Singapore",
-      "region": "North West",
-      "country": "Singapore",
-      "cc": "SG"
+      "ip": "14.191.154.190",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
     }
   }
 }
