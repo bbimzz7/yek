@@ -15128,8 +15128,15 @@
     "userId": "5112195945",
     "source": "script",
     "createdAt": "2026-07-17T10:38:52.233Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-17T10:39:49.596Z",
     "geo": {
+      "ip": "177.170.135.90",
+      "city": "Osasco",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.170.135.90",
       "city": "Osasco",
       "region": "São Paulo",
