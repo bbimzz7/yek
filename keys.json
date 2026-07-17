@@ -15015,8 +15015,15 @@
     "userId": "7346822046",
     "source": "script",
     "createdAt": "2026-07-17T04:53:34.478Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-17T04:55:04.090Z",
     "geo": {
+      "ip": "103.121.172.57",
+      "city": "Patan",
+      "region": "Bagmati Province",
+      "country": "Nepal",
+      "cc": "NP"
+    },
+    "lastGeo": {
       "ip": "103.121.172.57",
       "city": "Patan",
       "region": "Bagmati Province",
