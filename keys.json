@@ -15006,5 +15006,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0819CF-42B401-EA6407": {
+    "expires": "2026-07-18T04:53:33.940Z",
+    "hwid": "7346822046-29e7d0a3-dc7c-4a2c-949c-dcd33905a4eb",
+    "browserHwid": null,
+    "username": "Lezzyffxzx",
+    "userId": "7346822046",
+    "source": "script",
+    "createdAt": "2026-07-17T04:53:34.478Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.172.57",
+      "city": "Patan",
+      "region": "Bagmati Province",
+      "country": "Nepal",
+      "cc": "NP"
+    }
   }
 }
