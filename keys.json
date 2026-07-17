@@ -15143,5 +15143,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-C13D5C-22FA25-AC1D88": {
+    "expires": "2026-07-18T12:35:09.295Z",
+    "hwid": "8899914149-31828bf8-6e85-4849-91c8-34207bd8ffbc",
+    "browserHwid": null,
+    "username": "Realbaconclassicgg",
+    "userId": "8899914149",
+    "source": "script",
+    "createdAt": "2026-07-17T12:35:09.899Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.111.98.103",
+      "city": "Sungaigerong",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
