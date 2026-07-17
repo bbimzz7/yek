@@ -15071,5 +15071,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-40C680-256346-FFDBAA": {
+    "expires": "2026-07-18T09:52:06.011Z",
+    "hwid": "9153236050-5d182520-c4af-4eb8-a15e-bc2eeb2a3740",
+    "browserHwid": null,
+    "username": "fortisInSilentio",
+    "userId": "9153236050",
+    "source": "script",
+    "createdAt": "2026-07-17T09:52:06.564Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.191.165.211",
+      "city": "Subang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
