@@ -15119,5 +15119,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C0BEFE-C9FB56-A12AF0": {
+    "expires": "2026-07-18T10:38:51.638Z",
+    "hwid": "5112195945-922d9889-e74c-4719-8168-b3c698a9d21e",
+    "browserHwid": null,
+    "username": "Leolokis22",
+    "userId": "5112195945",
+    "source": "script",
+    "createdAt": "2026-07-17T10:38:52.233Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.170.135.90",
+      "city": "Osasco",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
