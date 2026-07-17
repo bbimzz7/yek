@@ -14991,8 +14991,15 @@
     "userId": "10443580897",
     "source": "script",
     "createdAt": "2026-07-17T04:46:37.164Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-17T04:47:38.116Z",
     "geo": {
+      "ip": "39.194.4.90",
+      "city": "Kota Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "39.194.4.90",
       "city": "Kota Banjarmasin",
       "region": "South Kalimantan",
