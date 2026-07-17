@@ -15320,8 +15320,15 @@
     "userId": "9017712016",
     "source": "script",
     "createdAt": "2026-07-17T23:34:20.700Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-17T23:35:11.012Z",
     "geo": {
+      "ip": "201.251.46.146",
+      "city": "Miramar",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "201.251.46.146",
       "city": "Miramar",
       "region": "Buenos Aires",
