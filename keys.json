@@ -15792,5 +15792,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-040DAC-7A5EA4-B67B64": {
+    "expires": "2026-07-19T14:50:02.157Z",
+    "hwid": "7000888501-a8e38629-7070-4aff-8d37-935097f78031",
+    "browserHwid": null,
+    "username": "mattydario19",
+    "userId": "7000888501",
+    "source": "script",
+    "createdAt": "2026-07-18T14:50:02.763Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.167.226.132",
+      "city": "Valencia",
+      "region": "Carabobo",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
