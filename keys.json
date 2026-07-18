@@ -15825,8 +15825,15 @@
     "userId": "8104197470",
     "source": "script",
     "createdAt": "2026-07-18T15:59:48.639Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-18T16:00:51.701Z",
     "geo": {
+      "ip": "57.129.131.225",
+      "city": "Bexley",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "57.129.131.225",
       "city": "Bexley",
       "region": "England",
