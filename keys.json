@@ -15722,15 +15722,23 @@
   },
   "VH-3A8618-9CD2A6-81C1F3": {
     "expires": "2026-07-19T12:26:06.566Z",
-    "hwid": null,
+    "hwid": "10428252639-b81764f6-05cc-43de-86c1-b970db671903",
     "browserHwid": "BR-5553BD02-MER7S",
     "username": "ofcminerva",
-    "userId": null,
+    "userId": "10428252639",
     "source": "browser",
     "createdAt": "2026-07-18T12:26:07.122Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-18T12:27:27.439Z",
     "geo": {
       "ip": "114.122.74.17",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-07-18T12:27:27.422Z",
+    "lastGeo": {
+      "ip": "114.122.82.69",
       "city": "Bandung",
       "region": "West Java",
       "country": "Indonesia",
