@@ -16177,5 +16177,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-2EDFA8-0B961A-2D8477": {
+    "expires": "2026-07-19T23:59:58.177Z",
+    "hwid": "10807813135-2d6fce14-1968-4286-871d-1c162190d643",
+    "browserHwid": null,
+    "username": "kauan321247",
+    "userId": "10807813135",
+    "source": "script",
+    "createdAt": "2026-07-18T23:59:58.712Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.66.86.139",
+      "city": "Solânea",
+      "region": "Paraíba",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
