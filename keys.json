@@ -15608,8 +15608,15 @@
     "userId": "4335106523",
     "source": "script",
     "createdAt": "2026-07-18T10:15:41.517Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-18T10:17:11.924Z",
     "geo": {
+      "ip": "98.182.71.239",
+      "city": "Pawtucket",
+      "region": "Rhode Island",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "98.182.71.239",
       "city": "Pawtucket",
       "region": "Rhode Island",
