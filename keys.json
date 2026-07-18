@@ -16105,5 +16105,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-C8475D-7333FD-355133": {
+    "expires": "2026-07-19T21:03:57.198Z",
+    "hwid": "11304421280-6556d050-2ecf-4b8c-9c94-c5aa58daabe8",
+    "browserHwid": null,
+    "username": "Neko_rob0",
+    "userId": "11304421280",
+    "source": "script",
+    "createdAt": "2026-07-18T21:03:57.757Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.212.210.51",
+      "city": "Managua",
+      "region": "Managua Department",
+      "country": "Nicaragua",
+      "cc": "NI"
+    }
   }
 }
