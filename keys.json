@@ -16153,5 +16153,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-5283AF-F6323B-BA836A": {
+    "expires": "2026-07-19T23:16:27.688Z",
+    "hwid": "10575679965-9f73031d-d4cf-4783-a04f-89f6c40afb06",
+    "browserHwid": null,
+    "username": "ccduma6736",
+    "userId": "10575679965",
+    "source": "script",
+    "createdAt": "2026-07-18T23:16:28.183Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.191.154.93",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
