@@ -15464,8 +15464,15 @@
     "userId": "8133888322",
     "source": "script",
     "createdAt": "2026-07-18T05:09:16.262Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-18T05:10:42.314Z",
     "geo": {
+      "ip": "103.59.44.87",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.59.44.87",
       "city": "Bandar Lampung",
       "region": "Lampung",
