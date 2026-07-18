@@ -15599,5 +15599,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-7ABE1A-6AB97A-C7108E": {
+    "expires": "2026-07-19T10:15:41.002Z",
+    "hwid": "4335106523-94590c28-6a26-4747-8228-47d4c5679665",
+    "browserHwid": null,
+    "username": "Lil_popy124",
+    "userId": "4335106523",
+    "source": "script",
+    "createdAt": "2026-07-18T10:15:41.517Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "98.182.71.239",
+      "city": "Pawtucket",
+      "region": "Rhode Island",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
