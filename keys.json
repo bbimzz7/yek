@@ -15843,14 +15843,22 @@
   },
   "VH-11F806-835E06-BDE11C": {
     "expires": "2026-07-19T16:50:45.615Z",
-    "hwid": null,
+    "hwid": "3681394416-4ea277fa-088a-485b-8121-3ee96c100d7d",
     "browserHwid": "BR-718AA326-HHJ97",
     "username": "Ursotxz",
-    "userId": null,
+    "userId": "3681394416",
     "source": "browser",
     "createdAt": "2026-07-18T16:50:46.140Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-18T16:51:24.611Z",
     "geo": {
+      "ip": "201.49.252.154",
+      "city": "Arapiraca",
+      "region": "Alagoas",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "boundAt": "2026-07-18T16:51:24.595Z",
+    "lastGeo": {
       "ip": "201.49.252.154",
       "city": "Arapiraca",
       "region": "Alagoas",
