@@ -16066,10 +16066,17 @@
     "userId": "3355134327",
     "source": "script",
     "createdAt": "2026-07-18T20:39:35.023Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-18T20:39:51.664Z",
     "geo": {
       "ip": "180.191.231.139",
       "city": "Sibonga",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "222.127.239.38",
+      "city": "Lahug",
       "region": "Central Visayas",
       "country": "Philippines",
       "cc": "PH"
