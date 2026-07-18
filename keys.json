@@ -15961,5 +15961,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FC1E07-9A10F2-8A46AB": {
+    "expires": "2026-07-19T18:30:29.079Z",
+    "hwid": "4662767890-6285f74d-0fb8-4a23-8f25-b69280dfccbf",
+    "browserHwid": null,
+    "username": "1heartfor_nia",
+    "userId": "4662767890",
+    "source": "script",
+    "createdAt": "2026-07-18T18:30:29.675Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "62.201.255.251",
+      "city": "Sulaymaniyah",
+      "region": "Sulaymaniyah Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
