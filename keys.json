@@ -15840,5 +15840,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-11F806-835E06-BDE11C": {
+    "expires": "2026-07-19T16:50:45.615Z",
+    "hwid": null,
+    "browserHwid": "BR-718AA326-HHJ97",
+    "username": "Ursotxz",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-07-18T16:50:46.140Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.49.252.154",
+      "city": "Arapiraca",
+      "region": "Alagoas",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
