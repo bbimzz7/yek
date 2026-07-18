@@ -16009,5 +16009,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-14F9BA-4C6BCD-B6CA07": {
+    "expires": "2026-07-19T20:00:33.929Z",
+    "hwid": "6231085536-3184EF09-7176-44CB-B378-FDB1A83C2C04",
+    "browserHwid": null,
+    "username": "xewwsbzlxx33254",
+    "userId": "6231085536",
+    "source": "script",
+    "createdAt": "2026-07-18T20:00:34.480Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.9.115.63",
+      "city": "Santos",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
