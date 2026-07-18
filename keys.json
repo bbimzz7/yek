@@ -15503,5 +15503,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DF4CCA-CD1115-5009F7": {
+    "expires": "2026-07-19T07:15:38.898Z",
+    "hwid": "5181048824-29e6a8fb-478d-448d-8388-b432adb63366",
+    "browserHwid": null,
+    "username": "Rena_zeno",
+    "userId": "5181048824",
+    "source": "script",
+    "createdAt": "2026-07-18T07:15:39.444Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.196.40.251",
+      "city": "Purwakarta",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
