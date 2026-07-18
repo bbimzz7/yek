@@ -15913,5 +15913,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-A8B1E9-709BA7-E3DF27": {
+    "expires": "2026-07-19T18:07:01.496Z",
+    "hwid": "7755241587-c5650f61-fedd-47e2-a89f-922efb3e3971",
+    "browserHwid": null,
+    "username": "Alexander68608",
+    "userId": "7755241587",
+    "source": "script",
+    "createdAt": "2026-07-18T18:07:02.049Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.5.179.17",
+      "city": "San Salvador",
+      "region": "San Salvador Department",
+      "country": "El Salvador",
+      "cc": "SV"
+    }
   }
 }
