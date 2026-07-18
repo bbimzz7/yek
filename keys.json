@@ -15584,8 +15584,15 @@
     "userId": "3035015000",
     "source": "script",
     "createdAt": "2026-07-18T08:20:11.843Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-18T08:20:18.768Z",
     "geo": {
+      "ip": "175.119.221.236",
+      "city": "Suwon",
+      "region": "Gyeonggi-do",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "lastGeo": {
       "ip": "175.119.221.236",
       "city": "Suwon",
       "region": "Gyeonggi-do",
