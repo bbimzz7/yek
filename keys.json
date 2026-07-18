@@ -15623,5 +15623,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-6AB17B-739A9D-BE36F4": {
+    "expires": "2026-07-19T10:35:00.666Z",
+    "hwid": "7346822046-29e7d0a3-dc7c-4a2c-949c-dcd33905a4eb",
+    "browserHwid": null,
+    "username": "Lezzyffxzx",
+    "userId": "7346822046",
+    "source": "script",
+    "createdAt": "2026-07-18T10:35:01.151Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "150.107.107.172",
+      "city": "Janakpur Dham",
+      "region": "Madhesh",
+      "country": "Nepal",
+      "cc": "NP"
+    }
   }
 }
