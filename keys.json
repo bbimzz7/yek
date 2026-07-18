@@ -15335,5 +15335,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-5F5920-F7DB2D-215177": {
+    "expires": "2026-07-19T00:55:40.691Z",
+    "hwid": "10970260376-f6a81517-36cb-4c6b-b79b-d880d126d437",
+    "browserHwid": null,
+    "username": "imisoldaccount",
+    "userId": "10970260376",
+    "source": "script",
+    "createdAt": "2026-07-18T00:55:41.211Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.88.133",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
