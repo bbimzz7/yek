@@ -15922,8 +15922,15 @@
     "userId": "7755241587",
     "source": "script",
     "createdAt": "2026-07-18T18:07:02.049Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-18T18:08:15.047Z",
     "geo": {
+      "ip": "179.5.179.17",
+      "city": "San Salvador",
+      "region": "San Salvador Department",
+      "country": "El Salvador",
+      "cc": "SV"
+    },
+    "lastGeo": {
       "ip": "179.5.179.17",
       "city": "San Salvador",
       "region": "San Salvador Department",
