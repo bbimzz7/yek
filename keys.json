@@ -15865,5 +15865,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-2B8BEB-5939EA-51DA23": {
+    "expires": "2026-07-19T17:32:29.211Z",
+    "hwid": "3712298206-7da7e93e-f926-47e7-ae53-bfa2316d69e9",
+    "browserHwid": null,
+    "username": "Destaxp",
+    "userId": "3712298206",
+    "source": "script",
+    "createdAt": "2026-07-18T17:32:29.792Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.39.51.199",
+      "city": "Kuningan",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
