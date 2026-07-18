@@ -15937,5 +15937,22 @@
       "country": "El Salvador",
       "cc": "SV"
     }
+  },
+  "VH-82566B-121F7A-70848E": {
+    "expires": "2026-07-19T18:11:51.405Z",
+    "hwid": "10803458618-ce296b1b-642a-4db4-b1db-ae9e1dc0a186",
+    "browserHwid": null,
+    "username": "zorvanyl2",
+    "userId": "10803458618",
+    "source": "script",
+    "createdAt": "2026-07-18T18:11:51.756Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.108.30.116",
+      "city": "Kotawaringin",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
