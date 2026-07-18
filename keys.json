@@ -15719,5 +15719,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-3A8618-9CD2A6-81C1F3": {
+    "expires": "2026-07-19T12:26:06.566Z",
+    "hwid": null,
+    "browserHwid": "BR-5553BD02-MER7S",
+    "username": "ofcminerva",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-07-18T12:26:07.122Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.74.17",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
