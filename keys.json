@@ -16018,8 +16018,15 @@
     "userId": "6231085536",
     "source": "script",
     "createdAt": "2026-07-18T20:00:34.480Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-18T20:00:46.453Z",
     "geo": {
+      "ip": "177.9.115.63",
+      "city": "Santos",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.9.115.63",
       "city": "Santos",
       "region": "São Paulo",
