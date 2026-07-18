@@ -16057,5 +16057,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-FFC5C8-5B1900-FE0BC2": {
+    "expires": "2026-07-19T20:39:34.534Z",
+    "hwid": "3355134327-b2d7f3a2-f124-431a-95e2-481f9effe50f",
+    "browserHwid": null,
+    "username": "rovelynv1234",
+    "userId": "3355134327",
+    "source": "script",
+    "createdAt": "2026-07-18T20:39:35.023Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.191.231.139",
+      "city": "Sibonga",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
