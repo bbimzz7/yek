@@ -15816,5 +15816,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-64383C-D23538-8AEE83": {
+    "expires": "2026-07-19T15:59:48.084Z",
+    "hwid": "8104197470-2d1fb191-f7f8-43d0-9e27-27598aae0636",
+    "browserHwid": null,
+    "username": "Itoshi_Zombi",
+    "userId": "8104197470",
+    "source": "script",
+    "createdAt": "2026-07-18T15:59:48.639Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "57.129.131.225",
+      "city": "Bexley",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
