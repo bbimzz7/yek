@@ -15768,5 +15768,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-513015-F63A77-B50FA0": {
+    "expires": "2026-07-19T14:03:37.528Z",
+    "hwid": "2461481078-7a7b7bc7-4fda-4178-ac55-e452b59a4aae",
+    "browserHwid": null,
+    "username": "2k_ru",
+    "userId": "2461481078",
+    "source": "script",
+    "createdAt": "2026-07-18T14:03:38.074Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.128.161.142",
+      "city": "Ooltewah",
+      "region": "Tennessee",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
