@@ -16345,5 +16345,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4D83B8-5C141E-D67918": {
+    "expires": "2026-07-20T03:23:24.663Z",
+    "hwid": "6075341194-08426660-2e33-4343-bf38-24d110294b93",
+    "browserHwid": null,
+    "username": "clark3292",
+    "userId": "6075341194",
+    "source": "script",
+    "createdAt": "2026-07-19T03:23:25.198Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.171.21.201",
+      "city": "Ilagan",
+      "region": "Cagayan Valley",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
