@@ -16740,8 +16740,15 @@
     "userId": "8129172979",
     "source": "script",
     "createdAt": "2026-07-19T11:55:19.340Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T11:56:55.923Z",
     "geo": {
+      "ip": "103.184.180.184",
+      "city": "Magetan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.184.180.184",
       "city": "Magetan",
       "region": "East Java",
