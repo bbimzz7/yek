@@ -16523,8 +16523,15 @@
     "userId": "10162599064",
     "source": "script",
     "createdAt": "2026-07-19T06:53:17.779Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T06:53:34.408Z",
     "geo": {
+      "ip": "103.83.178.254",
+      "city": "Kresek",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.83.178.254",
       "city": "Kresek",
       "region": "West Java",
