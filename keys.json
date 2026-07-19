@@ -17086,8 +17086,15 @@
     "userId": "10897343361",
     "source": "script",
     "createdAt": "2026-07-19T17:15:15.399Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T17:32:45.157Z",
     "geo": {
+      "ip": "178.89.86.168",
+      "city": "Kyzylorda",
+      "region": "Kyzylorda",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "178.89.86.168",
       "city": "Kyzylorda",
       "region": "Kyzylorda",
