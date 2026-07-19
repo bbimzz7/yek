@@ -16538,5 +16538,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-336741-EA13C1-643703": {
+    "expires": "2026-07-20T07:37:31.341Z",
+    "hwid": "7945410204-bbba644e-d298-4137-b548-01900bf4a7b2",
+    "browserHwid": null,
+    "username": "htksgjshIjd",
+    "userId": "7945410204",
+    "source": "script",
+    "createdAt": "2026-07-19T07:37:31.983Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.162.140",
+      "city": "Istres",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
