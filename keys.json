@@ -16731,5 +16731,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-9949B5-C31EDF-583859": {
+    "expires": "2026-07-20T11:55:18.781Z",
+    "hwid": "8129172979-2db7d5f9-4d7e-4c11-94b8-df8059081b84",
+    "browserHwid": null,
+    "username": "botak_alien20",
+    "userId": "8129172979",
+    "source": "script",
+    "createdAt": "2026-07-19T11:55:19.340Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.184.180.184",
+      "city": "Magetan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
