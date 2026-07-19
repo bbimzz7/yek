@@ -16514,5 +16514,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0FAC29-30035D-5EF939": {
+    "expires": "2026-07-20T06:53:17.220Z",
+    "hwid": "10162599064-1864f9cd-7105-4f88-bb9b-7076d8984774",
+    "browserHwid": null,
+    "username": "karkerkur125173",
+    "userId": "10162599064",
+    "source": "script",
+    "createdAt": "2026-07-19T06:53:17.779Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.83.178.254",
+      "city": "Kresek",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
