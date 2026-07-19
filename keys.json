@@ -16186,9 +16186,16 @@
     "userId": "10807813135",
     "source": "script",
     "createdAt": "2026-07-18T23:59:58.712Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T00:01:26.003Z",
     "geo": {
       "ip": "177.66.86.139",
+      "city": "Solânea",
+      "region": "Paraíba",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
+      "ip": "177.66.86.138",
       "city": "Solânea",
       "region": "Paraíba",
       "country": "Brazil",
