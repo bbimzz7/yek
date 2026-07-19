@@ -16779,5 +16779,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-214B32-DE0932-8899F5": {
+    "expires": "2026-07-20T12:11:35.621Z",
+    "hwid": "9925770424-e4a7df2a-2d21-4bda-8595-1a31a812ebdb",
+    "browserHwid": null,
+    "username": "ItzLexira",
+    "userId": "9925770424",
+    "source": "script",
+    "createdAt": "2026-07-19T12:11:36.413Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.239.180.181",
+      "city": "Calamba",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
