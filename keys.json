@@ -16716,13 +16716,20 @@
     "userId": "8163872923",
     "source": "script",
     "createdAt": "2026-07-19T11:53:57.112Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T11:55:03.313Z",
     "geo": {
       "ip": "171.234.194.213",
       "city": "Hanoi",
       "region": "Hanoi",
       "country": "Vietnam",
       "cc": "VN"
+    },
+    "lastGeo": {
+      "ip": "67.159.54.212",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
     }
   }
 }
