@@ -17012,5 +17012,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-40BB2F-C5ABEA-99CCCE": {
+    "expires": "2026-07-20T16:58:40.335Z",
+    "hwid": "4368538396-c739077b-7868-49b8-9e69-aaea816e537a",
+    "browserHwid": null,
+    "username": "heleninha_crz",
+    "userId": "4368538396",
+    "source": "script",
+    "createdAt": "2026-07-19T16:58:40.855Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.99.74.15",
+      "city": "Cruzeiro",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
