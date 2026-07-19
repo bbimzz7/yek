@@ -16378,8 +16378,15 @@
     "userId": "8899914149",
     "source": "script",
     "createdAt": "2026-07-19T04:28:14.999Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T04:28:24.625Z",
     "geo": {
+      "ip": "103.111.98.103",
+      "city": "Sungaigerong",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.111.98.103",
       "city": "Sungaigerong",
       "region": "South Sumatra",
