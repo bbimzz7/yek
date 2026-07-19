@@ -16321,5 +16321,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-DFA926-9A5130-853A2C": {
+    "expires": "2026-07-20T02:52:25.133Z",
+    "hwid": "11194997921-d2af09e4-370c-4c0b-874f-9184d243ae05",
+    "browserHwid": null,
+    "username": "SADEWA_BIASA",
+    "userId": "11194997921",
+    "source": "script",
+    "createdAt": "2026-07-19T02:52:25.457Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.242.199.49",
+      "city": "Kota Batam",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
