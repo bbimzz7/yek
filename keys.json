@@ -17029,5 +17029,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-5F4936-BD4387-FE757F": {
+    "expires": "2026-07-20T17:00:05.785Z",
+    "hwid": null,
+    "browserHwid": "BR-65FEF99E-TUJUI",
+    "username": "shadow_plays106",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-07-19T17:00:06.149Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.128.101.166",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
