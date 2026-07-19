@@ -16490,5 +16490,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-367C27-588219-90EA02": {
+    "expires": "2026-07-20T06:26:12.710Z",
+    "hwid": "8660050672-6b12f15a-0f67-4d4d-80a0-e47fa997abae",
+    "browserHwid": null,
+    "username": "NotDiafaNexus",
+    "userId": "8660050672",
+    "source": "script",
+    "createdAt": "2026-07-19T06:26:13.273Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.136.217.165",
+      "city": "Mataram",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
