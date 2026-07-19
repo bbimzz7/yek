@@ -16940,5 +16940,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-2871FF-29CA15-D8CBF1": {
+    "expires": "2026-07-20T14:32:12.840Z",
+    "hwid": "7582397253-51dfdcc8-92ca-4ef8-af98-bda5b3cfbf9c",
+    "browserHwid": null,
+    "username": "Oreosmith17",
+    "userId": "7582397253",
+    "source": "script",
+    "createdAt": "2026-07-19T14:32:13.465Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.125.242.7",
+      "city": "Kuala Krai",
+      "region": "Kelantan",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
