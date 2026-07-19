@@ -16827,5 +16827,22 @@
       "country": "Nepal",
       "cc": "NP"
     }
+  },
+  "VH-A42726-BA0EB4-0E7ABD": {
+    "expires": "2026-07-20T13:27:20.892Z",
+    "hwid": "8138844915-f6c48043-2956-457b-a719-d5defdb7db85",
+    "browserHwid": null,
+    "username": "Better_cookies1",
+    "userId": "8138844915",
+    "source": "script",
+    "createdAt": "2026-07-19T13:27:21.408Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.158.184.188",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
