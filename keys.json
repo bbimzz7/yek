@@ -17110,8 +17110,15 @@
     "userId": "10803458618",
     "source": "script",
     "createdAt": "2026-07-19T18:29:41.367Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T18:29:55.122Z",
     "geo": {
+      "ip": "103.108.31.125",
+      "city": "Kotawaringin",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.108.31.125",
       "city": "Kotawaringin",
       "region": "Central Kalimantan",
