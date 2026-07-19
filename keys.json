@@ -17149,5 +17149,22 @@
       "country": "Azerbaijan",
       "cc": "AZ"
     }
+  },
+  "VH-84B080-6B5C9D-ED2F24": {
+    "expires": "2026-07-20T18:54:08.051Z",
+    "hwid": "11232515160-539062a6-a84c-40a5-a5c4-71bee052985d",
+    "browserHwid": null,
+    "username": "theo_rip330009",
+    "userId": "11232515160",
+    "source": "script",
+    "createdAt": "2026-07-19T18:54:08.607Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "131.100.236.121",
+      "city": "Araguaína",
+      "region": "Tocantins",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
