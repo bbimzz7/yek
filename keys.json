@@ -17125,5 +17125,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-17EA0B-5FCEC3-070924": {
+    "expires": "2026-07-20T18:39:19.979Z",
+    "hwid": "8130565876-0285fd13-2c8a-4b0f-911c-a2f4ea7c8138",
+    "browserHwid": null,
+    "username": "Aseynasy",
+    "userId": "8130565876",
+    "source": "script",
+    "createdAt": "2026-07-19T18:39:20.539Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.61.121.196",
+      "city": "Baku",
+      "region": "Baku City",
+      "country": "Azerbaijan",
+      "cc": "AZ"
+    }
   }
 }
