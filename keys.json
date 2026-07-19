@@ -16860,8 +16860,15 @@
     "userId": "10771879183",
     "source": "script",
     "createdAt": "2026-07-19T13:34:58.620Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T13:35:17.609Z",
     "geo": {
+      "ip": "49.151.127.176",
+      "city": "Baguio City",
+      "region": "Cordillera",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "49.151.127.176",
       "city": "Baguio City",
       "region": "Cordillera",
