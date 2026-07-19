@@ -15632,7 +15632,7 @@
     "userId": "7346822046",
     "source": "script",
     "createdAt": "2026-07-18T10:35:01.151Z",
-    "lastUsed": "2026-07-18T11:29:20.925Z",
+    "lastUsed": "2026-07-19T05:57:49.020Z",
     "geo": {
       "ip": "150.107.107.172",
       "city": "Janakpur Dham",
@@ -15641,9 +15641,9 @@
       "cc": "NP"
     },
     "lastGeo": {
-      "ip": "150.107.107.172",
-      "city": "Janakpur Dham",
-      "region": "Madhesh",
+      "ip": "103.121.172.49",
+      "city": "Patan",
+      "region": "Bagmati Province",
       "country": "Nepal",
       "cc": "NP"
     }
