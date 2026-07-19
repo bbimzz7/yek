@@ -16306,8 +16306,15 @@
     "userId": "8383740796",
     "source": "script",
     "createdAt": "2026-07-19T02:50:13.355Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T02:50:21.349Z",
     "geo": {
+      "ip": "177.137.83.16",
+      "city": "Sabará",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.137.83.16",
       "city": "Sabará",
       "region": "Minas Gerais",
