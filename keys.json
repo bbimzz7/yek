@@ -16803,5 +16803,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DF6A77-C2914B-05DA62": {
+    "expires": "2026-07-20T12:17:23.805Z",
+    "hwid": "7346822046-29e7d0a3-dc7c-4a2c-949c-dcd33905a4eb",
+    "browserHwid": null,
+    "username": "Lezzyffxzx",
+    "userId": "7346822046",
+    "source": "script",
+    "createdAt": "2026-07-19T12:17:24.355Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.172.44",
+      "city": "Patan",
+      "region": "Bagmati Province",
+      "country": "Nepal",
+      "cc": "NP"
+    }
   }
 }
