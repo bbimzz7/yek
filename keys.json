@@ -16499,8 +16499,15 @@
     "userId": "8660050672",
     "source": "script",
     "createdAt": "2026-07-19T06:26:13.273Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T06:26:25.369Z",
     "geo": {
+      "ip": "110.136.217.165",
+      "city": "Mataram",
+      "region": "West Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "110.136.217.165",
       "city": "Mataram",
       "region": "West Nusa Tenggara",
