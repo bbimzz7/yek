@@ -16225,5 +16225,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D23242-EDFB28-DCE4C7": {
+    "expires": "2026-07-20T01:31:01.310Z",
+    "hwid": "3674599100-f4f3f07b-8175-4334-9dd9-3692cb31dc76",
+    "browserHwid": null,
+    "username": "urarnt_funny",
+    "userId": "3674599100",
+    "source": "script",
+    "createdAt": "2026-07-19T01:31:01.831Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "47.205.219.235",
+      "city": "Sarasota",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
