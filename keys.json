@@ -17158,8 +17158,15 @@
     "userId": "11232515160",
     "source": "script",
     "createdAt": "2026-07-19T18:54:08.607Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T18:55:30.022Z",
     "geo": {
+      "ip": "131.100.236.121",
+      "city": "Araguaína",
+      "region": "Tocantins",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "131.100.236.121",
       "city": "Araguaína",
       "region": "Tocantins",
