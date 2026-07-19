@@ -16547,8 +16547,15 @@
     "userId": "7945410204",
     "source": "script",
     "createdAt": "2026-07-19T07:37:31.983Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T07:37:43.138Z",
     "geo": {
+      "ip": "104.28.162.140",
+      "city": "Istres",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "104.28.162.140",
       "city": "Istres",
       "region": "Provence-Alpes-Côte d'Azur",
