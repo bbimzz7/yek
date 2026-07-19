@@ -16611,5 +16611,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-94D78E-826531-A2886F": {
+    "expires": "2026-07-20T10:06:04.756Z",
+    "hwid": "8689526325-90B15B33-37BA-4597-B1BE-0B0438FF5E4B",
+    "browserHwid": null,
+    "username": "cloudyforgiveness",
+    "userId": "8689526325",
+    "source": "script",
+    "createdAt": "2026-07-19T10:06:05.299Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.116.212",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
