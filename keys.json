@@ -16393,5 +16393,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BE1614-176BBE-650DC0": {
+    "expires": "2026-07-20T04:32:12.194Z",
+    "hwid": "4979702070-8CA0395E-DE40-415F-AEAA-421196C4B8D7",
+    "browserHwid": null,
+    "username": "emilianorock73",
+    "userId": "4979702070",
+    "source": "script",
+    "createdAt": "2026-07-19T04:32:12.721Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.156.88",
+      "city": "Riga",
+      "region": "Riga",
+      "country": "Latvia",
+      "cc": "LV"
+    }
   }
 }
