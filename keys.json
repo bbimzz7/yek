@@ -16659,5 +16659,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-1DD3BE-B8B6A2-0EBB46": {
+    "expires": "2026-07-20T11:14:42.628Z",
+    "hwid": "11314059173-0c76f9f6-d970-470a-bdf8-7ac3f9226b8e",
+    "browserHwid": null,
+    "username": "PAPARAZZI_LADYGAG4",
+    "userId": "11314059173",
+    "source": "script",
+    "createdAt": "2026-07-19T11:14:43.196Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.37.221",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
