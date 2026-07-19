@@ -16916,5 +16916,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-3B6222-4AA22F-97124F": {
+    "expires": "2026-07-20T13:57:21.409Z",
+    "hwid": "11262017997-DE909497-5673-4B05-B280-761669F978A6",
+    "browserHwid": null,
+    "username": "idonttrustinlove66",
+    "userId": "11262017997",
+    "source": "script",
+    "createdAt": "2026-07-19T13:57:21.965Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "183.81.74.196",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
