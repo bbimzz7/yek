@@ -16417,5 +16417,22 @@
       "country": "Latvia",
       "cc": "LV"
     }
+  },
+  "VH-EDBEFC-5E0C50-324DAF": {
+    "expires": "2026-07-20T04:37:20.111Z",
+    "hwid": "8288245640-bc7af03e-0755-472e-bc99-07339db8cc9b",
+    "browserHwid": null,
+    "username": "pepehector_3",
+    "userId": "8288245640",
+    "source": "script",
+    "createdAt": "2026-07-19T04:37:20.435Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "174.205.33.129",
+      "city": "Henderson",
+      "region": "Nevada",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
