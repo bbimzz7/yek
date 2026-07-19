@@ -17101,5 +17101,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-72DDB0-0C178E-AE0397": {
+    "expires": "2026-07-20T18:29:40.834Z",
+    "hwid": "10803458618-ce296b1b-642a-4db4-b1db-ae9e1dc0a186",
+    "browserHwid": null,
+    "username": "zorvanyl2",
+    "userId": "10803458618",
+    "source": "script",
+    "createdAt": "2026-07-19T18:29:41.367Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.108.31.125",
+      "city": "Kotawaringin",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
