@@ -16465,5 +16465,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-7DA962-66E5C1-6EF852": {
+    "expires": "2026-07-20T05:03:01.603Z",
+    "hwid": null,
+    "browserHwid": "BR-558FCA23-R6DZ0",
+    "username": "Choimemeseane",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-07-19T05:03:02.119Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "123.28.55.21",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
