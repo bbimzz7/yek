@@ -17182,8 +17182,15 @@
     "userId": "9965011116",
     "source": "script",
     "createdAt": "2026-07-19T20:38:45.530Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T20:40:27.070Z",
     "geo": {
+      "ip": "191.95.135.56",
+      "city": "Cúcuta",
+      "region": "Norte de Santander Department",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
       "ip": "191.95.135.56",
       "city": "Cúcuta",
       "region": "Norte de Santander Department",
