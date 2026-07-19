@@ -16973,8 +16973,15 @@
     "userId": "8747600136",
     "source": "script",
     "createdAt": "2026-07-19T15:17:42.839Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T15:18:00.869Z",
     "geo": {
+      "ip": "185.203.52.20",
+      "city": "Abu Ghraib",
+      "region": "Baghdad",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "185.203.52.20",
       "city": "Abu Ghraib",
       "region": "Baghdad",
