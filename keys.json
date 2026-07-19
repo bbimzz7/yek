@@ -16249,5 +16249,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-9FDD0E-FD8E35-5A349D": {
+    "expires": "2026-07-20T01:39:59.044Z",
+    "hwid": "7097487498-8e2f6549-11ad-4a6a-a7cf-83db91414ad9",
+    "browserHwid": null,
+    "username": "guel_runter",
+    "userId": "7097487498",
+    "source": "script",
+    "createdAt": "2026-07-19T01:39:59.578Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "200.170.204.190",
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
