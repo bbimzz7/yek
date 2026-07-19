@@ -16354,8 +16354,15 @@
     "userId": "6075341194",
     "source": "script",
     "createdAt": "2026-07-19T03:23:25.198Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T03:23:32.990Z",
     "geo": {
+      "ip": "103.171.21.201",
+      "city": "Ilagan",
+      "region": "Cagayan Valley",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "103.171.21.201",
       "city": "Ilagan",
       "region": "Cagayan Valley",
