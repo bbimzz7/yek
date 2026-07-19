@@ -16297,5 +16297,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D57508-0383DB-DE0E4B": {
+    "expires": "2026-07-20T02:50:12.831Z",
+    "hwid": "8383740796-83DC14B4-18EE-41C9-B25A-2D4F2D64B255",
+    "browserHwid": null,
+    "username": "Luagamy2009",
+    "userId": "8383740796",
+    "source": "script",
+    "createdAt": "2026-07-19T02:50:13.355Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.137.83.16",
+      "city": "Sabará",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
