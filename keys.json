@@ -16562,5 +16562,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-76678F-06960C-616B10": {
+    "expires": "2026-07-20T08:31:15.142Z",
+    "hwid": null,
+    "browserHwid": "BR-5B014543-F7WFN",
+    "username": "PapaaGshkk21",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-07-19T08:31:15.690Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.67.248",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
