@@ -16273,5 +16273,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-69FBCE-8C380D-8DB5BD": {
+    "expires": "2026-07-20T02:44:59.512Z",
+    "hwid": "9036002578-76ac225c-6790-491d-b182-d04141678c4c",
+    "browserHwid": null,
+    "username": "yoshi_aaa4",
+    "userId": "9036002578",
+    "source": "script",
+    "createdAt": "2026-07-19T02:45:00.003Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.42.243.231",
+      "city": "Pemalang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
