@@ -17021,8 +17021,15 @@
     "userId": "4368538396",
     "source": "script",
     "createdAt": "2026-07-19T16:58:40.855Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T17:00:12.095Z",
     "geo": {
+      "ip": "138.99.74.15",
+      "city": "Cruzeiro",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "138.99.74.15",
       "city": "Cruzeiro",
       "region": "São Paulo",
