@@ -16426,8 +16426,15 @@
     "userId": "8288245640",
     "source": "script",
     "createdAt": "2026-07-19T04:37:20.435Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-19T04:38:15.030Z",
     "geo": {
+      "ip": "174.205.33.129",
+      "city": "Henderson",
+      "region": "Nevada",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "174.205.33.129",
       "city": "Henderson",
       "region": "Nevada",
