@@ -17375,8 +17375,15 @@
     "userId": "3399474380",
     "source": "script",
     "createdAt": "2026-07-20T06:04:38.991Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T06:04:53.884Z",
     "geo": {
+      "ip": "191.202.31.77",
+      "city": "Goiânia",
+      "region": "Goiás",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "191.202.31.77",
       "city": "Goiânia",
       "region": "Goiás",
