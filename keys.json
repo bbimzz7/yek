@@ -17294,5 +17294,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-0A09EE-FE16F5-DA8EDA": {
+    "expires": "2026-07-21T04:37:51.911Z",
+    "hwid": "6041557480-3fabbbeb-bcf4-401e-ada8-9b06d722a74e",
+    "browserHwid": null,
+    "username": "yoshu862",
+    "userId": "6041557480",
+    "source": "script",
+    "createdAt": "2026-07-20T04:37:52.423Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.0.229.157",
+      "city": "San Pedro Sula",
+      "region": "Cortés Department",
+      "country": "Honduras",
+      "cc": "HN"
+    }
   }
 }
