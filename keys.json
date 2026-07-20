@@ -17999,8 +17999,15 @@
     "userId": "3551701421",
     "source": "script",
     "createdAt": "2026-07-20T21:45:11.636Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T21:45:22.054Z",
     "geo": {
+      "ip": "2.50.125.155",
+      "city": "Al Ain City",
+      "region": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    },
+    "lastGeo": {
       "ip": "2.50.125.155",
       "city": "Al Ain City",
       "region": "Abu Dhabi",
