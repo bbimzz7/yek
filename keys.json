@@ -17966,5 +17966,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-A58C0F-2AA729-2EE46C": {
+    "expires": "2026-07-21T19:57:59.947Z",
+    "hwid": "10426175711-82842687-4d2c-4566-8a35-c76625abcba0",
+    "browserHwid": null,
+    "username": "kiko345618",
+    "userId": "10426175711",
+    "source": "script",
+    "createdAt": "2026-07-20T19:58:00.555Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.40.161.229",
+      "city": "Bratislava",
+      "region": "Bratislava Region",
+      "country": "Slovakia",
+      "cc": "SK"
+    }
   }
 }
