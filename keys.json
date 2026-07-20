@@ -17822,5 +17822,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-088DF4-829B91-C43CEF": {
+    "expires": "2026-07-21T17:09:33.765Z",
+    "hwid": "8489420287-ED54A484-D786-41B5-AB08-E85A7962A4B7",
+    "browserHwid": null,
+    "username": "felpizin75",
+    "userId": "8489420287",
+    "source": "script",
+    "createdAt": "2026-07-20T17:09:34.359Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.62.87.176",
+      "city": "Mairiporã",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
