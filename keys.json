@@ -18062,5 +18062,22 @@
       "country": "Türkiye",
       "cc": "TR"
     }
+  },
+  "VH-5C0D93-6EC7DA-32133A": {
+    "expires": "2026-07-21T23:16:11.848Z",
+    "hwid": "11238640149-d890dfb2-5e55-4327-a217-7be7f5a64da7",
+    "browserHwid": null,
+    "username": "YANTO2123781",
+    "userId": "11238640149",
+    "source": "script",
+    "createdAt": "2026-07-20T23:16:12.492Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "210.87.92.127",
+      "city": "Watulumbung",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
