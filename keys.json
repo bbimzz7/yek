@@ -17678,5 +17678,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FC17A9-FA0B53-C989AA": {
+    "expires": "2026-07-21T11:09:45.443Z",
+    "hwid": "10738519843-1b77ee44-422a-42bc-92ad-42069c675f95",
+    "browserHwid": null,
+    "username": "johnny57263",
+    "userId": "10738519843",
+    "source": "script",
+    "createdAt": "2026-07-20T11:09:46.130Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.150.196.48",
+      "city": "Baguio City",
+      "region": "Cordillera",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
