@@ -17951,8 +17951,15 @@
     "userId": "7319508405",
     "source": "script",
     "createdAt": "2026-07-20T19:18:24.835Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T19:19:38.135Z",
     "geo": {
+      "ip": "186.249.176.174",
+      "city": "Fortaleza",
+      "region": "Ceará",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "186.249.176.174",
       "city": "Fortaleza",
       "region": "Ceará",
