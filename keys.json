@@ -17702,5 +17702,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-88F717-F57012-071A70": {
+    "expires": "2026-07-21T11:33:14.193Z",
+    "hwid": "1738081538-47308D1D-F751-494F-BC48-BD4FDE878B2C",
+    "browserHwid": null,
+    "username": "fizzisveryepic1",
+    "userId": "1738081538",
+    "source": "script",
+    "createdAt": "2026-07-20T11:33:14.846Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.122.198.171",
+      "city": "Kota Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
