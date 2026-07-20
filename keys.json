@@ -17783,8 +17783,15 @@
     "userId": "8442050325",
     "source": "script",
     "createdAt": "2026-07-20T15:09:21.176Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T15:10:23.163Z",
     "geo": {
+      "ip": "146.70.246.167",
+      "city": "Bucharest",
+      "region": "Bucharest",
+      "country": "Romania",
+      "cc": "RO"
+    },
+    "lastGeo": {
       "ip": "146.70.246.167",
       "city": "Bucharest",
       "region": "Bucharest",
