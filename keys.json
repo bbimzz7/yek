@@ -17879,8 +17879,15 @@
     "userId": "10827782125",
     "source": "script",
     "createdAt": "2026-07-20T18:01:39.912Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T18:01:54.586Z",
     "geo": {
+      "ip": "212.79.122.97",
+      "city": "Bilhorod-Dnistrovskyi",
+      "region": "Odesa",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "212.79.122.97",
       "city": "Bilhorod-Dnistrovskyi",
       "region": "Odesa",
