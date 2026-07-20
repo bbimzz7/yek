@@ -17519,8 +17519,15 @@
     "userId": "7873414728",
     "source": "script",
     "createdAt": "2026-07-20T08:40:58.434Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T08:41:09.562Z",
     "geo": {
+      "ip": "103.106.146.177",
+      "city": "Dhankuta",
+      "region": "Koshi",
+      "country": "Nepal",
+      "cc": "NP"
+    },
+    "lastGeo": {
       "ip": "103.106.146.177",
       "city": "Dhankuta",
       "region": "Koshi",
