@@ -18071,8 +18071,15 @@
     "userId": "11238640149",
     "source": "script",
     "createdAt": "2026-07-20T23:16:12.492Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T23:16:29.237Z",
     "geo": {
+      "ip": "210.87.92.127",
+      "city": "Watulumbung",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "210.87.92.127",
       "city": "Watulumbung",
       "region": "Central Java",
