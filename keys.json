@@ -17846,5 +17846,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-C8AFE7-E4C330-A6FD08": {
+    "expires": "2026-07-21T17:38:00.354Z",
+    "hwid": "9507890428-2cbb4c85-e653-4d8a-ab08-a7ff9aa8de19",
+    "browserHwid": null,
+    "username": "BoTxSilver2",
+    "userId": "9507890428",
+    "source": "script",
+    "createdAt": "2026-07-20T17:38:00.915Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "151.244.153.152",
+      "city": "Mosul",
+      "region": "Nineveh Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
