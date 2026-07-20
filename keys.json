@@ -17870,5 +17870,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-4D7B7E-0BA92C-8A0FC1": {
+    "expires": "2026-07-21T18:01:39.321Z",
+    "hwid": "10827782125-356f5d9e-e830-44f4-9b4e-40126c91506c",
+    "browserHwid": null,
+    "username": "Celestiscal_KREST",
+    "userId": "10827782125",
+    "source": "script",
+    "createdAt": "2026-07-20T18:01:39.912Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.79.122.97",
+      "city": "Bilhorod-Dnistrovskyi",
+      "region": "Odesa",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
