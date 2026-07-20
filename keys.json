@@ -17279,8 +17279,15 @@
     "userId": "8805706150",
     "source": "script",
     "createdAt": "2026-07-20T03:51:56.557Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T03:54:40.296Z",
     "geo": {
+      "ip": "168.195.37.9",
+      "city": "Perico",
+      "region": "Jujuy",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "168.195.37.9",
       "city": "Perico",
       "region": "Jujuy",
