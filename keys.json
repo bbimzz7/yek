@@ -17366,5 +17366,22 @@
       "country": "Bolivia",
       "cc": "BO"
     }
+  },
+  "VH-8D4657-816D71-609C93": {
+    "expires": "2026-07-21T06:04:38.337Z",
+    "hwid": "3399474380-080727c8-f780-4854-8875-afa2102b52b0",
+    "browserHwid": null,
+    "username": "iTz_darkzinx44",
+    "userId": "3399474380",
+    "source": "script",
+    "createdAt": "2026-07-20T06:04:38.991Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.202.31.77",
+      "city": "Goiânia",
+      "region": "Goiás",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
