@@ -17438,5 +17438,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-5D5BB5-6D5DB5-642BD7": {
+    "expires": "2026-07-21T07:18:45.378Z",
+    "hwid": "10009198618-c04dcb37-4499-4554-b0dc-277b45b7ebd2",
+    "browserHwid": null,
+    "username": "aqunqqq",
+    "userId": "10009198618",
+    "source": "script",
+    "createdAt": "2026-07-20T07:18:45.885Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.210.119.82",
+      "city": "Krajan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
