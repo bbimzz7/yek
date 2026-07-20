@@ -17270,5 +17270,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-72210F-E2F367-621F24": {
+    "expires": "2026-07-21T03:51:56.005Z",
+    "hwid": "8805706150-3f10dcd7-d038-4d68-8f28-43ee00083b37",
+    "browserHwid": null,
+    "username": "pancontunella_4",
+    "userId": "8805706150",
+    "source": "script",
+    "createdAt": "2026-07-20T03:51:56.557Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "168.195.37.9",
+      "city": "Perico",
+      "region": "Jujuy",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
