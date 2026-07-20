@@ -17303,8 +17303,15 @@
     "userId": "6041557480",
     "source": "script",
     "createdAt": "2026-07-20T04:37:52.423Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T04:38:47.458Z",
     "geo": {
+      "ip": "138.0.229.157",
+      "city": "San Pedro Sula",
+      "region": "Cortés Department",
+      "country": "Honduras",
+      "cc": "HN"
+    },
+    "lastGeo": {
       "ip": "138.0.229.157",
       "city": "San Pedro Sula",
       "region": "Cortés Department",
