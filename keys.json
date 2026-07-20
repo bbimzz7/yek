@@ -17798,5 +17798,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-5A0434-AD62E2-F1B7EA": {
+    "expires": "2026-07-21T15:14:22.033Z",
+    "hwid": "3192697365-EF39D6B3-29ED-41F4-87B6-19646602B66F",
+    "browserHwid": null,
+    "username": "QueenaEllenW",
+    "userId": "3192697365",
+    "source": "script",
+    "createdAt": "2026-07-20T15:14:22.657Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.212.20.206",
+      "city": "Angarsk",
+      "region": "Irkutsk Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
