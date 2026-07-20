@@ -17942,5 +17942,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-F8ABEF-DA7285-82C73E": {
+    "expires": "2026-07-21T19:18:24.234Z",
+    "hwid": "7319508405-b5afe6c3-6f29-4a6b-983e-c275ce2300d9",
+    "browserHwid": null,
+    "username": "nanna90s",
+    "userId": "7319508405",
+    "source": "script",
+    "createdAt": "2026-07-20T19:18:24.835Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.249.176.174",
+      "city": "Fortaleza",
+      "region": "Ceará",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
