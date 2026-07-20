@@ -17414,5 +17414,22 @@
       "country": "Nepal",
       "cc": "NP"
     }
+  },
+  "VH-D90A2F-930670-39530B": {
+    "expires": "2026-07-21T06:54:03.812Z",
+    "hwid": "10081470826-0954c48d-39d2-472a-ae09-7f95a4f25d2d",
+    "browserHwid": null,
+    "username": "deminv_829",
+    "userId": "10081470826",
+    "source": "script",
+    "createdAt": "2026-07-20T06:54:04.351Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "148.255.136.253",
+      "city": "Santiago de los Caballeros",
+      "region": "Santiago Province",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
