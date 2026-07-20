@@ -18038,5 +18038,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-4D13B8-090A16-10C632": {
+    "expires": "2026-07-21T22:40:49.024Z",
+    "hwid": "5108855444-3f27c894-c79b-42f5-b899-c9b739a3d81a",
+    "browserHwid": null,
+    "username": "Yusufgzoni2147",
+    "userId": "5108855444",
+    "source": "script",
+    "createdAt": "2026-07-20T22:40:49.415Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.5.113.25",
+      "city": "Istanbul",
+      "region": "Istanbul",
+      "country": "Türkiye",
+      "cc": "TR"
+    }
   }
 }
