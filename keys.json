@@ -17903,8 +17903,15 @@
     "userId": "10169374608",
     "source": "script",
     "createdAt": "2026-07-20T18:46:50.542Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T18:48:39.065Z",
     "geo": {
+      "ip": "186.219.148.236",
+      "city": "São João da Boa Vista",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "186.219.148.236",
       "city": "São João da Boa Vista",
       "region": "São Paulo",
