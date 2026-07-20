@@ -17534,5 +17534,22 @@
       "country": "Nepal",
       "cc": "NP"
     }
+  },
+  "VH-2ADF57-277B71-F1CB65": {
+    "expires": "2026-07-21T08:59:59.642Z",
+    "hwid": "8899914149-36870b5f-d4aa-466e-8e9a-ba1b780e7856",
+    "browserHwid": null,
+    "username": "Realbaconclassicgg",
+    "userId": "8899914149",
+    "source": "script",
+    "createdAt": "2026-07-20T09:00:00.280Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.99.29",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
