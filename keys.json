@@ -17831,8 +17831,15 @@
     "userId": "8489420287",
     "source": "script",
     "createdAt": "2026-07-20T17:09:34.359Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T17:09:42.931Z",
     "geo": {
+      "ip": "187.62.87.176",
+      "city": "Mairiporã",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "187.62.87.176",
       "city": "Mairiporã",
       "region": "São Paulo",
