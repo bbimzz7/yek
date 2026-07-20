@@ -17990,5 +17990,22 @@
       "country": "Slovakia",
       "cc": "SK"
     }
+  },
+  "VH-6FDD36-F7494F-C15FB5": {
+    "expires": "2026-07-21T21:45:11.012Z",
+    "hwid": "3551701421-6EF4F678-C58C-4D3D-B678-C7CD409A506F",
+    "browserHwid": null,
+    "username": "YoriichiKamado_01",
+    "userId": "3551701421",
+    "source": "script",
+    "createdAt": "2026-07-20T21:45:11.636Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.50.125.155",
+      "city": "Al Ain City",
+      "region": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
