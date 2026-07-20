@@ -17918,5 +17918,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-4D2A30-CB47EA-B5A7B2": {
+    "expires": "2026-07-21T18:49:06.942Z",
+    "hwid": "7666381390-f388c077-be1f-4015-8f67-0f36b8e64164",
+    "browserHwid": null,
+    "username": "Tytrfe32",
+    "userId": "7666381390",
+    "source": "script",
+    "createdAt": "2026-07-20T18:49:07.517Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.29.98.19",
+      "city": "Romeoville",
+      "region": "Illinois",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
