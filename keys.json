@@ -17351,8 +17351,15 @@
     "userId": "10342016858",
     "source": "script",
     "createdAt": "2026-07-20T05:20:26.818Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T05:20:53.371Z",
     "geo": {
+      "ip": "189.28.85.202",
+      "city": "Cochabamba",
+      "region": "Cochabamba",
+      "country": "Bolivia",
+      "cc": "BO"
+    },
+    "lastGeo": {
       "ip": "189.28.85.202",
       "city": "Cochabamba",
       "region": "Cochabamba",
