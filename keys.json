@@ -17399,8 +17399,15 @@
     "userId": "3471578301",
     "source": "script",
     "createdAt": "2026-07-20T06:09:24.218Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T06:10:38.172Z",
     "geo": {
+      "ip": "27.34.111.34",
+      "city": "Kathmandu",
+      "region": "Bagmati Province",
+      "country": "Nepal",
+      "cc": "NP"
+    },
+    "lastGeo": {
       "ip": "27.34.111.34",
       "city": "Kathmandu",
       "region": "Bagmati Province",
