@@ -17726,5 +17726,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-75B2EC-AFAE2B-D78411": {
+    "expires": "2026-07-21T12:56:56.627Z",
+    "hwid": "11182284671-57261D91-8C4B-4B68-A0A2-049BEFADEA86",
+    "browserHwid": null,
+    "username": "TheMuscleGo",
+    "userId": "11182284671",
+    "source": "script",
+    "createdAt": "2026-07-20T12:56:57.184Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.99.118.2",
+      "city": "Pekalongan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
