@@ -17774,5 +17774,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E35E83-0D6396-2BB7B3": {
+    "expires": "2026-07-21T15:09:20.332Z",
+    "hwid": "8442050325-c80ae4fa-bf93-4f2d-bb0a-03256d518e6a",
+    "browserHwid": null,
+    "username": "mohamd99203",
+    "userId": "8442050325",
+    "source": "script",
+    "createdAt": "2026-07-20T15:09:21.176Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.70.246.167",
+      "city": "Bucharest",
+      "region": "Bucharest",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
