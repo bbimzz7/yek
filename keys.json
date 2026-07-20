@@ -17510,5 +17510,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-65F658-6ADE75-A30AB9": {
+    "expires": "2026-07-21T08:40:57.865Z",
+    "hwid": "7873414728-46dc0fd2-5958-4941-8bc6-ffe18d98401f",
+    "browserHwid": null,
+    "username": "goodbyeforever820",
+    "userId": "7873414728",
+    "source": "script",
+    "createdAt": "2026-07-20T08:40:58.434Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.106.146.177",
+      "city": "Dhankuta",
+      "region": "Koshi",
+      "country": "Nepal",
+      "cc": "NP"
+    }
   }
 }
