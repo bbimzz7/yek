@@ -17447,8 +17447,15 @@
     "userId": "10009198618",
     "source": "script",
     "createdAt": "2026-07-20T07:18:45.885Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T07:20:23.227Z",
     "geo": {
+      "ip": "103.210.119.82",
+      "city": "Krajan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.210.119.82",
       "city": "Krajan",
       "region": "East Java",
