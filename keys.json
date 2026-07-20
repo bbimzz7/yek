@@ -17975,8 +17975,15 @@
     "userId": "10426175711",
     "source": "script",
     "createdAt": "2026-07-20T19:58:00.555Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T19:59:06.675Z",
     "geo": {
+      "ip": "178.40.161.229",
+      "city": "Bratislava",
+      "region": "Bratislava Region",
+      "country": "Slovakia",
+      "cc": "SK"
+    },
+    "lastGeo": {
       "ip": "178.40.161.229",
       "city": "Bratislava",
       "region": "Bratislava Region",
