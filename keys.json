@@ -17807,8 +17807,15 @@
     "userId": "3192697365",
     "source": "script",
     "createdAt": "2026-07-20T15:14:22.657Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-20T15:14:29.341Z",
     "geo": {
+      "ip": "176.212.20.206",
+      "city": "Angarsk",
+      "region": "Irkutsk Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "176.212.20.206",
       "city": "Angarsk",
       "region": "Irkutsk Oblast",
