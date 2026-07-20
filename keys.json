@@ -17606,5 +17606,22 @@
       "country": "Azerbaijan",
       "cc": "AZ"
     }
+  },
+  "VH-E30DCA-F11751-0889FD": {
+    "expires": "2026-07-21T09:55:12.537Z",
+    "hwid": "2743790553-0fc16936-499e-4295-92f9-5b850b6efa5b",
+    "browserHwid": null,
+    "username": "velhu778",
+    "userId": "2743790553",
+    "source": "script",
+    "createdAt": "2026-07-20T09:55:13.121Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.84.116.120",
+      "city": "Marapoama",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
