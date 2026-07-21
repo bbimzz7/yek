@@ -18710,5 +18710,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-760EEC-57609C-77BF39": {
+    "expires": "2026-07-22T21:36:29.362Z",
+    "hwid": "5861822757-AE0E844A-808B-4F70-956A-3D0995F272D6",
+    "browserHwid": null,
+    "username": "merobaron_98",
+    "userId": "5861822757",
+    "source": "script",
+    "createdAt": "2026-07-21T21:36:29.995Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.60.67.74",
+      "city": "Santiago",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
