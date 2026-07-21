@@ -18422,5 +18422,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-BC6DED-AE728C-4AB1BB": {
+    "expires": "2026-07-22T12:33:59.244Z",
+    "hwid": "10701989596-6d2c2dd5-f241-41c7-a7f3-bab012c7b189",
+    "browserHwid": null,
+    "username": "twttegeheebbe",
+    "userId": "10701989596",
+    "source": "script",
+    "createdAt": "2026-07-21T12:33:59.801Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.135.197.219",
+      "city": "Ipoh",
+      "region": "Perak",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
