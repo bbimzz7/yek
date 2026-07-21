@@ -18143,11 +18143,18 @@
     "userId": "2591181671",
     "source": "script",
     "createdAt": "2026-07-21T03:44:35.216Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T03:45:24.532Z",
     "geo": {
       "ip": "146.75.132.27",
       "city": "Borong",
       "region": "East Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "101.128.121.48",
+      "city": "Sidoarjo",
+      "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
     }
