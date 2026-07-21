@@ -18398,5 +18398,22 @@
       "country": "United Arab Emirates",
       "cc": "AE"
     }
+  },
+  "VH-FFF973-2FE25A-51D22A": {
+    "expires": "2026-07-22T12:25:06.801Z",
+    "hwid": "7338311937-12538601-2e9c-4011-8bba-1338d9507ac1",
+    "browserHwid": null,
+    "username": "keikaiiii",
+    "userId": "7338311937",
+    "source": "script",
+    "createdAt": "2026-07-21T12:25:07.456Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.74.173.191",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
