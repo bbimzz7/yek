@@ -18662,5 +18662,22 @@
       "country": "Latvia",
       "cc": "LV"
     }
+  },
+  "VH-DB0112-7950B9-832C75": {
+    "expires": "2026-07-22T20:58:52.266Z",
+    "hwid": "10686111979-9C1E0530-7087-49A4-AD39-98AAAF9164E9",
+    "browserHwid": null,
+    "username": "soulsage89",
+    "userId": "10686111979",
+    "source": "script",
+    "createdAt": "2026-07-21T20:58:52.855Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.148.183.8",
+      "city": "Guebwiller",
+      "region": "Grand Est",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
