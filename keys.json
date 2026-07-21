@@ -18431,8 +18431,15 @@
     "userId": "10701989596",
     "source": "script",
     "createdAt": "2026-07-21T12:33:59.801Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T12:34:10.736Z",
     "geo": {
+      "ip": "115.135.197.219",
+      "city": "Ipoh",
+      "region": "Perak",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "115.135.197.219",
       "city": "Ipoh",
       "region": "Perak",
