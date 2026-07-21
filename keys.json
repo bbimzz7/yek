@@ -18374,5 +18374,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6CD51E-10A4EE-04C308": {
+    "expires": "2026-07-22T12:16:25.630Z",
+    "hwid": "2646532031-ad64b37f-0c34-4428-ada8-6ec9344d520c",
+    "browserHwid": null,
+    "username": "omar_ald11",
+    "userId": "2646532031",
+    "source": "script",
+    "createdAt": "2026-07-21T12:16:26.156Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.99.116.151",
+      "city": "Ajman",
+      "region": "Ajman",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
