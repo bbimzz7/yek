@@ -18254,5 +18254,22 @@
       "country": "Bangladesh",
       "cc": "BD"
     }
+  },
+  "VH-C89D7B-D99626-4894B5": {
+    "expires": "2026-07-22T07:17:30.891Z",
+    "hwid": "10489856211-2d003d59-84b6-45d9-9ad7-45bb8ab056c4",
+    "browserHwid": null,
+    "username": "danko_ci",
+    "userId": "10489856211",
+    "source": "script",
+    "createdAt": "2026-07-21T07:17:31.444Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.216.213.145",
+      "city": "Bishkek",
+      "region": "Bishkek",
+      "country": "Kyrgyzstan",
+      "cc": "KG"
+    }
   }
 }
