@@ -18719,8 +18719,15 @@
     "userId": "5861822757",
     "source": "script",
     "createdAt": "2026-07-21T21:36:29.995Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T21:36:39.832Z",
     "geo": {
+      "ip": "179.60.67.74",
+      "city": "Santiago",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    },
+    "lastGeo": {
       "ip": "179.60.67.74",
       "city": "Santiago",
       "region": "Santiago Metropolitan",
