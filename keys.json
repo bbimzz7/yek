@@ -18086,5 +18086,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-25A289-F2771D-50097F": {
+    "expires": "2026-07-22T00:28:40.278Z",
+    "hwid": "6039342608-28eef8ba-eda5-4ba8-b469-78b172ab568a",
+    "browserHwid": null,
+    "username": "samming_248683",
+    "userId": "6039342608",
+    "source": "script",
+    "createdAt": "2026-07-21T00:28:40.782Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "183.88.213.137",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
