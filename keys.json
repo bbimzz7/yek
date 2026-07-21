@@ -18230,5 +18230,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8E3CB3-F35919-6D23B5": {
+    "expires": "2026-07-22T05:49:04.236Z",
+    "hwid": "3865313123-16ac7172-9458-49be-9c23-79f86cd183e6",
+    "browserHwid": null,
+    "username": "Afimax11",
+    "userId": "3865313123",
+    "source": "script",
+    "createdAt": "2026-07-21T05:49:04.785Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.115.24.112",
+      "city": "Chittagong",
+      "region": "Chittagong",
+      "country": "Bangladesh",
+      "cc": "BD"
+    }
   }
 }
