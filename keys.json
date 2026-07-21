@@ -18623,8 +18623,15 @@
     "userId": "7622516600",
     "source": "script",
     "createdAt": "2026-07-21T15:51:13.195Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T15:51:26.655Z",
     "geo": {
+      "ip": "102.66.145.52",
+      "city": "Kroonstad",
+      "region": "Free State",
+      "country": "South Africa",
+      "cc": "ZA"
+    },
+    "lastGeo": {
       "ip": "102.66.145.52",
       "city": "Kroonstad",
       "region": "Free State",
