@@ -18383,8 +18383,15 @@
     "userId": "2646532031",
     "source": "script",
     "createdAt": "2026-07-21T12:16:26.156Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T12:16:36.222Z",
     "geo": {
+      "ip": "92.99.116.151",
+      "city": "Ajman",
+      "region": "Ajman",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    },
+    "lastGeo": {
       "ip": "92.99.116.151",
       "city": "Ajman",
       "region": "Ajman",
