@@ -18542,5 +18542,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-88654D-FDCAC3-4A56C6": {
+    "expires": "2026-07-22T13:38:45.442Z",
+    "hwid": "8401122654-91d7952f-3a77-429d-bfdd-5f5582c850df",
+    "browserHwid": null,
+    "username": "gianzxzzXMERCY",
+    "userId": "8401122654",
+    "source": "script",
+    "createdAt": "2026-07-21T13:38:46.039Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.20.233.75",
+      "city": "Mlonggo",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
