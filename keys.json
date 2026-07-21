@@ -18311,8 +18311,15 @@
     "userId": "5545173267",
     "source": "script",
     "createdAt": "2026-07-21T11:39:50.544Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T11:39:56.243Z",
     "geo": {
+      "ip": "82.10.83.95",
+      "city": "Birkenhead",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "82.10.83.95",
       "city": "Birkenhead",
       "region": "England",
