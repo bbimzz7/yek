@@ -18743,8 +18743,15 @@
     "userId": "9086682107",
     "source": "script",
     "createdAt": "2026-07-21T22:00:37.438Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T22:01:13.934Z",
     "geo": {
+      "ip": "71.195.17.147",
+      "city": "Minneapolis",
+      "region": "Minnesota",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "71.195.17.147",
       "city": "Minneapolis",
       "region": "Minnesota",
