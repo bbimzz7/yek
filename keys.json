@@ -18575,8 +18575,15 @@
     "userId": "9944154094",
     "source": "script",
     "createdAt": "2026-07-21T15:08:03.880Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T15:08:16.204Z",
     "geo": {
+      "ip": "103.141.47.217",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.141.47.217",
       "city": "Balikpapan",
       "region": "East Kalimantan",
