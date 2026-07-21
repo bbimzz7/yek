@@ -18638,5 +18638,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-78BA7F-0AD200-E98F6B": {
+    "expires": "2026-07-22T16:54:37.034Z",
+    "hwid": "10917077926-a3471128-01f1-4d93-a272-7890da449c63",
+    "browserHwid": null,
+    "username": "rp_khurshedn",
+    "userId": "10917077926",
+    "source": "script",
+    "createdAt": "2026-07-21T16:54:37.619Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "193.27.19.8",
+      "city": "Riga",
+      "region": "Riga",
+      "country": "Latvia",
+      "cc": "LV"
+    }
   }
 }
