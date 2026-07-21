@@ -18287,8 +18287,15 @@
     "userId": "1158821403",
     "source": "script",
     "createdAt": "2026-07-21T09:49:24.317Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T09:49:52.041Z",
     "geo": {
+      "ip": "103.178.3.226",
+      "city": "Sumber",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.178.3.226",
       "city": "Sumber",
       "region": "West Java",
