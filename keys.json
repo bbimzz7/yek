@@ -18455,8 +18455,15 @@
     "userId": "8568718456",
     "source": "script",
     "createdAt": "2026-07-21T12:56:25.797Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T12:56:34.812Z",
     "geo": {
+      "ip": "103.155.64.111",
+      "city": "Guranteng",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.155.64.111",
       "city": "Guranteng",
       "region": "West Java",
