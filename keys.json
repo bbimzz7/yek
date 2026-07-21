@@ -18206,5 +18206,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-C6161C-B1C047-1CD3C8": {
+    "expires": "2026-07-22T05:18:24.813Z",
+    "hwid": "3318290481-e69e7ef0-9767-4f77-99e3-e7acca22cc76",
+    "browserHwid": null,
+    "username": "adfilgon",
+    "userId": "3318290481",
+    "source": "script",
+    "createdAt": "2026-07-21T05:18:25.429Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "118.99.80.45",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
