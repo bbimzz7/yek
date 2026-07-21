@@ -18182,5 +18182,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1DCBE6-3A6274-BC99DC": {
+    "expires": "2026-07-22T04:46:55.329Z",
+    "hwid": "11300606836-e05bb91c-db2b-4128-a225-26164c6ee0b5",
+    "browserHwid": null,
+    "username": "P3_s4broso44392322",
+    "userId": "11300606836",
+    "source": "script",
+    "createdAt": "2026-07-21T04:46:55.864Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.49.142.203",
+      "city": "Mazatlán",
+      "region": "Sinaloa",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
