@@ -18614,5 +18614,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E78AFA-F09863-4D7C1E": {
+    "expires": "2026-07-22T15:51:12.784Z",
+    "hwid": "7622516600-8350212b-e050-49fd-946c-4d966751a2c8",
+    "browserHwid": null,
+    "username": "lynde51",
+    "userId": "7622516600",
+    "source": "script",
+    "createdAt": "2026-07-21T15:51:13.195Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.66.145.52",
+      "city": "Kroonstad",
+      "region": "Free State",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
