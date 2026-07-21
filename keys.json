@@ -18134,5 +18134,22 @@
       "country": "Honduras",
       "cc": "HN"
     }
+  },
+  "VH-84BEFD-0971B9-197CD8": {
+    "expires": "2026-07-22T03:44:34.663Z",
+    "hwid": "2591181671-27a6c5c0-b19a-4c6c-9470-e02b7d7b68f9",
+    "browserHwid": null,
+    "username": "Andrexnano",
+    "userId": "2591181671",
+    "source": "script",
+    "createdAt": "2026-07-21T03:44:35.216Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.75.132.27",
+      "city": "Borong",
+      "region": "East Nusa Tenggara",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
