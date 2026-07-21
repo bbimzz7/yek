@@ -18551,8 +18551,15 @@
     "userId": "8401122654",
     "source": "script",
     "createdAt": "2026-07-21T13:38:46.039Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T13:38:56.552Z",
     "geo": {
+      "ip": "157.20.233.75",
+      "city": "Mlonggo",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "157.20.233.75",
       "city": "Mlonggo",
       "region": "Central Java",
