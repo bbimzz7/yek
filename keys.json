@@ -18767,8 +18767,15 @@
     "userId": "8363898547",
     "source": "script",
     "createdAt": "2026-07-21T22:09:05.787Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T22:09:10.857Z",
     "geo": {
+      "ip": "179.6.26.75",
+      "city": "Lima",
+      "region": "Lima Province",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
       "ip": "179.6.26.75",
       "city": "Lima",
       "region": "Lima Province",
