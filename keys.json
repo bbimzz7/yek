@@ -18446,5 +18446,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-7A0D46-740AD1-CA353C": {
+    "expires": "2026-07-22T12:56:25.195Z",
+    "hwid": "8568718456-97cd2535-713a-49fc-8262-a396b3f5c7c6",
+    "browserHwid": null,
+    "username": "manzz_mutan",
+    "userId": "8568718456",
+    "source": "script",
+    "createdAt": "2026-07-21T12:56:25.797Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.155.64.111",
+      "city": "Guranteng",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
