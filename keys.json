@@ -18791,8 +18791,15 @@
     "userId": "8947452801",
     "source": "script",
     "createdAt": "2026-07-21T22:35:09.557Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T22:36:17.411Z",
     "geo": {
+      "ip": "136.158.126.161",
+      "city": "Jaen",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.126.161",
       "city": "Jaen",
       "region": "Central Luzon",
