@@ -18734,5 +18734,22 @@
       "country": "Chile",
       "cc": "CL"
     }
+  },
+  "VH-BF5014-872FD5-112576": {
+    "expires": "2026-07-22T22:00:36.861Z",
+    "hwid": "9086682107-5b95fe6b-65d5-40c4-884a-c3d6fdec2fa6",
+    "browserHwid": null,
+    "username": "Damani4352j4",
+    "userId": "9086682107",
+    "source": "script",
+    "createdAt": "2026-07-21T22:00:37.438Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "71.195.17.147",
+      "city": "Minneapolis",
+      "region": "Minnesota",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
