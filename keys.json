@@ -18191,8 +18191,15 @@
     "userId": "11300606836",
     "source": "script",
     "createdAt": "2026-07-21T04:46:55.864Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T04:48:12.917Z",
     "geo": {
+      "ip": "38.49.142.203",
+      "city": "Mazatlán",
+      "region": "Sinaloa",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "38.49.142.203",
       "city": "Mazatlán",
       "region": "Sinaloa",
