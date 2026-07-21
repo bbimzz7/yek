@@ -18647,8 +18647,15 @@
     "userId": "10917077926",
     "source": "script",
     "createdAt": "2026-07-21T16:54:37.619Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T16:55:54.017Z",
     "geo": {
+      "ip": "193.27.19.8",
+      "city": "Riga",
+      "region": "Riga",
+      "country": "Latvia",
+      "cc": "LV"
+    },
+    "lastGeo": {
       "ip": "193.27.19.8",
       "city": "Riga",
       "region": "Riga",
