@@ -18671,8 +18671,15 @@
     "userId": "10686111979",
     "source": "script",
     "createdAt": "2026-07-21T20:58:52.855Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-21T20:58:58.040Z",
     "geo": {
+      "ip": "176.148.183.8",
+      "city": "Guebwiller",
+      "region": "Grand Est",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "176.148.183.8",
       "city": "Guebwiller",
       "region": "Grand Est",
