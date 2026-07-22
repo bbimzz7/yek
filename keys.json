@@ -18878,5 +18878,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-03F69A-28A116-5469E2": {
+    "expires": "2026-07-23T01:30:23.743Z",
+    "hwid": "8640157035-61e31952-4428-49e3-bed9-62d0249d804e",
+    "browserHwid": null,
+    "username": "liuquocsangne",
+    "userId": "8640157035",
+    "source": "script",
+    "createdAt": "2026-07-22T01:30:24.340Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "123.22.66.182",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
