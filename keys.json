@@ -18926,5 +18926,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-31DC41-F83EA8-E19841": {
+    "expires": "2026-07-23T01:52:54.469Z",
+    "hwid": "11304351673-21899ed6-4118-4444-abd7-4e449e153e59",
+    "browserHwid": null,
+    "username": "sakyra76646",
+    "userId": "11304351673",
+    "source": "script",
+    "createdAt": "2026-07-22T01:52:55.023Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.181.182.11",
+      "city": "San Jose",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
