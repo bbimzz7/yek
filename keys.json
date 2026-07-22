@@ -19175,11 +19175,18 @@
     "userId": "2333099880",
     "source": "script",
     "createdAt": "2026-07-22T10:31:40.998Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-22T10:33:04.524Z",
     "geo": {
       "ip": "49.147.120.44",
       "city": "Bacolod City",
       "region": "Western Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "49.145.178.34",
+      "city": "Talisay City",
+      "region": "Central Visayas",
       "country": "Philippines",
       "cc": "PH"
     }
