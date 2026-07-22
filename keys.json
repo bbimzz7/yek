@@ -19286,5 +19286,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-EBC7DE-6BB2A3-6961D3": {
+    "expires": "2026-07-23T12:17:16.168Z",
+    "hwid": "8621245162-8fc363cb-8162-48ae-a5a9-16eb24e605ef",
+    "browserHwid": null,
+    "username": "ratys568",
+    "userId": "8621245162",
+    "source": "script",
+    "createdAt": "2026-07-22T12:17:16.622Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "193.26.13.155",
+      "city": "Kryvyi Rih",
+      "region": "Dnipropetrovsk Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
