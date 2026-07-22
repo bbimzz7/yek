@@ -19574,5 +19574,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-C3D346-C26498-E56397": {
+    "expires": "2026-07-23T17:48:00.354Z",
+    "hwid": "9842482258-00b42364-0c96-4f8c-98f4-9298e73fcd79",
+    "browserHwid": null,
+    "username": "OPAF_567",
+    "userId": "9842482258",
+    "source": "script",
+    "createdAt": "2026-07-22T17:48:00.916Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "216.106.191.30",
+      "city": "Milan",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
