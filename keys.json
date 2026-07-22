@@ -19430,5 +19430,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-70F389-5EE400-7F05FD": {
+    "expires": "2026-07-23T14:25:20.583Z",
+    "hwid": "8442050325-c80ae4fa-bf93-4f2d-bb0a-03256d518e6a",
+    "browserHwid": null,
+    "username": "mohamd99203",
+    "userId": "8442050325",
+    "source": "script",
+    "createdAt": "2026-07-22T14:25:21.136Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.70.246.170",
+      "city": "Bucharest",
+      "region": "Bucharest",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
