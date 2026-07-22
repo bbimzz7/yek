@@ -19478,5 +19478,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-B6A15C-508EA6-B2F614": {
+    "expires": "2026-07-23T15:40:53.096Z",
+    "hwid": "3038611711-d2fd1a50-56f7-4111-86ac-9c31c9457624",
+    "browserHwid": null,
+    "username": "ShatteredEulogy",
+    "userId": "3038611711",
+    "source": "script",
+    "createdAt": "2026-07-22T15:40:53.685Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "82.77.72.79",
+      "city": "Târgu Jiu",
+      "region": "Gorj County",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
