@@ -18839,8 +18839,15 @@
     "userId": "8158794790",
     "source": "script",
     "createdAt": "2026-07-22T00:55:29.371Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-22T00:56:26.760Z",
     "geo": {
+      "ip": "201.148.0.178",
+      "city": "Cosoleacaque",
+      "region": "Veracruz",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "201.148.0.178",
       "city": "Cosoleacaque",
       "region": "Veracruz",
