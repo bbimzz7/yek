@@ -19214,5 +19214,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3BED7E-E83666-AB7081": {
+    "expires": "2026-07-23T11:38:35.068Z",
+    "hwid": "11013373525-123f72dc-0295-4561-879d-868aab7f3b2d",
+    "browserHwid": null,
+    "username": "yxnaluv_01",
+    "userId": "11013373525",
+    "source": "script",
+    "createdAt": "2026-07-22T11:38:35.636Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.190.208.78",
+      "city": "San Juan",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
