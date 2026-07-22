@@ -19271,8 +19271,15 @@
     "userId": "11323555711",
     "source": "script",
     "createdAt": "2026-07-22T12:16:56.140Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-22T12:17:04.803Z",
     "geo": {
+      "ip": "31.200.233.198",
+      "city": "Nakhodka",
+      "region": "Primorye",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "31.200.233.198",
       "city": "Nakhodka",
       "region": "Primorye",
