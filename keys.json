@@ -19118,5 +19118,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-3B716E-B68652-408FD5": {
+    "expires": "2026-07-23T09:50:39.872Z",
+    "hwid": "10914035349-0856df30-a561-4938-aca3-9bf95d480d7b",
+    "browserHwid": null,
+    "username": "wake_show1",
+    "userId": "10914035349",
+    "source": "script",
+    "createdAt": "2026-07-22T09:50:40.351Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.65.165",
+      "city": "Antipolo City",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
