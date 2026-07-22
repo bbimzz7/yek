@@ -19142,5 +19142,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-5B04C6-FBB4DB-611740": {
+    "expires": "2026-07-23T10:01:11.477Z",
+    "hwid": "5847869375-0a2421bc-218b-4a29-9faa-09b98740cd82",
+    "browserHwid": null,
+    "username": "robirw82",
+    "userId": "5847869375",
+    "source": "script",
+    "createdAt": "2026-07-22T10:01:12.083Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.108.31.75",
+      "city": "Kotawaringin",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
