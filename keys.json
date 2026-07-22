@@ -18854,5 +18854,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-059F56-490077-93C844": {
+    "expires": "2026-07-23T01:03:10.931Z",
+    "hwid": "11070069378-fecdc996-f2da-4390-acdd-ea7c42db7b24",
+    "browserHwid": null,
+    "username": "Trisha86688",
+    "userId": "11070069378",
+    "source": "script",
+    "createdAt": "2026-07-22T01:03:11.517Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "149.30.130.103",
+      "city": "Calamba",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
