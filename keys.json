@@ -19463,8 +19463,15 @@
     "userId": "9186683207",
     "source": "script",
     "createdAt": "2026-07-22T15:25:33.375Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-22T15:29:16.233Z",
     "geo": {
+      "ip": "138.84.45.124",
+      "city": "Mexico City",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "138.84.45.124",
       "city": "Mexico City",
       "region": "Mexico City",
