@@ -19583,7 +19583,7 @@
     "userId": "9842482258",
     "source": "script",
     "createdAt": "2026-07-22T17:48:00.916Z",
-    "lastUsed": "2026-07-22T17:48:13.900Z",
+    "lastUsed": "2026-07-22T18:35:27.678Z",
     "geo": {
       "ip": "216.106.191.30",
       "city": "Milan",
@@ -19592,11 +19592,11 @@
       "cc": "IT"
     },
     "lastGeo": {
-      "ip": "216.106.191.30",
-      "city": "Milan",
-      "region": "Lombardy",
-      "country": "Italy",
-      "cc": "IT"
+      "ip": "94.128.235.143",
+      "city": "Kuwait City",
+      "region": "Al Asimah",
+      "country": "Kuwait",
+      "cc": "KW"
     }
   },
   "VH-5EE3AF-70B6EB-4A696E": {
