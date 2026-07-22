@@ -18830,5 +18830,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AE2969-46F0B2-82BA82": {
+    "expires": "2026-07-23T00:55:28.730Z",
+    "hwid": "8158794790-748b4b92-df93-4735-8f8c-6cda79dd5f9f",
+    "browserHwid": null,
+    "username": "DJ_SANIC767",
+    "userId": "8158794790",
+    "source": "script",
+    "createdAt": "2026-07-22T00:55:29.371Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.148.0.178",
+      "city": "Cosoleacaque",
+      "region": "Veracruz",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
