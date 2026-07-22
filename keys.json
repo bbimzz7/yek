@@ -18959,8 +18959,15 @@
     "userId": "4390288702",
     "source": "script",
     "createdAt": "2026-07-22T03:49:55.009Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-22T03:51:20.159Z",
     "geo": {
+      "ip": "116.98.255.86",
+      "city": "Huế",
+      "region": "Thừa Thiên Huế Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "116.98.255.86",
       "city": "Huế",
       "region": "Thừa Thiên Huế Province",
