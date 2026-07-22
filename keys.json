@@ -19127,8 +19127,15 @@
     "userId": "10914035349",
     "source": "script",
     "createdAt": "2026-07-22T09:50:40.351Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-22T09:51:43.987Z",
     "geo": {
+      "ip": "103.121.65.165",
+      "city": "Antipolo City",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "103.121.65.165",
       "city": "Antipolo City",
       "region": "Calabarzon",
