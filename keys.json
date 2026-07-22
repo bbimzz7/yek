@@ -19670,5 +19670,22 @@
       "country": "Chile",
       "cc": "CL"
     }
+  },
+  "VH-B741FF-D2A79D-C0F6DE": {
+    "expires": "2026-07-23T21:45:38.847Z",
+    "hwid": "11023536540-d6231579-a5a0-4525-b88a-6ebbf8806c9b",
+    "browserHwid": null,
+    "username": "vamp1_1re",
+    "userId": "11023536540",
+    "source": "script",
+    "createdAt": "2026-07-22T21:45:39.423Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "57.131.23.105",
+      "city": "Milan",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
