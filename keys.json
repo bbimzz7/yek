@@ -19190,5 +19190,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E7B9DE-7F0C42-9EE72E": {
+    "expires": "2026-07-23T10:57:01.832Z",
+    "hwid": "10848371235-1b5f23aa-eb69-4b90-ad63-55bc5c306694",
+    "browserHwid": null,
+    "username": "acap_7539",
+    "userId": "10848371235",
+    "source": "script",
+    "createdAt": "2026-07-22T10:57:02.390Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.130.242",
+      "city": "Palangkaraya",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
