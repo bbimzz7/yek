@@ -19166,5 +19166,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FDD7F3-437F70-48AB02": {
+    "expires": "2026-07-23T10:31:40.430Z",
+    "hwid": "2333099880-9d5acf78-5d09-4271-a280-6e9d1e3df6aa",
+    "browserHwid": null,
+    "username": "Itz_meLexus",
+    "userId": "2333099880",
+    "source": "script",
+    "createdAt": "2026-07-22T10:31:40.998Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.147.120.44",
+      "city": "Bacolod City",
+      "region": "Western Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
