@@ -18935,8 +18935,15 @@
     "userId": "11304351673",
     "source": "script",
     "createdAt": "2026-07-22T01:52:55.023Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-22T01:53:09.457Z",
     "geo": {
+      "ip": "5.181.182.11",
+      "city": "San Jose",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "5.181.182.11",
       "city": "San Jose",
       "region": "California",
