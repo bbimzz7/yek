@@ -19022,5 +19022,22 @@
       "country": "Trinidad and Tobago",
       "cc": "TT"
     }
+  },
+  "VH-A8BD50-F80765-347CF2": {
+    "expires": "2026-07-23T08:20:15.856Z",
+    "hwid": "6070225590-11c4afa6-badb-470f-890d-555085a4fe18",
+    "browserHwid": null,
+    "username": "SD_DANI18",
+    "userId": "6070225590",
+    "source": "script",
+    "createdAt": "2026-07-22T08:20:16.480Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.158.236.1",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
