@@ -18950,5 +18950,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-C0A583-509479-4ECA52": {
+    "expires": "2026-07-23T03:49:54.464Z",
+    "hwid": "4390288702-f55ba6d7-944b-4ecc-901e-83c0347a97ef",
+    "browserHwid": null,
+    "username": "hogiakiethi",
+    "userId": "4390288702",
+    "source": "script",
+    "createdAt": "2026-07-22T03:49:55.009Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.98.255.86",
+      "city": "Huế",
+      "region": "Thừa Thiên Huế Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
