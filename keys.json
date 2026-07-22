@@ -19007,8 +19007,15 @@
     "userId": "7639340467",
     "source": "script",
     "createdAt": "2026-07-22T07:09:10.709Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-22T07:10:12.346Z",
     "geo": {
+      "ip": "170.84.9.107",
+      "city": "Chaguanas",
+      "region": "Chaguanas",
+      "country": "Trinidad and Tobago",
+      "cc": "TT"
+    },
+    "lastGeo": {
       "ip": "170.84.9.107",
       "city": "Chaguanas",
       "region": "Chaguanas",
