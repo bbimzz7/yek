@@ -19646,5 +19646,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-1100AD-DDE809-682CEC": {
+    "expires": "2026-07-23T21:10:41.352Z",
+    "hwid": "2881773828-7f8ffa64-40e5-4562-9d0a-e4c07796415e",
+    "browserHwid": null,
+    "username": "THEninja2399",
+    "userId": "2881773828",
+    "source": "script",
+    "createdAt": "2026-07-22T21:10:41.940Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.60.67.80",
+      "city": "Santiago",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
