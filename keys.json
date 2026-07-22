@@ -19262,5 +19262,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-255093-3539F8-D93C8E": {
+    "expires": "2026-07-23T12:16:55.543Z",
+    "hwid": "11323555711-C0D543EE-5197-458E-9082-2450ED9A7AE0",
+    "browserHwid": null,
+    "username": "whater_034",
+    "userId": "11323555711",
+    "source": "script",
+    "createdAt": "2026-07-22T12:16:56.140Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "31.200.233.198",
+      "city": "Nakhodka",
+      "region": "Primorye",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
