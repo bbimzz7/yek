@@ -19502,5 +19502,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-D61078-2E9A3A-60BF38": {
+    "expires": "2026-07-23T15:47:13.138Z",
+    "hwid": "8344184190-912c8f69-b0a8-434c-a3c9-a4577c13e739",
+    "browserHwid": null,
+    "username": "mhazizprrr",
+    "userId": "8344184190",
+    "source": "script",
+    "createdAt": "2026-07-22T15:47:13.754Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.166.234.71",
+      "city": "Surakarta",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
