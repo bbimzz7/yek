@@ -19103,8 +19103,15 @@
     "userId": "2638471369",
     "source": "script",
     "createdAt": "2026-07-22T09:45:17.040Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-22T09:46:09.458Z",
     "geo": {
+      "ip": "1.53.150.246",
+      "city": "Thị Trấn Ngải Giao",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "1.53.150.246",
       "city": "Thị Trấn Ngải Giao",
       "region": "Ho Chi Minh City (HCMC)",
