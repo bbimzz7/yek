@@ -19406,5 +19406,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-B379F6-68548B-307E07": {
+    "expires": "2026-07-23T14:06:45.576Z",
+    "hwid": "8687389001-F919E357-CAD6-49B6-8A72-A90D4B409A11",
+    "browserHwid": null,
+    "username": "erlyheaven",
+    "userId": "8687389001",
+    "source": "script",
+    "createdAt": "2026-07-22T14:06:46.210Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.212.97.137",
+      "city": "Lviv",
+      "region": "Lviv",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
