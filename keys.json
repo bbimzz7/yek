@@ -19454,5 +19454,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-52F351-CFD4F4-B31FA2": {
+    "expires": "2026-07-23T15:25:32.715Z",
+    "hwid": "9186683207-1718b944-76db-43c4-a6e0-34af51f49313",
+    "browserHwid": null,
+    "username": "Mario707064",
+    "userId": "9186683207",
+    "source": "script",
+    "createdAt": "2026-07-22T15:25:33.375Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.45.124",
+      "city": "Mexico City",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
