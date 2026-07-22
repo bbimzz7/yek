@@ -18998,5 +18998,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-C45E2D-7A3AEC-29477F": {
+    "expires": "2026-07-23T07:09:10.141Z",
+    "hwid": "7639340467-4aa401df-bf1a-494d-b64b-6302a767681f",
+    "browserHwid": null,
+    "username": "jjkdamn",
+    "userId": "7639340467",
+    "source": "script",
+    "createdAt": "2026-07-22T07:09:10.709Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.84.9.107",
+      "city": "Chaguanas",
+      "region": "Chaguanas",
+      "country": "Trinidad and Tobago",
+      "cc": "TT"
+    }
   }
 }
