@@ -19319,8 +19319,15 @@
     "userId": "5108855444",
     "source": "script",
     "createdAt": "2026-07-22T12:46:17.611Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-22T12:47:49.806Z",
     "geo": {
+      "ip": "95.5.113.25",
+      "city": "Istanbul",
+      "region": "Istanbul",
+      "country": "Türkiye",
+      "cc": "TR"
+    },
+    "lastGeo": {
       "ip": "95.5.113.25",
       "city": "Istanbul",
       "region": "Istanbul",
