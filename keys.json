@@ -18902,5 +18902,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-9CEE4A-4232E1-22E5DA": {
+    "expires": "2026-07-23T01:46:43.025Z",
+    "hwid": "7005698944-dc227de1-686c-47af-86ad-a599067c5986",
+    "browserHwid": null,
+    "username": "anajulia172845",
+    "userId": "7005698944",
+    "source": "script",
+    "createdAt": "2026-07-22T01:46:43.594Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.12.183.178",
+      "city": "Belford Roxo",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
