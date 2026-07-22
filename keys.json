@@ -18806,5 +18806,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-008517-B98724-FDC4A6": {
+    "expires": "2026-07-23T00:47:52.653Z",
+    "hwid": "9514835676-0b7e8041-53e4-4e9e-a2fb-3b7a44abdcd3",
+    "browserHwid": null,
+    "username": "Gilang_ganteng045",
+    "userId": "9514835676",
+    "source": "script",
+    "createdAt": "2026-07-22T00:47:53.285Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.158.61.219",
+      "city": "North Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
