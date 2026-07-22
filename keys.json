@@ -19607,8 +19607,15 @@
     "userId": "4803709406",
     "source": "script",
     "createdAt": "2026-07-22T17:58:54.314Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-22T18:09:29.566Z",
     "geo": {
+      "ip": "179.1.190.8",
+      "city": "Santa Marta",
+      "region": "Magdalena Department",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
       "ip": "179.1.190.8",
       "city": "Santa Marta",
       "region": "Magdalena Department",
