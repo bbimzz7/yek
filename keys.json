@@ -19334,5 +19334,22 @@
       "country": "Türkiye",
       "cc": "TR"
     }
+  },
+  "VH-D911A6-0A88D2-D935A3": {
+    "expires": "2026-07-23T13:15:17.401Z",
+    "hwid": "11185351579-2c7f1683-3ab5-46bf-bbb3-7d943bc620c0",
+    "browserHwid": null,
+    "username": "jgdkhdor123",
+    "userId": "11185351579",
+    "source": "script",
+    "createdAt": "2026-07-22T13:15:18.032Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.46.150.130",
+      "city": "Pemalang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
