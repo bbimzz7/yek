@@ -19358,5 +19358,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E1E149-5737D2-75C489": {
+    "expires": "2026-07-23T13:36:38.293Z",
+    "hwid": "1408626642-670c3789-4a07-432e-9462-19db6588fa98",
+    "browserHwid": null,
+    "username": "Madiisdf100",
+    "userId": "1408626642",
+    "source": "script",
+    "createdAt": "2026-07-22T13:36:38.913Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "89.88.215.197",
+      "city": "Le Mans",
+      "region": "Pays de la Loire",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
