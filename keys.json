@@ -19598,5 +19598,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-5EE3AF-70B6EB-4A696E": {
+    "expires": "2026-07-23T17:58:53.708Z",
+    "hwid": "4803709406-c3808059-d725-452a-bca6-a05663215649",
+    "browserHwid": null,
+    "username": "MorraBella4",
+    "userId": "4803709406",
+    "source": "script",
+    "createdAt": "2026-07-22T17:58:54.314Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.1.190.8",
+      "city": "Santa Marta",
+      "region": "Magdalena Department",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
