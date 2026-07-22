@@ -19622,5 +19622,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-3020E4-BDD94E-6C7103": {
+    "expires": "2026-07-23T19:21:46.239Z",
+    "hwid": "1722448319-d40ee5de-ff40-4f35-9b47-5ecc0d7b1b9d",
+    "browserHwid": null,
+    "username": "ChaseCrev1234",
+    "userId": "1722448319",
+    "source": "script",
+    "createdAt": "2026-07-22T19:21:46.873Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "74.102.202.182",
+      "city": "Freehold",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
