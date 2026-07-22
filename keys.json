@@ -19094,5 +19094,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EA529B-DF99A3-D4BB02": {
+    "expires": "2026-07-23T09:45:16.433Z",
+    "hwid": "2638471369-a84f2b3e-9df8-472b-bdf8-8b4c0c7496ca",
+    "browserHwid": null,
+    "username": "haulaotv1",
+    "userId": "2638471369",
+    "source": "script",
+    "createdAt": "2026-07-22T09:45:17.040Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.53.150.246",
+      "city": "Thị Trấn Ngải Giao",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
