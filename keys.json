@@ -20079,5 +20079,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-259BD0-9A422B-355722": {
+    "expires": "2026-07-24T09:20:09.730Z",
+    "hwid": "10027763533-8CEC07D6-6F48-468A-8790-214D1DBD177B",
+    "browserHwid": null,
+    "username": "universxc",
+    "userId": "10027763533",
+    "source": "script",
+    "createdAt": "2026-07-23T09:20:10.153Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.74.218.124",
+      "city": "Banyuwangi",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
