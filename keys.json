@@ -20225,11 +20225,18 @@
     "userId": "8542321018",
     "source": "script",
     "createdAt": "2026-07-23T12:33:29.194Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T12:33:46.062Z",
     "geo": {
       "ip": "119.93.117.160",
       "city": "Balagtas",
       "region": "Eastern Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "119.93.199.84",
+      "city": "Mandaluyong",
+      "region": "Metro Manila",
       "country": "Philippines",
       "cc": "PH"
     }
