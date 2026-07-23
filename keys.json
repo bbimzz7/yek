@@ -20432,5 +20432,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-ECD41C-5A3B14-2D49D1": {
+    "expires": "2026-07-24T16:52:43.424Z",
+    "hwid": "3889764460-534BECF9-9F86-40E6-A50C-201CFF742351",
+    "browserHwid": null,
+    "username": "avnq1337",
+    "userId": "3889764460",
+    "source": "script",
+    "createdAt": "2026-07-23T16:52:44.148Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.156.66",
+      "city": "Domodedovo",
+      "region": "Moscow Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
