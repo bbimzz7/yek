@@ -20576,5 +20576,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-2ED679-AB81EB-30C27C": {
+    "expires": "2026-07-24T19:16:50.982Z",
+    "hwid": "3390588230-CD640138-A993-4A5D-90AE-2EC8ECA6DC92",
+    "browserHwid": null,
+    "username": "DrDumys",
+    "userId": "3390588230",
+    "source": "script",
+    "createdAt": "2026-07-23T19:16:51.575Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.128.100.126",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
