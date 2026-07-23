@@ -20007,5 +20007,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-CD9CA8-4DAA62-FD7965": {
+    "expires": "2026-07-24T09:04:46.318Z",
+    "hwid": "9222064332-7ea2acfc-cc17-41f8-b6dd-d36bcd0a6805",
+    "browserHwid": null,
+    "username": "rapzxii1",
+    "userId": "9222064332",
+    "source": "script",
+    "createdAt": "2026-07-23T09:04:46.962Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.173.138.244",
+      "city": "Pulaupanggung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
