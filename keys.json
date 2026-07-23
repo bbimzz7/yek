@@ -20657,8 +20657,15 @@
     "userId": "10369690853",
     "source": "script",
     "createdAt": "2026-07-23T21:41:15.243Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T21:41:24.393Z",
     "geo": {
+      "ip": "92.62.71.230",
+      "city": "Bishkek",
+      "region": "Bishkek",
+      "country": "Kyrgyzstan",
+      "cc": "KG"
+    },
+    "lastGeo": {
       "ip": "92.62.71.230",
       "city": "Bishkek",
       "region": "Bishkek",
