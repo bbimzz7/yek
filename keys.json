@@ -20600,5 +20600,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E99AAE-069E39-4C31EA": {
+    "expires": "2026-07-24T20:59:06.111Z",
+    "hwid": "11332364898-7667e01e-33e1-4414-8017-e3a45f1644f6",
+    "browserHwid": null,
+    "username": "kyaranimek",
+    "userId": "11332364898",
+    "source": "script",
+    "createdAt": "2026-07-23T20:59:06.669Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.131.19.33",
+      "city": "Bulakamba",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
