@@ -20088,9 +20088,16 @@
     "userId": "10027763533",
     "source": "script",
     "createdAt": "2026-07-23T09:20:10.153Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T09:20:15.596Z",
     "geo": {
       "ip": "36.74.218.124",
+      "city": "Banyuwangi",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "36.74.220.43",
       "city": "Banyuwangi",
       "region": "East Java",
       "country": "Indonesia",
