@@ -20016,8 +20016,15 @@
     "userId": "9222064332",
     "source": "script",
     "createdAt": "2026-07-23T09:04:46.962Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T09:04:53.302Z",
     "geo": {
+      "ip": "103.173.138.244",
+      "city": "Pulaupanggung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.173.138.244",
       "city": "Pulaupanggung",
       "region": "Lampung",
