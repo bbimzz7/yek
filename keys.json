@@ -19944,8 +19944,15 @@
     "userId": "8811903877",
     "source": "script",
     "createdAt": "2026-07-23T07:21:29.015Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T07:21:37.972Z",
     "geo": {
+      "ip": "140.213.150.155",
+      "city": "Karyadharma",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "140.213.150.155",
       "city": "Karyadharma",
       "region": "Bali",
