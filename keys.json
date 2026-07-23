@@ -20456,5 +20456,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-4C9EDC-7ED7C2-B05C1A": {
+    "expires": "2026-07-24T16:58:49.898Z",
+    "hwid": "4644795763-6c41b8f5-e633-4201-90e9-c7b67ce3e77c",
+    "browserHwid": null,
+    "username": "Piska_babaPiska",
+    "userId": "4644795763",
+    "source": "script",
+    "createdAt": "2026-07-23T16:58:50.460Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.223.185.251",
+      "city": "Ust-Kamenogorsk",
+      "region": "East Kazakhstan",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
