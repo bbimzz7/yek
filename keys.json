@@ -19719,5 +19719,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-355412-7673D4-24F8C0": {
+    "expires": "2026-07-24T01:52:52.721Z",
+    "hwid": "10730844597-6c51358a-1260-4b1e-b0f2-2c94022c379a",
+    "browserHwid": null,
+    "username": "DzikriAF0",
+    "userId": "10730844597",
+    "source": "script",
+    "createdAt": "2026-07-23T01:52:53.243Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.60.100",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
