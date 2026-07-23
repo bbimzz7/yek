@@ -20417,8 +20417,15 @@
     "userId": "4815288520",
     "source": "script",
     "createdAt": "2026-07-23T16:43:11.947Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T16:43:23.311Z",
     "geo": {
+      "ip": "45.161.12.160",
+      "city": "Carnaíba",
+      "region": "Pernambuco",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.161.12.160",
       "city": "Carnaíba",
       "region": "Pernambuco",
