@@ -19752,8 +19752,15 @@
     "userId": "1110153538",
     "source": "script",
     "createdAt": "2026-07-23T02:44:46.297Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T02:45:18.237Z",
     "geo": {
+      "ip": "140.106.64.5",
+      "city": "Hamilton",
+      "region": "Mississippi",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "140.106.64.5",
       "city": "Hamilton",
       "region": "Mississippi",
