@@ -19863,5 +19863,22 @@
       "country": "Jamaica",
       "cc": "JM"
     }
+  },
+  "VH-79DC53-54A31C-6472AE": {
+    "expires": "2026-07-24T05:56:46.977Z",
+    "hwid": "11001701928-ce724729-1f7a-4790-8f48-fb98022b2644",
+    "browserHwid": null,
+    "username": "giggityyy14",
+    "userId": "11001701928",
+    "source": "script",
+    "createdAt": "2026-07-23T05:56:47.538Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "75.208.36.224",
+      "city": "Georgetown",
+      "region": "South Carolina",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
