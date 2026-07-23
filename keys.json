@@ -20552,5 +20552,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3960B2-8FF4CA-BF972E": {
+    "expires": "2026-07-24T18:42:43.775Z",
+    "hwid": "10958768691-c40fd2b0-7945-42f6-9447-531f2c3548fa",
+    "browserHwid": null,
+    "username": "iamthealvin58",
+    "userId": "10958768691",
+    "source": "script",
+    "createdAt": "2026-07-23T18:42:44.369Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "142.204.85.176",
+      "city": "Lake in the Hills",
+      "region": "Illinois",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
