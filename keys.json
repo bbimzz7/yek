@@ -19694,5 +19694,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-9A140C-E02723-AA018F": {
+    "expires": "2026-07-24T01:28:30.428Z",
+    "hwid": null,
+    "browserHwid": "BR-0E66203F-CICAJ",
+    "username": "Sophdale10123",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-07-23T01:28:31.077Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.135.71.126",
+      "city": "Praia Grande",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
