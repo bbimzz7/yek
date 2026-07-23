@@ -20360,5 +20360,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-09C8EA-71993A-CD4E51": {
+    "expires": "2026-07-24T16:24:14.546Z",
+    "hwid": "8923263607-22a15f95-28e3-4b32-bb8d-0802ed2b8dd4",
+    "browserHwid": null,
+    "username": "NADIE_99995",
+    "userId": "8923263607",
+    "source": "script",
+    "createdAt": "2026-07-23T16:24:15.129Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.7.20.121",
+      "city": "Álvaro Obregón",
+      "region": "Michoacán",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
