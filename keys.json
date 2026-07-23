@@ -20321,8 +20321,15 @@
     "userId": "10857118200",
     "source": "script",
     "createdAt": "2026-07-23T13:36:24.629Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T13:39:44.756Z",
     "geo": {
+      "ip": "102.220.41.206",
+      "city": "Garoowe",
+      "region": "Nugaal",
+      "country": "Somalia",
+      "cc": "SO"
+    },
+    "lastGeo": {
       "ip": "102.220.41.206",
       "city": "Garoowe",
       "region": "Nugaal",
