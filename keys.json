@@ -20681,8 +20681,15 @@
     "userId": "4708693914",
     "source": "script",
     "createdAt": "2026-07-23T23:44:30.525Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T23:44:36.818Z",
     "geo": {
+      "ip": "79.177.145.51",
+      "city": "Haifa",
+      "region": "Haifa",
+      "country": "Israel",
+      "cc": "IL"
+    },
+    "lastGeo": {
       "ip": "79.177.145.51",
       "city": "Haifa",
       "region": "Haifa",
