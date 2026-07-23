@@ -20408,5 +20408,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-34D9FF-369150-ACDA57": {
+    "expires": "2026-07-24T16:43:11.272Z",
+    "hwid": "4815288520-a9cc660f-f01c-48a2-a245-d44125f7cbf2",
+    "browserHwid": null,
+    "username": "eslly44",
+    "userId": "4815288520",
+    "source": "script",
+    "createdAt": "2026-07-23T16:43:11.947Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.161.12.160",
+      "city": "Carnaíba",
+      "region": "Pernambuco",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
