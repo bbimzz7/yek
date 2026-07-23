@@ -19767,5 +19767,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-A6A8D7-09DADC-11B907": {
+    "expires": "2026-07-24T03:35:54.178Z",
+    "hwid": "6131787120-37f07d4f-cd6a-4ffa-b3f5-241ef8e0cfdd",
+    "browserHwid": null,
+    "username": "1lvfruitnotifier",
+    "userId": "6131787120",
+    "source": "script",
+    "createdAt": "2026-07-23T03:35:54.763Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.85.130.28",
+      "city": "The Bronx",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
