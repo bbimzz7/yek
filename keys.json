@@ -19911,5 +19911,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-08AF7F-DE1C49-07EC80": {
+    "expires": "2026-07-24T06:15:41.684Z",
+    "hwid": "10774022811-b9e934b8-1921-40dc-9aa7-3f0f97bf7506",
+    "browserHwid": null,
+    "username": "the_blessedexe",
+    "userId": "10774022811",
+    "source": "script",
+    "createdAt": "2026-07-23T06:15:42.264Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.105.191.64",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
