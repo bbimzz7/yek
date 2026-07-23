@@ -20240,5 +20240,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E753DA-DCD27B-C304CC": {
+    "expires": "2026-07-24T13:05:00.227Z",
+    "hwid": "7720976704-5825baaa-f402-44a2-ab77-ad19eb5689c8",
+    "browserHwid": null,
+    "username": "Jusdorange2450",
+    "userId": "7720976704",
+    "source": "script",
+    "createdAt": "2026-07-23T13:05:00.909Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.129.121.74",
+      "city": "Afaahiti",
+      "region": "Îles du Vent",
+      "country": "French Polynesia",
+      "cc": "PF"
+    }
   }
 }
