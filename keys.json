@@ -19983,5 +19983,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2C4E31-B383F4-D98579": {
+    "expires": "2026-07-24T08:00:09.598Z",
+    "hwid": "4553034899-0f6019d7-e2db-4d2c-879c-2d0035b9b23d",
+    "browserHwid": null,
+    "username": "Viy3ts2",
+    "userId": "4553034899",
+    "source": "script",
+    "createdAt": "2026-07-23T08:00:10.220Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "87.239.135.73",
+      "city": "Warsaw",
+      "region": "Mazovia",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
