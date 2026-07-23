@@ -20055,5 +20055,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-212E6C-4BFCD5-EBC86E": {
+    "expires": "2026-07-24T09:16:11.279Z",
+    "hwid": "5659002845-e0cc7c86-091b-4776-8a97-66c601b6afb7",
+    "browserHwid": null,
+    "username": "oUnpTTNwTvS",
+    "userId": "5659002845",
+    "source": "script",
+    "createdAt": "2026-07-23T09:16:11.905Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.89.91.132",
+      "city": "Ciranjang-hilir",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
