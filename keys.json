@@ -20136,8 +20136,15 @@
     "userId": "6089016200",
     "source": "script",
     "createdAt": "2026-07-23T09:36:35.626Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T09:37:11.938Z",
     "geo": {
+      "ip": "107.115.153.59",
+      "city": "Camden",
+      "region": "Alabama",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "107.115.153.59",
       "city": "Camden",
       "region": "Alabama",
