@@ -20561,8 +20561,15 @@
     "userId": "10958768691",
     "source": "script",
     "createdAt": "2026-07-23T18:42:44.369Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T18:43:20.316Z",
     "geo": {
+      "ip": "142.204.85.176",
+      "city": "Lake in the Hills",
+      "region": "Illinois",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "142.204.85.176",
       "city": "Lake in the Hills",
       "region": "Illinois",
