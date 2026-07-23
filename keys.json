@@ -20441,8 +20441,15 @@
     "userId": "3889764460",
     "source": "script",
     "createdAt": "2026-07-23T16:52:44.148Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T16:52:50.269Z",
     "geo": {
+      "ip": "104.28.156.66",
+      "city": "Domodedovo",
+      "region": "Moscow Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "104.28.156.66",
       "city": "Domodedovo",
       "region": "Moscow Oblast",
