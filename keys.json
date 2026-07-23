@@ -20127,5 +20127,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-7F3C2B-721C0E-A2E832": {
+    "expires": "2026-07-24T09:36:34.994Z",
+    "hwid": "6089016200-71f28409-3e8a-41de-a5c5-d14de1a7f06b",
+    "browserHwid": null,
+    "username": "StarTrek073",
+    "userId": "6089016200",
+    "source": "script",
+    "createdAt": "2026-07-23T09:36:35.626Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "107.115.153.59",
+      "city": "Camden",
+      "region": "Alabama",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
