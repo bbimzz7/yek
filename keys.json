@@ -19935,5 +19935,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-1DE974-6169F8-0649DB": {
+    "expires": "2026-07-24T07:21:28.419Z",
+    "hwid": "8811903877-51c3edbc-7818-493f-a99e-618f89abfe8d",
+    "browserHwid": null,
+    "username": "asma_HAN5",
+    "userId": "8811903877",
+    "source": "script",
+    "createdAt": "2026-07-23T07:21:29.015Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.150.155",
+      "city": "Karyadharma",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
