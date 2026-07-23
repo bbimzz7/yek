@@ -20297,7 +20297,7 @@
     "userId": "10041353933",
     "source": "script",
     "createdAt": "2026-07-23T13:29:25.074Z",
-    "lastUsed": "2026-07-23T13:29:40.413Z",
+    "lastUsed": "2026-07-23T13:30:13.756Z",
     "geo": {
       "ip": "217.217.245.146",
       "city": "Stockholm",
@@ -20306,11 +20306,11 @@
       "cc": "SE"
     },
     "lastGeo": {
-      "ip": "217.217.245.146",
-      "city": "Stockholm",
-      "region": "Stockholm County",
-      "country": "Sweden",
-      "cc": "SE"
+      "ip": "80.244.42.233",
+      "city": "Krasnodar",
+      "region": "Krasnodar Krai",
+      "country": "Russia",
+      "cc": "RU"
     }
   }
 }
