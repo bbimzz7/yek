@@ -20504,5 +20504,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-35604F-FA18CA-1DFE6A": {
+    "expires": "2026-07-24T18:27:38.299Z",
+    "hwid": "5319726617-b49a204e-a063-4dbe-a8c9-82e0f3098f90",
+    "browserHwid": null,
+    "username": "NyxImut",
+    "userId": "5319726617",
+    "source": "script",
+    "createdAt": "2026-07-23T18:27:38.850Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.135.225.202",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
