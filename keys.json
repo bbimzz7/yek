@@ -19872,8 +19872,15 @@
     "userId": "11001701928",
     "source": "script",
     "createdAt": "2026-07-23T05:56:47.538Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T05:56:56.648Z",
     "geo": {
+      "ip": "75.208.36.224",
+      "city": "Georgetown",
+      "region": "South Carolina",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "75.208.36.224",
       "city": "Georgetown",
       "region": "South Carolina",
