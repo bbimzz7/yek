@@ -20249,8 +20249,15 @@
     "userId": "7720976704",
     "source": "script",
     "createdAt": "2026-07-23T13:05:00.909Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T13:06:38.665Z",
     "geo": {
+      "ip": "103.129.121.74",
+      "city": "Afaahiti",
+      "region": "Îles du Vent",
+      "country": "French Polynesia",
+      "cc": "PF"
+    },
+    "lastGeo": {
       "ip": "103.129.121.74",
       "city": "Afaahiti",
       "region": "Îles du Vent",
