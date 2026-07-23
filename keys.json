@@ -20336,5 +20336,22 @@
       "country": "Somalia",
       "cc": "SO"
     }
+  },
+  "VH-AA8131-EC985B-A95050": {
+    "expires": "2026-07-24T14:04:07.939Z",
+    "hwid": "8231631277-cc1e63a9-9b27-413b-a470-1359e348c96b",
+    "browserHwid": null,
+    "username": "zubwaa",
+    "userId": "8231631277",
+    "source": "script",
+    "createdAt": "2026-07-23T14:04:08.762Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.74.54",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
