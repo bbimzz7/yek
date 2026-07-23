@@ -19743,5 +19743,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2CBBD7-DF21F3-403DFF": {
+    "expires": "2026-07-24T02:44:45.661Z",
+    "hwid": "1110153538-fe8d62f5-c438-4fa3-8fcc-4c30d5353955",
+    "browserHwid": null,
+    "username": "Tayler2k12",
+    "userId": "1110153538",
+    "source": "script",
+    "createdAt": "2026-07-23T02:44:46.297Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.106.64.5",
+      "city": "Hamilton",
+      "region": "Mississippi",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
