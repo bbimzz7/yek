@@ -19800,8 +19800,15 @@
     "userId": "10375705228",
     "source": "script",
     "createdAt": "2026-07-23T03:44:03.791Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T03:44:19.304Z",
     "geo": {
+      "ip": "124.158.184.188",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "124.158.184.188",
       "city": "South Tangerang",
       "region": "Banten",
