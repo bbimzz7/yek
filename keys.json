@@ -20175,5 +20175,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-5ECDCB-9EB4E0-D8541F": {
+    "expires": "2026-07-24T10:49:50.118Z",
+    "hwid": "10147459535-ce8668ed-a3c7-4fe8-9cc5-fa13fd825e71",
+    "browserHwid": null,
+    "username": "kadek0716",
+    "userId": "10147459535",
+    "source": "script",
+    "createdAt": "2026-07-23T10:49:50.659Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.86.221.118",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
