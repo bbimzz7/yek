@@ -20384,5 +20384,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-07532C-2FB3CF-8F019F": {
+    "expires": "2026-07-24T16:25:21.026Z",
+    "hwid": "11338149460-5d20ffce-2d6a-4215-92ce-0162ffe476e1",
+    "browserHwid": null,
+    "username": "alzyallstar",
+    "userId": "11338149460",
+    "source": "script",
+    "createdAt": "2026-07-23T16:25:21.505Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.38.142",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
