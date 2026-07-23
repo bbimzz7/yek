@@ -20216,5 +20216,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-76F719-8E5C97-E460D4": {
+    "expires": "2026-07-24T12:33:28.589Z",
+    "hwid": "8542321018-795e7e99-f242-4c51-aefb-307241beea53",
+    "browserHwid": null,
+    "username": "official_ash193",
+    "userId": "8542321018",
+    "source": "script",
+    "createdAt": "2026-07-23T12:33:29.194Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.93.117.160",
+      "city": "Balagtas",
+      "region": "Eastern Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
