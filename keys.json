@@ -20192,5 +20192,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-558838-BED663-FD980F": {
+    "expires": "2026-07-24T11:06:30.239Z",
+    "hwid": "11124269649-7667e01e-33e1-4414-8017-e3a45f1644f6",
+    "browserHwid": null,
+    "username": "naeca70",
+    "userId": "11124269649",
+    "source": "script",
+    "createdAt": "2026-07-23T11:06:30.831Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.131.19.33",
+      "city": "Bulakamba",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
