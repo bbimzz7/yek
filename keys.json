@@ -19848,8 +19848,15 @@
     "userId": "7374361153",
     "source": "script",
     "createdAt": "2026-07-23T05:52:12.633Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-23T05:53:16.847Z",
     "geo": {
+      "ip": "216.10.217.72",
+      "city": "Kingston",
+      "region": "Kingston",
+      "country": "Jamaica",
+      "cc": "JM"
+    },
+    "lastGeo": {
       "ip": "216.10.217.72",
       "city": "Kingston",
       "region": "Kingston",
