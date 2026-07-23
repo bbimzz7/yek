@@ -19839,5 +19839,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-E9D983-24174F-8A2BD2": {
+    "expires": "2026-07-24T05:52:12.015Z",
+    "hwid": "7374361153-ef96f655-26be-4ecc-bf84-793e102fb9c2",
+    "browserHwid": null,
+    "username": "moizbzhzgz",
+    "userId": "7374361153",
+    "source": "script",
+    "createdAt": "2026-07-23T05:52:12.633Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "216.10.217.72",
+      "city": "Kingston",
+      "region": "Kingston",
+      "country": "Jamaica",
+      "cc": "JM"
+    }
   }
 }
