@@ -20672,5 +20672,22 @@
       "country": "Kyrgyzstan",
       "cc": "KG"
     }
+  },
+  "VH-E15FF5-4A22EB-81A4B4": {
+    "expires": "2026-07-24T23:44:29.910Z",
+    "hwid": "4708693914-767570C0-BF7A-4D7B-B6DE-CF9A94BF3F63",
+    "browserHwid": null,
+    "username": "eumax44e",
+    "userId": "4708693914",
+    "source": "script",
+    "createdAt": "2026-07-23T23:44:30.525Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "79.177.145.51",
+      "city": "Haifa",
+      "region": "Haifa",
+      "country": "Israel",
+      "cc": "IL"
+    }
   }
 }
