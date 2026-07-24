@@ -20849,8 +20849,15 @@
     "userId": "4498817464",
     "source": "script",
     "createdAt": "2026-07-24T04:44:38.586Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-24T04:46:01.670Z",
     "geo": {
+      "ip": "190.179.199.227",
+      "city": "San Vicente",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "190.179.199.227",
       "city": "San Vicente",
       "region": "Buenos Aires",
