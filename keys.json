@@ -21217,5 +21217,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-C57B3A-82AE5D-830D10": {
+    "expires": "2026-07-25T11:35:14.587Z",
+    "hwid": "11341627207-ed082f5d-aefb-4cc2-a343-7f4cefa6e0bd",
+    "browserHwid": null,
+    "username": "RAIHANR_15",
+    "userId": "11341627207",
+    "source": "script",
+    "createdAt": "2026-07-24T11:35:15.335Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.130.18.25",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
