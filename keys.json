@@ -20888,5 +20888,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-20EC6C-1A82C1-D74F56": {
+    "expires": "2026-07-25T06:00:42.106Z",
+    "hwid": "11324251220-ecbbead6-2455-42fa-8350-b480b89cc0f7",
+    "browserHwid": null,
+    "username": "ruletui_4",
+    "userId": "11324251220",
+    "source": "script",
+    "createdAt": "2026-07-24T06:00:42.749Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.234.230.6",
+      "city": "Phước An",
+      "region": "Dak Lak",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
