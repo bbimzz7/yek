@@ -21314,5 +21314,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-2465B1-A2976A-F99222": {
+    "expires": "2026-07-25T14:00:21.952Z",
+    "hwid": "10730844597-6c51358a-1260-4b1e-b0f2-2c94022c379a",
+    "browserHwid": null,
+    "username": "DzikriAF0",
+    "userId": "10730844597",
+    "source": "script",
+    "createdAt": "2026-07-24T14:00:22.557Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.60.100",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
