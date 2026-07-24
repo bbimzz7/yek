@@ -21419,8 +21419,15 @@
     "userId": "1840942413",
     "source": "script",
     "createdAt": "2026-07-24T19:42:40.831Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-24T19:42:48.195Z",
     "geo": {
+      "ip": "176.54.163.183",
+      "city": "Melikgazi",
+      "region": "Kayseri",
+      "country": "Turkey",
+      "cc": "TR"
+    },
+    "lastGeo": {
       "ip": "176.54.163.183",
       "city": "Melikgazi",
       "region": "Kayseri",
