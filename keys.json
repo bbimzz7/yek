@@ -20960,5 +20960,22 @@
       "country": "Spain",
       "cc": "ES"
     }
+  },
+  "VH-CEBCB2-41B365-3A9D64": {
+    "expires": "2026-07-25T07:17:29.311Z",
+    "hwid": "5130372117-0afcb0c5-ec6c-4e26-9c42-4e20e3e3b942",
+    "browserHwid": null,
+    "username": "FANCY_2364",
+    "userId": "5130372117",
+    "source": "script",
+    "createdAt": "2026-07-24T07:17:30.020Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.63.50.16",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
