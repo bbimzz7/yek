@@ -21268,14 +21268,22 @@
   },
   "VH-5CE164-A36D48-638040": {
     "expires": "2026-07-25T12:57:08.423Z",
-    "hwid": null,
+    "hwid": "9657963216-1dc76550-4821-447a-b34f-0c1ea6ecdb0a",
     "browserHwid": "BR-0AEA224D-GY3T3",
     "username": "ziellfnsyt",
-    "userId": null,
+    "userId": "9657963216",
     "source": "browser",
     "createdAt": "2026-07-24T12:57:09.147Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-24T12:58:39.571Z",
     "geo": {
+      "ip": "103.157.48.17",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-07-24T12:58:39.556Z",
+    "lastGeo": {
       "ip": "103.157.48.17",
       "city": "Bandung",
       "region": "West Java",
