@@ -21104,5 +21104,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-88D1E8-900389-FFAB6F": {
+    "expires": "2026-07-25T09:40:06.128Z",
+    "hwid": "11337317766-c006f814-f435-4bea-b11e-3829939d5add",
+    "browserHwid": null,
+    "username": "Denzill_Heaven",
+    "userId": "11337317766",
+    "source": "script",
+    "createdAt": "2026-07-24T09:40:06.566Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.68.171",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
