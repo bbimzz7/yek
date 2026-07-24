@@ -20696,5 +20696,22 @@
       "country": "Israel",
       "cc": "IL"
     }
+  },
+  "VH-9BA071-3D972D-FCFC5E": {
+    "expires": "2026-07-25T01:08:55.961Z",
+    "hwid": "6115419386-d28e6f0e-410a-4cd3-9cd4-a65e62219de8",
+    "browserHwid": null,
+    "username": "RothRB097",
+    "userId": "6115419386",
+    "source": "script",
+    "createdAt": "2026-07-24T01:08:56.544Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "117.20.112.57",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    }
   }
 }
