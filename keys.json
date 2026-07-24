@@ -21008,5 +21008,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9B715F-E4725D-66B7EE": {
+    "expires": "2026-07-25T09:04:35.837Z",
+    "hwid": "10766213003-1e5c6ad0-1d23-4b99-ae45-68dbcbd4ac47",
+    "browserHwid": null,
+    "username": "Iwillquitroblox26",
+    "userId": "10766213003",
+    "source": "script",
+    "createdAt": "2026-07-24T09:04:36.266Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "131.226.106.45",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
