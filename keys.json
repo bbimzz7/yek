@@ -20897,8 +20897,15 @@
     "userId": "11324251220",
     "source": "script",
     "createdAt": "2026-07-24T06:00:42.749Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-24T06:01:17.573Z",
     "geo": {
+      "ip": "125.234.230.6",
+      "city": "Phước An",
+      "region": "Dak Lak",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "125.234.230.6",
       "city": "Phước An",
       "region": "Dak Lak",
