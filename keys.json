@@ -21290,5 +21290,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-48744C-053728-43DCFC": {
+    "expires": "2026-07-25T13:11:17.515Z",
+    "hwid": "7622516600-8350212b-e050-49fd-946c-4d966751a2c8",
+    "browserHwid": null,
+    "username": "lynde51",
+    "userId": "7622516600",
+    "source": "script",
+    "createdAt": "2026-07-24T13:11:18.173Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.66.145.52",
+      "city": "Kroonstad",
+      "region": "Free State",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
