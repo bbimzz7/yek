@@ -20912,5 +20912,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-936EED-55FAEA-4BD53E": {
+    "expires": "2026-07-25T06:10:05.700Z",
+    "hwid": "4797082953-962f21d8-fc55-4ea9-9ab2-ad41b2cb5af5",
+    "browserHwid": null,
+    "username": "ikwgrk",
+    "userId": "4797082953",
+    "source": "script",
+    "createdAt": "2026-07-24T06:10:06.272Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.97.128.25",
+      "city": "Thái Bình",
+      "region": "Thái Bình Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
