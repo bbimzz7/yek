@@ -20792,5 +20792,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-2A6729-5EAD33-CCEF1E": {
+    "expires": "2026-07-25T02:25:15.371Z",
+    "hwid": "11329049858-48e13d61-5381-4887-81c8-7ff7e4c00b7f",
+    "browserHwid": null,
+    "username": "akun_kw90",
+    "userId": "11329049858",
+    "source": "script",
+    "createdAt": "2026-07-24T02:25:15.920Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.80.175.248",
+      "city": "Balikpapan",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
