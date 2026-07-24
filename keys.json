@@ -21362,5 +21362,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-93F1C1-B2EA9A-4A8287": {
+    "expires": "2026-07-25T19:09:50.864Z",
+    "hwid": "11342450031-d332bfca-0854-4fee-9709-cab6957cb3ad",
+    "browserHwid": null,
+    "username": "boenpour10098",
+    "userId": "11342450031",
+    "source": "script",
+    "createdAt": "2026-07-24T19:09:51.554Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.66.22.132",
+      "city": "Troyes",
+      "region": "Grand Est",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
