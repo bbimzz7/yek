@@ -21089,8 +21089,15 @@
     "userId": "10074614486",
     "source": "script",
     "createdAt": "2026-07-24T09:37:54.355Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-24T09:38:08.639Z",
     "geo": {
+      "ip": "124.217.54.102",
+      "city": "Lucena City",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "124.217.54.102",
       "city": "Lucena City",
       "region": "Calabarzon",
