@@ -20921,8 +20921,15 @@
     "userId": "4797082953",
     "source": "script",
     "createdAt": "2026-07-24T06:10:06.272Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-24T06:11:25.000Z",
     "geo": {
+      "ip": "116.97.128.25",
+      "city": "Thái Bình",
+      "region": "Thái Bình Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "116.97.128.25",
       "city": "Thái Bình",
       "region": "Thái Bình Province",
