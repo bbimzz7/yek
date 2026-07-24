@@ -21386,5 +21386,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-722FCC-48ECC5-12977F": {
+    "expires": "2026-07-25T19:13:31.647Z",
+    "hwid": "7310376812-07c90307-6b4b-4d6f-872f-1932201d17a6",
+    "browserHwid": null,
+    "username": "NAGI1539",
+    "userId": "7310376812",
+    "source": "script",
+    "createdAt": "2026-07-24T19:13:32.237Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.84.119.225",
+      "city": "Barranquilla",
+      "region": "Atlántico",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
