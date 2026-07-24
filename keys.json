@@ -21395,8 +21395,15 @@
     "userId": "7310376812",
     "source": "script",
     "createdAt": "2026-07-24T19:13:32.237Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-24T19:15:51.003Z",
     "geo": {
+      "ip": "190.84.119.225",
+      "city": "Barranquilla",
+      "region": "Atlántico",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
       "ip": "190.84.119.225",
       "city": "Barranquilla",
       "region": "Atlántico",
