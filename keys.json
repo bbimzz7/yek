@@ -21434,5 +21434,22 @@
       "country": "Turkey",
       "cc": "TR"
     }
+  },
+  "VH-35C90C-D64439-28E0E6": {
+    "expires": "2026-07-25T21:16:07.763Z",
+    "hwid": "9053237717-de98f781-86ce-48d4-8d7e-6e183646fdc7",
+    "browserHwid": null,
+    "username": "1Ur_minee",
+    "userId": "9053237717",
+    "source": "script",
+    "createdAt": "2026-07-24T21:16:08.428Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "144.124.192.57",
+      "city": "Tashkent",
+      "region": "Tashkent",
+      "country": "Uzbekistan",
+      "cc": "UZ"
+    }
   }
 }
