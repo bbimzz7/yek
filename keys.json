@@ -21371,8 +21371,15 @@
     "userId": "11342450031",
     "source": "script",
     "createdAt": "2026-07-24T19:09:51.554Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-24T19:12:40.347Z",
     "geo": {
+      "ip": "37.66.22.132",
+      "city": "Troyes",
+      "region": "Grand Est",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "37.66.22.132",
       "city": "Troyes",
       "region": "Grand Est",
