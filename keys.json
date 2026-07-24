@@ -21176,5 +21176,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-F9D53D-434DEB-F71FE1": {
+    "expires": "2026-07-25T11:03:51.788Z",
+    "hwid": "10848371235-1b5f23aa-eb69-4b90-ad63-55bc5c306694",
+    "browserHwid": null,
+    "username": "acap_7539",
+    "userId": "10848371235",
+    "source": "script",
+    "createdAt": "2026-07-24T11:03:52.339Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.133.123",
+      "city": "Palangkaraya",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
