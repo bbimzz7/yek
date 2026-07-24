@@ -21265,5 +21265,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-5CE164-A36D48-638040": {
+    "expires": "2026-07-25T12:57:08.423Z",
+    "hwid": null,
+    "browserHwid": "BR-0AEA224D-GY3T3",
+    "username": "ziellfnsyt",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-07-24T12:57:09.147Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.157.48.17",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
