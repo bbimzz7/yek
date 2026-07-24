@@ -20768,5 +20768,22 @@
       "country": "South Korea",
       "cc": "KR"
     }
+  },
+  "VH-EC3F78-51EC48-A1B91C": {
+    "expires": "2026-07-25T02:10:18.957Z",
+    "hwid": "7201485938-97a7d5c8-24f2-4929-b1bd-0fbc2d2958b1",
+    "browserHwid": null,
+    "username": "rakis680",
+    "userId": "7201485938",
+    "source": "script",
+    "createdAt": "2026-07-24T02:10:19.584Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.238.36.182",
+      "city": "Maringá",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
