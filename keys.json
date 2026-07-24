@@ -20777,8 +20777,15 @@
     "userId": "7201485938",
     "source": "script",
     "createdAt": "2026-07-24T02:10:19.584Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-24T02:12:47.231Z",
     "geo": {
+      "ip": "170.238.36.182",
+      "city": "Maringá",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "170.238.36.182",
       "city": "Maringá",
       "region": "Paraná",
