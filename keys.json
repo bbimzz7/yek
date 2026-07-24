@@ -21032,5 +21032,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D3ACF8-F6FCE0-8CB33A": {
+    "expires": "2026-07-25T09:10:07.409Z",
+    "hwid": "11137169252-798533f3-2d90-4f48-a750-27d35eab2b63",
+    "browserHwid": null,
+    "username": "hacker_Yanto4",
+    "userId": "11137169252",
+    "source": "script",
+    "createdAt": "2026-07-24T09:10:07.866Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.70.149.77",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
