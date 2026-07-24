@@ -20936,5 +20936,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-858368-6E820F-4D4373": {
+    "expires": "2026-07-25T06:39:08.031Z",
+    "hwid": "7705637567-91b272a4-f6dd-4265-8e2c-4a9e65914368",
+    "browserHwid": null,
+    "username": "tuabuelaentang017",
+    "userId": "7705637567",
+    "source": "script",
+    "createdAt": "2026-07-24T06:39:08.646Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "79.116.137.193",
+      "city": "Linares",
+      "region": "Andalusia",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
