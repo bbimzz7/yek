@@ -21152,5 +21152,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FA4383-B5E8B0-F12B8C": {
+    "expires": "2026-07-25T10:48:26.084Z",
+    "hwid": "9116164929-f5124d05-f31f-458f-b244-6dfd883bf3ed",
+    "browserHwid": null,
+    "username": "pinki_1090",
+    "userId": "9116164929",
+    "source": "script",
+    "createdAt": "2026-07-24T10:48:26.772Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.1.146.116",
+      "city": "Lima",
+      "region": "Lima Province",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
