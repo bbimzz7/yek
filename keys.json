@@ -20984,5 +20984,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-214828-456D38-905B8C": {
+    "expires": "2026-07-25T08:59:33.933Z",
+    "hwid": "7172126544-33df95ce-d283-4f79-99c3-74fd61c24a5d",
+    "browserHwid": null,
+    "username": "Kulaaut",
+    "userId": "7172126544",
+    "source": "script",
+    "createdAt": "2026-07-24T08:59:34.588Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.166.120",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
