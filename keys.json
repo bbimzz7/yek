@@ -21200,5 +21200,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-30D67D-E70EF3-BDB9DF": {
+    "expires": "2026-07-25T11:18:11.941Z",
+    "hwid": "10907528384-7cd406d7-9185-4d7c-aca6-3b87130ec98c",
+    "browserHwid": null,
+    "username": "voldix_mod8",
+    "userId": "10907528384",
+    "source": "script",
+    "createdAt": "2026-07-24T11:18:12.563Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.194.45.154",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
