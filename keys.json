@@ -20840,5 +20840,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-25E7E0-9B26E3-4F6B8D": {
+    "expires": "2026-07-25T04:44:37.947Z",
+    "hwid": "4498817464-f4169922-a159-40aa-848f-a37a3d37cf7d",
+    "browserHwid": null,
+    "username": "101216alejito",
+    "userId": "4498817464",
+    "source": "script",
+    "createdAt": "2026-07-24T04:44:38.586Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.179.199.227",
+      "city": "San Vicente",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
