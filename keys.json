@@ -21113,8 +21113,15 @@
     "userId": "11337317766",
     "source": "script",
     "createdAt": "2026-07-24T09:40:06.566Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-24T09:42:16.579Z",
     "geo": {
+      "ip": "114.10.68.171",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.68.171",
       "city": "West Jakarta",
       "region": "Jakarta",
