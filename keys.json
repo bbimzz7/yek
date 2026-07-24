@@ -20753,7 +20753,7 @@
     "userId": "9955569537",
     "source": "script",
     "createdAt": "2026-07-24T01:51:40.531Z",
-    "lastUsed": "2026-07-24T07:08:49.013Z",
+    "lastUsed": "2026-07-24T07:29:04.328Z",
     "geo": {
       "ip": "3.39.243.71",
       "city": "Seoul",
@@ -20762,11 +20762,11 @@
       "cc": "KR"
     },
     "lastGeo": {
-      "ip": "95.40.119.6",
-      "city": "Hong Kong",
-      "region": "Central and Western",
-      "country": "Hong Kong",
-      "cc": "HK"
+      "ip": "54.180.116.118",
+      "city": "Seoul",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
     }
   },
   "VH-EC3F78-51EC48-A1B91C": {
