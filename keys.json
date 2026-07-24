@@ -21443,8 +21443,15 @@
     "userId": "9053237717",
     "source": "script",
     "createdAt": "2026-07-24T21:16:08.428Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-24T21:17:30.351Z",
     "geo": {
+      "ip": "144.124.192.57",
+      "city": "Tashkent",
+      "region": "Tashkent",
+      "country": "Uzbekistan",
+      "cc": "UZ"
+    },
+    "lastGeo": {
       "ip": "144.124.192.57",
       "city": "Tashkent",
       "region": "Tashkent",
