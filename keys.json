@@ -20945,8 +20945,15 @@
     "userId": "7705637567",
     "source": "script",
     "createdAt": "2026-07-24T06:39:08.646Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-24T06:39:22.635Z",
     "geo": {
+      "ip": "79.116.137.193",
+      "city": "Linares",
+      "region": "Andalusia",
+      "country": "Spain",
+      "cc": "ES"
+    },
+    "lastGeo": {
       "ip": "79.116.137.193",
       "city": "Linares",
       "region": "Andalusia",
