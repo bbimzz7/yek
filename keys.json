@@ -21827,8 +21827,15 @@
     "userId": "9453717492",
     "source": "script",
     "createdAt": "2026-07-25T09:37:25.739Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T09:38:44.719Z",
     "geo": {
+      "ip": "103.121.231.130",
+      "city": "Yangon",
+      "region": "Yangon",
+      "country": "Myanmar",
+      "cc": "MM"
+    },
+    "lastGeo": {
       "ip": "103.121.231.130",
       "city": "Yangon",
       "region": "Yangon",
