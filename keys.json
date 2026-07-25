@@ -22108,8 +22108,15 @@
     "userId": "2206843757",
     "source": "script",
     "createdAt": "2026-07-25T13:24:06.155Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T13:24:12.909Z",
     "geo": {
+      "ip": "105.100.241.204",
+      "city": "Algiers",
+      "region": "Algiers",
+      "country": "Algeria",
+      "cc": "DZ"
+    },
+    "lastGeo": {
       "ip": "105.100.241.204",
       "city": "Algiers",
       "region": "Algiers",
