@@ -21899,8 +21899,15 @@
     "userId": "9955569537",
     "source": "script",
     "createdAt": "2026-07-25T09:57:45.960Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T09:57:59.323Z",
     "geo": {
+      "ip": "3.36.128.235",
+      "city": "Seoul",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "lastGeo": {
       "ip": "3.36.128.235",
       "city": "Seoul",
       "region": "Seoul",
