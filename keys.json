@@ -22380,5 +22380,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BD5174-8ECFD7-596281": {
+    "expires": "2026-07-26T23:29:01.194Z",
+    "hwid": "4752131772-7c86dacb-87b4-42fb-9b53-cdcfe52e796b",
+    "browserHwid": null,
+    "username": "Clarissa_tagalog11",
+    "userId": "4752131772",
+    "source": "script",
+    "createdAt": "2026-07-25T23:29:01.825Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.66.177",
+      "city": "Lahug",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
