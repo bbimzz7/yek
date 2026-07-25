@@ -22060,8 +22060,15 @@
     "userId": "8676676733",
     "source": "script",
     "createdAt": "2026-07-25T12:47:57.530Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T12:48:07.715Z",
     "geo": {
+      "ip": "140.213.126.232",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "140.213.126.232",
       "city": "Surabaya",
       "region": "East Java",
