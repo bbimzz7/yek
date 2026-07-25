@@ -22027,5 +22027,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-792C28-73ABFC-FAFFC6": {
+    "expires": "2026-07-26T12:32:16.038Z",
+    "hwid": "9540329045-913ffd50-4a7b-45a3-8646-bfceb084101b",
+    "browserHwid": null,
+    "username": "clme957",
+    "userId": "9540329045",
+    "source": "script",
+    "createdAt": "2026-07-25T12:32:16.641Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "75.110.100.236",
+      "city": "Rocky Mount",
+      "region": "North Carolina",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
