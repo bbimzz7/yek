@@ -22317,8 +22317,15 @@
     "userId": "11124269649",
     "source": "script",
     "createdAt": "2026-07-25T16:48:55.917Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T16:49:22.609Z",
     "geo": {
+      "ip": "103.131.19.33",
+      "city": "Bulakamba",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.131.19.33",
       "city": "Bulakamba",
       "region": "Central Java",
