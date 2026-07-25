@@ -21746,5 +21746,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-69D956-4F440B-BB5463": {
+    "expires": "2026-07-26T08:25:51.151Z",
+    "hwid": "8978503889-31f80a75-eb56-4cd4-a1ac-7c4c0ecedba8",
+    "browserHwid": null,
+    "username": "kronggs3",
+    "userId": "8978503889",
+    "source": "script",
+    "createdAt": "2026-07-25T08:25:51.769Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.78.218",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
