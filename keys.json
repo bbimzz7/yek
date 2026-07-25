@@ -22123,5 +22123,22 @@
       "country": "Algeria",
       "cc": "DZ"
     }
+  },
+  "VH-590EA1-E168DC-9BB164": {
+    "expires": "2026-07-26T13:57:46.748Z",
+    "hwid": "10457848102-6db85374-2a1f-43dc-b2d3-38f9b0b292de",
+    "browserHwid": null,
+    "username": "usa_2390",
+    "userId": "10457848102",
+    "source": "script",
+    "createdAt": "2026-07-25T13:57:47.337Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.203.53.41",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
