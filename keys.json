@@ -22140,5 +22140,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-BC708A-403501-75555F": {
+    "expires": "2026-07-26T13:58:13.671Z",
+    "hwid": "8891275435-a0edd3b0-fba2-4f4d-8a1c-0efec6ea4743",
+    "browserHwid": null,
+    "username": "roblox_user_8891275435",
+    "userId": "8891275435",
+    "source": "script",
+    "createdAt": "2026-07-25T13:58:14.176Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.255.125",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
