@@ -21842,5 +21842,22 @@
       "country": "Myanmar",
       "cc": "MM"
     }
+  },
+  "VH-745F21-F21E5A-BBA023": {
+    "expires": "2026-07-26T09:40:57.586Z",
+    "hwid": "10000992562-0cc75340-c123-4652-bc29-9ed92fcd0ef1",
+    "browserHwid": null,
+    "username": "afjo793",
+    "userId": "10000992562",
+    "source": "script",
+    "createdAt": "2026-07-25T09:40:58.191Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.107.4.233",
+      "city": "Medina",
+      "region": "Medina Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
