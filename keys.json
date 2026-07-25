@@ -21938,5 +21938,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-08E8C6-C13AA0-7836BF": {
+    "expires": "2026-07-26T10:45:38.914Z",
+    "hwid": "10528458725-2ef455af-3e41-4b24-948c-b260e3cc44b8",
+    "browserHwid": null,
+    "username": "steyreri",
+    "userId": "10528458725",
+    "source": "script",
+    "createdAt": "2026-07-25T10:45:39.505Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.107.43.69",
+      "city": "San Ildefonso",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
