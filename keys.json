@@ -22413,8 +22413,15 @@
     "userId": "9369800685",
     "source": "script",
     "createdAt": "2026-07-25T23:43:42.006Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T23:43:48.652Z",
     "geo": {
+      "ip": "57.128.177.99",
+      "city": "Erith",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "57.128.177.99",
       "city": "Erith",
       "region": "England",
