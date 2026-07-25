@@ -21947,11 +21947,18 @@
     "userId": "10528458725",
     "source": "script",
     "createdAt": "2026-07-25T10:45:39.505Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T10:46:15.906Z",
     "geo": {
       "ip": "124.107.43.69",
       "city": "San Ildefonso",
       "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "112.204.107.39",
+      "city": "Antipolo City",
+      "region": "Calabarzon",
       "country": "Philippines",
       "cc": "PH"
     }
