@@ -21683,8 +21683,15 @@
     "userId": "7138063393",
     "source": "script",
     "createdAt": "2026-07-25T06:57:53.927Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T06:58:04.593Z",
     "geo": {
+      "ip": "49.47.140.122",
+      "city": "Aizawl",
+      "region": "Mizoram",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "49.47.140.122",
       "city": "Aizawl",
       "region": "Mizoram",
