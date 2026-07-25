@@ -22219,5 +22219,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-09C507-C8FFCD-0F417D": {
+    "expires": "2026-07-26T15:29:08.199Z",
+    "hwid": "8621245162-457ac605-c2eb-4300-92c4-7a62679ed4dc",
+    "browserHwid": null,
+    "username": "ratys568",
+    "userId": "8621245162",
+    "source": "script",
+    "createdAt": "2026-07-25T15:29:08.783Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "193.26.13.155",
+      "city": "Kryvyi Rih",
+      "region": "Dnipropetrovsk Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
