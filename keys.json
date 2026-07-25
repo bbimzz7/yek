@@ -22171,5 +22171,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F281C4-46F127-A2EFD5": {
+    "expires": "2026-07-26T15:07:02.938Z",
+    "hwid": "5153336381-633106b7-2d3d-4347-8087-98855444edc2",
+    "browserHwid": null,
+    "username": "bangyuke90",
+    "userId": "5153336381",
+    "source": "script",
+    "createdAt": "2026-07-25T15:07:03.499Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.173.186",
+      "city": "Parung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
