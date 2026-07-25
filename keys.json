@@ -21979,5 +21979,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-67B1B2-C2AF6E-90C8F6": {
+    "expires": "2026-07-26T11:42:06.719Z",
+    "hwid": "8916252901-5d291262-3814-42ca-a5c6-e5aa2bdc136c",
+    "browserHwid": null,
+    "username": "LunorioJr",
+    "userId": "8916252901",
+    "source": "script",
+    "createdAt": "2026-07-25T11:42:07.319Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.148.196.11",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
