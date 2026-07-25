@@ -21803,8 +21803,15 @@
     "userId": "8218423624",
     "source": "script",
     "createdAt": "2026-07-25T08:33:20.379Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T08:33:27.377Z",
     "geo": {
+      "ip": "37.214.28.191",
+      "city": "Minsk",
+      "region": "Minsk City",
+      "country": "Belarus",
+      "cc": "BY"
+    },
+    "lastGeo": {
       "ip": "37.214.28.191",
       "city": "Minsk",
       "region": "Minsk City",
