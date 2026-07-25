@@ -21890,5 +21890,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D2EE2B-5566F9-8F325E": {
+    "expires": "2026-07-26T09:57:45.385Z",
+    "hwid": "9955569537-08361b12-3b3b-4330-8464-719aa2d59a20",
+    "browserHwid": null,
+    "username": "skxmros",
+    "userId": "9955569537",
+    "source": "script",
+    "createdAt": "2026-07-25T09:57:45.960Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "3.36.128.235",
+      "city": "Seoul",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
