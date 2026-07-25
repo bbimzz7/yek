@@ -21674,5 +21674,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-CDCA61-BA5C82-47691A": {
+    "expires": "2026-07-26T06:57:53.326Z",
+    "hwid": "7138063393-46aeee21-2595-40a9-a0c6-1eab6c9584cd",
+    "browserHwid": null,
+    "username": "bronya12315",
+    "userId": "7138063393",
+    "source": "script",
+    "createdAt": "2026-07-25T06:57:53.927Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.47.140.122",
+      "city": "Aizawl",
+      "region": "Mizoram",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
