@@ -21563,7 +21563,7 @@
     "userId": "10657032416",
     "source": "script",
     "createdAt": "2026-07-25T03:32:59.548Z",
-    "lastUsed": "2026-07-25T11:46:41.100Z",
+    "lastUsed": "2026-07-25T11:51:59.315Z",
     "geo": {
       "ip": "180.247.60.100",
       "city": "Bekasi",
@@ -21572,8 +21572,8 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "140.213.11.135",
-      "city": "East Jakarta",
+      "ip": "112.215.65.131",
+      "city": "West Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
