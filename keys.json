@@ -22356,5 +22356,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-89EC4E-5326BA-61AFDE": {
+    "expires": "2026-07-26T21:39:46.960Z",
+    "hwid": "2994100906-c7c80dba-c213-4276-b2ed-f8fe417cdeb1",
+    "browserHwid": null,
+    "username": "Rifano21",
+    "userId": "2994100906",
+    "source": "script",
+    "createdAt": "2026-07-25T21:39:47.582Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.242.192.232",
+      "city": "Kota Batam",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
