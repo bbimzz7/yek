@@ -22332,5 +22332,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2F19AE-F901AE-605653": {
+    "expires": "2026-07-26T20:59:23.135Z",
+    "hwid": "7260144018-03e9621a-8f14-47a6-add1-ebd8e1c8843d",
+    "browserHwid": null,
+    "username": "Ferrari_rich32",
+    "userId": "7260144018",
+    "source": "script",
+    "createdAt": "2026-07-25T20:59:23.764Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.216.82.160",
+      "city": "Tabapuã",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
