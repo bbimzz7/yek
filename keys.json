@@ -22284,5 +22284,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-35257C-F1E270-0A80DE": {
+    "expires": "2026-07-26T15:50:24.581Z",
+    "hwid": "9439740680-6c51358a-1260-4b1e-b0f2-2c94022c379a",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-07-25T15:50:25.174Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.60.100",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
