@@ -22341,8 +22341,15 @@
     "userId": "7260144018",
     "source": "script",
     "createdAt": "2026-07-25T20:59:23.764Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T21:00:52.615Z",
     "geo": {
+      "ip": "201.216.82.160",
+      "city": "Tabapuã",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "201.216.82.160",
       "city": "Tabapuã",
       "region": "São Paulo",
