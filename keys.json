@@ -22204,8 +22204,15 @@
     "userId": "5716572826",
     "source": "script",
     "createdAt": "2026-07-25T15:22:36.885Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T15:25:31.193Z",
     "geo": {
+      "ip": "114.8.206.38",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.8.206.38",
       "city": "Central Jakarta",
       "region": "Jakarta",
