@@ -21539,8 +21539,15 @@
     "userId": "8159527792",
     "source": "script",
     "createdAt": "2026-07-25T02:41:00.380Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T02:41:46.819Z",
     "geo": {
+      "ip": "161.142.153.34",
+      "city": "Subang Jaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "161.142.153.34",
       "city": "Subang Jaya",
       "region": "Selangor",
