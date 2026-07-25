@@ -21698,5 +21698,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-3CBB66-D8D239-C0BA3B": {
+    "expires": "2026-07-26T07:07:25.561Z",
+    "hwid": "7063156872-79c67457-cc9c-4839-8cf6-7ee2751d6a8d",
+    "browserHwid": null,
+    "username": "Jkli467",
+    "userId": "7063156872",
+    "source": "script",
+    "createdAt": "2026-07-25T07:07:26.182Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "71.69.132.125",
+      "city": "Wilson",
+      "region": "North Carolina",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
