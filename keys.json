@@ -21659,8 +21659,15 @@
     "userId": "10497762448",
     "source": "script",
     "createdAt": "2026-07-25T04:59:05.724Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T04:59:16.336Z",
     "geo": {
+      "ip": "1.53.114.114",
+      "city": "Tuy Phước",
+      "region": "Gia Lai",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "1.53.114.114",
       "city": "Tuy Phước",
       "region": "Gia Lai",
