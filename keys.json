@@ -21650,5 +21650,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-87AC0C-3C4B6B-DEC017": {
+    "expires": "2026-07-26T04:59:05.138Z",
+    "hwid": "10497762448-9c2f2218-c38d-467e-9769-5435fa711032",
+    "browserHwid": null,
+    "username": "jagajksb",
+    "userId": "10497762448",
+    "source": "script",
+    "createdAt": "2026-07-25T04:59:05.724Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.53.114.114",
+      "city": "Tuy Phước",
+      "region": "Gia Lai",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
