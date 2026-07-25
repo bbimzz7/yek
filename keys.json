@@ -21491,8 +21491,15 @@
     "userId": "11346464002",
     "source": "script",
     "createdAt": "2026-07-25T00:13:16.371Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T00:15:22.755Z",
     "geo": {
+      "ip": "190.112.96.136",
+      "city": "La Rioja",
+      "region": "La Rioja",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "190.112.96.136",
       "city": "La Rioja",
       "region": "La Rioja",
