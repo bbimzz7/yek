@@ -21482,5 +21482,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-0EEA1B-4E5C0D-A528CA": {
+    "expires": "2026-07-26T00:13:15.730Z",
+    "hwid": "11346464002-39dfec9a-67ab-4db9-a669-06d0de9995df",
+    "browserHwid": null,
+    "username": "CEPILLIN_390",
+    "userId": "11346464002",
+    "source": "script",
+    "createdAt": "2026-07-25T00:13:16.371Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.112.96.136",
+      "city": "La Rioja",
+      "region": "La Rioja",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
