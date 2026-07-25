@@ -21587,8 +21587,15 @@
     "userId": "10906242231",
     "source": "script",
     "createdAt": "2026-07-25T03:43:35.458Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T03:43:45.393Z",
     "geo": {
+      "ip": "131.226.114.84",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "131.226.114.84",
       "city": "Davao City",
       "region": "Davao Region",
