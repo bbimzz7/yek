@@ -22228,8 +22228,15 @@
     "userId": "8621245162",
     "source": "script",
     "createdAt": "2026-07-25T15:29:08.783Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-25T15:29:23.027Z",
     "geo": {
+      "ip": "193.26.13.155",
+      "city": "Kryvyi Rih",
+      "region": "Dnipropetrovsk Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "193.26.13.155",
       "city": "Kryvyi Rih",
       "region": "Dnipropetrovsk Oblast",
