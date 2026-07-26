@@ -22975,8 +22975,15 @@
     "userId": "10704795445",
     "source": "script",
     "createdAt": "2026-07-26T23:40:40.068Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-26T23:40:49.984Z",
     "geo": {
+      "ip": "139.47.121.42",
+      "city": "Barcelona",
+      "region": "Catalonia",
+      "country": "Spain",
+      "cc": "ES"
+    },
+    "lastGeo": {
       "ip": "139.47.121.42",
       "city": "Barcelona",
       "region": "Catalonia",
