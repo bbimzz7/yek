@@ -22942,5 +22942,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-564B2A-FE15E0-CCA302": {
+    "expires": "2026-07-27T23:25:16.940Z",
+    "hwid": "10953830297-cbd0804e-71be-4108-bd4a-272c94f5d90c",
+    "browserHwid": null,
+    "username": "RubyVillagee",
+    "userId": "10953830297",
+    "source": "script",
+    "createdAt": "2026-07-26T23:25:17.576Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.164.143.1",
+      "city": "Wroclaw",
+      "region": "Lower Silesia",
+      "country": "Poland",
+      "cc": "PL"
+    }
   }
 }
