@@ -22452,5 +22452,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-AE963A-53100F-09234C": {
+    "expires": "2026-07-27T00:54:37.307Z",
+    "hwid": "8488635135-519832f9-34f0-4318-9bcc-53c53888c4de",
+    "browserHwid": null,
+    "username": "rip_madan08",
+    "userId": "8488635135",
+    "source": "script",
+    "createdAt": "2026-07-26T00:54:38.017Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.11.183.227",
+      "city": "Bontang",
+      "region": "East Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
