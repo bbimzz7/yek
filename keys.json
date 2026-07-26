@@ -22533,8 +22533,15 @@
     "userId": "11296205446",
     "source": "script",
     "createdAt": "2026-07-26T03:42:10.457Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-26T03:44:30.747Z",
     "geo": {
+      "ip": "103.109.198.2",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.109.198.2",
       "city": "Central Jakarta",
       "region": "Jakarta",
