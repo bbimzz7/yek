@@ -22701,8 +22701,15 @@
     "userId": "7279820810",
     "source": "script",
     "createdAt": "2026-07-26T09:12:26.791Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-26T09:12:37.143Z",
     "geo": {
+      "ip": "1.123.31.81",
+      "city": "Brisbane",
+      "region": "Queensland",
+      "country": "Australia",
+      "cc": "AU"
+    },
+    "lastGeo": {
       "ip": "1.123.31.81",
       "city": "Brisbane",
       "region": "Queensland",
