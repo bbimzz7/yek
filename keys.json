@@ -22653,8 +22653,15 @@
     "userId": "4551730893",
     "source": "script",
     "createdAt": "2026-07-26T08:01:46.221Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-26T08:01:54.737Z",
     "geo": {
+      "ip": "138.84.140.64",
+      "city": "Taguig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "138.84.140.64",
       "city": "Taguig",
       "region": "Metro Manila",
