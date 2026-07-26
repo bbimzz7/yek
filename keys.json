@@ -22644,5 +22644,22 @@
       "country": "Uruguay",
       "cc": "UY"
     }
+  },
+  "VH-C5C94D-43D0C2-27A276": {
+    "expires": "2026-07-27T08:01:45.587Z",
+    "hwid": "4551730893-c49f28e2-3754-4f50-96e1-a4f8c70667a6",
+    "browserHwid": null,
+    "username": "bacon_thelittepro4",
+    "userId": "4551730893",
+    "source": "script",
+    "createdAt": "2026-07-26T08:01:46.221Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.140.64",
+      "city": "Taguig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
