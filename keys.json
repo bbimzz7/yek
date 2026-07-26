@@ -22903,11 +22903,18 @@
     "userId": "5272385637",
     "source": "script",
     "createdAt": "2026-07-26T21:46:54.545Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-26T21:54:35.073Z",
     "geo": {
       "ip": "77.111.246.181",
       "city": "Washington",
       "region": "Washington, D.C.",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
+      "ip": "71.200.69.154",
+      "city": "Seaford",
+      "region": "Delaware",
       "country": "United States",
       "cc": "US"
     }
