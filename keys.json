@@ -22831,8 +22831,15 @@
     "userId": "11359849495",
     "source": "script",
     "createdAt": "2026-07-26T18:04:32.568Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-26T18:04:40.426Z",
     "geo": {
+      "ip": "77.25.23.254",
+      "city": "Nuremberg",
+      "region": "Bavaria",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "77.25.23.254",
       "city": "Nuremberg",
       "region": "Bavaria",
