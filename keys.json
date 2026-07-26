@@ -22742,10 +22742,17 @@
     "userId": "11221691422",
     "source": "script",
     "createdAt": "2026-07-26T10:19:12.332Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-26T10:20:38.021Z",
     "geo": {
       "ip": "180.191.228.158",
       "city": "Sibonga",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "180.190.191.139",
+      "city": "Lahug",
       "region": "Central Visayas",
       "country": "Philippines",
       "cc": "PH"
