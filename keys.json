@@ -22428,5 +22428,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-A9E486-A291B5-F52BD1": {
+    "expires": "2026-07-27T00:17:38.751Z",
+    "hwid": "4558089237-2499e4c8-f733-423d-9ab6-6ff9179ff814",
+    "browserHwid": null,
+    "username": "keke_itc10",
+    "userId": "4558089237",
+    "source": "script",
+    "createdAt": "2026-07-26T00:17:39.326Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "93.176.39.104",
+      "city": "Paris",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
