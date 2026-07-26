@@ -22846,5 +22846,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-C4F548-5EFF1E-EDFB31": {
+    "expires": "2026-07-27T18:06:29.175Z",
+    "hwid": "11167360766-62e0c9d8-349e-4a51-a9fa-64d5dbcc1747",
+    "browserHwid": null,
+    "username": "forgOtten_boy16",
+    "userId": "11167360766",
+    "source": "script",
+    "createdAt": "2026-07-26T18:06:30.526Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.237.123.1",
+      "city": "Erbil",
+      "region": "Erbil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
