@@ -22692,5 +22692,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-8BD51D-4019A9-97443C": {
+    "expires": "2026-07-27T09:12:26.171Z",
+    "hwid": "7279820810-caac43f7-9b49-4e8d-a6e9-b014c6807ee2",
+    "browserHwid": null,
+    "username": "Bobaworld0",
+    "userId": "7279820810",
+    "source": "script",
+    "createdAt": "2026-07-26T09:12:26.791Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.123.31.81",
+      "city": "Brisbane",
+      "region": "Queensland",
+      "country": "Australia",
+      "cc": "AU"
+    }
   }
 }
