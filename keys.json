@@ -22966,5 +22966,22 @@
       "country": "Poland",
       "cc": "PL"
     }
+  },
+  "VH-11B543-0EE30E-3F070B": {
+    "expires": "2026-07-27T23:40:39.450Z",
+    "hwid": "10704795445-67f0b749-ddfb-41d3-8a6f-45eb5c9153f7",
+    "browserHwid": null,
+    "username": "Nytfxll",
+    "userId": "10704795445",
+    "source": "script",
+    "createdAt": "2026-07-26T23:40:40.068Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "139.47.121.42",
+      "city": "Barcelona",
+      "region": "Catalonia",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
