@@ -22822,5 +22822,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-310DBC-1888F2-A639BC": {
+    "expires": "2026-07-27T18:04:31.900Z",
+    "hwid": "11359849495-A83A0948-941D-42CC-8A7F-2C23A0826125",
+    "browserHwid": null,
+    "username": "dimasik123sa",
+    "userId": "11359849495",
+    "source": "script",
+    "createdAt": "2026-07-26T18:04:32.568Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "77.25.23.254",
+      "city": "Nuremberg",
+      "region": "Bavaria",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
