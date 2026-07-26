@@ -22757,5 +22757,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-990DB8-0C9D06-40FCE5": {
+    "expires": "2026-07-27T11:43:04.288Z",
+    "hwid": "11138302094-ed082f5d-aefb-4cc2-a343-7f4cefa6e0bd",
+    "browserHwid": null,
+    "username": "raihggg5",
+    "userId": "11138302094",
+    "source": "script",
+    "createdAt": "2026-07-26T11:43:04.880Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.130.18.130",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
