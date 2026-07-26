@@ -22870,5 +22870,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-098C1D-B42410-1C1E58": {
+    "expires": "2026-07-27T18:48:02.311Z",
+    "hwid": "7752325730-32710D50-28BD-4A95-93E6-CBF67BC9BA38",
+    "browserHwid": null,
+    "username": "lxrdcvrsed52",
+    "userId": "7752325730",
+    "source": "script",
+    "createdAt": "2026-07-26T18:48:03.022Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "217.60.99.31",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
