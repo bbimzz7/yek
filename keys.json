@@ -23104,5 +23104,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D9FA87-0685B3-D9F6B7": {
+    "expires": "2026-07-28T07:03:13.625Z",
+    "hwid": "9857655022-8033a440-7cb6-4ba5-8b55-59720459d0eb",
+    "browserHwid": null,
+    "username": "briquet_00",
+    "userId": "9857655022",
+    "source": "script",
+    "createdAt": "2026-07-27T07:03:14.271Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "196.207.231.231",
+      "city": "Dakar",
+      "region": "Dakar",
+      "country": "Senegal",
+      "cc": "SN"
+    }
   }
 }
