@@ -23080,5 +23080,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-51FE44-A35D61-02E8F6": {
+    "expires": "2026-07-28T05:55:53.538Z",
+    "hwid": "3586721488-c6867954-e92d-49a1-b8f3-7f72eb221711",
+    "browserHwid": null,
+    "username": "roblox_riko11",
+    "userId": "3586721488",
+    "source": "script",
+    "createdAt": "2026-07-27T05:55:54.148Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.175.222.193",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
