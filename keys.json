@@ -23416,5 +23416,22 @@
       "country": "Chile",
       "cc": "CL"
     }
+  },
+  "VH-4F45A2-A4A1F7-AD4964": {
+    "expires": "2026-07-28T16:12:52.327Z",
+    "hwid": "7726520006-11086aa5-66b5-47e0-9ab4-822e77e161c4",
+    "browserHwid": null,
+    "username": "ADRIELIX_78",
+    "userId": "7726520006",
+    "source": "script",
+    "createdAt": "2026-07-27T16:12:52.965Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.146.207.146",
+      "city": "Naic",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
