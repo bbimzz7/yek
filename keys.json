@@ -23161,8 +23161,15 @@
     "userId": "8281499416",
     "source": "script",
     "createdAt": "2026-07-27T08:58:54.483Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-27T09:00:02.289Z",
     "geo": {
+      "ip": "150.228.157.20",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "150.228.157.20",
       "city": "Manila",
       "region": "National Capital Region",
