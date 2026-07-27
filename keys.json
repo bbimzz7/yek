@@ -22990,5 +22990,22 @@
       "country": "Spain",
       "cc": "ES"
     }
+  },
+  "VH-C17EC4-C74392-A0B4C4": {
+    "expires": "2026-07-28T00:48:35.293Z",
+    "hwid": "11335926928-7ac1d8d0-4b67-4fb8-852f-9814b45f621c",
+    "browserHwid": null,
+    "username": "GOL_DO40",
+    "userId": "11335926928",
+    "source": "script",
+    "createdAt": "2026-07-27T00:48:35.972Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "72.56.63.168",
+      "city": "Tbilisi",
+      "region": "Tbilisi",
+      "country": "Georgia",
+      "cc": "GE"
+    }
   }
 }
