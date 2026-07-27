@@ -23031,5 +23031,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-9BCD27-93346C-3CB42F": {
+    "expires": "2026-07-28T02:26:09.935Z",
+    "hwid": null,
+    "browserHwid": "BR-1259377E-91C9C",
+    "username": "NAGI1539",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-07-27T02:26:10.519Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.84.119.225",
+      "city": "Barranquilla",
+      "region": "Atlántico",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
