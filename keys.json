@@ -23185,11 +23185,18 @@
     "userId": "9295449242",
     "source": "script",
     "createdAt": "2026-07-27T09:36:36.914Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-27T09:37:07.834Z",
     "geo": {
       "ip": "104.28.232.200",
       "city": "Samara",
       "region": "Samara Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
+      "ip": "176.112.166.217",
+      "city": "Khasavyurt",
+      "region": "Dagestan",
       "country": "Russia",
       "cc": "RU"
     }
