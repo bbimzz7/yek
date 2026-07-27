@@ -23601,5 +23601,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-8F33DF-6B3065-5E2B0A": {
+    "expires": "2026-07-28T23:51:11.529Z",
+    "hwid": "7162770891-4a2bdea8-f48b-4446-8a91-12517228cdc4",
+    "browserHwid": null,
+    "username": "jdxj02",
+    "userId": "7162770891",
+    "source": "script",
+    "createdAt": "2026-07-27T23:51:11.950Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "167.250.138.118",
+      "city": "Iguatu",
+      "region": "Ceará",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
