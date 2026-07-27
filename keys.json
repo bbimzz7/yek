@@ -23014,5 +23014,22 @@
       "country": "Georgia",
       "cc": "GE"
     }
+  },
+  "VH-642236-3AFD77-406DC4": {
+    "expires": "2026-07-28T02:01:55.525Z",
+    "hwid": null,
+    "browserHwid": "BR-40FA7650-UO8O8",
+    "username": "Ahmedw",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-07-27T02:01:56.202Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "195.242.214.213",
+      "city": "Winnipeg",
+      "region": "Manitoba",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
