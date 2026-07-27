@@ -23536,5 +23536,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-2E5B10-81D5E6-992C65": {
+    "expires": "2026-07-28T20:15:52.899Z",
+    "hwid": "10772239010-83212082-b858-41d2-9f51-053ff2bfe367",
+    "browserHwid": null,
+    "username": "Imgoodatevade67",
+    "userId": "10772239010",
+    "source": "script",
+    "createdAt": "2026-07-27T20:15:53.516Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "71.195.9.2",
+      "city": "Saint Paul",
+      "region": "Minnesota",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
