@@ -23128,5 +23128,22 @@
       "country": "Senegal",
       "cc": "SN"
     }
+  },
+  "VH-B4FC08-7B712E-034FFC": {
+    "expires": "2026-07-28T07:36:24.185Z",
+    "hwid": "7119423412-F450B644-BBB7-4901-84C0-7A7D0C31B10E",
+    "browserHwid": null,
+    "username": "xyakzi",
+    "userId": "7119423412",
+    "source": "script",
+    "createdAt": "2026-07-27T07:36:24.881Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "118.99.73.139",
+      "city": "Sleman",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
