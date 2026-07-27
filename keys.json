@@ -23113,8 +23113,15 @@
     "userId": "9857655022",
     "source": "script",
     "createdAt": "2026-07-27T07:03:14.271Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-27T07:07:59.726Z",
     "geo": {
+      "ip": "196.207.231.231",
+      "city": "Dakar",
+      "region": "Dakar",
+      "country": "Senegal",
+      "cc": "SN"
+    },
+    "lastGeo": {
       "ip": "196.207.231.231",
       "city": "Dakar",
       "region": "Dakar",
