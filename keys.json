@@ -23512,5 +23512,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-4C807E-757ED4-E8E6BE": {
+    "expires": "2026-07-28T19:42:34.959Z",
+    "hwid": "10212882937-80b0e10b-0023-49af-83c2-6de8fed41ccc",
+    "browserHwid": null,
+    "username": "helinyer25",
+    "userId": "10212882937",
+    "source": "script",
+    "createdAt": "2026-07-27T19:42:35.566Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "154.27.138.60",
+      "city": "Caracas",
+      "region": "Distrito Federal",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
