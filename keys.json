@@ -23392,5 +23392,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-408AC6-72D66A-810BE7": {
+    "expires": "2026-07-28T16:05:19.580Z",
+    "hwid": "2850524331-92A2E585-7D47-4DFB-A116-C56E8EF77ADA",
+    "browserHwid": null,
+    "username": "Yeeerixd",
+    "userId": "2850524331",
+    "source": "script",
+    "createdAt": "2026-07-27T16:05:20.233Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.239.211.143",
+      "city": "Santiago",
+      "region": "Santiago Metropolitan",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
