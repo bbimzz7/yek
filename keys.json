@@ -23152,5 +23152,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CAF3FB-CBA6FE-145313": {
+    "expires": "2026-07-28T08:58:53.856Z",
+    "hwid": "8281499416-58e8922d-9ec6-47a5-a2d0-be380cdbc9e3",
+    "browserHwid": null,
+    "username": "RGym7",
+    "userId": "8281499416",
+    "source": "script",
+    "createdAt": "2026-07-27T08:58:54.483Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "150.228.157.20",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
