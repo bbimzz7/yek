@@ -23377,8 +23377,15 @@
     "userId": "8382800256",
     "source": "script",
     "createdAt": "2026-07-27T14:10:28.310Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-27T14:12:45.117Z",
     "geo": {
+      "ip": "92.209.212.167",
+      "city": "Stuttgart",
+      "region": "Baden-Wurttemberg",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "92.209.212.167",
       "city": "Stuttgart",
       "region": "Baden-Wurttemberg",
