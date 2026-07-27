@@ -23464,5 +23464,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-601091-87AC76-09A454": {
+    "expires": "2026-07-28T17:05:10.875Z",
+    "hwid": "4838071768-8cfbc8e8-b731-4be9-80c7-1434d2d73160",
+    "browserHwid": null,
+    "username": "Msm_007pon",
+    "userId": "4838071768",
+    "source": "script",
+    "createdAt": "2026-07-27T17:05:11.490Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "93.170.39.113",
+      "city": "Astana",
+      "region": "Astana",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
