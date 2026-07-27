@@ -23560,5 +23560,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-9E5FD0-1642E8-9165EE": {
+    "expires": "2026-07-28T23:48:37.338Z",
+    "hwid": "10650813412-6872705e-671a-428c-b145-c1837bfcdea3",
+    "browserHwid": null,
+    "username": "10000000000000000dkk",
+    "userId": "10650813412",
+    "source": "script",
+    "createdAt": "2026-07-27T23:48:37.924Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.164.62.124",
+      "city": "Shah Alam",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
