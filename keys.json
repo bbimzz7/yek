@@ -23488,5 +23488,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-C4904D-878218-2FAD42": {
+    "expires": "2026-07-28T19:20:35.128Z",
+    "hwid": "10081669240-e527a4ea-32d5-446a-ad06-f21795589566",
+    "browserHwid": null,
+    "username": "Noob295234",
+    "userId": "10081669240",
+    "source": "script",
+    "createdAt": "2026-07-27T19:20:35.790Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "195.62.36.66",
+      "city": "Odesa",
+      "region": "Odesa",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
