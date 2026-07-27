@@ -23440,5 +23440,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DD410B-0C6321-70F555": {
+    "expires": "2026-07-28T16:39:41.916Z",
+    "hwid": "8612535719-86006d78-7c08-46ce-bbc3-4251c0800478",
+    "browserHwid": null,
+    "username": "shxyka_1",
+    "userId": "8612535719",
+    "source": "script",
+    "createdAt": "2026-07-27T16:39:42.538Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.247.21.204",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
