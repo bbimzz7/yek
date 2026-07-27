@@ -23610,8 +23610,15 @@
     "userId": "7162770891",
     "source": "script",
     "createdAt": "2026-07-27T23:51:11.950Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-27T23:51:19.345Z",
     "geo": {
+      "ip": "167.250.138.118",
+      "city": "Iguatu",
+      "region": "Ceará",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "167.250.138.118",
       "city": "Iguatu",
       "region": "Ceará",
