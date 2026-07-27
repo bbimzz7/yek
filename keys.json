@@ -23497,8 +23497,15 @@
     "userId": "10081669240",
     "source": "script",
     "createdAt": "2026-07-27T19:20:35.790Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-27T19:20:50.936Z",
     "geo": {
+      "ip": "195.62.36.66",
+      "city": "Odesa",
+      "region": "Odesa",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "195.62.36.66",
       "city": "Odesa",
       "region": "Odesa",
