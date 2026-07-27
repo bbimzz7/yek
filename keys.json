@@ -23200,5 +23200,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-500AD5-06D4C5-52A0C6": {
+    "expires": "2026-07-28T10:05:23.985Z",
+    "hwid": "11124269649-7667e01e-33e1-4414-8017-e3a45f1644f6",
+    "browserHwid": null,
+    "username": "naeca70",
+    "userId": "11124269649",
+    "source": "script",
+    "createdAt": "2026-07-27T10:05:24.639Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.131.19.33",
+      "city": "Bulakamba",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
