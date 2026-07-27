@@ -23521,8 +23521,15 @@
     "userId": "10212882937",
     "source": "script",
     "createdAt": "2026-07-27T19:42:35.566Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-27T19:45:24.402Z",
     "geo": {
+      "ip": "154.27.138.60",
+      "city": "Caracas",
+      "region": "Distrito Federal",
+      "country": "Venezuela",
+      "cc": "VE"
+    },
+    "lastGeo": {
       "ip": "154.27.138.60",
       "city": "Caracas",
       "region": "Distrito Federal",
