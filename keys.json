@@ -23425,8 +23425,15 @@
     "userId": "7726520006",
     "source": "script",
     "createdAt": "2026-07-27T16:12:52.965Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-27T16:14:34.828Z",
     "geo": {
+      "ip": "103.146.207.146",
+      "city": "Naic",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "103.146.207.146",
       "city": "Naic",
       "region": "Calabarzon",
