@@ -23817,5 +23817,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-2984FD-2800F6-87BC79": {
+    "expires": "2026-07-29T11:46:32.732Z",
+    "hwid": "8160958716-393158ba-c4f7-4910-8d4f-34746ab2472e",
+    "browserHwid": null,
+    "username": "sandi_s21",
+    "userId": "8160958716",
+    "source": "script",
+    "createdAt": "2026-07-28T11:46:33.439Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.85.206.39",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
