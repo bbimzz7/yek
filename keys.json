@@ -24081,5 +24081,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-5CB8F3-E06D79-AB3C25": {
+    "expires": "2026-07-29T21:12:39.459Z",
+    "hwid": "6162999272-3D7455D8-BCE4-437D-9B8A-031DE7C9DB96",
+    "browserHwid": null,
+    "username": "Spiderdhc_AXU31I",
+    "userId": "6162999272",
+    "source": "script",
+    "createdAt": "2026-07-28T21:12:39.900Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "105.99.14.200",
+      "city": "Algiers",
+      "region": "Algiers",
+      "country": "Algeria",
+      "cc": "DZ"
+    }
   }
 }
