@@ -23913,5 +23913,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-0D4D1D-2D17F2-32746C": {
+    "expires": "2026-07-29T15:26:53.439Z",
+    "hwid": "8419751888-a373107c-6a4e-4f40-9c3e-479984f3ddbd",
+    "browserHwid": null,
+    "username": "King56_5656",
+    "userId": "8419751888",
+    "source": "script",
+    "createdAt": "2026-07-28T15:26:54.099Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "174.56.184.105",
+      "city": "Savannah",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
