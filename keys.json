@@ -24066,8 +24066,15 @@
     "userId": "9076374671",
     "source": "script",
     "createdAt": "2026-07-28T21:08:56.406Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-28T21:11:24.801Z",
     "geo": {
+      "ip": "191.85.4.194",
+      "city": "Rafael Calzada",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "191.85.4.194",
       "city": "Rafael Calzada",
       "region": "Buenos Aires",
