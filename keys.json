@@ -24129,5 +24129,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-93A778-E0F2C3-D1DEE1": {
+    "expires": "2026-07-29T23:19:53.779Z",
+    "hwid": "8402798075-e6c384ad-4f05-4865-b01b-2813d9c7a652",
+    "browserHwid": null,
+    "username": "JULIANITO712",
+    "userId": "8402798075",
+    "source": "script",
+    "createdAt": "2026-07-28T23:19:54.394Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.82.87.200",
+      "city": "Cartagena",
+      "region": "Departamento de Bolívar",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
