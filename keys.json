@@ -23946,11 +23946,18 @@
     "userId": "8021329448",
     "source": "script",
     "createdAt": "2026-07-28T16:12:42.900Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-28T16:15:02.716Z",
     "geo": {
       "ip": "104.28.214.125",
       "city": "Nizhniy Novgorod",
       "region": "Nizhny Novgorod Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
+      "ip": "85.140.4.156",
+      "city": "Votkinsk",
+      "region": "Udmurtiya Republic",
       "country": "Russia",
       "cc": "RU"
     }
