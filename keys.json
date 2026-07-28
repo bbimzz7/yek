@@ -23649,5 +23649,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4CC723-B3F351-5874E0": {
+    "expires": "2026-07-29T00:52:33.454Z",
+    "hwid": "9832038441-9cc5a685-e596-4fb9-949e-83189bd0022d",
+    "browserHwid": null,
+    "username": "osoalfa82",
+    "userId": "9832038441",
+    "source": "script",
+    "createdAt": "2026-07-28T00:52:34.055Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.103.86.208",
+      "city": "San Pedro Sula",
+      "region": "Cortés Department",
+      "country": "Honduras",
+      "cc": "HN"
+    }
   }
 }
