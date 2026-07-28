@@ -23721,5 +23721,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C2CA83-DDF820-8B0373": {
+    "expires": "2026-07-29T04:50:05.546Z",
+    "hwid": "11195745994-bd12912a-7e40-4ea3-a76b-cc52354db2ab",
+    "browserHwid": null,
+    "username": "Littxd5",
+    "userId": "11195745994",
+    "source": "script",
+    "createdAt": "2026-07-28T04:50:06.151Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.61.109.87",
+      "city": "Talca",
+      "region": "Maule Region",
+      "country": "Chile",
+      "cc": "CL"
+    }
   }
 }
