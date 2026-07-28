@@ -23673,5 +23673,22 @@
       "country": "Honduras",
       "cc": "HN"
     }
+  },
+  "VH-6CD1BB-B306FF-4B43A1": {
+    "expires": "2026-07-29T03:05:31.406Z",
+    "hwid": "9708044215-F3B92D5C-BF1A-483C-85B6-96BFF078162C",
+    "browserHwid": null,
+    "username": "Benyekbot",
+    "userId": "9708044215",
+    "source": "script",
+    "createdAt": "2026-07-28T03:05:32.005Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.48.241",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
