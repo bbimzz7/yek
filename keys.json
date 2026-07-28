@@ -24018,8 +24018,15 @@
     "userId": "1375627942",
     "source": "script",
     "createdAt": "2026-07-28T17:44:11.400Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-28T17:44:21.016Z",
     "geo": {
+      "ip": "100.11.198.113",
+      "city": "Philadelphia",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "100.11.198.113",
       "city": "Philadelphia",
       "region": "Pennsylvania",
