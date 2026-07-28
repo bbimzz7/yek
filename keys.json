@@ -23961,5 +23961,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-53EF1B-A495BD-4E737A": {
+    "expires": "2026-07-29T16:47:49.927Z",
+    "hwid": "1539420741-405dfb95-c541-4212-a7c4-616bdb944866",
+    "browserHwid": null,
+    "username": "Imegis",
+    "userId": "1539420741",
+    "source": "script",
+    "createdAt": "2026-07-28T16:47:50.561Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.36.179",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
