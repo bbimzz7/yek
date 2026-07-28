@@ -24033,5 +24033,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-3890FB-8902C4-E71468": {
+    "expires": "2026-07-29T19:27:49.130Z",
+    "hwid": "8110855191-c03dee56-a6bf-4fec-bb00-b0dddeb6cb7b",
+    "browserHwid": null,
+    "username": "YHIYA336",
+    "userId": "8110855191",
+    "source": "script",
+    "createdAt": "2026-07-28T19:27:49.780Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.165.219",
+      "city": "Istres",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
