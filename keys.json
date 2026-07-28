@@ -23922,8 +23922,15 @@
     "userId": "8419751888",
     "source": "script",
     "createdAt": "2026-07-28T15:26:54.099Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-28T15:27:10.096Z",
     "geo": {
+      "ip": "174.56.184.105",
+      "city": "Savannah",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "174.56.184.105",
       "city": "Savannah",
       "region": "Georgia",
