@@ -23889,5 +23889,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-BC38C2-FB6DF7-2624C5": {
+    "expires": "2026-07-29T14:54:27.585Z",
+    "hwid": "11370616538-4edc388b-b2a4-4918-ae87-4260163e0f58",
+    "browserHwid": null,
+    "username": "milana14_15",
+    "userId": "11370616538",
+    "source": "script",
+    "createdAt": "2026-07-28T14:54:28.219Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "155.117.138.254",
+      "city": "Hong Kong",
+      "region": "Kowloon",
+      "country": "Hong Kong",
+      "cc": "HK"
+    }
   }
 }
