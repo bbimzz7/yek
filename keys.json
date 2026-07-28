@@ -24138,8 +24138,15 @@
     "userId": "8402798075",
     "source": "script",
     "createdAt": "2026-07-28T23:19:54.394Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-28T23:20:07.619Z",
     "geo": {
+      "ip": "186.82.87.200",
+      "city": "Cartagena",
+      "region": "Departamento de Bolívar",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
       "ip": "186.82.87.200",
       "city": "Cartagena",
       "region": "Departamento de Bolívar",
