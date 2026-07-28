@@ -23865,5 +23865,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-9050E9-16A5F5-1119A3": {
+    "expires": "2026-07-29T14:32:39.633Z",
+    "hwid": "7191310415-c1e26994-4e26-4111-84ce-2dc100976701",
+    "browserHwid": null,
+    "username": "IHAVETOMANYBBL",
+    "userId": "7191310415",
+    "source": "script",
+    "createdAt": "2026-07-28T14:32:40.279Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "68.40.39.46",
+      "city": "Ypsilanti",
+      "region": "Michigan",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
