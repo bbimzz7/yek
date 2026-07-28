@@ -24057,5 +24057,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-768400-140223-913526": {
+    "expires": "2026-07-29T21:08:55.774Z",
+    "hwid": "9076374671-548afd13-0879-4db3-9aec-285a92b75e8a",
+    "browserHwid": null,
+    "username": "kdjfjkw11",
+    "userId": "9076374671",
+    "source": "script",
+    "createdAt": "2026-07-28T21:08:56.406Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.85.4.194",
+      "city": "Rafael Calzada",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
