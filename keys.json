@@ -24609,5 +24609,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-D49BB9-BE2D76-4F9CE0": {
+    "expires": "2026-07-30T18:09:00.441Z",
+    "hwid": "9784350390-a5c8dfaf-852b-4bfc-bccd-3466fb5860aa",
+    "browserHwid": null,
+    "username": "noobbackman",
+    "userId": "9784350390",
+    "source": "script",
+    "createdAt": "2026-07-29T18:09:01.093Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.244.155.71",
+      "city": "Erbil",
+      "region": "Erbil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
