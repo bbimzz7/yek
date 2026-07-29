@@ -24489,5 +24489,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-C41FA5-D7CC99-BA6316": {
+    "expires": "2026-07-30T15:04:57.790Z",
+    "hwid": "10802155265-a69569ff-44a9-4972-8328-f6e53d3822e1",
+    "browserHwid": null,
+    "username": "BYONE_786",
+    "userId": "10802155265",
+    "source": "script",
+    "createdAt": "2026-07-29T15:04:58.504Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.207.218",
+      "city": "Gadingrejo",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
