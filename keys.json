@@ -24707,8 +24707,15 @@
     "userId": "10229991158",
     "source": "script",
     "createdAt": "2026-07-29T19:57:58.681Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-29T20:00:22.482Z",
     "geo": {
+      "ip": "200.8.235.239",
+      "city": "Tocuyito",
+      "region": "Carabobo",
+      "country": "Venezuela",
+      "cc": "VE"
+    },
+    "lastGeo": {
       "ip": "200.8.235.239",
       "city": "Tocuyito",
       "region": "Carabobo",
