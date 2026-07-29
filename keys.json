@@ -24773,14 +24773,22 @@
   },
   "VH-2D1801-322AE1-2B1514": {
     "expires": "2026-07-30T23:24:16.266Z",
-    "hwid": null,
+    "hwid": "11015559639-45d93702-139e-4d39-b549-f69eb364d515",
     "browserHwid": "BR-3E2C9CBC-HPHIG",
     "username": "CEO_CIL4",
-    "userId": null,
+    "userId": "11015559639",
     "source": "browser",
     "createdAt": "2026-07-29T23:24:16.853Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-29T23:25:51.246Z",
     "geo": {
+      "ip": "180.252.34.69",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-07-29T23:25:51.238Z",
+    "lastGeo": {
       "ip": "180.252.34.69",
       "city": "East Jakarta",
       "region": "Jakarta",
