@@ -24393,5 +24393,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-8E0E8E-6252DE-0B5D45": {
+    "expires": "2026-07-30T11:01:39.354Z",
+    "hwid": "10816006329-e3d8309a-8f9b-4a1e-b2f5-bf6970ba6740",
+    "browserHwid": null,
+    "username": "Pizzaman12669",
+    "userId": "10816006329",
+    "source": "script",
+    "createdAt": "2026-07-29T11:01:39.965Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.139.21.229",
+      "city": "Subang Jaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
