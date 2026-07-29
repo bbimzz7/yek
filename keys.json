@@ -24698,5 +24698,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C1FEFD-604236-5FD549": {
+    "expires": "2026-07-30T19:57:58.031Z",
+    "hwid": "10229991158-041326d1-d95f-42c3-921d-900b501694d8",
+    "browserHwid": null,
+    "username": "evadista_1585",
+    "userId": "10229991158",
+    "source": "script",
+    "createdAt": "2026-07-29T19:57:58.681Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "200.8.235.239",
+      "city": "Tocuyito",
+      "region": "Carabobo",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
