@@ -24746,5 +24746,22 @@
       "country": "Mongolia",
       "cc": "MN"
     }
+  },
+  "VH-F8E69E-E922FB-C0AA46": {
+    "expires": "2026-07-30T22:26:17.253Z",
+    "hwid": "9717370420-b53d2fcc-8833-4727-8e36-05873a0b6f01",
+    "browserHwid": null,
+    "username": "kbbnu2",
+    "userId": "9717370420",
+    "source": "script",
+    "createdAt": "2026-07-29T22:26:17.904Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.52.76.133",
+      "city": "Riyadh",
+      "region": "Riyadh Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
