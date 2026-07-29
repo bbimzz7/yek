@@ -24642,8 +24642,15 @@
     "userId": "8892627790",
     "source": "script",
     "createdAt": "2026-07-29T18:38:59.404Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-29T18:39:29.028Z",
     "geo": {
+      "ip": "103.86.117.107",
+      "city": "Lenteng",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.86.117.107",
       "city": "Lenteng",
       "region": "East Java",
