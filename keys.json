@@ -24153,5 +24153,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-6B41E1-D64075-1A2AF9": {
+    "expires": "2026-07-30T01:11:20.360Z",
+    "hwid": "10623425641-75782d40-f51d-4e4b-a591-cd6168d4dce2",
+    "browserHwid": null,
+    "username": "djhfirhdiegeugd",
+    "userId": "10623425641",
+    "source": "script",
+    "createdAt": "2026-07-29T01:11:20.969Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.5.254",
+      "city": "Kota Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
