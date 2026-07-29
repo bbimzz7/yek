@@ -24722,5 +24722,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-C3B26B-6AE986-E43D94": {
+    "expires": "2026-07-30T21:11:31.829Z",
+    "hwid": "4891234336-bd1c512e-2b9c-40e0-97b0-c4c59f8796a1",
+    "browserHwid": null,
+    "username": "RIP_NOOB14443",
+    "userId": "4891234336",
+    "source": "script",
+    "createdAt": "2026-07-29T21:11:32.460Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "66.181.179.59",
+      "city": "Ulan Bator",
+      "region": "Ulaanbaatar",
+      "country": "Mongolia",
+      "cc": "MN"
+    }
   }
 }
