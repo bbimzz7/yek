@@ -24650,5 +24650,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-392A69-7F24FC-16EB26": {
+    "expires": "2026-07-30T18:39:19.858Z",
+    "hwid": null,
+    "browserHwid": "BR-27D356D2-16DSH",
+    "username": "VH-8673CA-B22A84-41AE5E",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-07-29T18:39:20.396Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.86.117.107",
+      "city": "Lenteng",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
