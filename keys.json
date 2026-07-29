@@ -24618,8 +24618,15 @@
     "userId": "9784350390",
     "source": "script",
     "createdAt": "2026-07-29T18:09:01.093Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-29T18:09:57.663Z",
     "geo": {
+      "ip": "185.244.155.71",
+      "city": "Erbil",
+      "region": "Erbil Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "185.244.155.71",
       "city": "Erbil",
       "region": "Erbil Governorate",
