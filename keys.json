@@ -24249,5 +24249,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2B97D8-165ECA-C459FA": {
+    "expires": "2026-07-30T04:46:56.871Z",
+    "hwid": "5071252490-ecb7abed-af52-4568-ac00-31ab872fc1d9",
+    "browserHwid": null,
+    "username": "fideos014",
+    "userId": "5071252490",
+    "source": "script",
+    "createdAt": "2026-07-29T04:46:57.487Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.224.136.221",
+      "city": "Ciudad de Villa de Álvarez",
+      "region": "Colima",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
