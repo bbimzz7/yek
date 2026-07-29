@@ -24633,5 +24633,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-8673CA-B22A84-41AE5E": {
+    "expires": "2026-07-30T18:38:58.774Z",
+    "hwid": "8892627790-c34e52fd-26e5-463e-94f4-47a06b73286f",
+    "browserHwid": null,
+    "username": "fahriakmal99",
+    "userId": "8892627790",
+    "source": "script",
+    "createdAt": "2026-07-29T18:38:59.404Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.86.117.107",
+      "city": "Lenteng",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
