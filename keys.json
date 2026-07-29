@@ -24297,5 +24297,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3F4E1A-BB086F-9EEB28": {
+    "expires": "2026-07-30T05:23:18.019Z",
+    "hwid": "7549358093-8dfcab10-0122-40bf-a1ff-1d3e1bfa22e0",
+    "browserHwid": null,
+    "username": "t0y0uL",
+    "userId": "7549358093",
+    "source": "script",
+    "createdAt": "2026-07-29T05:23:18.642Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.149.121.18",
+      "city": "Madiun",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
