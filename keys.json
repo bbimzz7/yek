@@ -24186,8 +24186,15 @@
     "userId": "10618097261",
     "source": "script",
     "createdAt": "2026-07-29T02:52:10.804Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-29T02:52:19.858Z",
     "geo": {
+      "ip": "23.166.88.189",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
+    },
+    "lastGeo": {
       "ip": "23.166.88.189",
       "city": "Zurich",
       "region": "Zurich",
