@@ -24513,5 +24513,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-59982E-FAC8C9-7150A0": {
+    "expires": "2026-07-30T15:47:12.551Z",
+    "hwid": "9022990930-f808eac2-43e4-4ade-9cef-5fd93b49d821",
+    "browserHwid": null,
+    "username": "Asura_z98",
+    "userId": "9022990930",
+    "source": "script",
+    "createdAt": "2026-07-29T15:47:13.222Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.167.59.108",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
