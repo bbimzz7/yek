@@ -24273,5 +24273,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-2DEA93-EFEB33-986DF4": {
+    "expires": "2026-07-30T05:01:08.200Z",
+    "hwid": "11276220640-c6c61aa3-07ee-46ec-913b-b50d50fdcfea",
+    "browserHwid": null,
+    "username": "oknetz",
+    "userId": "11276220640",
+    "source": "script",
+    "createdAt": "2026-07-29T05:01:08.817Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.28.116.62",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
