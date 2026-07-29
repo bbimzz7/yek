@@ -24570,8 +24570,15 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-07-29T15:58:49.498Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-29T15:59:42.046Z",
     "geo": {
+      "ip": "180.253.236.34",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.253.236.34",
       "city": "Bekasi",
       "region": "West Java",
