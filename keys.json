@@ -24546,8 +24546,15 @@
     "userId": "7812802763",
     "source": "script",
     "createdAt": "2026-07-29T15:55:31.009Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-29T15:56:13.850Z",
     "geo": {
+      "ip": "45.152.15.33",
+      "city": "San Roque",
+      "region": "Andalusia",
+      "country": "Spain",
+      "cc": "ES"
+    },
+    "lastGeo": {
       "ip": "45.152.15.33",
       "city": "San Roque",
       "region": "Andalusia",
