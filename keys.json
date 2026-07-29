@@ -24594,8 +24594,15 @@
     "userId": "8781074006",
     "source": "script",
     "createdAt": "2026-07-29T16:16:54.836Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-29T16:18:04.409Z",
     "geo": {
+      "ip": "113.181.191.218",
+      "city": "Bac Ninh",
+      "region": "Bắc Ninh Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "113.181.191.218",
       "city": "Bac Ninh",
       "region": "Bắc Ninh Province",
