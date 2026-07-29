@@ -24417,5 +24417,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-1D5036-083B5E-DD2F7F": {
+    "expires": "2026-07-30T11:47:57.630Z",
+    "hwid": "11243665660-9b760b94-cb0a-4d35-bfd6-9b5275bacf29",
+    "browserHwid": null,
+    "username": "UncleJiang1",
+    "userId": "11243665660",
+    "source": "script",
+    "createdAt": "2026-07-29T11:47:58.218Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.164.79",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
