@@ -24537,5 +24537,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-917406-C1342D-102035": {
+    "expires": "2026-07-30T15:55:30.341Z",
+    "hwid": "7812802763-5ff46422-2497-4ff3-be61-312c3276a076",
+    "browserHwid": null,
+    "username": "ELPADREDELGAN",
+    "userId": "7812802763",
+    "source": "script",
+    "createdAt": "2026-07-29T15:55:31.009Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.152.15.33",
+      "city": "San Roque",
+      "region": "Andalusia",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
