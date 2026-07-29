@@ -24770,5 +24770,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-2D1801-322AE1-2B1514": {
+    "expires": "2026-07-30T23:24:16.266Z",
+    "hwid": null,
+    "browserHwid": "BR-3E2C9CBC-HPHIG",
+    "username": "CEO_CIL4",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-07-29T23:24:16.853Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.34.69",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
