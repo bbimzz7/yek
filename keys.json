@@ -24177,5 +24177,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-893623-2BD9E9-36652D": {
+    "expires": "2026-07-30T02:52:10.186Z",
+    "hwid": "10618097261-a10a64b1-a798-4795-94bb-52761eb2f1b9",
+    "browserHwid": null,
+    "username": "IHATE_ITSUPDATE",
+    "userId": "10618097261",
+    "source": "script",
+    "createdAt": "2026-07-29T02:52:10.804Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "23.166.88.189",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "cc": "CH"
+    }
   }
 }
