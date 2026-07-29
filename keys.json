@@ -24201,5 +24201,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-8ABE5D-5FEBC4-50C0AD": {
+    "expires": "2026-07-30T03:09:02.910Z",
+    "hwid": "10043433431-C57A1663-6CAB-426F-BD8C-7B34EED997B2",
+    "browserHwid": null,
+    "username": "Raszx_67",
+    "userId": "10043433431",
+    "source": "script",
+    "createdAt": "2026-07-29T03:09:03.569Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.176.94.201",
+      "city": "Sekupang",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
