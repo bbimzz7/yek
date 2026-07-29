@@ -24369,5 +24369,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-BFF1A3-AA8702-D6EFD2": {
+    "expires": "2026-07-30T09:59:10.739Z",
+    "hwid": "7098644434-70bb443e-c54d-40aa-a885-dac3cb0b566b",
+    "browserHwid": null,
+    "username": "Bacon_anakmalaysia",
+    "userId": "7098644434",
+    "source": "script",
+    "createdAt": "2026-07-29T09:59:11.352Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.211.214.251",
+      "city": "Petaling Jaya",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
