@@ -25395,5 +25395,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-EB882C-9521A4-EB6A2D": {
+    "expires": "2026-07-31T16:58:21.715Z",
+    "hwid": "5727952736-893c197a-f957-40d1-b35c-04d16172c134",
+    "browserHwid": null,
+    "username": "igor13jeje",
+    "userId": "5727952736",
+    "source": "script",
+    "createdAt": "2026-07-30T16:58:22.361Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.243.174.109",
+      "city": "Belford Roxo",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
