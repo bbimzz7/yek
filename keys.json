@@ -24924,8 +24924,15 @@
     "userId": "995393659",
     "source": "script",
     "createdAt": "2026-07-30T07:22:07.511Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-30T07:22:19.042Z",
     "geo": {
+      "ip": "180.252.59.240",
+      "city": "Kota Batam",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.252.59.240",
       "city": "Kota Batam",
       "region": "Riau Islands",
