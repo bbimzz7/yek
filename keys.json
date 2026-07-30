@@ -25445,8 +25445,15 @@
     "userId": "4226411186",
     "source": "script",
     "createdAt": "2026-07-30T17:26:32.432Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-30T17:26:40.224Z",
     "geo": {
+      "ip": "46.8.242.97",
+      "city": "Khasavyurt",
+      "region": "Dagestan",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "46.8.242.97",
       "city": "Khasavyurt",
       "region": "Dagestan",
