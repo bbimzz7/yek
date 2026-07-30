@@ -25629,5 +25629,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-760F60-C5110E-25230F": {
+    "expires": "2026-07-31T23:44:24.783Z",
+    "hwid": "5238322353-91aaec4f-b1bf-4d7a-bc7b-805c4bb43a8e",
+    "browserHwid": null,
+    "username": "dsm217380",
+    "userId": "5238322353",
+    "source": "script",
+    "createdAt": "2026-07-30T23:44:25.418Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.221.150.191",
+      "city": "São Ludgero",
+      "region": "Santa Catarina",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
