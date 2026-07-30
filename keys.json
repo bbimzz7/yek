@@ -25581,5 +25581,22 @@
       "country": "Kosovo",
       "cc": "XK"
     }
+  },
+  "VH-488CBE-DC74B1-568335": {
+    "expires": "2026-07-31T21:56:13.500Z",
+    "hwid": "5180294087-e2d7e8cc-bcb2-41ac-a038-0fd831c86e9b",
+    "browserHwid": null,
+    "username": "caxapok_324426",
+    "userId": "5180294087",
+    "source": "script",
+    "createdAt": "2026-07-30T21:56:14.258Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "162.221.196.72",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
