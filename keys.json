@@ -25517,8 +25517,15 @@
     "userId": "7205186212",
     "source": "script",
     "createdAt": "2026-07-30T19:59:54.925Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-30T20:00:12.625Z",
     "geo": {
+      "ip": "149.102.237.122",
+      "city": "Milan",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "lastGeo": {
       "ip": "149.102.237.122",
       "city": "Milan",
       "region": "Lombardy",
