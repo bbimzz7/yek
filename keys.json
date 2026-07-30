@@ -24843,5 +24843,22 @@
       "country": "Costa Rica",
       "cc": "CR"
     }
+  },
+  "VH-9D1403-2C38B1-E8CA4D": {
+    "expires": "2026-07-31T02:35:30.678Z",
+    "hwid": "11014230877-675f047c-a840-407c-8eab-a12ab376403d",
+    "browserHwid": null,
+    "username": "21Fairy0",
+    "userId": "11014230877",
+    "source": "script",
+    "createdAt": "2026-07-30T02:35:31.301Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.1.35",
+      "city": "Kota Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
