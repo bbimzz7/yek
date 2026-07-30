@@ -25092,8 +25092,15 @@
     "userId": "3202475606",
     "source": "script",
     "createdAt": "2026-07-30T09:43:08.452Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-30T09:44:46.628Z",
     "geo": {
+      "ip": "160.22.177.25",
+      "city": "Bangkinang",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "160.22.177.25",
       "city": "Bangkinang",
       "region": "Riau",
