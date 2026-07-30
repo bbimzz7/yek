@@ -24804,8 +24804,15 @@
     "userId": "6170574322",
     "source": "script",
     "createdAt": "2026-07-30T01:27:39.204Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-30T01:27:49.464Z",
     "geo": {
+      "ip": "119.92.91.214",
+      "city": "Taguig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "119.92.91.214",
       "city": "Taguig",
       "region": "Metro Manila",
