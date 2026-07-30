@@ -25035,5 +25035,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D28C4F-F81661-BA4503": {
+    "expires": "2026-07-31T09:26:31.704Z",
+    "hwid": "7917642911-83e1f99d-4c83-4926-8544-e8b3d00de317",
+    "browserHwid": null,
+    "username": "Crist5792",
+    "userId": "7917642911",
+    "source": "script",
+    "createdAt": "2026-07-30T09:26:32.390Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.235.145.97",
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
