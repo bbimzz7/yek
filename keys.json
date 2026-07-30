@@ -25011,5 +25011,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-83CD13-CF8F8B-834FB1": {
+    "expires": "2026-07-31T08:29:14.174Z",
+    "hwid": "7981943849-c1e0529f-501c-48a7-931b-dca6eebe73ed",
+    "browserHwid": null,
+    "username": "fadeunchange63",
+    "userId": "7981943849",
+    "source": "script",
+    "createdAt": "2026-07-30T08:29:14.912Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.119.8",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
