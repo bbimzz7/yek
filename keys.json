@@ -24948,8 +24948,15 @@
     "userId": "7921324362",
     "source": "script",
     "createdAt": "2026-07-30T08:04:07.468Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-30T08:04:21.455Z",
     "geo": {
+      "ip": "177.230.24.219",
+      "city": "Culiacán",
+      "region": "Sinaloa",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "177.230.24.219",
       "city": "Culiacán",
       "region": "Sinaloa",
