@@ -25140,8 +25140,15 @@
     "userId": "9516101746",
     "source": "script",
     "createdAt": "2026-07-30T10:05:30.970Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-30T10:06:13.749Z",
     "geo": {
+      "ip": "112.198.129.208",
+      "city": "Nasugbu",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.198.129.208",
       "city": "Nasugbu",
       "region": "Calabarzon",
