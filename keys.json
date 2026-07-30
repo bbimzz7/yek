@@ -25131,5 +25131,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-0AB832-98DF35-5DF5FD": {
+    "expires": "2026-07-31T10:05:30.321Z",
+    "hwid": "9516101746-0f65594b-418b-4ad3-af47-a298232afc6c",
+    "browserHwid": null,
+    "username": "shiroo1037",
+    "userId": "9516101746",
+    "source": "script",
+    "createdAt": "2026-07-30T10:05:30.970Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.198.129.208",
+      "city": "Nasugbu",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
