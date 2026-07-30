@@ -24963,5 +24963,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-D3189B-3F5990-AD8C61": {
+    "expires": "2026-07-31T08:09:18.664Z",
+    "hwid": "9957367003-ad6e5151-2aeb-4162-8219-677d4b79f262",
+    "browserHwid": null,
+    "username": "jin19481",
+    "userId": "9957367003",
+    "source": "script",
+    "createdAt": "2026-07-30T08:09:19.155Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "117.110.205.43",
+      "city": "Uijeongbu-si",
+      "region": "Gyeonggi-do",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
