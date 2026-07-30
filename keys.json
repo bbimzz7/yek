@@ -25347,5 +25347,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-A6415F-FDD877-854363": {
+    "expires": "2026-07-31T15:48:15.487Z",
+    "hwid": "8587365111-42de55e4-0e32-472e-86a6-9116b1d730f0",
+    "browserHwid": null,
+    "username": "Si_zico",
+    "userId": "8587365111",
+    "source": "script",
+    "createdAt": "2026-07-30T15:48:16.308Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.152.232.138",
+      "city": "Cikarang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
