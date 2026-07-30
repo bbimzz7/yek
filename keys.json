@@ -25508,5 +25508,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-B7EDBF-73320A-A103D6": {
+    "expires": "2026-07-31T19:59:54.208Z",
+    "hwid": "7205186212-01c51b29-0932-4cab-9bc6-47c0c4b32454",
+    "browserHwid": null,
+    "username": "ksksjd099994",
+    "userId": "7205186212",
+    "source": "script",
+    "createdAt": "2026-07-30T19:59:54.925Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "149.102.237.122",
+      "city": "Milan",
+      "region": "Lombardy",
+      "country": "Italy",
+      "cc": "IT"
+    }
   }
 }
