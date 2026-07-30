@@ -25164,8 +25164,15 @@
     "userId": "8067989501",
     "source": "script",
     "createdAt": "2026-07-30T10:21:14.682Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-30T10:21:25.163Z",
     "geo": {
+      "ip": "136.158.126.104",
+      "city": "Santa Rosa",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.126.104",
       "city": "Santa Rosa",
       "region": "Central Luzon",
