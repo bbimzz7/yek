@@ -25493,8 +25493,15 @@
     "userId": "4149685378",
     "source": "script",
     "createdAt": "2026-07-30T18:44:21.404Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-30T18:44:32.705Z",
     "geo": {
+      "ip": "79.110.53.2",
+      "city": "Los Angeles",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "79.110.53.2",
       "city": "Los Angeles",
       "region": "California",
