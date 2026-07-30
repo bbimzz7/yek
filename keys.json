@@ -24498,7 +24498,7 @@
     "userId": "10802155265",
     "source": "script",
     "createdAt": "2026-07-29T15:04:58.504Z",
-    "lastUsed": "2026-07-29T15:17:17.725Z",
+    "lastUsed": "2026-07-30T09:47:10.185Z",
     "geo": {
       "ip": "103.189.207.218",
       "city": "Gadingrejo",
@@ -24507,9 +24507,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "103.189.207.218",
-      "city": "Gadingrejo",
-      "region": "Lampung",
+      "ip": "103.189.207.166",
+      "city": "Curup",
+      "region": "Bengkulu",
       "country": "Indonesia",
       "cc": "ID"
     }
