@@ -25227,5 +25227,22 @@
       "country": "The Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-5ADA37-DF0C34-663B8F": {
+    "expires": "2026-07-31T12:11:01.229Z",
+    "hwid": "11035570397-0a4c41b2-cd0c-43a8-a0bc-be1cd2c5a469",
+    "browserHwid": null,
+    "username": "ibra8022222",
+    "userId": "11035570397",
+    "source": "script",
+    "createdAt": "2026-07-30T12:11:01.839Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.168.225",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
