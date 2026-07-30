@@ -25532,5 +25532,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-351358-93B913-9C6F34": {
+    "expires": "2026-07-31T20:01:23.353Z",
+    "hwid": "1618905467-71105366-9b8f-4277-81cc-05efe6024f97",
+    "browserHwid": null,
+    "username": "akerke12457",
+    "userId": "1618905467",
+    "source": "script",
+    "createdAt": "2026-07-30T20:01:23.784Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.251.45.78",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
