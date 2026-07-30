@@ -25605,5 +25605,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-2098A0-20C666-742C65": {
+    "expires": "2026-07-31T22:02:30.365Z",
+    "hwid": "7269325535-1e827ab5-3b70-44ed-b1e3-93feea7dc548",
+    "browserHwid": null,
+    "username": "ahmedgh18109",
+    "userId": "7269325535",
+    "source": "script",
+    "createdAt": "2026-07-30T22:02:30.989Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.165.221",
+      "city": "Istres",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
