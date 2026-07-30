@@ -25284,8 +25284,15 @@
     "userId": "10471220969",
     "source": "script",
     "createdAt": "2026-07-30T13:12:30.565Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-30T13:14:39.071Z",
     "geo": {
+      "ip": "201.123.92.57",
+      "city": "Boca del Rio",
+      "region": "Veracruz",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "201.123.92.57",
       "city": "Boca del Rio",
       "region": "Veracruz",
