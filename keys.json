@@ -24867,5 +24867,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D4DAFF-9B747E-EE21EB": {
+    "expires": "2026-07-31T03:46:50.618Z",
+    "hwid": "10875338157-852f46c6-1787-43a3-a713-debd5d3dc37b",
+    "browserHwid": null,
+    "username": "Gaelisback_hehe",
+    "userId": "10875338157",
+    "source": "script",
+    "createdAt": "2026-07-30T03:46:51.226Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "98.199.68.165",
+      "city": "Houston",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
