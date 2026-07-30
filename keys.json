@@ -25412,5 +25412,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-086D84-93A2A9-F32339": {
+    "expires": "2026-07-31T17:02:46.658Z",
+    "hwid": "11282188106-6208085a-3b9b-47c3-84a7-76ecb7a4f649",
+    "browserHwid": null,
+    "username": "ardagulers12",
+    "userId": "11282188106",
+    "source": "script",
+    "createdAt": "2026-07-30T17:02:47.190Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.70.62.190",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
