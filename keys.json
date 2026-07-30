@@ -25059,5 +25059,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-10B3AD-C3AD8C-88110D": {
+    "expires": "2026-07-31T09:32:52.342Z",
+    "hwid": "10163841320-b8570c9f-f926-4edc-b18a-ddb94feb171c",
+    "browserHwid": null,
+    "username": "ixraj_123",
+    "userId": "10163841320",
+    "source": "script",
+    "createdAt": "2026-07-30T09:32:52.970Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "157.20.206.243",
+      "city": "Kudus",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
