@@ -25559,14 +25559,22 @@
   },
   "VH-6FC9D4-D36CAA-3F802A": {
     "expires": "2026-07-31T20:52:09.810Z",
-    "hwid": null,
+    "hwid": "7386447291-08c9b0d2-21fb-4625-bb16-3b64cc177a32",
     "browserHwid": "BR-6222873C-QR1R5",
     "username": "P9DRINI03",
-    "userId": null,
+    "userId": "7386447291",
     "source": "browser",
     "createdAt": "2026-07-30T20:52:10.545Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-30T20:52:53.717Z",
     "geo": {
+      "ip": "37.26.65.234",
+      "city": "Gjakova",
+      "region": "Gjakova",
+      "country": "Kosovo",
+      "cc": "XK"
+    },
+    "boundAt": "2026-07-30T20:52:53.710Z",
+    "lastGeo": {
       "ip": "37.26.65.234",
       "city": "Gjakova",
       "region": "Gjakova",
