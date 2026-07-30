@@ -24819,5 +24819,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-9F27AA-C37520-AEE21D": {
+    "expires": "2026-07-31T01:58:00.447Z",
+    "hwid": "2645235128-dd90a25d-d1dd-49c8-a7b8-570ea342fab3",
+    "browserHwid": null,
+    "username": "dydjfjgk256",
+    "userId": "2645235128",
+    "source": "script",
+    "createdAt": "2026-07-30T01:58:01.055Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.4.58.136",
+      "city": "San José",
+      "region": "Provincia de San José",
+      "country": "Costa Rica",
+      "cc": "CR"
+    }
   }
 }
