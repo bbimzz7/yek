@@ -25083,5 +25083,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-170FA9-4A1394-633C0A": {
+    "expires": "2026-07-31T09:43:07.735Z",
+    "hwid": "3202475606-1a419b6b-0350-4ab0-bfdd-3d4332b79d02",
+    "browserHwid": null,
+    "username": "gaktaunama2002",
+    "userId": "3202475606",
+    "source": "script",
+    "createdAt": "2026-07-30T09:43:08.452Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.22.177.25",
+      "city": "Bangkinang",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
