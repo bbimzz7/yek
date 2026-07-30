@@ -25638,8 +25638,15 @@
     "userId": "5238322353",
     "source": "script",
     "createdAt": "2026-07-30T23:44:25.418Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-30T23:45:37.766Z",
     "geo": {
+      "ip": "177.221.150.191",
+      "city": "São Ludgero",
+      "region": "Santa Catarina",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.221.150.191",
       "city": "São Ludgero",
       "region": "Santa Catarina",
