@@ -24939,5 +24939,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-74FB67-804B01-DE36FF": {
+    "expires": "2026-07-31T08:04:06.820Z",
+    "hwid": "7921324362-4954c602-29fb-43c0-823e-5f0585407cee",
+    "browserHwid": null,
+    "username": "Soto_1807",
+    "userId": "7921324362",
+    "source": "script",
+    "createdAt": "2026-07-30T08:04:07.468Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.230.24.219",
+      "city": "Culiacán",
+      "region": "Sinaloa",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
