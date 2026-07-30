@@ -25203,5 +25203,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8E2DC5-3E3938-157529": {
+    "expires": "2026-07-31T11:53:33.815Z",
+    "hwid": "11183684430-0c49d6b9-080f-456a-9662-8dccfc320688",
+    "browserHwid": null,
+    "username": "wenyturewa",
+    "userId": "11183684430",
+    "source": "script",
+    "createdAt": "2026-07-30T11:53:34.480Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "169.40.12.253",
+      "city": "Amsterdam",
+      "region": "North Holland",
+      "country": "The Netherlands",
+      "cc": "NL"
+    }
   }
 }
