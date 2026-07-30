@@ -25292,5 +25292,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-90D258-DC5943-92C1ED": {
+    "expires": "2026-07-31T13:12:49.948Z",
+    "hwid": "5327399135-8f163828-a572-4272-8b3b-4e9e8b522ade",
+    "browserHwid": null,
+    "username": "kenzo_wwe146",
+    "userId": "5327399135",
+    "source": "script",
+    "createdAt": "2026-07-30T13:12:51.411Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.201.126",
+      "city": "Sidoarjo",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
