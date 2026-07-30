@@ -25460,5 +25460,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-186EEE-CD4113-3342A1": {
+    "expires": "2026-07-31T17:37:58.165Z",
+    "hwid": "5191677735-f951fe03-39bf-4646-a34f-0a2b6ba5d699",
+    "browserHwid": null,
+    "username": "Ferdiinannz",
+    "userId": "5191677735",
+    "source": "script",
+    "createdAt": "2026-07-30T17:37:58.769Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.132.53.53",
+      "city": "Pekalongan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
