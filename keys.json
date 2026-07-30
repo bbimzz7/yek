@@ -24828,8 +24828,15 @@
     "userId": "2645235128",
     "source": "script",
     "createdAt": "2026-07-30T01:58:01.055Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-30T01:59:11.973Z",
     "geo": {
+      "ip": "186.4.58.136",
+      "city": "San José",
+      "region": "Provincia de San José",
+      "country": "Costa Rica",
+      "cc": "CR"
+    },
+    "lastGeo": {
       "ip": "186.4.58.136",
       "city": "San José",
       "region": "Provincia de San José",
