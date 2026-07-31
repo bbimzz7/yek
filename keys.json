@@ -26423,8 +26423,15 @@
     "userId": "8271941868",
     "source": "script",
     "createdAt": "2026-07-31T22:09:45.315Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-31T22:13:48.200Z",
     "geo": {
+      "ip": "119.92.236.34",
+      "city": "Paranaque City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "119.92.236.34",
       "city": "Paranaque City",
       "region": "Metro Manila",
