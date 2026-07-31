@@ -26390,5 +26390,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-AC373A-BA86AF-E1113C": {
+    "expires": "2026-08-01T21:51:51.709Z",
+    "hwid": "7670825682-24457d7c-8bbf-46ab-8080-84a8072e18ce",
+    "browserHwid": null,
+    "username": "Mahanderakhshani91",
+    "userId": "7670825682",
+    "source": "script",
+    "createdAt": "2026-07-31T21:51:52.419Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.114.245.59",
+      "city": "Hankensbüttel",
+      "region": "Lower Saxony",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
