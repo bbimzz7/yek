@@ -26078,5 +26078,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-79C01F-4AF872-DE89E2": {
+    "expires": "2026-08-01T14:12:14.238Z",
+    "hwid": "11387502990-f4e827e8-c911-4e5b-ae26-30dbd0b3be6a",
+    "browserHwid": null,
+    "username": "dengAguer1234",
+    "userId": "11387502990",
+    "source": "script",
+    "createdAt": "2026-07-31T14:12:14.863Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.123.143.121",
+      "city": "Sundsvall",
+      "region": "Västernorrland County",
+      "country": "Sweden",
+      "cc": "SE"
+    }
   }
 }
