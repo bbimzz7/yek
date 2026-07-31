@@ -25958,5 +25958,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-F71FE6-DA7ED1-F5F359": {
+    "expires": "2026-08-01T12:22:16.731Z",
+    "hwid": "10979818210-c5a760f1-ef6b-4cfe-98dd-cfcfa74f928a",
+    "browserHwid": null,
+    "username": "premansuki3",
+    "userId": "10979818210",
+    "source": "script",
+    "createdAt": "2026-07-31T12:22:17.375Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.68.53.197",
+      "city": "Tegal",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
