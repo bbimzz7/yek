@@ -26342,5 +26342,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-06C298-262E91-7EBFD5": {
+    "expires": "2026-08-01T20:38:56.839Z",
+    "hwid": "7992807985-5ff3a2a7-e246-4577-8959-9837c06e9d83",
+    "browserHwid": null,
+    "username": "suyryu_rip",
+    "userId": "7992807985",
+    "source": "script",
+    "createdAt": "2026-07-31T20:38:57.473Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.246.41.171",
+      "city": "Morelia",
+      "region": "Michoacán",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
