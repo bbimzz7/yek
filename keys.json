@@ -26294,5 +26294,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-139C20-CD9FA2-771403": {
+    "expires": "2026-08-01T19:41:44.536Z",
+    "hwid": "7696715469-4d1f4a6d-60be-48bc-8558-41ec307808c9",
+    "browserHwid": null,
+    "username": "Imjsthemoonfr",
+    "userId": "7696715469",
+    "source": "script",
+    "createdAt": "2026-07-31T19:41:45.183Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "173.93.148.172",
+      "city": "Raleigh",
+      "region": "North Carolina",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
