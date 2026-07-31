@@ -26087,8 +26087,15 @@
     "userId": "11387502990",
     "source": "script",
     "createdAt": "2026-07-31T14:12:14.863Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-31T14:13:55.300Z",
     "geo": {
+      "ip": "37.123.143.121",
+      "city": "Sundsvall",
+      "region": "Västernorrland County",
+      "country": "Sweden",
+      "cc": "SE"
+    },
+    "lastGeo": {
       "ip": "37.123.143.121",
       "city": "Sundsvall",
       "region": "Västernorrland County",
