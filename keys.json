@@ -26222,5 +26222,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-522A4B-74911B-B7EDD9": {
+    "expires": "2026-08-01T17:22:35.820Z",
+    "hwid": "8312782810-7e69c1a1-77ef-4408-8629-1b7a149da874",
+    "browserHwid": null,
+    "username": "Nabilljlke",
+    "userId": "8312782810",
+    "source": "script",
+    "createdAt": "2026-07-31T17:22:36.419Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.183.163",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
