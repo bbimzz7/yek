@@ -26399,8 +26399,15 @@
     "userId": "7670825682",
     "source": "script",
     "createdAt": "2026-07-31T21:51:52.419Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-31T21:52:00.100Z",
     "geo": {
+      "ip": "46.114.245.59",
+      "city": "Hankensbüttel",
+      "region": "Lower Saxony",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "46.114.245.59",
       "city": "Hankensbüttel",
       "region": "Lower Saxony",
