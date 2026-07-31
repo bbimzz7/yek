@@ -26318,5 +26318,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-C06EA6-CBB777-3196E3": {
+    "expires": "2026-08-01T20:09:21.931Z",
+    "hwid": "9013831761-ca9b2fef-a95d-4369-b099-a4ea4b06c8d1",
+    "browserHwid": null,
+    "username": "Khee3ltraa",
+    "userId": "9013831761",
+    "source": "script",
+    "createdAt": "2026-07-31T20:09:22.548Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.204.198.11",
+      "city": "Hialeah",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
