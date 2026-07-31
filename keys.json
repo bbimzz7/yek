@@ -26207,8 +26207,15 @@
     "userId": "10544706782",
     "source": "script",
     "createdAt": "2026-07-31T16:26:33.398Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-31T16:26:45.416Z",
     "geo": {
+      "ip": "49.146.198.151",
+      "city": "Tanauan",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "49.146.198.151",
       "city": "Tanauan",
       "region": "Calabarzon",
