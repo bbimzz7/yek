@@ -25686,8 +25686,15 @@
     "userId": "11363791701",
     "source": "script",
     "createdAt": "2026-07-31T01:28:53.486Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-31T01:30:22.784Z",
     "geo": {
+      "ip": "80.6.54.178",
+      "city": "Swansea",
+      "region": "Wales",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "80.6.54.178",
       "city": "Swansea",
       "region": "Wales",
