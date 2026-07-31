@@ -26246,5 +26246,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-935ACF-B708A5-6F3BEF": {
+    "expires": "2026-08-01T19:31:27.685Z",
+    "hwid": "7538121018-45032eb9-be00-4bd6-99ee-bdfc7435c8cc",
+    "browserHwid": null,
+    "username": "jva1132",
+    "userId": "7538121018",
+    "source": "script",
+    "createdAt": "2026-07-31T19:31:28.352Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.219.98.248",
+      "city": "Monterrey",
+      "region": "Nuevo León",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
