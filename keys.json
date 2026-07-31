@@ -25823,8 +25823,15 @@
     "userId": "10397446909",
     "source": "script",
     "createdAt": "2026-07-31T08:19:16.265Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-31T08:20:19.933Z",
     "geo": {
+      "ip": "136.158.60.2",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.60.2",
       "city": "Manila",
       "region": "Metro Manila",
