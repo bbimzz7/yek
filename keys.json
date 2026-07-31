@@ -26303,8 +26303,15 @@
     "userId": "7696715469",
     "source": "script",
     "createdAt": "2026-07-31T19:41:45.183Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-31T19:42:13.386Z",
     "geo": {
+      "ip": "173.93.148.172",
+      "city": "Raleigh",
+      "region": "North Carolina",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "173.93.148.172",
       "city": "Raleigh",
       "region": "North Carolina",
