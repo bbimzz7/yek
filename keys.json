@@ -26462,5 +26462,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-4A8779-726DE4-67BD3A": {
+    "expires": "2026-08-01T23:52:12.076Z",
+    "hwid": "8654730777-f2bd853e-1eb5-4333-a431-82a050a867f4",
+    "browserHwid": null,
+    "username": "Gixxer987",
+    "userId": "8654730777",
+    "source": "script",
+    "createdAt": "2026-07-31T23:52:12.923Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.193.228",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
