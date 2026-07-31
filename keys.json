@@ -26438,5 +26438,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-001358-08D765-2ADE36": {
+    "expires": "2026-08-01T22:48:04.731Z",
+    "hwid": "9567462572-a14eb6b7-473c-4ccb-b234-07ff05118a06",
+    "browserHwid": null,
+    "username": "roketasd4",
+    "userId": "9567462572",
+    "source": "script",
+    "createdAt": "2026-07-31T22:48:05.415Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.47.231.226",
+      "city": "Kyzylorda",
+      "region": "Kyzylorda",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
