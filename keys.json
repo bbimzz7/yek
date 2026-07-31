@@ -25943,8 +25943,15 @@
     "userId": "2703584942",
     "source": "script",
     "createdAt": "2026-07-31T10:58:04.381Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-31T10:58:12.810Z",
     "geo": {
+      "ip": "49.49.229.45",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "49.49.229.45",
       "city": "Bangkok",
       "region": "Bangkok",
