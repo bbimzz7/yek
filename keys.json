@@ -26102,5 +26102,22 @@
       "country": "Sweden",
       "cc": "SE"
     }
+  },
+  "VH-CEB9AA-00CD1D-7C33DA": {
+    "expires": "2026-08-01T15:10:42.438Z",
+    "hwid": "8286192261-45c698f9-b2c8-43c8-9d3a-730710bcaad0",
+    "browserHwid": null,
+    "username": "ShiestySonicDrooling",
+    "userId": "8286192261",
+    "source": "script",
+    "createdAt": "2026-07-31T15:10:43.082Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.11.4",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
