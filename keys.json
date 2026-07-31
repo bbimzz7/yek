@@ -26327,8 +26327,15 @@
     "userId": "9013831761",
     "source": "script",
     "createdAt": "2026-07-31T20:09:22.548Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-31T20:09:32.788Z",
     "geo": {
+      "ip": "73.204.198.11",
+      "city": "Hialeah",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.204.198.11",
       "city": "Hialeah",
       "region": "Florida",
