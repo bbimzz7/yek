@@ -26006,5 +26006,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-4A404E-7410F5-4D25AF": {
+    "expires": "2026-08-01T13:14:08.841Z",
+    "hwid": "8100153417-4D5936B4-C315-4A7F-BABC-1F6033552A2B",
+    "browserHwid": null,
+    "username": "JainMainGame",
+    "userId": "8100153417",
+    "source": "script",
+    "createdAt": "2026-07-31T13:14:09.546Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.180.92",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
