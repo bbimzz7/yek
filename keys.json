@@ -26270,5 +26270,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-D06596-D917AE-591D4E": {
+    "expires": "2026-08-01T19:35:07.636Z",
+    "hwid": "9431285210-07700ae1-3313-4bd4-a09e-7218b32c721d",
+    "browserHwid": null,
+    "username": "Belerang120",
+    "userId": "9431285210",
+    "source": "script",
+    "createdAt": "2026-07-31T19:35:08.093Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.37.171",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
