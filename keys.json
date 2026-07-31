@@ -25653,5 +25653,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-484758-F1D33D-58FA6C": {
+    "expires": "2026-08-01T00:47:39.505Z",
+    "hwid": "8429361286-11b18b6c-49a3-44cf-860a-d8e6b6cf9d9e",
+    "browserHwid": null,
+    "username": "asta_w09xxxxx",
+    "userId": "8429361286",
+    "source": "script",
+    "createdAt": "2026-07-31T00:47:40.102Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.78.99",
+      "city": "Tarlac City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
