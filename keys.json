@@ -26126,5 +26126,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-126DB6-EB9452-9A1E46": {
+    "expires": "2026-08-01T15:21:22.146Z",
+    "hwid": "10730844597-6c51358a-1260-4b1e-b0f2-2c94022c379a",
+    "browserHwid": null,
+    "username": "DzikriAF0",
+    "userId": "10730844597",
+    "source": "script",
+    "createdAt": "2026-07-31T15:21:22.880Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.238.126",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
