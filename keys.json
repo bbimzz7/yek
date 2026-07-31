@@ -25871,8 +25871,15 @@
     "userId": "8947452801",
     "source": "script",
     "createdAt": "2026-07-31T08:41:06.147Z",
-    "lastUsed": null,
+    "lastUsed": "2026-07-31T08:42:20.550Z",
     "geo": {
+      "ip": "136.158.126.200",
+      "city": "Dinalongan",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.126.200",
       "city": "Dinalongan",
       "region": "Central Luzon",
