@@ -25701,5 +25701,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-45CBB0-19D36C-AF626E": {
+    "expires": "2026-08-01T03:13:19.709Z",
+    "hwid": "10953619911-3f82fe83-0e48-42d2-b19b-cfda7926d8ad",
+    "browserHwid": null,
+    "username": "plenger23157",
+    "userId": "10953619911",
+    "source": "script",
+    "createdAt": "2026-07-31T03:13:20.608Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.230.179",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
