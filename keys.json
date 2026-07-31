@@ -26150,5 +26150,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1282B7-15573D-AF7BD1": {
+    "expires": "2026-08-01T15:53:30.422Z",
+    "hwid": "4101631155-b85cfcf9-5882-43a2-ba35-3ffe106eb021",
+    "browserHwid": null,
+    "username": "yunnasenpall",
+    "userId": "4101631155",
+    "source": "script",
+    "createdAt": "2026-07-31T15:53:31.092Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "69.246.140.123",
+      "city": "Mobile",
+      "region": "Alabama",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
