@@ -26414,5 +26414,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-9C499A-79C8E3-FD7E8E": {
+    "expires": "2026-08-01T22:09:44.720Z",
+    "hwid": "8271941868-afedbf4b-f516-4687-ad3b-1b1b992eaba9",
+    "browserHwid": null,
+    "username": "kate_eliane",
+    "userId": "8271941868",
+    "source": "script",
+    "createdAt": "2026-07-31T22:09:45.315Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.92.236.34",
+      "city": "Paranaque City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
