@@ -25773,5 +25773,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C61F2B-236958-255608": {
+    "expires": "2026-08-01T06:53:38.330Z",
+    "hwid": null,
+    "browserHwid": "BR-3EFF533F-1WKH9",
+    "username": "terreneitor2310",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-07-31T06:53:38.882Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "206.203.59.203",
+      "city": "San José",
+      "region": "Provincia de San José",
+      "country": "Costa Rica",
+      "cc": "CR"
+    }
   }
 }
