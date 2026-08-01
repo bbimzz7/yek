@@ -26839,5 +26839,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-955090-F2AB8B-626C76": {
+    "expires": "2026-08-02T10:18:57.327Z",
+    "hwid": "9000367386-b4b65513-d80f-4d1e-8d28-7e7511aa677e",
+    "browserHwid": null,
+    "username": "sariphi186",
+    "userId": "9000367386",
+    "source": "script",
+    "createdAt": "2026-08-01T10:18:57.932Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.28.92.71",
+      "city": "La Paz",
+      "region": "La Paz Department",
+      "country": "Bolivia",
+      "cc": "BO"
+    }
   }
 }
