@@ -27216,5 +27216,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-D355E2-52683C-1533F0": {
+    "expires": "2026-08-02T20:33:48.302Z",
+    "hwid": "7898574273-59161B18-0F9B-4C5B-B021-ADE5418F5557",
+    "browserHwid": null,
+    "username": "bomaychoishidou7",
+    "userId": "7898574273",
+    "source": "script",
+    "createdAt": "2026-08-01T20:33:48.987Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.235.234.162",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
