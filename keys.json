@@ -26599,5 +26599,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-E8A7B4-7D55A0-214277": {
+    "expires": "2026-08-02T04:38:04.793Z",
+    "hwid": "7682305768-10146caf-2d7b-4499-921d-9fe5f25fac79",
+    "browserHwid": null,
+    "username": "Padelzxy",
+    "userId": "7682305768",
+    "source": "script",
+    "createdAt": "2026-08-01T04:38:05.511Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.165.157.103",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
