@@ -26983,5 +26983,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-FD1CC2-2668FA-A4AD68": {
+    "expires": "2026-08-02T13:14:12.499Z",
+    "hwid": "7218329452-113098fe-8bc9-42ed-bd61-8fb544648ed7",
+    "browserHwid": null,
+    "username": "sipapasisipapage",
+    "userId": "7218329452",
+    "source": "script",
+    "createdAt": "2026-08-01T13:14:13.156Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.241.31.16",
+      "city": "Tarakan",
+      "region": "North Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
