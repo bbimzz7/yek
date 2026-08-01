@@ -26815,5 +26815,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-48AE8D-85810B-26097B": {
+    "expires": "2026-08-02T10:03:05.215Z",
+    "hwid": "7138063393-46aeee21-2595-40a9-a0c6-1eab6c9584cd",
+    "browserHwid": null,
+    "username": "bronya12315",
+    "userId": "7138063393",
+    "source": "script",
+    "createdAt": "2026-08-01T10:03:05.820Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.47.140.122",
+      "city": "Dimāpur",
+      "region": "Nagaland",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
