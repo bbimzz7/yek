@@ -26575,5 +26575,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-53C981-FC34B6-818133": {
+    "expires": "2026-08-02T04:26:00.537Z",
+    "hwid": "11272795102-063eb0f6-6ca0-46b6-a269-aefeacbd2fe1",
+    "browserHwid": null,
+    "username": "Bacon_newplay367",
+    "userId": "11272795102",
+    "source": "script",
+    "createdAt": "2026-08-01T04:26:01.195Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.243.60.188",
+      "city": "Vũng Tàu",
+      "region": "Bà Rịa–Vũng Tàu Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
