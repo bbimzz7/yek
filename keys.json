@@ -26671,5 +26671,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-CD45A2-8FE927-7CB82E": {
+    "expires": "2026-08-02T05:46:05.878Z",
+    "hwid": "2466054569-9ccf56fe-5d71-4a70-9618-55a6bf7aca07",
+    "browserHwid": null,
+    "username": "alberRV",
+    "userId": "2466054569",
+    "source": "script",
+    "createdAt": "2026-08-01T05:46:06.475Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.59.89.245",
+      "city": "La Paz",
+      "region": "La Paz Department",
+      "country": "Bolivia",
+      "cc": "BO"
+    }
   }
 }
