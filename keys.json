@@ -26920,8 +26920,15 @@
     "userId": "6217274198",
     "source": "script",
     "createdAt": "2026-08-01T10:51:09.833Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-01T10:52:28.783Z",
     "geo": {
+      "ip": "119.93.206.32",
+      "city": "Mandaluyong",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "119.93.206.32",
       "city": "Mandaluyong",
       "region": "Metro Manila",
