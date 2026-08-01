@@ -27055,5 +27055,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-172B35-40F1B6-AB15CD": {
+    "expires": "2026-08-02T17:32:14.376Z",
+    "hwid": "4830403569-8134d270-026b-4a59-803b-c882bb5a86e0",
+    "browserHwid": null,
+    "username": "ViiNz666",
+    "userId": "4830403569",
+    "source": "script",
+    "createdAt": "2026-08-01T17:32:15.017Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.70.132.20",
+      "city": "Gunungkalong",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
