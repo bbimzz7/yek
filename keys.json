@@ -27127,5 +27127,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-511D72-29022C-64D42F": {
+    "expires": "2026-08-02T19:15:25.586Z",
+    "hwid": "2744848411-fe9f6586-17e2-47f5-b90d-f80e59c606ed",
+    "browserHwid": null,
+    "username": "antonioprimo12",
+    "userId": "2744848411",
+    "source": "script",
+    "createdAt": "2026-08-01T19:15:26.229Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.143.251.213",
+      "city": "Managua",
+      "region": "Managua Department",
+      "country": "Nicaragua",
+      "cc": "NI"
+    }
   }
 }
