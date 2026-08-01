@@ -26719,5 +26719,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-9C979C-FB2504-7198E8": {
+    "expires": "2026-08-02T07:05:17.285Z",
+    "hwid": "2781259028-DAE2298D-B570-493C-AEC7-3CA917C84F2D",
+    "browserHwid": null,
+    "username": "Walterorea",
+    "userId": "2781259028",
+    "source": "script",
+    "createdAt": "2026-08-01T07:05:17.957Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.228.163.57",
+      "city": "Yeongdeungpo-gu",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    }
   }
 }
