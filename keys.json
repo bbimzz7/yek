@@ -27177,8 +27177,15 @@
     "userId": "8614276351",
     "source": "script",
     "createdAt": "2026-08-01T19:55:43.176Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-01T19:57:06.165Z",
     "geo": {
+      "ip": "94.231.180.23",
+      "city": "Berezhany",
+      "region": "Ternopil Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "94.231.180.23",
       "city": "Berezhany",
       "region": "Ternopil Oblast",
