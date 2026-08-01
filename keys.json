@@ -26584,8 +26584,15 @@
     "userId": "11272795102",
     "source": "script",
     "createdAt": "2026-08-01T04:26:01.195Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-01T04:27:37.888Z",
     "geo": {
+      "ip": "171.243.60.188",
+      "city": "Vũng Tàu",
+      "region": "Bà Rịa–Vũng Tàu Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "171.243.60.188",
       "city": "Vũng Tàu",
       "region": "Bà Rịa–Vũng Tàu Province",
