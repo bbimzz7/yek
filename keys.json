@@ -27103,5 +27103,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-37BB4C-BD7E71-5A5972": {
+    "expires": "2026-08-02T18:36:41.350Z",
+    "hwid": "4752883044-fff8d860-dd4e-4a26-aa53-c9057c8d6db9",
+    "browserHwid": null,
+    "username": "LiamarTin012",
+    "userId": "4752883044",
+    "source": "script",
+    "createdAt": "2026-08-01T18:36:41.956Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.63.56",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
