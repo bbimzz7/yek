@@ -27201,8 +27201,15 @@
     "userId": "3217904306",
     "source": "script",
     "createdAt": "2026-08-01T20:01:50.749Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-01T20:01:57.894Z",
     "geo": {
+      "ip": "73.156.254.187",
+      "city": "Lehigh Acres",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.156.254.187",
       "city": "Lehigh Acres",
       "region": "Florida",
