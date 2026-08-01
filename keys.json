@@ -27240,5 +27240,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-1A15A7-9107A3-2AF411": {
+    "expires": "2026-08-02T20:38:52.910Z",
+    "hwid": "7062721948-56ba69a7-32b0-4dd7-89cb-e962203203b4",
+    "browserHwid": null,
+    "username": "el_pro77832",
+    "userId": "7062721948",
+    "source": "script",
+    "createdAt": "2026-08-01T20:38:53.363Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.224.223.120",
+      "city": "Concepcion",
+      "region": "Tucuman",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
