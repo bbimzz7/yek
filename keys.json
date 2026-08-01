@@ -26623,5 +26623,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-13D766-EA2D91-086FB2": {
+    "expires": "2026-08-02T05:04:58.648Z",
+    "hwid": "3218977854-fbe251f3-dc23-4d65-8d2c-2d8017dba497",
+    "browserHwid": null,
+    "username": "Tn_enza01",
+    "userId": "3218977854",
+    "source": "script",
+    "createdAt": "2026-08-01T05:04:59.264Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.166.19",
+      "city": "Ciputat",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
