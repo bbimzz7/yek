@@ -26558,5 +26558,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-421DFF-A35178-628076": {
+    "expires": "2026-08-02T04:10:11.438Z",
+    "hwid": "4029155143-850ac225-8217-4a36-b832-16c755534590",
+    "browserHwid": null,
+    "username": "Mingl308",
+    "userId": "4029155143",
+    "source": "script",
+    "createdAt": "2026-08-01T04:10:12.102Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.134.252.226",
+      "city": "Medellín",
+      "region": "Antioquia",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
