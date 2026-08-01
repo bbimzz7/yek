@@ -27151,5 +27151,22 @@
       "country": "Nicaragua",
       "cc": "NI"
     }
+  },
+  "VH-CC4120-2ABDE5-F2161B": {
+    "expires": "2026-08-02T19:48:12.906Z",
+    "hwid": null,
+    "browserHwid": "BR-69BF3D6F-R1IKJ",
+    "username": "BR-69BF3D6F-R1IKJ",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-08-01T19:48:13.545Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "94.231.180.23",
+      "city": "Berezhany",
+      "region": "Ternopil Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
