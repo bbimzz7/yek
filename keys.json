@@ -27312,5 +27312,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-775909-DAA874-10BFDE": {
+    "expires": "2026-08-02T23:58:38.683Z",
+    "hwid": "10795154214-11fe9799-4bf0-429f-a53c-25890487dbfa",
+    "browserHwid": null,
+    "username": "ninja_73046",
+    "userId": "10795154214",
+    "source": "script",
+    "createdAt": "2026-08-01T23:58:39.311Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.115.175.230",
+      "city": "La Paz",
+      "region": "La Paz Department",
+      "country": "Bolivia",
+      "cc": "BO"
+    }
   }
 }
