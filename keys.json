@@ -26704,8 +26704,15 @@
     "userId": "4855574313",
     "source": "script",
     "createdAt": "2026-08-01T06:41:53.220Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-01T06:46:20.946Z",
     "geo": {
+      "ip": "49.147.64.122",
+      "city": "Cabuyao",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "49.147.64.122",
       "city": "Cabuyao",
       "region": "Calabarzon",
