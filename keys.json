@@ -26728,8 +26728,15 @@
     "userId": "2781259028",
     "source": "script",
     "createdAt": "2026-08-01T07:05:17.957Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-01T07:05:27.112Z",
     "geo": {
+      "ip": "180.228.163.57",
+      "city": "Yeongdeungpo-gu",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "lastGeo": {
       "ip": "180.228.163.57",
       "city": "Yeongdeungpo-gu",
       "region": "Seoul",
