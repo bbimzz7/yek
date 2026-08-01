@@ -27007,5 +27007,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5008F1-313B28-F2CA58": {
+    "expires": "2026-08-02T13:14:39.330Z",
+    "hwid": "9864103404-ec1db760-3af5-4c74-9348-560acee4e0c7",
+    "browserHwid": null,
+    "username": "DARKANJEL16",
+    "userId": "9864103404",
+    "source": "script",
+    "createdAt": "2026-08-01T13:14:39.741Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.249.74",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
