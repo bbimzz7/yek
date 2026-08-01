@@ -27249,8 +27249,15 @@
     "userId": "7062721948",
     "source": "script",
     "createdAt": "2026-08-01T20:38:53.363Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-01T20:38:59.338Z",
     "geo": {
+      "ip": "181.224.223.120",
+      "city": "Concepcion",
+      "region": "Tucuman",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "181.224.223.120",
       "city": "Concepcion",
       "region": "Tucuman",
