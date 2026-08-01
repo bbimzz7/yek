@@ -27273,8 +27273,15 @@
     "userId": "7992807985",
     "source": "script",
     "createdAt": "2026-08-01T20:42:18.621Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-01T20:42:29.924Z",
     "geo": {
+      "ip": "177.246.41.171",
+      "city": "Morelia",
+      "region": "Michoacán",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "177.246.41.171",
       "city": "Morelia",
       "region": "Michoacán",
