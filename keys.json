@@ -27297,8 +27297,15 @@
     "userId": "11218723549",
     "source": "script",
     "createdAt": "2026-08-01T21:45:15.131Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-01T21:45:26.521Z",
     "geo": {
+      "ip": "180.190.49.155",
+      "city": "Maramag",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "180.190.49.155",
       "city": "Maramag",
       "region": "Northern Mindanao",
