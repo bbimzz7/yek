@@ -26680,8 +26680,15 @@
     "userId": "2466054569",
     "source": "script",
     "createdAt": "2026-08-01T05:46:06.475Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-01T05:46:14.201Z",
     "geo": {
+      "ip": "179.59.89.245",
+      "city": "La Paz",
+      "region": "La Paz Department",
+      "country": "Bolivia",
+      "cc": "BO"
+    },
+    "lastGeo": {
       "ip": "179.59.89.245",
       "city": "La Paz",
       "region": "La Paz Department",
