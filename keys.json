@@ -27168,5 +27168,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-4E90AB-24DF54-6596E5": {
+    "expires": "2026-08-02T19:55:42.616Z",
+    "hwid": "8614276351-47ddee41-f65b-4046-bbb5-f1e7ba774c2f",
+    "browserHwid": null,
+    "username": "maks112235s",
+    "userId": "8614276351",
+    "source": "script",
+    "createdAt": "2026-08-01T19:55:43.176Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "94.231.180.23",
+      "city": "Berezhany",
+      "region": "Ternopil Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
