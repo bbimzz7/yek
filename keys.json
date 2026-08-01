@@ -27192,5 +27192,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-78EB20-D1C12E-0D3DE7": {
+    "expires": "2026-08-02T20:01:50.123Z",
+    "hwid": "3217904306-5a8fbd19-1948-4799-b70c-faf8a064fcb7",
+    "browserHwid": null,
+    "username": "Hhhappyi",
+    "userId": "3217904306",
+    "source": "script",
+    "createdAt": "2026-08-01T20:01:50.749Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.156.254.187",
+      "city": "Lehigh Acres",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
