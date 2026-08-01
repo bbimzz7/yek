@@ -26656,8 +26656,15 @@
     "userId": "8839240503",
     "source": "script",
     "createdAt": "2026-08-01T05:25:47.185Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-01T05:25:53.641Z",
     "geo": {
+      "ip": "115.76.50.193",
+      "city": "Trảng Bom",
+      "region": "Dong Nai",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "115.76.50.193",
       "city": "Trảng Bom",
       "region": "Dong Nai",
