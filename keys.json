@@ -26791,5 +26791,22 @@
       "country": "Azerbaijan",
       "cc": "AZ"
     }
+  },
+  "VH-0F81B4-00463B-2DFE29": {
+    "expires": "2026-08-02T08:35:41.545Z",
+    "hwid": "11158277130-e9f2e1f6-dd2f-4c3f-b7da-89d2a468f72f",
+    "browserHwid": null,
+    "username": "Iwantvoic3chat5",
+    "userId": "11158277130",
+    "source": "script",
+    "createdAt": "2026-08-01T08:35:42.164Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "126.209.84.86",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
