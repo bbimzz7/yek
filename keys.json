@@ -26824,8 +26824,15 @@
     "userId": "7138063393",
     "source": "script",
     "createdAt": "2026-08-01T10:03:05.820Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-01T10:04:36.833Z",
     "geo": {
+      "ip": "49.47.140.122",
+      "city": "Dimāpur",
+      "region": "Nagaland",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "49.47.140.122",
       "city": "Dimāpur",
       "region": "Nagaland",
