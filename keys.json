@@ -27987,8 +27987,15 @@
     "userId": "10838591766",
     "source": "script",
     "createdAt": "2026-08-02T11:05:10.244Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T11:07:16.646Z",
     "geo": {
+      "ip": "212.237.119.222",
+      "city": "Duhok",
+      "region": "Duhok Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "212.237.119.222",
       "city": "Duhok",
       "region": "Duhok Governorate",
