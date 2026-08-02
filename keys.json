@@ -27668,8 +27668,15 @@
     "userId": "8823425416",
     "source": "script",
     "createdAt": "2026-08-02T04:55:20.067Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T04:55:33.167Z",
     "geo": {
+      "ip": "180.251.180.251",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.251.180.251",
       "city": "Depok",
       "region": "West Java",
