@@ -28260,5 +28260,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CAD3FB-7A5D2B-1D95C2": {
+    "expires": "2026-08-03T17:54:58.941Z",
+    "hwid": "11344769469-75d8ae1a-0bd0-4418-9875-72817464ab17",
+    "browserHwid": null,
+    "username": "UC008UC0093",
+    "userId": "11344769469",
+    "source": "script",
+    "createdAt": "2026-08-02T17:54:59.608Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.163.125.29",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
