@@ -28171,5 +28171,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-562C15-77B2FE-34C20F": {
+    "expires": "2026-08-03T14:55:23.854Z",
+    "hwid": "7979656913-dc2016da-a5b7-4368-ac46-f05ecaceedf3",
+    "browserHwid": null,
+    "username": "axe_llxvu",
+    "userId": "7979656913",
+    "source": "script",
+    "createdAt": "2026-08-02T14:55:24.523Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.156.14.25",
+      "city": "Rantau Ambacang",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
