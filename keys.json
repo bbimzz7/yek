@@ -28035,8 +28035,15 @@
     "userId": "10147102034",
     "source": "script",
     "createdAt": "2026-08-02T11:54:07.277Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T11:54:19.941Z",
     "geo": {
+      "ip": "210.87.125.32",
+      "city": "Kediri",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "210.87.125.32",
       "city": "Kediri",
       "region": "East Java",
