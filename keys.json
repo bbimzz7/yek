@@ -27570,5 +27570,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3CF7D6-873BD1-3C04EE": {
+    "expires": "2026-08-03T03:10:51.398Z",
+    "hwid": "4354904134-82ca8540-f099-47fa-b853-4eb32169867c",
+    "browserHwid": null,
+    "username": "ahmatkevinmuhamat",
+    "userId": "4354904134",
+    "source": "script",
+    "createdAt": "2026-08-02T03:10:52.059Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.75.120",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
