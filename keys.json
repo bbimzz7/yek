@@ -28389,8 +28389,15 @@
     "userId": "8991606057",
     "source": "script",
     "createdAt": "2026-08-02T22:35:06.408Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T22:36:41.441Z",
     "geo": {
+      "ip": "177.130.232.249",
+      "city": "Blumenau",
+      "region": "Santa Catarina",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "177.130.232.249",
       "city": "Blumenau",
       "region": "Santa Catarina",
