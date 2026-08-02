@@ -27810,5 +27810,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4C3AA1-DDEC3A-77113E": {
+    "expires": "2026-08-03T07:47:41.490Z",
+    "hwid": "11187796984-20dd01b2-1f1a-42d3-908f-b1a937ba4b19",
+    "browserHwid": null,
+    "username": "ARTEMRDERKA1",
+    "userId": "11187796984",
+    "source": "script",
+    "createdAt": "2026-08-02T07:47:42.166Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "178.129.49.41",
+      "city": "Davlekanovo",
+      "region": "Bashkortostan Republic",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
