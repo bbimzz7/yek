@@ -27450,5 +27450,22 @@
       "country": "Spain",
       "cc": "ES"
     }
+  },
+  "VH-F709C6-730474-76AC9B": {
+    "expires": "2026-08-03T02:02:56.191Z",
+    "hwid": "10896880365-9d1a1041-b275-452a-af4b-d22a8603f266",
+    "browserHwid": null,
+    "username": "IzXZx777",
+    "userId": "10896880365",
+    "source": "script",
+    "createdAt": "2026-08-02T02:02:56.793Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.137.156",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
