@@ -28084,8 +28084,15 @@
     "userId": "11177740447",
     "source": "script",
     "createdAt": "2026-08-02T12:11:25.910Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T12:12:27.136Z",
     "geo": {
+      "ip": "98.22.113.220",
+      "city": "Des Moines",
+      "region": "Iowa",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "98.22.113.220",
       "city": "Des Moines",
       "region": "Iowa",
