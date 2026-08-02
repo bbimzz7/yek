@@ -28053,14 +28053,22 @@
   },
   "VH-78E35E-F210F2-820BBC": {
     "expires": "2026-08-03T12:03:31.559Z",
-    "hwid": null,
+    "hwid": "10043689254-67a06660-db4f-41fa-9e4f-cbcce8b302e7",
     "browserHwid": "BR-278021AF-7VKLE",
     "username": "Eska_jdlakrjkw",
-    "userId": null,
+    "userId": "10043689254",
     "source": "browser",
     "createdAt": "2026-08-02T12:03:32.303Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T12:04:25.900Z",
     "geo": {
+      "ip": "194.11.198.95",
+      "city": "Mandelieu-la-Napoule",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "country": "France",
+      "cc": "FR"
+    },
+    "boundAt": "2026-08-02T12:04:25.862Z",
+    "lastGeo": {
       "ip": "194.11.198.95",
       "city": "Mandelieu-la-Napoule",
       "region": "Provence-Alpes-Côte d'Azur",
