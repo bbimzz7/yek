@@ -27858,5 +27858,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-517808-7A3307-DF4177": {
+    "expires": "2026-08-03T09:05:09.428Z",
+    "hwid": "10335450931-329a4016-9b12-4288-8410-a93db95832fc",
+    "browserHwid": null,
+    "username": "xuel96",
+    "userId": "10335450931",
+    "source": "script",
+    "createdAt": "2026-08-02T09:05:10.064Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.146.48.69",
+      "city": "Ciudad Juárez",
+      "region": "Chihuahua",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
