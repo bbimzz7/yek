@@ -27354,5 +27354,22 @@
       "country": "Bolivia",
       "cc": "BO"
     }
+  },
+  "VH-A403AF-C97F34-318DED": {
+    "expires": "2026-08-03T00:33:03.621Z",
+    "hwid": "7918522606-658d9657-6eca-42c8-b394-70713acda7a4",
+    "browserHwid": null,
+    "username": "9297e1",
+    "userId": "7918522606",
+    "source": "script",
+    "createdAt": "2026-08-02T00:33:04.256Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "1.53.115.159",
+      "city": "Quận Bảy",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
