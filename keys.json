@@ -27915,8 +27915,15 @@
     "userId": "4384917479",
     "source": "script",
     "createdAt": "2026-08-02T10:20:31.665Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T10:20:38.926Z",
     "geo": {
+      "ip": "83.232.58.22",
+      "city": "Geffen",
+      "region": "North Brabant",
+      "country": "The Netherlands",
+      "cc": "NL"
+    },
+    "lastGeo": {
       "ip": "83.232.58.22",
       "city": "Geffen",
       "region": "North Brabant",
