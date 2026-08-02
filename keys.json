@@ -28099,5 +28099,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-1EA871-7CF608-57A2EF": {
+    "expires": "2026-08-03T13:19:40.314Z",
+    "hwid": "9041317487-b4ba7fc0-5027-4138-90ed-a8e508ea22b7",
+    "browserHwid": null,
+    "username": "hsnskabz",
+    "userId": "9041317487",
+    "source": "script",
+    "createdAt": "2026-08-02T13:19:41.029Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "183.81.49.219",
+      "city": "Sơn Trà",
+      "region": "Da Nang City",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
