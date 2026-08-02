@@ -28180,11 +28180,18 @@
     "userId": "7979656913",
     "source": "script",
     "createdAt": "2026-08-02T14:55:24.523Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T14:56:30.620Z",
     "geo": {
       "ip": "103.156.14.25",
       "city": "Rantau Ambacang",
       "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "157.10.97.15",
+      "city": "Palembang",
+      "region": "South Sumatra",
       "country": "Indonesia",
       "cc": "ID"
     }
