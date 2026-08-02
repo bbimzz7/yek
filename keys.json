@@ -27332,14 +27332,22 @@
   },
   "VH-21AB5E-8C1703-337D9C": {
     "expires": "2026-08-03T00:01:43.514Z",
-    "hwid": null,
+    "hwid": "9481402510-11fe9799-4bf0-429f-a53c-25890487dbfa",
     "browserHwid": "BR-2D08FF5F-KE7ZC",
     "username": "tuuuuuuuuuuu12340",
-    "userId": null,
+    "userId": "9481402510",
     "source": "browser",
     "createdAt": "2026-08-02T00:01:43.921Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T00:03:40.260Z",
     "geo": {
+      "ip": "181.115.175.230",
+      "city": "La Paz",
+      "region": "La Paz Department",
+      "country": "Bolivia",
+      "cc": "BO"
+    },
+    "boundAt": "2026-08-02T00:03:40.243Z",
+    "lastGeo": {
       "ip": "181.115.175.230",
       "city": "La Paz",
       "region": "La Paz Department",
