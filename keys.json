@@ -27963,8 +27963,15 @@
     "userId": "10323231948",
     "source": "script",
     "createdAt": "2026-08-02T11:01:51.601Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T11:02:54.031Z",
     "geo": {
+      "ip": "103.216.221.99",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    },
+    "lastGeo": {
       "ip": "103.216.221.99",
       "city": "Singapore",
       "region": "North West",
