@@ -27834,5 +27834,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-2DA85F-636786-A12011": {
+    "expires": "2026-08-03T08:46:37.413Z",
+    "hwid": "6121322279-203ddb8a-eb98-4c3b-aefb-68b8d909e0cf",
+    "browserHwid": null,
+    "username": "rowrrrrrrrrr37",
+    "userId": "6121322279",
+    "source": "script",
+    "createdAt": "2026-08-02T08:46:38.028Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.122.71",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
