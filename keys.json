@@ -28002,5 +28002,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-641434-E5E3EA-F6E790": {
+    "expires": "2026-08-03T11:38:49.871Z",
+    "hwid": "8171284816-3965C5F2-D4F7-4E17-B526-23E3C8F7E1C3",
+    "browserHwid": null,
+    "username": "StrongKuse",
+    "userId": "8171284816",
+    "source": "script",
+    "createdAt": "2026-08-02T11:38:50.512Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.128.97.167",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
