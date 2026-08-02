@@ -28317,8 +28317,15 @@
     "userId": "10116647242",
     "source": "script",
     "createdAt": "2026-08-02T18:38:21.273Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T18:38:32.200Z",
     "geo": {
+      "ip": "166.198.34.79",
+      "city": "Reno",
+      "region": "Nevada",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "166.198.34.79",
       "city": "Reno",
       "region": "Nevada",
