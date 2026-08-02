@@ -27714,5 +27714,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-3DE90F-20D7E0-6A4FE9": {
+    "expires": "2026-08-03T06:10:56.195Z",
+    "hwid": "9186713761-bf8a103a-40cf-44cf-a551-856c58735640",
+    "browserHwid": null,
+    "username": "bacon_game1519",
+    "userId": "9186713761",
+    "source": "script",
+    "createdAt": "2026-08-02T06:10:56.842Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "139.135.241.18",
+      "city": "Pasig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
