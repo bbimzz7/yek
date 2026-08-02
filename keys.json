@@ -27762,5 +27762,22 @@
       "country": "Hong Kong",
       "cc": "HK"
     }
+  },
+  "VH-493902-8C5D2B-E0149E": {
+    "expires": "2026-08-03T06:38:17.111Z",
+    "hwid": "8322636492-81a6ad41-6ff0-4588-a416-cee18b308420",
+    "browserHwid": null,
+    "username": "okzo0o",
+    "userId": "8322636492",
+    "source": "script",
+    "createdAt": "2026-08-02T06:38:17.759Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "153.243.102.128",
+      "city": "Kokubunji",
+      "region": "Tokyo",
+      "country": "Japan",
+      "cc": "JP"
+    }
   }
 }
