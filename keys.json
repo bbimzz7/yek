@@ -28284,5 +28284,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-FD242E-9C3E1F-4E24A0": {
+    "expires": "2026-08-03T18:30:31.898Z",
+    "hwid": "10659516057-4e2fe447-9049-4d5c-94ee-854ea50f27f6",
+    "browserHwid": null,
+    "username": "yurikun_senpai18",
+    "userId": "10659516057",
+    "source": "script",
+    "createdAt": "2026-08-02T18:30:32.567Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.63.41.185",
+      "city": "Kota Kinabalu",
+      "region": "Sabah",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
