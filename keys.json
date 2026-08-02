@@ -27978,5 +27978,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-47FF80-096285-32DCE6": {
+    "expires": "2026-08-03T11:05:09.589Z",
+    "hwid": "10838591766-78f6922c-4589-4adc-8fa1-28fb0447fc28",
+    "browserHwid": null,
+    "username": "BRxlano",
+    "userId": "10838591766",
+    "source": "script",
+    "createdAt": "2026-08-02T11:05:10.244Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.237.119.222",
+      "city": "Duhok",
+      "region": "Duhok Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
