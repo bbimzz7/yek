@@ -27603,8 +27603,15 @@
     "userId": "9131797342",
     "source": "script",
     "createdAt": "2026-08-02T03:43:29.979Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T03:43:52.102Z",
     "geo": {
+      "ip": "95.57.233.26",
+      "city": "Astana",
+      "region": "Astana",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "95.57.233.26",
       "city": "Astana",
       "region": "Astana",
