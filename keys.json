@@ -28308,5 +28308,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-46BACB-FE8D4E-FCAFC2": {
+    "expires": "2026-08-03T18:38:20.631Z",
+    "hwid": "10116647242-1514f31c-39b4-4be5-bbb6-409b9c2be6e4",
+    "browserHwid": null,
+    "username": "trixiszs",
+    "userId": "10116647242",
+    "source": "script",
+    "createdAt": "2026-08-02T18:38:21.273Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "166.198.34.79",
+      "city": "Reno",
+      "region": "Nevada",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
