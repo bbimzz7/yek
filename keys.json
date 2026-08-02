@@ -28147,5 +28147,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-E5A4F5-DA6E66-96CE3E": {
+    "expires": "2026-08-03T14:02:40.625Z",
+    "hwid": "9387737813-511c076c-695b-4ebc-8531-3554e249287e",
+    "browserHwid": null,
+    "username": "NetexXD03",
+    "userId": "9387737813",
+    "source": "script",
+    "createdAt": "2026-08-02T14:02:41.286Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.83.128.240",
+      "city": "Delhi",
+      "region": "National Capital Territory of Delhi",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
