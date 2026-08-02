@@ -27411,8 +27411,15 @@
     "userId": "4270088751",
     "source": "script",
     "createdAt": "2026-08-02T01:24:21.229Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T01:24:40.052Z",
     "geo": {
+      "ip": "71.197.7.211",
+      "city": "Danville",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "71.197.7.211",
       "city": "Danville",
       "region": "Virginia",
