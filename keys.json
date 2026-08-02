@@ -27906,5 +27906,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A23443-A99123-9A66D5": {
+    "expires": "2026-08-03T10:20:31.028Z",
+    "hwid": "4384917479-9e03d9f7-09e8-4fd2-854c-2170c6878c04",
+    "browserHwid": null,
+    "username": "hailey_liefhamster",
+    "userId": "4384917479",
+    "source": "script",
+    "createdAt": "2026-08-02T10:20:31.665Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "83.232.58.22",
+      "city": "Geffen",
+      "region": "North Brabant",
+      "country": "The Netherlands",
+      "cc": "NL"
+    }
   }
 }
