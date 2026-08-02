@@ -27882,5 +27882,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-1C99EA-20831A-95E8D1": {
+    "expires": "2026-08-03T09:49:03.630Z",
+    "hwid": "7716732391-b67f2171-fedc-4867-9bd8-302d3050830d",
+    "browserHwid": null,
+    "username": "rip_sandra209",
+    "userId": "7716732391",
+    "source": "script",
+    "createdAt": "2026-08-02T09:49:04.266Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.166.80",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
