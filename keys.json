@@ -28332,5 +28332,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-7520C8-A5608B-08B940": {
+    "expires": "2026-08-03T21:34:14.121Z",
+    "hwid": "3286153853-59fa2d7a-d28a-4509-98df-92f3acd85e91",
+    "browserHwid": null,
+    "username": "fgxdxt",
+    "userId": "3286153853",
+    "source": "script",
+    "createdAt": "2026-08-02T21:34:14.774Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.46.162.143",
+      "city": "Taldykorgan",
+      "region": "Zhetysu Region",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
