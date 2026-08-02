@@ -27690,5 +27690,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9929BD-3A595B-119B3E": {
+    "expires": "2026-08-03T05:28:07.766Z",
+    "hwid": "9870006467-41b5cfc8-db9f-4aca-9e22-2232e2954c00",
+    "browserHwid": null,
+    "username": "cgycfycfycfycyfcyfy",
+    "userId": "9870006467",
+    "source": "script",
+    "createdAt": "2026-08-02T05:28:08.411Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.11.48.98",
+      "city": "Singapore",
+      "region": "South West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
