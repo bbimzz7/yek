@@ -28123,5 +28123,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-405412-5A0857-907E76": {
+    "expires": "2026-08-03T13:48:53.357Z",
+    "hwid": "11403651598-28ffaca7-5129-4641-8ffe-a99dc39a9af2",
+    "browserHwid": null,
+    "username": "banuy984",
+    "userId": "11403651598",
+    "source": "script",
+    "createdAt": "2026-08-02T13:48:54.014Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.225.205.41",
+      "city": "Haiphong",
+      "region": "Haiphong",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
