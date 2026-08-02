@@ -27363,8 +27363,15 @@
     "userId": "7918522606",
     "source": "script",
     "createdAt": "2026-08-02T00:33:04.256Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T00:33:14.517Z",
     "geo": {
+      "ip": "1.53.115.159",
+      "city": "Quận Bảy",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "1.53.115.159",
       "city": "Quận Bảy",
       "region": "Ho Chi Minh City (HCMC)",
