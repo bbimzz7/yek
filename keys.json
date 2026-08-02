@@ -27771,8 +27771,15 @@
     "userId": "8322636492",
     "source": "script",
     "createdAt": "2026-08-02T06:38:17.759Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T06:39:28.101Z",
     "geo": {
+      "ip": "153.243.102.128",
+      "city": "Kokubunji",
+      "region": "Tokyo",
+      "country": "Japan",
+      "cc": "JP"
+    },
+    "lastGeo": {
       "ip": "153.243.102.128",
       "city": "Kokubunji",
       "region": "Tokyo",
