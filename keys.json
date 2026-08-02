@@ -27531,8 +27531,15 @@
     "userId": "10689589970",
     "source": "script",
     "createdAt": "2026-08-02T02:42:47.444Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T02:42:58.815Z",
     "geo": {
+      "ip": "103.138.53.30",
+      "city": "Pangandaran",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.138.53.30",
       "city": "Pangandaran",
       "region": "West Java",
