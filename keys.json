@@ -27930,5 +27930,22 @@
       "country": "The Netherlands",
       "cc": "NL"
     }
+  },
+  "VH-0AF644-26EF39-CAD855": {
+    "expires": "2026-08-03T10:46:07.197Z",
+    "hwid": "5410839770-7fb2047c-898f-4d4c-b3bc-194894d03f0e",
+    "browserHwid": null,
+    "username": "YGEGBUERRR",
+    "userId": "5410839770",
+    "source": "script",
+    "createdAt": "2026-08-02T10:46:07.823Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.125.145.129",
+      "city": "Atlanta",
+      "region": "Georgia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
