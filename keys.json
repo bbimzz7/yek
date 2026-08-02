@@ -27498,5 +27498,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-F738A7-678820-1D9B39": {
+    "expires": "2026-08-03T02:13:58.788Z",
+    "hwid": "9367487856-6c51358a-1260-4b1e-b0f2-2c94022c379a",
+    "browserHwid": null,
+    "username": "Mells_08",
+    "userId": "9367487856",
+    "source": "script",
+    "createdAt": "2026-08-02T02:13:59.235Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.63.149",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
