@@ -27786,5 +27786,22 @@
       "country": "Japan",
       "cc": "JP"
     }
+  },
+  "VH-16214C-1DC5E9-CEF3E0": {
+    "expires": "2026-08-03T06:59:40.581Z",
+    "hwid": "4238895344-af4fc852-6399-44fc-9255-e12055aab605",
+    "browserHwid": null,
+    "username": "yertGgd",
+    "userId": "4238895344",
+    "source": "script",
+    "createdAt": "2026-08-02T06:59:41.215Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.227.130",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
