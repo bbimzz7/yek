@@ -28380,5 +28380,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-E8F6C6-105A26-565CAA": {
+    "expires": "2026-08-03T22:35:05.769Z",
+    "hwid": "8991606057-e82b7037-78a5-4974-936d-dd39d550ebf6",
+    "browserHwid": null,
+    "username": "STE648382",
+    "userId": "8991606057",
+    "source": "script",
+    "createdAt": "2026-08-02T22:35:06.408Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.130.232.249",
+      "city": "Blumenau",
+      "region": "Santa Catarina",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
