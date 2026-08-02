@@ -28108,8 +28108,15 @@
     "userId": "9041317487",
     "source": "script",
     "createdAt": "2026-08-02T13:19:41.029Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T13:20:45.361Z",
     "geo": {
+      "ip": "183.81.49.219",
+      "city": "Sơn Trà",
+      "region": "Da Nang City",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "183.81.49.219",
       "city": "Sơn Trà",
       "region": "Da Nang City",
