@@ -28356,5 +28356,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-7E509A-4CBCA2-E28D62": {
+    "expires": "2026-08-03T21:55:43.031Z",
+    "hwid": "6023081388-ED54A484-D786-41B5-AB08-E85A7962A4B7",
+    "browserHwid": null,
+    "username": "stealltamp",
+    "userId": "6023081388",
+    "source": "script",
+    "createdAt": "2026-08-02T21:55:43.720Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.62.87.234",
+      "city": "Mairiporã",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
