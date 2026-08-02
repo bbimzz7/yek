@@ -27659,5 +27659,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-0BE3DE-49A3E3-F22341": {
+    "expires": "2026-08-03T04:55:19.626Z",
+    "hwid": "8823425416-121b6b77-f13d-4005-87d8-e5e633c53b7f",
+    "browserHwid": null,
+    "username": "AKAMICI11",
+    "userId": "8823425416",
+    "source": "script",
+    "createdAt": "2026-08-02T04:55:20.067Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.251.180.251",
+      "city": "Depok",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
