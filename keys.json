@@ -27402,5 +27402,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-42C9FE-BB0377-A1D748": {
+    "expires": "2026-08-03T01:24:20.585Z",
+    "hwid": "4270088751-5d623a20-fdaa-4fba-9858-e868cbc13676",
+    "browserHwid": null,
+    "username": "iiheartnicole5",
+    "userId": "4270088751",
+    "source": "script",
+    "createdAt": "2026-08-02T01:24:21.229Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "71.197.7.211",
+      "city": "Danville",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
