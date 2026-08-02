@@ -27435,8 +27435,15 @@
     "userId": "8770547015",
     "source": "script",
     "createdAt": "2026-08-02T01:34:33.966Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-02T01:36:02.466Z",
     "geo": {
+      "ip": "188.26.212.106",
+      "city": "Madrid",
+      "region": "Madrid",
+      "country": "Spain",
+      "cc": "ES"
+    },
+    "lastGeo": {
       "ip": "188.26.212.106",
       "city": "Madrid",
       "region": "Madrid",
