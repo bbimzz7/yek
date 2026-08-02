@@ -27618,5 +27618,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-01FDDC-B0B7F5-360C68": {
+    "expires": "2026-08-03T04:50:34.637Z",
+    "hwid": "8894331465-E2E01762-62A2-420E-BE35-DFEE96BCDB60",
+    "browserHwid": null,
+    "username": "GodyMaid",
+    "userId": "8894331465",
+    "source": "script",
+    "createdAt": "2026-08-02T04:50:35.278Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.99.93",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
