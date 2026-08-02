@@ -28075,5 +28075,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-69A0B2-C50768-24944A": {
+    "expires": "2026-08-03T12:11:25.305Z",
+    "hwid": "11177740447-35f28cae-14d1-402d-80c2-35f8169a832a",
+    "browserHwid": null,
+    "username": "Xxcutexx_80",
+    "userId": "11177740447",
+    "source": "script",
+    "createdAt": "2026-08-02T12:11:25.910Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "98.22.113.220",
+      "city": "Des Moines",
+      "region": "Iowa",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
