@@ -28908,5 +28908,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-C50DDA-C19E66-96C81C": {
+    "expires": "2026-08-04T09:39:04.587Z",
+    "hwid": "10413588037-b8378257-0ae5-483e-a767-b40616e70530",
+    "browserHwid": null,
+    "username": "game67782",
+    "userId": "10413588037",
+    "source": "script",
+    "createdAt": "2026-08-03T09:39:05.182Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "109.161.186.35",
+      "city": "Manama",
+      "region": "Manama",
+      "country": "Bahrain",
+      "cc": "BH"
+    }
   }
 }
