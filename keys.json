@@ -29196,5 +29196,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0D8A96-DBC4B6-EF93A3": {
+    "expires": "2026-08-04T18:35:41.926Z",
+    "hwid": "10900158003-df77d3d6-842f-4ed4-b151-d2e820383118",
+    "browserHwid": null,
+    "username": "Trevkaro",
+    "userId": "10900158003",
+    "source": "script",
+    "createdAt": "2026-08-03T18:35:42.594Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.243.15.157",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
