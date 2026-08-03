@@ -29333,5 +29333,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-212268-24202D-C155F2": {
+    "expires": "2026-08-04T22:30:59.293Z",
+    "hwid": "5274528206-92eb5609-776c-40e1-8d9e-4c9b63e46df4",
+    "browserHwid": null,
+    "username": "Tezzyy4k",
+    "userId": "5274528206",
+    "source": "script",
+    "createdAt": "2026-08-03T22:31:00.062Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.107.191.85",
+      "city": "Naples",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
