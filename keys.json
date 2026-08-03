@@ -29261,5 +29261,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-14CBC9-FB6EC9-1E459E": {
+    "expires": "2026-08-04T20:38:31.029Z",
+    "hwid": "1362486706-27212cce-d0c7-40f1-83f9-ab4c3a088c85",
+    "browserHwid": null,
+    "username": "roblox_user_1362486706",
+    "userId": "1362486706",
+    "source": "script",
+    "createdAt": "2026-08-03T20:38:31.697Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "222.124.60.133",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
