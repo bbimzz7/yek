@@ -28548,5 +28548,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-E6E56C-35CDB4-F11089": {
+    "expires": "2026-08-04T03:35:16.399Z",
+    "hwid": "1920758133-ad8ee2e2-d209-4312-b7ea-e8d2fe187cd9",
+    "browserHwid": null,
+    "username": "veolol1234",
+    "userId": "1920758133",
+    "source": "script",
+    "createdAt": "2026-08-03T03:35:16.810Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.23.30.124",
+      "city": "Bình Thủy",
+      "region": "Can Tho City",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
