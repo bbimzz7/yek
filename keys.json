@@ -28989,8 +28989,15 @@
     "userId": "8391354325",
     "source": "script",
     "createdAt": "2026-08-03T11:37:45.847Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T11:37:52.283Z",
     "geo": {
+      "ip": "176.64.36.79",
+      "city": "Aktau",
+      "region": "Mangystau",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "176.64.36.79",
       "city": "Aktau",
       "region": "Mangystau",
