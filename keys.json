@@ -29100,5 +29100,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EEB71C-2D4891-A5B4BA": {
+    "expires": "2026-08-04T14:12:19.107Z",
+    "hwid": "9476533693-6c4b63e6-a135-4512-b50b-31bb0610db77",
+    "browserHwid": null,
+    "username": "King2000137",
+    "userId": "9476533693",
+    "source": "script",
+    "createdAt": "2026-08-03T14:12:19.606Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "151.244.147.166",
+      "city": "Mosul",
+      "region": "Nineveh Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
