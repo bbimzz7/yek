@@ -29270,8 +29270,15 @@
     "userId": "1362486706",
     "source": "script",
     "createdAt": "2026-08-03T20:38:31.697Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T20:38:40.152Z",
     "geo": {
+      "ip": "222.124.60.133",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "222.124.60.133",
       "city": "Jakarta",
       "region": "Jakarta",
