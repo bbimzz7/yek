@@ -28533,8 +28533,15 @@
     "userId": "8673504480",
     "source": "script",
     "createdAt": "2026-08-03T03:33:21.536Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T03:33:30.033Z",
     "geo": {
+      "ip": "117.20.116.190",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    },
+    "lastGeo": {
       "ip": "117.20.116.190",
       "city": "Phnom Penh",
       "region": "Phnom Penh",
