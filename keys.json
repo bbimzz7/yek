@@ -28461,8 +28461,15 @@
     "userId": "6003413649",
     "source": "script",
     "createdAt": "2026-08-03T02:13:54.200Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T02:14:04.354Z",
     "geo": {
+      "ip": "177.242.9.251",
+      "city": "Torreón",
+      "region": "Coahuila",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "177.242.9.251",
       "city": "Torreón",
       "region": "Coahuila",
