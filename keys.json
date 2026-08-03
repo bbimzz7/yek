@@ -28701,8 +28701,15 @@
     "userId": "4315658701",
     "source": "script",
     "createdAt": "2026-08-03T06:05:16.188Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T06:05:26.794Z",
     "geo": {
+      "ip": "200.77.12.168",
+      "city": "Acámbaro",
+      "region": "Guanajuato",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "200.77.12.168",
       "city": "Acámbaro",
       "region": "Guanajuato",
