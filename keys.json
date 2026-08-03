@@ -28773,8 +28773,15 @@
     "userId": "10358229706",
     "source": "script",
     "createdAt": "2026-08-03T08:57:46.963Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T08:58:04.418Z",
     "geo": {
+      "ip": "101.255.118.29",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "101.255.118.29",
       "city": "Central Jakarta",
       "region": "Jakarta",
