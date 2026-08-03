@@ -29133,8 +29133,15 @@
     "userId": "10954211140",
     "source": "script",
     "createdAt": "2026-08-03T14:40:50.645Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T14:42:57.672Z",
     "geo": {
+      "ip": "131.221.99.206",
+      "city": "Toritama",
+      "region": "Pernambuco",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "131.221.99.206",
       "city": "Toritama",
       "region": "Pernambuco",
