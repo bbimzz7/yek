@@ -28500,5 +28500,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B440E9-CC05B4-E1A825": {
+    "expires": "2026-08-04T03:29:04.436Z",
+    "hwid": "5555199911-E760125F-2DD6-4EF2-A8AB-C8183FB69C4D",
+    "browserHwid": null,
+    "username": "Weak_Dummy787",
+    "userId": "5555199911",
+    "source": "script",
+    "createdAt": "2026-08-03T03:29:05.114Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "122.2.109.72",
+      "city": "Manila",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
