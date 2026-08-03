@@ -28980,5 +28980,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FA2BA0-E16EAF-6B9965": {
+    "expires": "2026-08-04T11:37:45.200Z",
+    "hwid": "8391354325-3aedb575-5eef-4042-a753-490ea63819d4",
+    "browserHwid": null,
+    "username": "Akjaina9013",
+    "userId": "8391354325",
+    "source": "script",
+    "createdAt": "2026-08-03T11:37:45.847Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "176.64.36.79",
+      "city": "Aktau",
+      "region": "Mangystau",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
