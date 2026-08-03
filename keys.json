@@ -28917,8 +28917,15 @@
     "userId": "10413588037",
     "source": "script",
     "createdAt": "2026-08-03T09:39:05.182Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T09:40:37.229Z",
     "geo": {
+      "ip": "109.161.186.35",
+      "city": "Manama",
+      "region": "Manama",
+      "country": "Bahrain",
+      "cc": "BH"
+    },
+    "lastGeo": {
       "ip": "109.161.186.35",
       "city": "Manama",
       "region": "Manama",
