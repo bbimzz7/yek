@@ -28653,8 +28653,15 @@
     "userId": "8923263607",
     "source": "script",
     "createdAt": "2026-08-03T05:34:34.335Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T05:35:35.483Z",
     "geo": {
+      "ip": "201.162.232.229",
+      "city": "Miguel Hidalgo",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "201.162.232.229",
       "city": "Miguel Hidalgo",
       "region": "Mexico City",
