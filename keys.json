@@ -28452,5 +28452,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-656E15-5E6858-6CD659": {
+    "expires": "2026-08-04T02:13:53.528Z",
+    "hwid": "6003413649-6f496d39-3692-45f8-b937-b562f9a64058",
+    "browserHwid": null,
+    "username": "RIP_dark666p",
+    "userId": "6003413649",
+    "source": "script",
+    "createdAt": "2026-08-03T02:13:54.200Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.242.9.251",
+      "city": "Torreón",
+      "region": "Coahuila",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
