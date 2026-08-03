@@ -29076,5 +29076,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-9164E6-9DBD85-E5449D": {
+    "expires": "2026-08-04T14:07:25.471Z",
+    "hwid": "8017453989-57acdb3e-79d2-4608-b0b5-78c7b51b27fa",
+    "browserHwid": null,
+    "username": "Rip_leoo857",
+    "userId": "8017453989",
+    "source": "script",
+    "createdAt": "2026-08-03T14:07:26.123Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.220.9",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
