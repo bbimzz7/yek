@@ -29172,5 +29172,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-D1C411-4FCEFD-FD46D8": {
+    "expires": "2026-08-04T18:17:56.712Z",
+    "hwid": "8459040675-f401515e-620e-4a05-9bd0-72e201339eb6",
+    "browserHwid": null,
+    "username": "badut_azka",
+    "userId": "8459040675",
+    "source": "script",
+    "createdAt": "2026-08-03T18:17:57.421Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.122.96",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
