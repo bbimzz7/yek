@@ -28869,13 +28869,20 @@
     "userId": "10962470900",
     "source": "script",
     "createdAt": "2026-08-03T09:29:37.518Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T09:31:14.793Z",
     "geo": {
       "ip": "78.190.43.202",
       "city": "Mersin",
       "region": "Mersin",
       "country": "Türkiye",
       "cc": "TR"
+    },
+    "lastGeo": {
+      "ip": "51.38.112.221",
+      "city": "Limburg an der Lahn",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
     }
   }
 }
