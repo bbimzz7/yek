@@ -29037,8 +29037,15 @@
     "userId": "7518722941",
     "source": "script",
     "createdAt": "2026-08-03T13:37:42.911Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T13:37:57.043Z",
     "geo": {
+      "ip": "138.121.2.175",
+      "city": "Vitória da Conquista",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "138.121.2.175",
       "city": "Vitória da Conquista",
       "region": "Bahia",
