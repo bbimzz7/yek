@@ -28428,5 +28428,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DA46FE-B2BC7C-7CBC1B": {
+    "expires": "2026-08-04T00:45:19.035Z",
+    "hwid": "8513020070-edb0b0aa-0dd6-49a5-b3e6-e885149438de",
+    "browserHwid": null,
+    "username": "luc709180",
+    "userId": "8513020070",
+    "source": "script",
+    "createdAt": "2026-08-03T00:45:19.520Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.171.55.99",
+      "city": "Martínez de la Torre",
+      "region": "Veracruz",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
