@@ -28716,5 +28716,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-AB0FF9-3A6E8D-68929B": {
+    "expires": "2026-08-04T06:29:09.468Z",
+    "hwid": "8281823769-55cd6fee-d492-4e3b-83dc-7a66f5412a1f",
+    "browserHwid": null,
+    "username": "Computer1257_0",
+    "userId": "8281823769",
+    "source": "script",
+    "createdAt": "2026-08-03T06:29:10.138Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.129.151.138",
+      "city": "Kota Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
