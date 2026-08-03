@@ -28644,5 +28644,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-1DC068-1CB3D6-6612F3": {
+    "expires": "2026-08-04T05:34:33.686Z",
+    "hwid": "8923263607-7e961bea-8c11-4c38-b096-3575f40899c5",
+    "browserHwid": null,
+    "username": "NADIE_99995",
+    "userId": "8923263607",
+    "source": "script",
+    "createdAt": "2026-08-03T05:34:34.335Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.162.232.229",
+      "city": "Miguel Hidalgo",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
