@@ -28740,5 +28740,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-6B7F1B-C08D08-D72E10": {
+    "expires": "2026-08-04T07:01:13.805Z",
+    "hwid": "10009198618-a87c5f53-d79a-4bc4-b27e-3c50c9a4d7cb",
+    "browserHwid": null,
+    "username": "aqunqqq",
+    "userId": "10009198618",
+    "source": "script",
+    "createdAt": "2026-08-03T07:01:14.542Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.210.119.82",
+      "city": "Krajan",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
