@@ -28788,5 +28788,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-20C020-D2A95C-035F18": {
+    "expires": "2026-08-04T09:08:22.834Z",
+    "hwid": "8262291486-4310FF97-04A7-4F87-ABAE-4152FA1FD66E",
+    "browserHwid": null,
+    "username": "foxxy19203",
+    "userId": "8262291486",
+    "source": "script",
+    "createdAt": "2026-08-03T09:08:23.510Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.128.11.6",
+      "city": "Sydney",
+      "region": "New South Wales",
+      "country": "Australia",
+      "cc": "AU"
+    }
   }
 }
