@@ -29109,8 +29109,15 @@
     "userId": "9476533693",
     "source": "script",
     "createdAt": "2026-08-03T14:12:19.606Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T14:12:26.901Z",
     "geo": {
+      "ip": "151.244.147.166",
+      "city": "Mosul",
+      "region": "Nineveh Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "151.244.147.166",
       "city": "Mosul",
       "region": "Nineveh Governorate",
