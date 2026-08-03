@@ -29148,5 +29148,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-7CA82B-6564E8-764B65": {
+    "expires": "2026-08-04T17:12:49.843Z",
+    "hwid": "7941460729-e417ad01-1029-4a0d-929d-546cf26b4c46",
+    "browserHwid": null,
+    "username": "laxxwszzZ",
+    "userId": "7941460729",
+    "source": "script",
+    "createdAt": "2026-08-03T17:12:50.522Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "86.107.179.5",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
