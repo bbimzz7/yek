@@ -29357,5 +29357,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-1B3AA9-43954F-C5CE37": {
+    "expires": "2026-08-04T23:29:21.242Z",
+    "hwid": "7134088716-c1460c09-0f12-426c-b673-c9908d1c50ae",
+    "browserHwid": null,
+    "username": "Shiryzuu",
+    "userId": "7134088716",
+    "source": "script",
+    "createdAt": "2026-08-03T23:29:21.939Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "62.167.128.112",
+      "city": "Zug",
+      "region": "Zug",
+      "country": "Switzerland",
+      "cc": "CH"
+    }
   }
 }
