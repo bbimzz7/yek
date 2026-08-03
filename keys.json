@@ -28557,8 +28557,15 @@
     "userId": "1920758133",
     "source": "script",
     "createdAt": "2026-08-03T03:35:16.810Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T03:35:23.342Z",
     "geo": {
+      "ip": "113.23.30.124",
+      "city": "Bình Thủy",
+      "region": "Can Tho City",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "113.23.30.124",
       "city": "Bình Thủy",
       "region": "Can Tho City",
