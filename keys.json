@@ -28620,5 +28620,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1DC08B-5C5C85-FA811D": {
+    "expires": "2026-08-04T04:22:43.008Z",
+    "hwid": "9563363679-26649701-98de-4327-b275-a1a4e33e8bce",
+    "browserHwid": null,
+    "username": "chelsy5985",
+    "userId": "9563363679",
+    "source": "script",
+    "createdAt": "2026-08-03T04:22:43.458Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "143.44.144.14",
+      "city": "Olongapo City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
