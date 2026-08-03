@@ -28581,8 +28581,15 @@
     "userId": "7578227616",
     "source": "script",
     "createdAt": "2026-08-03T03:52:28.334Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T03:54:01.541Z",
     "geo": {
+      "ip": "120.29.98.12",
+      "city": "Apalit",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "120.29.98.12",
       "city": "Apalit",
       "region": "Central Luzon",
