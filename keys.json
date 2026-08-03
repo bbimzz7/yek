@@ -28413,8 +28413,15 @@
     "userId": "9605258669",
     "source": "script",
     "createdAt": "2026-08-03T00:40:27.302Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T00:40:35.037Z",
     "geo": {
+      "ip": "36.83.155.219",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "36.83.155.219",
       "city": "Denpasar",
       "region": "Bali",
