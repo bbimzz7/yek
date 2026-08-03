@@ -28812,5 +28812,22 @@
       "country": "Australia",
       "cc": "AU"
     }
+  },
+  "VH-5D6A80-14D188-43B12D": {
+    "expires": "2026-08-04T09:11:05.955Z",
+    "hwid": "8012622928-2429080c-37e6-4f96-b19e-01a3240a7e47",
+    "browserHwid": null,
+    "username": "TUHZUV239",
+    "userId": "8012622928",
+    "source": "script",
+    "createdAt": "2026-08-03T09:11:06.482Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.191.178.128",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
