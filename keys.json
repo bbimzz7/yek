@@ -29124,5 +29124,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-B28561-BEEB17-8DC9D8": {
+    "expires": "2026-08-04T14:40:49.930Z",
+    "hwid": "10954211140-bd130263-cdcd-414d-9def-1bc48eabcaf5",
+    "browserHwid": null,
+    "username": "texx_chanezzz",
+    "userId": "10954211140",
+    "source": "script",
+    "createdAt": "2026-08-03T14:40:50.645Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "131.221.99.206",
+      "city": "Toritama",
+      "region": "Pernambuco",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
