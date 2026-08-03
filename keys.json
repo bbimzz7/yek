@@ -29052,5 +29052,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-C3BEF8-F99E62-715FA1": {
+    "expires": "2026-08-04T14:01:15.648Z",
+    "hwid": "7229736861-5a958e16-ab0f-4aa1-9344-9bd5ce1f2aca",
+    "browserHwid": null,
+    "username": "NyanTaco9812",
+    "userId": "7229736861",
+    "source": "script",
+    "createdAt": "2026-08-03T14:01:16.454Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.62.254.205",
+      "city": "São Gonçalo",
+      "region": "Rio de Janeiro",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
