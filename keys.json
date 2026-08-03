@@ -28437,8 +28437,15 @@
     "userId": "8513020070",
     "source": "script",
     "createdAt": "2026-08-03T00:45:19.520Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T00:47:38.718Z",
     "geo": {
+      "ip": "189.171.55.99",
+      "city": "Martínez de la Torre",
+      "region": "Veracruz",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.171.55.99",
       "city": "Martínez de la Torre",
       "region": "Veracruz",
