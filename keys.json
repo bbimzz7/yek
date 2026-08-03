@@ -28677,8 +28677,15 @@
     "userId": "8969589020",
     "source": "script",
     "createdAt": "2026-08-03T05:34:46.962Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T05:37:05.526Z",
     "geo": {
+      "ip": "180.191.230.78",
+      "city": "Sibonga",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "180.191.230.78",
       "city": "Sibonga",
       "region": "Central Visayas",
