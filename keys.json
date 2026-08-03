@@ -28797,8 +28797,15 @@
     "userId": "8262291486",
     "source": "script",
     "createdAt": "2026-08-03T09:08:23.510Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-03T09:08:32.526Z",
     "geo": {
+      "ip": "115.128.11.6",
+      "city": "Sydney",
+      "region": "New South Wales",
+      "country": "Australia",
+      "cc": "AU"
+    },
+    "lastGeo": {
       "ip": "115.128.11.6",
       "city": "Sydney",
       "region": "New South Wales",
