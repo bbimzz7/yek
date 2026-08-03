@@ -28661,5 +28661,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-88787A-A3F788-F4D8D4": {
+    "expires": "2026-08-04T05:34:46.495Z",
+    "hwid": "8969589020-ce8482da-0921-420a-9b5d-5074cbb2151d",
+    "browserHwid": null,
+    "username": "ZAI_RBB2",
+    "userId": "8969589020",
+    "source": "script",
+    "createdAt": "2026-08-03T05:34:46.962Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.191.230.78",
+      "city": "Sibonga",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
