@@ -29220,5 +29220,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8EAE7A-3F2771-5C2593": {
+    "expires": "2026-08-04T19:50:47.283Z",
+    "hwid": "11410857806-f0018328-79ef-46b5-8223-2a0d226f5eec",
+    "browserHwid": null,
+    "username": "C3CTXC",
+    "userId": "11410857806",
+    "source": "script",
+    "createdAt": "2026-08-03T19:50:48.898Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "41.56.231.164",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
