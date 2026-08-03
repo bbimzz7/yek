@@ -28404,5 +28404,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-50DA14-489ED0-60CBE1": {
+    "expires": "2026-08-04T00:40:26.616Z",
+    "hwid": "9605258669-5B7BB164-D82A-4907-9FD4-0073EFC9E362",
+    "browserHwid": null,
+    "username": "eurekarozez7",
+    "userId": "9605258669",
+    "source": "script",
+    "createdAt": "2026-08-03T00:40:27.302Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.83.155.219",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
