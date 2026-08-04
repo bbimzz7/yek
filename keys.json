@@ -29863,8 +29863,15 @@
     "userId": "3410428971",
     "source": "script",
     "createdAt": "2026-08-04T13:16:53.749Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T13:17:03.585Z",
     "geo": {
+      "ip": "104.28.163.40",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    },
+    "lastGeo": {
       "ip": "104.28.163.40",
       "city": "Singapore",
       "region": "North West",
