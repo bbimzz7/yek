@@ -30207,5 +30207,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-13BD05-323B62-6972BB": {
+    "expires": "2026-08-05T19:12:22.819Z",
+    "hwid": "11412755966-f535e0b2-b36d-47c2-a8d7-147f93ca3d9f",
+    "browserHwid": null,
+    "username": "CARLITOPLAY20262",
+    "userId": "11412755966",
+    "source": "script",
+    "createdAt": "2026-08-04T19:12:23.488Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.245.196.185",
+      "city": "Guadalajara",
+      "region": "Jalisco",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
