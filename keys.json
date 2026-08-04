@@ -29429,5 +29429,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-08DC03-07497E-733399": {
+    "expires": "2026-08-05T02:14:39.377Z",
+    "hwid": "8550448854-38239712-2ff4-4733-8e28-6a17565804f6",
+    "browserHwid": null,
+    "username": "DNFY_16",
+    "userId": "8550448854",
+    "source": "script",
+    "createdAt": "2026-08-04T02:14:40.041Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.57.96.155",
+      "city": "Astana",
+      "region": "Astana",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
