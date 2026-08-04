@@ -30351,5 +30351,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-59FC72-1BF6E1-B335B1": {
+    "expires": "2026-08-05T22:14:46.176Z",
+    "hwid": "2759242117-1bbbf79c-78eb-4497-ac15-57ab0788924f",
+    "browserHwid": null,
+    "username": "LIDI91919",
+    "userId": "2759242117",
+    "source": "script",
+    "createdAt": "2026-08-04T22:14:46.881Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.191.165.102",
+      "city": "Subang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
