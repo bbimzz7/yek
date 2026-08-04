@@ -29566,5 +29566,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-C10373-6E7CBD-54D27E": {
+    "expires": "2026-08-05T08:38:00.242Z",
+    "hwid": "11364209311-7c45265c-2967-4790-ac05-d2286083d4e8",
+    "browserHwid": null,
+    "username": "jacobvx_528",
+    "userId": "11364209311",
+    "source": "script",
+    "createdAt": "2026-08-04T08:38:00.986Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.29.72.191",
+      "city": "Pandacaqui",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
