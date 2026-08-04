@@ -30255,5 +30255,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-E1071C-D0E407-FC2055": {
+    "expires": "2026-08-05T20:31:47.800Z",
+    "hwid": "10480415712-22ffb0af-239f-4ac7-b6dc-5ed4c7e6cf9a",
+    "browserHwid": null,
+    "username": "Juancarlosramirez26",
+    "userId": "10480415712",
+    "source": "script",
+    "createdAt": "2026-08-04T20:31:48.424Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "152.167.237.219",
+      "city": "Santo Domingo Oeste",
+      "region": "Santo Domingo Province",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
