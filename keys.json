@@ -29983,8 +29983,15 @@
     "userId": "7860134165",
     "source": "script",
     "createdAt": "2026-08-04T14:09:28.210Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T14:11:30.561Z",
     "geo": {
+      "ip": "103.186.35.5",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.186.35.5",
       "city": "East Jakarta",
       "region": "Jakarta",
