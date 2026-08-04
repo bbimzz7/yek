@@ -29926,5 +29926,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-B66894-F17345-3B3D55": {
+    "expires": "2026-08-05T13:49:22.398Z",
+    "hwid": "9982769273-a8a871c6-6e8a-461b-8054-5fa1d4b107fa",
+    "browserHwid": null,
+    "username": "aswhs23",
+    "userId": "9982769273",
+    "source": "script",
+    "createdAt": "2026-08-04T13:49:23.093Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "94.182.14.138",
+      "city": "Tehran",
+      "region": "Tehran",
+      "country": "Iran",
+      "cc": "IR"
+    }
   }
 }
