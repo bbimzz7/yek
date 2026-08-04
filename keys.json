@@ -30303,5 +30303,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-555B01-BBB102-F88F5E": {
+    "expires": "2026-08-05T21:53:34.854Z",
+    "hwid": "9307908910-010474e2-1a34-453e-8de6-94d9d2533c11",
+    "browserHwid": null,
+    "username": "Robloxiank4e4m7v0a",
+    "userId": "9307908910",
+    "source": "script",
+    "createdAt": "2026-08-04T21:53:35.496Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.210.137.231",
+      "city": "Franca",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
