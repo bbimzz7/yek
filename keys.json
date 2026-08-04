@@ -29662,5 +29662,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-22647C-111B30-EA4E0D": {
+    "expires": "2026-08-05T10:06:32.632Z",
+    "hwid": "9350676291-6f0b62c1-a471-46b0-9b18-fbef314b51ab",
+    "browserHwid": null,
+    "username": "Gexnext1",
+    "userId": "9350676291",
+    "source": "script",
+    "createdAt": "2026-08-04T10:06:33.415Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.167.57.173",
+      "city": "Talangbetutu",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
