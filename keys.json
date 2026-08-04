@@ -30288,8 +30288,15 @@
     "userId": "10664943667",
     "source": "script",
     "createdAt": "2026-08-04T21:38:40.095Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T21:38:50.575Z",
     "geo": {
+      "ip": "172.56.18.221",
+      "city": "Chicago",
+      "region": "Illinois",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.56.18.221",
       "city": "Chicago",
       "region": "Illinois",
