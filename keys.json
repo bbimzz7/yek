@@ -29390,8 +29390,15 @@
     "userId": "10393644416",
     "source": "script",
     "createdAt": "2026-08-04T00:58:55.665Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T00:59:08.700Z",
     "geo": {
+      "ip": "187.190.255.116",
+      "city": "Álvaro Obregón",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.190.255.116",
       "city": "Álvaro Obregón",
       "region": "Mexico City",
