@@ -29902,5 +29902,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-1C2920-EDADCC-09D12D": {
+    "expires": "2026-08-05T13:25:43.583Z",
+    "hwid": "5462485568-8ddcca94-5567-46d4-a93c-fed3cc13b38c",
+    "browserHwid": null,
+    "username": "roblox_user_5462485568",
+    "userId": "5462485568",
+    "source": "script",
+    "createdAt": "2026-08-04T13:25:45.057Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "146.158.123.60",
+      "city": "Saratov",
+      "region": "Saratov Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
