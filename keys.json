@@ -29599,8 +29599,15 @@
     "userId": "5267278846",
     "source": "script",
     "createdAt": "2026-08-04T09:20:54.891Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T09:21:35.681Z",
     "geo": {
+      "ip": "99.106.104.174",
+      "city": "Avon",
+      "region": "Massachusetts",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "99.106.104.174",
       "city": "Avon",
       "region": "Massachusetts",
