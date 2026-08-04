@@ -29381,5 +29381,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-C2DA9F-7A538B-04CDD2": {
+    "expires": "2026-08-05T00:58:54.977Z",
+    "hwid": "10393644416-2a8e04b4-98ae-4df2-b268-2af8af950233",
+    "browserHwid": null,
+    "username": "hackersito996",
+    "userId": "10393644416",
+    "source": "script",
+    "createdAt": "2026-08-04T00:58:55.665Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.190.255.116",
+      "city": "Álvaro Obregón",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
