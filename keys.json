@@ -29854,5 +29854,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-339B9D-8328E3-10019A": {
+    "expires": "2026-08-05T13:16:52.972Z",
+    "hwid": "3410428971-66C455B6-25B0-4C31-B157-52354DFBAFDA",
+    "browserHwid": null,
+    "username": "vuadoctaivip",
+    "userId": "3410428971",
+    "source": "script",
+    "createdAt": "2026-08-04T13:16:53.749Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.163.40",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
