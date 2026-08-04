@@ -29638,5 +29638,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-645C0E-E06926-2A0144": {
+    "expires": "2026-08-05T09:46:50.022Z",
+    "hwid": "11295523739-be6c38b5-4c26-41bc-9054-685d9a0a5984",
+    "browserHwid": null,
+    "username": "marcusleuterio8",
+    "userId": "11295523739",
+    "source": "script",
+    "createdAt": "2026-08-04T09:46:50.720Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.155.23",
+      "city": "Taguig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
