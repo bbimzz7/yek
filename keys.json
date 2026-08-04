@@ -29878,5 +29878,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-5E3D3C-A07F3C-F42CDB": {
+    "expires": "2026-08-05T13:21:43.609Z",
+    "hwid": "10952188713-0f7dffd3-e511-40ff-a17b-82efbc113a13",
+    "browserHwid": null,
+    "username": "cedricgood21",
+    "userId": "10952188713",
+    "source": "script",
+    "createdAt": "2026-08-04T13:21:44.121Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.203.128.90",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
