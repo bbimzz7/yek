@@ -29806,5 +29806,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-58B70D-0E143B-24D3EB": {
+    "expires": "2026-08-05T11:47:49.922Z",
+    "hwid": "10176608631-37b63094-b447-444b-8e68-2b8b21e28f73",
+    "browserHwid": null,
+    "username": "uzon_936",
+    "userId": "10176608631",
+    "source": "script",
+    "createdAt": "2026-08-04T11:47:50.581Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.75.250.168",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
