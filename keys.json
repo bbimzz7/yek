@@ -29935,8 +29935,15 @@
     "userId": "9982769273",
     "source": "script",
     "createdAt": "2026-08-04T13:49:23.093Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T13:49:34.502Z",
     "geo": {
+      "ip": "94.182.14.138",
+      "city": "Tehran",
+      "region": "Tehran",
+      "country": "Iran",
+      "cc": "IR"
+    },
+    "lastGeo": {
       "ip": "94.182.14.138",
       "city": "Tehran",
       "region": "Tehran",
