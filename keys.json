@@ -30135,5 +30135,22 @@
       "country": "Azerbaijan",
       "cc": "AZ"
     }
+  },
+  "VH-2EF093-9CD6F5-81951D": {
+    "expires": "2026-08-05T17:41:12.397Z",
+    "hwid": "1641058898-b2fb6c4d-7182-4eb1-b0f9-986584ab7e78",
+    "browserHwid": null,
+    "username": "Its4ndyyxx",
+    "userId": "1641058898",
+    "source": "script",
+    "createdAt": "2026-08-04T17:41:13.059Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.140.4.181",
+      "city": "Reynosa",
+      "region": "Tamaulipas",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
