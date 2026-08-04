@@ -29974,5 +29974,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-E8C921-71D331-563742": {
+    "expires": "2026-08-05T14:09:27.404Z",
+    "hwid": "7860134165-2e7e668e-df68-49b7-8967-4a7eb2512b88",
+    "browserHwid": null,
+    "username": "windows11818",
+    "userId": "7860134165",
+    "source": "script",
+    "createdAt": "2026-08-04T14:09:28.210Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.35.5",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
