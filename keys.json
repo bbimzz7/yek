@@ -30168,8 +30168,15 @@
     "userId": "10873579751",
     "source": "script",
     "createdAt": "2026-08-04T17:42:08.202Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T17:58:52.041Z",
     "geo": {
+      "ip": "102.66.147.64",
+      "city": "Middelburg",
+      "region": "Eastern Cape",
+      "country": "South Africa",
+      "cc": "ZA"
+    },
+    "lastGeo": {
       "ip": "102.66.147.64",
       "city": "Middelburg",
       "region": "Eastern Cape",
