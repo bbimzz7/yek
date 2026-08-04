@@ -30360,8 +30360,15 @@
     "userId": "2759242117",
     "source": "script",
     "createdAt": "2026-08-04T22:14:46.881Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T22:17:34.009Z",
     "geo": {
+      "ip": "103.191.165.102",
+      "city": "Subang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.191.165.102",
       "city": "Subang",
       "region": "West Java",
