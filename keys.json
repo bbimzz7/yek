@@ -29998,5 +29998,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-79AA0B-3B3806-3744F7": {
+    "expires": "2026-08-05T15:01:02.784Z",
+    "hwid": "11275133783-60e1d01d-2924-4bd5-8b6f-5e543b0df87f",
+    "browserHwid": null,
+    "username": "misery3452",
+    "userId": "11275133783",
+    "source": "script",
+    "createdAt": "2026-08-04T15:01:03.642Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.250.200",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
