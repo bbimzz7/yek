@@ -30279,5 +30279,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-FBDA5D-F8E2EE-61112F": {
+    "expires": "2026-08-05T21:38:39.210Z",
+    "hwid": "10664943667-d6b51970-9d73-4aa9-887d-316799dc512d",
+    "browserHwid": null,
+    "username": "j7d3ub7je",
+    "userId": "10664943667",
+    "source": "script",
+    "createdAt": "2026-08-04T21:38:40.095Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.18.221",
+      "city": "Chicago",
+      "region": "Illinois",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
