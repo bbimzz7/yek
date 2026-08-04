@@ -30094,5 +30094,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-E2BF45-2DC4C6-D1B2F9": {
+    "expires": "2026-08-05T16:13:01.617Z",
+    "hwid": "10537892920-cceb7ac4-6276-4d48-9d3b-c29cd906bdb1",
+    "browserHwid": null,
+    "username": "KRUTAYA572",
+    "userId": "10537892920",
+    "source": "script",
+    "createdAt": "2026-08-04T16:13:02.303Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.61.121.221",
+      "city": "Baku",
+      "region": "Baku City",
+      "country": "Azerbaijan",
+      "cc": "AZ"
+    }
   }
 }
