@@ -30046,5 +30046,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-0E6A11-C47A42-B4874F": {
+    "expires": "2026-08-05T15:08:59.823Z",
+    "hwid": "7278050698-e36e4f79-92a2-46b6-a076-289d694f99dc",
+    "browserHwid": null,
+    "username": "You_say56",
+    "userId": "7278050698",
+    "source": "script",
+    "createdAt": "2026-08-04T15:09:00.370Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.104.115.71",
+      "city": "Guatemala City",
+      "region": "Guatemala",
+      "country": "Guatemala",
+      "cc": "GT"
+    }
   }
 }
