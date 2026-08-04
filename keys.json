@@ -30375,5 +30375,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DAA429-7B5498-F87EB5": {
+    "expires": "2026-08-05T23:55:42.963Z",
+    "hwid": "11418468649-f29c4169-f1da-47d5-9caf-7ecba362ea8e",
+    "browserHwid": null,
+    "username": "felix232473",
+    "userId": "11418468649",
+    "source": "script",
+    "createdAt": "2026-08-04T23:55:43.736Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.231.242.78",
+      "city": "Chapecó",
+      "region": "Santa Catarina",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
