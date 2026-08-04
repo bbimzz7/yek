@@ -30264,8 +30264,15 @@
     "userId": "10480415712",
     "source": "script",
     "createdAt": "2026-08-04T20:31:48.424Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T20:32:57.549Z",
     "geo": {
+      "ip": "152.167.237.219",
+      "city": "Santo Domingo Oeste",
+      "region": "Santo Domingo Province",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    },
+    "lastGeo": {
       "ip": "152.167.237.219",
       "city": "Santo Domingo Oeste",
       "region": "Santo Domingo Province",
