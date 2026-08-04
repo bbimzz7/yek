@@ -30185,8 +30185,15 @@
     "userId": "10310064736",
     "source": "script",
     "createdAt": "2026-08-04T17:51:23.845Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T17:51:38.348Z",
     "geo": {
+      "ip": "5.110.42.70",
+      "city": "Jeddah",
+      "region": "Mecca Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    },
+    "lastGeo": {
       "ip": "5.110.42.70",
       "city": "Jeddah",
       "region": "Mecca Region",
