@@ -30159,5 +30159,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-7054F7-DF77D5-E8EB98": {
+    "expires": "2026-08-05T17:42:07.684Z",
+    "hwid": "10873579751-3a38757b-ae96-4e20-b20b-57bd277687ad",
+    "browserHwid": null,
+    "username": "GOD_112IOA",
+    "userId": "10873579751",
+    "source": "script",
+    "createdAt": "2026-08-04T17:42:08.202Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.66.147.64",
+      "city": "Middelburg",
+      "region": "Eastern Cape",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
