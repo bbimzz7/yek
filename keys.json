@@ -29671,8 +29671,15 @@
     "userId": "9350676291",
     "source": "script",
     "createdAt": "2026-08-04T10:06:33.415Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T10:06:45.203Z",
     "geo": {
+      "ip": "125.167.57.173",
+      "city": "Talangbetutu",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.167.57.173",
       "city": "Talangbetutu",
       "region": "South Sumatra",
