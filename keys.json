@@ -30336,8 +30336,15 @@
     "userId": "5722251609",
     "source": "script",
     "createdAt": "2026-08-04T21:55:49.460Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T21:56:03.539Z",
     "geo": {
+      "ip": "188.72.40.18",
+      "city": "Kut",
+      "region": "Wasit Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "188.72.40.18",
       "city": "Kut",
       "region": "Wasit Governorate",
