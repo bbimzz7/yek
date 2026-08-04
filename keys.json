@@ -29405,5 +29405,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-C55248-4FBB69-A14C1D": {
+    "expires": "2026-08-05T01:00:13.169Z",
+    "hwid": "9603950714-a3456f06-2f8d-4dc8-bb71-e6238f3f441a",
+    "browserHwid": null,
+    "username": "daniel_king9189",
+    "userId": "9603950714",
+    "source": "script",
+    "createdAt": "2026-08-04T01:00:13.663Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.19.230.246",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
