@@ -29710,5 +29710,22 @@
       "country": "Lebanon",
       "cc": "LB"
     }
+  },
+  "VH-29B0E6-C331F4-E80F7D": {
+    "expires": "2026-08-05T10:44:37.415Z",
+    "hwid": "8281499416-004abdb3-5663-4cd2-9371-1c76d916f436",
+    "browserHwid": null,
+    "username": "RGym7",
+    "userId": "8281499416",
+    "source": "script",
+    "createdAt": "2026-08-04T10:44:38.185Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.235.93.99",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
