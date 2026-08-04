@@ -29959,8 +29959,15 @@
     "userId": "4178748112",
     "source": "script",
     "createdAt": "2026-08-04T14:02:23.969Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T14:02:31.724Z",
     "geo": {
+      "ip": "169.224.104.26",
+      "city": "Nasiriyah",
+      "region": "Dhi Qar",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "169.224.104.26",
       "city": "Nasiriyah",
       "region": "Dhi Qar",
