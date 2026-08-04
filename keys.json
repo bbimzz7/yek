@@ -29950,5 +29950,22 @@
       "country": "Iran",
       "cc": "IR"
     }
+  },
+  "VH-42EBA8-CFC220-80E8F2": {
+    "expires": "2026-08-05T14:02:23.188Z",
+    "hwid": "4178748112-b98259cc-2457-4d12-b8c3-5e9939e955c7",
+    "browserHwid": null,
+    "username": "xpgjspcks",
+    "userId": "4178748112",
+    "source": "script",
+    "createdAt": "2026-08-04T14:02:23.969Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "169.224.104.26",
+      "city": "Nasiriyah",
+      "region": "Dhi Qar",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
