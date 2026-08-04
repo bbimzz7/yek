@@ -29414,8 +29414,15 @@
     "userId": "9603950714",
     "source": "script",
     "createdAt": "2026-08-04T01:00:13.663Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T01:01:01.720Z",
     "geo": {
+      "ip": "160.19.230.246",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "160.19.230.246",
       "city": "Banjarmasin",
       "region": "South Kalimantan",
