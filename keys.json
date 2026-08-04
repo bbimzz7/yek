@@ -30055,8 +30055,15 @@
     "userId": "7278050698",
     "source": "script",
     "createdAt": "2026-08-04T15:09:00.370Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T15:11:16.277Z",
     "geo": {
+      "ip": "190.104.115.71",
+      "city": "Guatemala City",
+      "region": "Guatemala",
+      "country": "Guatemala",
+      "cc": "GT"
+    },
+    "lastGeo": {
       "ip": "190.104.115.71",
       "city": "Guatemala City",
       "region": "Guatemala",
