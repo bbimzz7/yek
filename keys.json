@@ -29453,5 +29453,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-321358-A43E8D-E1FAF5": {
+    "expires": "2026-08-05T02:59:59.573Z",
+    "hwid": "8338166919-95fa08ef-a7c3-4faf-9c0c-7cbeb0751449",
+    "browserHwid": null,
+    "username": "KEYVIEM_AA",
+    "userId": "8338166919",
+    "source": "script",
+    "createdAt": "2026-08-04T03:00:00.244Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.172.156.126",
+      "city": "Constanza",
+      "region": "La Vega",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
