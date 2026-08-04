@@ -30063,5 +30063,22 @@
       "country": "Guatemala",
       "cc": "GT"
     }
+  },
+  "VH-12B318-85F412-B19B7B": {
+    "expires": "2026-08-05T15:10:00.321Z",
+    "hwid": "11071372342-20b03d4d-269a-4f80-8a6c-76000ad6c46e",
+    "browserHwid": null,
+    "username": "roblox_user_11071372342",
+    "userId": "11071372342",
+    "source": "script",
+    "createdAt": "2026-08-04T15:10:00.931Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.153.221.130",
+      "city": "Bến Cát",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
