@@ -30176,5 +30176,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-0E013D-F4E90F-66E3F5": {
+    "expires": "2026-08-05T17:51:23.168Z",
+    "hwid": "10310064736-e3292192-6f03-44b4-9496-6c9b5d96f67d",
+    "browserHwid": null,
+    "username": "roke2595",
+    "userId": "10310064736",
+    "source": "script",
+    "createdAt": "2026-08-04T17:51:23.845Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.110.42.70",
+      "city": "Jeddah",
+      "region": "Mecca Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
