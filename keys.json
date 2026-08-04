@@ -29734,5 +29734,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-296381-30439B-C50591": {
+    "expires": "2026-08-05T10:57:52.346Z",
+    "hwid": "4543288870-737617d4-320b-41b3-876a-c9f361b1f393",
+    "browserHwid": null,
+    "username": "Malosaicheoggiesabat",
+    "userId": "4543288870",
+    "source": "script",
+    "createdAt": "2026-08-04T10:57:53.047Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.26.188.18",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
