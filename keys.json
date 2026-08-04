@@ -30231,5 +30231,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-7CA936-65AFBD-DF5232": {
+    "expires": "2026-08-05T19:39:57.203Z",
+    "hwid": "7671811890-e0d74c5f-c08e-4b8c-8298-2a275a8a0f98",
+    "browserHwid": null,
+    "username": "gamze89022ada",
+    "userId": "7671811890",
+    "source": "script",
+    "createdAt": "2026-08-04T19:39:57.911Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "162.19.152.73",
+      "city": "Limburg an der Lahn",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
