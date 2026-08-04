@@ -29575,8 +29575,15 @@
     "userId": "11364209311",
     "source": "script",
     "createdAt": "2026-08-04T08:38:00.986Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T08:40:27.981Z",
     "geo": {
+      "ip": "120.29.72.191",
+      "city": "Pandacaqui",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "120.29.72.191",
       "city": "Pandacaqui",
       "region": "Central Luzon",
