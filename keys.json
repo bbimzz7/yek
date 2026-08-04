@@ -29462,8 +29462,15 @@
     "userId": "8338166919",
     "source": "script",
     "createdAt": "2026-08-04T03:00:00.244Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T03:01:32.385Z",
     "geo": {
+      "ip": "38.172.156.126",
+      "city": "Constanza",
+      "region": "La Vega",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    },
+    "lastGeo": {
       "ip": "38.172.156.126",
       "city": "Constanza",
       "region": "La Vega",
