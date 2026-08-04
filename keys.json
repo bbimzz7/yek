@@ -30144,8 +30144,15 @@
     "userId": "1641058898",
     "source": "script",
     "createdAt": "2026-08-04T17:41:13.059Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T17:42:04.790Z",
     "geo": {
+      "ip": "189.140.4.181",
+      "city": "Reynosa",
+      "region": "Tamaulipas",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.140.4.181",
       "city": "Reynosa",
       "region": "Tamaulipas",
