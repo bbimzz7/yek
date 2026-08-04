@@ -30072,8 +30072,15 @@
     "userId": "11071372342",
     "source": "script",
     "createdAt": "2026-08-04T15:10:00.931Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T15:10:10.425Z",
     "geo": {
+      "ip": "103.153.221.130",
+      "city": "Bến Cát",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "103.153.221.130",
       "city": "Bến Cát",
       "region": "Ho Chi Minh City (HCMC)",
