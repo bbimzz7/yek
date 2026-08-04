@@ -30103,8 +30103,15 @@
     "userId": "10537892920",
     "source": "script",
     "createdAt": "2026-08-04T16:13:02.303Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-04T16:15:05.664Z",
     "geo": {
+      "ip": "37.61.121.221",
+      "city": "Baku",
+      "region": "Baku City",
+      "country": "Azerbaijan",
+      "cc": "AZ"
+    },
+    "lastGeo": {
       "ip": "37.61.121.221",
       "city": "Baku",
       "region": "Baku City",
