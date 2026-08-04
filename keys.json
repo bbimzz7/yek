@@ -29590,5 +29590,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-CB4279-53DB3D-8AEF6A": {
+    "expires": "2026-08-05T09:20:54.092Z",
+    "hwid": "5267278846-1d4ded20-815c-4600-999b-e47b988d6c18",
+    "browserHwid": null,
+    "username": "Zopwe9800",
+    "userId": "5267278846",
+    "source": "script",
+    "createdAt": "2026-08-04T09:20:54.891Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "99.106.104.174",
+      "city": "Avon",
+      "region": "Massachusetts",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
