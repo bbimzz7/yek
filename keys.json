@@ -29686,5 +29686,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C6BAEA-3A4E89-A89AFA": {
+    "expires": "2026-08-05T10:35:48.541Z",
+    "hwid": "3468985185-0c08e728-7974-4eb7-981e-1b7d4ed56473",
+    "browserHwid": null,
+    "username": "rajdjrkf",
+    "userId": "3468985185",
+    "source": "script",
+    "createdAt": "2026-08-04T10:35:49.333Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.243.210.172",
+      "city": "Beirut",
+      "region": "Beirut",
+      "country": "Lebanon",
+      "cc": "LB"
+    }
   }
 }
