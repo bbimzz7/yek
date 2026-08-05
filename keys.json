@@ -30584,5 +30584,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-D7B96D-950F16-39616A": {
+    "expires": "2026-08-06T06:47:38.384Z",
+    "hwid": "8590470156-2abd32a5-a721-40bd-af32-2a3251a4c0cb",
+    "browserHwid": null,
+    "username": "XFXZ_KRISS",
+    "userId": "8590470156",
+    "source": "script",
+    "createdAt": "2026-08-05T06:47:39.050Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.243.14.219",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
