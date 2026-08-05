@@ -30809,8 +30809,15 @@
     "userId": "1926339506",
     "source": "script",
     "createdAt": "2026-08-05T09:41:22.190Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T09:41:36.233Z",
     "geo": {
+      "ip": "46.131.70.171",
+      "city": "Tallinn",
+      "region": "Harjumaa",
+      "country": "Estonia",
+      "cc": "EE"
+    },
+    "lastGeo": {
       "ip": "46.131.70.171",
       "city": "Tallinn",
       "region": "Harjumaa",
