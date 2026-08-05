@@ -30512,5 +30512,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-8D4AFF-1CCB58-E7A37D": {
+    "expires": "2026-08-06T04:10:41.953Z",
+    "hwid": "11413451540-6c51358a-1260-4b1e-b0f2-2c94022c379a",
+    "browserHwid": null,
+    "username": "LindaSRY1",
+    "userId": "11413451540",
+    "source": "script",
+    "createdAt": "2026-08-05T04:10:42.654Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.20.38.166",
+      "city": "Indramayu",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
