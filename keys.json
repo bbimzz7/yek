@@ -30416,5 +30416,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-1F0526-62A85C-0F1ACB": {
+    "expires": "2026-08-06T01:41:45.935Z",
+    "hwid": "7755241587-c5650f61-fedd-47e2-a89f-922efb3e3971",
+    "browserHwid": null,
+    "username": "Alexander68608",
+    "userId": "7755241587",
+    "source": "script",
+    "createdAt": "2026-08-05T01:41:46.549Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.87.168.193",
+      "city": "San Salvador",
+      "region": "San Salvador Department",
+      "country": "El Salvador",
+      "cc": "SV"
+    }
   }
 }
