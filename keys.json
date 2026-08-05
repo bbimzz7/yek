@@ -31305,5 +31305,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-55ED71-D1B3DB-486A5E": {
+    "expires": "2026-08-06T22:22:28.122Z",
+    "hwid": "9262161511-b3f6a652-615f-44fe-b324-ebf361d0b6c3",
+    "browserHwid": null,
+    "username": "mohaha0_0",
+    "userId": "9262161511",
+    "source": "script",
+    "createdAt": "2026-08-05T22:22:28.834Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.7.164.58",
+      "city": "Monzón",
+      "region": "Aragon",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
