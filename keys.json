@@ -30569,8 +30569,15 @@
     "userId": "10961473206",
     "source": "script",
     "createdAt": "2026-08-05T06:32:29.586Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T06:32:43.494Z",
     "geo": {
+      "ip": "142.161.126.66",
+      "city": "Thompson",
+      "region": "Manitoba",
+      "country": "Canada",
+      "cc": "CA"
+    },
+    "lastGeo": {
       "ip": "142.161.126.66",
       "city": "Thompson",
       "region": "Manitoba",
