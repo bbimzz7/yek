@@ -30680,5 +30680,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DF8C2C-77078D-B77886": {
+    "expires": "2026-08-06T08:55:04.387Z",
+    "hwid": "11420547617-d120e7d2-d878-4008-bb44-1c14774b92c4",
+    "browserHwid": null,
+    "username": "tkfkfkfk_6",
+    "userId": "11420547617",
+    "source": "script",
+    "createdAt": "2026-08-05T08:55:05.322Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.186.4.112",
+      "city": "Tyumen",
+      "region": "Tyumen Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
