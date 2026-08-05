@@ -31009,5 +31009,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-62F6BA-F17765-4F68C9": {
+    "expires": "2026-08-06T13:27:58.934Z",
+    "hwid": "5442545704-5E2BE7B7-AF0A-4DFD-8672-A17C2E09AE58",
+    "browserHwid": null,
+    "username": "lokapoki223",
+    "userId": "5442545704",
+    "source": "script",
+    "createdAt": "2026-08-05T13:27:59.749Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "86.59.200.102",
+      "city": "Budapest",
+      "region": "Budapest",
+      "country": "Hungary",
+      "cc": "HU"
+    }
   }
 }
