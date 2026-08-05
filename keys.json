@@ -30872,5 +30872,22 @@
       "country": "Tunisia",
       "cc": "TN"
     }
+  },
+  "VH-F7A101-A24B85-74995A": {
+    "expires": "2026-08-06T12:17:57.628Z",
+    "hwid": "2698339266-95b3b94e-299e-43e0-8af8-5191bc347994",
+    "browserHwid": null,
+    "username": "TYLAKEJ",
+    "userId": "2698339266",
+    "source": "script",
+    "createdAt": "2026-08-05T12:17:58.391Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "123.31.53.25",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
