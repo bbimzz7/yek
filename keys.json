@@ -31146,8 +31146,15 @@
     "userId": "7762549391",
     "source": "script",
     "createdAt": "2026-08-05T16:52:59.493Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T16:53:10.661Z",
     "geo": {
+      "ip": "103.4.82.154",
+      "city": "Curahklapa",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.4.82.154",
       "city": "Curahklapa",
       "region": "East Java",
