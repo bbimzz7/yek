@@ -30752,5 +30752,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E01EA9-AD6C54-FF2C68": {
+    "expires": "2026-08-06T09:27:34.170Z",
+    "hwid": "7064515468-beb0c731-bd91-4c25-b26d-b831afc70460",
+    "browserHwid": null,
+    "username": "Vincegara773",
+    "userId": "7064515468",
+    "source": "script",
+    "createdAt": "2026-08-05T09:27:34.872Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.29.88.199",
+      "city": "Baguio City",
+      "region": "Cordillera",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
