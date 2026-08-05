@@ -30824,5 +30824,22 @@
       "country": "Estonia",
       "cc": "EE"
     }
+  },
+  "VH-B39415-C21A5C-695DA8": {
+    "expires": "2026-08-06T11:01:03.525Z",
+    "hwid": "11100235736-51af85e7-0e7c-440c-bf7a-205783cc19e5",
+    "browserHwid": null,
+    "username": "tobetakaa",
+    "userId": "11100235736",
+    "source": "script",
+    "createdAt": "2026-08-05T11:01:04.401Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.186.99.166",
+      "city": "Surabaya",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
