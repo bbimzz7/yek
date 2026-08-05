@@ -30944,5 +30944,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8374A1-8CBB2D-C63926": {
+    "expires": "2026-08-06T12:39:33.256Z",
+    "hwid": "11369820606-bf6ad45d-40a6-4ddc-a04e-b83f6daecabd",
+    "browserHwid": null,
+    "username": "FYIP_FRUIP",
+    "userId": "11369820606",
+    "source": "script",
+    "createdAt": "2026-08-05T12:39:34.030Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.232.189",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
