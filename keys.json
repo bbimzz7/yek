@@ -31089,5 +31089,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-D3DBBC-65A180-033477": {
+    "expires": "2026-08-06T14:13:33.066Z",
+    "hwid": "10273938292-4a216bd2-2707-4f1e-820a-8262dd2f33b7",
+    "browserHwid": null,
+    "username": "x1xL0V3xM3xHehex",
+    "userId": "10273938292",
+    "source": "script",
+    "createdAt": "2026-08-05T14:13:33.813Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "98.249.155.176",
+      "city": "Miami",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
