@@ -30920,5 +30920,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-944E8A-4C462B-455549": {
+    "expires": "2026-08-06T12:27:20.443Z",
+    "hwid": "641783936-7ec5720d-463a-4c0b-9a10-fb8e7df127d6",
+    "browserHwid": null,
+    "username": "reginakagres",
+    "userId": "641783936",
+    "source": "script",
+    "createdAt": "2026-08-05T12:27:21.269Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.185.46.34",
+      "city": "Pamulang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
