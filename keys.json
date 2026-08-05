@@ -31122,7 +31122,7 @@
     "userId": "8898324433",
     "source": "script",
     "createdAt": "2026-08-05T14:20:52.085Z",
-    "lastUsed": "2026-08-05T14:22:09.444Z",
+    "lastUsed": "2026-08-05T14:25:43.134Z",
     "geo": {
       "ip": "81.177.188.90",
       "city": "Stavropol",
@@ -31131,11 +31131,11 @@
       "cc": "RU"
     },
     "lastGeo": {
-      "ip": "81.177.188.90",
-      "city": "Stavropol",
-      "region": "Stavropol Kray",
-      "country": "Russia",
-      "cc": "RU"
+      "ip": "143.20.244.4",
+      "city": "Ashburn",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
     }
   }
 }
