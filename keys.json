@@ -31170,8 +31170,15 @@
     "userId": "9005991399",
     "source": "script",
     "createdAt": "2026-08-05T18:45:21.894Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T18:46:38.204Z",
     "geo": {
+      "ip": "162.19.252.91",
+      "city": "Limburg an der Lahn",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "162.19.252.91",
       "city": "Limburg an der Lahn",
       "region": "Hesse",
