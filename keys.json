@@ -30704,5 +30704,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-6BEA8A-202882-53E25D": {
+    "expires": "2026-08-06T09:02:41.159Z",
+    "hwid": "4575344612-e5e2e4f4-53e1-4330-a819-037d0c1101a2",
+    "browserHwid": null,
+    "username": "roblox_user_4575344612",
+    "userId": "4575344612",
+    "source": "script",
+    "createdAt": "2026-08-05T09:02:41.836Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.216.223.46",
+      "city": "Stockholm",
+      "region": "Stockholm County",
+      "country": "Sweden",
+      "cc": "SE"
+    }
   }
 }
