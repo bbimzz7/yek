@@ -30440,5 +30440,22 @@
       "country": "El Salvador",
       "cc": "SV"
     }
+  },
+  "VH-498FA1-92F6E3-AF6958": {
+    "expires": "2026-08-06T02:42:40.035Z",
+    "hwid": "8083436879-2771a550-bf75-4759-91bd-9f9c9581c001",
+    "browserHwid": null,
+    "username": "milton_12685",
+    "userId": "8083436879",
+    "source": "script",
+    "createdAt": "2026-08-05T02:42:40.676Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.158.120.198",
+      "city": "San Juan Bautista",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
