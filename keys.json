@@ -31185,5 +31185,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-4E0193-D54CAC-ECF9C7": {
+    "expires": "2026-08-06T19:09:11.835Z",
+    "hwid": "9363788576-0472d08b-5382-4ace-aba5-9fadb738ffbf",
+    "browserHwid": null,
+    "username": "XxRorpxX1",
+    "userId": "9363788576",
+    "source": "script",
+    "createdAt": "2026-08-05T19:09:12.603Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.89.167.182",
+      "city": "San Miguel de Tucumán",
+      "region": "Tucuman",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
