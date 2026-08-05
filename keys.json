@@ -30896,5 +30896,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-56D73A-D9872A-CC9534": {
+    "expires": "2026-08-06T12:20:29.144Z",
+    "hwid": "9011289727-62c77001-2aab-46d0-8ae9-6aaf2e433b71",
+    "browserHwid": null,
+    "username": "dhindo58",
+    "userId": "9011289727",
+    "source": "script",
+    "createdAt": "2026-08-05T12:20:29.638Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.29.89.135",
+      "city": "Baguio City",
+      "region": "Cordillera",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
