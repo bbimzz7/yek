@@ -30728,5 +30728,22 @@
       "country": "Sweden",
       "cc": "SE"
     }
+  },
+  "VH-B13D22-DB5D52-36720D": {
+    "expires": "2026-08-06T09:23:17.732Z",
+    "hwid": "9439740680-6c51358a-1260-4b1e-b0f2-2c94022c379a",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-08-05T09:23:18.449Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.63.149",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
