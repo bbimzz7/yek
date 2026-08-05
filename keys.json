@@ -30641,8 +30641,15 @@
     "userId": "8552407290",
     "source": "script",
     "createdAt": "2026-08-05T08:06:56.074Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T08:07:24.064Z",
     "geo": {
+      "ip": "190.97.249.35",
+      "city": "San Carlos del Zulia",
+      "region": "Zulia",
+      "country": "Venezuela",
+      "cc": "VE"
+    },
+    "lastGeo": {
       "ip": "190.97.249.35",
       "city": "San Carlos del Zulia",
       "region": "Zulia",
