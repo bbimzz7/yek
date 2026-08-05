@@ -31018,8 +31018,15 @@
     "userId": "5442545704",
     "source": "script",
     "createdAt": "2026-08-05T13:27:59.749Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T13:28:10.709Z",
     "geo": {
+      "ip": "86.59.200.102",
+      "city": "Budapest",
+      "region": "Budapest",
+      "country": "Hungary",
+      "cc": "HU"
+    },
+    "lastGeo": {
       "ip": "86.59.200.102",
       "city": "Budapest",
       "region": "Budapest",
