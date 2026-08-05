@@ -31233,5 +31233,22 @@
       "country": "Morocco",
       "cc": "MA"
     }
+  },
+  "VH-6A7469-8BDD37-853CFD": {
+    "expires": "2026-08-06T20:30:27.591Z",
+    "hwid": "9432774028-307606c3-6a81-4caa-999f-da61a5dcbf6d",
+    "browserHwid": null,
+    "username": "skoaooaopaq",
+    "userId": "9432774028",
+    "source": "script",
+    "createdAt": "2026-08-05T20:30:28.359Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.133.47.101",
+      "city": "Petropavl",
+      "region": "North Kazakhstan",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
