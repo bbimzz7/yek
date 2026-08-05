@@ -30617,8 +30617,15 @@
     "userId": "10977611915",
     "source": "script",
     "createdAt": "2026-08-05T06:57:59.215Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T06:58:12.179Z",
     "geo": {
+      "ip": "189.159.249.57",
+      "city": "Monclova",
+      "region": "Coahuila",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.159.249.57",
       "city": "Monclova",
       "region": "Coahuila",
