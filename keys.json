@@ -30995,14 +30995,22 @@
   },
   "VH-9D0D17-1BAD52-0CDCB0": {
     "expires": "2026-08-06T13:22:46.556Z",
-    "hwid": null,
+    "hwid": "9503119903-cf3f0759-f524-455a-b95d-e236d51a8344",
     "browserHwid": "BR-6B25720E-H4FHQ",
     "username": "Tubers93_9951",
-    "userId": null,
+    "userId": "9503119903",
     "source": "browser",
     "createdAt": "2026-08-05T13:22:47.452Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T13:32:28.747Z",
     "geo": {
+      "ip": "165.0.45.174",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "country": "South Africa",
+      "cc": "ZA"
+    },
+    "boundAt": "2026-08-05T13:32:28.742Z",
+    "lastGeo": {
       "ip": "165.0.45.174",
       "city": "Johannesburg",
       "region": "Gauteng",
