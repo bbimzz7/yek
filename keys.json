@@ -31257,5 +31257,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-5D1518-E69813-2BEFF6": {
+    "expires": "2026-08-06T20:33:30.160Z",
+    "hwid": "11417744933-700488a0-dd50-4f44-b21e-7045907c0c1f",
+    "browserHwid": null,
+    "username": "Robloxisthegoat385",
+    "userId": "11417744933",
+    "source": "script",
+    "createdAt": "2026-08-05T20:33:30.754Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.160.38.227",
+      "city": "Irvington",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
