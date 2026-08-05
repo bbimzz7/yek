@@ -31033,5 +31033,22 @@
       "country": "Hungary",
       "cc": "HU"
     }
+  },
+  "VH-766764-5980EC-2BEB24": {
+    "expires": "2026-08-06T13:30:48.041Z",
+    "hwid": "8027193004-c2e8b673-af13-4afd-a8be-62bcea759542",
+    "browserHwid": null,
+    "username": "hu_man053",
+    "userId": "8027193004",
+    "source": "script",
+    "createdAt": "2026-08-05T13:30:48.806Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.225.194.103",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
