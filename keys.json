@@ -30992,5 +30992,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9D0D17-1BAD52-0CDCB0": {
+    "expires": "2026-08-06T13:22:46.556Z",
+    "hwid": null,
+    "browserHwid": "BR-6B25720E-H4FHQ",
+    "username": "Tubers93_9951",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-08-05T13:22:47.452Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "165.0.45.174",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
