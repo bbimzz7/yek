@@ -31137,5 +31137,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-A7C796-CF49F6-BBD516": {
+    "expires": "2026-08-06T16:52:58.608Z",
+    "hwid": "7762549391-75c13339-8747-48b8-bc74-67289d3c66f0",
+    "browserHwid": null,
+    "username": "Kelovanokano",
+    "userId": "7762549391",
+    "source": "script",
+    "createdAt": "2026-08-05T16:52:59.493Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.4.82.154",
+      "city": "Curahklapa",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
