@@ -31355,8 +31355,15 @@
     "userId": "8686772034",
     "source": "script",
     "createdAt": "2026-08-05T23:34:41.117Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T23:34:51.279Z",
     "geo": {
+      "ip": "194.44.50.103",
+      "city": "Lviv",
+      "region": "Lviv",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "194.44.50.103",
       "city": "Lviv",
       "region": "Lviv",
