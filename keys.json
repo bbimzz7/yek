@@ -31266,8 +31266,15 @@
     "userId": "11417744933",
     "source": "script",
     "createdAt": "2026-08-05T20:33:30.754Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T20:33:39.308Z",
     "geo": {
+      "ip": "73.160.38.227",
+      "city": "Irvington",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.160.38.227",
       "city": "Irvington",
       "region": "New Jersey",
