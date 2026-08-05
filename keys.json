@@ -30536,5 +30536,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-866830-3FB6D8-69E83D": {
+    "expires": "2026-08-06T06:05:05.098Z",
+    "hwid": "7720976704-8d6569ec-c316-4a14-9014-d19fc1a38b92",
+    "browserHwid": null,
+    "username": "Jusdorange2450",
+    "userId": "7720976704",
+    "source": "script",
+    "createdAt": "2026-08-05T06:05:05.824Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.129.120.142",
+      "city": "Faaa",
+      "region": "Îles du Vent",
+      "country": "French Polynesia",
+      "cc": "PF"
+    }
   }
 }
