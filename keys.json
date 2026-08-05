@@ -31346,5 +31346,22 @@
       "country": "Spain",
       "cc": "ES"
     }
+  },
+  "VH-DDB3B1-32E0A3-FD242A": {
+    "expires": "2026-08-06T23:34:40.468Z",
+    "hwid": "8686772034-3341d8b1-b249-4131-82a5-86354cddbd9b",
+    "browserHwid": null,
+    "username": "Vouciest",
+    "userId": "8686772034",
+    "source": "script",
+    "createdAt": "2026-08-05T23:34:41.117Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "194.44.50.103",
+      "city": "Lviv",
+      "region": "Lviv",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
