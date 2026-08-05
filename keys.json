@@ -30929,8 +30929,15 @@
     "userId": "641783936",
     "source": "script",
     "createdAt": "2026-08-05T12:27:21.269Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T12:27:29.773Z",
     "geo": {
+      "ip": "103.185.46.34",
+      "city": "Pamulang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.185.46.34",
       "city": "Pamulang",
       "region": "West Java",
