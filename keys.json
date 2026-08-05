@@ -31065,5 +31065,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-40402F-0A02A0-556FB6": {
+    "expires": "2026-08-06T13:59:35.496Z",
+    "hwid": "11421820126-4aca157a-8dca-464e-a394-37059bb2e0f0",
+    "browserHwid": null,
+    "username": "Kssks147",
+    "userId": "11421820126",
+    "source": "script",
+    "createdAt": "2026-08-05T13:59:36.282Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.184.6.64",
+      "city": "Riyadh",
+      "region": "Riyadh Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
