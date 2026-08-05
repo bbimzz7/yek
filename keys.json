@@ -30689,8 +30689,15 @@
     "userId": "11420547617",
     "source": "script",
     "createdAt": "2026-08-05T08:55:05.322Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T08:55:12.926Z",
     "geo": {
+      "ip": "188.186.4.112",
+      "city": "Tyumen",
+      "region": "Tyumen Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "188.186.4.112",
       "city": "Tyumen",
       "region": "Tyumen Oblast",
