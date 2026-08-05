@@ -31322,5 +31322,22 @@
       "country": "Spain",
       "cc": "ES"
     }
+  },
+  "VH-A71B51-92605A-81786A": {
+    "expires": "2026-08-06T22:34:33.139Z",
+    "hwid": null,
+    "browserHwid": "BR-7E052E32-9TSLA",
+    "username": "MADARA506078",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-08-05T22:34:33.929Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.7.164.58",
+      "city": "Monzón",
+      "region": "Aragon",
+      "country": "Spain",
+      "cc": "ES"
+    }
   }
 }
