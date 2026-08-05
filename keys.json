@@ -31290,8 +31290,15 @@
     "userId": "3905136234",
     "source": "script",
     "createdAt": "2026-08-05T22:04:40.343Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T22:05:47.032Z",
     "geo": {
+      "ip": "112.210.221.153",
+      "city": "Mandaluyong",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.210.221.153",
       "city": "Mandaluyong",
       "region": "Metro Manila",
