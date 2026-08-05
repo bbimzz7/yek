@@ -31209,5 +31209,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-9BB085-46B10E-9CF060": {
+    "expires": "2026-08-06T19:38:39.477Z",
+    "hwid": "10704164594-b44a5a67-2ded-408a-825f-f7f40f635fa0",
+    "browserHwid": null,
+    "username": "Huggywuggyyy889",
+    "userId": "10704164594",
+    "source": "script",
+    "createdAt": "2026-08-05T19:38:40.327Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "105.190.104.224",
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "country": "Morocco",
+      "cc": "MA"
+    }
   }
 }
