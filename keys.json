@@ -30608,5 +30608,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B3C369-A163F6-C7A1EA": {
+    "expires": "2026-08-06T06:57:58.541Z",
+    "hwid": "10977611915-7a720d48-4f8f-439b-9019-c1235b21338a",
+    "browserHwid": null,
+    "username": "josesin_barbaro",
+    "userId": "10977611915",
+    "source": "script",
+    "createdAt": "2026-08-05T06:57:59.215Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.159.249.57",
+      "city": "Monclova",
+      "region": "Coahuila",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
