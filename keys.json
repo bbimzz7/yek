@@ -30545,8 +30545,15 @@
     "userId": "7720976704",
     "source": "script",
     "createdAt": "2026-08-05T06:05:05.824Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T06:06:28.601Z",
     "geo": {
+      "ip": "103.129.120.142",
+      "city": "Faaa",
+      "region": "Îles du Vent",
+      "country": "French Polynesia",
+      "cc": "PF"
+    },
+    "lastGeo": {
       "ip": "103.129.120.142",
       "city": "Faaa",
       "region": "Îles du Vent",
