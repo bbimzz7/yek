@@ -30560,5 +30560,22 @@
       "country": "French Polynesia",
       "cc": "PF"
     }
+  },
+  "VH-290FB0-FD23C7-6D2AAC": {
+    "expires": "2026-08-06T06:32:28.867Z",
+    "hwid": "10961473206-9f859a2a-ea4c-4490-9175-4e3932469a45",
+    "browserHwid": null,
+    "username": "mijiiscooll",
+    "userId": "10961473206",
+    "source": "script",
+    "createdAt": "2026-08-05T06:32:29.586Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "142.161.126.66",
+      "city": "Thompson",
+      "region": "Manitoba",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
