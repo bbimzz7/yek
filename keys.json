@@ -31194,8 +31194,15 @@
     "userId": "9363788576",
     "source": "script",
     "createdAt": "2026-08-05T19:09:12.603Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-05T19:10:21.757Z",
     "geo": {
+      "ip": "181.89.167.182",
+      "city": "San Miguel de Tucumán",
+      "region": "Tucuman",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "181.89.167.182",
       "city": "San Miguel de Tucumán",
       "region": "Tucuman",
