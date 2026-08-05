@@ -31161,5 +31161,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F3B0EA-C7B862-FA4458": {
+    "expires": "2026-08-06T18:45:21.178Z",
+    "hwid": "9005991399-63e2bc67-580c-4e23-8aa6-7cb3272964d5",
+    "browserHwid": null,
+    "username": "Melisa27590",
+    "userId": "9005991399",
+    "source": "script",
+    "createdAt": "2026-08-05T18:45:21.894Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "162.19.252.91",
+      "city": "Limburg an der Lahn",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
