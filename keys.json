@@ -30392,5 +30392,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-C3CDEB-8CA99D-B3C5FC": {
+    "expires": "2026-08-06T01:28:04.585Z",
+    "hwid": "8298931869-ed74075d-c700-4963-921b-c643038c36c3",
+    "browserHwid": null,
+    "username": "adrian_312822",
+    "userId": "8298931869",
+    "source": "script",
+    "createdAt": "2026-08-05T01:28:05.345Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.1.48.55",
+      "city": "Cali",
+      "region": "Valle del Cauca Department",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
