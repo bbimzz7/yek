@@ -30800,5 +30800,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4396FE-2563FC-AC3053": {
+    "expires": "2026-08-06T09:41:21.528Z",
+    "hwid": "1926339506-744b018a-b7af-45d7-a3fe-f13af2e39eba",
+    "browserHwid": null,
+    "username": "merey543210509",
+    "userId": "1926339506",
+    "source": "script",
+    "createdAt": "2026-08-05T09:41:22.190Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.131.70.171",
+      "city": "Tallinn",
+      "region": "Harjumaa",
+      "country": "Estonia",
+      "cc": "EE"
+    }
   }
 }
