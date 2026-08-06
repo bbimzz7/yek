@@ -31748,5 +31748,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-85C599-198F2F-81DCCB": {
+    "expires": "2026-08-07T10:04:32.741Z",
+    "hwid": "9328941498-70197915-F8C8-4123-8CC7-47A35F6B9BE2",
+    "browserHwid": null,
+    "username": "gkzTSYxp8g",
+    "userId": "9328941498",
+    "source": "script",
+    "createdAt": "2026-08-06T10:04:33.248Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.216.193.91",
+      "city": "Rostov-on-Don",
+      "region": "Rostov Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
