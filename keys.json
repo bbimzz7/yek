@@ -32045,8 +32045,15 @@
     "userId": "4010412151",
     "source": "script",
     "createdAt": "2026-08-06T18:06:26.539Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-06T18:06:32.888Z",
     "geo": {
+      "ip": "95.105.127.114",
+      "city": "Orenburg",
+      "region": "Orenburg Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "95.105.127.114",
       "city": "Orenburg",
       "region": "Orenburg Oblast",
