@@ -31370,5 +31370,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-22022F-A8D0BD-A7F61E": {
+    "expires": "2026-08-07T00:33:43.535Z",
+    "hwid": "4626481471-77cd5191-9322-4fa3-9a59-f7690fa0610c",
+    "browserHwid": null,
+    "username": "lorence883",
+    "userId": "4626481471",
+    "source": "script",
+    "createdAt": "2026-08-06T00:33:44.310Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "143.44.165.69",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
