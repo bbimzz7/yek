@@ -31916,5 +31916,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-94D549-6B438B-5244E2": {
+    "expires": "2026-08-07T12:29:10.350Z",
+    "hwid": "11415528228-533dd20c-3555-424b-be64-164b6088d623",
+    "browserHwid": null,
+    "username": "Heybabair",
+    "userId": "11415528228",
+    "source": "script",
+    "createdAt": "2026-08-06T12:29:11.118Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "35.129.8.248",
+      "city": "St Louis",
+      "region": "Missouri",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
