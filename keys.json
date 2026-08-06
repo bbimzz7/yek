@@ -32036,5 +32036,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8486FE-05D664-456CA9": {
+    "expires": "2026-08-07T18:06:26.009Z",
+    "hwid": "4010412151-B7A864B0-8D66-4FD7-960A-49ACA08F2A4F",
+    "browserHwid": null,
+    "username": "hey_chuya",
+    "userId": "4010412151",
+    "source": "script",
+    "createdAt": "2026-08-06T18:06:26.539Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.105.127.114",
+      "city": "Orenburg",
+      "region": "Orenburg Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
