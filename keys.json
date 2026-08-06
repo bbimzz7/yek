@@ -32069,8 +32069,15 @@
     "userId": "1481863545",
     "source": "script",
     "createdAt": "2026-08-06T19:50:07.692Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-06T19:50:15.016Z",
     "geo": {
+      "ip": "185.246.162.160",
+      "city": "Kostanay",
+      "region": "Kostanay",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "185.246.162.160",
       "city": "Kostanay",
       "region": "Kostanay",
