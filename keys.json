@@ -31997,8 +31997,15 @@
     "userId": "3698235048",
     "source": "script",
     "createdAt": "2026-08-06T15:04:05.588Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-06T15:04:18.839Z",
     "geo": {
+      "ip": "116.241.146.113",
+      "city": "Zhubei",
+      "region": "Taiwan",
+      "country": "Taiwan",
+      "cc": "TW"
+    },
+    "lastGeo": {
       "ip": "116.241.146.113",
       "city": "Zhubei",
       "region": "Taiwan",
