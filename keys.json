@@ -31988,5 +31988,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-1429B2-66B3A1-BBF6A6": {
+    "expires": "2026-08-07T15:04:04.785Z",
+    "hwid": "3698235048-0c69e0ea-82f4-48f0-bc63-e35d39029591",
+    "browserHwid": null,
+    "username": "yustarw",
+    "userId": "3698235048",
+    "source": "script",
+    "createdAt": "2026-08-06T15:04:05.588Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.241.146.113",
+      "city": "Zhubei",
+      "region": "Taiwan",
+      "country": "Taiwan",
+      "cc": "TW"
+    }
   }
 }
