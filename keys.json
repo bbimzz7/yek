@@ -31418,5 +31418,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-15DB57-DADA9A-6B2109": {
+    "expires": "2026-08-07T03:08:23.687Z",
+    "hwid": "10593804728-67738b9e-b784-4780-90b0-9f05c6e102cb",
+    "browserHwid": null,
+    "username": "nayra3197",
+    "userId": "10593804728",
+    "source": "script",
+    "createdAt": "2026-08-06T03:08:24.407Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.47.134.2",
+      "city": "North Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
