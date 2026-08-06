@@ -31394,5 +31394,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-056815-63E97A-3E0590": {
+    "expires": "2026-08-07T02:31:41.664Z",
+    "hwid": "11295523739-be6c38b5-4c26-41bc-9054-685d9a0a5984",
+    "browserHwid": null,
+    "username": "marcusleuterio8",
+    "userId": "11295523739",
+    "source": "script",
+    "createdAt": "2026-08-06T02:31:42.392Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.154.198",
+      "city": "Taguig",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
