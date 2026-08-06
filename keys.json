@@ -31757,8 +31757,15 @@
     "userId": "9328941498",
     "source": "script",
     "createdAt": "2026-08-06T10:04:33.248Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-06T10:04:41.218Z",
     "geo": {
+      "ip": "185.216.193.91",
+      "city": "Rostov-on-Don",
+      "region": "Rostov Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "185.216.193.91",
       "city": "Rostov-on-Don",
       "region": "Rostov Oblast",
