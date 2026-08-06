@@ -31379,8 +31379,15 @@
     "userId": "4626481471",
     "source": "script",
     "createdAt": "2026-08-06T00:33:44.310Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-06T00:35:33.853Z",
     "geo": {
+      "ip": "143.44.165.69",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "143.44.165.69",
       "city": "Cebu City",
       "region": "Central Visayas",
