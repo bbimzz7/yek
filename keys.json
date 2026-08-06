@@ -31467,5 +31467,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-60EFB3-212196-0D2D71": {
+    "expires": "2026-08-07T04:28:09.036Z",
+    "hwid": "8766115344-a977effb-07b2-43ea-b48f-8c5e0fc594bb",
+    "browserHwid": null,
+    "username": "bananaboy123330",
+    "userId": "8766115344",
+    "source": "script",
+    "createdAt": "2026-08-06T04:28:09.942Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.191.32.217",
+      "city": "Cabanatuan City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
