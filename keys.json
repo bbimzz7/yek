@@ -31772,5 +31772,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-31458A-80BEE0-3359EE": {
+    "expires": "2026-08-07T10:45:12.863Z",
+    "hwid": "9981476785-e3bcd2bd-39ff-4894-a622-cc0caf3917e1",
+    "browserHwid": null,
+    "username": "Fulonii",
+    "userId": "9981476785",
+    "source": "script",
+    "createdAt": "2026-08-06T10:45:13.704Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "194.26.3.6",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
