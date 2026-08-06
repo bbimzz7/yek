@@ -32093,8 +32093,15 @@
     "userId": "3540485432",
     "source": "script",
     "createdAt": "2026-08-06T19:50:29.409Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-06T19:50:42.770Z",
     "geo": {
+      "ip": "5.138.143.6",
+      "city": "Krasnodar",
+      "region": "Krasnodar Krai",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "5.138.143.6",
       "city": "Krasnodar",
       "region": "Krasnodar Krai",
