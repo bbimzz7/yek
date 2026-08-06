@@ -31620,8 +31620,15 @@
     "userId": "8308317815",
     "source": "script",
     "createdAt": "2026-08-06T05:54:11.255Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-06T05:56:32.807Z",
     "geo": {
+      "ip": "136.158.35.228",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.35.228",
       "city": "Quezon City",
       "region": "Metro Manila",
