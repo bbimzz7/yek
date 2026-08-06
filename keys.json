@@ -31572,8 +31572,15 @@
     "userId": "10742813661",
     "source": "script",
     "createdAt": "2026-08-06T05:15:16.339Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-06T05:16:25.045Z",
     "geo": {
+      "ip": "73.107.188.232",
+      "city": "Naples",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "73.107.188.232",
       "city": "Naples",
       "region": "Florida",
