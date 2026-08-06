@@ -31500,8 +31500,15 @@
     "userId": "10182608719",
     "source": "script",
     "createdAt": "2026-08-06T04:37:28.982Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-06T04:37:43.575Z",
     "geo": {
+      "ip": "136.158.66.36",
+      "city": "San Pablo",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.66.36",
       "city": "San Pablo",
       "region": "Calabarzon",
