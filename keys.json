@@ -31805,8 +31805,15 @@
     "userId": "8829984480",
     "source": "script",
     "createdAt": "2026-08-06T11:02:32.886Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-06T11:04:16.582Z",
     "geo": {
+      "ip": "210.1.119.135",
+      "city": "Tagum",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "210.1.119.135",
       "city": "Tagum",
       "region": "Davao Region",
