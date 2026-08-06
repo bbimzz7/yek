@@ -31844,5 +31844,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-078836-0FAEA6-A8AE4A": {
+    "expires": "2026-08-07T11:39:11.921Z",
+    "hwid": "3551701421-f7829f59-acec-46a2-8b30-22e2ee50eca7",
+    "browserHwid": null,
+    "username": "YoriichiKamado_01",
+    "userId": "3551701421",
+    "source": "script",
+    "createdAt": "2026-08-06T11:39:12.692Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.50.125.155",
+      "city": "Al Ain City",
+      "region": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "cc": "AE"
+    }
   }
 }
