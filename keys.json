@@ -31925,8 +31925,15 @@
     "userId": "11415528228",
     "source": "script",
     "createdAt": "2026-08-06T12:29:11.118Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-06T12:29:46.591Z",
     "geo": {
+      "ip": "35.129.8.248",
+      "city": "St Louis",
+      "region": "Missouri",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "35.129.8.248",
       "city": "St Louis",
       "region": "Missouri",
