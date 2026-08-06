@@ -32012,5 +32012,22 @@
       "country": "Taiwan",
       "cc": "TW"
     }
+  },
+  "VH-B2EA40-CB5DDD-A1AB39": {
+    "expires": "2026-08-07T18:03:06.838Z",
+    "hwid": "11142725500-21BB3FE8-AC2E-490A-8550-1067C129E79B",
+    "browserHwid": null,
+    "username": "Bluedev_666",
+    "userId": "11142725500",
+    "source": "script",
+    "createdAt": "2026-08-06T18:03:07.573Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.79.241.201",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
