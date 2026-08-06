@@ -31796,5 +31796,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-FE03D1-44D351-C223D0": {
+    "expires": "2026-08-07T11:02:32.173Z",
+    "hwid": "8829984480-854d8e0c-04b9-42e5-9145-8107831d228e",
+    "browserHwid": null,
+    "username": "rip_Glow2156",
+    "userId": "8829984480",
+    "source": "script",
+    "createdAt": "2026-08-06T11:02:32.886Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "210.1.119.135",
+      "city": "Tagum",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
