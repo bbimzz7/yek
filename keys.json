@@ -31940,5 +31940,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-42A808-4381BA-D8C533": {
+    "expires": "2026-08-07T13:10:54.808Z",
+    "hwid": "4797082953-8ccef058-cbab-4a5c-9afe-c8d6fef27621",
+    "browserHwid": null,
+    "username": "ikwgrk",
+    "userId": "4797082953",
+    "source": "script",
+    "createdAt": "2026-08-06T13:10:55.580Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.97.128.25",
+      "city": "Thái Bình",
+      "region": "Thái Bình Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
