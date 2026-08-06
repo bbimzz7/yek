@@ -31892,5 +31892,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-B6FC0B-E09ACF-A5D3C1": {
+    "expires": "2026-08-07T12:01:11.718Z",
+    "hwid": "10926549953-44011a51-35d4-45e4-b318-8651bf8f9f3c",
+    "browserHwid": null,
+    "username": "ababanana261",
+    "userId": "10926549953",
+    "source": "script",
+    "createdAt": "2026-08-06T12:01:12.553Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.66.87",
+      "city": "San Pablo",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
