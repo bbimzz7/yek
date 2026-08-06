@@ -32060,5 +32060,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-F22BBF-C1FED4-70F40B": {
+    "expires": "2026-08-07T19:50:06.995Z",
+    "hwid": "1481863545-63D50154-940D-4CC7-BA18-19C06ECECEA3",
+    "browserHwid": null,
+    "username": "nadhirakartika",
+    "userId": "1481863545",
+    "source": "script",
+    "createdAt": "2026-08-06T19:50:07.692Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.246.162.160",
+      "city": "Kostanay",
+      "region": "Kostanay",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
