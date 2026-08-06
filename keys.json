@@ -32084,5 +32084,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-DD0973-999C7B-2C86D0": {
+    "expires": "2026-08-07T19:50:28.885Z",
+    "hwid": "3540485432-c64240d9-f11a-4f98-aba7-7444f244ddbe",
+    "browserHwid": null,
+    "username": "Solvalensol",
+    "userId": "3540485432",
+    "source": "script",
+    "createdAt": "2026-08-06T19:50:29.409Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.138.143.6",
+      "city": "Krasnodar",
+      "region": "Krasnodar Krai",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
