@@ -31731,5 +31731,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-B538F5-2AA840-F971B1": {
+    "expires": "2026-08-07T10:04:06.564Z",
+    "hwid": "10464630132-08d80c1f-95fc-4269-a0a1-761321fa49c6",
+    "browserHwid": null,
+    "username": "Mekhijdjdj",
+    "userId": "10464630132",
+    "source": "script",
+    "createdAt": "2026-08-06T10:04:07.390Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.182.249.93",
+      "city": "McKinney",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
