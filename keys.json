@@ -31707,5 +31707,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-F397B7-9DE0AB-3878F4": {
+    "expires": "2026-08-07T09:02:08.131Z",
+    "hwid": "11152695649-73ed79a4-eae0-4026-9669-8c3a0d743852",
+    "browserHwid": null,
+    "username": "anayinaw",
+    "userId": "11152695649",
+    "source": "script",
+    "createdAt": "2026-08-06T09:02:08.913Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "57.128.172.6",
+      "city": "Erith",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
