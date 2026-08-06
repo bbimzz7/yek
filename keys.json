@@ -31716,8 +31716,15 @@
     "userId": "11152695649",
     "source": "script",
     "createdAt": "2026-08-06T09:02:08.913Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-06T09:02:24.218Z",
     "geo": {
+      "ip": "57.128.172.6",
+      "city": "Erith",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "57.128.172.6",
       "city": "Erith",
       "region": "England",
