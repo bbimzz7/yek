@@ -31964,5 +31964,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-0CA171-27B775-AEAC0B": {
+    "expires": "2026-08-07T13:12:34.405Z",
+    "hwid": "10386625714-1285af3d-9597-4202-9acc-cab0c99568e1",
+    "browserHwid": null,
+    "username": "pupspa99",
+    "userId": "10386625714",
+    "source": "script",
+    "createdAt": "2026-08-06T13:12:35.125Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.237.111.250",
+      "city": "Bangkok",
+      "region": "Bangkok",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
