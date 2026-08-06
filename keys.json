@@ -31820,5 +31820,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-62BE2D-C8843B-7F6572": {
+    "expires": "2026-08-07T11:11:27.731Z",
+    "hwid": "9205377641-4127499e-19bb-43fa-bf9e-4c3907f492b9",
+    "browserHwid": null,
+    "username": "BreezeKiyota",
+    "userId": "9205377641",
+    "source": "script",
+    "createdAt": "2026-08-06T11:11:28.528Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.206.33.50",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
