@@ -32108,5 +32108,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-35AB40-F1D05D-130BB6": {
+    "expires": "2026-08-07T20:59:03.278Z",
+    "hwid": "3286153853-59fa2d7a-d28a-4509-98df-92f3acd85e91",
+    "browserHwid": null,
+    "username": "fgxdxt",
+    "userId": "3286153853",
+    "source": "script",
+    "createdAt": "2026-08-06T20:59:03.994Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "92.46.162.143",
+      "city": "Taldykorgan",
+      "region": "Zhetysu Region",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
