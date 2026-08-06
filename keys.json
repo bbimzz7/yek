@@ -31668,8 +31668,15 @@
     "userId": "4752883044",
     "source": "script",
     "createdAt": "2026-08-06T07:29:06.008Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-06T07:29:20.667Z",
     "geo": {
+      "ip": "136.158.8.121",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.8.121",
       "city": "Quezon City",
       "region": "Metro Manila",
