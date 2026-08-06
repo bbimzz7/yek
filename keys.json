@@ -31515,5 +31515,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-87D6B5-842B2F-54DAB5": {
+    "expires": "2026-08-07T05:01:42.095Z",
+    "hwid": "9625233539-75c23a83-4035-47a4-af45-5b061ba54d78",
+    "browserHwid": null,
+    "username": "dhyo215",
+    "userId": "9625233539",
+    "source": "script",
+    "createdAt": "2026-08-06T05:01:43.008Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.3.73.120",
+      "city": "Kota Jambi",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
