@@ -31563,5 +31563,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4D41FB-B052BE-F12336": {
+    "expires": "2026-08-07T05:15:15.612Z",
+    "hwid": "10742813661-24d421fc-242e-4150-835d-e1822600123f",
+    "browserHwid": null,
+    "username": "Hggsddh4455",
+    "userId": "10742813661",
+    "source": "script",
+    "createdAt": "2026-08-06T05:15:16.339Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "73.107.188.232",
+      "city": "Naples",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
