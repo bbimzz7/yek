@@ -31587,5 +31587,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-949941-E7D974-DA9500": {
+    "expires": "2026-08-07T05:45:15.633Z",
+    "hwid": "1431739931-743bfbc2-033e-4492-95f0-8830f1227aca",
+    "browserHwid": null,
+    "username": "CH4KNUTHE3rd",
+    "userId": "1431739931",
+    "source": "script",
+    "createdAt": "2026-08-06T05:45:16.412Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.106.151.217",
+      "city": "Taytay",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
