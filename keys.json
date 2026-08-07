@@ -32574,11 +32574,18 @@
     "userId": "10954709875",
     "source": "script",
     "createdAt": "2026-08-07T12:33:29.159Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T13:30:13.140Z",
     "geo": {
       "ip": "182.62.23.48",
       "city": "Kuala Lumpur",
       "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
+      "ip": "115.164.94.169",
+      "city": "Petaling Jaya",
+      "region": "Selangor",
       "country": "Malaysia",
       "cc": "MY"
     }
