@@ -32252,5 +32252,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-E45A17-F4F4B3-1FB17C": {
+    "expires": "2026-08-08T04:47:41.227Z",
+    "hwid": null,
+    "browserHwid": "BR-34E9DB1E-3FD48",
+    "username": "ayrasaffa999",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-08-07T04:47:41.932Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.135.30.25",
+      "city": "Kajang",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
