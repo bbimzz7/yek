@@ -32517,5 +32517,22 @@
       "country": "Japan",
       "cc": "JP"
     }
+  },
+  "VH-53BA95-8BEB38-737DB4": {
+    "expires": "2026-08-08T11:38:51.490Z",
+    "hwid": "11322626561-c44bbf6e-dcc3-4c4c-a709-7c90a4c5a641",
+    "browserHwid": null,
+    "username": "Pepetrikel",
+    "userId": "11322626561",
+    "source": "script",
+    "createdAt": "2026-08-07T11:38:52.240Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.139.124.101",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
