@@ -32141,8 +32141,15 @@
     "userId": "10807813135",
     "source": "script",
     "createdAt": "2026-08-07T01:27:16.674Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T01:27:49.340Z",
     "geo": {
+      "ip": "45.174.138.16",
+      "city": "Jacaraú",
+      "region": "Paraíba",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.174.138.16",
       "city": "Jacaraú",
       "region": "Paraíba",
