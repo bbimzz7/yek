@@ -32743,9 +32743,16 @@
     "userId": "11423880002",
     "source": "script",
     "createdAt": "2026-08-07T14:54:22.299Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T14:54:30.502Z",
     "geo": {
       "ip": "181.174.231.94",
+      "city": "Pitalito",
+      "region": "Huila Department",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
+      "ip": "181.174.231.91",
       "city": "Pitalito",
       "region": "Huila Department",
       "country": "Colombia",
