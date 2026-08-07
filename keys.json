@@ -32132,5 +32132,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-4F870E-A1F0F3-410C4A": {
+    "expires": "2026-08-08T01:27:15.960Z",
+    "hwid": "10807813135-68c41d1f-85cc-4cbb-a6bc-48622f9c5c8e",
+    "browserHwid": null,
+    "username": "kauan321247",
+    "userId": "10807813135",
+    "source": "script",
+    "createdAt": "2026-08-07T01:27:16.674Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.174.138.16",
+      "city": "Jacaraú",
+      "region": "Paraíba",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
