@@ -32609,14 +32609,22 @@
   },
   "VH-F21AEE-4198CA-53ACDD": {
     "expires": "2026-08-08T12:37:09.431Z",
-    "hwid": null,
+    "hwid": "8133888322-79452367-00e4-4c4c-bfe1-e9d9cf6ebd3d",
     "browserHwid": "BR-4DEE5325-SGRMH",
-    "username": "Casiee_ive",
-    "userId": null,
+    "username": "casiee_ive",
+    "userId": "8133888322",
     "source": "browser",
     "createdAt": "2026-08-07T12:37:09.819Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T12:40:07.936Z",
     "geo": {
+      "ip": "103.169.238.125",
+      "city": "Kotabumi",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-08-07T12:40:07.928Z",
+    "lastGeo": {
       "ip": "103.169.238.125",
       "city": "Kotabumi",
       "region": "Lampung",
