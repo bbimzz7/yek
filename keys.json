@@ -32349,5 +32349,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A654A7-CEC4EB-7E9BFA": {
+    "expires": "2026-08-08T05:49:54.789Z",
+    "hwid": "11284915338-39b582a1-53bd-4fbb-8b16-f631bc8ba1a7",
+    "browserHwid": null,
+    "username": "KLS_KZ",
+    "userId": "11284915338",
+    "source": "script",
+    "createdAt": "2026-08-07T05:49:55.494Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.82.84.125",
+      "city": "Shymkent",
+      "region": "Shymkent",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
