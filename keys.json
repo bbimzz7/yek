@@ -32758,5 +32758,22 @@
       "country": "Colombia",
       "cc": "CO"
     }
+  },
+  "VH-A9CD18-3C3600-FB659A": {
+    "expires": "2026-08-08T14:59:04.621Z",
+    "hwid": "8231631277-cc1e63a9-9b27-413b-a470-1359e348c96b",
+    "browserHwid": null,
+    "username": "zubwaa",
+    "userId": "8231631277",
+    "source": "script",
+    "createdAt": "2026-08-07T14:59:05.164Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.254.77.52",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
