@@ -32237,8 +32237,15 @@
     "userId": "11387602449",
     "source": "script",
     "createdAt": "2026-08-07T03:26:53.784Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T03:27:02.766Z",
     "geo": {
+      "ip": "27.79.123.13",
+      "city": "Da Nang",
+      "region": "Da Nang",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "27.79.123.13",
       "city": "Da Nang",
       "region": "Da Nang",
