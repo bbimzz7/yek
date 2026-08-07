@@ -32710,5 +32710,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-12870F-4614BA-F71775": {
+    "expires": "2026-08-08T14:50:32.809Z",
+    "hwid": "4766697105-37df13aa-59e0-44d5-8c25-dae6c20d0075",
+    "browserHwid": null,
+    "username": "night_mare091100",
+    "userId": "4766697105",
+    "source": "script",
+    "createdAt": "2026-08-07T14:50:33.553Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "143.44.164.79",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
