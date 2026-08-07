@@ -32638,5 +32638,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8C41A1-09E46F-A82445": {
+    "expires": "2026-08-08T13:37:51.344Z",
+    "hwid": "9110062726-da29d51b-e9a0-461a-b4b0-c44352742e05",
+    "browserHwid": null,
+    "username": "Bacongirl18266",
+    "userId": "9110062726",
+    "source": "script",
+    "createdAt": "2026-08-07T13:37:52.362Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "113.184.56.133",
+      "city": "Bien Hoa",
+      "region": "Dong Nai",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
