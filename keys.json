@@ -32469,5 +32469,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-A74B7B-367A4D-3CD9C8": {
+    "expires": "2026-08-08T11:12:04.278Z",
+    "hwid": "3936019600-03A32E57-7620-4B1F-90AB-0AE18F07DEE0",
+    "browserHwid": null,
+    "username": "chimezerro813",
+    "userId": "3936019600",
+    "source": "script",
+    "createdAt": "2026-08-07T11:12:04.814Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "143.44.196.184",
+      "city": "Iloilo City",
+      "region": "Western Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
