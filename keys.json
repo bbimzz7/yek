@@ -32541,5 +32541,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1CF12F-C29630-ABF15E": {
+    "expires": "2026-08-08T12:33:09.515Z",
+    "hwid": "7941460729-1300348b-7bb2-472f-bf87-effadab7a195",
+    "browserHwid": null,
+    "username": "laxxwszzZ",
+    "userId": "7941460729",
+    "source": "script",
+    "createdAt": "2026-08-07T12:33:10.056Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.121.49.37",
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
