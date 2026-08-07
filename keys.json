@@ -32926,5 +32926,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3F7A57-338EA0-198BEE": {
+    "expires": "2026-08-08T22:55:46.126Z",
+    "hwid": "3149362017-035ed42e-cca6-4eac-a188-cc88ead391ac",
+    "browserHwid": null,
+    "username": "gugudklol",
+    "userId": "3149362017",
+    "source": "script",
+    "createdAt": "2026-08-07T22:55:46.648Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.92.53.5",
+      "city": "Curitiba",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
