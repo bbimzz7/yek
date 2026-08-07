@@ -32277,5 +32277,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-2B9DDD-AA23CA-61B4BC": {
+    "expires": "2026-08-08T05:10:05.920Z",
+    "hwid": "6003674707-62d3ed65-2294-4378-8ce5-9ab7baed2bdf",
+    "browserHwid": null,
+    "username": "adity_6605",
+    "userId": "6003674707",
+    "source": "script",
+    "createdAt": "2026-08-07T05:10:06.587Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.10.225.212",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
