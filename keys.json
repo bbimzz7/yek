@@ -32830,5 +32830,22 @@
       "country": "Algeria",
       "cc": "DZ"
     }
+  },
+  "VH-EF7D30-7F6B8F-5575B7": {
+    "expires": "2026-08-08T20:24:02.841Z",
+    "hwid": "3417082914-d310f430-9b39-47a4-b0af-a4a7abfabcd9",
+    "browserHwid": null,
+    "username": "jhejhe_1223",
+    "userId": "3417082914",
+    "source": "script",
+    "createdAt": "2026-08-07T20:24:03.727Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.191.85.150",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
