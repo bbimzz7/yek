@@ -32445,5 +32445,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-953577-8B9AA3-D21987": {
+    "expires": "2026-08-08T11:10:21.217Z",
+    "hwid": "7149610454-10080e03-1f33-484c-a4d6-c779166767e6",
+    "browserHwid": null,
+    "username": "luhesoh1",
+    "userId": "7149610454",
+    "source": "script",
+    "createdAt": "2026-08-07T11:10:21.992Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "170.81.211.194",
+      "city": "Carapicuíba",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
