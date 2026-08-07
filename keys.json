@@ -32493,5 +32493,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-6DCBBF-B960E3-C1D184": {
+    "expires": "2026-08-08T11:13:52.111Z",
+    "hwid": "11435075130-e0c51797-b98a-4dd6-a280-5505cbced7eb",
+    "browserHwid": null,
+    "username": "Uuuuuuuaaaaamm",
+    "userId": "11435075130",
+    "source": "script",
+    "createdAt": "2026-08-07T11:13:52.565Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "106.73.188.64",
+      "city": "Funabashi",
+      "region": "Chiba",
+      "country": "Japan",
+      "cc": "JP"
+    }
   }
 }
