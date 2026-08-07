@@ -32310,9 +32310,16 @@
     "userId": "10978977674",
     "source": "script",
     "createdAt": "2026-08-07T05:24:49.447Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T05:26:01.955Z",
     "geo": {
       "ip": "202.65.233.217",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "203.17.81.241",
       "city": "Surabaya",
       "region": "East Java",
       "country": "Indonesia",
