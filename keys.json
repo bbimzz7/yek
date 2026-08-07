@@ -32878,5 +32878,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-335AE3-B6BB4A-449F17": {
+    "expires": "2026-08-08T22:02:02.607Z",
+    "hwid": "9089491038-da789996-4233-4c17-b84a-3cddb838a1f9",
+    "browserHwid": null,
+    "username": "jsjsjshola12307",
+    "userId": "9089491038",
+    "source": "script",
+    "createdAt": "2026-08-07T22:02:03.309Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.94.213.196",
+      "city": "Mariano Roque Alonso",
+      "region": "Central Department",
+      "country": "Paraguay",
+      "cc": "PY"
+    }
   }
 }
