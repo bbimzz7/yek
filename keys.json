@@ -32204,5 +32204,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-0BFA0E-7D0FCA-B660E6": {
+    "expires": "2026-08-08T03:21:00.772Z",
+    "hwid": "641783936-7ec5720d-463a-4c0b-9a10-fb8e7df127d6",
+    "browserHwid": null,
+    "username": "reginakagres",
+    "userId": "641783936",
+    "source": "script",
+    "createdAt": "2026-08-07T03:21:01.639Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.185.46.34",
+      "city": "Pamulang",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
