@@ -32478,8 +32478,15 @@
     "userId": "3936019600",
     "source": "script",
     "createdAt": "2026-08-07T11:12:04.814Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T11:12:13.416Z",
     "geo": {
+      "ip": "143.44.196.184",
+      "city": "Iloilo City",
+      "region": "Western Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "143.44.196.184",
       "city": "Iloilo City",
       "region": "Western Visayas",
