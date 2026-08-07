@@ -32397,5 +32397,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D7DBCC-A1FF25-43EFFB": {
+    "expires": "2026-08-08T10:36:12.533Z",
+    "hwid": "11260947102-e569c5c9-864d-4681-b824-b5cd9d73b0a3",
+    "browserHwid": null,
+    "username": "tian_maulana90",
+    "userId": "11260947102",
+    "source": "script",
+    "createdAt": "2026-08-07T10:36:13.261Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.34.163",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
