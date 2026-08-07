@@ -32863,8 +32863,15 @@
     "userId": "10302588421",
     "source": "script",
     "createdAt": "2026-08-07T21:22:00.897Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T21:22:11.454Z",
     "geo": {
+      "ip": "75.66.57.254",
+      "city": "Germantown",
+      "region": "Tennessee",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "75.66.57.254",
       "city": "Germantown",
       "region": "Tennessee",
