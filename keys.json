@@ -32286,8 +32286,15 @@
     "userId": "6003674707",
     "source": "script",
     "createdAt": "2026-08-07T05:10:06.587Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T05:12:01.993Z",
     "geo": {
+      "ip": "182.10.225.212",
+      "city": "Banda Aceh",
+      "region": "Aceh",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.10.225.212",
       "city": "Banda Aceh",
       "region": "Aceh",
