@@ -32887,8 +32887,15 @@
     "userId": "9089491038",
     "source": "script",
     "createdAt": "2026-08-07T22:02:03.309Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T22:06:06.700Z",
     "geo": {
+      "ip": "181.94.213.196",
+      "city": "Mariano Roque Alonso",
+      "region": "Central Department",
+      "country": "Paraguay",
+      "cc": "PY"
+    },
+    "lastGeo": {
       "ip": "181.94.213.196",
       "city": "Mariano Roque Alonso",
       "region": "Central Department",
