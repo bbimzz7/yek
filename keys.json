@@ -32791,8 +32791,15 @@
     "userId": "1079382734",
     "source": "script",
     "createdAt": "2026-08-07T17:50:50.652Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T17:52:06.291Z",
     "geo": {
+      "ip": "38.25.53.35",
+      "city": "Lima",
+      "region": "Lima Province",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
       "ip": "38.25.53.35",
       "city": "Lima",
       "region": "Lima Province",
