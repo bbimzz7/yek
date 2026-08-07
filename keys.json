@@ -32550,8 +32550,15 @@
     "userId": "7941460729",
     "source": "script",
     "createdAt": "2026-08-07T12:33:10.056Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T12:33:26.091Z",
     "geo": {
+      "ip": "103.121.49.37",
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "103.121.49.37",
       "city": "London",
       "region": "England",
