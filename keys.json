@@ -32228,5 +32228,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-675343-59E9FC-4E1B94": {
+    "expires": "2026-08-08T03:26:53.043Z",
+    "hwid": "11387602449-EE2E4B0C-73A3-4BE0-B12D-59FB58E3E218",
+    "browserHwid": null,
+    "username": "Tinha0001",
+    "userId": "11387602449",
+    "source": "script",
+    "createdAt": "2026-08-07T03:26:53.784Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.79.123.13",
+      "city": "Da Nang",
+      "region": "Da Nang",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
