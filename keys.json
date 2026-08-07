@@ -32950,5 +32950,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-FF6EC9-BAFD66-8A0A58": {
+    "expires": "2026-08-08T23:07:23.918Z",
+    "hwid": "4752131772-e7eb0652-fff1-4406-b124-1158a73cbcee",
+    "browserHwid": null,
+    "username": "Clarissa_tagalog11",
+    "userId": "4752131772",
+    "source": "script",
+    "createdAt": "2026-08-07T23:07:24.632Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.66.177",
+      "city": "Lahug",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
