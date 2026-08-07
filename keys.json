@@ -32301,5 +32301,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-788DC0-F9FA9F-2EC5F8": {
+    "expires": "2026-08-08T05:24:48.716Z",
+    "hwid": "10978977674-912b3a86-85d6-4e1e-8954-756d3515d067",
+    "browserHwid": null,
+    "username": "cicakMania0",
+    "userId": "10978977674",
+    "source": "script",
+    "createdAt": "2026-08-07T05:24:49.447Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.65.233.217",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
