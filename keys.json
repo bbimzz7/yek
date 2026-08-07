@@ -32382,11 +32382,18 @@
     "userId": "8478622463",
     "source": "script",
     "createdAt": "2026-08-07T09:32:25.746Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T09:32:34.505Z",
     "geo": {
       "ip": "180.191.126.199",
       "city": "Cagayan de Oro",
       "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "124.105.69.124",
+      "city": "Makati City",
+      "region": "Metro Manila",
       "country": "Philippines",
       "cc": "PH"
     }
