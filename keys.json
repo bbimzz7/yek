@@ -32310,7 +32310,7 @@
     "userId": "10978977674",
     "source": "script",
     "createdAt": "2026-08-07T05:24:49.447Z",
-    "lastUsed": "2026-08-07T05:26:01.955Z",
+    "lastUsed": "2026-08-07T05:29:31.669Z",
     "geo": {
       "ip": "202.65.233.217",
       "city": "Surabaya",
@@ -32319,7 +32319,7 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "203.17.81.241",
+      "ip": "202.65.233.217",
       "city": "Surabaya",
       "region": "East Java",
       "country": "Indonesia",
