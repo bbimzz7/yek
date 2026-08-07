@@ -32606,5 +32606,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F21AEE-4198CA-53ACDD": {
+    "expires": "2026-08-08T12:37:09.431Z",
+    "hwid": null,
+    "browserHwid": "BR-4DEE5325-SGRMH",
+    "username": "Casiee_ive",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-08-07T12:37:09.819Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.169.238.125",
+      "city": "Kotabumi",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
