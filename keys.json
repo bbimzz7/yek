@@ -32358,8 +32358,15 @@
     "userId": "11284915338",
     "source": "script",
     "createdAt": "2026-08-07T05:49:55.494Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T05:50:11.231Z",
     "geo": {
+      "ip": "95.82.84.125",
+      "city": "Shymkent",
+      "region": "Shymkent",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    },
+    "lastGeo": {
       "ip": "95.82.84.125",
       "city": "Shymkent",
       "region": "Shymkent",
