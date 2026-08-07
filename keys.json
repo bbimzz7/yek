@@ -32662,5 +32662,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-CD9594-AE4C3C-CBC3D2": {
+    "expires": "2026-08-08T14:26:10.264Z",
+    "hwid": "3553344963-2a89dc59-b553-4e1b-bfbb-79929628dc14",
+    "browserHwid": null,
+    "username": "naraslebeww",
+    "userId": "3553344963",
+    "source": "script",
+    "createdAt": "2026-08-07T14:26:11.010Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.3.51.175",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
