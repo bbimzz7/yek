@@ -32902,5 +32902,22 @@
       "country": "Paraguay",
       "cc": "PY"
     }
+  },
+  "VH-940CA4-63A87B-E8F988": {
+    "expires": "2026-08-08T22:52:12.758Z",
+    "hwid": "9528526420-C430DFE4-F922-446C-A847-DEA532BBFA6E",
+    "browserHwid": null,
+    "username": "bezir191",
+    "userId": "9528526420",
+    "source": "script",
+    "createdAt": "2026-08-07T22:52:13.486Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.47.134.118",
+      "city": "North Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
