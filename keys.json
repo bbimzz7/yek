@@ -32767,8 +32767,15 @@
     "userId": "8231631277",
     "source": "script",
     "createdAt": "2026-08-07T14:59:05.164Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T15:00:41.199Z",
     "geo": {
+      "ip": "180.254.77.52",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.254.77.52",
       "city": "Tangerang",
       "region": "Banten",
