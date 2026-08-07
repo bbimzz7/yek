@@ -32782,5 +32782,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F101D5-BC6438-1E9379": {
+    "expires": "2026-08-08T17:50:49.933Z",
+    "hwid": "1079382734-d66ea7be-3f02-4d91-81d7-b4f3d5a4d206",
+    "browserHwid": null,
+    "username": "milixboy",
+    "userId": "1079382734",
+    "source": "script",
+    "createdAt": "2026-08-07T17:50:50.652Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.25.53.35",
+      "city": "Lima",
+      "region": "Lima Province",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
