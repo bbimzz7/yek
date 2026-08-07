@@ -32734,5 +32734,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-279472-4CB0B5-D68620": {
+    "expires": "2026-08-08T14:54:21.504Z",
+    "hwid": "11423880002-e7f48904-c53f-4c92-8015-01a9a40c04d1",
+    "browserHwid": null,
+    "username": "Mrsixseven002",
+    "userId": "11423880002",
+    "source": "script",
+    "createdAt": "2026-08-07T14:54:22.299Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "181.174.231.94",
+      "city": "Pitalito",
+      "region": "Huila Department",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
