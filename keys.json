@@ -32454,8 +32454,15 @@
     "userId": "7149610454",
     "source": "script",
     "createdAt": "2026-08-07T11:10:21.992Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T11:10:30.456Z",
     "geo": {
+      "ip": "170.81.211.194",
+      "city": "Carapicuíba",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "170.81.211.194",
       "city": "Carapicuíba",
       "region": "São Paulo",
