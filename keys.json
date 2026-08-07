@@ -32839,8 +32839,15 @@
     "userId": "3417082914",
     "source": "script",
     "createdAt": "2026-08-07T20:24:03.727Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-07T20:24:15.905Z",
     "geo": {
+      "ip": "180.191.85.150",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "180.191.85.150",
       "city": "Cagayan de Oro",
       "region": "Northern Mindanao",
