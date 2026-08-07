@@ -32854,5 +32854,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-A9397D-481ADF-7949D5": {
+    "expires": "2026-08-08T21:22:00.111Z",
+    "hwid": "10302588421-8144fc2f-c43f-4c73-9238-59d8abc863a3",
+    "browserHwid": null,
+    "username": "jughy567",
+    "userId": "10302588421",
+    "source": "script",
+    "createdAt": "2026-08-07T21:22:00.897Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "75.66.57.254",
+      "city": "Germantown",
+      "region": "Tennessee",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
