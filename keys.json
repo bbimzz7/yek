@@ -33440,8 +33440,15 @@
     "userId": "6189619862",
     "source": "script",
     "createdAt": "2026-08-08T09:29:26.027Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T09:29:38.510Z",
     "geo": {
+      "ip": "27.49.8.19",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "27.49.8.19",
       "city": "Quezon City",
       "region": "Metro Manila",
