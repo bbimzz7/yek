@@ -33650,14 +33650,22 @@
   },
   "VH-9A999A-475D05-F1EE8E": {
     "expires": "2026-08-09T13:59:20.500Z",
-    "hwid": null,
+    "hwid": "11397143519-195f31b5-f66c-4b39-88f2-86ec07e14ea2",
     "browserHwid": "BR-3C41A3DE-KZYMK",
     "username": "PlisBalikinAkunKu8",
-    "userId": null,
+    "userId": "11397143519",
     "source": "browser",
     "createdAt": "2026-08-08T13:59:20.994Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T14:00:51.711Z",
     "geo": {
+      "ip": "125.165.87.82",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-08-08T14:00:51.687Z",
+    "lastGeo": {
       "ip": "125.165.87.82",
       "city": "West Jakarta",
       "region": "Jakarta",
