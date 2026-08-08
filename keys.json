@@ -33031,8 +33031,15 @@
     "userId": "11313038714",
     "source": "script",
     "createdAt": "2026-08-08T02:35:01.635Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T02:37:03.244Z",
     "geo": {
+      "ip": "14.228.124.120",
+      "city": "Ân Thi",
+      "region": "Hưng Yên Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "14.228.124.120",
       "city": "Ân Thi",
       "region": "Hưng Yên Province",
