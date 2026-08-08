@@ -33479,5 +33479,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-8F98B3-066205-C92940": {
+    "expires": "2026-08-09T10:51:13.659Z",
+    "hwid": "119780840-2259816f-5d54-42f6-8749-ac23c11344a8",
+    "browserHwid": null,
+    "username": "DarkAde1234",
+    "userId": "119780840",
+    "source": "script",
+    "createdAt": "2026-08-08T10:51:14.334Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.84.230.24",
+      "city": "Tanah Sereal",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
