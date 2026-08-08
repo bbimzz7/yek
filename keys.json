@@ -33142,5 +33142,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-1D9D93-9FCA4C-F5CDCD": {
+    "expires": "2026-08-09T06:06:24.841Z",
+    "hwid": "10974468056-7DCD8809-AF7D-4BBA-9123-9E1F5336D904",
+    "browserHwid": null,
+    "username": "ijustgetsonervy368",
+    "userId": "10974468056",
+    "source": "script",
+    "createdAt": "2026-08-08T06:06:25.342Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.76.50.214",
+      "city": "Ấp Xuân Sơn",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
