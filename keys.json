@@ -33416,8 +33416,15 @@
     "userId": "9981476785",
     "source": "script",
     "createdAt": "2026-08-08T09:02:32.179Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T09:02:46.559Z",
     "geo": {
+      "ip": "194.26.3.6",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "194.26.3.6",
       "city": "Frankfurt am Main",
       "region": "Hesse",
