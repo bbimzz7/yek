@@ -33295,8 +33295,15 @@
     "userId": "10089318732",
     "source": "script",
     "createdAt": "2026-08-08T08:17:01.630Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T08:17:47.851Z",
     "geo": {
+      "ip": "93.170.219.61",
+      "city": "Kyiv",
+      "region": "Kyiv City",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "93.170.219.61",
       "city": "Kyiv",
       "region": "Kyiv City",
