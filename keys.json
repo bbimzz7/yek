@@ -33094,5 +33094,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-0ACBBF-6CBD73-A9FDC7": {
+    "expires": "2026-08-09T05:33:57.467Z",
+    "hwid": "11406109515-4A67FE2B-0758-476B-B6D4-E08B77311E77",
+    "browserHwid": null,
+    "username": "13lol337",
+    "userId": "11406109515",
+    "source": "script",
+    "createdAt": "2026-08-08T05:33:58.214Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.59.105.144",
+      "city": "Istra",
+      "region": "Moscow Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
