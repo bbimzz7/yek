@@ -33214,5 +33214,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DA8643-086C7F-522CD7": {
+    "expires": "2026-08-09T06:39:08.294Z",
+    "hwid": "11432278648-dafd8cf7-4084-4c9d-852b-c9be2f381728",
+    "browserHwid": null,
+    "username": "dg38859",
+    "userId": "11432278648",
+    "source": "script",
+    "createdAt": "2026-08-08T06:39:09.014Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.143.49.175",
+      "city": "Komoro",
+      "region": "Nagano",
+      "country": "Japan",
+      "cc": "JP"
+    }
   }
 }
