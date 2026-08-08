@@ -32998,5 +32998,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-AA8B82-167C1D-22D785": {
+    "expires": "2026-08-09T02:19:49.920Z",
+    "hwid": "5283020616-9e5860fd-70d1-4e8c-89fc-7ba339c677d6",
+    "browserHwid": null,
+    "username": "tekdhgt",
+    "userId": "5283020616",
+    "source": "script",
+    "createdAt": "2026-08-08T02:19:50.707Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.167.252.3",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
