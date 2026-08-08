@@ -33753,8 +33753,15 @@
     "userId": "5198362299",
     "source": "script",
     "createdAt": "2026-08-08T19:36:06.062Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T19:37:10.075Z",
     "geo": {
+      "ip": "94.249.186.79",
+      "city": "Paris",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "94.249.186.79",
       "city": "Paris",
       "region": "Île-de-France",
