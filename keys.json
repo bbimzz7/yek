@@ -33223,8 +33223,15 @@
     "userId": "11432278648",
     "source": "script",
     "createdAt": "2026-08-08T06:39:09.014Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T06:41:31.496Z",
     "geo": {
+      "ip": "124.143.49.175",
+      "city": "Komoro",
+      "region": "Nagano",
+      "country": "Japan",
+      "cc": "JP"
+    },
+    "lastGeo": {
       "ip": "124.143.49.175",
       "city": "Komoro",
       "region": "Nagano",
