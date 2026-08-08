@@ -33672,5 +33672,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-1C708F-BC820A-9F0945": {
+    "expires": "2026-08-09T14:55:19.323Z",
+    "hwid": "10853535410-1195965E-23F2-4761-8388-D7013A0D20A4",
+    "browserHwid": null,
+    "username": "zelan_sedap",
+    "userId": "10853535410",
+    "source": "script",
+    "createdAt": "2026-08-08T14:55:20.067Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.255.125.234",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
