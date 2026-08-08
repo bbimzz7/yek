@@ -33527,5 +33527,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-990D91-EBFD81-253540": {
+    "expires": "2026-08-09T11:21:30.993Z",
+    "hwid": "9720148584-3a460657-584f-4636-b0d5-7befa39054af",
+    "browserHwid": null,
+    "username": "Alferez5993",
+    "userId": "9720148584",
+    "source": "script",
+    "createdAt": "2026-08-08T11:21:31.748Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.49.13.197",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
