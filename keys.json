@@ -33046,5 +33046,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-588EF4-3623C8-49A9C9": {
+    "expires": "2026-08-09T02:54:38.794Z",
+    "hwid": "5565575769-6588060c-71df-492a-98b9-3c451dffda15",
+    "browserHwid": null,
+    "username": "Lanzgardoqueofficial",
+    "userId": "5565575769",
+    "source": "script",
+    "createdAt": "2026-08-08T02:54:39.484Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.147.12.224",
+      "city": "Mandaluyong",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
