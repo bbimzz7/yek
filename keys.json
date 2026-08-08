@@ -33720,5 +33720,22 @@
       "country": "Belarus",
       "cc": "BY"
     }
+  },
+  "VH-800F81-8E2702-495179": {
+    "expires": "2026-08-09T18:46:29.385Z",
+    "hwid": "10788826353-bc6835f4-21ff-4df8-89b5-2f7434f88dbe",
+    "browserHwid": null,
+    "username": "4PixelNinja",
+    "userId": "10788826353",
+    "source": "script",
+    "createdAt": "2026-08-08T18:46:30.086Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.111.36",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
