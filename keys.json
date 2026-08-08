@@ -33503,5 +33503,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-264704-D9E428-41984E": {
+    "expires": "2026-08-09T10:58:53.716Z",
+    "hwid": "11445035888-d84647cd-7de1-4e2f-81b1-2353db880435",
+    "browserHwid": null,
+    "username": "helloam_955",
+    "userId": "11445035888",
+    "source": "script",
+    "createdAt": "2026-08-08T10:58:54.436Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.109.115.134",
+      "city": "Bằng Lũng",
+      "region": "Thai Nguyen",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
