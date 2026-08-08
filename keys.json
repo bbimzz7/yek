@@ -33488,8 +33488,15 @@
     "userId": "119780840",
     "source": "script",
     "createdAt": "2026-08-08T10:51:14.334Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T10:54:09.665Z",
     "geo": {
+      "ip": "103.84.230.24",
+      "city": "Tanah Sereal",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.84.230.24",
       "city": "Tanah Sereal",
       "region": "Jakarta",
