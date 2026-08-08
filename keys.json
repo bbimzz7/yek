@@ -33744,5 +33744,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E88E58-9EF6BA-65A21C": {
+    "expires": "2026-08-09T19:36:05.420Z",
+    "hwid": "5198362299-5b1e9d20-8c9b-4166-bca9-fdf65ad417b2",
+    "browserHwid": null,
+    "username": "Kyri_Xui31",
+    "userId": "5198362299",
+    "source": "script",
+    "createdAt": "2026-08-08T19:36:06.062Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "94.249.186.79",
+      "city": "Paris",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
