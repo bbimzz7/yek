@@ -33319,8 +33319,15 @@
     "userId": "3737866547",
     "source": "script",
     "createdAt": "2026-08-08T08:35:01.551Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T08:35:12.354Z",
     "geo": {
+      "ip": "104.28.163.231",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    },
+    "lastGeo": {
       "ip": "104.28.163.231",
       "city": "Singapore",
       "region": "North West",
