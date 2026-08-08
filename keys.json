@@ -33007,8 +33007,15 @@
     "userId": "5283020616",
     "source": "script",
     "createdAt": "2026-08-08T02:19:50.707Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T02:21:12.300Z",
     "geo": {
+      "ip": "14.167.252.3",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "14.167.252.3",
       "city": "Ho Chi Minh City",
       "region": "Ho Chi Minh City (HCMC)",
