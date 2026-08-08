@@ -33343,8 +33343,15 @@
     "userId": "11382716572",
     "source": "script",
     "createdAt": "2026-08-08T08:47:39.236Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T08:47:49.249Z",
     "geo": {
+      "ip": "180.247.5.23",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.247.5.23",
       "city": "Palu",
       "region": "Central Sulawesi",
