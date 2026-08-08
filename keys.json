@@ -33623,5 +33623,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-A37C64-7E8CE5-AC8B7E": {
+    "expires": "2026-08-09T13:54:25.439Z",
+    "hwid": "9439740680-6c51358a-1260-4b1e-b0f2-2c94022c379a",
+    "browserHwid": null,
+    "username": "DikriAF1",
+    "userId": "9439740680",
+    "source": "script",
+    "createdAt": "2026-08-08T13:54:26.108Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.61.66",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
