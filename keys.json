@@ -33696,5 +33696,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-302226-21667E-C51C83": {
+    "expires": "2026-08-09T15:10:47.826Z",
+    "hwid": "8344304069-65bcb382-b319-4f8f-9a0a-16eb8a16138e",
+    "browserHwid": null,
+    "username": "BAHIRA_G",
+    "userId": "8344304069",
+    "source": "script",
+    "createdAt": "2026-08-08T15:10:48.535Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.212.15.178",
+      "city": "Vitebsk",
+      "region": "Vitebsk",
+      "country": "Belarus",
+      "cc": "BY"
+    }
   }
 }
