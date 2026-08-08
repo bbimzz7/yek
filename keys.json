@@ -33358,5 +33358,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-ADC9F3-24FFB9-ED9358": {
+    "expires": "2026-08-09T08:50:59.230Z",
+    "hwid": null,
+    "browserHwid": "BR-34E9DB1E-3FD48",
+    "username": "ayrasaffaidk",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-08-08T08:50:59.781Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.135.30.25",
+      "city": "Kajang",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
