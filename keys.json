@@ -33431,5 +33431,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-EF7349-D984A7-72134C": {
+    "expires": "2026-08-09T09:29:25.323Z",
+    "hwid": "6189619862-fb2f153e-7a31-4492-a014-c989b3caa354",
+    "browserHwid": null,
+    "username": "Nobodycares_438",
+    "userId": "6189619862",
+    "source": "script",
+    "createdAt": "2026-08-08T09:29:26.027Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.49.8.19",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
