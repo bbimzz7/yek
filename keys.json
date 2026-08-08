@@ -33286,5 +33286,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CF4717-FDE48C-43DB5A": {
+    "expires": "2026-08-09T08:17:00.951Z",
+    "hwid": "10089318732-2461e1b5-f107-4a43-9413-2143d81c3a5f",
+    "browserHwid": null,
+    "username": "llallalalalalalall98",
+    "userId": "10089318732",
+    "source": "script",
+    "createdAt": "2026-08-08T08:17:01.630Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "93.170.219.61",
+      "city": "Kyiv",
+      "region": "Kyiv City",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
