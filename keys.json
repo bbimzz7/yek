@@ -33647,5 +33647,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9A999A-475D05-F1EE8E": {
+    "expires": "2026-08-09T13:59:20.500Z",
+    "hwid": null,
+    "browserHwid": "BR-3C41A3DE-KZYMK",
+    "username": "PlisBalikinAkunKu8",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-08-08T13:59:20.994Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.165.87.82",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
