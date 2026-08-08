@@ -33238,5 +33238,22 @@
       "country": "Japan",
       "cc": "JP"
     }
+  },
+  "VH-381F7D-3F9797-F4F879": {
+    "expires": "2026-08-09T06:58:59.256Z",
+    "hwid": "8686047142-b8524d97-6411-45d5-a5d8-a5f62f9d5ae8",
+    "browserHwid": null,
+    "username": "Abdan0993",
+    "userId": "8686047142",
+    "source": "script",
+    "createdAt": "2026-08-08T06:58:59.938Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.129.150.81",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
