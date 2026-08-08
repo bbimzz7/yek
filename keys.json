@@ -33334,5 +33334,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-B15E62-70D06A-CF8B46": {
+    "expires": "2026-08-09T08:47:38.563Z",
+    "hwid": "11382716572-2a9e008c-2b61-4ddc-b394-52dc475eafe9",
+    "browserHwid": null,
+    "username": "alfikry1238",
+    "userId": "11382716572",
+    "source": "script",
+    "createdAt": "2026-08-08T08:47:39.236Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.247.5.23",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
