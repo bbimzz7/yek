@@ -33022,5 +33022,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-1DA666-103B02-0C3D7F": {
+    "expires": "2026-08-09T02:35:00.942Z",
+    "hwid": "11313038714-4ed2b56f-e850-4f22-b637-2ac34851dfd8",
+    "browserHwid": null,
+    "username": "tendongian_1",
+    "userId": "11313038714",
+    "source": "script",
+    "createdAt": "2026-08-08T02:35:01.635Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.228.124.120",
+      "city": "Ân Thi",
+      "region": "Hưng Yên Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
