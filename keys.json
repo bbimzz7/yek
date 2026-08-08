@@ -33777,8 +33777,15 @@
     "userId": "5546069131",
     "source": "script",
     "createdAt": "2026-08-08T20:54:45.107Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T20:57:37.342Z",
     "geo": {
+      "ip": "191.242.121.23",
+      "city": "Montes Claros",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "191.242.121.23",
       "city": "Montes Claros",
       "region": "Minas Gerais",
