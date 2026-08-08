@@ -33575,5 +33575,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-D9EE85-D98991-59116F": {
+    "expires": "2026-08-09T12:15:03.024Z",
+    "hwid": "11428112121-0b46a282-d8b3-4d37-931d-048303193cbc",
+    "browserHwid": null,
+    "username": "uwuesjeerreje8w9w",
+    "userId": "11428112121",
+    "source": "script",
+    "createdAt": "2026-08-08T12:15:03.850Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.66.231",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
