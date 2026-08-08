@@ -33127,8 +33127,15 @@
     "userId": "3116762211",
     "source": "script",
     "createdAt": "2026-08-08T06:02:24.250Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T06:04:08.513Z",
     "geo": {
+      "ip": "115.76.50.214",
+      "city": "Ấp Xuân Sơn",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "115.76.50.214",
       "city": "Ấp Xuân Sơn",
       "region": "Ho Chi Minh City (HCMC)",
