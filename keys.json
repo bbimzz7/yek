@@ -33512,8 +33512,15 @@
     "userId": "11445035888",
     "source": "script",
     "createdAt": "2026-08-08T10:58:54.436Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T10:59:37.197Z",
     "geo": {
+      "ip": "116.109.115.134",
+      "city": "Bằng Lũng",
+      "region": "Thai Nguyen",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "116.109.115.134",
       "city": "Bằng Lũng",
       "region": "Thai Nguyen",
