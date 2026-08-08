@@ -33768,5 +33768,22 @@
       "country": "France",
       "cc": "FR"
     }
+  },
+  "VH-23D984-E66153-5523B4": {
+    "expires": "2026-08-09T20:54:44.379Z",
+    "hwid": "5546069131-985e1b59-3d48-4d7d-b44c-8b4993c193d2",
+    "browserHwid": null,
+    "username": "taleso_o",
+    "userId": "5546069131",
+    "source": "script",
+    "createdAt": "2026-08-08T20:54:45.107Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.242.121.23",
+      "city": "Montes Claros",
+      "region": "Minas Gerais",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
