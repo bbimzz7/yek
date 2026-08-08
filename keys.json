@@ -33118,5 +33118,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-6F627A-1D9759-0FD542": {
+    "expires": "2026-08-09T06:02:23.483Z",
+    "hwid": "3116762211-425a5041-b628-4253-822e-4cfc14b3dd7c",
+    "browserHwid": null,
+    "username": "darklegend2kvnpro",
+    "userId": "3116762211",
+    "source": "script",
+    "createdAt": "2026-08-08T06:02:24.250Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.76.50.214",
+      "city": "Ấp Xuân Sơn",
+      "region": "Ho Chi Minh City (HCMC)",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
