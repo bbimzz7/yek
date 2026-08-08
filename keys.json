@@ -33705,8 +33705,15 @@
     "userId": "8344304069",
     "source": "script",
     "createdAt": "2026-08-08T15:10:48.535Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T15:11:26.259Z",
     "geo": {
+      "ip": "37.212.15.178",
+      "city": "Vitebsk",
+      "region": "Vitebsk",
+      "country": "Belarus",
+      "cc": "BY"
+    },
+    "lastGeo": {
       "ip": "37.212.15.178",
       "city": "Vitebsk",
       "region": "Vitebsk",
