@@ -33361,14 +33361,22 @@
   },
   "VH-ADC9F3-24FFB9-ED9358": {
     "expires": "2026-08-09T08:50:59.230Z",
-    "hwid": null,
+    "hwid": "11142463878-bd5e326f-6541-42a5-a258-b9bcf179dc0f",
     "browserHwid": "BR-34E9DB1E-3FD48",
     "username": "ayrasaffaidk",
-    "userId": null,
+    "userId": "11142463878",
     "source": "browser",
     "createdAt": "2026-08-08T08:50:59.781Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-08T08:53:04.815Z",
     "geo": {
+      "ip": "115.135.30.25",
+      "city": "Kajang",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "boundAt": "2026-08-08T08:53:04.800Z",
+    "lastGeo": {
       "ip": "115.135.30.25",
       "city": "Kajang",
       "region": "Selangor",
