@@ -34467,5 +34467,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-413142-A994A5-E2855E": {
+    "expires": "2026-08-10T17:35:30.534Z",
+    "hwid": "8855648980-2fe3f922-aa96-4fcb-bdc8-f39bd1f5c730",
+    "browserHwid": null,
+    "username": "Brayan565488",
+    "userId": "8855648980",
+    "source": "script",
+    "createdAt": "2026-08-09T17:35:31.235Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.249.175.68",
+      "city": "Guadalajara",
+      "region": "Jalisco",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
