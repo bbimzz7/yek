@@ -34428,8 +34428,15 @@
     "userId": "11427187821",
     "source": "script",
     "createdAt": "2026-08-09T13:46:30.502Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-09T13:46:46.407Z",
     "geo": {
+      "ip": "180.247.61.66",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.247.61.66",
       "city": "Bekasi",
       "region": "West Java",
