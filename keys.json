@@ -34162,5 +34162,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D2964A-3E4A27-1AB6BF": {
+    "expires": "2026-08-10T08:16:57.303Z",
+    "hwid": "7988007209-51ade145-2ea5-434b-ba33-4f7a07481680",
+    "browserHwid": null,
+    "username": "Aleysha_6655",
+    "userId": "7988007209",
+    "source": "script",
+    "createdAt": "2026-08-09T08:16:58.013Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.75.234.64",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
