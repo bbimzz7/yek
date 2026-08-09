@@ -34032,5 +34032,22 @@
       "country": "Saudi Arabia",
       "cc": "SA"
     }
+  },
+  "VH-F83EA6-F59EAA-AD6DBC": {
+    "expires": "2026-08-10T07:12:30.955Z",
+    "hwid": "10852873823-cf755722-6d38-42f4-b1c4-9b961aa7d002",
+    "browserHwid": null,
+    "username": "LOLO_bardox",
+    "userId": "10852873823",
+    "source": "script",
+    "createdAt": "2026-08-09T07:12:31.699Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "150.228.225.113",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
