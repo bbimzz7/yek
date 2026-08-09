@@ -34234,5 +34234,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-18D9DB-254155-42342D": {
+    "expires": "2026-08-10T09:25:00.651Z",
+    "hwid": "2553846030-d04263be-6f4d-41a4-8d44-080805c4d6af",
+    "browserHwid": null,
+    "username": "jeyuuu999",
+    "userId": "2553846030",
+    "source": "script",
+    "createdAt": "2026-08-09T09:25:01.430Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.220.181",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
