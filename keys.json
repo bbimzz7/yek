@@ -34114,5 +34114,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-CB466E-487837-9C53BA": {
+    "expires": "2026-08-10T08:14:05.740Z",
+    "hwid": "7760317140-8b3e5658-d0d2-41f5-9ff3-c987a42c7d92",
+    "browserHwid": null,
+    "username": "iamjeff24081",
+    "userId": "7760317140",
+    "source": "script",
+    "createdAt": "2026-08-09T08:14:06.464Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.82.35",
+      "city": "Tanza",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
