@@ -33912,5 +33912,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-23489D-7A3049-3CB360": {
+    "expires": "2026-08-10T03:04:57.136Z",
+    "hwid": "7603084250-365febe1-601f-4747-9554-9d8a3b0d13b2",
+    "browserHwid": null,
+    "username": "1x1x1x1x1x11516",
+    "userId": "7603084250",
+    "source": "script",
+    "createdAt": "2026-08-09T03:04:57.851Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.143.157.132",
+      "city": "Guatemala City",
+      "region": "Guatemala",
+      "country": "Guatemala",
+      "cc": "GT"
+    }
   }
 }
