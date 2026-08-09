@@ -34147,8 +34147,15 @@
     "userId": "11041160584",
     "source": "script",
     "createdAt": "2026-08-09T08:14:15.285Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-09T08:16:09.558Z",
     "geo": {
+      "ip": "103.170.18.97",
+      "city": "Jose Pañganiban",
+      "region": "Bicol Region",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "103.170.18.97",
       "city": "Jose Pañganiban",
       "region": "Bicol Region",
