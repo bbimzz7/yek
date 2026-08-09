@@ -34282,5 +34282,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-56CBC6-D8761B-715EDF": {
+    "expires": "2026-08-10T10:26:12.549Z",
+    "hwid": null,
+    "browserHwid": "BR-64B54F54-T7J23",
+    "username": "Gg",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-08-09T10:26:13.298Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.81.65.68",
+      "city": "Sukoharjo Satu",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
