@@ -33888,5 +33888,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-12F756-775E4A-2A124C": {
+    "expires": "2026-08-10T02:08:14.659Z",
+    "hwid": "9465304243-e2c28350-03df-45f8-96e0-2333ce5fac3d",
+    "browserHwid": null,
+    "username": "Drianna_772",
+    "userId": "9465304243",
+    "source": "script",
+    "createdAt": "2026-08-09T02:08:15.391Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.93.95.227",
+      "city": "Binangonan",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
