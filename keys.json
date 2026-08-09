@@ -33960,5 +33960,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-17BBAC-F75A29-4B6570": {
+    "expires": "2026-08-10T06:07:52.640Z",
+    "hwid": "11445839288-34320026-0ded-4a0c-aced-f20fae4239fc",
+    "browserHwid": null,
+    "username": "goodboyy15104",
+    "userId": "11445839288",
+    "source": "script",
+    "createdAt": "2026-08-09T06:07:53.320Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.147.246.235",
+      "city": "Curug",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
