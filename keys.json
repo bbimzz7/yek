@@ -34443,5 +34443,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9907EE-BCDE35-F2C46A": {
+    "expires": "2026-08-10T15:37:09.776Z",
+    "hwid": "7248775577-38c6f2ba-9240-4e3c-87d5-02c1196ca35b",
+    "browserHwid": null,
+    "username": "Xavier_lovesx",
+    "userId": "7248775577",
+    "source": "script",
+    "createdAt": "2026-08-09T15:37:10.433Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.211.93.14",
+      "city": "Dasmariñas",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
