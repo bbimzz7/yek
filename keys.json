@@ -34017,8 +34017,15 @@
     "userId": "7155661024",
     "source": "script",
     "createdAt": "2026-08-09T06:18:02.882Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-09T06:18:50.239Z",
     "geo": {
+      "ip": "37.243.85.95",
+      "city": "Abha",
+      "region": "'Asir Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    },
+    "lastGeo": {
       "ip": "37.243.85.95",
       "city": "Abha",
       "region": "'Asir Region",
