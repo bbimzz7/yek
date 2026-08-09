@@ -34323,5 +34323,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5EE1C4-B46EF5-0B4E0A": {
+    "expires": "2026-08-10T10:49:51.019Z",
+    "hwid": "8648188926-8870e397-0442-4712-8327-20706bfc7e77",
+    "browserHwid": null,
+    "username": "Pink_vzxz",
+    "userId": "8648188926",
+    "source": "script",
+    "createdAt": "2026-08-09T10:49:51.785Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "98.37.114.40",
+      "city": "Salinas",
+      "region": "California",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
