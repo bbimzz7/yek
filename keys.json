@@ -34299,5 +34299,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4B0CE5-BC0DA1-0DB2AC": {
+    "expires": "2026-08-10T10:40:10.380Z",
+    "hwid": "10673635347-4fe7e724-ddad-446e-aab5-6efac7a597d2",
+    "browserHwid": null,
+    "username": "nandgntgg",
+    "userId": "10673635347",
+    "source": "script",
+    "createdAt": "2026-08-09T10:40:11.166Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.12.254",
+      "city": "Jatiluhur",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
