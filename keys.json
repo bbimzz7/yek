@@ -34090,5 +34090,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-07511D-E59FC2-963F84": {
+    "expires": "2026-08-10T07:39:16.897Z",
+    "hwid": "11445953291-d8f6bc6a-12ee-4840-a11e-9c8ca6328ff0",
+    "browserHwid": null,
+    "username": "Ne_oN2345",
+    "userId": "11445953291",
+    "source": "script",
+    "createdAt": "2026-08-09T07:39:17.457Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "194.9.14.176",
+      "city": "Chernihiv",
+      "region": "Chernihiv Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
