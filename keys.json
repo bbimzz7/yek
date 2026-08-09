@@ -33849,8 +33849,15 @@
     "userId": "2417441171",
     "source": "script",
     "createdAt": "2026-08-09T00:43:49.971Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-09T00:50:14.987Z",
     "geo": {
+      "ip": "136.158.78.120",
+      "city": "Calamba",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.78.120",
       "city": "Calamba",
       "region": "Calabarzon",
