@@ -34123,8 +34123,15 @@
     "userId": "7760317140",
     "source": "script",
     "createdAt": "2026-08-09T08:14:06.464Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-09T08:15:40.102Z",
     "geo": {
+      "ip": "136.158.82.35",
+      "city": "Tanza",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.82.35",
       "city": "Tanza",
       "region": "Calabarzon",
