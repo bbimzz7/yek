@@ -34524,8 +34524,15 @@
     "userId": "3990027011",
     "source": "script",
     "createdAt": "2026-08-09T20:24:40.477Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-09T20:26:35.744Z",
     "geo": {
+      "ip": "93.116.48.46",
+      "city": "Telenesti",
+      "region": "Teleneşti",
+      "country": "Moldova",
+      "cc": "MD"
+    },
+    "lastGeo": {
       "ip": "93.116.48.46",
       "city": "Telenesti",
       "region": "Teleneşti",
