@@ -34539,5 +34539,22 @@
       "country": "Moldova",
       "cc": "MD"
     }
+  },
+  "VH-069558-166BA9-B2133F": {
+    "expires": "2026-08-10T20:29:12.375Z",
+    "hwid": "10689883970-32b1f689-6658-4ddb-a3c4-788b01250b9e",
+    "browserHwid": null,
+    "username": "Mimejoramigoyoniellu",
+    "userId": "10689883970",
+    "source": "script",
+    "createdAt": "2026-08-09T20:29:12.898Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.51.121.16",
+      "city": "Punto Fijo",
+      "region": "Falcón",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
