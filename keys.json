@@ -34099,8 +34099,15 @@
     "userId": "11445953291",
     "source": "script",
     "createdAt": "2026-08-09T07:39:17.457Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-09T07:41:47.687Z",
     "geo": {
+      "ip": "194.9.14.176",
+      "city": "Chernihiv",
+      "region": "Chernihiv Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "194.9.14.176",
       "city": "Chernihiv",
       "region": "Chernihiv Oblast",
