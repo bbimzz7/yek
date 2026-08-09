@@ -33816,5 +33816,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-0DAD54-4104F6-88831D": {
+    "expires": "2026-08-10T00:40:10.170Z",
+    "hwid": "2461197742-85237324-34a1-4ff3-aa4b-94afd1b4e025",
+    "browserHwid": null,
+    "username": "Tower_02752",
+    "userId": "2461197742",
+    "source": "script",
+    "createdAt": "2026-08-09T00:40:10.996Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.146.113.20",
+      "city": "Baku",
+      "region": "Baku City",
+      "country": "Azerbaijan",
+      "cc": "AZ"
+    }
   }
 }
