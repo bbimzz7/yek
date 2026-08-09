@@ -34395,5 +34395,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-F46F0F-35FC62-7BB0BD": {
+    "expires": "2026-08-10T12:09:30.271Z",
+    "hwid": "11411223400-b0362753-1b41-4eeb-9cb8-3f709773d713",
+    "browserHwid": null,
+    "username": "SATANNATAS7",
+    "userId": "11411223400",
+    "source": "script",
+    "createdAt": "2026-08-09T12:09:30.959Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.70.133.241",
+      "city": "Ciranjang-hilir",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
