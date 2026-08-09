@@ -34195,8 +34195,15 @@
     "userId": "9630962694",
     "source": "script",
     "createdAt": "2026-08-09T08:24:19.949Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-09T08:24:30.240Z",
     "geo": {
+      "ip": "120.29.110.175",
+      "city": "Bahay Pare",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "120.29.110.175",
       "city": "Bahay Pare",
       "region": "Central Luzon",
