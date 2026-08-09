@@ -34219,11 +34219,18 @@
     "userId": "9974003028",
     "source": "script",
     "createdAt": "2026-08-09T08:27:24.346Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-09T08:28:57.842Z",
     "geo": {
       "ip": "36.83.65.17",
       "city": "Makassar",
       "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "202.65.229.108",
+      "city": "Surabaya",
+      "region": "East Java",
       "country": "Indonesia",
       "cc": "ID"
     }
