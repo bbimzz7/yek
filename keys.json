@@ -33825,8 +33825,15 @@
     "userId": "2461197742",
     "source": "script",
     "createdAt": "2026-08-09T00:40:10.996Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-09T00:42:07.987Z",
     "geo": {
+      "ip": "185.146.113.20",
+      "city": "Baku",
+      "region": "Baku City",
+      "country": "Azerbaijan",
+      "cc": "AZ"
+    },
+    "lastGeo": {
       "ip": "185.146.113.20",
       "city": "Baku",
       "region": "Baku City",
