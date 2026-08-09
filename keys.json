@@ -34186,5 +34186,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-653621-803601-65A834": {
+    "expires": "2026-08-10T08:24:19.222Z",
+    "hwid": "9630962694-df94d9cc-68bc-479b-87f4-7dd5c4d0a082",
+    "browserHwid": null,
+    "username": "Elspanos8",
+    "userId": "9630962694",
+    "source": "script",
+    "createdAt": "2026-08-09T08:24:19.949Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "120.29.110.175",
+      "city": "Bahay Pare",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
