@@ -34491,5 +34491,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-F916E8-BA5CF5-22BEE6": {
+    "expires": "2026-08-10T18:37:45.163Z",
+    "hwid": "3193503878-5a0a7a1a-cfce-401c-a75f-f89208b3a0c9",
+    "browserHwid": null,
+    "username": "WahyuTrust",
+    "userId": "3193503878",
+    "source": "script",
+    "createdAt": "2026-08-09T18:37:45.859Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.129.150.70",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
