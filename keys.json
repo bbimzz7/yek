@@ -33864,5 +33864,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E3A45A-9E3022-4E203E": {
+    "expires": "2026-08-10T01:41:46.138Z",
+    "hwid": "10223862754-cd4803cb-23c1-4926-91d9-c701ea7d9aff",
+    "browserHwid": null,
+    "username": "roblox_user_10223862754",
+    "userId": "10223862754",
+    "source": "script",
+    "createdAt": "2026-08-09T01:41:46.831Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.187.245.6",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
