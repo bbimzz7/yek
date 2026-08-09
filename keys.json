@@ -34308,8 +34308,15 @@
     "userId": "10673635347",
     "source": "script",
     "createdAt": "2026-08-09T10:40:11.166Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-09T10:41:29.391Z",
     "geo": {
+      "ip": "114.10.12.254",
+      "city": "Jatiluhur",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.12.254",
       "city": "Jatiluhur",
       "region": "West Java",
