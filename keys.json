@@ -33993,8 +33993,15 @@
     "userId": "4348544312",
     "source": "script",
     "createdAt": "2026-08-09T06:13:53.076Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-09T06:15:16.614Z",
     "geo": {
+      "ip": "72.44.30.113",
+      "city": "Almirante Tamandaré",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "72.44.30.113",
       "city": "Almirante Tamandaré",
       "region": "Paraná",
