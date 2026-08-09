@@ -34500,8 +34500,15 @@
     "userId": "3193503878",
     "source": "script",
     "createdAt": "2026-08-09T18:37:45.859Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-09T18:37:55.862Z",
     "geo": {
+      "ip": "103.129.150.70",
+      "city": "Pekanbaru",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.129.150.70",
       "city": "Pekanbaru",
       "region": "Riau",
