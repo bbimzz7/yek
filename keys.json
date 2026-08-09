@@ -34210,5 +34210,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D53CAF-4E660C-37EEA2": {
+    "expires": "2026-08-10T08:27:23.643Z",
+    "hwid": "9974003028-36e4e78b-be82-4731-b67a-e5e2a7c5420e",
+    "browserHwid": null,
+    "username": "nalllzzzOp",
+    "userId": "9974003028",
+    "source": "script",
+    "createdAt": "2026-08-09T08:27:24.346Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.83.65.17",
+      "city": "Makassar",
+      "region": "South Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
