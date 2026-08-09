@@ -33984,5 +33984,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-630E59-E5F137-85B299": {
+    "expires": "2026-08-10T06:13:52.362Z",
+    "hwid": "4348544312-5c804bea-db09-472b-9d59-8f98c35ca65c",
+    "browserHwid": null,
+    "username": "luan1fereira",
+    "userId": "4348544312",
+    "source": "script",
+    "createdAt": "2026-08-09T06:13:53.076Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "72.44.30.113",
+      "city": "Almirante Tamandaré",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
