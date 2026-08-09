@@ -34515,5 +34515,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-73FD5E-3D4720-59174D": {
+    "expires": "2026-08-10T20:24:39.782Z",
+    "hwid": "3990027011-3b14c4d8-8c5b-47d4-b3a3-8ae6df278252",
+    "browserHwid": null,
+    "username": "mariusggggfdr",
+    "userId": "3990027011",
+    "source": "script",
+    "createdAt": "2026-08-09T20:24:40.477Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "93.116.48.46",
+      "city": "Telenesti",
+      "region": "Teleneşti",
+      "country": "Moldova",
+      "cc": "MD"
+    }
   }
 }
