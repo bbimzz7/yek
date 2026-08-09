@@ -33792,5 +33792,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-7ED244-7132DA-CECEBE": {
+    "expires": "2026-08-10T00:15:32.743Z",
+    "hwid": "11431084021-8496c8dd-4ad4-40ec-836a-4dc373e738f7",
+    "browserHwid": null,
+    "username": "spiderman_75477",
+    "userId": "11431084021",
+    "source": "script",
+    "createdAt": "2026-08-09T00:15:33.476Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.191.69.80",
+      "city": "Valencia",
+      "region": "Carabobo",
+      "country": "Venezuela",
+      "cc": "VE"
+    }
   }
 }
