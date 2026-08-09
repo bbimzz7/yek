@@ -34008,5 +34008,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-EBC0BE-8D83B5-6F9317": {
+    "expires": "2026-08-10T06:18:02.362Z",
+    "hwid": "7155661024-f6d4d020-d9d7-42eb-85d0-e112f8bee8b2",
+    "browserHwid": null,
+    "username": "jhslhhgkg_9",
+    "userId": "7155661024",
+    "source": "script",
+    "createdAt": "2026-08-09T06:18:02.882Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.243.85.95",
+      "city": "Abha",
+      "region": "'Asir Region",
+      "country": "Saudi Arabia",
+      "cc": "SA"
+    }
   }
 }
