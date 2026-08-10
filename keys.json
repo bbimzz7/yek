@@ -35318,5 +35318,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-BD29A1-04C583-6C203F": {
+    "expires": "2026-08-11T20:36:22.784Z",
+    "hwid": "8989576861-923689f6-9f05-4935-8df0-74a26e9a7fc5",
+    "browserHwid": null,
+    "username": "mmgacpt",
+    "userId": "8989576861",
+    "source": "script",
+    "createdAt": "2026-08-10T20:36:23.563Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.6.107.223",
+      "city": "Abaetetuba",
+      "region": "Pará",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
