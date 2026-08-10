@@ -35294,5 +35294,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-0C8CD4-A44633-E4547B": {
+    "expires": "2026-08-11T20:20:47.997Z",
+    "hwid": "1375627942-42509065-b117-46e0-a7cf-60924f78e647",
+    "browserHwid": null,
+    "username": "cute_kenli",
+    "userId": "1375627942",
+    "source": "script",
+    "createdAt": "2026-08-10T20:20:48.690Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "100.11.198.113",
+      "city": "Philadelphia",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
