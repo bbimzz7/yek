@@ -35303,8 +35303,15 @@
     "userId": "1375627942",
     "source": "script",
     "createdAt": "2026-08-10T20:20:48.690Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-10T20:21:03.910Z",
     "geo": {
+      "ip": "100.11.198.113",
+      "city": "Philadelphia",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "100.11.198.113",
       "city": "Philadelphia",
       "region": "Pennsylvania",
