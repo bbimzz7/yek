@@ -35327,8 +35327,15 @@
     "userId": "8989576861",
     "source": "script",
     "createdAt": "2026-08-10T20:36:23.563Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-10T20:36:32.095Z",
     "geo": {
+      "ip": "191.6.107.223",
+      "city": "Abaetetuba",
+      "region": "Pará",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "191.6.107.223",
       "city": "Abaetetuba",
       "region": "Pará",
