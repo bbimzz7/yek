@@ -35013,5 +35013,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-D3E13C-C4363E-6E1F27": {
+    "expires": "2026-08-11T12:28:35.413Z",
+    "hwid": "10944869751-817dd7ef-d7d3-4802-bda7-bb30a366e3f6",
+    "browserHwid": null,
+    "username": "limon_37957",
+    "userId": "10944869751",
+    "source": "script",
+    "createdAt": "2026-08-10T12:28:35.921Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "83.234.177.254",
+      "city": "Belgorod",
+      "region": "Belgorod Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
