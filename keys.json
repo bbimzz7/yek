@@ -34974,8 +34974,15 @@
     "userId": "5862219553",
     "source": "script",
     "createdAt": "2026-08-10T12:22:49.080Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-10T12:22:55.096Z",
     "geo": {
+      "ip": "31.19.105.3",
+      "city": "Emden",
+      "region": "Lower Saxony",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "31.19.105.3",
       "city": "Emden",
       "region": "Lower Saxony",
