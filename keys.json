@@ -34635,5 +34635,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-1632C0-F51A0F-E10012": {
+    "expires": "2026-08-11T04:24:37.269Z",
+    "hwid": "2974094767-2122e017-bd6c-4eb7-bf48-15b7a5cf438a",
+    "browserHwid": null,
+    "username": "GarFiU9xd",
+    "userId": "2974094767",
+    "source": "script",
+    "createdAt": "2026-08-10T04:24:37.974Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.97.161.69",
+      "city": "Managua",
+      "region": "Managua Department",
+      "country": "Nicaragua",
+      "cc": "NI"
+    }
   }
 }
