@@ -34707,5 +34707,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-2002CB-95C13B-9047D0": {
+    "expires": "2026-08-11T05:53:47.116Z",
+    "hwid": "3825749248-ed1a3c58-e828-4239-93e3-ba8b35653979",
+    "browserHwid": null,
+    "username": "Lobytheinkling",
+    "userId": "3825749248",
+    "source": "script",
+    "createdAt": "2026-08-10T05:53:47.882Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.148.113.136",
+      "city": "Lehigh Acres",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
