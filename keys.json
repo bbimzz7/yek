@@ -34668,8 +34668,15 @@
     "userId": "7500958264",
     "source": "script",
     "createdAt": "2026-08-10T04:28:58.043Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-10T04:29:17.370Z",
     "geo": {
+      "ip": "180.247.45.8",
+      "city": "Palu",
+      "region": "Central Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.247.45.8",
       "city": "Palu",
       "region": "Central Sulawesi",
