@@ -35070,8 +35070,15 @@
     "userId": "10995258237",
     "source": "script",
     "createdAt": "2026-08-10T13:36:45.199Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-10T13:36:58.148Z",
     "geo": {
+      "ip": "2.121.30.144",
+      "city": "Scarborough",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "2.121.30.144",
       "city": "Scarborough",
       "region": "England",
