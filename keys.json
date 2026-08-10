@@ -34572,8 +34572,15 @@
     "userId": "8402798075",
     "source": "script",
     "createdAt": "2026-08-10T00:35:08.063Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-10T00:35:18.174Z",
     "geo": {
+      "ip": "38.224.140.121",
+      "city": "San Andrés",
+      "region": "San Andres y Providencia",
+      "country": "Colombia",
+      "cc": "CO"
+    },
+    "lastGeo": {
       "ip": "38.224.140.121",
       "city": "San Andrés",
       "region": "San Andres y Providencia",
