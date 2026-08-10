@@ -35142,10 +35142,17 @@
     "userId": "11244327237",
     "source": "script",
     "createdAt": "2026-08-10T14:59:19.274Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-10T15:00:56.103Z",
     "geo": {
       "ip": "124.107.163.239",
       "city": "Marikina City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "119.92.83.241",
+      "city": "Taguig",
       "region": "Metro Manila",
       "country": "Philippines",
       "cc": "PH"
