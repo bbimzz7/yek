@@ -35085,5 +35085,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-8B93DB-0B51BF-03B998": {
+    "expires": "2026-08-11T14:28:44.036Z",
+    "hwid": "4229625686-a391e232-9394-4d2d-8e1e-5b5844c4ec04",
+    "browserHwid": null,
+    "username": "aimery_144",
+    "userId": "4229625686",
+    "source": "script",
+    "createdAt": "2026-08-10T14:28:44.887Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "213.222.87.9",
+      "city": "Paris",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    }
   }
 }
