@@ -34731,5 +34731,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-DA4E1C-08D0DE-FF439C": {
+    "expires": "2026-08-11T06:53:05.902Z",
+    "hwid": "11415528228-533dd20c-3555-424b-be64-164b6088d623",
+    "browserHwid": null,
+    "username": "Heybabair",
+    "userId": "11415528228",
+    "source": "script",
+    "createdAt": "2026-08-10T06:53:06.616Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "35.129.8.248",
+      "city": "St Louis",
+      "region": "Missouri",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
