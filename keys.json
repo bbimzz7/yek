@@ -34764,8 +34764,15 @@
     "userId": "4652965822",
     "source": "script",
     "createdAt": "2026-08-10T07:50:07.065Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-10T07:51:09.691Z",
     "geo": {
+      "ip": "187.173.172.69",
+      "city": "Iguala de la Independencia",
+      "region": "Guerrero",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.173.172.69",
       "city": "Iguala de la Independencia",
       "region": "Guerrero",
