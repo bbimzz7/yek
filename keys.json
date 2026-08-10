@@ -35342,5 +35342,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-1E7450-D9E935-914654": {
+    "expires": "2026-08-11T23:18:51.901Z",
+    "hwid": "5361162391-8d646c8b-2443-4a91-bcfa-ca473a03fcd7",
+    "browserHwid": null,
+    "username": "Amirwars466168",
+    "userId": "5361162391",
+    "source": "script",
+    "createdAt": "2026-08-10T23:18:52.560Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.37.27.152",
+      "city": "Buffalo",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
