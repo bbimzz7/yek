@@ -34782,14 +34782,22 @@
   },
   "VH-405F93-FDC8D5-0D0D84": {
     "expires": "2026-08-11T07:56:17.918Z",
-    "hwid": null,
+    "hwid": "11020006191-d46d3855-22f5-4ec4-b066-7dbb9c0241d6",
     "browserHwid": "BR-290F7665-931EP",
-    "username": "Irengggl7",
-    "userId": null,
+    "username": "irengggl7",
+    "userId": "11020006191",
     "source": "browser",
     "createdAt": "2026-08-10T07:56:18.715Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-10T07:58:49.797Z",
     "geo": {
+      "ip": "157.66.122.211",
+      "city": "Selat Panjang",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-08-10T07:58:49.773Z",
+    "lastGeo": {
       "ip": "157.66.122.211",
       "city": "Selat Panjang",
       "region": "Riau",
