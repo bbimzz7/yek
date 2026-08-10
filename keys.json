@@ -35037,5 +35037,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-D0AD9F-DE785B-DA6C42": {
+    "expires": "2026-08-11T13:35:51.249Z",
+    "hwid": "10661847743-2269b4ce-3579-4d7f-ae38-4a84e057e009",
+    "browserHwid": null,
+    "username": "Dentrilist",
+    "userId": "10661847743",
+    "source": "script",
+    "createdAt": "2026-08-10T13:35:52.017Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.62.235.17",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
