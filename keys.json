@@ -34683,5 +34683,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A88CB6-ECE012-0F27D6": {
+    "expires": "2026-08-11T05:08:02.375Z",
+    "hwid": "3328632062-4b434802-4a77-4ca0-95e5-a2786b101f80",
+    "browserHwid": null,
+    "username": "Oyen090999",
+    "userId": "3328632062",
+    "source": "script",
+    "createdAt": "2026-08-10T05:08:03.055Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.63.116.168",
+      "city": "Kuching",
+      "region": "Sarawak",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
