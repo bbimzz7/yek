@@ -35094,8 +35094,15 @@
     "userId": "4229625686",
     "source": "script",
     "createdAt": "2026-08-10T14:28:44.887Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-10T14:28:58.345Z",
     "geo": {
+      "ip": "213.222.87.9",
+      "city": "Paris",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    },
+    "lastGeo": {
       "ip": "213.222.87.9",
       "city": "Paris",
       "region": "Île-de-France",
