@@ -35166,8 +35166,15 @@
     "userId": "7883846399",
     "source": "script",
     "createdAt": "2026-08-10T15:52:50.245Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-10T15:54:14.275Z",
     "geo": {
+      "ip": "49.37.10.170",
+      "city": "Kolkata",
+      "region": "West Bengal",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "49.37.10.170",
       "city": "Kolkata",
       "region": "West Bengal",
