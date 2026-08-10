@@ -34933,8 +34933,15 @@
     "userId": "5091110827",
     "source": "script",
     "createdAt": "2026-08-10T12:03:17.065Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-10T12:03:26.900Z",
     "geo": {
+      "ip": "125.160.221.225",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.160.221.225",
       "city": "Tangerang",
       "region": "Banten",
