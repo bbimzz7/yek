@@ -34852,5 +34852,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DE5875-428454-95C483": {
+    "expires": "2026-08-11T10:26:24.364Z",
+    "hwid": "5634144566-9fa6ee11-5fdc-469e-a2bf-82d3e65acd4b",
+    "browserHwid": null,
+    "username": "Makoi462",
+    "userId": "5634144566",
+    "source": "script",
+    "createdAt": "2026-08-10T10:26:25.066Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.51.148",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
