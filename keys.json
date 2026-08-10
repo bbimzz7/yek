@@ -34563,5 +34563,22 @@
       "country": "Venezuela",
       "cc": "VE"
     }
+  },
+  "VH-0CD2B9-75F24D-D8FB80": {
+    "expires": "2026-08-11T00:35:07.256Z",
+    "hwid": "8402798075-569cd421-26ce-445c-b51b-2741493caad7",
+    "browserHwid": null,
+    "username": "JULIANITO712",
+    "userId": "8402798075",
+    "source": "script",
+    "createdAt": "2026-08-10T00:35:08.063Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.224.140.121",
+      "city": "San Andrés",
+      "region": "San Andres y Providencia",
+      "country": "Colombia",
+      "cc": "CO"
+    }
   }
 }
