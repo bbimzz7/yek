@@ -35246,5 +35246,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-9A71F7-883965-FB4321": {
+    "expires": "2026-08-11T17:57:08.312Z",
+    "hwid": "5306789165-65de9551-f481-432b-a751-302075bdd91a",
+    "browserHwid": null,
+    "username": "Dark_SpiritDC",
+    "userId": "5306789165",
+    "source": "script",
+    "createdAt": "2026-08-10T17:57:09.059Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.131.1",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
