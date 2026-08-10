@@ -34740,8 +34740,15 @@
     "userId": "11415528228",
     "source": "script",
     "createdAt": "2026-08-10T06:53:06.616Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-10T06:53:54.432Z",
     "geo": {
+      "ip": "35.129.8.248",
+      "city": "St Louis",
+      "region": "Missouri",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "35.129.8.248",
       "city": "St Louis",
       "region": "Missouri",
