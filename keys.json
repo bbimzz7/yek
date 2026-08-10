@@ -34996,5 +34996,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-1063E9-3D084E-FCDDAD": {
+    "expires": "2026-08-11T12:26:59.242Z",
+    "hwid": "9861521918-d5335e76-f259-4ff6-8d10-5ce524124663",
+    "browserHwid": null,
+    "username": "suzeraint4",
+    "userId": "9861521918",
+    "source": "script",
+    "createdAt": "2026-08-10T12:26:59.629Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.49.190.212",
+      "city": "Taytay",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
