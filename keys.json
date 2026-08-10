@@ -34965,5 +34965,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-AB210D-DFC921-A59823": {
+    "expires": "2026-08-11T12:22:48.457Z",
+    "hwid": "5862219553-63F31A14-90D1-4D95-9DBB-AB7A3ECF66DE",
+    "browserHwid": null,
+    "username": "Ozerskie",
+    "userId": "5862219553",
+    "source": "script",
+    "createdAt": "2026-08-10T12:22:49.080Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "31.19.105.3",
+      "city": "Emden",
+      "region": "Lower Saxony",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
