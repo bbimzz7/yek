@@ -35118,8 +35118,15 @@
     "userId": "4533227478",
     "source": "script",
     "createdAt": "2026-08-10T14:34:53.070Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-10T14:35:03.890Z",
     "geo": {
+      "ip": "105.235.138.2",
+      "city": "Timimoun",
+      "region": "Timimoun",
+      "country": "Algeria",
+      "cc": "DZ"
+    },
+    "lastGeo": {
       "ip": "105.235.138.2",
       "city": "Timimoun",
       "region": "Timimoun",
