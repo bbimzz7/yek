@@ -35270,5 +35270,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-FE2521-D767D8-DDDF37": {
+    "expires": "2026-08-11T20:10:32.200Z",
+    "hwid": "9009087535-059ca5d8-727d-42e4-a65f-eb59182529a1",
+    "browserHwid": null,
+    "username": "gabito95pro",
+    "userId": "9009087535",
+    "source": "script",
+    "createdAt": "2026-08-10T20:10:32.936Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "153.67.119.146",
+      "city": "Mexico City",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
