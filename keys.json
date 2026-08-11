@@ -35519,8 +35519,15 @@
     "userId": "9820873670",
     "source": "script",
     "createdAt": "2026-08-11T09:01:09.801Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-11T09:02:40.554Z",
     "geo": {
+      "ip": "49.151.135.222",
+      "city": "Dagupan",
+      "region": "Ilocos",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "49.151.135.222",
       "city": "Dagupan",
       "region": "Ilocos",
