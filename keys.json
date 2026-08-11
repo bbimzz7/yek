@@ -35390,5 +35390,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-AA8D46-EF9F40-2F3EC8": {
+    "expires": "2026-08-12T03:08:22.426Z",
+    "hwid": "11349943261-ce7f3463-ce8f-4f70-a3f1-cad22c658924",
+    "browserHwid": null,
+    "username": "vungpo3",
+    "userId": "11349943261",
+    "source": "script",
+    "createdAt": "2026-08-11T03:08:23.244Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.252.189.114",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
