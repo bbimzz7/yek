@@ -35608,13 +35608,20 @@
     "userId": "403037635",
     "source": "script",
     "createdAt": "2026-08-11T10:33:49.038Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-11T10:35:28.370Z",
     "geo": {
       "ip": "81.214.171.8",
       "city": "Istanbul",
       "region": "Istanbul",
       "country": "Türkiye",
       "cc": "TR"
+    },
+    "lastGeo": {
+      "ip": "103.216.221.113",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
     }
   }
 }
