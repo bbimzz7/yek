@@ -35671,5 +35671,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4CCA90-8AE17F-967CF7": {
+    "expires": "2026-08-12T11:41:21.570Z",
+    "hwid": "8984738298-78943264-64c5-436a-bc8c-4784c3d12f66",
+    "browserHwid": null,
+    "username": "Lins127802",
+    "userId": "8984738298",
+    "source": "script",
+    "createdAt": "2026-08-11T11:41:22.489Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.223.72.213",
+      "city": "Jonava",
+      "region": "Kaunas",
+      "country": "Lithuania",
+      "cc": "LT"
+    }
   }
 }
