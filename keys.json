@@ -35551,5 +35551,22 @@
       "country": "Türkiye",
       "cc": "TR"
     }
+  },
+  "VH-DDA1E7-7791D4-2CF05D": {
+    "expires": "2026-08-12T10:16:23.686Z",
+    "hwid": "11318223630-702892dc-fad9-4d63-a83e-9d8f1b501012",
+    "browserHwid": null,
+    "username": "atu_dj0",
+    "userId": "11318223630",
+    "source": "script",
+    "createdAt": "2026-08-11T10:16:24.580Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "42.118.113.38",
+      "city": "Hanoi",
+      "region": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
