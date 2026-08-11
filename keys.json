@@ -35495,11 +35495,18 @@
     "userId": "7117525929",
     "source": "script",
     "createdAt": "2026-08-11T07:22:19.408Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-11T07:23:21.917Z",
     "geo": {
       "ip": "49.145.115.104",
       "city": "Cebu City",
       "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "122.52.207.59",
+      "city": "Makati City",
+      "region": "Metro Manila",
       "country": "Philippines",
       "cc": "PH"
     }
