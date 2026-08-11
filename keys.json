@@ -35752,8 +35752,15 @@
     "userId": "10633806772",
     "source": "script",
     "createdAt": "2026-08-11T14:04:34.253Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-11T14:04:43.669Z",
     "geo": {
+      "ip": "182.11.129.52",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.11.129.52",
       "city": "Pontianak",
       "region": "West Kalimantan",
