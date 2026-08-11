@@ -35743,5 +35743,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7C259B-3C0278-5159F3": {
+    "expires": "2026-08-12T14:04:33.406Z",
+    "hwid": "10633806772-c2909ce6-64d6-4b6c-a315-532aa94c6cda",
+    "browserHwid": null,
+    "username": "ShinFlower121",
+    "userId": "10633806772",
+    "source": "script",
+    "createdAt": "2026-08-11T14:04:34.253Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.11.129.52",
+      "city": "Pontianak",
+      "region": "West Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
