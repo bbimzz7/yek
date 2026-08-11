@@ -35647,5 +35647,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-CDB310-FF945F-1D868E": {
+    "expires": "2026-08-12T11:00:08.651Z",
+    "hwid": "11472914227-7890383d-5594-4968-8698-4c09d13aa136",
+    "browserHwid": null,
+    "username": "ATHAKEMALANDIKA",
+    "userId": "11472914227",
+    "source": "script",
+    "createdAt": "2026-08-11T11:00:09.310Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.77.194.228",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
