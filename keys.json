@@ -35680,8 +35680,15 @@
     "userId": "8984738298",
     "source": "script",
     "createdAt": "2026-08-11T11:41:22.489Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-11T11:45:33.739Z",
     "geo": {
+      "ip": "88.223.72.213",
+      "city": "Jonava",
+      "region": "Kaunas",
+      "country": "Lithuania",
+      "cc": "LT"
+    },
+    "lastGeo": {
       "ip": "88.223.72.213",
       "city": "Jonava",
       "region": "Kaunas",
