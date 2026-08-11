@@ -35366,5 +35366,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-7753DA-471738-4D085A": {
+    "expires": "2026-08-12T01:41:22.617Z",
+    "hwid": "8321811399-8AC0E62E-1274-4E6B-873E-6CC03D70D3FB",
+    "browserHwid": null,
+    "username": "shadow_sae23",
+    "userId": "8321811399",
+    "source": "script",
+    "createdAt": "2026-08-11T01:41:23.369Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "131.72.84.36",
+      "city": "Maringá",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
