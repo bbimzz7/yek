@@ -35584,8 +35584,15 @@
     "userId": "9310240770",
     "source": "script",
     "createdAt": "2026-08-11T10:24:18.892Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-11T10:26:09.952Z",
     "geo": {
+      "ip": "198.244.233.189",
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "198.244.233.189",
       "city": "London",
       "region": "England",
