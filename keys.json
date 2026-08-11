@@ -35575,5 +35575,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-B4970B-38674F-E67C03": {
+    "expires": "2026-08-12T10:24:18.130Z",
+    "hwid": "9310240770-ec217edf-0126-42af-b1cb-ffdbefc7b2f4",
+    "browserHwid": null,
+    "username": "STAR4k_916",
+    "userId": "9310240770",
+    "source": "script",
+    "createdAt": "2026-08-11T10:24:18.892Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "198.244.233.189",
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
