@@ -35719,5 +35719,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-A3AAB7-FAA139-B696C5": {
+    "expires": "2026-08-12T12:43:11.295Z",
+    "hwid": "7651435768-98258e85-aba9-4abf-a203-1011b3f06b3e",
+    "browserHwid": null,
+    "username": "kakgemsigma5",
+    "userId": "7651435768",
+    "source": "script",
+    "createdAt": "2026-08-11T12:43:12.059Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.253.63.6",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
