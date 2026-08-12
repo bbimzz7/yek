@@ -35863,5 +35863,22 @@
       "country": "Peru",
       "cc": "PE"
     }
+  },
+  "VH-3D202E-02769D-C0B801": {
+    "expires": "2026-08-13T02:40:02.845Z",
+    "hwid": "11327053680-5a6fd655-e2cd-46c8-9036-b6d4d8ea107f",
+    "browserHwid": null,
+    "username": "splushy66",
+    "userId": "11327053680",
+    "source": "script",
+    "createdAt": "2026-08-12T02:40:03.597Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "212.241.27.75",
+      "city": "Bishkek",
+      "region": "Bishkek",
+      "country": "Kyrgyzstan",
+      "cc": "KG"
+    }
   }
 }
