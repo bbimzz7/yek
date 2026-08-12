@@ -36233,8 +36233,15 @@
     "userId": "11171060512",
     "source": "script",
     "createdAt": "2026-08-12T13:22:12.796Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-12T13:22:27.144Z",
     "geo": {
+      "ip": "111.94.191.205",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "111.94.191.205",
       "city": "Bekasi",
       "region": "West Java",
