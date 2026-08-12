@@ -36378,5 +36378,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-9843CF-989C1A-B2C586": {
+    "expires": "2026-08-13T23:58:14.540Z",
+    "hwid": "5574064633-79e5c850-f18a-472f-8489-b9cad6bd7c85",
+    "browserHwid": null,
+    "username": "bujoyforever22",
+    "userId": "5574064633",
+    "source": "script",
+    "createdAt": "2026-08-12T23:58:15.343Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "136.158.10.16",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
