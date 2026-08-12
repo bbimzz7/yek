@@ -36007,5 +36007,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-66AF74-F86547-C24AA3": {
+    "expires": "2026-08-13T07:57:17.091Z",
+    "hwid": "3722547862-222cff96-13bf-49d3-b2f7-d244e6ca7b17",
+    "browserHwid": null,
+    "username": "L3pozx",
+    "userId": "3722547862",
+    "source": "script",
+    "createdAt": "2026-08-12T07:57:18.339Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.1.210",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
