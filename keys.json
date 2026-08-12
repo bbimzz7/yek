@@ -35848,8 +35848,15 @@
     "userId": "11162597373",
     "source": "script",
     "createdAt": "2026-08-12T02:22:24.946Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-12T02:22:59.317Z",
     "geo": {
+      "ip": "201.218.150.99",
+      "city": "Arequipa",
+      "region": "Arequipa",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
       "ip": "201.218.150.99",
       "city": "Arequipa",
       "region": "Arequipa",
