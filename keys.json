@@ -36344,5 +36344,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-7858D0-CA30F1-78E74E": {
+    "expires": "2026-08-13T16:35:00.354Z",
+    "hwid": null,
+    "browserHwid": "BR-78A63B14-CQQPE",
+    "username": "Dylanga5834e",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-08-12T16:35:00.899Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.190.123.110",
+      "city": "Joinville",
+      "region": "Santa Catarina",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
