@@ -35920,8 +35920,15 @@
     "userId": "3859046950",
     "source": "script",
     "createdAt": "2026-08-12T05:12:51.410Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-12T05:14:39.313Z",
     "geo": {
+      "ip": "149.255.216.9",
+      "city": "Basra",
+      "region": "Basra Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "149.255.216.9",
       "city": "Basra",
       "region": "Basra Governorate",
