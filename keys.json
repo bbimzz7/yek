@@ -36152,5 +36152,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-CFD136-D54A9F-50469C": {
+    "expires": "2026-08-13T10:02:55.761Z",
+    "hwid": "6182750161-974cab30-b8ce-42e7-b8d9-c474fcb0b908",
+    "browserHwid": null,
+    "username": "the_strongestman785",
+    "userId": "6182750161",
+    "source": "script",
+    "createdAt": "2026-08-12T10:02:56.572Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.191.84.15",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
