@@ -35992,8 +35992,15 @@
     "userId": "11320028703",
     "source": "script",
     "createdAt": "2026-08-12T06:22:57.232Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-12T06:23:10.109Z",
     "geo": {
+      "ip": "110.168.246.78",
+      "city": "Songkhla",
+      "region": "Songkhla",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "110.168.246.78",
       "city": "Songkhla",
       "region": "Songkhla",
