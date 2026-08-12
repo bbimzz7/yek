@@ -36056,5 +36056,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-437D01-B38EA0-E00A4B": {
+    "expires": "2026-08-13T08:33:02.468Z",
+    "hwid": "11434028706-67d025f0-2c30-4aa6-b74a-6339cbbe8c23",
+    "browserHwid": null,
+    "username": "UEQZ1",
+    "userId": "11434028706",
+    "source": "script",
+    "createdAt": "2026-08-12T08:33:03.263Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "115.84.118.197",
+      "city": "Vientiane",
+      "region": "Vientiane Prefecture",
+      "country": "Laos",
+      "cc": "LA"
+    }
   }
 }
