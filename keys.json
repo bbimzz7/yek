@@ -36104,5 +36104,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-180456-F09E8E-993E2A": {
+    "expires": "2026-08-13T08:52:44.211Z",
+    "hwid": "7434009928-7A7002E3-B3E1-4975-8D60-10DC51A5F8B6",
+    "browserHwid": null,
+    "username": "arturik629",
+    "userId": "7434009928",
+    "source": "script",
+    "createdAt": "2026-08-12T08:52:44.854Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.215.184.130",
+      "city": "Narva",
+      "region": "Ida-Virumaa",
+      "country": "Estonia",
+      "cc": "EE"
+    }
   }
 }
