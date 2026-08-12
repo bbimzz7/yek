@@ -35839,5 +35839,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-22753C-81A5C2-D71FBB": {
+    "expires": "2026-08-13T02:22:24.137Z",
+    "hwid": "11162597373-7427ed51-e331-4805-a69e-dc001a04b62d",
+    "browserHwid": null,
+    "username": "sstifleri",
+    "userId": "11162597373",
+    "source": "script",
+    "createdAt": "2026-08-12T02:22:24.946Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.218.150.99",
+      "city": "Arequipa",
+      "region": "Arequipa",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
