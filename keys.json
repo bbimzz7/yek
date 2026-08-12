@@ -36128,5 +36128,22 @@
       "country": "Estonia",
       "cc": "EE"
     }
+  },
+  "VH-7839A9-4E6F9F-6723CA": {
+    "expires": "2026-08-13T09:49:28.076Z",
+    "hwid": "10656224459-f14e8c1b-9a4e-4359-879b-ae82cf891fc2",
+    "browserHwid": null,
+    "username": "Official_kate52642",
+    "userId": "10656224459",
+    "source": "script",
+    "createdAt": "2026-08-12T09:49:28.818Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "124.217.125.62",
+      "city": "Davao City",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
