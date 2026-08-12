@@ -36065,8 +36065,15 @@
     "userId": "11434028706",
     "source": "script",
     "createdAt": "2026-08-12T08:33:03.263Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-12T08:34:18.034Z",
     "geo": {
+      "ip": "115.84.118.197",
+      "city": "Vientiane",
+      "region": "Vientiane Prefecture",
+      "country": "Laos",
+      "cc": "LA"
+    },
+    "lastGeo": {
       "ip": "115.84.118.197",
       "city": "Vientiane",
       "region": "Vientiane Prefecture",
