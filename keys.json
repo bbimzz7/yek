@@ -35983,5 +35983,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-85FF2A-373471-682EE8": {
+    "expires": "2026-08-13T06:22:56.737Z",
+    "hwid": "11320028703-49694ec6-29aa-49bc-a969-9e64dd891774",
+    "browserHwid": null,
+    "username": "asfffw94",
+    "userId": "11320028703",
+    "source": "script",
+    "createdAt": "2026-08-12T06:22:57.232Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.168.246.78",
+      "city": "Songkhla",
+      "region": "Songkhla",
+      "country": "Thailand",
+      "cc": "TH"
+    }
   }
 }
