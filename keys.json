@@ -35887,5 +35887,22 @@
       "country": "Kyrgyzstan",
       "cc": "KG"
     }
+  },
+  "VH-E8AC5A-966D10-5F4333": {
+    "expires": "2026-08-13T04:10:37.195Z",
+    "hwid": "8909963132-c09bcf05-5471-4737-ae7b-0817dc1623f8",
+    "browserHwid": null,
+    "username": "Cyppa_aja",
+    "userId": "8909963132",
+    "source": "script",
+    "createdAt": "2026-08-12T04:10:37.936Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.103.193.146",
+      "city": "South Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
