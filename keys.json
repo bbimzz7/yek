@@ -36113,8 +36113,15 @@
     "userId": "7434009928",
     "source": "script",
     "createdAt": "2026-08-12T08:52:44.854Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-12T08:52:53.613Z",
     "geo": {
+      "ip": "185.215.184.130",
+      "city": "Narva",
+      "region": "Ida-Virumaa",
+      "country": "Estonia",
+      "cc": "EE"
+    },
+    "lastGeo": {
       "ip": "185.215.184.130",
       "city": "Narva",
       "region": "Ida-Virumaa",
