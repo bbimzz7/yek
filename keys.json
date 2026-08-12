@@ -36027,14 +36027,22 @@
   },
   "VH-0CDF3E-FE9ED3-DD08F2": {
     "expires": "2026-08-13T07:59:13.381Z",
-    "hwid": null,
+    "hwid": "11157284157-72792ad6-a101-4a1b-b850-0a47bcfa0463",
     "browserHwid": "BR-30C11BC4-QVM0E",
     "username": "wizzz_12333",
-    "userId": null,
+    "userId": "11157284157",
     "source": "browser",
     "createdAt": "2026-08-12T07:59:13.931Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-12T08:02:14.477Z",
     "geo": {
+      "ip": "114.10.82.67",
+      "city": "Medan",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-08-12T08:02:14.451Z",
+    "lastGeo": {
       "ip": "114.10.82.67",
       "city": "Medan",
       "region": "North Sumatra",
