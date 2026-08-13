@@ -37085,5 +37085,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3FEC42-8709CD-4FD69A": {
+    "expires": "2026-08-14T22:47:58.670Z",
+    "hwid": "3967561447-5ad342a2-3609-45fe-b9c4-e502ba8678bc",
+    "browserHwid": null,
+    "username": "Fofa_Uchiha10",
+    "userId": "3967561447",
+    "source": "script",
+    "createdAt": "2026-08-13T22:47:59.469Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.116.92.215",
+      "city": "Caxias do Sul",
+      "region": "Rio Grande do Sul",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
