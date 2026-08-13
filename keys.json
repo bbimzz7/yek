@@ -36700,8 +36700,15 @@
     "userId": "11127559451",
     "source": "script",
     "createdAt": "2026-08-13T07:55:18.954Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-13T07:55:34.091Z",
     "geo": {
+      "ip": "103.176.94.166",
+      "city": "Rengat",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.176.94.166",
       "city": "Rengat",
       "region": "Riau",
