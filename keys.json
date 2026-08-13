@@ -37046,8 +37046,15 @@
     "userId": "11080417081",
     "source": "script",
     "createdAt": "2026-08-13T18:21:07.214Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-13T18:22:34.621Z",
     "geo": {
+      "ip": "95.25.8.36",
+      "city": "Astrakhan",
+      "region": "Astrakhan Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "95.25.8.36",
       "city": "Astrakhan",
       "region": "Astrakhan Oblast",
