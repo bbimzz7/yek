@@ -36426,5 +36426,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-4A753D-7EC020-E07B42": {
+    "expires": "2026-08-14T02:51:14.890Z",
+    "hwid": null,
+    "browserHwid": "BR-4FD060A9-2FYR0",
+    "username": "bossKVZ",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-08-13T02:51:15.829Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "131.226.107.100",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
