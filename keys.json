@@ -37070,8 +37070,15 @@
     "userId": "8811120197",
     "source": "script",
     "createdAt": "2026-08-13T19:35:37.144Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-13T19:37:04.932Z",
     "geo": {
+      "ip": "182.8.100.206",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "182.8.100.206",
       "city": "Surabaya",
       "region": "East Java",
