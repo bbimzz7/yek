@@ -36676,8 +36676,15 @@
     "userId": "8130521988",
     "source": "script",
     "createdAt": "2026-08-13T07:47:37.033Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-13T07:49:22.809Z",
     "geo": {
+      "ip": "223.25.110.185",
+      "city": "Sulo",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "223.25.110.185",
       "city": "Sulo",
       "region": "Central Java",
