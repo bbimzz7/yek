@@ -36667,5 +36667,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3F2BC1-B65871-6B40BF": {
+    "expires": "2026-08-14T07:47:36.266Z",
+    "hwid": "8130521988-7b035b1a-8aac-4ce1-879d-d3f2a2df0af8",
+    "browserHwid": null,
+    "username": "HS_56HS",
+    "userId": "8130521988",
+    "source": "script",
+    "createdAt": "2026-08-13T07:47:37.033Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "223.25.110.185",
+      "city": "Sulo",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
