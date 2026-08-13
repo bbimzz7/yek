@@ -36508,8 +36508,15 @@
     "userId": "11419929403",
     "source": "script",
     "createdAt": "2026-08-13T04:27:33.727Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-13T04:29:50.473Z",
     "geo": {
+      "ip": "119.247.223.188",
+      "city": "Fanling",
+      "region": "North District",
+      "country": "Hong Kong",
+      "cc": "HK"
+    },
+    "lastGeo": {
       "ip": "119.247.223.188",
       "city": "Fanling",
       "region": "North District",
