@@ -36571,5 +36571,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-2729A6-866C8E-1ADE8C": {
+    "expires": "2026-08-14T05:59:48.163Z",
+    "hwid": "7166236855-A10FAA69-7608-4C94-9AFF-6881FF5C4427",
+    "browserHwid": null,
+    "username": "jerryterry156",
+    "userId": "7166236855",
+    "source": "script",
+    "createdAt": "2026-08-13T05:59:48.945Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.28.163.38",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    }
   }
 }
