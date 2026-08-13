@@ -36499,5 +36499,22 @@
       "country": "Myanmar",
       "cc": "MM"
     }
+  },
+  "VH-73CF5B-6B3253-619781": {
+    "expires": "2026-08-14T04:27:32.825Z",
+    "hwid": "11419929403-71a93367-fdbf-49ed-870b-df0a4ccf79a1",
+    "browserHwid": null,
+    "username": "ishsh062",
+    "userId": "11419929403",
+    "source": "script",
+    "createdAt": "2026-08-13T04:27:33.727Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "119.247.223.188",
+      "city": "Fanling",
+      "region": "North District",
+      "country": "Hong Kong",
+      "cc": "HK"
+    }
   }
 }
