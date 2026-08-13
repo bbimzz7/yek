@@ -36402,5 +36402,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-E361E5-32ED48-EF85BC": {
+    "expires": "2026-08-14T01:21:00.743Z",
+    "hwid": "11482052090-2fd97480-af35-4467-ae25-9f7c4f8edfac",
+    "browserHwid": null,
+    "username": "mendoanrebusssssssss",
+    "userId": "11482052090",
+    "source": "script",
+    "createdAt": "2026-08-13T01:21:01.498Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.42.23",
+      "city": "North Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
