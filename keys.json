@@ -36868,8 +36868,15 @@
     "userId": "4192671267",
     "source": "script",
     "createdAt": "2026-08-13T11:42:11.654Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-13T11:42:20.883Z",
     "geo": {
+      "ip": "104.28.154.252",
+      "city": "Kocasinan",
+      "region": "Istanbul",
+      "country": "Türkiye",
+      "cc": "TR"
+    },
+    "lastGeo": {
       "ip": "104.28.154.252",
       "city": "Kocasinan",
       "region": "Istanbul",
