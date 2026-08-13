@@ -36643,5 +36643,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-D5EC3B-706772-50DDEB": {
+    "expires": "2026-08-14T07:14:15.841Z",
+    "hwid": "7916792539-5cea267e-80e7-4261-a801-69a9efd6dbc6",
+    "browserHwid": null,
+    "username": "FrostYTR43",
+    "userId": "7916792539",
+    "source": "script",
+    "createdAt": "2026-08-13T07:14:16.572Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.85.218.27",
+      "city": "Manado",
+      "region": "North Sulawesi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
