@@ -37037,5 +37037,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-2CC315-A7C0E7-B0B88C": {
+    "expires": "2026-08-14T18:21:06.402Z",
+    "hwid": "11080417081-592d2625-cb81-4b90-a018-8fc916f34580",
+    "browserHwid": null,
+    "username": "serheoramos2000",
+    "userId": "11080417081",
+    "source": "script",
+    "createdAt": "2026-08-13T18:21:07.214Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "95.25.8.36",
+      "city": "Astrakhan",
+      "region": "Astrakhan Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
