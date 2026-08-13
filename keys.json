@@ -36595,5 +36595,22 @@
       "country": "Singapore",
       "cc": "SG"
     }
+  },
+  "VH-2B460A-74ACA3-242A18": {
+    "expires": "2026-08-14T06:44:34.106Z",
+    "hwid": "10733824539-853260ac-906d-4f1e-8240-05c18421d611",
+    "browserHwid": null,
+    "username": "Schcrulle",
+    "userId": "10733824539",
+    "source": "script",
+    "createdAt": "2026-08-13T06:44:34.784Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.255.156.61",
+      "city": "Bogor",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
