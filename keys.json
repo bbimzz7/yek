@@ -36916,8 +36916,15 @@
     "userId": "7638938936",
     "source": "script",
     "createdAt": "2026-08-13T13:45:23.347Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-13T13:46:12.287Z",
     "geo": {
+      "ip": "24.14.17.114",
+      "city": "Saint Joseph",
+      "region": "Michigan",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "24.14.17.114",
       "city": "Saint Joseph",
       "region": "Michigan",
