@@ -36619,5 +36619,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C5CBDB-AF1114-D21937": {
+    "expires": "2026-08-14T07:09:37.820Z",
+    "hwid": "11464251920-08fd746e-c4a2-40e1-8f74-097a76c10b34",
+    "browserHwid": null,
+    "username": "matnicklaiday",
+    "userId": "11464251920",
+    "source": "script",
+    "createdAt": "2026-08-13T07:09:38.664Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.225.209.205",
+      "city": "Haiphong",
+      "region": "Haiphong",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
