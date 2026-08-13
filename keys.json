@@ -36892,8 +36892,15 @@
     "userId": "8980572098",
     "source": "script",
     "createdAt": "2026-08-13T11:56:12.097Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-13T11:57:42.055Z",
     "geo": {
+      "ip": "154.204.4.60",
+      "city": "Sterling",
+      "region": "Virginia",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "154.204.4.60",
       "city": "Sterling",
       "region": "Virginia",
