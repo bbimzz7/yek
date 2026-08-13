@@ -36691,5 +36691,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-C9E982-FEC478-2F9116": {
+    "expires": "2026-08-14T07:55:18.128Z",
+    "hwid": "11127559451-17bd0aa3-5102-4913-b008-0aab822bf7da",
+    "browserHwid": null,
+    "username": "Jenifery14",
+    "userId": "11127559451",
+    "source": "script",
+    "createdAt": "2026-08-13T07:55:18.954Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.176.94.166",
+      "city": "Rengat",
+      "region": "Riau",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
