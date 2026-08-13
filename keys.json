@@ -36907,5 +36907,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-0DD363-443526-4525BA": {
+    "expires": "2026-08-14T13:45:22.581Z",
+    "hwid": "7638938936-636c79e2-7128-469a-ac4d-1484be76b5a2",
+    "browserHwid": null,
+    "username": "ardazu_11898",
+    "userId": "7638938936",
+    "source": "script",
+    "createdAt": "2026-08-13T13:45:23.347Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.14.17.114",
+      "city": "Saint Joseph",
+      "region": "Michigan",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
