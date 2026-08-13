@@ -36580,8 +36580,15 @@
     "userId": "7166236855",
     "source": "script",
     "createdAt": "2026-08-13T05:59:48.945Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-13T05:59:58.092Z",
     "geo": {
+      "ip": "104.28.163.38",
+      "city": "Singapore",
+      "region": "North West",
+      "country": "Singapore",
+      "cc": "SG"
+    },
+    "lastGeo": {
       "ip": "104.28.163.38",
       "city": "Singapore",
       "region": "North West",
