@@ -36628,8 +36628,15 @@
     "userId": "11464251920",
     "source": "script",
     "createdAt": "2026-08-13T07:09:38.664Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-13T07:10:50.645Z",
     "geo": {
+      "ip": "171.225.209.205",
+      "city": "Haiphong",
+      "region": "Haiphong",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "171.225.209.205",
       "city": "Haiphong",
       "region": "Haiphong",
