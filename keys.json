@@ -36787,5 +36787,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-81715A-7D1613-890953": {
+    "expires": "2026-08-14T10:23:12.831Z",
+    "hwid": "7248588891-7b2c8865-fccb-47b6-b678-cf41ed0c303c",
+    "browserHwid": null,
+    "username": "Clyde07_26",
+    "userId": "7248588891",
+    "source": "script",
+    "createdAt": "2026-08-13T10:23:13.704Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.145.13.13",
+      "city": "Cebu City",
+      "region": "Central Visayas",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
