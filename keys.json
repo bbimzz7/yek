@@ -36811,5 +36811,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-67803C-FEDA6F-85A44D": {
+    "expires": "2026-08-14T10:35:57.389Z",
+    "hwid": "9986314140-24a3b7f6-e49d-4838-8466-2a29bbe3b91b",
+    "browserHwid": null,
+    "username": "teremnoss",
+    "userId": "9986314140",
+    "source": "script",
+    "createdAt": "2026-08-13T10:35:58.179Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "210.87.87.109",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
