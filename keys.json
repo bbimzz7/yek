@@ -37469,5 +37469,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-65C07B-12589A-361A25": {
+    "expires": "2026-08-15T11:15:21.715Z",
+    "hwid": "8665905191-1116681f-7261-4304-9d65-058a1f9403df",
+    "browserHwid": null,
+    "username": "Rex_f38",
+    "userId": "8665905191",
+    "source": "script",
+    "createdAt": "2026-08-14T11:15:22.445Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "179.109.2.206",
+      "city": "Piquete",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
