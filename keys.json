@@ -37238,10 +37238,17 @@
     "userId": "11482482096",
     "source": "script",
     "createdAt": "2026-08-14T02:03:38.237Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T02:06:05.579Z",
     "geo": {
       "ip": "180.191.34.108",
       "city": "Cabanatuan City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "161.49.215.182",
+      "city": "Clark",
       "region": "Central Luzon",
       "country": "Philippines",
       "cc": "PH"
