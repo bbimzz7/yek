@@ -37181,5 +37181,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-3DE53E-EA2925-6CC4B2": {
+    "expires": "2026-08-15T01:45:00.868Z",
+    "hwid": "10454675956-8d29edc8-325c-4b1f-a078-837a92f0ab33",
+    "browserHwid": null,
+    "username": "frtyrryfryy",
+    "userId": "10454675956",
+    "source": "script",
+    "createdAt": "2026-08-14T01:45:01.661Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.34.76.178",
+      "city": "Gujrat",
+      "region": "Punjab",
+      "country": "Pakistan",
+      "cc": "PK"
+    }
   }
 }
