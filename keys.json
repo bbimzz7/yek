@@ -37760,8 +37760,15 @@
     "userId": "7987487730",
     "source": "script",
     "createdAt": "2026-08-14T18:17:51.466Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T18:18:03.390Z",
     "geo": {
+      "ip": "136.158.46.156",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "136.158.46.156",
       "city": "Quezon City",
       "region": "Metro Manila",
