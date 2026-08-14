@@ -37559,5 +37559,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A65268-E12F41-317AC6": {
+    "expires": "2026-08-15T12:59:06.571Z",
+    "hwid": "4805253190-fcfaa2a4-621f-4a1c-a85c-c585d96f87f9",
+    "browserHwid": null,
+    "username": "shoot_150",
+    "userId": "4805253190",
+    "source": "script",
+    "createdAt": "2026-08-14T12:59:07.493Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.195.15.228",
+      "city": "Tanza",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
