@@ -37358,8 +37358,15 @@
     "userId": "11427187821",
     "source": "script",
     "createdAt": "2026-08-14T06:35:23.623Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T06:35:34.494Z",
     "geo": {
+      "ip": "125.165.31.73",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.165.31.73",
       "city": "Bekasi",
       "region": "West Java",
