@@ -37808,8 +37808,15 @@
     "userId": "11446776841",
     "source": "script",
     "createdAt": "2026-08-14T20:35:18.260Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T20:35:27.879Z",
     "geo": {
+      "ip": "51.38.98.22",
+      "city": "Limburg an der Lahn",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    },
+    "lastGeo": {
       "ip": "51.38.98.22",
       "city": "Limburg an der Lahn",
       "region": "Hesse",
