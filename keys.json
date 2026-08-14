@@ -37190,8 +37190,15 @@
     "userId": "10454675956",
     "source": "script",
     "createdAt": "2026-08-14T01:45:01.661Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T01:45:14.880Z",
     "geo": {
+      "ip": "39.34.76.178",
+      "city": "Gujrat",
+      "region": "Punjab",
+      "country": "Pakistan",
+      "cc": "PK"
+    },
+    "lastGeo": {
       "ip": "39.34.76.178",
       "city": "Gujrat",
       "region": "Punjab",
