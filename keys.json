@@ -37823,5 +37823,22 @@
       "country": "Germany",
       "cc": "DE"
     }
+  },
+  "VH-2E45A2-658EF9-4F067A": {
+    "expires": "2026-08-15T21:07:52.908Z",
+    "hwid": "7044131289-1abb6b22-a71a-4193-a21d-c91d53cb7d63",
+    "browserHwid": null,
+    "username": "gansitorikolino752",
+    "userId": "7044131289",
+    "source": "script",
+    "createdAt": "2026-08-14T21:07:53.704Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "189.217.194.32",
+      "city": "Venustiano Carranza",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
