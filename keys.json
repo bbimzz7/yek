@@ -37277,5 +37277,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-189D03-64FAB4-4CC8DC": {
+    "expires": "2026-08-15T04:33:24.008Z",
+    "hwid": "8485146238-be7d8e93-2c77-42f4-be15-910ad8dc412d",
+    "browserHwid": null,
+    "username": "antoprikitiw",
+    "userId": "8485146238",
+    "source": "script",
+    "createdAt": "2026-08-14T04:33:24.575Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.145.119",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
