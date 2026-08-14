@@ -37799,5 +37799,22 @@
       "country": "Ivory Coast",
       "cc": "CI"
     }
+  },
+  "VH-3EE4C7-876A91-88C1B4": {
+    "expires": "2026-08-15T20:35:17.505Z",
+    "hwid": "11446776841-05f50b27-c99b-4f22-8009-49cd7eb4fca7",
+    "browserHwid": null,
+    "username": "lawlietf9",
+    "userId": "11446776841",
+    "source": "script",
+    "createdAt": "2026-08-14T20:35:18.260Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "51.38.98.22",
+      "city": "Limburg an der Lahn",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
