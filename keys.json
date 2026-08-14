@@ -37118,8 +37118,15 @@
     "userId": "7063156872",
     "source": "script",
     "createdAt": "2026-08-14T00:09:15.082Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T00:09:27.607Z",
     "geo": {
+      "ip": "71.69.132.125",
+      "city": "Wilson",
+      "region": "North Carolina",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "71.69.132.125",
       "city": "Wilson",
       "region": "North Carolina",
