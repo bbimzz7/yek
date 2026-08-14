@@ -37493,5 +37493,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-AC7CA5-BCD8FD-D1FD6F": {
+    "expires": "2026-08-15T11:49:05.408Z",
+    "hwid": null,
+    "browserHwid": "BR-723B6AED-Q4URB",
+    "username": "zeus_tzy11",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-08-14T11:49:06.122Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.73.188.41",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
