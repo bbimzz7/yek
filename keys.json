@@ -37454,8 +37454,15 @@
     "userId": "9446005226",
     "source": "script",
     "createdAt": "2026-08-14T10:35:33.322Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T10:35:41.522Z",
     "geo": {
+      "ip": "109.110.71.13",
+      "city": "Sevastopol",
+      "region": "Sebastopol City",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "109.110.71.13",
       "city": "Sevastopol",
       "region": "Sebastopol City",
