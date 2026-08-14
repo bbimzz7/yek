@@ -37109,5 +37109,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-65AE21-D152E8-982067": {
+    "expires": "2026-08-15T00:09:14.343Z",
+    "hwid": "7063156872-2ad411e2-ae41-4a0e-9fd8-7902be331ef9",
+    "browserHwid": null,
+    "username": "Jkli467",
+    "userId": "7063156872",
+    "source": "script",
+    "createdAt": "2026-08-14T00:09:15.082Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "71.69.132.125",
+      "city": "Wilson",
+      "region": "North Carolina",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
