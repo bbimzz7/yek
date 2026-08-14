@@ -37784,8 +37784,15 @@
     "userId": "9979751684",
     "source": "script",
     "createdAt": "2026-08-14T19:29:27.590Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T19:29:45.072Z",
     "geo": {
+      "ip": "102.67.221.172",
+      "city": "Abidjan",
+      "region": "Abidjan Autonomous District",
+      "country": "Ivory Coast",
+      "cc": "CI"
+    },
+    "lastGeo": {
       "ip": "102.67.221.172",
       "city": "Abidjan",
       "region": "Abidjan Autonomous District",
