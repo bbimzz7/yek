@@ -37205,5 +37205,22 @@
       "country": "Pakistan",
       "cc": "PK"
     }
+  },
+  "VH-7F3709-481524-A2DF67": {
+    "expires": "2026-08-15T02:02:45.053Z",
+    "hwid": "3448469207-50a1d227-b0c3-4dfa-beee-7999e9e70d98",
+    "browserHwid": null,
+    "username": "ken1226_27",
+    "userId": "3448469207",
+    "source": "script",
+    "createdAt": "2026-08-14T02:02:45.863Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.137.37.40",
+      "city": "Bandar Lampung",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
