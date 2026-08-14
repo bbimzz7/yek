@@ -37703,5 +37703,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-E785D6-56150B-780526": {
+    "expires": "2026-08-15T16:38:22.170Z",
+    "hwid": "8567722450-c65261fb-db46-4111-afea-7f35cafb9111",
+    "browserHwid": null,
+    "username": "king_macan2",
+    "userId": "8567722450",
+    "source": "script",
+    "createdAt": "2026-08-14T16:38:23.097Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.243.179.201",
+      "city": "Tasikmalaya",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
