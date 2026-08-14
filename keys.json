@@ -37373,5 +37373,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-519869-575F8D-CE987A": {
+    "expires": "2026-08-15T07:17:21.743Z",
+    "hwid": "8048429321-972b4673-06aa-42b8-aaaa-a211d05402e1",
+    "browserHwid": null,
+    "username": "RIAN1ROWRR",
+    "userId": "8048429321",
+    "source": "script",
+    "createdAt": "2026-08-14T07:17:22.464Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.104.152",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
