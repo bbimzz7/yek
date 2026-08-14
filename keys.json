@@ -37583,5 +37583,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-2C4B00-844C5F-2D72E9": {
+    "expires": "2026-08-15T13:07:28.831Z",
+    "hwid": "8326796431-6568144d-863e-4ae6-93e5-15480271a567",
+    "browserHwid": null,
+    "username": "viarr30",
+    "userId": "8326796431",
+    "source": "script",
+    "createdAt": "2026-08-14T13:07:29.749Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.234.31.77",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
