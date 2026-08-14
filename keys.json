@@ -37496,15 +37496,23 @@
   },
   "VH-AC7CA5-BCD8FD-D1FD6F": {
     "expires": "2026-08-15T11:49:05.408Z",
-    "hwid": null,
+    "hwid": "2790970893-4c874e1f-a175-446d-92cd-22e42d7ab3c4",
     "browserHwid": "BR-723B6AED-Q4URB",
     "username": "zeus_tzy11",
-    "userId": null,
+    "userId": "2790970893",
     "source": "browser",
     "createdAt": "2026-08-14T11:49:06.122Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T11:49:47.267Z",
     "geo": {
       "ip": "36.73.188.41",
+      "city": "Denpasar",
+      "region": "Bali",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "boundAt": "2026-08-14T11:49:47.227Z",
+    "lastGeo": {
+      "ip": "36.73.188.27",
       "city": "Denpasar",
       "region": "Bali",
       "country": "Indonesia",
