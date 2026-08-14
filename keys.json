@@ -37445,5 +37445,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-FDE22C-CB9296-157D83": {
+    "expires": "2026-08-15T10:35:32.469Z",
+    "hwid": "9446005226-59C8D536-E7D5-45BC-B8BE-00BDDA4F60D8",
+    "browserHwid": null,
+    "username": "arteeeemnemek",
+    "userId": "9446005226",
+    "source": "script",
+    "createdAt": "2026-08-14T10:35:33.322Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "109.110.71.13",
+      "city": "Sevastopol",
+      "region": "Sebastopol City",
+      "country": "Ukraine",
+      "cc": "UA"
+    }
   }
 }
