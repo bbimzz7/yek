@@ -37856,8 +37856,15 @@
     "userId": "11389802123",
     "source": "script",
     "createdAt": "2026-08-14T21:24:51.214Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T21:25:14.351Z",
     "geo": {
+      "ip": "78.67.160.242",
+      "city": "Linköping",
+      "region": "Östergötland County",
+      "country": "Sweden",
+      "cc": "SE"
+    },
+    "lastGeo": {
       "ip": "78.67.160.242",
       "city": "Linköping",
       "region": "Östergötland County",
