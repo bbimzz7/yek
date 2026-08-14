@@ -37133,5 +37133,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-F1AD8D-8E5B87-033E7F": {
+    "expires": "2026-08-15T00:14:54.858Z",
+    "hwid": "7724972869-d6b68a7f-60ee-4647-b272-4d98d56cada8",
+    "browserHwid": null,
+    "username": "kwjwieh_3",
+    "userId": "7724972869",
+    "source": "script",
+    "createdAt": "2026-08-14T00:14:55.630Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "190.143.157.132",
+      "city": "Guatemala City",
+      "region": "Guatemala",
+      "country": "Guatemala",
+      "cc": "GT"
+    }
   }
 }
