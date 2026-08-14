@@ -37568,9 +37568,16 @@
     "userId": "4805253190",
     "source": "script",
     "createdAt": "2026-08-14T12:59:07.493Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T12:59:26.612Z",
     "geo": {
       "ip": "45.195.15.228",
+      "city": "Tanza",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
+      "ip": "45.195.15.230",
       "city": "Tanza",
       "region": "Calabarzon",
       "country": "Philippines",
