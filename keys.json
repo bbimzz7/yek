@@ -37832,8 +37832,15 @@
     "userId": "7044131289",
     "source": "script",
     "createdAt": "2026-08-14T21:07:53.704Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T21:09:14.370Z",
     "geo": {
+      "ip": "189.217.194.32",
+      "city": "Venustiano Carranza",
+      "region": "Mexico City",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "189.217.194.32",
       "city": "Venustiano Carranza",
       "region": "Mexico City",
