@@ -37640,8 +37640,15 @@
     "userId": "5532115293",
     "source": "script",
     "createdAt": "2026-08-14T13:42:52.928Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T13:43:05.346Z",
     "geo": {
+      "ip": "77.239.162.42",
+      "city": "Dnipro",
+      "region": "Dnipropetrovsk Oblast",
+      "country": "Ukraine",
+      "cc": "UA"
+    },
+    "lastGeo": {
       "ip": "77.239.162.42",
       "city": "Dnipro",
       "region": "Dnipropetrovsk Oblast",
