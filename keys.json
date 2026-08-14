@@ -37775,5 +37775,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-5C30BB-29EACC-36866A": {
+    "expires": "2026-08-15T19:29:26.735Z",
+    "hwid": "9979751684-bc531616-cc5a-4d2b-b5b2-c1e2bbe6e0cd",
+    "browserHwid": null,
+    "username": "Lilimaxmini",
+    "userId": "9979751684",
+    "source": "script",
+    "createdAt": "2026-08-14T19:29:27.590Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.67.221.172",
+      "city": "Abidjan",
+      "region": "Abidjan Autonomous District",
+      "country": "Ivory Coast",
+      "cc": "CI"
+    }
   }
 }
