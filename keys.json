@@ -37904,8 +37904,15 @@
     "userId": "11204263392",
     "source": "script",
     "createdAt": "2026-08-14T22:31:59.450Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T22:33:50.049Z",
     "geo": {
+      "ip": "176.201.253.87",
+      "city": "Palermo",
+      "region": "Sicily",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "lastGeo": {
       "ip": "176.201.253.87",
       "city": "Palermo",
       "region": "Sicily",
