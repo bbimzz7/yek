@@ -37871,5 +37871,22 @@
       "country": "Sweden",
       "cc": "SE"
     }
+  },
+  "VH-7AA061-A3B5C1-7DC66E": {
+    "expires": "2026-08-15T21:37:01.740Z",
+    "hwid": "9050366123-ed12bd2b-a58d-4292-a201-f3340fc5d3bf",
+    "browserHwid": null,
+    "username": "Brooo_1234564",
+    "userId": "9050366123",
+    "source": "script",
+    "createdAt": "2026-08-14T21:37:02.445Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.34.33.143",
+      "city": "Astana",
+      "region": "Astana",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
