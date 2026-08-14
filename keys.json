@@ -37655,5 +37655,22 @@
       "country": "Ukraine",
       "cc": "UA"
     }
+  },
+  "VH-909D4C-176558-8AC024": {
+    "expires": "2026-08-15T14:31:06.971Z",
+    "hwid": "4531116669-b4588329-cbb4-454c-9ee3-8524e03add87",
+    "browserHwid": null,
+    "username": "Xxnotalwaysavailable",
+    "userId": "4531116669",
+    "source": "script",
+    "createdAt": "2026-08-14T14:31:07.753Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "41.13.212.44",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
