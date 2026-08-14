@@ -37478,8 +37478,15 @@
     "userId": "8665905191",
     "source": "script",
     "createdAt": "2026-08-14T11:15:22.445Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T11:17:02.640Z",
     "geo": {
+      "ip": "179.109.2.206",
+      "city": "Piquete",
+      "region": "São Paulo",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "179.109.2.206",
       "city": "Piquete",
       "region": "São Paulo",
