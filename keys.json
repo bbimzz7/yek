@@ -37847,5 +37847,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-3A5A39-E3ACD9-1C8107": {
+    "expires": "2026-08-15T21:24:50.114Z",
+    "hwid": "11389802123-2654AEEE-C36D-4CA6-90DE-3D38E352AD1B",
+    "browserHwid": null,
+    "username": "V4MP301302",
+    "userId": "11389802123",
+    "source": "script",
+    "createdAt": "2026-08-14T21:24:51.214Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "78.67.160.242",
+      "city": "Linköping",
+      "region": "Östergötland County",
+      "country": "Sweden",
+      "cc": "SE"
+    }
   }
 }
