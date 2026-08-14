@@ -37334,8 +37334,15 @@
     "userId": "10992927071",
     "source": "script",
     "createdAt": "2026-08-14T05:18:29.315Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T05:18:40.946Z",
     "geo": {
+      "ip": "109.61.25.243",
+      "city": "Harkány",
+      "region": "Baranya",
+      "country": "Hungary",
+      "cc": "HU"
+    },
+    "lastGeo": {
       "ip": "109.61.25.243",
       "city": "Harkány",
       "region": "Baranya",
