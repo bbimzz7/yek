@@ -37310,8 +37310,15 @@
     "userId": "8698039903",
     "source": "script",
     "createdAt": "2026-08-14T05:12:14.735Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-14T05:12:22.228Z",
     "geo": {
+      "ip": "180.75.246.199",
+      "city": "Kuala Lumpur",
+      "region": "Kuala Lumpur",
+      "country": "Malaysia",
+      "cc": "MY"
+    },
+    "lastGeo": {
       "ip": "180.75.246.199",
       "city": "Kuala Lumpur",
       "region": "Kuala Lumpur",
