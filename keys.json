@@ -38152,5 +38152,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-CDD2A9-544A9D-801DAF": {
+    "expires": "2026-08-16T09:25:43.257Z",
+    "hwid": "10933645621-046635b6-745d-4d23-8201-26ce6ae8d923",
+    "browserHwid": null,
+    "username": "ciciTesla11",
+    "userId": "10933645621",
+    "source": "script",
+    "createdAt": "2026-08-15T09:25:44.118Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.50.201.92",
+      "city": "Jambi City",
+      "region": "Jambi",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
