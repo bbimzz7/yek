@@ -38097,5 +38097,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-A001A8-15FEF6-890399": {
+    "expires": "2026-08-16T08:49:25.936Z",
+    "hwid": "192491537-c06358f5-80e3-4d01-b625-eabc67ebc19b",
+    "browserHwid": null,
+    "username": "111minionrush",
+    "userId": "192491537",
+    "source": "script",
+    "createdAt": "2026-08-15T08:49:26.721Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.174.212",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
