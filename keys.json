@@ -37919,5 +37919,22 @@
       "country": "Italy",
       "cc": "IT"
     }
+  },
+  "VH-E0E3E3-11B6DF-62966A": {
+    "expires": "2026-08-16T01:08:14.117Z",
+    "hwid": "11479254942-315f6f0f-f3ca-46a3-ab35-5a771d2d04cd",
+    "browserHwid": null,
+    "username": "lissesl23",
+    "userId": "11479254942",
+    "source": "script",
+    "createdAt": "2026-08-15T01:08:14.823Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.149.90.179",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
