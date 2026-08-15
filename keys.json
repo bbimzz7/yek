@@ -38402,5 +38402,22 @@
       "country": "United Kingdom",
       "cc": "GB"
     }
+  },
+  "VH-043F63-08CA03-78F821": {
+    "expires": "2026-08-16T18:00:58.982Z",
+    "hwid": "2925491925-5be8b790-e9ed-4f6c-a303-fde18bc8f2c1",
+    "browserHwid": null,
+    "username": "mrizki299",
+    "userId": "2925491925",
+    "source": "script",
+    "createdAt": "2026-08-15T18:00:59.760Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.247.22.61",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
