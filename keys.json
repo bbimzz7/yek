@@ -38008,5 +38008,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B9B0F1-41796D-FDA714": {
+    "expires": "2026-08-16T05:40:19.158Z",
+    "hwid": "11447729615-AF85ABED-C764-4D4F-84E7-A03D1678175E",
+    "browserHwid": null,
+    "username": "fhfghfgghfgh9",
+    "userId": "11447729615",
+    "source": "script",
+    "createdAt": "2026-08-15T05:40:19.889Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.88.210.20",
+      "city": "Pyatigorsk",
+      "region": "Stavropol Kray",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
