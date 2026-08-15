@@ -38128,5 +38128,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-011DF5-A32C92-4F3E61": {
+    "expires": "2026-08-16T09:11:39.751Z",
+    "hwid": "10437509059-2219d430-cf87-4445-a26d-32b90c4b245b",
+    "browserHwid": null,
+    "username": "Ashie20x",
+    "userId": "10437509059",
+    "source": "script",
+    "createdAt": "2026-08-15T09:11:40.679Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.36.177.129",
+      "city": "New Delhi",
+      "region": "National Capital Territory of Delhi",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
