@@ -37544,7 +37544,7 @@
     "userId": "10987549079",
     "source": "script",
     "createdAt": "2026-08-14T11:50:54.364Z",
-    "lastUsed": "2026-08-14T11:53:48.922Z",
+    "lastUsed": "2026-08-15T01:02:12.628Z",
     "geo": {
       "ip": "182.10.99.238",
       "city": "Bandung",
@@ -37553,9 +37553,9 @@
       "cc": "ID"
     },
     "lastGeo": {
-      "ip": "182.10.99.238",
-      "city": "Bandung",
-      "region": "West Java",
+      "ip": "182.253.58.83",
+      "city": "Central Jakarta",
+      "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
     }
