@@ -38507,8 +38507,15 @@
     "userId": "5464085498",
     "source": "script",
     "createdAt": "2026-08-15T21:14:03.675Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-15T21:14:17.536Z",
     "geo": {
+      "ip": "46.237.13.222",
+      "city": "Rybinsk",
+      "region": "Yaroslavl Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "46.237.13.222",
       "city": "Rybinsk",
       "region": "Yaroslavl Oblast",
