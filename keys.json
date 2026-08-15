@@ -38224,5 +38224,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-9D781A-987E4D-E5FB7E": {
+    "expires": "2026-08-16T13:34:44.309Z",
+    "hwid": "8760423672-d88b61b7-bc1b-49d8-946d-81abc3541db5",
+    "browserHwid": null,
+    "username": "HEEYrop9",
+    "userId": "8760423672",
+    "source": "script",
+    "createdAt": "2026-08-15T13:34:45.085Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.171.67",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
