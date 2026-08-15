@@ -38017,8 +38017,15 @@
     "userId": "11447729615",
     "source": "script",
     "createdAt": "2026-08-15T05:40:19.889Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-15T05:40:31.214Z",
     "geo": {
+      "ip": "45.88.210.20",
+      "city": "Pyatigorsk",
+      "region": "Stavropol Kray",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "45.88.210.20",
       "city": "Pyatigorsk",
       "region": "Stavropol Kray",
