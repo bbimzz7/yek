@@ -37991,5 +37991,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-017409-3DEE40-7434B8": {
+    "expires": "2026-08-16T04:16:49.490Z",
+    "hwid": "5066413236-11407e3a-0f83-4582-9e9e-55293b615d3f",
+    "browserHwid": null,
+    "username": "tvman4973",
+    "userId": "5066413236",
+    "source": "script",
+    "createdAt": "2026-08-15T04:16:50.224Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "39.194.0.101",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
