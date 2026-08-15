@@ -38498,5 +38498,22 @@
       "country": "Egypt",
       "cc": "EG"
     }
+  },
+  "VH-2F24B3-EBC041-5CDA05": {
+    "expires": "2026-08-16T21:14:02.918Z",
+    "hwid": "5464085498-0003FCE2-50A0-42AE-9F8F-16600EB313C9",
+    "browserHwid": null,
+    "username": "LID_778",
+    "userId": "5464085498",
+    "source": "script",
+    "createdAt": "2026-08-15T21:14:03.675Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "46.237.13.222",
+      "city": "Rybinsk",
+      "region": "Yaroslavl Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
