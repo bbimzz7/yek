@@ -38522,5 +38522,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-935B17-115C17-84D5DE": {
+    "expires": "2026-08-16T21:23:53.535Z",
+    "hwid": "10885465252-e90549f3-074d-40e3-93af-4e7b9432be1c",
+    "browserHwid": null,
+    "username": "roblox_user_10885465252",
+    "userId": "10885465252",
+    "source": "script",
+    "createdAt": "2026-08-15T21:23:54.405Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.158.145.120",
+      "city": "Rosario",
+      "region": "Santa Fe",
+      "country": "Argentina",
+      "cc": "AR"
+    }
   }
 }
