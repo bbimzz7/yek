@@ -38200,5 +38200,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-76AA74-920C92-898D76": {
+    "expires": "2026-08-16T12:22:31.956Z",
+    "hwid": "7163653406-9112d97b-a791-420b-a4dd-65eaaf6295e6",
+    "browserHwid": null,
+    "username": "sgFmFNnFn",
+    "userId": "7163653406",
+    "source": "script",
+    "createdAt": "2026-08-15T12:22:32.704Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.99.93.14",
+      "city": "Fortaleza",
+      "region": "Ceará",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
