@@ -38474,5 +38474,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-7ECB48-97C46F-BCA8E1": {
+    "expires": "2026-08-16T20:32:42.047Z",
+    "hwid": "4612134899-32562FB0-39A4-40A8-B807-0D1C2D0B7ECE",
+    "browserHwid": null,
+    "username": "Simportero",
+    "userId": "4612134899",
+    "source": "script",
+    "createdAt": "2026-08-15T20:32:42.819Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.60.226.232",
+      "city": "Cairo",
+      "region": "Cairo Governorate",
+      "country": "Egypt",
+      "cc": "EG"
+    }
   }
 }
