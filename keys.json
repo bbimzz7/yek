@@ -38435,13 +38435,20 @@
     "userId": "7219067251",
     "source": "script",
     "createdAt": "2026-08-15T19:08:53.339Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-15T19:10:17.016Z",
     "geo": {
       "ip": "165.231.177.74",
       "city": "Tallinn",
       "region": "Harjumaa",
       "country": "Estonia",
       "cc": "EE"
+    },
+    "lastGeo": {
+      "ip": "5.228.117.189",
+      "city": "Moscow",
+      "region": "Moscow",
+      "country": "Russia",
+      "cc": "RU"
     }
   }
 }
