@@ -37967,5 +37967,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-74DDB3-C9109A-EC6F6E": {
+    "expires": "2026-08-16T03:23:31.088Z",
+    "hwid": "5463504195-7c4ea525-308f-4204-8776-d94f1c93f16d",
+    "browserHwid": null,
+    "username": "GNle_0108",
+    "userId": "5463504195",
+    "source": "script",
+    "createdAt": "2026-08-15T03:23:31.932Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.71.74",
+      "city": "Tarlac City",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
