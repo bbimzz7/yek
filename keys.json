@@ -38289,5 +38289,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-0880B9-6C3F01-889104": {
+    "expires": "2026-08-16T14:30:50.938Z",
+    "hwid": "11096251221-7ca45b95-a942-4307-be3e-a25d6ed30fc0",
+    "browserHwid": null,
+    "username": "Amiraa8869",
+    "userId": "11096251221",
+    "source": "script",
+    "createdAt": "2026-08-15T14:30:51.704Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "94.129.79.217",
+      "city": "Kuwait City",
+      "region": "Al Asimah",
+      "country": "Kuwait",
+      "cc": "KW"
+    }
   }
 }
