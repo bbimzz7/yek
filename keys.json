@@ -38387,8 +38387,15 @@
     "userId": "10002595270",
     "source": "script",
     "createdAt": "2026-08-15T17:24:40.062Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-15T17:24:48.024Z",
     "geo": {
+      "ip": "185.132.43.117",
+      "city": "Worcester",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
+    "lastGeo": {
       "ip": "185.132.43.117",
       "city": "Worcester",
       "region": "England",
