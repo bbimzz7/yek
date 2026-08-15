@@ -38298,8 +38298,15 @@
     "userId": "11096251221",
     "source": "script",
     "createdAt": "2026-08-15T14:30:51.704Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-15T14:31:02.298Z",
     "geo": {
+      "ip": "94.129.79.217",
+      "city": "Kuwait City",
+      "region": "Al Asimah",
+      "country": "Kuwait",
+      "cc": "KW"
+    },
+    "lastGeo": {
       "ip": "94.129.79.217",
       "city": "Kuwait City",
       "region": "Al Asimah",
