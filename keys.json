@@ -38313,5 +38313,22 @@
       "country": "Kuwait",
       "cc": "KW"
     }
+  },
+  "VH-1FA4D7-A063F1-EA9C41": {
+    "expires": "2026-08-16T14:31:38.201Z",
+    "hwid": "5012105853-4ea54d4d-7c85-4403-957e-1a8e141246ad",
+    "browserHwid": null,
+    "username": "o_pwo1",
+    "userId": "5012105853",
+    "source": "script",
+    "createdAt": "2026-08-15T14:31:39.090Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.100.11.179",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    }
   }
 }
