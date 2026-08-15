@@ -38106,8 +38106,15 @@
     "userId": "192491537",
     "source": "script",
     "createdAt": "2026-08-15T08:49:26.721Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-15T08:49:35.808Z",
     "geo": {
+      "ip": "140.213.174.212",
+      "city": "Yogyakarta",
+      "region": "Yogyakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "140.213.174.212",
       "city": "Yogyakarta",
       "region": "Yogyakarta",
