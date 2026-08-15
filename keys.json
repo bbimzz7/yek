@@ -38176,5 +38176,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7A858B-9AFA4F-BF6E83": {
+    "expires": "2026-08-16T11:38:53.078Z",
+    "hwid": "10063800565-5ac3579e-ec3d-409a-8c2a-0afe10dc511f",
+    "browserHwid": null,
+    "username": "Ren_dyl457",
+    "userId": "10063800565",
+    "source": "script",
+    "createdAt": "2026-08-15T11:38:53.876Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.49.190.212",
+      "city": "Taytay",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
