@@ -38233,8 +38233,15 @@
     "userId": "8760423672",
     "source": "script",
     "createdAt": "2026-08-15T13:34:45.085Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-15T13:36:12.392Z",
     "geo": {
+      "ip": "158.140.171.67",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "158.140.171.67",
       "city": "Surabaya",
       "region": "East Java",
