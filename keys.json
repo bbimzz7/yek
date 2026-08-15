@@ -38089,8 +38089,15 @@
     "userId": "3451478215",
     "source": "script",
     "createdAt": "2026-08-15T08:37:18.293Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-15T09:09:56.096Z",
     "geo": {
+      "ip": "94.75.26.164",
+      "city": "Ufa",
+      "region": "Bashkortostan Republic",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "94.75.26.164",
       "city": "Ufa",
       "region": "Bashkortostan Republic",
