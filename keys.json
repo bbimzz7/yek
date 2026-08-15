@@ -38080,5 +38080,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-A55668-B322D5-20CFD0": {
+    "expires": "2026-08-16T08:37:17.546Z",
+    "hwid": "3451478215-ee7255ce-f0fd-4100-afe7-09bacdd2b1d3",
+    "browserHwid": null,
+    "username": "rtfvos",
+    "userId": "3451478215",
+    "source": "script",
+    "createdAt": "2026-08-15T08:37:18.293Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "94.75.26.164",
+      "city": "Ufa",
+      "region": "Bashkortostan Republic",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
