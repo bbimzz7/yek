@@ -38248,5 +38248,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-59FBDA-D8BDCA-421023": {
+    "expires": "2026-08-16T14:20:09.962Z",
+    "hwid": null,
+    "browserHwid": "BR-1F873707-LO0ZL",
+    "username": "Roblox_user_99133702",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-08-15T14:20:10.739Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.167.56.88",
+      "city": "Tanjung Pandan",
+      "region": "Bangka–Belitung Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
