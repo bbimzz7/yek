@@ -37943,5 +37943,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-74D896-96BFC4-F193EF": {
+    "expires": "2026-08-16T02:16:42.374Z",
+    "hwid": "7289187484-9f0b0640-49ed-49fb-a9b3-61e554bf5e1a",
+    "browserHwid": null,
+    "username": "law_law1432",
+    "userId": "7289187484",
+    "source": "script",
+    "createdAt": "2026-08-15T02:16:43.235Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "126.209.112.170",
+      "city": "Padada",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
