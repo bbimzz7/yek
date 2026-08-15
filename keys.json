@@ -38459,8 +38459,15 @@
     "userId": "11238441778",
     "source": "script",
     "createdAt": "2026-08-15T19:43:20.647Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-15T19:43:59.258Z",
     "geo": {
+      "ip": "70.121.42.149",
+      "city": "Mission",
+      "region": "Texas",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "70.121.42.149",
       "city": "Mission",
       "region": "Texas",
