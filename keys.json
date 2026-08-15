@@ -38483,8 +38483,15 @@
     "userId": "4612134899",
     "source": "script",
     "createdAt": "2026-08-15T20:32:42.819Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-15T20:32:53.624Z",
     "geo": {
+      "ip": "38.60.226.232",
+      "city": "Cairo",
+      "region": "Cairo Governorate",
+      "country": "Egypt",
+      "cc": "EG"
+    },
+    "lastGeo": {
       "ip": "38.60.226.232",
       "city": "Cairo",
       "region": "Cairo Governorate",
