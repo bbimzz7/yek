@@ -38531,8 +38531,15 @@
     "userId": "10885465252",
     "source": "script",
     "createdAt": "2026-08-15T21:23:54.405Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-15T21:24:08.917Z",
     "geo": {
+      "ip": "186.158.145.120",
+      "city": "Rosario",
+      "region": "Santa Fe",
+      "country": "Argentina",
+      "cc": "AR"
+    },
+    "lastGeo": {
       "ip": "186.158.145.120",
       "city": "Rosario",
       "region": "Santa Fe",
