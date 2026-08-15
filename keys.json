@@ -37952,8 +37952,15 @@
     "userId": "7289187484",
     "source": "script",
     "createdAt": "2026-08-15T02:16:43.235Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-15T02:16:52.109Z",
     "geo": {
+      "ip": "126.209.112.170",
+      "city": "Padada",
+      "region": "Davao Region",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "126.209.112.170",
       "city": "Padada",
       "region": "Davao Region",
