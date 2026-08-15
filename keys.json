@@ -38378,5 +38378,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-C2A909-3018F3-08B990": {
+    "expires": "2026-08-16T17:24:39.242Z",
+    "hwid": "10002595270-a43d6033-784b-4f70-bfa4-392996d53c49",
+    "browserHwid": null,
+    "username": "PipaAJaa",
+    "userId": "10002595270",
+    "source": "script",
+    "createdAt": "2026-08-15T17:24:40.062Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "185.132.43.117",
+      "city": "Worcester",
+      "region": "England",
+      "country": "United Kingdom",
+      "cc": "GB"
+    }
   }
 }
