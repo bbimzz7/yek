@@ -38185,8 +38185,15 @@
     "userId": "10063800565",
     "source": "script",
     "createdAt": "2026-08-15T11:38:53.876Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-15T11:39:05.039Z",
     "geo": {
+      "ip": "27.49.190.212",
+      "city": "Taytay",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "27.49.190.212",
       "city": "Taytay",
       "region": "Calabarzon",
