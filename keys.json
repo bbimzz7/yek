@@ -38337,5 +38337,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-A3364F-F81676-C96320": {
+    "expires": "2026-08-16T15:01:47.955Z",
+    "hwid": "9367487856-2cbd136b-a1a2-4d20-9eae-b225f17cdd55",
+    "browserHwid": null,
+    "username": "Mells_08",
+    "userId": "9367487856",
+    "source": "script",
+    "createdAt": "2026-08-15T15:01:48.685Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.165.31.73",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
