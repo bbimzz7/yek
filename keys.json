@@ -38137,8 +38137,15 @@
     "userId": "10437509059",
     "source": "script",
     "createdAt": "2026-08-15T09:11:40.679Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-15T09:13:57.561Z",
     "geo": {
+      "ip": "49.36.177.129",
+      "city": "New Delhi",
+      "region": "National Capital Territory of Delhi",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "49.36.177.129",
       "city": "New Delhi",
       "region": "National Capital Territory of Delhi",
