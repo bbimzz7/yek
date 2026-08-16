@@ -38603,8 +38603,15 @@
     "userId": "11224911545",
     "source": "script",
     "createdAt": "2026-08-16T01:03:39.241Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-16T01:03:59.741Z",
     "geo": {
+      "ip": "5.62.143.230",
+      "city": "Baghdad",
+      "region": "Baghdad",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "5.62.143.230",
       "city": "Baghdad",
       "region": "Baghdad",
