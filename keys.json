@@ -38651,8 +38651,15 @@
     "userId": "6225888864",
     "source": "script",
     "createdAt": "2026-08-16T02:13:18.425Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-16T02:13:28.746Z",
     "geo": {
+      "ip": "112.202.55.101",
+      "city": "Baguio City",
+      "region": "Cordillera",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "112.202.55.101",
       "city": "Baguio City",
       "region": "Cordillera",
