@@ -38675,8 +38675,15 @@
     "userId": "11293744885",
     "source": "script",
     "createdAt": "2026-08-16T02:22:12.794Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-16T02:23:20.158Z",
     "geo": {
+      "ip": "104.158.186.113",
+      "city": "London",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    },
+    "lastGeo": {
       "ip": "104.158.186.113",
       "city": "London",
       "region": "Ontario",
