@@ -38546,5 +38546,22 @@
       "country": "Argentina",
       "cc": "AR"
     }
+  },
+  "VH-DFA36C-40261C-F904A8": {
+    "expires": "2026-08-17T00:07:27.469Z",
+    "hwid": "5771218896-67bcb591-ad00-4979-9c4d-1a3a399e8fad",
+    "browserHwid": null,
+    "username": "7Fatih_0",
+    "userId": "5771218896",
+    "source": "script",
+    "createdAt": "2026-08-16T00:07:28.242Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.189.207.128",
+      "city": "Bengkulu",
+      "region": "Bengkulu",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
