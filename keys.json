@@ -38594,5 +38594,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-360B12-B0EA98-C65056": {
+    "expires": "2026-08-17T01:03:38.426Z",
+    "hwid": "11224911545-21c27bfc-e300-42bd-9e02-fd18792bbd0a",
+    "browserHwid": null,
+    "username": "king_walhop34",
+    "userId": "11224911545",
+    "source": "script",
+    "createdAt": "2026-08-16T01:03:39.241Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.62.143.230",
+      "city": "Baghdad",
+      "region": "Baghdad",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
