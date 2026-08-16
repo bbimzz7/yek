@@ -38570,5 +38570,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B036C1-C55DEA-3F8FCB": {
+    "expires": "2026-08-17T00:25:44.492Z",
+    "hwid": "11512874985-59835dd0-ad8c-4ff1-afc8-e116dcea65eb",
+    "browserHwid": null,
+    "username": "GOTYOURWINTOOK",
+    "userId": "11512874985",
+    "source": "script",
+    "createdAt": "2026-08-16T00:25:45.234Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.36.80.157",
+      "city": "Columbia",
+      "region": "South Carolina",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
