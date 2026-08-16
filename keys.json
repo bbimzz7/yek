@@ -38579,8 +38579,15 @@
     "userId": "11512874985",
     "source": "script",
     "createdAt": "2026-08-16T00:25:45.234Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-16T00:26:04.943Z",
     "geo": {
+      "ip": "76.36.80.157",
+      "city": "Columbia",
+      "region": "South Carolina",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "76.36.80.157",
       "city": "Columbia",
       "region": "South Carolina",
