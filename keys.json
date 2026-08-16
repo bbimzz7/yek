@@ -38666,5 +38666,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-CB5FF3-27B412-2C8922": {
+    "expires": "2026-08-17T02:22:11.994Z",
+    "hwid": "11293744885-b83c6ca7-5457-4716-ab02-6236334e0084",
+    "browserHwid": null,
+    "username": "Divadivabacon3",
+    "userId": "11293744885",
+    "source": "script",
+    "createdAt": "2026-08-16T02:22:12.794Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "104.158.186.113",
+      "city": "London",
+      "region": "Ontario",
+      "country": "Canada",
+      "cc": "CA"
+    }
   }
 }
