@@ -38627,8 +38627,15 @@
     "userId": "8899914149",
     "source": "script",
     "createdAt": "2026-08-16T01:36:14.260Z",
-    "lastUsed": null,
+    "lastUsed": "2026-08-16T01:36:23.695Z",
     "geo": {
+      "ip": "103.111.94.135",
+      "city": "Kisaran",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.111.94.135",
       "city": "Kisaran",
       "region": "North Sumatra",
