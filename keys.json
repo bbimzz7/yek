@@ -38618,5 +38618,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-B93736-EE3AEC-11DD06": {
+    "expires": "2026-08-17T01:36:13.472Z",
+    "hwid": "8899914149-d1cd21d3-227b-404b-931d-2ea44b28fff4",
+    "browserHwid": null,
+    "username": "Realbaconclassicgg",
+    "userId": "8899914149",
+    "source": "script",
+    "createdAt": "2026-08-16T01:36:14.260Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.111.94.135",
+      "city": "Kisaran",
+      "region": "North Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
