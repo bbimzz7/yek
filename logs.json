@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-11-11T09:31:53.529Z",
+    "action": "bulkdelete",
+    "detail": "0 key expired dihapus"
+  },
+  {
     "ts": "2026-11-11T09:31:37.865Z",
     "action": "bulkdelete",
     "detail": "1626 key expired dihapus"
