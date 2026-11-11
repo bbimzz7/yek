@@ -128,5 +128,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-BDD099-104F71-0315A6": {
+    "expires": "2026-11-12T19:27:02.635Z",
+    "hwid": "2591181671-7e131ee3-5d5e-4072-9f0d-c6dc15fa34ea",
+    "browserHwid": null,
+    "username": "Andrexnano",
+    "userId": "2591181671",
+    "source": "script",
+    "createdAt": "2026-11-11T19:27:03.089Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "140.213.46.48",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
