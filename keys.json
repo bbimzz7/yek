@@ -38690,5 +38690,22 @@
       "country": "Canada",
       "cc": "CA"
     }
+  },
+  "VH-A38843-67F8F7-3A4F0A": {
+    "expires": "2026-11-12T09:30:24.953Z",
+    "hwid": null,
+    "browserHwid": "BR-64B54F54-0DLPH",
+    "username": "Sbsbsh",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-11-11T09:30:26.169Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.81.67.6",
+      "city": "Panjang",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
