@@ -272,5 +272,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-616B64-6C0443-52DCDE": {
+    "expires": "2026-11-14T21:08:45.211Z",
+    "hwid": "11944540938-6ff1322d-a49b-4fa5-934e-64382575b77b",
+    "browserHwid": null,
+    "username": "nuetreabata90",
+    "userId": "11944540938",
+    "source": "script",
+    "createdAt": "2026-11-13T21:08:45.661Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "91.240.236.97",
+      "city": "Afumaţi",
+      "region": "Ilfov",
+      "country": "Romania",
+      "cc": "RO"
+    }
   }
 }
