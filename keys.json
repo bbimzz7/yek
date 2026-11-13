@@ -224,5 +224,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-726204-611B38-49CA79": {
+    "expires": "2026-11-14T13:03:24.892Z",
+    "hwid": "9509060712-e374863f-03df-4d62-a764-a5e4265de70a",
+    "browserHwid": null,
+    "username": "akunkeduarvvxy",
+    "userId": "9509060712",
+    "source": "script",
+    "createdAt": "2026-11-13T13:03:25.397Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.139.127.6",
+      "city": "Indramayu",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
