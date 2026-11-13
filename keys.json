@@ -200,5 +200,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-96A251-D1CF4E-E1B7B5": {
+    "expires": "2026-11-14T12:28:07.745Z",
+    "hwid": "11983447827-a7abda88-afd3-4185-b4b1-4c4c29602639",
+    "browserHwid": null,
+    "username": "5535854",
+    "userId": "11983447827",
+    "source": "script",
+    "createdAt": "2026-11-13T12:28:08.166Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "169.224.32.134",
+      "city": "Basra",
+      "region": "Basra Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
