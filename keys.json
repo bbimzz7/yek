@@ -209,8 +209,15 @@
     "userId": "11983447827",
     "source": "script",
     "createdAt": "2026-11-13T12:28:08.166Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-13T12:28:21.760Z",
     "geo": {
+      "ip": "169.224.32.134",
+      "city": "Basra",
+      "region": "Basra Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    },
+    "lastGeo": {
       "ip": "169.224.32.134",
       "city": "Basra",
       "region": "Basra Governorate",
