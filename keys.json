@@ -176,5 +176,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-7E96D9-32749C-F646CE": {
+    "expires": "2026-11-14T08:29:20.523Z",
+    "hwid": "9819089568-1c4911e7-3736-41d1-8070-38226b78cf55",
+    "browserHwid": null,
+    "username": "hecker_ganteng2",
+    "userId": "9819089568",
+    "source": "script",
+    "createdAt": "2026-11-13T08:29:21.917Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "110.138.80.55",
+      "city": "East Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
