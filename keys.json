@@ -281,8 +281,15 @@
     "userId": "11944540938",
     "source": "script",
     "createdAt": "2026-11-13T21:08:45.661Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-13T21:10:01.483Z",
     "geo": {
+      "ip": "91.240.236.97",
+      "city": "Afumaţi",
+      "region": "Ilfov",
+      "country": "Romania",
+      "cc": "RO"
+    },
+    "lastGeo": {
       "ip": "91.240.236.97",
       "city": "Afumaţi",
       "region": "Ilfov",
