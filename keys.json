@@ -353,8 +353,15 @@
     "userId": "11921492486",
     "source": "script",
     "createdAt": "2026-11-14T08:45:19.186Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-14T08:45:30.091Z",
     "geo": {
+      "ip": "103.250.196.227",
+      "city": "Samal",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "103.250.196.227",
       "city": "Samal",
       "region": "Central Luzon",
