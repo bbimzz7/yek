@@ -296,5 +296,22 @@
       "country": "Romania",
       "cc": "RO"
     }
+  },
+  "VH-FC8FB2-C7BCE3-06E649": {
+    "expires": "2026-11-15T00:05:43.613Z",
+    "hwid": "11955971158-acaf50bf-c560-45de-820d-5d4135743f23",
+    "browserHwid": null,
+    "username": "FiniteCart7365",
+    "userId": "11955971158",
+    "source": "script",
+    "createdAt": "2026-11-14T00:05:44.065Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.56.167.162",
+      "city": "Brooklyn",
+      "region": "New York",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
