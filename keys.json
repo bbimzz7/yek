@@ -425,8 +425,15 @@
     "userId": "10828148519",
     "source": "script",
     "createdAt": "2026-11-14T15:27:25.657Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-14T15:27:54.852Z",
     "geo": {
+      "ip": "103.84.144.26",
+      "city": "Tanah Sereal",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.84.144.26",
       "city": "Tanah Sereal",
       "region": "Jakarta",
