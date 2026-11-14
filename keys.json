@@ -392,5 +392,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B0CDBA-68A7AC-6BE7ED": {
+    "expires": "2026-11-15T14:13:19.563Z",
+    "hwid": "8115892928-95FB8CF4-FFF1-4832-9C45-3BAEC0CFD0B4",
+    "browserHwid": null,
+    "username": "WildSasha2000",
+    "userId": "8115892928",
+    "source": "script",
+    "createdAt": "2026-11-14T14:13:20.011Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "2.59.158.213",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "country": "Germany",
+      "cc": "DE"
+    }
   }
 }
