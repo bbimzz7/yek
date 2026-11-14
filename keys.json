@@ -320,5 +320,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-EC7216-13C68D-B6D546": {
+    "expires": "2026-11-15T03:02:07.930Z",
+    "hwid": "11944181892-da5ed6da-ba37-46f5-979d-f34da3eb8cdf",
+    "browserHwid": null,
+    "username": "osamabb_03",
+    "userId": "11944181892",
+    "source": "script",
+    "createdAt": "2026-11-14T03:02:08.934Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "14.160.143.166",
+      "city": "Dương Minh Châu",
+      "region": "Tây Ninh Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
