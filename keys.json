@@ -344,5 +344,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-308561-AAA2A7-5557D3": {
+    "expires": "2026-11-15T08:45:18.752Z",
+    "hwid": "11921492486-70d42a87-f15a-490c-a7a4-863854c0b48b",
+    "browserHwid": null,
+    "username": "GiaRadha6",
+    "userId": "11921492486",
+    "source": "script",
+    "createdAt": "2026-11-14T08:45:19.186Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.250.196.227",
+      "city": "Samal",
+      "region": "Central Luzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
