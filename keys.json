@@ -329,8 +329,15 @@
     "userId": "11944181892",
     "source": "script",
     "createdAt": "2026-11-14T03:02:08.934Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-14T03:03:51.887Z",
     "geo": {
+      "ip": "14.160.143.166",
+      "city": "Dương Minh Châu",
+      "region": "Tây Ninh Province",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "14.160.143.166",
       "city": "Dương Minh Châu",
       "region": "Tây Ninh Province",
