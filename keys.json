@@ -416,5 +416,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-94A35A-9110CB-76CFF8": {
+    "expires": "2026-11-15T15:27:24.963Z",
+    "hwid": "10828148519-5D513D23-1F21-4B1A-AA21-5A25C23F866A",
+    "browserHwid": null,
+    "username": "isallladitya",
+    "userId": "10828148519",
+    "source": "script",
+    "createdAt": "2026-11-14T15:27:25.657Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.84.144.26",
+      "city": "Tanah Sereal",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
