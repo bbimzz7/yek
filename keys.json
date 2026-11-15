@@ -680,5 +680,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-9C770A-1CF21B-F6B794": {
+    "expires": "2026-11-16T13:35:29.776Z",
+    "hwid": "3669627674-90c28990-072a-4f90-bed4-3571ef84f308",
+    "browserHwid": null,
+    "username": "sara123wqf",
+    "userId": "3669627674",
+    "source": "script",
+    "createdAt": "2026-11-15T13:35:30.262Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "91.220.41.60",
+      "city": "Basra",
+      "region": "Basra Governorate",
+      "country": "Iraq",
+      "cc": "IQ"
+    }
   }
 }
