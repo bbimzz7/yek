@@ -488,5 +488,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-D26A4E-81EF56-28C039": {
+    "expires": "2026-11-16T01:03:05.071Z",
+    "hwid": "3128035851-b47efd34-5e54-4580-bac9-3966adfa5eec",
+    "browserHwid": null,
+    "username": "sljjsjkdkc",
+    "userId": "3128035851",
+    "source": "script",
+    "createdAt": "2026-11-15T01:03:05.507Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.85.56.58",
+      "city": "Tongkiling",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
