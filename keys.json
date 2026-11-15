@@ -569,8 +569,15 @@
     "userId": "11561237068",
     "source": "script",
     "createdAt": "2026-11-15T05:14:17.466Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-15T05:14:33.839Z",
     "geo": {
+      "ip": "38.250.149.66",
+      "city": "El Alto",
+      "region": "Piura",
+      "country": "Peru",
+      "cc": "PE"
+    },
+    "lastGeo": {
       "ip": "38.250.149.66",
       "city": "El Alto",
       "region": "Piura",
