@@ -704,5 +704,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-92344F-99FEA7-FB8F21": {
+    "expires": "2026-11-16T19:33:25.393Z",
+    "hwid": "10342567001-0044e903-d857-432e-b738-5788bc28d46c",
+    "browserHwid": null,
+    "username": "nol_10800",
+    "userId": "10342567001",
+    "source": "script",
+    "createdAt": "2026-11-15T19:33:25.862Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "91.79.229.53",
+      "city": "Novosibirsk",
+      "region": "Novosibirsk Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
