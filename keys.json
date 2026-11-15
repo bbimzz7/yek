@@ -464,5 +464,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-F72E53-D7C036-FEA323": {
+    "expires": "2026-11-16T00:36:05.341Z",
+    "hwid": "10238045303-33d4d098-6641-4949-a29c-79a9ddaedac3",
+    "browserHwid": null,
+    "username": "bolillo_quemado125",
+    "userId": "10238045303",
+    "source": "script",
+    "createdAt": "2026-11-15T00:36:05.845Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "187.244.123.139",
+      "city": "Tuxtla Gutiérrez",
+      "region": "Chiapas",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
