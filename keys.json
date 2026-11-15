@@ -656,5 +656,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-F94FD0-AAC866-A34D54": {
+    "expires": "2026-11-16T12:04:47.042Z",
+    "hwid": "2615257649-0dde916e-ea6f-4e9e-a01a-1b665fe74230",
+    "browserHwid": null,
+    "username": "Kalvante",
+    "userId": "2615257649",
+    "source": "script",
+    "createdAt": "2026-11-15T12:04:47.502Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "152.59.162.79",
+      "city": "Kolkata",
+      "region": "West Bengal",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
