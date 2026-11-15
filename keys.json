@@ -713,8 +713,15 @@
     "userId": "10342567001",
     "source": "script",
     "createdAt": "2026-11-15T19:33:25.862Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-15T19:34:48.734Z",
     "geo": {
+      "ip": "91.79.229.53",
+      "city": "Novosibirsk",
+      "region": "Novosibirsk Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "91.79.229.53",
       "city": "Novosibirsk",
       "region": "Novosibirsk Oblast",
