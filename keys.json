@@ -521,8 +521,15 @@
     "userId": "11967783163",
     "source": "script",
     "createdAt": "2026-11-15T01:24:08.368Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-15T01:25:52.842Z",
     "geo": {
+      "ip": "180.249.200.11",
+      "city": "Abepura",
+      "region": "Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "180.249.200.11",
       "city": "Abepura",
       "region": "Papua",
