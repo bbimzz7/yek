@@ -608,5 +608,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-5DF64E-F914DC-16EEE3": {
+    "expires": "2026-11-16T08:28:53.465Z",
+    "hwid": "3570796582-3d8e4397-fbf0-4556-8ab3-5cdc74bab3b5",
+    "browserHwid": null,
+    "username": "daltgov7",
+    "userId": "3570796582",
+    "source": "script",
+    "createdAt": "2026-11-15T08:28:53.876Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "111.95.75.118",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
