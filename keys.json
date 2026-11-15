@@ -545,8 +545,15 @@
     "userId": "5303209330",
     "source": "script",
     "createdAt": "2026-11-15T04:58:30.893Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-15T04:59:29.232Z",
     "geo": {
+      "ip": "187.188.76.101",
+      "city": "General Escobedo",
+      "region": "Nuevo León",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.188.76.101",
       "city": "General Escobedo",
       "region": "Nuevo León",
