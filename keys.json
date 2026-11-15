@@ -473,8 +473,15 @@
     "userId": "10238045303",
     "source": "script",
     "createdAt": "2026-11-15T00:36:05.845Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-15T00:36:17.985Z",
     "geo": {
+      "ip": "187.244.123.139",
+      "city": "Tuxtla Gutiérrez",
+      "region": "Chiapas",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "187.244.123.139",
       "city": "Tuxtla Gutiérrez",
       "region": "Chiapas",
