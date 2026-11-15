@@ -632,5 +632,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-378A09-629B79-4B5BD4": {
+    "expires": "2026-11-16T10:25:52.056Z",
+    "hwid": "2799593075-b1aecce2-1be3-4221-9e2a-046729fcd121",
+    "browserHwid": null,
+    "username": "FaathirGenk",
+    "userId": "2799593075",
+    "source": "script",
+    "createdAt": "2026-11-15T10:25:52.599Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.166.227.39",
+      "city": "Jatiwangi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
