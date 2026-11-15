@@ -512,5 +512,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D8C0C4-135C6F-6DE17C": {
+    "expires": "2026-11-16T01:24:07.922Z",
+    "hwid": "11967783163-4f68d781-5a36-4b23-99a5-4ad75d5a9115",
+    "browserHwid": null,
+    "username": "kulung_77",
+    "userId": "11967783163",
+    "source": "script",
+    "createdAt": "2026-11-15T01:24:08.368Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.249.200.11",
+      "city": "Abepura",
+      "region": "Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
