@@ -497,8 +497,15 @@
     "userId": "3128035851",
     "source": "script",
     "createdAt": "2026-11-15T01:03:05.507Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-15T01:04:26.259Z",
     "geo": {
+      "ip": "103.85.56.58",
+      "city": "Tongkiling",
+      "region": "Central Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.85.56.58",
       "city": "Tongkiling",
       "region": "Central Kalimantan",
