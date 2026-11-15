@@ -560,5 +560,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-D1C348-9542EA-B4C3DF": {
+    "expires": "2026-11-16T05:14:16.992Z",
+    "hwid": "11561237068-042e6db3-0f99-4362-b67f-3015cafbb5e9",
+    "browserHwid": null,
+    "username": "LENNEAARON1",
+    "userId": "11561237068",
+    "source": "script",
+    "createdAt": "2026-11-15T05:14:17.466Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "38.250.149.66",
+      "city": "El Alto",
+      "region": "Piura",
+      "country": "Peru",
+      "cc": "PE"
+    }
   }
 }
