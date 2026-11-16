@@ -865,5 +865,22 @@
       "country": "Latvia",
       "cc": "LV"
     }
+  },
+  "VH-58835D-05F9FE-B81174": {
+    "expires": "2026-11-17T22:59:55.354Z",
+    "hwid": "1857005469-12567cc4-9d01-4401-821c-f9e518b218d1",
+    "browserHwid": null,
+    "username": "Meeodeioo",
+    "userId": "1857005469",
+    "source": "script",
+    "createdAt": "2026-11-16T22:59:55.844Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "191.128.7.33",
+      "city": "Itacaré",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
