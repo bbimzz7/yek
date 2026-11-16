@@ -737,8 +737,15 @@
     "userId": "7705024371",
     "source": "script",
     "createdAt": "2026-11-16T04:00:10.728Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-16T04:01:08.854Z",
     "geo": {
+      "ip": "49.37.39.103",
+      "city": "Kolkata",
+      "region": "West Bengal",
+      "country": "India",
+      "cc": "IN"
+    },
+    "lastGeo": {
       "ip": "49.37.39.103",
       "city": "Kolkata",
       "region": "West Bengal",
