@@ -850,8 +850,15 @@
     "userId": "665254550",
     "source": "script",
     "createdAt": "2026-11-16T18:45:00.740Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-16T18:45:08.045Z",
     "geo": {
+      "ip": "31.56.197.43",
+      "city": "Riga",
+      "region": "Riga",
+      "country": "Latvia",
+      "cc": "LV"
+    },
+    "lastGeo": {
       "ip": "31.56.197.43",
       "city": "Riga",
       "region": "Riga",
