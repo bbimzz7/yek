@@ -841,5 +841,22 @@
       "country": "Mexico",
       "cc": "MX"
     }
+  },
+  "VH-D911EE-A2ECD4-B277C5": {
+    "expires": "2026-11-17T18:44:59.322Z",
+    "hwid": "665254550-EC80D00C-2390-4196-9808-6B6ED8C795FB",
+    "browserHwid": null,
+    "username": "HighMilord",
+    "userId": "665254550",
+    "source": "script",
+    "createdAt": "2026-11-16T18:45:00.740Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "31.56.197.43",
+      "city": "Riga",
+      "region": "Riga",
+      "country": "Latvia",
+      "cc": "LV"
+    }
   }
 }
