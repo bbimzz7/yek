@@ -874,8 +874,15 @@
     "userId": "1857005469",
     "source": "script",
     "createdAt": "2026-11-16T22:59:55.844Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-16T23:01:35.357Z",
     "geo": {
+      "ip": "191.128.7.33",
+      "city": "Itacaré",
+      "region": "Bahia",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "191.128.7.33",
       "city": "Itacaré",
       "region": "Bahia",
