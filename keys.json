@@ -752,5 +752,22 @@
       "country": "India",
       "cc": "IN"
     }
+  },
+  "VH-042D9A-F2A155-6859C9": {
+    "expires": "2026-11-17T06:24:36.476Z",
+    "hwid": "7925666356-0e570b98-1be1-4d5c-909a-932460767710",
+    "browserHwid": null,
+    "username": "reyjohn3330",
+    "userId": "7925666356",
+    "source": "script",
+    "createdAt": "2026-11-16T06:24:37.046Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.146.105.54",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
