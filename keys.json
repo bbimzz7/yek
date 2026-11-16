@@ -826,8 +826,15 @@
     "userId": "5348216778",
     "source": "script",
     "createdAt": "2026-11-16T18:25:17.486Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-16T18:26:37.523Z",
     "geo": {
+      "ip": "201.164.162.61",
+      "city": "Ocotlán",
+      "region": "Jalisco",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "201.164.162.61",
       "city": "Ocotlán",
       "region": "Jalisco",
