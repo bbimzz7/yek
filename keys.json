@@ -793,5 +793,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-DDCB5E-E8CCC0-C79B7D": {
+    "expires": "2026-11-17T10:55:51.469Z",
+    "hwid": "12008271044-cf537be2-bdf8-4af0-b49e-70a96749e90f",
+    "browserHwid": null,
+    "username": "FRONTALGIMANG7",
+    "userId": "12008271044",
+    "source": "script",
+    "createdAt": "2026-11-16T10:55:51.921Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "160.19.19.236",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
