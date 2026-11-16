@@ -817,5 +817,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-DDD6D3-5D10D2-C1818E": {
+    "expires": "2026-11-17T18:25:16.690Z",
+    "hwid": "5348216778-1f090b51-c2de-4d18-9621-fae5c2c63885",
+    "browserHwid": null,
+    "username": "tod3107teojcde1lj",
+    "userId": "5348216778",
+    "source": "script",
+    "createdAt": "2026-11-16T18:25:17.486Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.164.162.61",
+      "city": "Ocotlán",
+      "region": "Jalisco",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
