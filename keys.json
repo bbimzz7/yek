@@ -728,5 +728,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-B0166D-9AE369-22ED77": {
+    "expires": "2026-11-17T04:00:10.311Z",
+    "hwid": "7705024371-23efc76c-c2c5-4130-a9fa-5842a6ebeb3e",
+    "browserHwid": null,
+    "username": "bigcatgotpaws",
+    "userId": "7705024371",
+    "source": "script",
+    "createdAt": "2026-11-16T04:00:10.728Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.37.39.103",
+      "city": "Kolkata",
+      "region": "West Bengal",
+      "country": "India",
+      "cc": "IN"
+    }
   }
 }
