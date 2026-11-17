@@ -937,5 +937,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-04EBBA-15684C-F07BF3": {
+    "expires": "2026-11-18T10:18:06.873Z",
+    "hwid": "8251611874-182636d3-c3d1-4a17-ba26-c9fb77ff4766",
+    "browserHwid": null,
+    "username": "superidol69004",
+    "userId": "8251611874",
+    "source": "script",
+    "createdAt": "2026-11-17T10:18:07.390Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.143.135.39",
+      "city": "Johor Bahru",
+      "region": "Johor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
