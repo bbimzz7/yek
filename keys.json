@@ -987,13 +987,20 @@
     "userId": "12001163344",
     "source": "script",
     "createdAt": "2026-11-17T16:42:34.184Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-17T16:42:43.732Z",
     "geo": {
       "ip": "103.75.119.40",
       "city": "Sydney",
       "region": "New South Wales",
       "country": "Australia",
       "cc": "AU"
+    },
+    "lastGeo": {
+      "ip": "171.236.58.159",
+      "city": "Yên Bái",
+      "region": "Yên Bái Province",
+      "country": "Vietnam",
+      "cc": "VN"
     }
   }
 }
