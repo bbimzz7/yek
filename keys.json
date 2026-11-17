@@ -889,5 +889,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-AB90C2-A4FBBA-B4774B": {
+    "expires": "2026-11-18T00:33:04.025Z",
+    "hwid": "10564002225-3622afd8-7e12-4988-bbee-a4358205353b",
+    "browserHwid": null,
+    "username": "meng_12307",
+    "userId": "10564002225",
+    "source": "script",
+    "createdAt": "2026-11-17T00:33:04.513Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "150.228.157.250",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
