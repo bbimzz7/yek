@@ -913,5 +913,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-F7FE1D-BEFC4F-F9B8FE": {
+    "expires": "2026-11-18T03:18:25.409Z",
+    "hwid": "581600285-3e0369f2-807c-425b-8047-d235f599e7ed",
+    "browserHwid": null,
+    "username": "MhdAlif12",
+    "userId": "581600285",
+    "source": "script",
+    "createdAt": "2026-11-17T03:18:25.832Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.93.114.221",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
