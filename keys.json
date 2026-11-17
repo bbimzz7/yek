@@ -978,5 +978,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-AEF681-DA481A-992C5C": {
+    "expires": "2026-11-18T16:42:33.690Z",
+    "hwid": "12001163344-6D17B22E-C49D-4AC8-A868-99873A5A36A2",
+    "browserHwid": null,
+    "username": "i_00zx",
+    "userId": "12001163344",
+    "source": "script",
+    "createdAt": "2026-11-17T16:42:34.184Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.75.119.40",
+      "city": "Sydney",
+      "region": "New South Wales",
+      "country": "Australia",
+      "cc": "AU"
+    }
   }
 }
