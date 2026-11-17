@@ -963,8 +963,15 @@
     "userId": "8277745059",
     "source": "script",
     "createdAt": "2026-11-17T10:19:50.708Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-17T10:19:57.085Z",
     "geo": {
+      "ip": "165.99.194.14",
+      "city": "Guyangan",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "165.99.194.14",
       "city": "Guyangan",
       "region": "Central Java",
