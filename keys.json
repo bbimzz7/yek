@@ -1203,9 +1203,16 @@
     "userId": "11566848797",
     "source": "script",
     "createdAt": "2026-11-18T22:07:47.093Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-18T22:07:57.809Z",
     "geo": {
       "ip": "102.209.31.157",
+      "city": "Lagos",
+      "region": "Lagos",
+      "country": "Nigeria",
+      "cc": "NG"
+    },
+    "lastGeo": {
+      "ip": "102.209.29.151",
       "city": "Lagos",
       "region": "Lagos",
       "country": "Nigeria",
