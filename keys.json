@@ -1194,5 +1194,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-B045B0-E066D6-F578DE": {
+    "expires": "2026-11-19T22:07:46.606Z",
+    "hwid": "11566848797-c17a6b09-7f43-4a1f-a86c-a9b2c7ece4e3",
+    "browserHwid": null,
+    "username": "hacker1238974",
+    "userId": "11566848797",
+    "source": "script",
+    "createdAt": "2026-11-18T22:07:47.093Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.209.31.157",
+      "city": "Lagos",
+      "region": "Lagos",
+      "country": "Nigeria",
+      "cc": "NG"
+    }
   }
 }
