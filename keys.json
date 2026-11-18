@@ -1026,5 +1026,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-9FC476-BECE33-0C5429": {
+    "expires": "2026-11-19T05:59:22.368Z",
+    "hwid": "10638922803-934bde9c-3ad4-475b-99e2-f406fea60d06",
+    "browserHwid": null,
+    "username": "star_letx",
+    "userId": "10638922803",
+    "source": "script",
+    "createdAt": "2026-11-18T05:59:22.809Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.102.36",
+      "city": "Punggur",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
