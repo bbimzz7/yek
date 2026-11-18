@@ -1035,8 +1035,15 @@
     "userId": "10638922803",
     "source": "script",
     "createdAt": "2026-11-18T05:59:22.809Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-18T06:01:39.019Z",
     "geo": {
+      "ip": "114.10.102.36",
+      "city": "Punggur",
+      "region": "Lampung",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "114.10.102.36",
       "city": "Punggur",
       "region": "Lampung",
