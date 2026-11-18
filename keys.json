@@ -1098,5 +1098,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-B2F19D-3BDA8F-3F4C6C": {
+    "expires": "2026-11-19T12:13:39.947Z",
+    "hwid": "8791687040-b5d8dd06-ff74-43d1-bf6b-b0960695de74",
+    "browserHwid": null,
+    "username": "Adibacute170",
+    "userId": "8791687040",
+    "source": "script",
+    "createdAt": "2026-11-18T12:13:40.597Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.125.46.182",
+      "city": "Shah Alam",
+      "region": "Selangor",
+      "country": "Malaysia",
+      "cc": "MY"
+    }
   }
 }
