@@ -1155,8 +1155,15 @@
     "userId": "8551747811",
     "source": "script",
     "createdAt": "2026-11-18T17:41:45.079Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-18T17:41:56.383Z",
     "geo": {
+      "ip": "14.207.34.132",
+      "city": "Kranuan",
+      "region": "Khon Kaen",
+      "country": "Thailand",
+      "cc": "TH"
+    },
+    "lastGeo": {
       "ip": "14.207.34.132",
       "city": "Kranuan",
       "region": "Khon Kaen",
