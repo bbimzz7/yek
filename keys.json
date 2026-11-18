@@ -1122,5 +1122,22 @@
       "country": "Malaysia",
       "cc": "MY"
     }
+  },
+  "VH-97D469-66AACA-3C7AEC": {
+    "expires": "2026-11-19T12:39:48.771Z",
+    "hwid": "11970057907-057feee0-b141-49c9-b028-1be29c001c8f",
+    "browserHwid": null,
+    "username": "VynKairo_7",
+    "userId": "11970057907",
+    "source": "script",
+    "createdAt": "2026-11-18T12:39:49.244Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.211.43",
+      "city": "Semarang",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
