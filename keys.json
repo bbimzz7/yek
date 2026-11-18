@@ -1170,5 +1170,22 @@
       "country": "Thailand",
       "cc": "TH"
     }
+  },
+  "VH-440F10-8CBB15-1023A7": {
+    "expires": "2026-11-19T18:06:10.363Z",
+    "hwid": "5639668719-4d3fc68e-aeac-4fbe-a7d6-46355506b090",
+    "browserHwid": null,
+    "username": "luminairell1",
+    "userId": "5639668719",
+    "source": "script",
+    "createdAt": "2026-11-18T18:06:10.928Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.211.119",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
