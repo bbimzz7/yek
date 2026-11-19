@@ -1218,5 +1218,22 @@
       "country": "Nigeria",
       "cc": "NG"
     }
+  },
+  "VH-3DA375-C1F639-6CB014": {
+    "expires": "2026-11-20T05:04:08.066Z",
+    "hwid": "4723163807-22199cf6-73ae-4b3e-a980-0583ab4eaaf6",
+    "browserHwid": null,
+    "username": "caixukun207",
+    "userId": "4723163807",
+    "source": "script",
+    "createdAt": "2026-11-19T05:04:08.566Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "204.51.40.222",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
