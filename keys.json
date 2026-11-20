@@ -1338,5 +1338,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-1666C1-DC5F1F-F8F064": {
+    "expires": "2026-11-21T11:52:36.453Z",
+    "hwid": "11102176657-df124e9c-d063-4c38-b191-fb47f8919c9d",
+    "browserHwid": null,
+    "username": "mi_goreng3227",
+    "userId": "11102176657",
+    "source": "script",
+    "createdAt": "2026-11-20T11:52:36.998Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.79.247.57",
+      "city": "Malang",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
