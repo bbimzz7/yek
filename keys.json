@@ -1299,8 +1299,15 @@
     "userId": "9344361725",
     "source": "script",
     "createdAt": "2026-11-20T03:44:57.759Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-20T03:46:52.876Z",
     "geo": {
+      "ip": "67.230.42.147",
+      "city": "Montego Bay",
+      "region": "Saint James Parish",
+      "country": "Jamaica",
+      "cc": "JM"
+    },
+    "lastGeo": {
       "ip": "67.230.42.147",
       "city": "Montego Bay",
       "region": "Saint James Parish",
