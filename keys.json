@@ -1290,5 +1290,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-297998-4376DA-5A83A7": {
+    "expires": "2026-11-21T03:44:57.209Z",
+    "hwid": "9344361725-35115625-0f64-4e47-ad02-3be219b9f72b",
+    "browserHwid": null,
+    "username": "zxzxzzxxzxzxzxzx",
+    "userId": "9344361725",
+    "source": "script",
+    "createdAt": "2026-11-20T03:44:57.759Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "67.230.42.147",
+      "city": "Montego Bay",
+      "region": "Saint James Parish",
+      "country": "Jamaica",
+      "cc": "JM"
+    }
   }
 }
