@@ -1314,5 +1314,22 @@
       "country": "Jamaica",
       "cc": "JM"
     }
+  },
+  "VH-17ADF9-AD2823-2A2D98": {
+    "expires": "2026-11-21T07:34:56.472Z",
+    "hwid": "12026938589-cd4c97fd-b0b3-48cd-b205-63f9c19d77de",
+    "browserHwid": null,
+    "username": "player2345366",
+    "userId": "12026938589",
+    "source": "script",
+    "createdAt": "2026-11-20T07:34:56.944Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.235.92.234",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
