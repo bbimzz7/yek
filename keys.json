@@ -1386,5 +1386,22 @@
       "country": "Georgia",
       "cc": "GE"
     }
+  },
+  "VH-9427F5-D2DF13-ADEEE7": {
+    "expires": "2026-11-21T18:37:28.521Z",
+    "hwid": "12022156888-2dfa0412-50bf-4462-ade1-96361f1b1908",
+    "browserHwid": null,
+    "username": "Kaza_Jey",
+    "userId": "12022156888",
+    "source": "script",
+    "createdAt": "2026-11-20T18:37:28.979Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "112.215.45.52",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
