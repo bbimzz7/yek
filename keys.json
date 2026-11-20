@@ -1362,5 +1362,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-670D26-8A50CF-7FDB6D": {
+    "expires": "2026-11-21T13:17:03.230Z",
+    "hwid": "11990724479-697cfdd7-bc4b-4054-ace4-2a9be58547a4",
+    "browserHwid": null,
+    "username": "tazoberidze1",
+    "userId": "11990724479",
+    "source": "script",
+    "createdAt": "2026-11-20T13:17:03.731Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "193.176.214.3",
+      "city": "Tbilisi",
+      "region": "Tbilisi",
+      "country": "Georgia",
+      "cc": "GE"
+    }
   }
 }
