@@ -1410,5 +1410,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-243FFF-346259-B097FF": {
+    "expires": "2026-11-22T01:20:25.489Z",
+    "hwid": "10564002225-d989941b-3d53-47e3-873b-c1841a9bd75a",
+    "browserHwid": null,
+    "username": "meng_12307",
+    "userId": "10564002225",
+    "source": "script",
+    "createdAt": "2026-11-21T01:20:25.932Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.235.92.210",
+      "city": "Manila",
+      "region": "National Capital Region",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
