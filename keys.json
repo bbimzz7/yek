@@ -1578,5 +1578,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-78C71B-DA79B6-98DC79": {
+    "expires": "2026-11-22T15:24:30.565Z",
+    "hwid": "12023554400-da7ef679-56d3-486a-af02-de20e31e76da",
+    "browserHwid": null,
+    "username": "ttrrtr511",
+    "userId": "12023554400",
+    "source": "script",
+    "createdAt": "2026-11-21T15:24:30.979Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "45.190.155.38",
+      "city": "Curitiba",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    }
   }
 }
