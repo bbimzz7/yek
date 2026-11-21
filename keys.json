@@ -1515,8 +1515,15 @@
     "userId": "11717290944",
     "source": "script",
     "createdAt": "2026-11-21T09:36:27.768Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-21T09:36:39.965Z",
     "geo": {
+      "ip": "88.147.141.162",
+      "city": "Saratov",
+      "region": "Saratov Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    },
+    "lastGeo": {
       "ip": "88.147.141.162",
       "city": "Saratov",
       "region": "Saratov Oblast",
