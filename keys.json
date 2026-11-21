@@ -1458,5 +1458,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-728005-7D1C29-E1E4A5": {
+    "expires": "2026-11-22T05:16:21.550Z",
+    "hwid": "9910841817-ecc73cc2-ad44-4c0a-8298-b994b054ad4d",
+    "browserHwid": null,
+    "username": "xerzes58",
+    "userId": "9910841817",
+    "source": "script",
+    "createdAt": "2026-11-21T05:16:21.983Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "101.128.120.120",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
