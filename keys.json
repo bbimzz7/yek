@@ -1626,5 +1626,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-327FF7-E330C2-54DA04": {
+    "expires": "2026-11-22T16:55:43.810Z",
+    "hwid": "11002668017-0c17cced-770d-4749-8f55-8eaa787e3842",
+    "browserHwid": null,
+    "username": "Hung77102",
+    "userId": "11002668017",
+    "source": "script",
+    "createdAt": "2026-11-21T16:55:44.210Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "42.118.188.152",
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
