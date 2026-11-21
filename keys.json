@@ -1539,8 +1539,15 @@
     "userId": "11348009841",
     "source": "script",
     "createdAt": "2026-11-21T09:52:31.195Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-21T09:52:38.875Z",
     "geo": {
+      "ip": "103.132.40.67",
+      "city": "Wonosobo",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "103.132.40.67",
       "city": "Wonosobo",
       "region": "Central Java",
