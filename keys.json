@@ -1650,5 +1650,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-25F8AB-C9B86B-194D07": {
+    "expires": "2026-11-22T22:33:39.965Z",
+    "hwid": "10376335849-eb8f469f-43cc-4d08-9b31-4a32c60f0624",
+    "browserHwid": null,
+    "username": "miee_ami15",
+    "userId": "10376335849",
+    "source": "script",
+    "createdAt": "2026-11-21T22:33:40.420Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.73.27.187",
+      "city": "Cicurug",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
