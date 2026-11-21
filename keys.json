@@ -1443,8 +1443,15 @@
     "userId": "12032063094",
     "source": "script",
     "createdAt": "2026-11-21T04:44:17.819Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-21T04:45:35.713Z",
     "geo": {
+      "ip": "171.236.70.175",
+      "city": "Long Xuyen",
+      "region": "An Giang",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "171.236.70.175",
       "city": "Long Xuyen",
       "region": "An Giang",
