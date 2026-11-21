@@ -1602,5 +1602,22 @@
       "country": "Brazil",
       "cc": "BR"
     }
+  },
+  "VH-48F878-4E3022-DCB73F": {
+    "expires": "2026-11-22T16:50:18.052Z",
+    "hwid": "12036345116-6DC35CB1-6683-4533-8BF6-DF07D64DB4A0",
+    "browserHwid": null,
+    "username": "akunsekenvano",
+    "userId": "12036345116",
+    "source": "script",
+    "createdAt": "2026-11-21T16:50:18.527Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "158.140.182.29",
+      "city": "South Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
