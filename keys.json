@@ -1434,5 +1434,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-7B8E00-7C138D-F87CF8": {
+    "expires": "2026-11-22T04:44:17.321Z",
+    "hwid": "12032063094-544eb9f8-13b7-46d3-b41f-c6441aee361c",
+    "browserHwid": null,
+    "username": "HAVN_530",
+    "userId": "12032063094",
+    "source": "script",
+    "createdAt": "2026-11-21T04:44:17.819Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "171.236.70.175",
+      "city": "Long Xuyen",
+      "region": "An Giang",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
