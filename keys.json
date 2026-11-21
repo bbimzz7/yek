@@ -1587,8 +1587,15 @@
     "userId": "12023554400",
     "source": "script",
     "createdAt": "2026-11-21T15:24:30.979Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-21T15:25:39.745Z",
     "geo": {
+      "ip": "45.190.155.38",
+      "city": "Curitiba",
+      "region": "Paraná",
+      "country": "Brazil",
+      "cc": "BR"
+    },
+    "lastGeo": {
       "ip": "45.190.155.38",
       "city": "Curitiba",
       "region": "Paraná",
