@@ -1506,5 +1506,22 @@
       "country": "Iraq",
       "cc": "IQ"
     }
+  },
+  "VH-F4456D-91293C-C9B2BA": {
+    "expires": "2026-11-22T09:36:27.296Z",
+    "hwid": "11717290944-393c8a85-3fab-475e-96f7-2dd5b998764e",
+    "browserHwid": null,
+    "username": "99nightsscripts79",
+    "userId": "11717290944",
+    "source": "script",
+    "createdAt": "2026-11-21T09:36:27.768Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "88.147.141.162",
+      "city": "Saratov",
+      "region": "Saratov Oblast",
+      "country": "Russia",
+      "cc": "RU"
+    }
   }
 }
