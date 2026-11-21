@@ -1563,10 +1563,17 @@
     "userId": "9439740680",
     "source": "script",
     "createdAt": "2026-11-21T15:16:22.870Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-21T15:16:33.712Z",
     "geo": {
       "ip": "112.215.152.197",
       "city": "North Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
+      "ip": "140.213.14.98",
+      "city": "West Jakarta",
       "region": "Jakarta",
       "country": "Indonesia",
       "cc": "ID"
