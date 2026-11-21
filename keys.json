@@ -1530,5 +1530,22 @@
       "country": "Russia",
       "cc": "RU"
     }
+  },
+  "VH-C6EBEC-9504FD-2590A8": {
+    "expires": "2026-11-22T09:52:30.762Z",
+    "hwid": "11348009841-398421b6-1bb0-4ed5-80b9-13d1f833215c",
+    "browserHwid": null,
+    "username": "akunratus",
+    "userId": "11348009841",
+    "source": "script",
+    "createdAt": "2026-11-21T09:52:31.195Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.132.40.67",
+      "city": "Wonosobo",
+      "region": "Central Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
