@@ -1827,8 +1827,15 @@
     "userId": "8755554804",
     "source": "script",
     "createdAt": "2026-11-22T16:07:52.032Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-22T16:21:18.597Z",
     "geo": {
+      "ip": "201.229.136.203",
+      "city": "Santo Domingo",
+      "region": "Nacional",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    },
+    "lastGeo": {
       "ip": "201.229.136.203",
       "city": "Santo Domingo",
       "region": "Nacional",
