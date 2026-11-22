@@ -1842,5 +1842,22 @@
       "country": "Dominican Republic",
       "cc": "DO"
     }
+  },
+  "VH-C7176B-1E391D-9FC90F": {
+    "expires": "2026-11-23T16:40:35.286Z",
+    "hwid": "11585931510-2dfa0412-50bf-4462-ade1-96361f1b1908",
+    "browserHwid": null,
+    "username": "Viona_keylin",
+    "userId": "11585931510",
+    "source": "script",
+    "createdAt": "2026-11-22T16:40:35.723Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.161.201.234",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
