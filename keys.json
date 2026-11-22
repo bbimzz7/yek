@@ -1890,5 +1890,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8E6B78-3AB6FB-9C5BBC": {
+    "expires": "2026-11-23T17:52:34.208Z",
+    "hwid": "10704085901-b0195cb3-33b0-4715-9586-b0ed925541a2",
+    "browserHwid": null,
+    "username": "Raybrown123450",
+    "userId": "10704085901",
+    "source": "script",
+    "createdAt": "2026-11-22T17:52:34.699Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "173.40.144.89",
+      "city": "Hammond",
+      "region": "Louisiana",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
