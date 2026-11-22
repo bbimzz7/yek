@@ -1803,8 +1803,15 @@
     "userId": "7116890072",
     "source": "script",
     "createdAt": "2026-11-22T15:19:41.155Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-22T15:20:52.161Z",
     "geo": {
+      "ip": "61.94.243.229",
+      "city": "Tangerang",
+      "region": "Banten",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "61.94.243.229",
       "city": "Tangerang",
       "region": "Banten",
