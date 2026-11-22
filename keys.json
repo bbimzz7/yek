@@ -1923,8 +1923,15 @@
     "userId": "12043155671",
     "source": "script",
     "createdAt": "2026-11-22T19:30:01.836Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-22T19:30:10.586Z",
     "geo": {
+      "ip": "142.202.48.98",
+      "city": "Newark",
+      "region": "New Jersey",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "142.202.48.98",
       "city": "Newark",
       "region": "New Jersey",
