@@ -1818,5 +1818,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-21BDCC-327835-9562E1": {
+    "expires": "2026-11-23T16:07:51.604Z",
+    "hwid": "8755554804-ea38e914-f06c-4d67-8425-73105fe33e8b",
+    "browserHwid": null,
+    "username": "sadiel121123",
+    "userId": "8755554804",
+    "source": "script",
+    "createdAt": "2026-11-22T16:07:52.032Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.229.136.203",
+      "city": "Santo Domingo",
+      "region": "Nacional",
+      "country": "Dominican Republic",
+      "cc": "DO"
+    }
   }
 }
