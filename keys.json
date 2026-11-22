@@ -1899,8 +1899,15 @@
     "userId": "10704085901",
     "source": "script",
     "createdAt": "2026-11-22T17:52:34.699Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-22T17:52:45.412Z",
     "geo": {
+      "ip": "173.40.144.89",
+      "city": "Hammond",
+      "region": "Louisiana",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "173.40.144.89",
       "city": "Hammond",
       "region": "Louisiana",
