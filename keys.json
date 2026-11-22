@@ -1770,5 +1770,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-7472D0-436D63-3175B4": {
+    "expires": "2026-11-23T14:59:54.434Z",
+    "hwid": "8824796606-7d9ce149-5138-4c5b-bb97-6f39886b371e",
+    "browserHwid": null,
+    "username": "Arullah0",
+    "userId": "8824796606",
+    "source": "script",
+    "createdAt": "2026-11-22T14:59:54.910Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.9.225.47",
+      "city": "Palembang",
+      "region": "South Sumatra",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
