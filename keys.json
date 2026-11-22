@@ -1674,5 +1674,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-EB6D76-1C6E91-37F88D": {
+    "expires": "2026-11-23T01:04:02.833Z",
+    "hwid": "3974005942-c04b3cbe-364d-45ab-b766-b1419083e6f4",
+    "browserHwid": null,
+    "username": "ACEgeminim",
+    "userId": "3974005942",
+    "source": "script",
+    "createdAt": "2026-11-22T01:04:03.301Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.136.241",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
