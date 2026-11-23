@@ -1962,5 +1962,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-CA3E81-13824B-5C46A8": {
+    "expires": "2026-11-24T07:53:22.733Z",
+    "hwid": "12033113040-c0dc2b88-9f13-46a8-bf05-d6c2f8d7d512",
+    "browserHwid": null,
+    "username": "lainickmoinha",
+    "userId": "12033113040",
+    "source": "script",
+    "createdAt": "2026-11-23T07:53:23.226Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "116.99.253.163",
+      "city": "Sơn Dương",
+      "region": "Tuyen Quang",
+      "country": "Vietnam",
+      "cc": "VN"
+    }
   }
 }
