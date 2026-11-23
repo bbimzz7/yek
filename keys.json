@@ -1986,5 +1986,22 @@
       "country": "Vietnam",
       "cc": "VN"
     }
+  },
+  "VH-A79634-BA9719-AE19D9": {
+    "expires": "2026-11-24T13:30:59.049Z",
+    "hwid": "11668778215-3f0e91c3-36b6-4e42-b9d6-4bf7a7554b50",
+    "browserHwid": null,
+    "username": "pr4ty_sittie76",
+    "userId": "11668778215",
+    "source": "script",
+    "createdAt": "2026-11-23T13:30:59.679Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "49.146.105.5",
+      "city": "Makati City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
