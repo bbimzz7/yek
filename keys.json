@@ -1938,5 +1938,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-EE1E60-07766F-822E4D": {
+    "expires": "2026-11-24T07:32:12.424Z",
+    "hwid": "7339773978-99587003-5ecb-4fef-bd1a-91930d4ed605",
+    "browserHwid": null,
+    "username": "Ghazali8850",
+    "userId": "7339773978",
+    "source": "script",
+    "createdAt": "2026-11-23T07:32:12.955Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "182.8.66.22",
+      "city": "Surabaya",
+      "region": "East Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
