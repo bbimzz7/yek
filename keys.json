@@ -1971,8 +1971,15 @@
     "userId": "12033113040",
     "source": "script",
     "createdAt": "2026-11-23T07:53:23.226Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-23T07:53:35.513Z",
     "geo": {
+      "ip": "116.99.253.163",
+      "city": "Sơn Dương",
+      "region": "Tuyen Quang",
+      "country": "Vietnam",
+      "cc": "VN"
+    },
+    "lastGeo": {
       "ip": "116.99.253.163",
       "city": "Sơn Dương",
       "region": "Tuyen Quang",
