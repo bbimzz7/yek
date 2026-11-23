@@ -2043,8 +2043,15 @@
     "userId": "10393320129",
     "source": "script",
     "createdAt": "2026-11-23T15:12:35.430Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-23T15:12:46.178Z",
     "geo": {
+      "ip": "186.77.197.217",
+      "city": "Managua",
+      "region": "Managua Department",
+      "country": "Nicaragua",
+      "cc": "NI"
+    },
+    "lastGeo": {
       "ip": "186.77.197.217",
       "city": "Managua",
       "region": "Managua Department",
