@@ -2034,5 +2034,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-895530-7E0733-A5EB94": {
+    "expires": "2026-11-24T15:12:34.876Z",
+    "hwid": "10393320129-ceb4b87e-9208-43db-af08-0bcc01a92b95",
+    "browserHwid": null,
+    "username": "YinYanj2",
+    "userId": "10393320129",
+    "source": "script",
+    "createdAt": "2026-11-23T15:12:35.430Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "186.77.197.217",
+      "city": "Managua",
+      "region": "Managua Department",
+      "country": "Nicaragua",
+      "cc": "NI"
+    }
   }
 }
