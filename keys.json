@@ -2010,5 +2010,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-912C66-302977-F05A62": {
+    "expires": "2026-11-24T13:37:48.459Z",
+    "hwid": "8985377727-04CAC303-DC29-4571-BF86-91309A6C4C71",
+    "browserHwid": null,
+    "username": "Gula_bala",
+    "userId": "8985377727",
+    "source": "script",
+    "createdAt": "2026-11-23T13:37:48.943Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "36.72.164.197",
+      "city": "Bekasi",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
