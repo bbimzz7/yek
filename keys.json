@@ -2091,8 +2091,15 @@
     "userId": "10041412863",
     "source": "script",
     "createdAt": "2026-11-24T08:55:18.379Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-24T08:56:27.356Z",
     "geo": {
+      "ip": "201.163.152.58",
+      "city": "Catemaco",
+      "region": "Veracruz",
+      "country": "Mexico",
+      "cc": "MX"
+    },
+    "lastGeo": {
       "ip": "201.163.152.58",
       "city": "Catemaco",
       "region": "Veracruz",
