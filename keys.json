@@ -2130,5 +2130,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-54C6B1-F2DC31-869309": {
+    "expires": "2026-11-25T10:00:42.492Z",
+    "hwid": "11803934533-63529a9e-da4b-4eae-8567-78c751f6f2aa",
+    "browserHwid": null,
+    "username": "vimean_6767671",
+    "userId": "11803934533",
+    "source": "script",
+    "createdAt": "2026-11-24T10:00:42.996Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.100.59.139",
+      "city": "Phnom Penh",
+      "region": "Phnom Penh",
+      "country": "Cambodia",
+      "cc": "KH"
+    }
   }
 }
