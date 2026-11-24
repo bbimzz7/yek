@@ -2202,5 +2202,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-8A2A1D-913929-446D7F": {
+    "expires": "2026-11-25T12:24:39.373Z",
+    "hwid": null,
+    "browserHwid": "BR-43F3493D-MYG2G",
+    "username": "Shenzy00",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-11-24T12:24:39.978Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "202.65.238.134",
+      "city": "Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
