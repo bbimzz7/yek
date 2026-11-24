@@ -2082,5 +2082,22 @@
       "country": "South Africa",
       "cc": "ZA"
     }
+  },
+  "VH-E22BB8-9FB93B-9FEF99": {
+    "expires": "2026-11-25T08:55:17.860Z",
+    "hwid": "10041412863-6b16f8b9-f5d5-486e-9138-73254dae96e0",
+    "browserHwid": null,
+    "username": "dhaly_07",
+    "userId": "10041412863",
+    "source": "script",
+    "createdAt": "2026-11-24T08:55:18.379Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "201.163.152.58",
+      "city": "Catemaco",
+      "region": "Veracruz",
+      "country": "Mexico",
+      "cc": "MX"
+    }
   }
 }
