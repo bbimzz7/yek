@@ -2228,8 +2228,15 @@
     "userId": "10406789800",
     "source": "script",
     "createdAt": "2026-11-24T17:06:17.873Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-24T17:07:08.031Z",
     "geo": {
+      "ip": "27.147.226.178",
+      "city": "Dhaka",
+      "region": "Dhaka Division",
+      "country": "Bangladesh",
+      "cc": "BD"
+    },
+    "lastGeo": {
       "ip": "27.147.226.178",
       "city": "Dhaka",
       "region": "Dhaka Division",
