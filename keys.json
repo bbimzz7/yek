@@ -2219,5 +2219,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-687052-431D9F-40DF9B": {
+    "expires": "2026-11-25T17:06:17.335Z",
+    "hwid": "10406789800-b160c9af-10b0-40d4-8a1b-35aeed37390a",
+    "browserHwid": null,
+    "username": "iloverobloxXp188",
+    "userId": "10406789800",
+    "source": "script",
+    "createdAt": "2026-11-24T17:06:17.873Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "27.147.226.178",
+      "city": "Dhaka",
+      "region": "Dhaka Division",
+      "country": "Bangladesh",
+      "cc": "BD"
+    }
   }
 }
