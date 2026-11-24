@@ -2058,5 +2058,22 @@
       "country": "Nicaragua",
       "cc": "NI"
     }
+  },
+  "VH-55151F-9CBE76-58B666": {
+    "expires": "2026-11-25T01:49:58.751Z",
+    "hwid": "7622516600-0b9c493b-efd6-446c-9c81-5b0604ba5dda",
+    "browserHwid": null,
+    "username": "lynde51",
+    "userId": "7622516600",
+    "source": "script",
+    "createdAt": "2026-11-24T01:49:59.206Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "102.66.145.208",
+      "city": "Potchefstroom",
+      "region": "North West",
+      "country": "South Africa",
+      "cc": "ZA"
+    }
   }
 }
