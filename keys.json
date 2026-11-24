@@ -2163,8 +2163,15 @@
     "userId": "11663066689",
     "source": "script",
     "createdAt": "2026-11-24T11:40:37.151Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-24T11:41:32.452Z",
     "geo": {
+      "ip": "153.76.66.69",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "153.76.66.69",
       "city": "Banjarmasin",
       "region": "South Kalimantan",
