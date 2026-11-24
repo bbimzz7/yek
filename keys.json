@@ -2154,5 +2154,22 @@
       "country": "Cambodia",
       "cc": "KH"
     }
+  },
+  "VH-AEE30E-EE28AB-C2D920": {
+    "expires": "2026-11-25T11:40:36.692Z",
+    "hwid": "11663066689-df93779f-5540-4841-bcb9-ee9bb2f322d3",
+    "browserHwid": null,
+    "username": "Anggaogelang01",
+    "userId": "11663066689",
+    "source": "script",
+    "createdAt": "2026-11-24T11:40:37.151Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "153.76.66.69",
+      "city": "Banjarmasin",
+      "region": "South Kalimantan",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
