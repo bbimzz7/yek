@@ -2115,7 +2115,7 @@
     "userId": "12047745418",
     "source": "script",
     "createdAt": "2026-11-24T09:25:01.103Z",
-    "lastUsed": "2026-11-24T09:26:08.811Z",
+    "lastUsed": "2026-11-24T09:26:58.869Z",
     "geo": {
       "ip": "139.135.78.100",
       "city": "Santa Margarita",
@@ -2124,8 +2124,8 @@
       "cc": "PH"
     },
     "lastGeo": {
-      "ip": "203.177.1.38",
-      "city": "Santa Margarita",
+      "ip": "139.135.78.102",
+      "city": "Piña",
       "region": "Eastern Visayas",
       "country": "Philippines",
       "cc": "PH"
