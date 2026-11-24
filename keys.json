@@ -2067,8 +2067,15 @@
     "userId": "7622516600",
     "source": "script",
     "createdAt": "2026-11-24T01:49:59.206Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-24T01:50:10.340Z",
     "geo": {
+      "ip": "102.66.145.208",
+      "city": "Potchefstroom",
+      "region": "North West",
+      "country": "South Africa",
+      "cc": "ZA"
+    },
+    "lastGeo": {
       "ip": "102.66.145.208",
       "city": "Potchefstroom",
       "region": "North West",
