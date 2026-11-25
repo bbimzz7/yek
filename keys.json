@@ -2396,8 +2396,15 @@
     "userId": "8930488091",
     "source": "script",
     "createdAt": "2026-11-25T20:07:41.638Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-25T20:09:38.072Z",
     "geo": {
+      "ip": "177.10.187.138",
+      "city": "Choloma",
+      "region": "Cortés Department",
+      "country": "Honduras",
+      "cc": "HN"
+    },
+    "lastGeo": {
       "ip": "177.10.187.138",
       "city": "Choloma",
       "region": "Cortés Department",
