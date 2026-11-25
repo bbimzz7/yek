@@ -2363,5 +2363,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3946ED-821F19-DA4C64": {
+    "expires": "2026-11-26T16:40:14.428Z",
+    "hwid": "9926382779-84be1e6a-29b8-48fa-9ed5-b0398d4d8db6",
+    "browserHwid": null,
+    "username": "ziper_991",
+    "userId": "9926382779",
+    "source": "script",
+    "createdAt": "2026-11-25T16:40:15.006Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "194.230.160.121",
+      "city": "Aesch",
+      "region": "Lucerne",
+      "country": "Switzerland",
+      "cc": "CH"
+    }
   }
 }
