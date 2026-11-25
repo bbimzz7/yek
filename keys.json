@@ -2387,5 +2387,22 @@
       "country": "Switzerland",
       "cc": "CH"
     }
+  },
+  "VH-57D1A7-742217-3CC3FF": {
+    "expires": "2026-11-26T20:07:40.987Z",
+    "hwid": "8930488091-3243dd60-a6fd-4aec-a360-ca0afa49fa51",
+    "browserHwid": null,
+    "username": "GAEL_UU1",
+    "userId": "8930488091",
+    "source": "script",
+    "createdAt": "2026-11-25T20:07:41.638Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "177.10.187.138",
+      "city": "Choloma",
+      "region": "Cortés Department",
+      "country": "Honduras",
+      "cc": "HN"
+    }
   }
 }
