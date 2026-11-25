@@ -2372,8 +2372,15 @@
     "userId": "9926382779",
     "source": "script",
     "createdAt": "2026-11-25T16:40:15.006Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-25T16:40:26.962Z",
     "geo": {
+      "ip": "194.230.160.121",
+      "city": "Aesch",
+      "region": "Lucerne",
+      "country": "Switzerland",
+      "cc": "CH"
+    },
+    "lastGeo": {
       "ip": "194.230.160.121",
       "city": "Aesch",
       "region": "Lucerne",
