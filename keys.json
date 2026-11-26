@@ -2517,5 +2517,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BA9858-33D949-1CFF66": {
+    "expires": "2026-11-27T15:36:23.027Z",
+    "hwid": "7822096594-b36a475d-44f0-428e-8e5f-942141445e22",
+    "browserHwid": null,
+    "username": "vrxoiq",
+    "userId": "7822096594",
+    "source": "script",
+    "createdAt": "2026-11-26T15:36:23.545Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "76.34.85.92",
+      "city": "Columbus",
+      "region": "Ohio",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
