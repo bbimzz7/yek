@@ -2541,5 +2541,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-423ADD-88DA62-65BD85": {
+    "expires": "2026-11-27T15:55:23.813Z",
+    "hwid": "8930063446-a524e4d1-e7a3-4377-9197-83dcd0771f45",
+    "browserHwid": null,
+    "username": "rujak1n",
+    "userId": "8930063446",
+    "source": "script",
+    "createdAt": "2026-11-26T15:55:24.295Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "114.10.76.77",
+      "city": "West Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
