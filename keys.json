@@ -2493,5 +2493,22 @@
       "country": "Kuwait",
       "cc": "KW"
     }
+  },
+  "VH-EF6B56-FB07CC-E6A568": {
+    "expires": "2026-11-27T13:35:48.372Z",
+    "hwid": "11904335346-D86C4FBD-3DA8-454B-9C56-66A1698B07F4",
+    "browserHwid": null,
+    "username": "gabrowopromax",
+    "userId": "11904335346",
+    "source": "script",
+    "createdAt": "2026-11-26T13:35:48.858Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "180.252.63.4",
+      "city": "Kota Batam",
+      "region": "Riau Islands",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
