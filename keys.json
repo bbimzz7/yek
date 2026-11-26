@@ -2582,5 +2582,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-D8E89D-912641-A54302": {
+    "expires": "2026-11-27T18:54:08.771Z",
+    "hwid": "11290004813-1121708e-3688-4ea2-b64e-aed4e8b98e2c",
+    "browserHwid": null,
+    "username": "yxuidhxhxh",
+    "userId": "11290004813",
+    "source": "script",
+    "createdAt": "2026-11-26T18:54:09.256Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "37.32.73.206",
+      "city": "Almaty",
+      "region": "Almaty",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
