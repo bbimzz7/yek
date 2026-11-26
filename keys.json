@@ -2476,5 +2476,22 @@
       "country": "Kuwait",
       "cc": "KW"
     }
+  },
+  "VH-EE7572-327D50-8AF6B8": {
+    "expires": "2026-11-27T12:18:38.790Z",
+    "hwid": null,
+    "browserHwid": "BR-1B803971-J1BMA",
+    "username": "VH-AEBC70-05EE96-BBC5E4",
+    "userId": null,
+    "source": "browser",
+    "createdAt": "2026-11-26T12:18:39.107Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "188.70.50.46",
+      "city": "Kuwait City",
+      "region": "Al Asimah",
+      "country": "Kuwait",
+      "cc": "KW"
+    }
   }
 }
