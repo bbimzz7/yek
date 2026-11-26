@@ -2411,5 +2411,22 @@
       "country": "Honduras",
       "cc": "HN"
     }
+  },
+  "VH-299BCD-F85F1E-495A57": {
+    "expires": "2026-11-27T11:00:59.003Z",
+    "hwid": "9149478008-287a85b0-8e1e-4456-b69d-083c30144955",
+    "browserHwid": null,
+    "username": "kite_vip3",
+    "userId": "9149478008",
+    "source": "script",
+    "createdAt": "2026-11-26T11:00:59.561Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "138.84.134.59",
+      "city": "Quezon City",
+      "region": "Metro Manila",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
