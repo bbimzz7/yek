@@ -2783,8 +2783,15 @@
     "userId": "11783260988",
     "source": "script",
     "createdAt": "2026-11-27T09:16:24.651Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-27T09:22:35.024Z",
     "geo": {
+      "ip": "175.176.61.108",
+      "city": "Batangas",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    },
+    "lastGeo": {
       "ip": "175.176.61.108",
       "city": "Batangas",
       "region": "Calabarzon",
