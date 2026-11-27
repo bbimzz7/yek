@@ -2639,8 +2639,15 @@
     "userId": "10662149375",
     "source": "script",
     "createdAt": "2026-11-27T00:30:22.862Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-27T00:31:24.424Z",
     "geo": {
+      "ip": "172.58.244.138",
+      "city": "Washington",
+      "region": "District of Columbia",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "172.58.244.138",
       "city": "Washington",
       "region": "District of Columbia",
