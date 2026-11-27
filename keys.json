@@ -2630,5 +2630,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-629319-092F60-E579DF": {
+    "expires": "2026-11-28T00:30:22.330Z",
+    "hwid": "10662149375-6077c041-be34-418a-9dbc-a2c5de86f411",
+    "browserHwid": null,
+    "username": "SalvadorGamer400",
+    "userId": "10662149375",
+    "source": "script",
+    "createdAt": "2026-11-27T00:30:22.862Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "172.58.244.138",
+      "city": "Washington",
+      "region": "District of Columbia",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
