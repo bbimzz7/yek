@@ -2654,5 +2654,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-56BC62-40A2D4-F6E174": {
+    "expires": "2026-11-28T00:34:59.985Z",
+    "hwid": "11001989430-e5865cc2-1652-41f2-abe0-5d93a4a77e04",
+    "browserHwid": null,
+    "username": "Acusations_444",
+    "userId": "11001989430",
+    "source": "script",
+    "createdAt": "2026-11-27T00:35:00.327Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "24.229.119.126",
+      "city": "Bethlehem",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
