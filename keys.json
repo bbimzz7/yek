@@ -2606,5 +2606,22 @@
       "country": "Kazakhstan",
       "cc": "KZ"
     }
+  },
+  "VH-0D9FF0-58EB9C-713420": {
+    "expires": "2026-11-28T00:07:36.426Z",
+    "hwid": "10065796298-7b6f789f-cbe1-4a84-8627-6819124ad761",
+    "browserHwid": null,
+    "username": "1D4RK74",
+    "userId": "10065796298",
+    "source": "script",
+    "createdAt": "2026-11-27T00:07:37.020Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "143.44.193.175",
+      "city": "Cagayan de Oro",
+      "region": "Northern Mindanao",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
