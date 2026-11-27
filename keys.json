@@ -2774,5 +2774,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-3E2436-4F59DD-2B1002": {
+    "expires": "2026-11-28T09:16:24.195Z",
+    "hwid": "11783260988-83cbfc4b-d95b-480f-b0b4-4cc4eeeba4f0",
+    "browserHwid": null,
+    "username": "Rojetley30",
+    "userId": "11783260988",
+    "source": "script",
+    "createdAt": "2026-11-27T09:16:24.651Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "175.176.61.108",
+      "city": "Batangas",
+      "region": "Calabarzon",
+      "country": "Philippines",
+      "cc": "PH"
+    }
   }
 }
