@@ -2663,8 +2663,15 @@
     "userId": "11001989430",
     "source": "script",
     "createdAt": "2026-11-27T00:35:00.327Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-27T00:35:10.028Z",
     "geo": {
+      "ip": "24.229.119.126",
+      "city": "Bethlehem",
+      "region": "Pennsylvania",
+      "country": "United States",
+      "cc": "US"
+    },
+    "lastGeo": {
       "ip": "24.229.119.126",
       "city": "Bethlehem",
       "region": "Pennsylvania",
