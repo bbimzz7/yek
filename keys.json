@@ -2678,5 +2678,22 @@
       "country": "United States",
       "cc": "US"
     }
+  },
+  "VH-14556A-243B69-960787": {
+    "expires": "2026-11-28T01:21:50.413Z",
+    "hwid": "8938107904-b37eb49d-2f3b-448c-b314-a26ea7ad1e2f",
+    "browserHwid": null,
+    "username": "Lilbrohappy67",
+    "userId": "8938107904",
+    "source": "script",
+    "createdAt": "2026-11-27T01:21:50.874Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "149.120.34.248",
+      "city": "St. Petersburg",
+      "region": "Florida",
+      "country": "United States",
+      "cc": "US"
+    }
   }
 }
