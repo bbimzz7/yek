@@ -2798,5 +2798,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-79D127-B23463-6ECB49": {
+    "expires": "2026-11-28T10:28:39.141Z",
+    "hwid": "11290339575-d8ee8934-8cda-4dbd-842e-dde070f890e1",
+    "browserHwid": null,
+    "username": "Twistex_Hero",
+    "userId": "11290339575",
+    "source": "script",
+    "createdAt": "2026-11-27T10:28:39.637Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "9.154.238.4",
+      "city": "Bandung",
+      "region": "West Java",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
