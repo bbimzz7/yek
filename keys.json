@@ -2894,5 +2894,22 @@
       "country": "Philippines",
       "cc": "PH"
     }
+  },
+  "VH-7D84C7-CF9B04-7252B8": {
+    "expires": "2026-11-29T10:49:49.227Z",
+    "hwid": "9746809559-7e0ba3cc-4b37-4bac-b910-e0fdb6dd4d9d",
+    "browserHwid": null,
+    "username": "roblox_user_9746809559",
+    "userId": "9746809559",
+    "source": "script",
+    "createdAt": "2026-11-28T10:49:49.716Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "103.130.18.43",
+      "city": "North Jakarta",
+      "region": "Jakarta",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
