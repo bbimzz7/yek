@@ -2855,8 +2855,15 @@
     "userId": "11062449800",
     "source": "script",
     "createdAt": "2026-11-28T01:37:48.300Z",
-    "lastUsed": null,
+    "lastUsed": "2026-11-28T01:37:55.743Z",
     "geo": {
+      "ip": "125.162.247.12",
+      "city": "Mapurujaya",
+      "region": "Central Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    },
+    "lastGeo": {
       "ip": "125.162.247.12",
       "city": "Mapurujaya",
       "region": "Central Papua",
