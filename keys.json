@@ -2846,5 +2846,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-BF447A-70F2CE-332E5D": {
+    "expires": "2026-11-29T01:37:47.782Z",
+    "hwid": "11062449800-ddb7737f-492c-4aa1-a10b-5c14e0e2cc61",
+    "browserHwid": null,
+    "username": "Saii_XV3",
+    "userId": "11062449800",
+    "source": "script",
+    "createdAt": "2026-11-28T01:37:48.300Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "125.162.247.12",
+      "city": "Mapurujaya",
+      "region": "Central Papua",
+      "country": "Indonesia",
+      "cc": "ID"
+    }
   }
 }
