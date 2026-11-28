@@ -2918,5 +2918,22 @@
       "country": "Indonesia",
       "cc": "ID"
     }
+  },
+  "VH-12F37C-51D8B2-070758": {
+    "expires": "2026-11-29T11:12:51.417Z",
+    "hwid": "2313565087-441908f5-d653-400f-ae7d-5721d578c716",
+    "browserHwid": null,
+    "username": "Sodjbeiddh",
+    "userId": "2313565087",
+    "source": "script",
+    "createdAt": "2026-11-28T11:12:51.864Z",
+    "lastUsed": null,
+    "geo": {
+      "ip": "5.34.108.131",
+      "city": "Karaganda",
+      "region": "Karaganda",
+      "country": "Kazakhstan",
+      "cc": "KZ"
+    }
   }
 }
